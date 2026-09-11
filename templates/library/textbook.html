@@ -42,7 +42,7 @@
 
       <div style="display:flex; gap:12px; flex-wrap:wrap;">
         <a href="{% url 'study:setup' %}?textbook={{ textbook.pk }}" class="btn btn-primary" style="flex:1; justify-content:center;">
-          ⏱ Study This
+          <i data-lucide="clock"></i> Study This
         </a>
         {% if textbook.pdf_file %}
         <a href="{{ textbook.pdf_file.url }}" class="btn btn-secondary" target="_blank">

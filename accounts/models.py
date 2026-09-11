@@ -11,6 +11,12 @@ THEME_CHOICES = [
     ('mocha', '☕ Mocha'),
 ]
 
+FONT_CHOICES = [
+    ('sans', 'Inter (Modern)'),
+    ('serif', 'Playfair (Elegant)'),
+    ('times', 'Times New Roman (Classic)'),
+]
+
 GRADE_CHOICES = [
     ('9', 'Grade 9'),
     ('10', 'Grade 10'),
@@ -23,6 +29,7 @@ GRADE_CHOICES = [
 class UserProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE, related_name='profile')
     theme = models.CharField(max_length=20, choices=THEME_CHOICES, default='midnight')
+    font_preference = models.CharField(max_length=20, choices=FONT_CHOICES, default='sans')
     grade_level = models.CharField(max_length=20, choices=GRADE_CHOICES, default='9')
     display_name = models.CharField(max_length=100, blank=True)
     bio = models.TextField(blank=True)

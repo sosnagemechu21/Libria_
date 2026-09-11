@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils import timezone
 from django.contrib.auth.models import User
 from library.models import Textbook, Chapter
 
@@ -38,6 +39,8 @@ class BreakSession(models.Model):
                                       related_name='breaks')
     planned_duration = models.IntegerField(default=5, help_text='Break duration in minutes')
     actual_duration = models.IntegerField(default=0, help_text='Actual seconds on break')
+    overrun = models.BooleanField(default=False)
+    overrun_minutes = models.FloatField(default=0.0)
     started_at = models.DateTimeField(auto_now_add=True)
     ended_at = models.DateTimeField(null=True, blank=True)
 
@@ -68,3 +71,88 @@ class YouTubeVideoWatch(models.Model):
 
     class Meta:
         ordering = ['-watched_at']
+
+# ==========================================
+# Focus Loop & Boundary Engine Integration
+# ==========================================
+
+class BoundaryEvent(models.Model):
+    EVENT_TYPES = [
+        ('YOUTUBE_ATTEMPT_FOCUS', 'YouTube Blocked During Focus 🔒'),
+        ('SHORTS_BLOCKED_BREAK', 'Shorts Intercepted During Break ❌'),
+        ('APP_BLOCKED_FOCUS', 'Protected App Blocked 🚫'),
+        ('BREAK_OVERRUN', 'Break Overrun ⚠️'),
+        ('LONG_VIDEO_WATCHED', 'Long Video Watched ✅'),
+        ('BREAK_COMPLETED', 'Break Completed On Time 🌿'),
+    ]
+
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='boundary_events')
+    study_session = models.ForeignKey(StudySession, on_delete=models.SET_NULL, null=True, blank=True)
+    event_type = models.CharField(max_length=40, choices=EVENT_TYPES)
+    app_name = models.CharField(max_length=60, default='YouTube')
+    target_url = models.CharField(max_length=500, blank=True)
+    timestamp = models.DateTimeField(default=timezone.now)
+    note = models.CharField(max_length=255, blank=True)
+    metadata = models.JSONField(default=dict, blank=True)
+
+    class Meta:
+        ordering = ['-timestamp']
+
+    def __str__(self):
+        return f"[{self.timestamp.strftime('%H:%M:%S')}] {self.get_event_type_display()} ({self.user.username})"
+
+
+class YouTubeChannel(models.Model):
+    name = models.CharField(max_length=150)
+    handle = models.CharField(max_length=100, blank=True, null=True, unique=True)
+    channel_id = models.CharField(max_length=80, blank=True, null=True, unique=True)
+    custom_url = models.CharField(max_length=255, blank=True, null=True)
+    avatar_url = models.URLField(blank=True, default='')
+    description = models.TextField(blank=True, default='')
+    subscriber_count = models.CharField(max_length=50, blank=True, default='')
+    video_count = models.IntegerField(default=0)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        ordering = ['-created_at']
+
+    def __str__(self):
+        return f"{self.name} ({self.handle or self.channel_id or 'No Handle'})"
+
+
+class CuratedVideo(models.Model):
+    channel_ref = models.ForeignKey(
+        YouTubeChannel,
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True,
+        related_name='videos'
+    )
+    title = models.CharField(max_length=255)
+    channel = models.CharField(max_length=120)
+    duration_str = models.CharField(max_length=20, default="24m")
+    duration_minutes = models.IntegerField(default=24)
+    youtube_id = models.CharField(max_length=60)
+    category = models.CharField(max_length=60, default="Documentary")
+    description = models.TextField(blank=True)
+    thumbnail_url = models.URLField(blank=True)
+    is_saved = models.BooleanField(default=False)
+    watch_count = models.IntegerField(default=0)
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ['-is_saved', '-created_at']
+
+    def __str__(self):
+        return f"{self.title} ({self.channel})"
+
+
+class ProtectedApp(models.Model):
+    name = models.CharField(max_length=60, unique=True)
+    is_enabled = models.BooleanField(default=True)
+    special_rule = models.CharField(max_length=150, default="Blocked during focus")
+    icon = models.CharField(max_length=40, default="shield")
+
+    def __str__(self):
+        return f"{self.name} ({'Protected' if self.is_enabled else 'Off'})"

@@ -69,6 +69,7 @@ def profile(request):
     if request.method == 'POST':
         profile_obj.display_name = request.POST.get('display_name', '').strip()
         profile_obj.theme = request.POST.get('theme', 'midnight')
+        profile_obj.font_preference = request.POST.get('font_preference', 'sans')
         profile_obj.grade_level = request.POST.get('grade_level', '9')
         profile_obj.ai_provider = request.POST.get('ai_provider', 'gemini')
         profile_obj.ai_api_key = request.POST.get('ai_api_key', '').strip()

@@ -1,6 +1,6 @@
 {% load static %}
 <!DOCTYPE html>
-<html lang="en" data-theme="{{ current_theme }}">
+<html lang="en" data-theme="{{ current_theme }}" data-font="{{ current_font|default:'sans' }}">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -17,28 +17,27 @@
   {% if user.is_authenticated %}
   <!-- Sidebar Navigation -->
   <div class="sidebar" id="sidebar">
-    <div class="sidebar-logo">
-      <div class="logo-icon">📚</div>
-      <span class="logo-text">Libria</span>
-    </div>
+    <a href="{% url 'core:landing' %}" class="sidebar-logo">
+      <img src="{% static 'images/logo.png' %}" alt="Libria Logo" style="height: 36px; width: auto;" />
+    </a>
 
     <span class="nav-section-label">Study</span>
     <a href="{% url 'progress:dashboard' %}" class="nav-item {% if request.resolver_match.app_name == 'progress' %}active{% endif %}">
-      <span class="nav-icon">🏠</span> Dashboard
+      <span class="nav-icon"><i data-lucide="home"></i></span> Dashboard
     </a>
     <a href="{% url 'library:home' %}" class="nav-item {% if request.resolver_match.app_name == 'library' %}active{% endif %}">
       <span class="nav-icon">📖</span> Library
     </a>
     <a href="{% url 'study:setup' %}" class="nav-item {% if request.resolver_match.app_name == 'study' %}active{% endif %}">
-      <span class="nav-icon">⏱</span> Study Now
+      <span class="nav-icon"><i data-lucide="clock"></i></span> Study Now
     </a>
     <a href="{% url 'ai_assistant:home' %}" class="nav-item {% if request.resolver_match.app_name == 'ai_assistant' %}active{% endif %}">
-      <span class="nav-icon">🤖</span> AI Assistant
+      <span class="nav-icon"><i data-lucide="bot"></i></span> AI Assistant
     </a>
 
     <span class="nav-section-label">Account</span>
     <a href="{% url 'accounts:profile' %}" class="nav-item {% if request.resolver_match.url_name == 'profile' %}active{% endif %}">
-      <span class="nav-icon">👤</span> Profile
+      <span class="nav-icon"><i data-lucide="user"></i></span> Profile
     </a>
     <a href="{% url 'accounts:logout' %}" class="nav-item">
       <span class="nav-icon">🚪</span> Sign Out
@@ -58,7 +57,7 @@
         </div>
       </div>
       <div class="nav-item text-sm" style="cursor:default;">
-        <span class="nav-icon">👤</span>
+        <span class="nav-icon"><i data-lucide="user"></i></span>
         <span class="text-muted">{{ user.profile.get_display_name }}</span>
       </div>
     </div>
@@ -99,5 +98,7 @@
       setTimeout(() => el.remove(), 3500);
     }
   </script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script>lucide.createIcons();</script>
 </body>
 </html>

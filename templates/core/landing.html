@@ -1,17 +1,23 @@
 {% load static %}
 <!DOCTYPE html>
 <html lang="en" data-theme="{{ current_theme }}">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Libria — Your Personal Study Space</title>
-  <meta name="description" content="Libria transforms textbooks into an interactive study environment. Study from day one, not just summaries." />
+  <meta name="description"
+    content="Libria transforms textbooks into an interactive study environment. Study from day one, not just summaries." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap"
+    rel="stylesheet" />
   <link rel="stylesheet" href="{% static 'css/themes.css' %}" />
   <link rel="stylesheet" href="{% static 'css/main.css' %}" />
   <style>
-    body { overflow-x: hidden; }
+    body {
+      overflow-x: hidden;
+    }
 
     /* Hero */
     .hero {
@@ -26,8 +32,10 @@
     .hero::before {
       content: '';
       position: absolute;
-      top: -200px; right: -200px;
-      width: 600px; height: 600px;
+      top: -200px;
+      right: -200px;
+      width: 600px;
+      height: 600px;
       background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
       pointer-events: none;
     }
@@ -35,24 +43,28 @@
     .hero::after {
       content: '';
       position: absolute;
-      bottom: -150px; left: -150px;
-      width: 400px; height: 400px;
+      bottom: -150px;
+      left: -150px;
+      width: 400px;
+      height: 400px;
       background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
       pointer-events: none;
     }
 
     .hero-inner {
-      max-width: 1100px;
+      max-width: 800px;
       margin: 0 auto;
       padding: 80px 40px;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 60px;
+      display: flex;
+      flex-direction: column;
       align-items: center;
+      text-align: center;
     }
 
     .hero-badge {
-      display: inline-flex; align-items: center; gap: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
       padding: 6px 16px;
       background: var(--accent-glow);
       border: 1px solid var(--border-accent);
@@ -81,13 +93,16 @@
       color: var(--text-muted);
       line-height: 1.7;
       margin-bottom: 36px;
-      max-width: 480px;
+      max-width: 580px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .hero-cta {
       display: flex;
       gap: 16px;
       align-items: center;
+      justify-content: center;
       flex-wrap: wrap;
     }
 
@@ -120,7 +135,11 @@
       gap: 8px;
     }
 
-    .mock-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .mock-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
 
     .mock-body {
       padding: 20px;
@@ -136,14 +155,20 @@
     }
 
     .mock-nav-item {
-      width: 40px; height: 40px;
+      width: 40px;
+      height: 40px;
       border-radius: 10px;
       background: var(--bg-secondary);
     }
 
-    .mock-nav-item.active { background: var(--accent); opacity: 0.7; }
+    .mock-nav-item.active {
+      background: var(--accent);
+      opacity: 0.7;
+    }
 
-    .mock-content { flex: 1; }
+    .mock-content {
+      flex: 1;
+    }
 
     .mock-line {
       height: 8px;
@@ -152,11 +177,19 @@
       margin-bottom: 10px;
     }
 
-    .mock-line.short { width: 60%; }
-    .mock-line.medium { width: 80%; }
+    .mock-line.short {
+      width: 60%;
+    }
+
+    .mock-line.medium {
+      width: 80%;
+    }
 
     .mock-cards {
-      display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 16px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      margin-top: 16px;
     }
 
     .mock-card {
@@ -201,8 +234,14 @@
       border: 2px solid transparent;
     }
 
-    .theme-card:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
-    .theme-card.selected { border-color: var(--accent); }
+    .theme-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    }
+
+    .theme-card.selected {
+      border-color: var(--accent);
+    }
 
     .theme-preview {
       height: 120px;
@@ -218,8 +257,17 @@
       border-top: 1px solid var(--border);
     }
 
-    .theme-name { font-weight: 700; font-size: 15px; color: var(--text); }
-    .theme-vibe { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+    .theme-name {
+      font-weight: 700;
+      font-size: 15px;
+      color: var(--text);
+    }
+
+    .theme-vibe {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
 
     /* Features */
     .features-section {
@@ -264,7 +312,9 @@
     /* Nav bar */
     .landing-nav {
       position: fixed;
-      top: 0; left: 0; right: 0;
+      top: 0;
+      left: 0;
+      right: 0;
       z-index: 200;
       padding: 16px 40px;
       display: flex;
@@ -276,7 +326,9 @@
     }
 
     .landing-logo {
-      display: flex; align-items: center; gap: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
       font-family: 'Playfair Display', serif;
       font-size: 22px;
       font-weight: 700;
@@ -284,37 +336,56 @@
     }
 
     .landing-logo .logo-icon {
-      width: 34px; height: 34px;
+      width: 34px;
+      height: 34px;
       background: var(--accent);
       border-radius: 9px;
-      display: flex; align-items: center; justify-content: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       font-size: 16px;
     }
 
     .theme-landing-dots {
-      display: flex; gap: 8px; align-items: center;
+      display: flex;
+      gap: 8px;
+      align-items: center;
     }
 
     @media (max-width: 768px) {
-      .hero-inner { grid-template-columns: 1fr; gap: 40px; }
-      .hero-visual { display: none; }
-      .theme-grid { grid-template-columns: repeat(2, 1fr); }
-      .features-section .grid-3 { grid-template-columns: 1fr; }
+      .hero-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+
+      .hero-visual {
+        display: none;
+      }
+
+      .theme-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .features-section .grid-3 {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
+
 <body>
   <!-- Nav -->
   <nav class="landing-nav">
-    <div class="landing-logo">
-      <div class="logo-icon">📚</div>
-      Libria
-    </div>
+    <a href="{% url 'core:landing' %}" style="text-decoration:none;">
+      <div class="landing-logo">
+        <img src="{% static 'images/logo.png' %}" alt="Libria Logo" style="height: 48px; width: auto;" />
+      </div>
+    </a>
     <div style="display:flex; align-items:center; gap:20px;">
       <div class="theme-landing-dots">
         {% for key, label, bg1, bg2 in theme_previews %}
         <div class="theme-dot" data-theme-target="{{ key }}" title="{{ label }}"
-             style="background:linear-gradient(135deg,{{ bg1 }},{{ bg2 }})"
+             style="--b1:{{ bg1 }};--b2:{{ bg2 }};background:linear-gradient(135deg,var(--b1),var(--b2))"
              onclick="switchTheme('{{ key }}')"></div>
         {% endfor %}
       </div>
@@ -328,7 +399,7 @@
     <div class="hero-inner">
       <div class="animate-fadeInUp">
         <div class="hero-badge">
-          🇪🇹 Built for Ethiopian Students
+          Built for Ethiopian Students
         </div>
         <h1 class="hero-title">
           Your personal<br />
@@ -336,49 +407,20 @@
           to study, not skim.
         </h1>
         <p class="hero-desc">
-          Libria is not about summaries. It's about studying from <strong>day one</strong> — with
+          Libria is not about summaries. It's about studying from <strong>day one</strong> with
           your own AI companion, focus sessions, Grade 9–12 textbooks, and a space that
           adapts to how <em>you</em> learn.
         </p>
         <div class="hero-cta">
           <a href="{% url 'accounts:register' %}" class="btn btn-primary btn-lg">
-            📚 Start Studying Free
+            <i data-lucide="book-open"></i> Start Studying Free
           </a>
           <a href="{% url 'accounts:login' %}" class="btn btn-secondary btn-lg">
             Sign In
           </a>
         </div>
-        <p class="hero-note">✓ Free to use · ✓ Ethiopian curriculum · ✓ 6 study atmospheres</p>
-      </div>
-
-      <!-- Mock App Visual -->
-      <div class="hero-visual animate-fadeInUp" style="animation-delay:0.2s">
-        <div class="mock-app">
-          <div class="mock-header">
-            <div class="mock-dot" style="background:#FF5F57"></div>
-            <div class="mock-dot" style="background:#FEBC2E"></div>
-            <div class="mock-dot" style="background:#28C840"></div>
-            <span style="margin-left:12px; font-size:12px; color:var(--text-muted)">Libria Study Space</span>
-          </div>
-          <div class="mock-body">
-            <div class="mock-sidebar-mini">
-              <div class="mock-nav-item active"></div>
-              <div class="mock-nav-item"></div>
-              <div class="mock-nav-item"></div>
-              <div class="mock-nav-item"></div>
-            </div>
-            <div class="mock-content">
-              <div class="mock-line medium"></div>
-              <div class="mock-line short"></div>
-              <div class="mock-cards">
-                <div class="mock-card"></div>
-                <div class="mock-card"></div>
-                <div class="mock-card"></div>
-                <div class="mock-card"></div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <p class="hero-note"><i data-lucide="check"></i> Free to use · <i data-lucide="check"></i> Ethiopian curriculum
+          · <i data-lucide="check"></i> 6 study atmospheres</p>
       </div>
     </div>
   </section>
@@ -390,28 +432,52 @@
       <p>Every student studies differently. Pick the vibe that keeps you focused.</p>
       <div class="theme-grid stagger-children">
         <div class="theme-card animate-fadeInUp" onclick="switchTheme('noir')">
-          <div class="theme-preview" style="background:linear-gradient(135deg,#fff,#f0f0f0)">🖤</div>
-          <div class="theme-info"><div class="theme-name">Noir</div><div class="theme-vibe">Clean · Minimal · Black & White</div></div>
+          <div class="theme-preview" style="background:linear-gradient(135deg,#fff,#f0f0f0)"><i data-lucide="moon"></i>
+          </div>
+          <div class="theme-info">
+            <div class="theme-name">Noir</div>
+            <div class="theme-vibe">Clean · Minimal · Black & White</div>
+          </div>
         </div>
         <div class="theme-card animate-fadeInUp" onclick="switchTheme('forest')">
-          <div class="theme-preview" style="background:linear-gradient(135deg,#262D1A,#2E3820)">🌿</div>
-          <div class="theme-info"><div class="theme-name">Forest</div><div class="theme-vibe">Cozy · Earthy · Dark Greens</div></div>
+          <div class="theme-preview" style="background:linear-gradient(135deg,#262D1A,#2E3820)"><i
+              data-lucide="leaf"></i></div>
+          <div class="theme-info">
+            <div class="theme-name">Forest</div>
+            <div class="theme-vibe">Cozy · Earthy · Dark Greens</div>
+          </div>
         </div>
         <div class="theme-card animate-fadeInUp" onclick="switchTheme('paper')">
-          <div class="theme-preview" style="background:linear-gradient(135deg,#F4EDE1,#EDE4D5)">📜</div>
-          <div class="theme-info"><div class="theme-name">Paper</div><div class="theme-vibe">Old Library · Warm · Bookish</div></div>
+          <div class="theme-preview" style="background:linear-gradient(135deg,#F4EDE1,#EDE4D5)"><i
+              data-lucide="scroll"></i></div>
+          <div class="theme-info">
+            <div class="theme-name">Paper</div>
+            <div class="theme-vibe">Old Library · Warm · Bookish</div>
+          </div>
         </div>
         <div class="theme-card animate-fadeInUp" onclick="switchTheme('midnight')">
-          <div class="theme-preview" style="background:linear-gradient(135deg,#111827,#1F2937)">🌌</div>
-          <div class="theme-info"><div class="theme-name">Midnight</div><div class="theme-vibe">Calm · Focused · Deep Blue</div></div>
+          <div class="theme-preview" style="background:linear-gradient(135deg,#111827,#1F2937)"><i
+              data-lucide="stars"></i></div>
+          <div class="theme-info">
+            <div class="theme-name">Midnight</div>
+            <div class="theme-vibe">Calm · Focused · Deep Blue</div>
+          </div>
         </div>
         <div class="theme-card animate-fadeInUp" onclick="switchTheme('blush')">
-          <div class="theme-preview" style="background:linear-gradient(135deg,#F7E8E8,#F0DADA)">🌸</div>
-          <div class="theme-info"><div class="theme-name">Blush</div><div class="theme-vibe">Soft · Warm · Gentle</div></div>
+          <div class="theme-preview" style="background:linear-gradient(135deg,#F7E8E8,#F0DADA)"><i
+              data-lucide="flower"></i></div>
+          <div class="theme-info">
+            <div class="theme-name">Blush</div>
+            <div class="theme-vibe">Soft · Warm · Gentle</div>
+          </div>
         </div>
         <div class="theme-card animate-fadeInUp" onclick="switchTheme('mocha')">
-          <div class="theme-preview" style="background:linear-gradient(135deg,#E8DDD0,#DDD0C0)">☕</div>
-          <div class="theme-info"><div class="theme-name">Mocha</div><div class="theme-vibe">Café Warmth · Study · Brown</div></div>
+          <div class="theme-preview" style="background:linear-gradient(135deg,#E8DDD0,#DDD0C0)"><i
+              data-lucide="coffee"></i></div>
+          <div class="theme-info">
+            <div class="theme-name">Mocha</div>
+            <div class="theme-vibe">Café Warmth · Study · Brown</div>
+          </div>
         </div>
       </div>
     </div>
@@ -427,34 +493,40 @@
     </p>
     <div class="grid-3 stagger-children">
       <div class="feature-card animate-fadeInUp">
-        <span class="feature-icon">📚</span>
+        <span class="feature-icon"><i data-lucide="book-open"></i></span>
         <div class="feature-title">Grade 9–12 Library</div>
-        <p class="feature-desc">All Ethiopian Ministry of Education textbooks — new and old curriculum — organized by grade and subject. Your books, always ready.</p>
+        <p class="feature-desc">All Ethiopian Ministry of Education textbooks — new and old curriculum — organized by
+          grade and subject. Your books, always ready.</p>
       </div>
       <div class="feature-card animate-fadeInUp">
-        <span class="feature-icon">⏱</span>
+        <span class="feature-icon"><i data-lucide="clock"></i></span>
         <div class="feature-title">Focused Study Sessions</div>
-        <p class="feature-desc">Choose a textbook, set a timer, and enter distraction-free focus mode. Study like you mean it — then take a proper break.</p>
+        <p class="feature-desc">Choose a textbook, set a timer, and enter distraction-free focus mode. Study like you
+          mean it — then take a proper break.</p>
       </div>
       <div class="feature-card animate-fadeInUp">
-        <span class="feature-icon">🤖</span>
+        <span class="feature-icon"><i data-lucide="bot"></i></span>
         <div class="feature-title">AI Study Companion</div>
-        <p class="feature-desc">Ask questions about what you're studying. The AI explains, hints, and guides — it won't just give you the answer. You have to think.</p>
+        <p class="feature-desc">Ask questions about what you're studying. The AI explains, hints, and guides — it won't
+          just give you the answer. You have to think.</p>
       </div>
       <div class="feature-card animate-fadeInUp">
-        <span class="feature-icon">🎥</span>
+        <span class="feature-icon"><i data-lucide="video"></i></span>
         <div class="feature-title">Curated YouTube Learning</div>
-        <p class="feature-desc">Watch educational videos during study (AI-filtered, subject-matched). During break, watch freely — but no Shorts. Protect your attention.</p>
+        <p class="feature-desc">Watch educational videos during study (AI-filtered, subject-matched). During break,
+          watch freely — but no Shorts. Protect your attention.</p>
       </div>
       <div class="feature-card animate-fadeInUp">
-        <span class="feature-icon">📈</span>
+        <span class="feature-icon"><i data-lucide="trending-up"></i></span>
         <div class="feature-title">Progress Tracking</div>
-        <p class="feature-desc">See your study streaks, subject strengths, weekly goals, and where you need more work. Know your own habits.</p>
+        <p class="feature-desc">See your study streaks, subject strengths, weekly goals, and where you need more work.
+          Know your own habits.</p>
       </div>
       <div class="feature-card animate-fadeInUp">
-        <span class="feature-icon">🎨</span>
+        <span class="feature-icon"><i data-lucide="palette"></i></span>
         <div class="feature-title">6 Study Atmospheres</div>
-        <p class="feature-desc">Switch your theme instantly — Noir, Forest, Paper, Midnight, Blush, or Mocha. Make this space feel like yours.</p>
+        <p class="feature-desc">Switch your theme instantly — Noir, Forest, Paper, Midnight, Blush, or Mocha. Make this
+          space feel like yours.</p>
       </div>
     </div>
   </section>
@@ -462,12 +534,13 @@
   <!-- CTA -->
   <section style="background: var(--bg-secondary); padding: 80px 40px; text-align:center;">
     <h2 style="font-size:40px; margin-bottom:16px; color:var(--text)">Ready to actually study?</h2>
-    <p style="color:var(--text-muted); font-size:17px; margin-bottom:36px; max-width:500px; margin-left:auto; margin-right:auto;">
+    <p
+      style="color:var(--text-muted); font-size:17px; margin-bottom:36px; max-width:500px; margin-left:auto; margin-right:auto;">
       Open your textbook. Set your timer. Ask questions. Track your progress.<br>
       This is what studying from <em>day one</em> looks like.
     </p>
     <a href="{% url 'accounts:register' %}" class="btn btn-primary btn-lg" style="animation: pulse-glow 2s infinite;">
-      🚀 Create Your Study Space — Free
+      <i data-lucide="rocket"></i> Create Your Study Space — Free
     </a>
   </section>
 
@@ -485,4 +558,5 @@
     });
   </script>
 </body>
+
 </html>

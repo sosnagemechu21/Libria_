@@ -53,12 +53,12 @@
   <!-- Sidebar -->
   <div class="chat-sidebar">
     <div class="chat-sidebar-header">
-      <div class="logo">📚 Libria</div>
+      <div class="logo"><i data-lucide="book-open"></i> Libria</div>
       <div style="font-size:11px;color:var(--text-faint);margin-top:2px;">AI Study Assistant</div>
     </div>
     <div class="chat-sidebar-nav">
-      <a href="{% url 'progress:dashboard' %}" class="chat-nav-item">🏠 Dashboard</a>
-      <a href="{% url 'library:home' %}" class="chat-nav-item">📚 Library</a>
+      <a href="{% url 'progress:dashboard' %}" class="chat-nav-item"><i data-lucide="home"></i> Dashboard</a>
+      <a href="{% url 'library:home' %}" class="chat-nav-item"><i data-lucide="book-open"></i> Library</a>
       <a href="{% url 'ai_assistant:new' %}" class="chat-nav-item" style="background:var(--accent-glow);color:var(--accent);">+ New Chat</a>
       <div style="margin-top:16px;margin-bottom:8px;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--text-faint);padding:0 12px;">Recent Chats</div>
     </div>
@@ -75,7 +75,7 @@
   <div class="chat-main">
     <div class="chat-header">
       <div class="chat-subject-icon">
-        {% if conversation.textbook %}{{ conversation.textbook.subject.icon }}{% else %}🤖{% endif %}
+        {% if conversation.textbook %}{{ conversation.textbook.subject.icon }}{% else %}<i data-lucide="bot"></i>{% endif %}
       </div>
       <div>
         <div class="chat-title">{{ conversation.title }}</div>
@@ -88,10 +88,10 @@
     <div class="chat-messages" id="chatMessages">
       <!-- Welcome message -->
       <div class="msg assistant">
-        <div class="msg-avatar">🤖</div>
+        <div class="msg-avatar"><i data-lucide="bot"></i></div>
         <div>
           <div class="msg-bubble">
-            👋 Hi {{ user.profile.get_display_name }}! I'm your Libria study companion.<br><br>
+            <i data-lucide="hand"></i> Hi {{ user.profile.get_display_name }}! I'm your Libria study companion.<br><br>
             {% if conversation.textbook %}
             I'm here to help you study <strong>{{ conversation.textbook.subject.name }}</strong>.
             Ask me to explain a concept, work through a problem, or quiz you on what you've read.
@@ -99,7 +99,7 @@
             Ask me anything about your studies — concepts, formulas, problems, or explanations.
             {% endif %}
             <br><br>
-            <em style="font-size:12px;opacity:0.8;">💡 I guide your thinking, I don't just give answers.</em>
+            <em style="font-size:12px;opacity:0.8;"><i data-lucide="lightbulb"></i> I guide your thinking, I don't just give answers.</em>
           </div>
         </div>
       </div>
@@ -107,7 +107,7 @@
       <!-- Existing messages -->
       {% for msg in messages %}
       <div class="msg {{ msg.role }}">
-        <div class="msg-avatar">{% if msg.role == 'user' %}👤{% else %}🤖{% endif %}</div>
+        <div class="msg-avatar">{% if msg.role == 'user' %}<i data-lucide="user"></i>{% else %}<i data-lucide="bot"></i>{% endif %}</div>
         <div>
           <div class="msg-bubble">{{ msg.content|linebreaksbr }}</div>
           <div class="msg-time">{{ msg.timestamp|date:"H:i" }}</div>
@@ -117,7 +117,7 @@
 
       <!-- Typing indicator -->
       <div class="msg assistant typing-indicator" id="typingIndicator">
-        <div class="msg-avatar">🤖</div>
+        <div class="msg-avatar"><i data-lucide="bot"></i></div>
         <div class="msg-bubble">
           <div class="typing-dot"></div>
           <div class="typing-dot"></div>
@@ -194,7 +194,7 @@ function appendMessage(role, content, time) {
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
     .replace(/\n/g, '<br>');
   div.innerHTML = `
-    <div class="msg-avatar">${role === 'user' ? '👤' : '🤖'}</div>
+    <div class="msg-avatar">${role === 'user' ? '<i data-lucide="user"></i>' : '<i data-lucide="bot"></i>'}</div>
     <div>
       <div class="msg-bubble">${formatted}</div>
       <div class="msg-time">${time}</div>

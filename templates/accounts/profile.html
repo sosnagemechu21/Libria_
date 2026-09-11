@@ -3,7 +3,7 @@
 {% block content %}
 <div class="topbar">
   <div>
-    <div class="topbar-title">👤 Profile & Settings</div>
+    <div class="topbar-title"><i data-lucide="user"></i> Profile & Settings</div>
     <div class="topbar-subtitle">Customize your study space and configure AI.</div>
   </div>
 </div>
@@ -31,7 +31,7 @@
             <option value="10" {% if profile.grade_level == '10' %}selected{% endif %}>Grade 10</option>
             <option value="11" {% if profile.grade_level == '11' %}selected{% endif %}>Grade 11</option>
             <option value="12" {% if profile.grade_level == '12' %}selected{% endif %}>Grade 12</option>
-            <option value="university" {% if profile.grade_level == 'university' %}selected{% endif %}>🎓 University / Freshman</option>
+            <option value="university" {% if profile.grade_level == 'university' %}selected{% endif %}><i data-lucide="graduation-cap"></i> University / Freshman</option>
           </select>
         </div>
         <div class="form-group">
@@ -42,20 +42,32 @@
 
       <!-- Theme Chooser -->
       <div class="card animate-fadeInUp">
-        <div class="card-header"><div class="font-bold">🎨 Study Atmosphere</div></div>
+        <div class="card-header"><div class="font-bold"><i data-lucide="palette"></i> Study Atmosphere</div></div>
         <input type="hidden" name="theme" id="profileTheme" value="{{ profile.theme }}" />
         <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:12px;">
           {% for key, label, bg1, bg2 in theme_previews %}
           <div class="atm-card {% if profile.theme == key %}selected{% endif %}"
                onclick="selectProfileTheme('{{ key }}')"
                style="border-radius:12px;overflow:hidden;cursor:pointer;border:2px solid var(--border);transition:all 0.25s;position:relative;">
-            <div style="height:60px;display:flex;align-items:center;justify-content:center;font-size:22px;background:linear-gradient(135deg,{{ bg1 }},{{ bg2 }});">
+            <div style="--b1:{{ bg1 }};--b2:{{ bg2 }};height:60px;display:flex;align-items:center;justify-content:center;font-size:22px;background:linear-gradient(135deg,var(--b1),var(--b2));">
               {{ label|slice:":2" }}
             </div>
             <div style="padding:8px;background:var(--bg-card);font-size:12px;font-weight:600;color:var(--text);">{{ label|slice:"3:" }}</div>
-            <div style="position:absolute;top:6px;right:6px;width:18px;height:18px;border-radius:50%;background:var(--accent);color:#fff;font-size:10px;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity 0.2s;" class="atm-check">✓</div>
+            <div style="position:absolute;top:6px;right:6px;width:18px;height:18px;border-radius:50%;background:var(--accent);color:#fff;font-size:10px;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity 0.2s;" class="atm-check"><i data-lucide="check"></i></div>
           </div>
           {% endfor %}
+        </div>
+      </div>
+
+      <!-- Font Chooser -->
+      <div class="card animate-fadeInUp mt-20" style="margin-top:20px;">
+        <div class="card-header"><div class="font-bold"><i data-lucide="type"></i> Typography Style</div></div>
+        <div class="form-group mb-0">
+          <select class="form-control" name="font_preference" onchange="document.documentElement.setAttribute('data-font', this.value);">
+            {% for val, label in font_previews %}
+            <option value="{{ val }}" {% if profile.font_preference == val %}selected{% endif %}>{{ label }}</option>
+            {% endfor %}
+          </select>
         </div>
       </div>
     </div>
@@ -64,7 +76,7 @@
     <div>
       <div class="card mb-20 animate-fadeInUp" style="border:2px solid var(--border-accent);">
         <div class="card-header">
-          <div class="font-bold">🤖 AI Study Companion</div>
+          <div class="font-bold"><i data-lucide="bot"></i> AI Study Companion</div>
           <span class="badge">Configure</span>
         </div>
         <p class="text-sm text-muted" style="margin-bottom:20px; line-height:1.6;">
@@ -103,7 +115,7 @@
 
       <!-- YouTube API -->
       <div class="card animate-fadeInUp">
-        <div class="card-header"><div class="font-bold">🎥 YouTube API</div></div>
+        <div class="card-header"><div class="font-bold"><i data-lucide="video"></i> YouTube API</div></div>
         <p class="text-sm text-muted" style="margin-bottom:12px;">
           For the YouTube study video search to work, add a YouTube Data API v3 key to your <code>.env</code> file as <code>YOUTUBE_API_KEY</code>.
         </p>
@@ -115,7 +127,7 @@
   </div>
 
   <div style="margin-top:24px; text-align:right;">
-    <button type="submit" class="btn btn-primary btn-lg">💾 Save Changes</button>
+    <button type="submit" class="btn btn-primary btn-lg"><i data-lucide="save"></i> Save Changes</button>
   </div>
 </form>
 

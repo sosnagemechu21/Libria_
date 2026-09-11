@@ -378,9 +378,9 @@
       <a href="{% url 'progress:dashboard' %}" class="music-btn" title="Exit session">✕</a>
     </div>
 
-    <!-- 🎵 Music -->
+    <!-- <i data-lucide="music"></i> Music -->
     <div class="sidebar-section">
-      <div class="sidebar-section-label">🎵 Music</div>
+      <div class="sidebar-section-label"><i data-lucide="music"></i> Music</div>
       <div class="music-player">
         <select class="music-select" id="musicGenre" onchange="loadMusic()">
           <option value="">— No Music —</option>
@@ -391,16 +391,16 @@
           <option value="jazz">Jazz Study</option>
         </select>
         <div class="music-controls">
-          <button class="music-btn" id="playBtn" onclick="toggleMusic()">▶</button>
+          <button class="music-btn" id="playBtn" onclick="toggleMusic()"><i data-lucide="play"></i></button>
           <input type="range" class="volume-slider" id="volSlider" min="0" max="1" step="0.05" value="0.5" oninput="setVolume(this.value)" />
           <span style="font-size:11px; color:var(--text-faint);" id="volLabel">50%</span>
         </div>
       </div>
     </div>
 
-    <!-- 🎨 Background/Theme -->
+    <!-- <i data-lucide="palette"></i> Background/Theme -->
     <div class="sidebar-section">
-      <div class="sidebar-section-label">🎨 Atmosphere</div>
+      <div class="sidebar-section-label"><i data-lucide="palette"></i> Atmosphere</div>
       <div class="bg-grid">
         {% for key, name in themes %}
         <div class="bg-dot theme-dot {% if current_theme == key %}active{% endif %}"
@@ -411,23 +411,23 @@
       </div>
     </div>
 
-    <!-- 📝 Notes -->
+    <!-- <i data-lucide="notebook-pen"></i> Notes -->
     <div class="sidebar-section" style="flex:1;">
-      <div class="sidebar-section-label">📝 Notes</div>
+      <div class="sidebar-section-label"><i data-lucide="notebook-pen"></i> Notes</div>
       <textarea class="notes-area" id="sessionNotes" placeholder="Jot down key ideas, formulas, or questions as you study...">{{ session.notes }}</textarea>
       <button class="music-btn" style="margin-top:8px; width:100%;" onclick="saveNotes()">Save Notes</button>
     </div>
 
-    <!-- 🎥 YouTube Study Companion -->
+    <!-- <i data-lucide="video"></i> YouTube Study Companion -->
     <div class="sidebar-section">
-      <div class="sidebar-section-label">🎥 Study Videos</div>
+      <div class="sidebar-section-label"><i data-lucide="video"></i> Study Videos</div>
       <p style="font-size:10px; color:var(--text-faint); margin-bottom:8px;">
         Educational only · No Shorts
       </p>
       <input type="text" class="yt-search-input" id="ytSearchInput"
              placeholder="Search: {{ session.textbook.subject.name }}..."
              onkeydown="if(event.key==='Enter') searchYouTube()" />
-      <button class="music-btn" style="width:100%; margin-bottom:8px;" onclick="searchYouTube()">🔍 Find Videos</button>
+      <button class="music-btn" style="width:100%; margin-bottom:8px;" onclick="searchYouTube()"><i data-lucide="search"></i> Find Videos</button>
       <div class="yt-results" id="ytResults"></div>
       <div class="yt-player-mini" id="ytPlayerMini">
         <div id="ytPlayer"></div>
@@ -449,7 +449,7 @@
       <div class="libria-tag">Libria Study Space</div>
       <div class="focus-topbar-actions">
         {% if session.textbook.pdf_file %}
-        <a href="{{ session.textbook.pdf_file.url }}" target="_blank" class="btn btn-secondary btn-sm">📄 Open in Tab</a>
+        <a href="{{ session.textbook.pdf_file.url }}" target="_blank" class="btn btn-secondary btn-sm"><i data-lucide="file-text"></i> Open in Tab</a>
         {% elif session.textbook.kehulum_url %}
         <a href="{{ session.textbook.kehulum_url }}" target="_blank" rel="noopener" class="btn btn-secondary btn-sm">🔗 View Book</a>
         {% endif %}
@@ -474,7 +474,7 @@
           </a>
           {% endif %}
           <div style="margin-top:24px; padding:16px; background:var(--bg-secondary); border-radius:12px; max-width:500px;">
-            <div class="text-sm font-bold" style="margin-bottom:8px;">📝 Study Notes</div>
+            <div class="text-sm font-bold" style="margin-bottom:8px;"><i data-lucide="notebook-pen"></i> Study Notes</div>
             <p class="text-xs text-muted">Use the notes panel on the left to write down key concepts, formulas, and questions as you read. Your notes are saved with this session.</p>
           </div>
         </div>
@@ -486,11 +486,11 @@
       <!-- Left: Focus timer + AI -->
       <div class="focus-bottombar-left">
         <button class="focus-action-btn" id="focusLoopBtn" onclick="toggleFocusTimer()">
-          <span class="icon">⏱</span>
+          <span class="icon"><i data-lucide="clock"></i></span>
           Focus Timer
         </button>
         <a href="{% url 'ai_assistant:new' %}?textbook={{ session.textbook.pk }}" class="focus-action-btn">
-          <span class="icon">🤖</span>
+          <span class="icon"><i data-lucide="bot"></i></span>
           AI Help
         </a>
         <button class="focus-action-btn" id="pauseBtn" onclick="togglePause()">
@@ -521,12 +521,12 @@
           {% csrf_token %}
           <input type="hidden" name="duration" value="5" />
           <button type="submit" class="focus-action-btn">
-            <span class="icon">☕</span>
+            <span class="icon"><i data-lucide="coffee"></i></span>
             Break 5min
           </button>
         </form>
         <button class="focus-action-btn" style="background:var(--danger); color:#fff; border-color:var(--danger);" onclick="openEndModal()">
-          <span class="icon">✓</span>
+          <span class="icon"><i data-lucide="check"></i></span>
           Done
         </button>
       </div>
@@ -546,7 +546,7 @@
       <textarea class="form-control" id="topicsCovered" rows="3" placeholder="e.g. Chapter 3 — Newton's laws, solved practice problems..."></textarea>
     </div>
     <div style="display:flex; gap:12px;">
-      <button class="btn btn-primary" style="flex:1;" onclick="endSession()">✓ Complete Session</button>
+      <button class="btn btn-primary" style="flex:1;" onclick="endSession()"><i data-lucide="check"></i> Complete Session</button>
       <button class="btn btn-secondary" onclick="closeEndModal()">Keep Studying</button>
     </div>
   </div>
@@ -594,7 +594,7 @@ function toggleFocusTimer() {
 
 function togglePause() {
   isPaused = !isPaused;
-  document.getElementById('pauseIcon').textContent = isPaused ? '▶' : '⏸';
+  document.getElementById('pauseIcon').textContent = isPaused ? '<i data-lucide="play"></i>' : '⏸';
   document.getElementById('pauseLabel').textContent = isPaused ? 'Resume' : 'Pause';
   document.getElementById('pauseBtn').classList.toggle('active', isPaused);
 }
@@ -694,7 +694,7 @@ function toggleMusic() {
 }
 
 function updatePlayBtn() {
-  document.getElementById('playBtn').textContent = musicPlaying ? '⏸' : '▶';
+  document.getElementById('playBtn').textContent = musicPlaying ? '⏸' : '<i data-lucide="play"></i>';
 }
 
 function setVolume(v) {

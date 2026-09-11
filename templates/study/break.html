@@ -74,7 +74,7 @@
   <!-- Header -->
   <div class="break-header">
     <div style="display:flex; align-items:center; gap:16px;">
-      <div class="break-badge">☕ Break Time</div>
+      <div class="break-badge"><i data-lucide="coffee"></i> Break Time</div>
       <span class="text-muted text-sm">Back to: {{ session.textbook.subject.name }}</span>
     </div>
     <div style="display:flex; align-items:center; gap:12px;">
@@ -92,15 +92,15 @@
     <!-- YouTube panel -->
     <div class="yt-panel">
       <div style="margin-bottom:12px;">
-        <div class="no-shorts-notice">🚫 No Shorts — Protecting your attention</div>
+        <div class="no-shorts-notice"><i data-lucide="ban"></i> No Shorts — Protecting your attention</div>
       </div>
       <div class="yt-search-bar">
         <input type="text" id="breakYtSearch" placeholder="Search anything... (no Shorts)" />
-        <button class="btn btn-primary" onclick="searchBreakYouTube()">🔍 Search</button>
+        <button class="btn btn-primary" onclick="searchBreakYouTube()"><i data-lucide="search"></i> Search</button>
       </div>
       <div class="yt-grid" id="breakYtGrid">
         <div style="grid-column:span 3; text-align:center; padding:40px; color:var(--text-faint);">
-          <div style="font-size:40px; margin-bottom:12px;">🎥</div>
+          <div style="font-size:40px; margin-bottom:12px;"><i data-lucide="video"></i></div>
           <p>Search for something to watch during your break.</p>
           <p class="text-xs" style="margin-top:8px; opacity:0.7;">Shorts (videos under 60s) are filtered out automatically.</p>
         </div>
@@ -111,7 +111,7 @@
     <div class="yt-player-wrap">
       <h3>Now Playing</h3>
       <div id="breakPlayerContainer">
-        <div style="height:180px; background:var(--bg-secondary); border-radius:12px; display:flex; align-items:center; justify-content:center; color:var(--text-faint); font-size:32px;">🎬</div>
+        <div style="height:180px; background:var(--bg-secondary); border-radius:12px; display:flex; align-items:center; justify-content:center; color:var(--text-faint); font-size:32px;"><i data-lucide="clapperboard"></i></div>
       </div>
       <div class="yt-nowplaying-title" id="nowTitle">Nothing playing</div>
       <div class="yt-nowplaying-channel" id="nowChannel">Search and click a video</div>
@@ -126,14 +126,14 @@
     </div>
     <div style="text-align:center; color:var(--text-muted); font-size:13px;">
       <div>Good break! Your next study session is waiting.</div>
-      <div class="text-xs text-faint" style="margin-top:4px;">Focus → Recall → Break → Return 🔄</div>
+      <div class="text-xs text-faint" style="margin-top:4px;">Focus → Recall → Break → Return <i data-lucide="refresh-cw"></i></div>
     </div>
     <div style="display:flex; gap:12px;">
       <button class="btn btn-secondary" id="skipBreakBtn" onclick="endBreak()">
-        ⚡ Return Early
+        <i data-lucide="zap"></i> Return Early
       </button>
       <div id="breakEndedMsg" class="btn btn-primary" style="display:none;" onclick="window.location.href='/study/session/{{ session.pk }}/'">
-        ▶ Back to Study
+        <i data-lucide="play"></i> Back to Study
       </div>
     </div>
   </div>

@@ -4,9 +4,10 @@ from django.contrib.auth.decorators import login_required
 from django.http import JsonResponse
 from django.utils import timezone
 from django.conf import settings
-from .models import StudySession, BreakSession, YouTubeVideoWatch
+from .models import StudySession, BreakSession, YouTubeVideoWatch, BoundaryEvent
 from library.models import Textbook, Chapter
 import requests
+from django.views.decorators.csrf import csrf_exempt
 
 
 @login_required
@@ -211,3 +212,64 @@ def _update_progress(user, session):
         if streak.current_streak > streak.longest_streak:
             streak.longest_streak = streak.current_streak
         streak.save()
+
+# ==========================================
+# Focus Loop Boundary Engine Endpoints
+# ==========================================
+
+@csrf_exempt
+def api_events_log(request):
+    """Log boundary events (e.g. Shorts blocked, YouTube attempted during focus)"""
+    if not request.user.is_authenticated:
+        return JsonResponse({'status': 'error', 'message': 'Not authenticated'}, status=401)
+        
+    if request.method == 'POST':
+        try:
+            data = json.loads(request.body) if request.body else {}
+            event_type = data.get('event_type', '')
+            app_name = data.get('app_name', 'YouTube')
+            target_url = data.get('target_url', '')
+            note = data.get('note', '')
+            metadata = data.get('metadata', {})
+            
+            session = StudySession.objects.filter(user=request.user, status='active').order_by('-started_at').first()
+            
+            BoundaryEvent.objects.create(
+                user=request.user,
+                study_session=session,
+                event_type=event_type,
+                app_name=app_name,
+                target_url=target_url,
+                note=note,
+                metadata=metadata
+            )
+            return JsonResponse({'status': 'ok'})
+        except Exception as e:
+            return JsonResponse({'status': 'error', 'message': str(e)}, status=400)
+    return JsonResponse({'error': 'Method not allowed'}, status=405)
+
+
+def api_status(request):
+    """Return current mode for the extension / UI"""
+    if not request.user.is_authenticated:
+        return JsonResponse({'mode': 'IDLE'})
+        
+    session = StudySession.objects.filter(user=request.user, status='active').order_by('-started_at').first()
+    if not session:
+        return JsonResponse({'mode': 'IDLE'})
+        
+    active_break = session.breaks.filter(ended_at__isnull=True).first()
+    
+    if active_break:
+        return JsonResponse({
+            'mode': 'BREAK',
+            'session_id': session.pk,
+            'break_id': active_break.pk,
+            'planned_duration_minutes': active_break.planned_duration,
+        })
+    else:
+        return JsonResponse({
+            'mode': 'FOCUS',
+            'session_id': session.pk,
+            'planned_duration_minutes': session.planned_duration,
+        })

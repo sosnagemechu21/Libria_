@@ -3,7 +3,7 @@
 {% block content %}
 <div class="topbar">
   <div>
-    <div class="topbar-title">🤖 AI Study Assistant</div>
+    <div class="topbar-title"><i data-lucide="bot"></i> AI Study Assistant</div>
     <div class="topbar-subtitle">Ask questions about your textbooks. I'll guide, not just answer.</div>
   </div>
   <div class="topbar-actions">
@@ -17,7 +17,7 @@
   <a href="{% url 'ai_assistant:chat' conv.pk %}" style="text-decoration:none;">
     <div class="card card-sm" style="display:flex; align-items:center; gap:16px; cursor:pointer;">
       <div style="width:44px;height:44px;border-radius:12px;background:var(--accent-glow);display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;">
-        {% if conv.textbook %}{{ conv.textbook.subject.icon }}{% else %}💬{% endif %}
+        {% if conv.textbook %}{{ conv.textbook.subject.icon }}{% else %}<i data-lucide="message-square"></i>{% endif %}
       </div>
       <div style="flex:1;">
         <div class="font-bold text-sm">{{ conv.title }}</div>
@@ -33,15 +33,15 @@
 </div>
 {% else %}
 <div style="text-align:center; padding:80px 40px; color:var(--text-faint);">
-  <div style="font-size:64px; margin-bottom:20px;">🤖</div>
+  <div style="font-size:64px; margin-bottom:20px;"><i data-lucide="bot"></i></div>
   <h2 style="font-size:22px; color:var(--text); margin-bottom:12px;">Your study companion awaits</h2>
   <p style="max-width:400px; margin:0 auto 24px; line-height:1.6;">
     Start a chat and ask questions about any textbook you're studying.
     I'll explain concepts, give hints, and help you think — not just give answers.
   </p>
-  <a href="{% url 'ai_assistant:new' %}" class="btn btn-primary btn-lg">🤖 Start a Conversation</a>
+  <a href="{% url 'ai_assistant:new' %}" class="btn btn-primary btn-lg"><i data-lucide="bot"></i> Start a Conversation</a>
   <div class="card" style="max-width:400px; margin:32px auto 0; text-align:left;">
-    <div class="font-bold mb-8">💡 Tip: Add your AI key</div>
+    <div class="font-bold mb-8"><i data-lucide="lightbulb"></i> Tip: Add your AI key</div>
     <p class="text-sm text-muted">Go to <a href="{% url 'accounts:profile' %}" style="color:var(--accent);">Profile Settings</a> and add your Gemini or OpenAI key to unlock full AI responses.</p>
   </div>
 </div>

@@ -46,7 +46,7 @@
 <body>
 <div class="register-wrap">
   <div class="register-header">
-    <div class="logo">📚 Lib<em>ria</em></div>
+    <div class="logo"><i data-lucide="book-open"></i> Lib<em>ria</em></div>
     <p style="color:var(--text-muted); margin-top:8px;">Create your personalized study space in 30 seconds.</p>
   </div>
 
@@ -64,45 +64,45 @@
     <div class="register-grid">
       <!-- Left: Atmosphere -->
       <div class="atmosphere-section">
-        <h3>🎨 Choose your atmosphere</h3>
+        <h3><i data-lucide="palette"></i> Choose your atmosphere</h3>
         <p>Pick the vibe that helps you focus. You can change it anytime.</p>
         <div class="atmosphere-grid" id="atmosphereGrid">
           <div class="atm-card" data-theme="noir" onclick="selectTheme('noir')">
-            <div class="atm-preview" style="background:linear-gradient(135deg,#fff,#f0f0f0)">🖤</div>
+            <div class="atm-preview" style="background:linear-gradient(135deg,#fff,#f0f0f0)"><i data-lucide="moon"></i></div>
             <div class="atm-label">Noir <div class="atm-vibe">Clean & Minimal</div></div>
-            <div class="atm-check">✓</div>
+            <div class="atm-check"><i data-lucide="check"></i></div>
           </div>
           <div class="atm-card" data-theme="forest" onclick="selectTheme('forest')">
-            <div class="atm-preview" style="background:linear-gradient(135deg,#262D1A,#2E3820)">🌿</div>
+            <div class="atm-preview" style="background:linear-gradient(135deg,#262D1A,#2E3820)"><i data-lucide="leaf"></i></div>
             <div class="atm-label">Forest <div class="atm-vibe">Cozy & Earthy</div></div>
-            <div class="atm-check">✓</div>
+            <div class="atm-check"><i data-lucide="check"></i></div>
           </div>
           <div class="atm-card" data-theme="paper" onclick="selectTheme('paper')">
-            <div class="atm-preview" style="background:linear-gradient(135deg,#F4EDE1,#EDE4D5)">📜</div>
+            <div class="atm-preview" style="background:linear-gradient(135deg,#F4EDE1,#EDE4D5)"><i data-lucide="scroll"></i></div>
             <div class="atm-label">Paper <div class="atm-vibe">Old Library</div></div>
-            <div class="atm-check">✓</div>
+            <div class="atm-check"><i data-lucide="check"></i></div>
           </div>
           <div class="atm-card selected" data-theme="midnight" onclick="selectTheme('midnight')">
-            <div class="atm-preview" style="background:linear-gradient(135deg,#111827,#1F2937)">🌌</div>
+            <div class="atm-preview" style="background:linear-gradient(135deg,#111827,#1F2937)"><i data-lucide="stars"></i></div>
             <div class="atm-label">Midnight <div class="atm-vibe">Calm & Focused</div></div>
-            <div class="atm-check">✓</div>
+            <div class="atm-check"><i data-lucide="check"></i></div>
           </div>
           <div class="atm-card" data-theme="blush" onclick="selectTheme('blush')">
-            <div class="atm-preview" style="background:linear-gradient(135deg,#F7E8E8,#F0DADA)">🌸</div>
+            <div class="atm-preview" style="background:linear-gradient(135deg,#F7E8E8,#F0DADA)"><i data-lucide="flower"></i></div>
             <div class="atm-label">Blush <div class="atm-vibe">Soft & Warm</div></div>
-            <div class="atm-check">✓</div>
+            <div class="atm-check"><i data-lucide="check"></i></div>
           </div>
           <div class="atm-card" data-theme="mocha" onclick="selectTheme('mocha')">
-            <div class="atm-preview" style="background:linear-gradient(135deg,#E8DDD0,#DDD0C0)">☕</div>
+            <div class="atm-preview" style="background:linear-gradient(135deg,#E8DDD0,#DDD0C0)"><i data-lucide="coffee"></i></div>
             <div class="atm-label">Mocha <div class="atm-vibe">Café Warmth</div></div>
-            <div class="atm-check">✓</div>
+            <div class="atm-check"><i data-lucide="check"></i></div>
           </div>
         </div>
       </div>
 
       <!-- Right: Account info -->
       <div class="form-section">
-        <h3>📝 Your account</h3>
+        <h3><i data-lucide="notebook-pen"></i> Your account</h3>
         <div class="form-group">
           <label class="form-label">Display Name</label>
           <input class="form-control" type="text" name="display_name" placeholder="How should we call you?" />
@@ -130,11 +130,11 @@
             <button type="button" class="grade-btn" data-grade="10" onclick="selectGrade('10')">Grade 10</button>
             <button type="button" class="grade-btn" data-grade="11" onclick="selectGrade('11')">Grade 11</button>
             <button type="button" class="grade-btn" data-grade="12" onclick="selectGrade('12')">Grade 12</button>
-            <button type="button" class="grade-btn" data-grade="university" onclick="selectGrade('university')" style="grid-column:span 2">🎓 University / Freshman</button>
+            <button type="button" class="grade-btn" data-grade="university" onclick="selectGrade('university')" style="grid-column:span 2"><i data-lucide="graduation-cap"></i> University / Freshman</button>
           </div>
         </div>
         <button type="submit" class="btn btn-primary btn-lg" style="width:100%;">
-          🚀 Create My Study Space
+          <i data-lucide="rocket"></i> Create My Study Space
         </button>
         <p style="text-align:center; font-size:13px; color:var(--text-muted); margin-top:16px;">
           Already have an account? <a href="{% url 'accounts:login' %}" style="color:var(--accent);">Sign in</a>

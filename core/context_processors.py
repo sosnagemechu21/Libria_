@@ -22,16 +22,26 @@ THEME_PREVIEWS = [
 ]
 
 
+FONT_PREVIEWS = [
+    ('sans', 'Inter (Modern)'),
+    ('serif', 'Playfair (Elegant)'),
+    ('times', 'Times New Roman (Classic)'),
+]
+
 def theme_context(request):
     theme = 'midnight'
+    font_pref = 'sans'
     if request.user.is_authenticated:
         try:
             theme = request.user.profile.theme
+            font_pref = request.user.profile.font_preference
         except Exception:
             pass
     return {
         'current_theme': theme,
+        'current_font': font_pref,
         'themes': THEMES,
         'theme_previews': THEME_PREVIEWS,
+        'font_previews': FONT_PREVIEWS,
         'YOUTUBE_API_KEY': getattr(settings, 'YOUTUBE_API_KEY', ''),
     }

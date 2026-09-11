@@ -6,11 +6,11 @@
 {% block content %}
 <div class="topbar">
   <div>
-    <div class="topbar-title">Good {{ time_greeting }}, {{ user.profile.get_display_name }} 👋</div>
+    <div class="topbar-title">Good {{ time_greeting }}, {{ user.profile.get_display_name }} <i data-lucide="hand"></i></div>
     <div class="topbar-subtitle">Here's your study snapshot for today.</div>
   </div>
   <div class="topbar-actions">
-    <a href="{% url 'study:setup' %}" class="btn btn-primary">⏱ Start Studying</a>
+    <a href="{% url 'study:setup' %}" class="btn btn-primary"><i data-lucide="clock"></i> Start Studying</a>
   </div>
 </div>
 
@@ -31,28 +31,28 @@
 <!-- Stat cards -->
 <div class="grid-4 mb-24 stagger-children">
   <div class="stat-card animate-fadeInUp">
-    <div class="stat-icon">🔥</div>
+    <div class="stat-icon"><i data-lucide="flame"></i></div>
     <div>
       <div class="stat-value">{{ streak.current_streak }}</div>
       <div class="stat-label">Day Streak</div>
     </div>
   </div>
   <div class="stat-card animate-fadeInUp">
-    <div class="stat-icon">⏱</div>
+    <div class="stat-icon"><i data-lucide="clock"></i></div>
     <div>
       <div class="stat-value">{{ total_minutes }}</div>
       <div class="stat-label">Total Minutes Studied</div>
     </div>
   </div>
   <div class="stat-card animate-fadeInUp">
-    <div class="stat-icon">📚</div>
+    <div class="stat-icon"><i data-lucide="book-open"></i></div>
     <div>
       <div class="stat-value">{{ total_sessions }}</div>
       <div class="stat-label">Sessions Completed</div>
     </div>
   </div>
   <div class="stat-card animate-fadeInUp">
-    <div class="stat-icon">🏆</div>
+    <div class="stat-icon"><i data-lucide="trophy"></i></div>
     <div>
       <div class="stat-value">{{ streak.longest_streak }}</div>
       <div class="stat-label">Longest Streak</div>

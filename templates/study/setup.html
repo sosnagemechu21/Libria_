@@ -3,7 +3,7 @@
 {% block content %}
 <div class="topbar">
   <div>
-    <div class="topbar-title">⏱ Start a Study Session</div>
+    <div class="topbar-title"><i data-lucide="clock"></i> Start a Study Session</div>
     <div class="topbar-subtitle">Choose your material and set your focus time.</div>
   </div>
 </div>
@@ -15,7 +15,7 @@
     <h2 style="font-size:20px; margin-bottom:24px; color:var(--text);">Session Setup</h2>
 
     <div class="form-group">
-      <label class="form-label">📚 Select Textbook</label>
+      <label class="form-label"><i data-lucide="book-open"></i> Select Textbook</label>
       <select class="form-control" name="textbook_id" id="textbookSelect" required onchange="loadChapters(this.value)">
         <option value="">— Choose a textbook —</option>
         {% regroup all_textbooks by grade as grade_groups %}
@@ -32,14 +32,14 @@
     </div>
 
     <div class="form-group" id="chapterGroup" style="display:none;">
-      <label class="form-label">📄 Chapter (optional)</label>
+      <label class="form-label"><i data-lucide="file-text"></i> Chapter (optional)</label>
       <select class="form-control" name="chapter_id" id="chapterSelect">
         <option value="">— Whole book —</option>
       </select>
     </div>
 
     <div class="form-group">
-      <label class="form-label">⏱ Study Duration</label>
+      <label class="form-label"><i data-lucide="clock"></i> Study Duration</label>
       <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin-bottom:10px;">
         <button type="button" class="grade-btn duration-btn" data-mins="15" onclick="setDuration(15)">15m</button>
         <button type="button" class="grade-btn duration-btn" data-mins="25" onclick="setDuration(25)">25m</button>
@@ -50,7 +50,7 @@
     </div>
 
     <button type="submit" class="btn btn-primary btn-lg" style="width:100%;">
-      🚀 Enter Focus Mode
+      <i data-lucide="rocket"></i> Enter Focus Mode
     </button>
   </form>
 
@@ -101,7 +101,7 @@
     {% endif %}
 
     <div class="card mt-24 animate-fadeInUp" style="background:var(--accent-glow); border-color:var(--border-accent);">
-      <div style="font-size:24px; margin-bottom:12px;">💡</div>
+      <div style="font-size:24px; margin-bottom:12px;"><i data-lucide="lightbulb"></i></div>
       <div class="font-bold" style="margin-bottom:8px;">Study tip</div>
       <p class="text-sm text-muted">The Pomodoro technique suggests 25 minutes of focused study followed by a 5-minute break. After 4 sessions, take a longer break of 15–30 minutes.</p>
     </div>

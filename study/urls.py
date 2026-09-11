@@ -12,4 +12,8 @@ urlpatterns = [
     path('break/<int:break_id>/end/', views.end_break, name='end_break'),
     path('complete/<int:session_id>/', views.session_complete, name='complete'),
     path('youtube/search/', views.youtube_search, name='youtube_search'),
+    
+    # Focus Loop Boundary Engine API
+    path('api/events/log/', views.api_events_log, name='api_events_log'),
+    path('api/status/', views.api_status, name='api_status'),
 ]
