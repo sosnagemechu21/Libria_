@@ -1,0 +1,210 @@
+/* ============================================================
+   LIBRIA — Theme System
+   All 6 atmospheres defined as CSS custom properties.
+   Applied via [data-theme="x"] on <html>.
+   ============================================================ */
+
+/* ── Fonts ─────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;600;700&display=swap');
+
+/* ── Base reset ─────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+/* ============================================================
+   🖤 NOIR — Clean, minimal, black & white
+   ============================================================ */
+[data-theme="noir"] {
+  --bg:           #FFFFFF;
+  --bg-secondary: #F5F5F5;
+  --bg-card:      #FAFAFA;
+  --bg-sidebar:   #F0F0F0;
+  --bg-glass:     rgba(255,255,255,0.85);
+  --text:         #000000;
+  --text-muted:   #555555;
+  --text-faint:   #888888;
+  --accent:       #1A1A1A;
+  --accent-2:     #444444;
+  --accent-glow:  rgba(0,0,0,0.12);
+  --border:       rgba(0,0,0,0.12);
+  --border-accent:rgba(0,0,0,0.3);
+  --shadow:       0 4px 24px rgba(0,0,0,0.08);
+  --shadow-lg:    0 12px 48px rgba(0,0,0,0.14);
+  --btn-bg:       #1A1A1A;
+  --btn-text:     #FFFFFF;
+  --btn-hover:    #000000;
+  --tag-bg:       #EEEEEE;
+  --tag-text:     #333333;
+  --timer-glow:   rgba(0,0,0,0.15);
+  --scrollbar:    #CCCCCC;
+  --success:      #16A34A;
+  --warning:      #D97706;
+  --danger:       #DC2626;
+  --gradient-hero: linear-gradient(135deg, #FFFFFF 0%, #F0F0F0 100%);
+  --gradient-card: linear-gradient(135deg, #FAFAFA 0%, #F0F0F0 100%);
+}
+
+/* ============================================================
+   🌿 FOREST — Cozy, earthy, dark greens
+   ============================================================ */
+[data-theme="forest"] {
+  --bg:           #262D1A;
+  --bg-secondary: #1E2514;
+  --bg-card:      #2E3820;
+  --bg-sidebar:   #1E2514;
+  --bg-glass:     rgba(38,45,26,0.90);
+  --text:         #C8D5A8;
+  --text-muted:   #8FA87A;
+  --text-faint:   #5E7A4A;
+  --accent:       #7A9E4E;
+  --accent-2:     #95B85E;
+  --accent-glow:  rgba(122,158,78,0.25);
+  --border:       rgba(122,158,78,0.15);
+  --border-accent:rgba(122,158,78,0.45);
+  --shadow:       0 4px 24px rgba(0,0,0,0.35);
+  --shadow-lg:    0 12px 48px rgba(0,0,0,0.5);
+  --btn-bg:       #7A9E4E;
+  --btn-text:     #FFFFFF;
+  --btn-hover:    #95B85E;
+  --tag-bg:       rgba(122,158,78,0.18);
+  --tag-text:     #95B85E;
+  --timer-glow:   rgba(122,158,78,0.35);
+  --scrollbar:    #3A4A28;
+  --success:      #7A9E4E;
+  --warning:      #C8923A;
+  --danger:       #C85A5A;
+  --gradient-hero: linear-gradient(135deg, #2E3820 0%, #1E2514 100%);
+  --gradient-card: linear-gradient(135deg, #2E3820 0%, #262D1A 100%);
+}
+
+/* ============================================================
+   📜 PAPER — Old-library, warm, book-inspired
+   ============================================================ */
+[data-theme="paper"] {
+  --bg:           #F4EDE1;
+  --bg-secondary: #EDE4D5;
+  --bg-card:      #EDE4D5;
+  --bg-sidebar:   #E8DDD0;
+  --bg-glass:     rgba(244,237,225,0.92);
+  --text:         #3D352C;
+  --text-muted:   #6B5C4E;
+  --text-faint:   #9B8878;
+  --accent:       #8B6B4A;
+  --accent-2:     #A07850;
+  --accent-glow:  rgba(139,107,74,0.2);
+  --border:       rgba(139,107,74,0.18);
+  --border-accent:rgba(139,107,74,0.45);
+  --shadow:       0 4px 24px rgba(61,53,44,0.1);
+  --shadow-lg:    0 12px 48px rgba(61,53,44,0.18);
+  --btn-bg:       #8B6B4A;
+  --btn-text:     #FFFFFF;
+  --btn-hover:    #A07850;
+  --tag-bg:       rgba(139,107,74,0.12);
+  --tag-text:     #7A5C3E;
+  --timer-glow:   rgba(139,107,74,0.3);
+  --scrollbar:    #C8B8A8;
+  --success:      #5A8B4A;
+  --warning:      #B87820;
+  --danger:       #B85A5A;
+  --gradient-hero: linear-gradient(135deg, #F4EDE1 0%, #E8DDD0 100%);
+  --gradient-card: linear-gradient(135deg, #EDE4D5 0%, #E8DDD0 100%);
+}
+
+/* ============================================================
+   🌌 MIDNIGHT — Calm, focused, deep blue-dark
+   ============================================================ */
+[data-theme="midnight"] {
+  --bg:           #111827;
+  --bg-secondary: #1F2937;
+  --bg-card:      #1F2937;
+  --bg-sidebar:   #161E2E;
+  --bg-glass:     rgba(17,24,39,0.90);
+  --text:         #D6E4F0;
+  --text-muted:   #94A9BE;
+  --text-faint:   #5B7A92;
+  --accent:       #4B7BE5;
+  --accent-2:     #6B95F5;
+  --accent-glow:  rgba(75,123,229,0.3);
+  --border:       rgba(75,123,229,0.15);
+  --border-accent:rgba(75,123,229,0.45);
+  --shadow:       0 4px 24px rgba(0,0,0,0.4);
+  --shadow-lg:    0 12px 48px rgba(0,0,0,0.6);
+  --btn-bg:       #4B7BE5;
+  --btn-text:     #FFFFFF;
+  --btn-hover:    #6B95F5;
+  --tag-bg:       rgba(75,123,229,0.15);
+  --tag-text:     #6B95F5;
+  --timer-glow:   rgba(75,123,229,0.4);
+  --scrollbar:    #2D3F52;
+  --success:      #34A85A;
+  --warning:      #E09020;
+  --danger:       #E05050;
+  --gradient-hero: linear-gradient(135deg, #1F2937 0%, #111827 100%);
+  --gradient-card: linear-gradient(135deg, #243044 0%, #1F2937 100%);
+}
+
+/* ============================================================
+   🌸 BLUSH — Soft, warm, feminine
+   ============================================================ */
+[data-theme="blush"] {
+  --bg:           #F7E8E8;
+  --bg-secondary: #F0DADA;
+  --bg-card:      #F0DADA;
+  --bg-sidebar:   #EBD3D3;
+  --bg-glass:     rgba(247,232,232,0.92);
+  --text:         #6B3A40;
+  --text-muted:   #9B6A70;
+  --text-faint:   #BF9FA3;
+  --accent:       #C26E7A;
+  --accent-2:     #D48A94;
+  --accent-glow:  rgba(194,110,122,0.22);
+  --border:       rgba(194,110,122,0.18);
+  --border-accent:rgba(194,110,122,0.45);
+  --shadow:       0 4px 24px rgba(107,58,64,0.1);
+  --shadow-lg:    0 12px 48px rgba(107,58,64,0.18);
+  --btn-bg:       #C26E7A;
+  --btn-text:     #FFFFFF;
+  --btn-hover:    #D48A94;
+  --tag-bg:       rgba(194,110,122,0.12);
+  --tag-text:     #C26E7A;
+  --timer-glow:   rgba(194,110,122,0.35);
+  --scrollbar:    #DCC0C2;
+  --success:      #5A8B6A;
+  --warning:      #C88A3A;
+  --danger:       #C85050;
+  --gradient-hero: linear-gradient(135deg, #F7E8E8 0%, #F0DADA 100%);
+  --gradient-card: linear-gradient(135deg, #F0DADA 0%, #EBD3D3 100%);
+}
+
+/* ============================================================
+   ☕ MOCHA — Café warmth, study, warm brown
+   ============================================================ */
+[data-theme="mocha"] {
+  --bg:           #E8DDD0;
+  --bg-secondary: #DDD0C0;
+  --bg-card:      #DDD0C0;
+  --bg-sidebar:   #D5C8B8;
+  --bg-glass:     rgba(232,221,208,0.92);
+  --text:         #49372E;
+  --text-muted:   #7A6055;
+  --text-faint:   #A89080;
+  --accent:       #9B7355;
+  --accent-2:     #B08060;
+  --accent-glow:  rgba(155,115,85,0.22);
+  --border:       rgba(155,115,85,0.18);
+  --border-accent:rgba(155,115,85,0.45);
+  --shadow:       0 4px 24px rgba(73,55,46,0.1);
+  --shadow-lg:    0 12px 48px rgba(73,55,46,0.18);
+  --btn-bg:       #9B7355;
+  --btn-text:     #FFFFFF;
+  --btn-hover:    #B08060;
+  --tag-bg:       rgba(155,115,85,0.14);
+  --tag-text:     #9B7355;
+  --timer-glow:   rgba(155,115,85,0.35);
+  --scrollbar:    #C8B8A0;
+  --success:      #5A8B5A;
+  --warning:      #B08020;
+  --danger:       #B05A5A;
+  --gradient-hero: linear-gradient(135deg, #E8DDD0 0%, #DDD0C0 100%);
+  --gradient-card: linear-gradient(135deg, #DDD0C0 0%, #D5C8B8 100%);
+}
