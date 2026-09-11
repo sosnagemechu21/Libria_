@@ -1,0 +1,135 @@
+{% extends 'base.html' %}
+{% block title %}Profile — Libria{% endblock %}
+{% block content %}
+<div class="topbar">
+  <div>
+    <div class="topbar-title">👤 Profile & Settings</div>
+    <div class="topbar-subtitle">Customize your study space and configure AI.</div>
+  </div>
+</div>
+
+{% if messages %}
+<div class="messages-container">{% for msg in messages %}<div class="message {{ msg.tags }}">{{ msg }}</div>{% endfor %}</div>
+{% endif %}
+
+<form method="post" action="{% url 'accounts:profile' %}" enctype="multipart/form-data">
+  {% csrf_token %}
+  <div class="grid-2" style="gap:32px; align-items:start;">
+
+    <!-- Left: Personal info -->
+    <div>
+      <div class="card mb-20 animate-fadeInUp">
+        <div class="card-header"><div class="font-bold">Personal Info</div></div>
+        <div class="form-group">
+          <label class="form-label">Display Name</label>
+          <input class="form-control" type="text" name="display_name" value="{{ profile.display_name }}" placeholder="Your name" />
+        </div>
+        <div class="form-group">
+          <label class="form-label">Grade Level</label>
+          <select class="form-control" name="grade_level">
+            <option value="9" {% if profile.grade_level == '9' %}selected{% endif %}>Grade 9</option>
+            <option value="10" {% if profile.grade_level == '10' %}selected{% endif %}>Grade 10</option>
+            <option value="11" {% if profile.grade_level == '11' %}selected{% endif %}>Grade 11</option>
+            <option value="12" {% if profile.grade_level == '12' %}selected{% endif %}>Grade 12</option>
+            <option value="university" {% if profile.grade_level == 'university' %}selected{% endif %}>🎓 University / Freshman</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Daily Study Goal (minutes)</label>
+          <input class="form-control" type="number" name="study_goal_minutes" value="{{ profile.study_goal_minutes }}" min="15" max="480" />
+        </div>
+      </div>
+
+      <!-- Theme Chooser -->
+      <div class="card animate-fadeInUp">
+        <div class="card-header"><div class="font-bold">🎨 Study Atmosphere</div></div>
+        <input type="hidden" name="theme" id="profileTheme" value="{{ profile.theme }}" />
+        <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:12px;">
+          {% for key, label, bg1, bg2 in theme_previews %}
+          <div class="atm-card {% if profile.theme == key %}selected{% endif %}"
+               onclick="selectProfileTheme('{{ key }}')"
+               style="border-radius:12px;overflow:hidden;cursor:pointer;border:2px solid var(--border);transition:all 0.25s;position:relative;">
+            <div style="height:60px;display:flex;align-items:center;justify-content:center;font-size:22px;background:linear-gradient(135deg,{{ bg1 }},{{ bg2 }});">
+              {{ label|slice:":2" }}
+            </div>
+            <div style="padding:8px;background:var(--bg-card);font-size:12px;font-weight:600;color:var(--text);">{{ label|slice:"3:" }}</div>
+            <div style="position:absolute;top:6px;right:6px;width:18px;height:18px;border-radius:50%;background:var(--accent);color:#fff;font-size:10px;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity 0.2s;" class="atm-check">✓</div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <!-- Right: AI settings -->
+    <div>
+      <div class="card mb-20 animate-fadeInUp" style="border:2px solid var(--border-accent);">
+        <div class="card-header">
+          <div class="font-bold">🤖 AI Study Companion</div>
+          <span class="badge">Configure</span>
+        </div>
+        <p class="text-sm text-muted" style="margin-bottom:20px; line-height:1.6;">
+          Add your personal AI API key to unlock full AI-powered study assistance.
+          Your key is stored locally and never shared.
+        </p>
+
+        <div class="form-group">
+          <label class="form-label">AI Provider</label>
+          <select class="form-control" name="ai_provider">
+            <option value="gemini" {% if profile.ai_provider == 'gemini' %}selected{% endif %}>Google Gemini</option>
+            <option value="openai" {% if profile.ai_provider == 'openai' %}selected{% endif %}>OpenAI / ChatGPT</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">API Key</label>
+          <input class="form-control" type="password" name="ai_api_key"
+                 value="{{ profile.ai_api_key }}"
+                 placeholder="Paste your API key here..." />
+          <div class="text-xs text-muted" style="margin-top:6px;">
+            Get a free Gemini key at
+            <a href="https://makersuite.google.com/app/apikey" target="_blank" style="color:var(--accent);">Google AI Studio →</a>
+          </div>
+        </div>
+
+        <div class="card" style="background:var(--accent-glow); border-color:var(--border-accent); padding:14px;">
+          <div class="text-sm font-bold mb-4">How it works</div>
+          <ul style="font-size:13px; color:var(--text-muted); padding-left:16px; line-height:1.8;">
+            <li>Your key is used only for your chat sessions</li>
+            <li>The AI is instructed to guide, not give away answers</li>
+            <li>Without a key, you get demo responses</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- YouTube API -->
+      <div class="card animate-fadeInUp">
+        <div class="card-header"><div class="font-bold">🎥 YouTube API</div></div>
+        <p class="text-sm text-muted" style="margin-bottom:12px;">
+          For the YouTube study video search to work, add a YouTube Data API v3 key to your <code>.env</code> file as <code>YOUTUBE_API_KEY</code>.
+        </p>
+        <a href="https://console.cloud.google.com/apis/library/youtube.googleapis.com" target="_blank" class="btn btn-secondary btn-sm">
+          Get YouTube API Key →
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-top:24px; text-align:right;">
+    <button type="submit" class="btn btn-primary btn-lg">💾 Save Changes</button>
+  </div>
+</form>
+
+<style>
+  .atm-card.selected { border-color:var(--accent) !important; }
+  .atm-card.selected .atm-check { opacity:1 !important; }
+</style>
+<script src="{% static 'js/theme-switcher.js' %}"></script>
+<script>
+function selectProfileTheme(theme) {
+  document.querySelectorAll('.atm-card').forEach(c => c.classList.remove('selected'));
+  event.currentTarget.classList.add('selected');
+  document.getElementById('profileTheme').value = theme;
+  switchTheme(theme);
+}
+</script>
+{% endblock %}

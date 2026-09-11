@@ -1,0 +1,88 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" data-theme="{{ current_theme }}">
+<head>
+  <meta charset="UTF-8" /><meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>Login — Libria</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{% static 'css/themes.css' %}" />
+  <link rel="stylesheet" href="{% static 'css/main.css' %}" />
+  <style>
+    body { display:flex; min-height:100vh; align-items:center; justify-content:center; background:var(--bg); }
+    .auth-wrap { display:grid; grid-template-columns:1fr 1fr; min-height:100vh; width:100%; }
+    .auth-left {
+      background: var(--gradient-hero);
+      display:flex; flex-direction:column; align-items:center; justify-content:center;
+      padding:60px; text-align:center; position:relative; overflow:hidden;
+    }
+    .auth-left::before {
+      content:''; position:absolute; top:-100px; right:-100px;
+      width:400px; height:400px;
+      background:radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
+    }
+    .auth-brand { font-family:'Playfair Display',serif; font-size:48px; font-weight:700; color:var(--text); }
+    .auth-brand em { color:var(--accent); }
+    .auth-tagline { font-size:16px; color:var(--text-muted); margin-top:16px; line-height:1.6; max-width:300px; }
+    .theme-preview-dots { display:flex; gap:10px; margin-top:32px; justify-content:center; }
+    .auth-right { display:flex; flex-direction:column; align-items:center; justify-content:center; padding:60px; background:var(--bg); }
+    .auth-form-wrap { width:100%; max-width:400px; }
+    .auth-title { font-size:28px; font-weight:700; color:var(--text); margin-bottom:6px; }
+    .auth-sub { font-size:14px; color:var(--text-muted); margin-bottom:36px; }
+    .auth-divider { text-align:center; color:var(--text-faint); font-size:13px; margin:20px 0; }
+    @media(max-width:768px){ .auth-left{display:none;} .auth-right{padding:32px;} }
+  </style>
+</head>
+<body>
+<div class="auth-wrap">
+  <!-- Left panel -->
+  <div class="auth-left">
+    <div class="auth-brand">📚 Lib<em>ria</em></div>
+    <p class="auth-tagline">Your personal digital library. Study from day one — not just summaries.</p>
+    <div class="theme-preview-dots">
+      <div class="theme-dot" data-theme-target="noir" onclick="switchTheme('noir')"></div>
+      <div class="theme-dot" data-theme-target="forest" onclick="switchTheme('forest')"></div>
+      <div class="theme-dot" data-theme-target="paper" onclick="switchTheme('paper')"></div>
+      <div class="theme-dot" data-theme-target="midnight" onclick="switchTheme('midnight')"></div>
+      <div class="theme-dot" data-theme-target="blush" onclick="switchTheme('blush')"></div>
+      <div class="theme-dot" data-theme-target="mocha" onclick="switchTheme('mocha')"></div>
+    </div>
+  </div>
+
+  <!-- Right panel -->
+  <div class="auth-right">
+    <div class="auth-form-wrap">
+      <h1 class="auth-title">Welcome back 👋</h1>
+      <p class="auth-sub">Sign in to continue your study journey.</p>
+
+      {% if messages %}
+      <div class="messages-container">
+        {% for msg in messages %}<div class="message {{ msg.tags }}">{{ msg }}</div>{% endfor %}
+      </div>
+      {% endif %}
+
+      <form method="post" action="{% url 'accounts:login' %}">
+        {% csrf_token %}
+        <div class="form-group">
+          <label class="form-label" for="username">Username</label>
+          <input class="form-control" id="username" type="text" name="username" placeholder="your_username" required autofocus />
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="password">Password</label>
+          <input class="form-control" id="password" type="password" name="password" placeholder="••••••••" required />
+        </div>
+        <button class="btn btn-primary w-full btn-lg" type="submit" style="width:100%;">
+          Sign In →
+        </button>
+      </form>
+
+      <div class="auth-divider">— or —</div>
+      <p style="text-align:center; font-size:14px; color:var(--text-muted);">
+        New to Libria?
+        <a href="{% url 'accounts:register' %}" style="color:var(--accent); font-weight:600;">Create your study space</a>
+      </p>
+    </div>
+  </div>
+</div>
+<script src="{% static 'js/theme-switcher.js' %}"></script>
+</body>
+</html>

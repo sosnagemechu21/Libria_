@@ -1,0 +1,140 @@
+{% extends 'base.html' %}
+{% block title %}Study Setup — Libria{% endblock %}
+{% block content %}
+<div class="topbar">
+  <div>
+    <div class="topbar-title">⏱ Start a Study Session</div>
+    <div class="topbar-subtitle">Choose your material and set your focus time.</div>
+  </div>
+</div>
+
+<div class="grid-2" style="gap:32px; align-items:start;">
+  <!-- Setup Form -->
+  <form method="post" action="{% url 'study:setup' %}" class="card animate-fadeInUp">
+    {% csrf_token %}
+    <h2 style="font-size:20px; margin-bottom:24px; color:var(--text);">Session Setup</h2>
+
+    <div class="form-group">
+      <label class="form-label">📚 Select Textbook</label>
+      <select class="form-control" name="textbook_id" id="textbookSelect" required onchange="loadChapters(this.value)">
+        <option value="">— Choose a textbook —</option>
+        {% regroup all_textbooks by grade as grade_groups %}
+        {% for group in grade_groups %}
+        <optgroup label="{{ group.grouper.label }}">
+          {% for book in group.list %}
+          <option value="{{ book.pk }}" {% if selected_textbook.pk == book.pk %}selected{% endif %}>
+            {{ book.subject.icon }} {{ book.subject.name }} — {{ book.get_curriculum_type_display }}
+          </option>
+          {% endfor %}
+        </optgroup>
+        {% endfor %}
+      </select>
+    </div>
+
+    <div class="form-group" id="chapterGroup" style="display:none;">
+      <label class="form-label">📄 Chapter (optional)</label>
+      <select class="form-control" name="chapter_id" id="chapterSelect">
+        <option value="">— Whole book —</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label class="form-label">⏱ Study Duration</label>
+      <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin-bottom:10px;">
+        <button type="button" class="grade-btn duration-btn" data-mins="15" onclick="setDuration(15)">15m</button>
+        <button type="button" class="grade-btn duration-btn" data-mins="25" onclick="setDuration(25)">25m</button>
+        <button type="button" class="grade-btn duration-btn" data-mins="45" onclick="setDuration(45)">45m</button>
+        <button type="button" class="grade-btn duration-btn" data-mins="60" onclick="setDuration(60)">60m</button>
+      </div>
+      <input type="number" class="form-control" name="duration" id="durationInput" value="25" min="5" max="180" placeholder="Or enter custom minutes" />
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-lg" style="width:100%;">
+      🚀 Enter Focus Mode
+    </button>
+  </form>
+
+  <!-- Right panel -->
+  <div>
+    {% if selected_textbook %}
+    <div class="card mb-24 animate-fadeInUp">
+      <div class="card-header">
+        <div class="font-bold">Selected Book</div>
+        <span class="badge">{{ selected_textbook.get_curriculum_type_display }}</span>
+      </div>
+      <div style="display:flex; gap:16px; align-items:start;">
+        {% if selected_textbook.cover_url %}
+        <img src="{{ selected_textbook.cover_url }}" style="width:80px; border-radius:8px;" loading="lazy" />
+        {% else %}
+        <div style="width:80px; height:80px; border-radius:8px; background:var(--bg-secondary); display:flex; align-items:center; justify-content:center; font-size:32px;">{{ selected_textbook.subject.icon }}</div>
+        {% endif %}
+        <div>
+          <div class="font-bold" style="margin-bottom:6px;">{{ selected_textbook.title }}</div>
+          <div class="text-sm text-muted">{{ selected_textbook.pages }} pages · {{ selected_textbook.chapters }} chapters</div>
+          <div class="book-tags" style="margin-top:8px;">
+            <span class="badge">{{ selected_textbook.grade.label }}</span>
+            <span class="badge">{{ selected_textbook.subject.name }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+    {% if recent_sessions %}
+    <div class="card animate-fadeInUp">
+      <div class="card-header">
+        <div class="font-bold">Recent Sessions</div>
+      </div>
+      {% for session in recent_sessions %}
+      <div style="display:flex; align-items:center; justify-content:space-between; padding:10px 0; border-bottom:1px solid var(--border);">
+        <div style="display:flex; align-items:center; gap:12px;">
+          <span style="font-size:20px;">{{ session.textbook.subject.icon }}</span>
+          <div>
+            <div class="text-sm font-bold">{{ session.textbook.subject.name }}</div>
+            <div class="text-xs text-muted">{{ session.started_at|date:"M d" }} · {{ session.get_duration_minutes }} min</div>
+          </div>
+        </div>
+        <a href="{% url 'study:setup' %}?textbook={{ session.textbook.pk }}" class="btn btn-ghost btn-sm">Again</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="card mt-24 animate-fadeInUp" style="background:var(--accent-glow); border-color:var(--border-accent);">
+      <div style="font-size:24px; margin-bottom:12px;">💡</div>
+      <div class="font-bold" style="margin-bottom:8px;">Study tip</div>
+      <p class="text-sm text-muted">The Pomodoro technique suggests 25 minutes of focused study followed by a 5-minute break. After 4 sessions, take a longer break of 15–30 minutes.</p>
+    </div>
+  </div>
+</div>
+
+<style>
+  .duration-btn {
+    padding:10px; border-radius:10px; border:1.5px solid var(--border);
+    background:transparent; color:var(--text-muted); font-size:14px; font-weight:600;
+    cursor:pointer; transition:all 0.2s; font-family:'Inter',sans-serif;
+  }
+  .duration-btn.selected, .duration-btn:hover {
+    background:var(--accent-glow); border-color:var(--accent); color:var(--accent);
+  }
+</style>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+function setDuration(mins) {
+  document.getElementById('durationInput').value = mins;
+  document.querySelectorAll('.duration-btn').forEach(b => b.classList.remove('selected'));
+  document.querySelectorAll(`.duration-btn[data-mins="${mins}"]`).forEach(b => b.classList.add('selected'));
+}
+
+async function loadChapters(textbookId) {
+  if (!textbookId) { document.getElementById('chapterGroup').style.display='none'; return; }
+  // Simple: show the chapter dropdown (chapters loaded via inline link for now)
+  document.getElementById('chapterGroup').style.display = 'block';
+}
+
+// Pre-select 25m
+document.querySelector('.duration-btn[data-mins="25"]').classList.add('selected');
+</script>
+{% endblock %}

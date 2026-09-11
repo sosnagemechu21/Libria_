@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% block title %}Library — Libria{% endblock %}
+{% block content %}
+<div class="topbar">
+  <div>
+    <div class="topbar-title">📚 Digital Library</div>
+    <div class="topbar-subtitle">Ethiopian Ministry of Education textbooks — Grade 9 to 12</div>
+  </div>
+</div>
+
+<div class="grid-4 stagger-children mb-24">
+  {% for grade in grades %}
+  <a href="{% url 'library:grade' grade.number %}" style="text-decoration:none;">
+    <div class="card animate-fadeInUp" style="border-top:4px solid {{ grade.cover_color }}; text-align:center; cursor:pointer;">
+      <div style="font-size:40px; margin-bottom:12px;">📗</div>
+      <div class="font-bold" style="font-size:20px;">{{ grade.label }}</div>
+      <div class="text-sm text-muted mt-8">{{ grade.subjects.count }} subjects</div>
+      <div class="badge mt-8" style="margin:12px auto 0; display:inline-flex;">
+        Explore →
+      </div>
+    </div>
+  </a>
+  {% empty %}
+  <div style="grid-column:span 4; text-align:center; padding:60px; color:var(--text-faint);">
+    <div style="font-size:48px; margin-bottom:16px;">📦</div>
+    <p>Library is being loaded. Run <code>python manage.py seed_library</code> to populate.</p>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Coming soon -->
+<div class="card" style="border:2px dashed var(--border); text-align:center; padding:40px;">
+  <div style="font-size:36px; margin-bottom:12px;">🎓</div>
+  <div class="font-bold" style="font-size:18px; margin-bottom:8px;">University / Freshman Resources</div>
+  <p class="text-muted text-sm">Department textbooks and freshman resources are coming soon. Stay tuned!</p>
+  <span class="badge mt-16" style="margin-top:16px; display:inline-block;">Coming Soon</span>
+</div>
+{% endblock %}

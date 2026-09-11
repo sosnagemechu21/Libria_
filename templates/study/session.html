@@ -1,0 +1,745 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" data-theme="{{ current_theme }}">
+<head>
+  <meta charset="UTF-8" /><meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>Focus — {{ session.textbook.subject.name }} · Libria</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{% static 'css/themes.css' %}" />
+  <link rel="stylesheet" href="{% static 'css/main.css' %}" />
+  <style>
+    /* ── Full-screen Focus Layout (from sketch) ─────────────── */
+    body { overflow: hidden; height: 100vh; }
+
+    .focus-layout {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      grid-template-rows: 1fr auto;
+      height: 100vh;
+      gap: 0;
+    }
+
+    /* ── Left Sidebar (Music, Background, Notes) ─────────────── */
+    .focus-sidebar {
+      background: var(--bg-sidebar);
+      border-right: 1px solid var(--border);
+      grid-row: 1 / 3;
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      padding: 0;
+    }
+
+    .focus-sidebar-header {
+      padding: 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .focus-sidebar-title {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: var(--text-faint);
+    }
+
+    .sidebar-section {
+      padding: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .sidebar-section-label {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* Music Player Mini */
+    .music-player {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px;
+    }
+
+    .music-select {
+      width: 100%;
+      padding: 6px 10px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 12px;
+      font-family: 'Inter', sans-serif;
+      outline: none;
+      margin-bottom: 10px;
+      appearance: none;
+    }
+
+    .music-controls {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .music-btn {
+      background: var(--accent-glow);
+      border: none;
+      border-radius: 8px;
+      color: var(--accent);
+      cursor: pointer;
+      padding: 6px 10px;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+
+    .music-btn:hover { background: var(--accent); color: #fff; }
+
+    .volume-slider {
+      flex: 1;
+      appearance: none;
+      height: 3px;
+      background: var(--border);
+      border-radius: 2px;
+      outline: none;
+    }
+
+    .volume-slider::-webkit-slider-thumb {
+      appearance: none;
+      width: 12px; height: 12px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+    }
+
+    /* Background / Theme switcher */
+    .bg-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 6px;
+    }
+
+    .bg-dot {
+      height: 28px;
+      border-radius: 8px;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: all 0.2s;
+    }
+
+    .bg-dot:hover, .bg-dot.active { border-color: var(--accent); transform: scale(1.08); }
+    .bg-dot[data-theme-target="noir"]     { background: linear-gradient(135deg,#fff,#000); }
+    .bg-dot[data-theme-target="forest"]   { background: linear-gradient(135deg,#262D1A,#7A9E4E); }
+    .bg-dot[data-theme-target="paper"]    { background: linear-gradient(135deg,#F4EDE1,#8B6B4A); }
+    .bg-dot[data-theme-target="midnight"] { background: linear-gradient(135deg,#111827,#4B7BE5); }
+    .bg-dot[data-theme-target="blush"]    { background: linear-gradient(135deg,#F7E8E8,#C26E7A); }
+    .bg-dot[data-theme-target="mocha"]    { background: linear-gradient(135deg,#E8DDD0,#9B7355); }
+
+    /* Notes */
+    .notes-area {
+      width: 100%;
+      min-height: 120px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      color: var(--text);
+      font-size: 13px;
+      font-family: 'Inter', sans-serif;
+      padding: 10px;
+      resize: vertical;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .notes-area:focus { border-color: var(--accent); }
+
+    /* YouTube panel */
+    .yt-search-input {
+      width: 100%;
+      padding: 8px 10px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 12px;
+      font-family: 'Inter', sans-serif;
+      outline: none;
+      margin-bottom: 8px;
+    }
+    .yt-search-input:focus { border-color: var(--accent); }
+
+    .yt-results { display: flex; flex-direction: column; gap: 6px; max-height: 200px; overflow-y: auto; }
+
+    .yt-result-item {
+      display: flex; gap: 8px; align-items: center;
+      padding: 6px 8px;
+      background: var(--bg-card);
+      border-radius: 8px;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      transition: all 0.2s;
+    }
+
+    .yt-result-item:hover { border-color: var(--accent); background: var(--accent-glow); }
+
+    .yt-thumb { width: 48px; height: 32px; border-radius: 4px; object-fit: cover; }
+    .yt-title { font-size: 11px; color: var(--text); line-height: 1.3; }
+    .yt-channel { font-size: 10px; color: var(--text-faint); }
+
+    .yt-player-mini {
+      width: 100%;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-top: 8px;
+      display: none;
+    }
+
+    /* ── Center: Main study area ─────────────────────────────── */
+    .focus-main {
+      background: var(--bg);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .focus-topbar {
+      padding: 12px 24px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--bg);
+      flex-shrink: 0;
+    }
+
+    .focus-subject {
+      display: flex; align-items: center; gap: 10px;
+    }
+
+    .focus-subject-icon {
+      width: 36px; height: 36px;
+      background: var(--accent-glow);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+
+    .focus-subject-name { font-weight: 700; font-size: 15px; color: var(--text); }
+    .focus-subject-book { font-size: 12px; color: var(--text-muted); }
+
+    .focus-topbar-actions { display: flex; align-items: center; gap: 10px; }
+
+    /* Libria Study Space header tag */
+    .libria-tag {
+      font-family: 'Playfair Display', serif;
+      font-size: 13px;
+      color: var(--text-faint);
+      font-style: italic;
+    }
+
+    /* PDF / content viewer */
+    .focus-content {
+      flex: 1;
+      overflow: auto;
+      padding: 24px;
+      position: relative;
+    }
+
+    .pdf-viewer {
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 12px;
+      background: var(--bg-secondary);
+    }
+
+    .no-pdf-placeholder {
+      height: 100%;
+      min-height: 400px;
+      background: var(--bg-card);
+      border: 2px dashed var(--border);
+      border-radius: 16px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 40px;
+    }
+
+    /* ── Bottom Bar (timer, AI, controls) ────────────────────── */
+    .focus-bottombar {
+      background: var(--bg-sidebar);
+      border-top: 1px solid var(--border);
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+    }
+
+    .focus-bottombar-left { display: flex; align-items: center; gap: 16px; }
+    .focus-bottombar-right { display: flex; align-items: center; gap: 10px; }
+
+    /* Timer display */
+    .timer-display {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--text);
+      min-width: 100px;
+      text-align: center;
+      transition: color 0.3s;
+    }
+
+    .timer-display.warning { color: var(--warning); }
+    .timer-display.urgent  { color: var(--danger); animation: pulse-glow 1s infinite; }
+
+    .timer-label { font-size: 10px; color: var(--text-faint); text-align: center; letter-spacing: 1px; text-transform: uppercase; }
+
+    /* Progress ring */
+    .timer-ring { position: relative; width: 60px; height: 60px; }
+    .timer-ring svg { transform: rotate(-90deg); }
+    .timer-ring circle { fill: none; stroke-width: 4; }
+    .timer-ring .bg { stroke: var(--border); }
+    .timer-ring .prog { stroke: var(--accent); stroke-linecap: round; transition: stroke-dashoffset 1s linear; }
+    .timer-ring .time-text {
+      position: absolute; inset: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 11px; font-weight: 700; color: var(--text);
+    }
+
+    /* Bottom action buttons */
+    .focus-action-btn {
+      display: flex; flex-direction: column; align-items: center; gap: 3px;
+      padding: 8px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-muted);
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      transition: all 0.2s;
+    }
+
+    .focus-action-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-glow); }
+    .focus-action-btn .icon { font-size: 18px; }
+
+    .focus-action-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* End session modal */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 500;
+      background: rgba(0,0,0,0.5);
+      display: flex; align-items: center; justify-content: center;
+      display: none;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal-box {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 36px;
+      width: 100%; max-width: 400px;
+      box-shadow: var(--shadow-lg);
+      animation: fadeInUp 0.3s ease;
+    }
+
+    @media(max-width:768px) {
+      .focus-layout { grid-template-columns: 1fr; }
+      .focus-sidebar { display: none; }
+    }
+  </style>
+</head>
+<body>
+<div class="focus-layout">
+
+  <!-- ── Left Sidebar ───────────────────────────────────────── -->
+  <div class="focus-sidebar">
+    <div class="focus-sidebar-header">
+      <span class="focus-sidebar-title">Study Tools</span>
+      <a href="{% url 'progress:dashboard' %}" class="music-btn" title="Exit session">✕</a>
+    </div>
+
+    <!-- 🎵 Music -->
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">🎵 Music</div>
+      <div class="music-player">
+        <select class="music-select" id="musicGenre" onchange="loadMusic()">
+          <option value="">— No Music —</option>
+          <option value="lofi">Lo-Fi Hip Hop</option>
+          <option value="classical">Classical Focus</option>
+          <option value="nature">Nature Sounds</option>
+          <option value="ambient">Deep Ambient</option>
+          <option value="jazz">Jazz Study</option>
+        </select>
+        <div class="music-controls">
+          <button class="music-btn" id="playBtn" onclick="toggleMusic()">▶</button>
+          <input type="range" class="volume-slider" id="volSlider" min="0" max="1" step="0.05" value="0.5" oninput="setVolume(this.value)" />
+          <span style="font-size:11px; color:var(--text-faint);" id="volLabel">50%</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 🎨 Background/Theme -->
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">🎨 Atmosphere</div>
+      <div class="bg-grid">
+        {% for key, name in themes %}
+        <div class="bg-dot theme-dot {% if current_theme == key %}active{% endif %}"
+             data-theme-target="{{ key }}"
+             title="{{ name }}"
+             onclick="switchTheme('{{ key }}')"></div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- 📝 Notes -->
+    <div class="sidebar-section" style="flex:1;">
+      <div class="sidebar-section-label">📝 Notes</div>
+      <textarea class="notes-area" id="sessionNotes" placeholder="Jot down key ideas, formulas, or questions as you study...">{{ session.notes }}</textarea>
+      <button class="music-btn" style="margin-top:8px; width:100%;" onclick="saveNotes()">Save Notes</button>
+    </div>
+
+    <!-- 🎥 YouTube Study Companion -->
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">🎥 Study Videos</div>
+      <p style="font-size:10px; color:var(--text-faint); margin-bottom:8px;">
+        Educational only · No Shorts
+      </p>
+      <input type="text" class="yt-search-input" id="ytSearchInput"
+             placeholder="Search: {{ session.textbook.subject.name }}..."
+             onkeydown="if(event.key==='Enter') searchYouTube()" />
+      <button class="music-btn" style="width:100%; margin-bottom:8px;" onclick="searchYouTube()">🔍 Find Videos</button>
+      <div class="yt-results" id="ytResults"></div>
+      <div class="yt-player-mini" id="ytPlayerMini">
+        <div id="ytPlayer"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Main Focus Area ────────────────────────────────────── -->
+  <div class="focus-main">
+    <!-- Top bar -->
+    <div class="focus-topbar">
+      <div class="focus-subject">
+        <div class="focus-subject-icon">{{ session.textbook.subject.icon }}</div>
+        <div>
+          <div class="focus-subject-name">{{ session.textbook.subject.name }}</div>
+          <div class="focus-subject-book">{{ session.textbook.title|truncatechars:55 }}</div>
+        </div>
+      </div>
+      <div class="libria-tag">Libria Study Space</div>
+      <div class="focus-topbar-actions">
+        {% if session.textbook.pdf_file %}
+        <a href="{{ session.textbook.pdf_file.url }}" target="_blank" class="btn btn-secondary btn-sm">📄 Open in Tab</a>
+        {% elif session.textbook.kehulum_url %}
+        <a href="{{ session.textbook.kehulum_url }}" target="_blank" rel="noopener" class="btn btn-secondary btn-sm">🔗 View Book</a>
+        {% endif %}
+        <button class="btn btn-ghost btn-sm" onclick="openEndModal()">End Session</button>
+      </div>
+    </div>
+
+    <!-- Content / PDF viewer -->
+    <div class="focus-content">
+      {% if session.textbook.pdf_file %}
+        <iframe src="{{ session.textbook.pdf_file.url }}" class="pdf-viewer" title="{{ session.textbook.title }}"></iframe>
+      {% else %}
+        <div class="no-pdf-placeholder">
+          <div style="font-size:64px; margin-bottom:20px;">{{ session.textbook.subject.icon }}</div>
+          <h2 style="font-size:22px; color:var(--text); margin-bottom:12px;">{{ session.textbook.title }}</h2>
+          <p class="text-muted" style="margin-bottom:24px; max-width:400px; line-height:1.6;">
+            The PDF for this textbook hasn't been uploaded yet. Use the link below to read it on kehulum.com, or upload it via the admin panel.
+          </p>
+          {% if session.textbook.kehulum_url %}
+          <a href="{{ session.textbook.kehulum_url }}" target="_blank" rel="noopener" class="btn btn-primary btn-lg">
+            📖 Open on Kehulum.com →
+          </a>
+          {% endif %}
+          <div style="margin-top:24px; padding:16px; background:var(--bg-secondary); border-radius:12px; max-width:500px;">
+            <div class="text-sm font-bold" style="margin-bottom:8px;">📝 Study Notes</div>
+            <p class="text-xs text-muted">Use the notes panel on the left to write down key concepts, formulas, and questions as you read. Your notes are saved with this session.</p>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+
+    <!-- ── Bottom Bar (from sketch) ──────────────────────────── -->
+    <div class="focus-bottombar">
+      <!-- Left: Focus timer + AI -->
+      <div class="focus-bottombar-left">
+        <button class="focus-action-btn" id="focusLoopBtn" onclick="toggleFocusTimer()">
+          <span class="icon">⏱</span>
+          Focus Timer
+        </button>
+        <a href="{% url 'ai_assistant:new' %}?textbook={{ session.textbook.pk }}" class="focus-action-btn">
+          <span class="icon">🤖</span>
+          AI Help
+        </a>
+        <button class="focus-action-btn" id="pauseBtn" onclick="togglePause()">
+          <span class="icon" id="pauseIcon">⏸</span>
+          <span id="pauseLabel">Pause</span>
+        </button>
+      </div>
+
+      <!-- Center: Timer ring + display -->
+      <div style="display:flex; flex-direction:column; align-items:center; gap:4px;">
+        <div class="timer-ring">
+          <svg width="60" height="60" viewBox="0 0 60 60">
+            <circle class="bg" cx="30" cy="30" r="26" />
+            <circle class="prog" id="timerRing" cx="30" cy="30" r="26"
+                    stroke-dasharray="163.4" stroke-dashoffset="0" />
+          </svg>
+          <div class="time-text" id="timerRingText">—</div>
+        </div>
+        <div class="timer-display" id="timerDisplay">
+          {{ session.planned_duration }}:00
+        </div>
+        <div class="timer-label">Remaining</div>
+      </div>
+
+      <!-- Right: Break + End -->
+      <div class="focus-bottombar-right">
+        <form method="post" action="{% url 'study:take_break' session.pk %}" style="display:inline;">
+          {% csrf_token %}
+          <input type="hidden" name="duration" value="5" />
+          <button type="submit" class="focus-action-btn">
+            <span class="icon">☕</span>
+            Break 5min
+          </button>
+        </form>
+        <button class="focus-action-btn" style="background:var(--danger); color:#fff; border-color:var(--danger);" onclick="openEndModal()">
+          <span class="icon">✓</span>
+          Done
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- End Session Modal -->
+<div class="modal-overlay" id="endModal">
+  <div class="modal-box">
+    <h2 style="font-size:22px; margin-bottom:8px;">End Study Session?</h2>
+    <p class="text-muted text-sm" style="margin-bottom:24px;">
+      You've studied for <strong id="modalTime">0</strong> minutes. Great work!
+    </p>
+    <div class="form-group">
+      <label class="form-label">What did you cover today?</label>
+      <textarea class="form-control" id="topicsCovered" rows="3" placeholder="e.g. Chapter 3 — Newton's laws, solved practice problems..."></textarea>
+    </div>
+    <div style="display:flex; gap:12px;">
+      <button class="btn btn-primary" style="flex:1;" onclick="endSession()">✓ Complete Session</button>
+      <button class="btn btn-secondary" onclick="closeEndModal()">Keep Studying</button>
+    </div>
+  </div>
+</div>
+
+<script src="{% static 'js/theme-switcher.js' %}"></script>
+<script>
+const CSRF_TOKEN = '{{ csrf_token }}';
+const SESSION_ID = {{ session.pk }};
+const PLANNED_SECONDS = {{ session.planned_duration }} * 60;
+const YT_API_KEY = '{{ youtube_api_key }}';
+const SUBJECT_NAME = '{{ session.textbook.subject.name }}';
+
+let secondsElapsed = 0;
+let secondsRemaining = PLANNED_SECONDS;
+let timerInterval = null;
+let isPaused = false;
+let ytPlayer = null;
+let musicAudio = null;
+
+// ── Timer ─────────────────────────────────────────────────────
+function startTimer() {
+  if (timerInterval) return;
+  timerInterval = setInterval(() => {
+    if (isPaused) return;
+    secondsElapsed++;
+    secondsRemaining = Math.max(0, PLANNED_SECONDS - secondsElapsed);
+    updateTimerDisplay();
+    if (secondsElapsed % 30 === 0) syncSession();
+    if (secondsRemaining === 0) { clearInterval(timerInterval); autoEndSession(); }
+  }, 1000);
+}
+
+function toggleFocusTimer() {
+  const btn = document.getElementById('focusLoopBtn');
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
+    btn.classList.remove('active');
+  } else {
+    startTimer();
+    btn.classList.add('active');
+  }
+}
+
+function togglePause() {
+  isPaused = !isPaused;
+  document.getElementById('pauseIcon').textContent = isPaused ? '▶' : '⏸';
+  document.getElementById('pauseLabel').textContent = isPaused ? 'Resume' : 'Pause';
+  document.getElementById('pauseBtn').classList.toggle('active', isPaused);
+}
+
+function updateTimerDisplay() {
+  const m = Math.floor(secondsRemaining / 60);
+  const s = secondsRemaining % 60;
+  const txt = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  document.getElementById('timerDisplay').textContent = txt;
+  document.getElementById('timerRingText').textContent = m + 'm';
+
+  // Progress ring
+  const pct = 1 - (secondsRemaining / PLANNED_SECONDS);
+  const circumference = 163.4;
+  document.getElementById('timerRing').style.strokeDashoffset = circumference * (1 - pct);
+
+  // Color warning
+  const disp = document.getElementById('timerDisplay');
+  disp.classList.remove('warning', 'urgent');
+  if (secondsRemaining < 120) disp.classList.add('urgent');
+  else if (secondsRemaining < 300) disp.classList.add('warning');
+}
+
+// ── Sync to server ────────────────────────────────────────────
+function syncSession(status) {
+  const data = { actual_duration: secondsElapsed };
+  if (status) data.status = status;
+  const notes = document.getElementById('sessionNotes').value;
+  if (notes) data.notes = notes;
+  fetch(`/study/session/${SESSION_ID}/update/`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'X-CSRFToken': CSRF_TOKEN },
+    body: JSON.stringify(data),
+  });
+}
+
+function saveNotes() {
+  syncSession();
+  document.getElementById('sessionNotes').style.borderColor = 'var(--success)';
+  setTimeout(() => document.getElementById('sessionNotes').style.borderColor = '', 1500);
+}
+
+// ── End session ───────────────────────────────────────────────
+function openEndModal() {
+  document.getElementById('modalTime').textContent = Math.round(secondsElapsed / 60);
+  document.getElementById('endModal').classList.add('open');
+}
+
+function closeEndModal() {
+  document.getElementById('endModal').classList.remove('open');
+}
+
+async function endSession() {
+  const topics = document.getElementById('topicsCovered').value;
+  await fetch(`/study/session/${SESSION_ID}/update/`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'X-CSRFToken': CSRF_TOKEN },
+    body: JSON.stringify({ actual_duration: secondsElapsed, status: 'completed', notes: document.getElementById('sessionNotes').value, topics_covered: topics }),
+  });
+  window.location.href = `/study/complete/${SESSION_ID}/`;
+}
+
+function autoEndSession() {
+  syncSession('completed');
+  window.location.href = `/study/complete/${SESSION_ID}/`;
+}
+
+// ── Music ─────────────────────────────────────────────────────
+const MUSIC_URLS = {
+  lofi: 'https://www.youtube.com/embed/jfKfPfyJRdk?autoplay=1&loop=1',
+  classical: 'https://www.youtube.com/embed/mGQLXRTl3Z0?autoplay=1&loop=1',
+  nature: 'https://www.youtube.com/embed/eKFTSSKCzWA?autoplay=1&loop=1',
+  ambient: 'https://www.youtube.com/embed/5qap5aO4i9A?autoplay=1&loop=1',
+  jazz: 'https://www.youtube.com/embed/Dx5qFachd3A?autoplay=1&loop=1',
+};
+
+let musicIframe = null;
+let musicPlaying = false;
+
+function loadMusic() {
+  const genre = document.getElementById('musicGenre').value;
+  if (musicIframe) musicIframe.remove();
+  if (!genre) { musicPlaying = false; updatePlayBtn(); return; }
+  musicIframe = document.createElement('iframe');
+  musicIframe.src = MUSIC_URLS[genre] || '';
+  musicIframe.style.cssText = 'width:0;height:0;position:absolute;opacity:0;';
+  document.body.appendChild(musicIframe);
+  musicPlaying = true;
+  updatePlayBtn();
+}
+
+function toggleMusic() {
+  if (!musicIframe) { loadMusic(); return; }
+  musicPlaying = !musicPlaying;
+  musicIframe.src = musicPlaying ? musicIframe.src : '';
+  updatePlayBtn();
+}
+
+function updatePlayBtn() {
+  document.getElementById('playBtn').textContent = musicPlaying ? '⏸' : '▶';
+}
+
+function setVolume(v) {
+  document.getElementById('volLabel').textContent = Math.round(v * 100) + '%';
+}
+
+// ── YouTube Study Videos ──────────────────────────────────────
+async function searchYouTube() {
+  const q = document.getElementById('ytSearchInput').value.trim() || SUBJECT_NAME;
+  const res = await fetch(`/study/youtube/search/?q=${encodeURIComponent(q)}&mode=study`);
+  const data = await res.json();
+  const container = document.getElementById('ytResults');
+  container.innerHTML = '';
+  if (!data.items || data.items.length === 0) {
+    container.innerHTML = '<p style="font-size:11px;color:var(--text-faint);text-align:center;padding:8px;">No results. Check your YouTube API key in .env</p>';
+    return;
+  }
+  data.items.forEach(item => {
+    const el = document.createElement('div');
+    el.className = 'yt-result-item';
+    el.innerHTML = `
+      <img src="${item.thumbnail}" class="yt-thumb" alt="${item.title}" />
+      <div>
+        <div class="yt-title">${item.title.substring(0,60)}...</div>
+        <div class="yt-channel">${item.channel}</div>
+      </div>`;
+    el.onclick = () => playYTVideo(item.id, item.title);
+    container.appendChild(el);
+  });
+}
+
+function playYTVideo(videoId, title) {
+  const playerDiv = document.getElementById('ytPlayerMini');
+  playerDiv.style.display = 'block';
+  playerDiv.innerHTML = `<iframe width="100%" height="140"
+    src="https://www.youtube.com/embed/${videoId}?autoplay=1"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="border-radius:10px;"></iframe>`;
+}
+
+// Start timer automatically
+startTimer();
+document.getElementById('focusLoopBtn').classList.add('active');
+
+// Pre-fill YouTube search with subject
+document.getElementById('ytSearchInput').value = SUBJECT_NAME + ' lesson';
+</script>
+</body>
+</html>

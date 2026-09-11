@@ -1,0 +1,182 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Dashboard — Libria{% endblock %}
+
+{% block content %}
+<div class="topbar">
+  <div>
+    <div class="topbar-title">Good {{ time_greeting }}, {{ user.profile.get_display_name }} 👋</div>
+    <div class="topbar-subtitle">Here's your study snapshot for today.</div>
+  </div>
+  <div class="topbar-actions">
+    <a href="{% url 'study:setup' %}" class="btn btn-primary">⏱ Start Studying</a>
+  </div>
+</div>
+
+<!-- Today's goal bar -->
+<div class="card mb-24 animate-fadeInUp">
+  <div class="flex-between mb-8">
+    <div>
+      <div class="font-bold">Today's Study Goal</div>
+      <div class="text-sm text-muted">{{ today_minutes }} / {{ goal_minutes }} minutes</div>
+    </div>
+    <div class="text-accent font-bold" style="font-size:22px;">{{ today_percent }}%</div>
+  </div>
+  <div class="progress-bar-wrap">
+    <div class="progress-bar-fill" style="width:{{ today_percent }}%"></div>
+  </div>
+</div>
+
+<!-- Stat cards -->
+<div class="grid-4 mb-24 stagger-children">
+  <div class="stat-card animate-fadeInUp">
+    <div class="stat-icon">🔥</div>
+    <div>
+      <div class="stat-value">{{ streak.current_streak }}</div>
+      <div class="stat-label">Day Streak</div>
+    </div>
+  </div>
+  <div class="stat-card animate-fadeInUp">
+    <div class="stat-icon">⏱</div>
+    <div>
+      <div class="stat-value">{{ total_minutes }}</div>
+      <div class="stat-label">Total Minutes Studied</div>
+    </div>
+  </div>
+  <div class="stat-card animate-fadeInUp">
+    <div class="stat-icon">📚</div>
+    <div>
+      <div class="stat-value">{{ total_sessions }}</div>
+      <div class="stat-label">Sessions Completed</div>
+    </div>
+  </div>
+  <div class="stat-card animate-fadeInUp">
+    <div class="stat-icon">🏆</div>
+    <div>
+      <div class="stat-value">{{ streak.longest_streak }}</div>
+      <div class="stat-label">Longest Streak</div>
+    </div>
+  </div>
+</div>
+
+<div class="grid-2 mb-24">
+  <!-- Weekly Chart -->
+  <div class="card animate-fadeInUp">
+    <div class="card-header">
+      <div class="font-bold">This Week</div>
+      <span class="badge">Last 7 days</span>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="weekChart"></canvas>
+    </div>
+  </div>
+
+  <!-- Subject Progress -->
+  <div class="card animate-fadeInUp">
+    <div class="card-header">
+      <div class="font-bold">Subject Progress</div>
+      <a href="{% url 'library:home' %}" class="btn btn-ghost btn-sm">View Library</a>
+    </div>
+    {% if subject_progress %}
+      {% for prog in subject_progress %}
+      <div style="margin-bottom:14px;">
+        <div class="flex-between mb-4">
+          <span class="text-sm font-bold">{{ prog.subject.icon }} {{ prog.subject.name }}</span>
+          <span class="text-xs text-muted">{{ prog.total_minutes }} min</span>
+        </div>
+        <div class="progress-bar-wrap">
+          <div class="progress-bar-fill" style="width:{{ prog.strength_score|floatformat:0 }}%; background:{{ prog.subject.color }};"></div>
+        </div>
+      </div>
+      {% endfor %}
+    {% else %}
+      <div style="text-align:center; padding:32px; color:var(--text-faint);">
+        <div style="font-size:32px; margin-bottom:12px;">📖</div>
+        <p class="text-sm">No study sessions yet.</p>
+        <a href="{% url 'study:setup' %}" class="btn btn-primary btn-sm" style="margin-top:12px;">Start your first session</a>
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+<!-- Recent Sessions -->
+<div class="card animate-fadeInUp">
+  <div class="card-header">
+    <div class="font-bold">Recent Sessions</div>
+    <a href="{% url 'study:setup' %}" class="btn btn-primary btn-sm">+ New Session</a>
+  </div>
+  {% if recent_sessions %}
+  <table style="width:100%; border-collapse:collapse;">
+    <thead>
+      <tr style="border-bottom:1px solid var(--border);">
+        <th style="text-align:left; padding:8px 12px; font-size:12px; color:var(--text-faint); font-weight:600;">SUBJECT</th>
+        <th style="text-align:left; padding:8px 12px; font-size:12px; color:var(--text-faint); font-weight:600;">TEXTBOOK</th>
+        <th style="text-align:left; padding:8px 12px; font-size:12px; color:var(--text-faint); font-weight:600;">DURATION</th>
+        <th style="text-align:left; padding:8px 12px; font-size:12px; color:var(--text-faint); font-weight:600;">DATE</th>
+        <th style="padding:8px;"></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for session in recent_sessions %}
+      <tr style="border-bottom:1px solid var(--border);">
+        <td style="padding:12px;">
+          <span style="font-size:18px;">{{ session.textbook.subject.icon }}</span>
+          <span class="text-sm font-bold" style="margin-left:8px;">{{ session.textbook.subject.name }}</span>
+        </td>
+        <td style="padding:12px;" class="text-sm text-muted">{{ session.textbook.title|truncatechars:40 }}</td>
+        <td style="padding:12px;">
+          <span class="badge">{{ session.get_duration_minutes }} min</span>
+        </td>
+        <td style="padding:12px;" class="text-sm text-muted">{{ session.started_at|date:"M d, Y" }}</td>
+        <td style="padding:12px;">
+          <span class="badge {% if session.status == 'completed' %}text-sm{% endif %}"
+                style="background:{% if session.status == 'completed' %}rgba(52,168,90,0.15){% else %}var(--tag-bg){% endif %};
+                       color:{% if session.status == 'completed' %}var(--success){% else %}var(--text-muted){% endif %}">
+            {{ session.status }}
+          </span>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <div style="text-align:center; padding:48px; color:var(--text-faint);">
+    <div style="font-size:48px; margin-bottom:16px;">🌱</div>
+    <p>Your study history will appear here.<br>Start your first session to begin.</p>
+    <a href="{% url 'study:setup' %}" class="btn btn-primary" style="margin-top:20px;">Begin Now →</a>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script>
+const weekData = {{ week_logs|safe }};
+const ctx = document.getElementById('weekChart').getContext('2d');
+new Chart(ctx, {
+  type: 'bar',
+  data: {
+    labels: weekData.map(d => d.date),
+    datasets: [{
+      data: weekData.map(d => d.minutes),
+      backgroundColor: weekData.map(d => d.goal_met
+        ? getComputedStyle(document.documentElement).getPropertyValue('--accent').trim()
+        : getComputedStyle(document.documentElement).getPropertyValue('--bg-secondary').trim()
+      ),
+      borderRadius: 8,
+      borderSkipped: false,
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { grid: { display: false }, ticks: { color: getComputedStyle(document.documentElement).getPropertyValue('--text-muted') } },
+      y: { grid: { color: getComputedStyle(document.documentElement).getPropertyValue('--border') }, ticks: { color: getComputedStyle(document.documentElement).getPropertyValue('--text-muted') } }
+    }
+  }
+});
+</script>
+{% endblock %}

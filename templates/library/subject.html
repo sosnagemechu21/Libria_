@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% block title %}{{ subject.name }} — {{ grade.label }}{% endblock %}
+{% block content %}
+<div class="topbar">
+  <div>
+    <a href="{% url 'library:grade' grade.number %}" class="text-muted text-sm">← {{ grade.label }}</a>
+    <div class="topbar-title">{{ subject.icon }} {{ subject.name }}</div>
+  </div>
+</div>
+
+<!-- Filters -->
+<div style="display:flex; gap:12px; margin-bottom:24px; flex-wrap:wrap;">
+  <a href="?curriculum=new&type=student" class="btn {% if curriculum == 'new' and book_type == 'student' %}btn-primary{% else %}btn-secondary{% endif %} btn-sm">New Curriculum</a>
+  <a href="?curriculum=old&type=student" class="btn {% if curriculum == 'old' and book_type == 'student' %}btn-primary{% else %}btn-secondary{% endif %} btn-sm">Old Curriculum</a>
+  <a href="?curriculum=new&type=teacher" class="btn {% if book_type == 'teacher' %}btn-primary{% else %}btn-secondary{% endif %} btn-sm">Teacher's Guide</a>
+</div>
+
+<div class="grid-auto stagger-children">
+  {% for book in textbooks %}
+  <a href="{% url 'library:textbook' book.pk %}" style="text-decoration:none;">
+    <div class="book-card animate-fadeInUp">
+      {% if book.cover_image %}
+        <img src="{{ book.cover_image.url }}" alt="{{ book.title }}" class="book-cover" />
+      {% elif book.cover_url %}
+        <img src="{{ book.cover_url }}" alt="{{ book.title }}" class="book-cover" loading="lazy" />
+      {% else %}
+        <div class="book-cover-placeholder">{{ subject.icon }}</div>
+      {% endif %}
+      <div class="book-info">
+        <div class="book-title">{{ book.title }}</div>
+        <div class="book-meta">{{ book.pages }} pages · {{ book.chapters }} chapters</div>
+        <div class="book-tags">
+          <span class="badge">{{ book.get_curriculum_type_display }}</span>
+          <span class="badge">{{ book.publisher }}</span>
+        </div>
+        <div style="margin-top:12px;">
+          <span class="btn btn-primary btn-sm" style="width:100%; justify-content:center;">Study This →</span>
+        </div>
+      </div>
+    </div>
+  </a>
+  {% empty %}
+  <div style="grid-column:span 4; text-align:center; padding:48px; color:var(--text-faint);">
+    <div style="font-size:48px; margin-bottom:16px;">📭</div>
+    <p>No textbooks in this category yet.<br>Try a different filter or check back later.</p>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

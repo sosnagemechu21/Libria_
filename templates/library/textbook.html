@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+{% block title %}{{ textbook.title }} — Libria{% endblock %}
+{% block content %}
+<a href="javascript:history.back()" class="text-muted text-sm" style="display:inline-block; margin-bottom:20px;">← Back</a>
+
+<div class="grid-2" style="gap:32px; align-items:start;">
+  <!-- Left: Book info -->
+  <div>
+    <div class="card" style="margin-bottom:20px;">
+      {% if textbook.cover_image %}
+        <img src="{{ textbook.cover_image.url }}" alt="{{ textbook.title }}" style="width:100%; border-radius:12px; margin-bottom:20px;" />
+      {% elif textbook.cover_url %}
+        <img src="{{ textbook.cover_url }}" alt="{{ textbook.title }}" style="width:100%; border-radius:12px; margin-bottom:20px;" loading="lazy" />
+      {% else %}
+        <div style="height:200px; background:var(--gradient-card); border-radius:12px; display:flex; align-items:center; justify-content:center; font-size:64px; margin-bottom:20px;">
+          {{ textbook.subject.icon }}
+        </div>
+      {% endif %}
+
+      <h1 style="font-size:20px; font-weight:700; color:var(--text); margin-bottom:12px; line-height:1.4;">
+        {{ textbook.title }}
+      </h1>
+
+      <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px;">
+        <span class="badge">{{ textbook.get_curriculum_type_display }}</span>
+        <span class="badge">{{ textbook.get_book_type_display }}</span>
+        <span class="badge">{{ textbook.grade.label }}</span>
+      </div>
+
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px;">
+        <div style="background:var(--bg-secondary); border-radius:10px; padding:12px; text-align:center;">
+          <div class="font-bold" style="font-size:20px;">{{ textbook.pages }}</div>
+          <div class="text-xs text-muted">Pages</div>
+        </div>
+        <div style="background:var(--bg-secondary); border-radius:10px; padding:12px; text-align:center;">
+          <div class="font-bold" style="font-size:20px;">{{ textbook.chapters }}</div>
+          <div class="text-xs text-muted">Chapters</div>
+        </div>
+      </div>
+
+      <p class="text-sm text-muted" style="margin-bottom:20px; line-height:1.6;">{{ textbook.description }}</p>
+
+      <div style="display:flex; gap:12px; flex-wrap:wrap;">
+        <a href="{% url 'study:setup' %}?textbook={{ textbook.pk }}" class="btn btn-primary" style="flex:1; justify-content:center;">
+          ⏱ Study This
+        </a>
+        {% if textbook.pdf_file %}
+        <a href="{{ textbook.pdf_file.url }}" class="btn btn-secondary" target="_blank">
+          📥 Open PDF
+        </a>
+        {% elif textbook.kehulum_url %}
+        <a href="{{ textbook.kehulum_url }}" class="btn btn-secondary" target="_blank" rel="noopener">
+          🔗 View on Kehulum
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Right: Chapters + Related -->
+  <div>
+    {% if chapters %}
+    <div class="card" style="margin-bottom:20px;">
+      <div class="card-header">
+        <div class="font-bold">Chapters</div>
+        <span class="badge">{{ chapters.count }}</span>
+      </div>
+      <div style="display:flex; flex-direction:column; gap:8px;">
+        {% for chapter in chapters %}
+        <div style="padding:12px; background:var(--bg-secondary); border-radius:10px; display:flex; align-items:center; justify-content:space-between;">
+          <div>
+            <div class="text-sm font-bold">Ch. {{ chapter.number }}: {{ chapter.title }}</div>
+            {% if chapter.page_start %}<div class="text-xs text-muted">Pages {{ chapter.page_start }}–{{ chapter.page_end }}</div>{% endif %}
+          </div>
+          <a href="{% url 'study:setup' %}?textbook={{ textbook.pk }}" class="btn btn-ghost btn-sm">Study</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if related %}
+    <div class="card">
+      <div class="card-header"><div class="font-bold">Related Textbooks</div></div>
+      <div style="display:flex; flex-direction:column; gap:8px;">
+        {% for rel in related %}
+        <a href="{% url 'library:textbook' rel.pk %}" style="text-decoration:none; padding:12px; background:var(--bg-secondary); border-radius:10px; display:flex; align-items:center; gap:12px;">
+          <span style="font-size:24px;">{{ rel.subject.icon }}</span>
+          <div>
+            <div class="text-sm font-bold">{{ rel.title|truncatechars:50 }}</div>
+            <div class="text-xs text-muted">{{ rel.get_curriculum_type_display }}</div>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

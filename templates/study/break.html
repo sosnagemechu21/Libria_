@@ -1,0 +1,213 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" data-theme="{{ current_theme }}">
+<head>
+  <meta charset="UTF-8" /><meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>Break Time — Libria</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{% static 'css/themes.css' %}" />
+  <link rel="stylesheet" href="{% static 'css/main.css' %}" />
+  <style>
+    body { height:100vh; overflow:hidden; display:flex; flex-direction:column; }
+    .break-layout { display:flex; flex-direction:column; height:100vh; }
+    .break-header {
+      padding:14px 28px; border-bottom:1px solid var(--border);
+      display:flex; align-items:center; justify-content:space-between;
+      background:var(--bg-sidebar); flex-shrink:0;
+    }
+    .break-badge {
+      display:inline-flex; align-items:center; gap:8px;
+      padding:6px 16px; border-radius:20px;
+      background:rgba(52,168,90,0.15); color:var(--success);
+      font-size:13px; font-weight:600;
+    }
+    .break-content { flex:1; display:flex; overflow:hidden; }
+    .yt-panel {
+      flex:1; background:var(--bg); padding:20px; overflow:hidden;
+      display:flex; flex-direction:column;
+    }
+    .yt-search-bar {
+      display:flex; gap:10px; margin-bottom:16px;
+    }
+    .yt-search-bar input {
+      flex:1; padding:10px 14px; background:var(--bg-secondary);
+      border:1px solid var(--border); border-radius:10px;
+      color:var(--text); font-size:14px; font-family:'Inter',sans-serif; outline:none;
+    }
+    .yt-search-bar input:focus { border-color:var(--accent); }
+    .yt-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:12px; overflow-y:auto; flex:1; }
+    .yt-card {
+      background:var(--bg-card); border:1px solid var(--border); border-radius:12px;
+      overflow:hidden; cursor:pointer; transition:all 0.2s;
+    }
+    .yt-card:hover { transform:translateY(-3px); border-color:var(--border-accent); box-shadow:var(--shadow); }
+    .yt-card img { width:100%; aspect-ratio:16/9; object-fit:cover; }
+    .yt-card-info { padding:10px; }
+    .yt-card-title { font-size:12px; font-weight:600; color:var(--text); line-height:1.4; margin-bottom:4px; }
+    .yt-card-channel { font-size:11px; color:var(--text-faint); }
+    .yt-player-wrap {
+      width:380px; background:var(--bg-sidebar); border-left:1px solid var(--border);
+      display:flex; flex-direction:column; padding:20px; flex-shrink:0;
+    }
+    .yt-player-wrap h3 { font-size:15px; color:var(--text); margin-bottom:12px; font-weight:700; }
+    .yt-player-wrap iframe { width:100%; border-radius:12px; border:none; }
+    .yt-nowplaying-title { font-size:13px; color:var(--text); margin-top:12px; font-weight:600; }
+    .yt-nowplaying-channel { font-size:11px; color:var(--text-muted); margin-top:4px; }
+    .no-shorts-notice {
+      display:inline-flex; align-items:center; gap:6px; padding:4px 12px;
+      background:rgba(220,38,38,0.1); color:var(--danger); border-radius:20px;
+      font-size:11px; font-weight:600; margin-bottom:12px;
+    }
+    .break-bottombar {
+      padding:14px 28px; border-top:1px solid var(--border);
+      background:var(--bg-sidebar); display:flex; align-items:center;
+      justify-content:space-between; flex-shrink:0;
+    }
+    .break-timer-display {
+      font-family:'Playfair Display',serif; font-size:36px; font-weight:700; color:var(--success);
+    }
+    @media(max-width:900px){ .yt-grid{grid-template-columns:repeat(2,1fr);} .yt-player-wrap{display:none;} }
+  </style>
+</head>
+<body>
+<div class="break-layout">
+  <!-- Header -->
+  <div class="break-header">
+    <div style="display:flex; align-items:center; gap:16px;">
+      <div class="break-badge">☕ Break Time</div>
+      <span class="text-muted text-sm">Back to: {{ session.textbook.subject.name }}</span>
+    </div>
+    <div style="display:flex; align-items:center; gap:12px;">
+      <div class="theme-dots">
+        {% for key, name in themes %}
+        <div class="theme-dot {% if current_theme == key %}active{% endif %}"
+             data-theme-target="{{ key }}" onclick="switchTheme('{{ key }}')"></div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Main content -->
+  <div class="break-content">
+    <!-- YouTube panel -->
+    <div class="yt-panel">
+      <div style="margin-bottom:12px;">
+        <div class="no-shorts-notice">🚫 No Shorts — Protecting your attention</div>
+      </div>
+      <div class="yt-search-bar">
+        <input type="text" id="breakYtSearch" placeholder="Search anything... (no Shorts)" />
+        <button class="btn btn-primary" onclick="searchBreakYouTube()">🔍 Search</button>
+      </div>
+      <div class="yt-grid" id="breakYtGrid">
+        <div style="grid-column:span 3; text-align:center; padding:40px; color:var(--text-faint);">
+          <div style="font-size:40px; margin-bottom:12px;">🎥</div>
+          <p>Search for something to watch during your break.</p>
+          <p class="text-xs" style="margin-top:8px; opacity:0.7;">Shorts (videos under 60s) are filtered out automatically.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Player panel -->
+    <div class="yt-player-wrap">
+      <h3>Now Playing</h3>
+      <div id="breakPlayerContainer">
+        <div style="height:180px; background:var(--bg-secondary); border-radius:12px; display:flex; align-items:center; justify-content:center; color:var(--text-faint); font-size:32px;">🎬</div>
+      </div>
+      <div class="yt-nowplaying-title" id="nowTitle">Nothing playing</div>
+      <div class="yt-nowplaying-channel" id="nowChannel">Search and click a video</div>
+    </div>
+  </div>
+
+  <!-- Bottom bar -->
+  <div class="break-bottombar">
+    <div>
+      <div style="font-size:11px; color:var(--text-faint); letter-spacing:1px; text-transform:uppercase; margin-bottom:4px;">Break ends in</div>
+      <div class="break-timer-display" id="breakTimer">{{ break_session.planned_duration }}:00</div>
+    </div>
+    <div style="text-align:center; color:var(--text-muted); font-size:13px;">
+      <div>Good break! Your next study session is waiting.</div>
+      <div class="text-xs text-faint" style="margin-top:4px;">Focus → Recall → Break → Return 🔄</div>
+    </div>
+    <div style="display:flex; gap:12px;">
+      <button class="btn btn-secondary" id="skipBreakBtn" onclick="endBreak()">
+        ⚡ Return Early
+      </button>
+      <div id="breakEndedMsg" class="btn btn-primary" style="display:none;" onclick="window.location.href='/study/session/{{ session.pk }}/'">
+        ▶ Back to Study
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="{% static 'js/theme-switcher.js' %}"></script>
+<script>
+const CSRF_TOKEN = '{{ csrf_token }}';
+const BREAK_ID = {{ break_session.pk }};
+const SESSION_ID = {{ session.pk }};
+let breakSeconds = {{ break_session.planned_duration }} * 60;
+let elapsed = 0;
+
+const interval = setInterval(() => {
+  elapsed++;
+  breakSeconds = Math.max(0, {{ break_session.planned_duration }} * 60 - elapsed);
+  const m = Math.floor(breakSeconds / 60);
+  const s = breakSeconds % 60;
+  document.getElementById('breakTimer').textContent = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  if (breakSeconds === 0) { clearInterval(interval); autoEndBreak(); }
+}, 1000);
+
+async function endBreak() {
+  clearInterval(interval);
+  const res = await fetch(`/study/break/${BREAK_ID}/end/`, {
+    method:'POST',
+    headers:{'Content-Type':'application/json','X-CSRFToken':CSRF_TOKEN},
+    body: JSON.stringify({actual_duration: elapsed}),
+  });
+  const data = await res.json();
+  window.location.href = data.redirect || `/study/session/${SESSION_ID}/`;
+}
+
+function autoEndBreak() {
+  document.getElementById('skipBreakBtn').style.display = 'none';
+  document.getElementById('breakEndedMsg').style.display = 'inline-flex';
+  document.getElementById('breakTimer').textContent = 'Time\'s up!';
+  document.getElementById('breakTimer').style.color = 'var(--accent)';
+  fetch(`/study/break/${BREAK_ID}/end/`, {
+    method:'POST', headers:{'Content-Type':'application/json','X-CSRFToken':CSRF_TOKEN},
+    body: JSON.stringify({actual_duration: elapsed}),
+  });
+}
+
+// YouTube search (break mode — no shorts, but relaxed)
+async function searchBreakYouTube() {
+  const q = document.getElementById('breakYtSearch').value.trim();
+  if (!q) return;
+  const res = await fetch(`/study/youtube/search/?q=${encodeURIComponent(q)}&mode=break`);
+  const data = await res.json();
+  const grid = document.getElementById('breakYtGrid');
+  grid.innerHTML = '';
+  if (!data.items || data.items.length === 0) {
+    grid.innerHTML = '<div style="grid-column:span 3;text-align:center;padding:24px;color:var(--text-faint);">No results found.</div>';
+    return;
+  }
+  data.items.forEach(item => {
+    const card = document.createElement('div');
+    card.className = 'yt-card';
+    card.innerHTML = `
+      <img src="${item.thumbnail}" alt="${item.title}" />
+      <div class="yt-card-info">
+        <div class="yt-card-title">${item.title.substring(0,70)}</div>
+        <div class="yt-card-channel">${item.channel}</div>
+      </div>`;
+    card.onclick = () => {
+      document.getElementById('breakPlayerContainer').innerHTML =
+        `<iframe width="100%" height="180" src="https://www.youtube.com/embed/${item.id}?autoplay=1" frameborder="0" allow="autoplay;encrypted-media" allowfullscreen style="border-radius:12px;"></iframe>`;
+      document.getElementById('nowTitle').textContent = item.title;
+      document.getElementById('nowChannel').textContent = item.channel;
+    };
+    grid.appendChild(card);
+  });
+}
+</script>
+</body>
+</html>

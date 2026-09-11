@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block title %}{{ grade.label }} — Library{% endblock %}
+{% block content %}
+<div class="topbar">
+  <div>
+    <a href="{% url 'library:home' %}" class="text-muted text-sm">← Library</a>
+    <div class="topbar-title">{{ grade.label }}</div>
+    <div class="topbar-subtitle">{{ subjects.count }} subjects available</div>
+  </div>
+</div>
+
+<div class="grid-3 stagger-children">
+  {% for subject in subjects %}
+  <a href="{% url 'library:subject' grade.number subject.slug %}" style="text-decoration:none;">
+    <div class="card animate-fadeInUp" style="border-left:4px solid {{ subject.color }}; cursor:pointer;">
+      <div style="font-size:36px; margin-bottom:12px;">{{ subject.icon }}</div>
+      <div class="font-bold" style="font-size:17px; margin-bottom:6px;">{{ subject.name }}</div>
+      <div class="text-sm text-muted">{{ subject.textbooks.count }} textbooks</div>
+      <div style="margin-top:16px; display:flex; gap:8px; flex-wrap:wrap;">
+        {% for book in subject.textbooks.all|slice:":2" %}
+        <span class="badge" style="font-size:10px;">{{ book.get_curriculum_type_display }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  </a>
+  {% empty %}
+  <div style="grid-column:span 3; text-align:center; padding:40px; color:var(--text-faint);">
+    No subjects yet. Run the seed command.
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

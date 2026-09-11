@@ -1,0 +1,488 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" data-theme="{{ current_theme }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Libria — Your Personal Study Space</title>
+  <meta name="description" content="Libria transforms textbooks into an interactive study environment. Study from day one, not just summaries." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{% static 'css/themes.css' %}" />
+  <link rel="stylesheet" href="{% static 'css/main.css' %}" />
+  <style>
+    body { overflow-x: hidden; }
+
+    /* Hero */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      background: var(--bg);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -200px; right: -200px;
+      width: 600px; height: 600px;
+      background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: -150px; left: -150px;
+      width: 400px; height: 400px;
+      background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 80px 40px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 6px 16px;
+      background: var(--accent-glow);
+      border: 1px solid var(--border-accent);
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 24px;
+    }
+
+    .hero-title {
+      font-size: clamp(36px, 5vw, 60px);
+      font-weight: 700;
+      line-height: 1.1;
+      color: var(--text);
+      margin-bottom: 20px;
+    }
+
+    .hero-title em {
+      font-style: italic;
+      color: var(--accent);
+    }
+
+    .hero-desc {
+      font-size: 17px;
+      color: var(--text-muted);
+      line-height: 1.7;
+      margin-bottom: 36px;
+      max-width: 480px;
+    }
+
+    .hero-cta {
+      display: flex;
+      gap: 16px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .hero-note {
+      font-size: 12px;
+      color: var(--text-faint);
+      margin-top: 16px;
+    }
+
+    /* Right side mock UI */
+    .hero-visual {
+      position: relative;
+    }
+
+    .mock-app {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      box-shadow: var(--shadow-lg);
+      overflow: hidden;
+      animation: float 4s ease-in-out infinite;
+    }
+
+    .mock-header {
+      padding: 14px 20px;
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .mock-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+    .mock-body {
+      padding: 20px;
+      display: flex;
+      gap: 16px;
+    }
+
+    .mock-sidebar-mini {
+      width: 60px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .mock-nav-item {
+      width: 40px; height: 40px;
+      border-radius: 10px;
+      background: var(--bg-secondary);
+    }
+
+    .mock-nav-item.active { background: var(--accent); opacity: 0.7; }
+
+    .mock-content { flex: 1; }
+
+    .mock-line {
+      height: 8px;
+      background: var(--bg-secondary);
+      border-radius: 4px;
+      margin-bottom: 10px;
+    }
+
+    .mock-line.short { width: 60%; }
+    .mock-line.medium { width: 80%; }
+
+    .mock-cards {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 16px;
+    }
+
+    .mock-card {
+      height: 60px;
+      background: var(--gradient-card);
+      border-radius: 10px;
+      border: 1px solid var(--border);
+    }
+
+    /* Theme Preview */
+    .theme-section {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 80px 40px;
+    }
+
+    .theme-section h2 {
+      font-size: 36px;
+      text-align: center;
+      margin-bottom: 12px;
+      color: var(--text);
+    }
+
+    .theme-section p {
+      text-align: center;
+      color: var(--text-muted);
+      margin-bottom: 48px;
+      font-size: 16px;
+    }
+
+    .theme-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .theme-card {
+      border-radius: 16px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.3s, box-shadow 0.3s;
+      border: 2px solid transparent;
+    }
+
+    .theme-card:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
+    .theme-card.selected { border-color: var(--accent); }
+
+    .theme-preview {
+      height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
+    }
+
+    .theme-info {
+      padding: 16px;
+      background: var(--bg-card);
+      border-top: 1px solid var(--border);
+    }
+
+    .theme-name { font-weight: 700; font-size: 15px; color: var(--text); }
+    .theme-vibe { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+    /* Features */
+    .features-section {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 80px 40px;
+    }
+
+    .feature-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      transition: all 0.3s;
+    }
+
+    .feature-card:hover {
+      border-color: var(--border-accent);
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-lg);
+    }
+
+    .feature-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .feature-title {
+      font-size: 17px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 10px;
+    }
+
+    .feature-desc {
+      font-size: 14px;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    /* Nav bar */
+    .landing-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 200;
+      padding: 16px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--bg-glass);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .landing-logo {
+      display: flex; align-items: center; gap: 10px;
+      font-family: 'Playfair Display', serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .landing-logo .logo-icon {
+      width: 34px; height: 34px;
+      background: var(--accent);
+      border-radius: 9px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px;
+    }
+
+    .theme-landing-dots {
+      display: flex; gap: 8px; align-items: center;
+    }
+
+    @media (max-width: 768px) {
+      .hero-inner { grid-template-columns: 1fr; gap: 40px; }
+      .hero-visual { display: none; }
+      .theme-grid { grid-template-columns: repeat(2, 1fr); }
+      .features-section .grid-3 { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Nav -->
+  <nav class="landing-nav">
+    <div class="landing-logo">
+      <div class="logo-icon">📚</div>
+      Libria
+    </div>
+    <div style="display:flex; align-items:center; gap:20px;">
+      <div class="theme-landing-dots">
+        {% for key, label, bg1, bg2 in theme_previews %}
+        <div class="theme-dot" data-theme-target="{{ key }}" title="{{ label }}"
+             style="background:linear-gradient(135deg,{{ bg1 }},{{ bg2 }})"
+             onclick="switchTheme('{{ key }}')"></div>
+        {% endfor %}
+      </div>
+      <a href="{% url 'accounts:login' %}" class="btn btn-secondary btn-sm">Sign In</a>
+      <a href="{% url 'accounts:register' %}" class="btn btn-primary btn-sm">Get Started</a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero" style="padding-top: 70px;">
+    <div class="hero-inner">
+      <div class="animate-fadeInUp">
+        <div class="hero-badge">
+          🇪🇹 Built for Ethiopian Students
+        </div>
+        <h1 class="hero-title">
+          Your personal<br />
+          <em>digital library</em><br />
+          to study, not skim.
+        </h1>
+        <p class="hero-desc">
+          Libria is not about summaries. It's about studying from <strong>day one</strong> — with
+          your own AI companion, focus sessions, Grade 9–12 textbooks, and a space that
+          adapts to how <em>you</em> learn.
+        </p>
+        <div class="hero-cta">
+          <a href="{% url 'accounts:register' %}" class="btn btn-primary btn-lg">
+            📚 Start Studying Free
+          </a>
+          <a href="{% url 'accounts:login' %}" class="btn btn-secondary btn-lg">
+            Sign In
+          </a>
+        </div>
+        <p class="hero-note">✓ Free to use · ✓ Ethiopian curriculum · ✓ 6 study atmospheres</p>
+      </div>
+
+      <!-- Mock App Visual -->
+      <div class="hero-visual animate-fadeInUp" style="animation-delay:0.2s">
+        <div class="mock-app">
+          <div class="mock-header">
+            <div class="mock-dot" style="background:#FF5F57"></div>
+            <div class="mock-dot" style="background:#FEBC2E"></div>
+            <div class="mock-dot" style="background:#28C840"></div>
+            <span style="margin-left:12px; font-size:12px; color:var(--text-muted)">Libria Study Space</span>
+          </div>
+          <div class="mock-body">
+            <div class="mock-sidebar-mini">
+              <div class="mock-nav-item active"></div>
+              <div class="mock-nav-item"></div>
+              <div class="mock-nav-item"></div>
+              <div class="mock-nav-item"></div>
+            </div>
+            <div class="mock-content">
+              <div class="mock-line medium"></div>
+              <div class="mock-line short"></div>
+              <div class="mock-cards">
+                <div class="mock-card"></div>
+                <div class="mock-card"></div>
+                <div class="mock-card"></div>
+                <div class="mock-card"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Theme chooser section -->
+  <section style="background: var(--bg-secondary); padding: 80px 0;">
+    <div class="theme-section" style="padding-top:0; padding-bottom:0;">
+      <h2>Choose your atmosphere</h2>
+      <p>Every student studies differently. Pick the vibe that keeps you focused.</p>
+      <div class="theme-grid stagger-children">
+        <div class="theme-card animate-fadeInUp" onclick="switchTheme('noir')">
+          <div class="theme-preview" style="background:linear-gradient(135deg,#fff,#f0f0f0)">🖤</div>
+          <div class="theme-info"><div class="theme-name">Noir</div><div class="theme-vibe">Clean · Minimal · Black & White</div></div>
+        </div>
+        <div class="theme-card animate-fadeInUp" onclick="switchTheme('forest')">
+          <div class="theme-preview" style="background:linear-gradient(135deg,#262D1A,#2E3820)">🌿</div>
+          <div class="theme-info"><div class="theme-name">Forest</div><div class="theme-vibe">Cozy · Earthy · Dark Greens</div></div>
+        </div>
+        <div class="theme-card animate-fadeInUp" onclick="switchTheme('paper')">
+          <div class="theme-preview" style="background:linear-gradient(135deg,#F4EDE1,#EDE4D5)">📜</div>
+          <div class="theme-info"><div class="theme-name">Paper</div><div class="theme-vibe">Old Library · Warm · Bookish</div></div>
+        </div>
+        <div class="theme-card animate-fadeInUp" onclick="switchTheme('midnight')">
+          <div class="theme-preview" style="background:linear-gradient(135deg,#111827,#1F2937)">🌌</div>
+          <div class="theme-info"><div class="theme-name">Midnight</div><div class="theme-vibe">Calm · Focused · Deep Blue</div></div>
+        </div>
+        <div class="theme-card animate-fadeInUp" onclick="switchTheme('blush')">
+          <div class="theme-preview" style="background:linear-gradient(135deg,#F7E8E8,#F0DADA)">🌸</div>
+          <div class="theme-info"><div class="theme-name">Blush</div><div class="theme-vibe">Soft · Warm · Gentle</div></div>
+        </div>
+        <div class="theme-card animate-fadeInUp" onclick="switchTheme('mocha')">
+          <div class="theme-preview" style="background:linear-gradient(135deg,#E8DDD0,#DDD0C0)">☕</div>
+          <div class="theme-info"><div class="theme-name">Mocha</div><div class="theme-vibe">Café Warmth · Study · Brown</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="features-section">
+    <h2 style="text-align:center; font-size:36px; margin-bottom:12px; color:var(--text)">
+      Everything you need to study — in one space
+    </h2>
+    <p style="text-align:center; color:var(--text-muted); margin-bottom:48px; font-size:16px;">
+      Not another summary app. Libria is where you actually study.
+    </p>
+    <div class="grid-3 stagger-children">
+      <div class="feature-card animate-fadeInUp">
+        <span class="feature-icon">📚</span>
+        <div class="feature-title">Grade 9–12 Library</div>
+        <p class="feature-desc">All Ethiopian Ministry of Education textbooks — new and old curriculum — organized by grade and subject. Your books, always ready.</p>
+      </div>
+      <div class="feature-card animate-fadeInUp">
+        <span class="feature-icon">⏱</span>
+        <div class="feature-title">Focused Study Sessions</div>
+        <p class="feature-desc">Choose a textbook, set a timer, and enter distraction-free focus mode. Study like you mean it — then take a proper break.</p>
+      </div>
+      <div class="feature-card animate-fadeInUp">
+        <span class="feature-icon">🤖</span>
+        <div class="feature-title">AI Study Companion</div>
+        <p class="feature-desc">Ask questions about what you're studying. The AI explains, hints, and guides — it won't just give you the answer. You have to think.</p>
+      </div>
+      <div class="feature-card animate-fadeInUp">
+        <span class="feature-icon">🎥</span>
+        <div class="feature-title">Curated YouTube Learning</div>
+        <p class="feature-desc">Watch educational videos during study (AI-filtered, subject-matched). During break, watch freely — but no Shorts. Protect your attention.</p>
+      </div>
+      <div class="feature-card animate-fadeInUp">
+        <span class="feature-icon">📈</span>
+        <div class="feature-title">Progress Tracking</div>
+        <p class="feature-desc">See your study streaks, subject strengths, weekly goals, and where you need more work. Know your own habits.</p>
+      </div>
+      <div class="feature-card animate-fadeInUp">
+        <span class="feature-icon">🎨</span>
+        <div class="feature-title">6 Study Atmospheres</div>
+        <p class="feature-desc">Switch your theme instantly — Noir, Forest, Paper, Midnight, Blush, or Mocha. Make this space feel like yours.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section style="background: var(--bg-secondary); padding: 80px 40px; text-align:center;">
+    <h2 style="font-size:40px; margin-bottom:16px; color:var(--text)">Ready to actually study?</h2>
+    <p style="color:var(--text-muted); font-size:17px; margin-bottom:36px; max-width:500px; margin-left:auto; margin-right:auto;">
+      Open your textbook. Set your timer. Ask questions. Track your progress.<br>
+      This is what studying from <em>day one</em> looks like.
+    </p>
+    <a href="{% url 'accounts:register' %}" class="btn btn-primary btn-lg" style="animation: pulse-glow 2s infinite;">
+      🚀 Create Your Study Space — Free
+    </a>
+  </section>
+
+  <script src="{% static 'js/theme-switcher.js' %}"></script>
+  <script>
+    // Landing page theme dots
+    document.querySelectorAll('.theme-dot').forEach(dot => {
+      dot.style.width = '24px';
+      dot.style.height = '24px';
+      dot.style.borderRadius = '50%';
+      dot.style.cursor = 'pointer';
+      dot.style.display = 'inline-block';
+      dot.style.border = '2px solid transparent';
+      dot.style.transition = 'all 0.2s';
+    });
+  </script>
+</body>
+</html>
