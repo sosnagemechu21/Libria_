@@ -11,7 +11,7 @@
 <div class="grid-4 stagger-children mb-24">
   {% for grade in grades %}
   <a href="{% url 'library:grade' grade.number %}" style="text-decoration:none;">
-    <div class="card animate-fadeInUp" style="border-top:4px solid {{ grade.cover_color }}; text-align:center; cursor:pointer;">
+    <div class="card animate-fadeInUp" style="--c:{{ grade.cover_color }}; border-top:4px solid var(--c); text-align:center; cursor:pointer;">
       <div style="font-size:40px; margin-bottom:12px;">📗</div>
       <div class="font-bold" style="font-size:20px;">{{ grade.label }}</div>
       <div class="text-sm text-muted mt-8">{{ grade.subjects.count }} subjects</div>

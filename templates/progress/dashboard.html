@@ -24,7 +24,7 @@
     <div class="text-accent font-bold" style="font-size:22px;">{{ today_percent }}%</div>
   </div>
   <div class="progress-bar-wrap">
-    <div class="progress-bar-fill" style="width:{{ today_percent }}%"></div>
+    <div class="progress-bar-fill" style="--w:{{ today_percent }}%; width:var(--w)"></div>
   </div>
 </div>
 
@@ -86,7 +86,7 @@
           <span class="text-xs text-muted">{{ prog.total_minutes }} min</span>
         </div>
         <div class="progress-bar-wrap">
-          <div class="progress-bar-fill" style="width:{{ prog.strength_score|floatformat:0 }}%; background:{{ prog.subject.color }};"></div>
+          <div class="progress-bar-fill" style="--w:{{ prog.strength_score|floatformat:0 }}%; --bg:{{ prog.subject.color }}; width:var(--w); background:var(--bg);"></div>
         </div>
       </div>
       {% endfor %}
