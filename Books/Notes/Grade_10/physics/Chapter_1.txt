@@ -1,0 +1,2043 @@
+=================================================================
+Book: physics.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+Physics
+Student Textbook
+Grade 10
+Physics Student Textbook – Grade 10
+FEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONFEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION
+Physics
+Student Textbook
+Grade 10
+Physics Student Textbook – Grade 10
+FEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONFEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONPhysics
+Student Textbook
+Grade 10
+Physics Student Textbook – Grade 10
+FEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONFEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION
+
+
+--- [PAGE BREAK] ---
+
+Physics
+Student Textbook
+Grade 10
+Writers
+Fikadu Eshetu (PhD)
+Mideksa Kasahun (MSc)
+Editors
+Moges Tsega (PhD), content editor
+Samuel Assefa (PhD), curriculum editor
+Felekech G/Egziabher (PhD), language editor
+Illustrator
+Umer Nuri (MSc)
+Designer
+Derese Tekestebrihan (PhD fellow)
+Evaluators
+Zafu Abraha (MSc)
+Girmaye Defar (MSc)
+Dessie Melese (MSc)
+
+
+--- [PAGE BREAK] ---
+
+iv
+First Published in 2023 by the Federal Democratic Republic of Ethiopia,
+Ministry of Education, under the General Education Quality Improvement
+Program for Equity (GEQIP-E) supported by the World Bank, UK’s Depart-
+ment for International Development/DFID-now merged with the Foreign,
+Common wealth and Development Ofﬁce/FCDO, Finland Ministry for
+Foreign Affairs, the Royal Norwegian Embassy, United Nations Children’s
+Fund/UNICEF), the Global Partnership for Education (GPE), and Danish
+Ministry of Foreign Affairs, through a Multi Donor Trust Fund.
+©2023 by the Federal Democratic Republic of Ethiopia, Ministry of Educa-
+tion. All rights reserved. The moral rights of the author have been asserted.
+No part of this textbook reproduced, copied in a retrieval system or trans-
+mitted in any form or by any means including electronic, mechanical,
+magnetic, photocopying, recording or otherwise, without the prior written
+permission of the Ministry of Education or licensing in accordance with
+the Federal Democratic Republic of Ethiopia as expressed in the Federal
+Negarit Gazeta, Proclamation No. 410/2004 - Copyright and Neighboring
+Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups
+and other bodies involved - directly or indirectly - in publishing this Text-
+book. Special thanks are due to Hawassa University for their huge contri-
+bution in the development of this textbook in collaboration with Addis
+Ababa University, Bahir Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the
+owner of copyrighted material not cited or improperly cited, please con-
+tact the Ministry of Education, Head Ofﬁce, Arat Kilo, (P .O.Box 1367), Addis
+Ababa Ethiopia.
+PHOTO CREDIT:
+ISBN:  978-99990-0-033-8 
+
+--- [PAGE BREAK] ---
+
+Contents
+1 Vector Quantities 1
+1.1 Scalars and Vectors ....................... 2
+1.2 Vector representations ..................... 3
+1.3 Vector addition and subtraction ................ 6
+1.4 Graphical method of vector addition ............. 8
+1.5 Vector resolution ......................... 14
+2 Uniformly Accelerated Motion 21
+2.1 Position and Displacement ................... 22
+2.2 Average velocity and instantaneous velocity ........ 25
+2.3 Acceleration ........................... 30
+2.4 Equations of motion with constant acceleration ...... 36
+2.5 Graphical representation of uniformly accelerated motion 42
+2.6 Relative velocity in one dimension .............. 50
+3 Elasticity and Static Equilibrium of Rigid Body 59
+3.1 Elasticity and plasticity ..................... 60
+3.2 Density and speciﬁc gravity .................. 63
+3.3 Stress and Strain ......................... 67
+3.4 The Young Modulus ....................... 72
+3.5 Static equilibrium ........................ 77
+3.5.1 First condition of equilibrium ............ 78
+3.5.2 Second condition of equilibrium ........... 79
+4 Static and Current Electricity 91
+4.1 Charges in Nature ........................ 92
+4.2 Methods of Charging a Body .................. 94
+4.3 The electroscope ......................... 97
+4.4 Electrical Discharge ....................... 99
+4.5 Coulomb’s law of electrostatics ................ 102
+4.6 The electric ﬁeld ......................... 104
+4.7 Electric circuits ......................... 107
+4.8 Current, Voltage, and Ohm’s Law ............... 110
+v
+
+--- [PAGE BREAK] ---
+
+vi CONTENTS
+4.9 Combination of resistors in a circuit ............. 120
+4.10 Voltmeter and ammeter connection in a circuit ...... 128
+4.11 Electrical safety in general and local context ........ 132
+4.12 Electric projects ......................... 136
+5 Magnetism 151
+5.1 Magnet .............................. 152
+5.2 Magnetic Field .......................... 155
+5.3 The Earth’s magnetic ﬁeld and the compass ......... 159
+5.4 Magnetic ﬁeld of a current-carrying conductor ....... 162
+5.5 Magnetic force on a moving charge placed in a uniform
+magnetic ﬁeld .......................... 165
+5.6 Magnetic force on a current-carrying wire .......... 167
+5.7 Magnetic force between two parallel current-carrying wires 170
+5.8 Applications of magnetism ................... 171
+6 Electromagnetic Waves and Geometrical Optics 177
+6.1 Electromagnetic (EM) waves .................. 178
+6.2 EM Spectrum ........................... 180
+6.3 Light as a wave .......................... 186
+6.4 Laws of reﬂection & refraction ................. 190
+6.5 Mirrors and lenses ........................ 203
+6.6 Human eye and optical instruments ............. 228
+6.7 Primary colors of light and human vision .......... 238
+6.8 Color addition of light ...................... 240
+6.9 Color subtraction of light using ﬁlters ............ 241
+
+--- [PAGE BREAK] ---
+
+Unit 1
+Vector Quantities
+Introduction
+Brainstorming
+question:
+List some phys-
+ical quantities,
+and classify them
+as scalars and
+vectors.
+In science, particularly in physics, you try to make measurements as pre-
+cise as possible. Several times in the history of science, precise mea-
+surements have led to new discoveries or important developments. Any
+number or sets of numbers used for a quantitative description of a phys-
+ical phenomenon is called a physical quantity. Physical quantities can
+generally be divided in two groups:
+ scalars
+ and
+ vectors
+ . Scalars have only
+magnitudes while vectors have both magnitude and direction. The con-
+cepts of vectors and scalars help us in understanding physics of different
+natural phenomena. You will learn about this topics in this unit.
+By the end of this unit, you should be able to:
+•understand the differences between scalar and vector quantities;
+•demonstrate vectors representation graphically;
+•know how to add and subtract two or more vectors graphically;
+•resolve a single vector into its components.
+1
+
+
+--- [PAGE BREAK] ---
+
+2 Unit 1 Vector Quantities
+1.1 Scalars and Vectors
+Exercise 1.1
+/lefthandFrom what you
+learnt in grade 9,
+what do you think
+are the differences
+between vectors
+and scalars?By the end of this section, you should be able to:
+• deﬁne scalar and vector quantities;
+• describe the difference between vector and scalar quantities;• list some scalar and vector quantities.
+Key concepts
+/lefthandScalars are
+quantities that
+have only mag-nitude whereas
+Vectors are quan-
+tities that haveboth direction
+and magnitude.As discussed in the introduction, physical quantities can be classiﬁed into
+two categories. Physical quantities that fall in the ﬁrst category are those
+that can be completely speciﬁed by a number together with an appropri-
+ate unit of measurement. For instance, it makes perfectly good sense to
+say that the length of an object is 1.42 mor that the mass of an object is
+12.21 kg. You do not have to add anything to the description of length or
+mass. Similarly, the statement that the density of water is 1000 kg/m3is a
+complete description of density. Quantities that can be speciﬁed in this
+simple and straightforward way are called scalar quantities. Thus, scalar
+quantities are physical quantities that can be completely speciﬁed by a
+single number together with an appropriate unit of measurement. Time,
+distance, speed, length, volume, temperature, energy and power are other
+examples of scalar quantities.
+Exercise 1.2
+List examples of
+scalars and vec-tors other than
+those discussed in
+the textbook.On the other hand, quantities that fall in the second category are those
+which require both magnitude and direction for their complete description.
+A simple example is velocity. The statement that the velocity of a train is
+100 km/h does not make much sense unless you also tell the direction in
+which the train is moving. Force is another such quantity. You must specify
+not only the magnitude of the force but also the direction in which the
+force is applied. Such quantities are called vectors. A vector quantity has
+both magnitude and direction. Displacement, acceleration, momentum,
+impulse, weight and electric ﬁeld strength are other examples of vector
+quantities.
+
+--- [PAGE BREAK] ---
+
+1.2 Vector representations 3
+Section summary
+•In physics, you deal generally with two kinds of quantities:
+scalars and vectors.
+•Scalar are quantities that are speciﬁed only by their magni-
+tude while vectors are quantities that are speciﬁed by their
+magnitude and direction.
+Review questions
+1.Explain how vector quantities differ from scalar quantities
+and give some examples for each.
+2.Which of the following physical quantities are vectors and
+which are not: force, temperature, volume, velocity, age,
+weight?
+1.2 Vector representations
+Exercise 1.3
+/lefthandHow can you
+represent vectors?By the end of this section, you should be able to:
+• identify the magnitude and direction of a vector;
+•discuss how vectors can be represented algebraically and graphi-
+cally;
+• discuss about the different types of vectors.
+In the previous section, you learnt that vectors are represented both in mag-
+nitude and direction. On the other hand, vector quantities are represented
+either algebraically or geometrically. Algebraically, they are representedby a bold letter as
+Aor with an arrow over the letter, for example, /vectorA. For
+example, a displacement can be represented by the expression S= 50 km,
+Southwest. S= 50 km designates only the magnitude of the vector. The
+magnitude is also indicated by placing the absolute value notation around
+
+--- [PAGE BREAK] ---
+
+4 Unit 1 Vector Quantities
+the symbol that denotes the vector; so, you can write equivalently that
+S≡|S|.
+On the other hand, vectors are represented geometrically by an arrow, or
+an arrow-tipped line segment. Such an arrow having a speciﬁed length and
+direction shows the graphical representation of a vector. You will use this
+representation when drawing vector diagrams. The initial point of arrow
+is called tail and the ﬁnal point of the arrow is the head as it is indicated
+in Figure 1.1. The arrow is drawn to scale so that its length represents the
+magnitude of the vector, and the arrow points in the speciﬁed direction of
+the vector. Hence,
+Figure 1.1 Head and tail of a
+vector.•The length of the arrow represents the vector magnitude if it is drawn
+in scale.
+• The arrow head represents the vector direction.
+Thus, in order to draw a vector accurately, you must specify a scale and
+include a reference direction in the diagram. To do this, you need a ruler
+to measure and draw the vectors to the correct length. The length of the
+arrow should be proportional to the magnitude of the quantity being repre-
+sented. So you must decide on a scale for your drawing. For example, you
+might let 1 cmon paper represent 2 N(1 cm represents 2 N), a force of 20
+Ntowards the East would be represented as an arrow 10 cmlong. A scale
+allows us to translate the length of the arrow into the vector’s magnitude.
+The important thing is to choose a scale that produces a diagram of rea-
+sonable size. A reference direction may be a line representing a horizontal
+surface or the points of a compass.Key concepts
+/lefthandVectors are
+represented either
+algebraically or
+geometrically.The following are the procedures that you might use for drawing vectors
+graphically.
+1. Decide upon a scale and write it down.
+2.Determine the length of the arrow representing the vector by using
+the scale.
+
+--- [PAGE BREAK] ---
+
+1.2 Vector representations 5
+3.Draw the vector as an arrow. Make sure that you ﬁll in the arrow
+head.
+4. Fill in the magnitude of the vector.Activity 1.1
+By using a ruler,
+a protractor, anda square paper,graphically drawthe following nu-
+merical vectors.
+A )1 0c m,6 0o
+B) 15 cm , 120o
+C )3c m,3 0oExample 1.1
+Draw the vector, 16 kmEast, to scale by indicating the scale that you have
+used:
+Solution
+First, let us decide upon a scale. Let 1 cmrepresent 4 km.S oi f1cm =4km,
+then 16 km=4cm and the direction is in the East. Using this information,
+you can draw the vectors as arrows as follows.
+Figure 1.2 A scaled diagram for a vector with a magnitude of 16 km.
+Figure 1.3 Two equal vectors.On the other hand, the following are some of the different types of vectors.
+1.Zero vector or Null vector: a vector with zero magnitude and no
+direction.
+2.Unit Vector: vector that has magnitude equal to one.
+3.Equal vectors: vectors that have the same magnitude and same
+direction.
+4.Negative of a vector: a vector that have the same magnitude but
+opposite direction with the given vector.
+Section summary
+•Algebraically, a vector is represented by a bold face letter or
+an arrow over the letter.
+•Geometrically, a vector is represented by an arrow where the
+length of the arrow represents magnitude and the arrow head
+represents the direction for the vector.
+
+--- [PAGE BREAK] ---
+
+6 Unit 1 Vector Quantities
+Review questions
+1.Give an example of a vector stating its magnitude, units and
+direction.
+2.Choose your own scale and draw arrows to represent the fol-
+lowing vectors:
+A)/vectorA= 40 kmNorth,
+B)/vectorB= 32 m/s making an angle of 60owith the horizontal.
+3. Discuss the different types of vectors.
+1.3 Vector addition and subtraction
+By the end of this section, you should be able to:
+• explain how to add and subtract vectors;
+• deﬁne the term resultant vector .Exercise 1.4
+Is it possible to
+add two vectors in
+the same way as
+you did in scalars?
+Explain.Different mathematical operations can be performed with vectors. You
+need to understand the mathematical properties of vectors, like addition
+and subtraction.
+Addition of Vectors
+The addition of scalar quantities is non problematic, it is a simple arith-
+Key concepts
+/lefthandScalars and
+vectors can never
+be added.
+/lefthandFor any two
+vectors to be
+added, they mustbe of the same
+nature.metic sum. For example, the total mass of 2 kgplus 3 kgis 5 kg. The
+increase in temperature from 5oCto 12oCis 7oC. However, like scalars,
+you cannot add two vectors. This is because when two vectors are added,
+you need to take account of their direction as well as their magnitude. Of
+course, you should remember that only vectors of the same kind can be
+added. For example, two forces or two velocities can be added. But a force
+and a velocity cannot be added.
+The resultant of a number of vectors is the single vector whose effect is
+the same as the individual vectors acting together. In other words, the
+
+--- [PAGE BREAK] ---
+
+1.3 Vector addition and subtraction 7
+individual vectors can be replaced by the resultant where the overall effect
+is the same.
+Figure 1.4 Addition of vectors /vectorA
+and/vectorB.If vectors /vectorAand/vectorBhave a resultant /vectorR, this can be represented mathemati-
+cally as,
+/vectorR=/vectorA+/vectorB (1.1)
+Subtraction of Vectors
+Vector subtraction is a straight forward extension of vector addition. If
+Figure 1.5 Vector /vectorBand the
+negative of Vector /vectorB.you want to subtract /vectorBfrom /vectorA, written /vectorA−/vectorB, you must ﬁrst deﬁne what
+is meant by subtraction. As it is discussed in the previous section, the
+negative of vector /vectorBis deﬁned to be −/vectorB; that is, graphically the negative of
+any vector has the same magnitude but opposite in direction as shown in
+Figure 1.5. In other words, /vectorBhas the same length as −/vectorB, but points in the
+opposite direction. Essentially, you just ﬂip the vector so that it points in
+the opposite direction.
+Figure 1.6 Subtraction of /vectorB
+from /vectorA.The subtraction of vector /vectorBfrom vector /vectorAis then simply deﬁned to be the
+addition of −/vectorBto/vectorA. That is,
+/vectorA−/vectorB=/vectorA+(−/vectorB) (1.2)
+Note that vector subtraction is the addition of a negative vector. The order
+of subtraction does not affect the results. Hence, as it is indicated in Figure
+1.6, draw vector −/vectorBfrom the tip of /vectorAand join the tail of /vectorAwith the tip of
+−/vectorB, then the resulting vector is the difference ( /vectorA-/vectorB).
+Section Summary
+•Vector addition is a means of ﬁnding the resultant of a number
+of vectors.
+• Subtraction of a vector is addition of the negative of a vector.
+
+--- [PAGE BREAK] ---
+
+8 Unit 1 Vector Quantities
+Review questions
+1. What is meant by subtraction of vector?
+2. What is meant by resultant vector?Exercise 1.5
+If two vectors
+have equal mag-nitude, what arethe maximumand minimummagnitudes of
+their sum?1.4 Graphical method of vector addition
+By the end of this section, you should be able to:
+• describe the graphical method of vector addition;
+• use the graphical method of vector addition to solve problems.
+You can add or subtract vectors using the algebraic or graphical method of
+vector addition. You will learn about the algebraic method in your grade
+11 physics. In this section, you will learn about the graphical method of
+vector addition and subtraction.
+As discussed above, one method for adding vectors involves manipulating
+their graphical representations on paper. So using the graphical method of
+vector addition, vectors are drawn to scale and the resultant is determined
+using a ruler and protractor. The following is the discussion of the primary
+graphical techniques: the triangle method, the parallelogram method, and
+the polygon method.
+Key concepts
+Graphically, vec-
+tors can be addedusing the triangle,
+parallelogram and
+polygon method
+of vector addition.Procedure for using graphical method of vector addition
+• Decide on an appropriate scale. Record it on the diagram.
+• Pick a starting point.•
+Draw ﬁrst vector with appropriate length and in the indicated
+direction.
+•Draw the second and remaining vectors with appropriate
+
+--- [PAGE BREAK] ---
+
+1.4 Graphical method of vector addition 9
+length and direction.
+•Draw the resultant based on the speciﬁc rule you are using.
+•Measure the length of the resultant; use the scale to convert
+to the magnitude of the resultant.
+•Use a protractor to measure the vector’s direction.
+Triangle method of vector addition
+Triangle law of vector addition is used to ﬁnd the sum of two vectors. This
+law is used to add two vectors when the ﬁrst vector’s head is joined to
+the tail of the second vector and then joining the tail of the ﬁrst vector
+to the head of the second vector to form a triangle, and hence obtain the
+resultant sum vector. That’s why the triangle law of vector addition is also
+called the head-to-tail method for the addition of vectors.
+Figure 1.7 The triangle rule for
+the addition of two vectors.Thus, if two vectors acting simultaneously on a body are represented both
+in magnitude and direction by two sides of a triangle taken in an order,
+then the resultant vector (both magnitude and direction) of these two
+vectors is given by the third side of that triangle taken in the opposite order.
+This is the statement for the triangle law of vector addition.
+Consider two vectors /vectorAand/vectorBshown in Figure 1.7(a). To add these two
+vectors using the triangle method, the head of vector /vectorAshould be joined
+to the tail of vector /vectorB. Then, the resultant vector /vectorRhas its tail at the tail of
+/vectorAand its head at the head of /vectorBas shown in Figure 1.7(b). This is written
+as:
+/vectorR=/vectorA+/vectorB (1.3)
+
+--- [PAGE BREAK] ---
+
+10 Unit 1 Vector Quantities
+Activity 1.2
+Consider adding two vectors /vectorAand/vectorBgraphically. The two vectors
+are shown in Figure 1.8. Using the above procedure of vector addi-
+tion, add these two vectors using the triangle law of vector addition
+if the angle θis 30o.
+Figure 1.8 Two vectors /vectorAand/vectorB.Parallelogram method of vector addition
+The vector addition may also be understood by the law of parallelogram.
+The parallelogram law of vector addition is used to add two vectors when
+the vectors that are to be added form the two adjacent sides of a parallel-
+ogram by joining the tails of the two vectors. Then, the sum of the two
+vectors is given by the diagonal of the parallelogram.
+Figure 1.9 The Parallelogram
+rule for the addition of two
+vectors.Thus, if two vectors are represented by the two adjacent sides (both in
+magnitude and direction) of a parallelogram drawn from a point, then
+their resultant vector is represented completely by the diagonal of theparallelogram drawn from the same point. This is the statement for the
+parallelogram law of vector addition
+Suppose two vectors /vectorAand/vectorBare at arbitrary positions as shown in Figure
+1.9(a). Translate either one of them in parallel to the beginning of the other
+vector, so that after the translation, both vectors have their origins at the
+same point. Now, at the end of vector /vectorAyou draw a line parallel to vector /vectorB
+and at the end of vector /vectorByou draw a line parallel to vector /vectorA(the dashed
+lines in Figure 1.9(b)). In this way, you obtain a parallelogram. From
+the origin of the two vectors, you draw a diagonal of the parallelogram as
+shown in (Figure 1.9(b)). The diagonal is the resultant /vectorRof the two vectors.
+Thus,Activity 1.3
+Repeat activity 1.2
+using the parallel-
+ogram method of
+vector addition./vectorR=/vectorA+/vectorB (1.4)
+
+--- [PAGE BREAK] ---
+
+1.4 Graphical method of vector addition 11
+Since vector addition is commutative,
+/vectorA+/vectorB=/vectorB+/vectorA (1.5)
+Polygon method of vector addition
+Figure 1.10 The polygon rule
+for the addition of vectors.This law is used for the addition of more than two vectors. According to
+this law, if you have a large number of vectors, place the tail end of each
+successive vector at the head end of previous one. The resultant of all
+vectors can be obtained by drawing a vector from the tail end of ﬁrst to the
+head end of the last vector.
+Suppose you want to draw the resultant vector /vectorRof four vectors /vectorA,/vectorB,
+/vectorC, and /vectorDshown in Figure 1.10 (a). You select any one of the vectors as
+the ﬁrst vector and make a parallel translation of a second vector to a
+position where the origin ("tail") of the second vector coincides with the
+end ("head") of the ﬁrst vector. Then, you select a third vector and make
+a parallel translation of the third vector to a position where the origin of
+the third vector coincides with the end of the second vector. You repeat
+this procedure until all the vectors are in a head-to-tail arrangement like
+the one shown in (Figure 1.10 (b)). You draw the resultant vector /vectorRby
+connecting the origin ("tail") of the ﬁrst vector with the end ("head") of the
+last vector. The end of the resultant vector is at the end of the last vector.Activity 1.4
+Use the polygon
+method of vec-tor addition toﬁnd the resultant
+vector
+/vectorRof the
+three vectors:
+/vectorA=25.0m,49.00
+North of East,
+/vectorB=23.0m,15.00
+North of East and
+/vectorC=32.0m,68.00
+South of East.Choose a reason-
+able scale.Thus, the resultant vector /vectorRis an arrow drawn from the tail of vector /vectorD
+to the head of vector /vectorB, i.e., /vectorR=/vectorD+/vectorA+/vectorC+/vectorBas shown in Figure 1.10
+(b). Because the addition of vectors is associative and commutative, you
+obtain the same resultant vector regardless of which vector you choose to
+be ﬁrst, second, third, or fourth in this construction.
+Note : You will follow the same procedure during the subtraction of vectors.
+Let us now consider a few special cases of addition of vectors.
+1.When the two vectors are in the same direction (parallel to each
+other)
+
+--- [PAGE BREAK] ---
+
+12 Unit 1 Vector Quantities
+If vectors /vectorAand/vectorBare parallel, then the magnitude of the resultant
+vector /vectorRis the sum of the magnitudes of the two vectors. Hence, the
+magnitude of the resultant vector is
+Figure 1.11 Resultant vector /vectorR
+of two vectors /vectorAand/vectorBwhen
+they are (a) same direction and
+(b) opposite direction.|R|=|A+B| (1.6)
+Since the two vectors are in the same direction, the direction of the
+resultant vector is in the direction of one of the two vectors.
+Key concepts
+To determine the resultant of two vectors acting:
+/lefthandin the same direction, add the given vectors and take the
+common direction.
+/lefthandin opposite directions, get the difference and take the direc-
+tion of the vector with the greater value.
+2.When the two vectors are acting in opposite directions
+If vectors /vectorAand/vectorBare anti-parallel (i.e., in opposite direction), then
+the magnitude of the resultant vector /vectorRis the difference of the mag-
+nitudes of the two vectors. Hence, the magnitude of the resultant
+vector is
+|R|=|A−B| (1.7)
+Since the two vectors are in opposite directions with one another, thedirection of the resultant vector is in the direction of the larger vector.
+Note: The resultant of two vectors acting on the same point is maxi-
+mum when the vectors are acting in the same direction and mini-
+mum when they act in opposite directions.
+3.When the two vectors are perpendicular
+If vectors /vectorAand/vectorBare perpendicular to each other as shown in 1.12 ,
+then the magnitude of the resultant vector /vectorRis obtained using the
+
+--- [PAGE BREAK] ---
+
+1.4 Graphical method of vector addition 13
+Pythagoras theorem. Hence, the magnitude of the resultant vector is
+|R|=/radicalbig
+A2+B2(1.8)
+The direction of the resultant vector is obtained using the trigono-
+Figure 1.12 Two perpendic-
+ular vectors /vectorAand/vectorB; and its
+resultant vector /vectorR.metric equation:
+θ=tan−1/parenleftbiggB
+A/parenrightbigg
+(1.9)
+Note: You can compare the result you obtain in each of the three
+cases with a ruler and protractor. Surely, you will obtain similar
+result.
+Exercise 1.6
+If two vectors /vectorA
+and/vectorBare per-
+pendicular, how
+you can ﬁnd thesum of the two
+vectors?Example 1.1
+Two vectors have magnitudes of 6 units and 3 units. What is the magnitude
+of the resultant vector when the two vectors are (a) in the same direction,
+(b) in opposite direction and (c) perpendicular to each other?
+Solution:
+You are given with two vectors of magnitudes 6 units and 3 units.
+(a) When the two vectors are in the same direction,
+|R|=(6+3)units =9units.
+(b) When the two vectors are in the opposite directions,
+|R|=(6−3)units =3units.
+(c) When the two vectors are perpendicular to each other,
+|R|=/radicallow
+A2+B2=(/radicallow
+62+32)units =6.7units.
+Please compare the result you obtained here with the value you obtained
+with the direct measurement by a ruler.
+Section Summary
+•Two vectors can be added by graphical means using the tri-
+angle and the parallelogram method. But for more than two
+vectors, the polygon method is used.
+
+--- [PAGE BREAK] ---
+
+14 Unit 1 Vector Quantities
+Review questions
+1.Two vectors /vectorAand/vectorBhave the same magnitude of 5 units and
+they start from the origin: /vectorBpoints to the North East and /vectorA
+points to the South West exactly opposite to vector /vectorB. What
+would be the magnitude of the resultant vector? Why?
+2.If two vectors have equal magnitude, what are the maximum
+and minimum magnitudes of their sum?
+3.If three vectors have unequal magnitudes, can their sum be
+zero? Explain.
+4.Consider six vectors that are added tail-to-head, ending up
+where they started from. What is the magnitude of the resul-
+tant vector?
+5.Vector /vectorCis 6 min the x-direction. Vector /vectorDis 8 min the
+y-direction. Use the parallelogram method to work out /vectorC+/vectorD.
+1.5 Vector resolution
+Exercise 1.7
+What do you
+think is vector
+resolution?By the end of this section, you should be able to:
+• resolve a vector into horizontal and vertical components;
+•ﬁnd the resultant of two or more vectors using the component
+method.
+In the previous discussion of vector addition, you saw that a number
+of vectors acting together can be combined to give a single vector (the
+resultant). In much the same way, a single vector can be broken down into
+a number of vectors when added give the original vector. These vectors
+which sum to the original are called components of the original vector.
+The process of breaking a vector into its components is called resolving
+into components.
+
+--- [PAGE BREAK] ---
+
+1.5 Vector resolution 15
+Placing vectors in a coordinate system that you have chosen makes it
+possible to decompose them into components along each of the chosen
+coordinate axes. In the rectangular coordinate system shown in Figure
+1.13 , vector /vectorAis broken up or resolved into two component vectors. One,
+Ax, is parallel to the x-axis, and the other, Ay, is parallel to the y-axis.
+The horizontal and vertical components can be found by two methods:
+graphical method and simple trigonometry. Let us look at them one by one.
+Figure 1.13 The horizontal ( Ax)
+and vertical ( Ay) components
+of vector /vectorA.Graphical method of vector resolution:
+The following are the steps that you follow to resolve a vector graphically.
+1.Select a scale and draw the vector to scale in the appropriate direc-
+tion.
+2.Extend x- and y-axes from the tail of the vector to the entire length
+of the vector and beyond.
+3.From the arrow head of the vector, construct perpendicular projec-
+tions to the x- and the y-axes.
+4.Draw the x-component from the tail of the vector to the intersection
+of the perpendicular projection with the x-axis. Label this compo-
+nent as Ax.
+5.Draw the y-component from the tail of the vector to the intersection
+of the perpendicular projection with the y-axis. Label this compo-
+nent as Ay.
+6.Measure the length of the two components and use the scale to
+determine the magnitude of the components.
+Trigonometric method of vector resolution:
+The trigonometric method of vector resolution relies on an understanding
+of the sine, cosine, and tangent functions. You can ﬁnd the components
+by using trigonometry. The components are calculated according to these
+
+--- [PAGE BREAK] ---
+
+16 Unit 1 Vector Quantities
+equations, where the angle θis measured counterclockwise from the posi-
+tive x-axis.
+cosθ=Adjacent side
+hypotenuse=Ax
+A=⇒ Ax=Acos θ (1.10)
+and
+sinθ=Opposite side
+hypotenuse=Ay
+A=⇒ Ay=Asin θ (1.11)
+Key concepts
+Vectors can be
+resolved into com-
+ponents along a
+speciﬁed set of
+coordinate’s axes.You can see that the original vector is the sum of the two component
+vectors.
+/vectorA=/vectorAx+/vectorAy (1.12)
+Because Axand Ayare at a right angle (90o), the magnitude of the resultant
+vector can be calculated using the Pythagorean Theorem.
+|A|=/radicalBig
+Ax2+Ay2(1.13)
+To ﬁnd the angle or direction of the resultant, recall that the tangent of the
+angle that the vector makes with the x-axis is given by the following.
+θ=tan−1/parenleftbiggAy
+Ax/parenrightbigg
+where tan θ=Opposite side side
+Adjacent side=Ay
+Ax(1.14)
+Example 1.2
+A motorist undergoes a displacement of 250 kmin a direction 30oNorth of
+East. Resolve this displacement into its components.
+Solution:
+Draw a rough sketch of the original vector. You can use trigonometry to
+calculate the magnitudes of the components (along North and along East)
+of the original displacement:
+Figure 1.14 Resolving of resul-
+tant displacement.
+SN=(250)( sin 30o)=125 km
+SE=(250)(cos 30o)=216.5 km
+
+--- [PAGE BREAK] ---
+
+1.5 Vector resolution 17
+Please check your answer with the graphical method, i.e., with ruler and
+protractor.
+Example 1.3
+A boy walks 3 kmdue East and then 2 kmdue North. What is the magnitude
+and direction of his displacement vector?
+Figure 1.15 The magnitude and
+direction of the boy’s motion.Solution:
+You ﬁrst make an overhead view of the boy’s movement as shown in Figure
+1.15 . The magnitude of the displacement |S|is given by the Pythagorean
+theorem as follows:
+|S|=[(3km)2+(2km)2]1/2=3.6km
+The direction that this displacement vector makes relative to east is given
+by:
+tanθ=2km
+3km=0.666
+Thus,
+θ=tan−1(0.666)=33.69o
+Hence, the boy’s displacement vector is 3 .61km with 56 .31oEast of North,
+or 33.69oNorth of East.
+Please check your answer with the graphical method, i.e., with ruler and
+protractor.Exercise 1.8
+Could a vector
+ever be shorterthan one of itscomponents?Could it be equal
+in length to one of
+its components?
+Explain.Section summary
+•Any vector can be resolved into a horizontal and a vertical
+component.
+•The combined effect of the horizontal and vertical compo-
+nents of the vector quantity is the same as the original vector.
+
+--- [PAGE BREAK] ---
+
+18 Unit 1 Vector Quantities
+Review questions
+1. What is resolution of a vector?
+2.Draw simple vector diagrams and resolve them into their com-
+ponents.
+(a) 40 Nat an angle of 30ofrom the horizontal.
+(b) 10 m/s at an angle of 80ofrom the horizontal.
+(c) 1900 kmat an angle of 40ofrom the vertical.
+3.A car travels 10 km due North and then 5 km due West. Find
+graphically and analytically the magnitude and direction of
+the car’s resultant vector.
+4.A girl walks 25 .0oNorth of East for 3.10 km. How far would
+she have to walk due North and due East to arrive at the same
+location?
+Virtual Lab
+On the soft copy of the book, click on the following link to per-
+form virtual experiment on vector quantities unit under the guid-ance of your teacher.
+1.Vector Addition PhET Experiment.
+End of unit summary
+• Scalar is a quantity speciﬁed only by its magnitude.
+•Vectors is a quantity speciﬁed by its magnitude and direction.
+•The vector is represented by an arrow drawn at a suitable scale
+where:
+
+--- [PAGE BREAK] ---
+
+1.5 Vector resolution 19
+–The arrow length represents the vector magnitude.
+–The arrow head represents the vector direction.
+•Vector addition is nothing but ﬁnding the resultant of a num-
+ber of vectors acting on a body while vector subtraction is
+addition of the negative of a vector.
+•The sum of two or more vectors is called the resultant. The
+resultant of two vectors can be found using either the paral-
+lelogram method or the triangle method. For more than two
+vectors, one can use the polygon method of vector addition.
+•The method of ﬁnding the components of vectors is called
+resolving vector.
+•When vector /vectorAis decomposed along the rectangular coordi-
+nate system, the horizontal component of /vectorAis/vectorAx=Acos θ
+and the vertical component of /vectorAis/vectorAy=Asin θ.
+End of unit questions and problems
+1.A vector drawn 15 mm long represents a velocity of 30 m/s.
+How long should you draw a vector to represent a velocity of
+20m/s?
+2.A vector that is 1 cmlong represents a displacement of 5 km.
+How many kilometers are represented by a 3 cmvector drawn
+to the same scale?
+3. Describe how you would add two vectors graphically.
+4.Which of the following actions is permissible when you are
+graphically adding one vector to another? A) move the vector
+B) rotate the vector C) change the vector’s length.
+5. In your own words, write a clear deﬁnition of the resultant of
+two or more vectors.
+
+--- [PAGE BREAK] ---
+
+20 Unit 1 Vector Quantities
+6.Explain the method you would use to subtract two vectors
+graphically.
+7.You walk 30 mSouth and 30 mEast. Find the magnitude and
+direction of the resultant displacement both graphically and
+algebraically.
+8.A hiker walks 14.7 kmat an angle 35oEast of South. Find the
+East and North components of this walk.
+9.If two vectors have equal magnitudes, can their sum be zero?
+Explain.
+10. Based on the three vectors in Figure 1.16 , which of the follow-
+ing is true?
+(a)/vectorA+/vectorB+/vectorC=0
+(b)/vectorA=/vectorC+/vectorB
+(c)/vectorC+/vectorA=/vectorB
+11. For the two vectors /vectorAand/vectorBwith magnitude 6.8 cmand 5.5
+cmin Figure 1.17, determine the magnitude and direction of:
+(a)/vectorR=/vectorA+/vectorB
+(b)/vectorR=/vectorA−/vectorB
+(c)/vectorR=/vectorB−/vectorA
+12. Three vectors /vectorA,/vectorBand/vectorChave a magnitude and direction of
+21unit North, 16 unit East and 26 unit South, respectively.
+Graphically determine the resultant of these three vectors?
+13. If/vectorvx= 9.8 m/s and/vectorvy= 6.4 m/s, determine the magnitude and
+direction of /vectorv.
+Figure 1.16 Magnitude and
+direction of three vectors
+Figure 1.17 Magnitude and
+direction of two vectors
+
+--- [PAGE BREAK] ---
+
+Unit 2
+Uniformly Accelerated Motion
+Introduction
+Brain storm-
+ing question
+In your everyday
+life, you come
+across a range of
+constant accel-
+eration motions.
+Can you give two
+examples for such
+type of motion?
+In your grade 9 Physics, you have learnt that uniform motion occurs when
+an object moves at a steady speed in a straight line. Most moving objects,
+however, do not display uniform motion. Any change in an object’s speed
+or direction or both causes the motion of an object to become non uni-
+form. This non uniform motion, or changing velocity, is called accelerated
+motion. A car ride in a city at rush hour during which the car must speed
+up, slow down, and turn corners is an obvious example of accelerated
+motion. In this unit, you will learn about uniformly accelerated motion.
+By the end of this unit, you should be able to:
+•know terms that are used to describe uniformly accelerated motion;
+•understand the different types of motions used to describe physical
+phenomena;
+•know the equation of motions that describe the motion of an object
+under uniform acceleration;
+•solve motion problems using uniformly accelerated formulas;
+•understand relative velocity in one dimension.
+21
+
+
+--- [PAGE BREAK] ---
+
+22 Unit 2 Uniformly Accelerated Motion
+2.1 Position and Displacement
+By the end of this section, you should be able to:
+• deﬁne terms such as position, displacement, and distance;
+• determine the distance and displacement traveled by an object;• describe the difference between distance and displacement.
+Exercise 2.1
+Can two objects
+be at the samedistance from asingle point whilebeing in differentpositions? Why or
+why not?
+Key Concept
+/lefthandThe location
+of an object in a
+frame of reference
+is called position.Position
+To describe the motion of an object, you must ﬁrst be able to describe its
+position, or where it is at any particular time. The word position describes
+your location (where you are). However, saying that you are here is mean-
+ingless, and you have to specify your position relative to a known reference
+point. So, you need to specify its position relative to a convenient frame of
+reference. A frame of reference is an arbitrary set of axes from which the
+position and motion of an object are described.
+To visualize position for objects moving in a straight line, you can imagine
+the object is on a number line. The object may be placed at any point on
+the number line in the positive numbers or the negative numbers. It is
+common to choose the original position of the object to be on the zero
+mark as shown in Figure 2.1. In making the zero mark the reference point,
+you have chosen a frame of reference. The exact position of an object is
+the separation between the object and the reference point.
+Position is thus the location of an object with reference to an origin. It can
+be negative or positive. It has units of length: centimeter (cm), meter (m)
+or kilometer (km). For example, depending on that reference point you
+choose, you can say that the new constructed school is 300 mfrom Kemal’s
+house (with Kemal’s house as the reference point or origin).
+
+--- [PAGE BREAK] ---
+
+2.1 Position and Displacement 23
+Displacement
+Figure 2.1 The possible dis-
+tance and displacement of an
+object in motion between two
+points.From your grade 9 Physics, you know that distance is the total length of the
+path taken in going from the initial position to the ﬁnal position. Distance
+is a scalar. But the difference between the initial and ﬁnal position vectors
+of a body is called its displacement. Basically, displacement is the shortest
+distance between the two positions and has a certain direction. Thus,
+displacement is a vector quantity. In Figure 2.1, distance is the length of
+the dashed line, while displacement is the straight-line distance from the
+starting point to the endpoint.
+Activity 2.1
+On a piece of graph paper, draw a scale map of your home and
+school area. Determine your displacement and estimate the dis-
+tance you travel:
+a) from home to school.
+b) from school to home.
+If the initial position ( so) from which an object moves to a second position
+(s) in a particular frame of reference, then the displacement /vector∆scan be
+written as:
+Exercise 2.2
+What is the dif-
+ference between
+distance and
+displacement?/vector∆s=s−so (2.1)
+In order to answer exercise 2.2, consider the motion of an object moving
+along a straight path. The object starts its journey from O which is treated
+as its reference point as shown in Figure 2.2. Let A, B, and C represent the
+position of the object at different instants.
+Figure 2.2 Positions of an object on a straight line path.
+
+--- [PAGE BREAK] ---
+
+24 Unit 2 Uniformly Accelerated Motion
+For motion of the object from O to A, the distance covered is 60 km and
+the magnitude of displacement is also 60 km. During its motion from O to
+A and back to B, the distance covered = 60 km + 25 km = 85 km while the
+magnitude of displacement = 60 km- 25 km= 35 km. Thus, the magnitudeExercise 2.3
+Can the mag-
+nitude of thedisplacement ofan object from itsoriginal positionever exceed thetotal distance
+moved? Explain.of displacement (35 km) is not equal to the path length (85 km). Further,
+you will notice that the magnitude of the displacement for a course of
+motion may be zero, but the corresponding distance covered is not zero.
+If you consider the object to travel back to O, the ﬁnal position coincides
+with the initial position, and therefore, the displacement is zero. However,
+the distance covered in this journey is OA + AO = 60 km+ 60 km= 120 km.
+Thus, the two different physical quantities (distance and displacement),
+are used to describe the overall motion of an object and to locate its ﬁnal
+position with reference to its initial position at a given time.
+Example 2.1
+A person walks 70 mEast, and then 30 mWest. Find the displacement.
+Figure 2.3 A person walking 70
+mEast and then 30 mWest.Solution:
+The displacement of a person walking 70 mto the East and then turning
+around and walking back (West) a distance of 30 mas shown in Figure 2.3
+is:/vector∆s=s−so=70m−30mas both vectors are in an opposite direction
+with one another. Thus,
+∆−→s=40m East
+The displacement is only 40 msince the person is now only 40 mfrom the
+starting point but the total distance traveled is 70 m+ 30 m= 100 m.Key Concepts
+/lefthandDistance is
+the actual paththat is travelledby a movingbody, where asdisplacementis the change inposition (ﬁnalposition minus
+initial position).
+
+--- [PAGE BREAK] ---
+
+2.2 Average velocity and instantaneous velocity 25
+Section summary
+•A description of motion depends on the reference frame from
+which it is described.
+•Position is the location of an object compared to a reference
+frame (point).
+•The distance an object moves is the length of the path along
+which it moves.
+•Displacement is the difference between the initial and ﬁnal
+positions of an object.Activity 2.2
+Walk from one
+corner of your
+classroom to itsopposite corneralong its sides.Measure the dis-tance coveredby you and mag-nitude of thedisplacement.
+What difference
+would you notice
+between the two
+in this case?Review questions
+1. Explain the difference between position and displacement.
+2.Give an example that clearly shows the difference among dis-
+tance traveled, displacement, and magnitude of displacement.
+Identify each quantity in your example.
+3.A body travels a distance of 15 mfrom A to B and then moves
+a distance of 20 mat right angles to AB. Calculate the total
+distance traveled and the displacement.
+2.2 Average velocity and instantaneous velocity Exercise 2.4
+Can the average
+speed ever equalthe magnitudeof the average
+velocity? If "no,"
+why not? If "yes,"
+give an example.By the end of this section, you should be able to:
+• deﬁne instantaneous and average velocity of a body in motion;
+•describe the difference between average velocity and instantaneous
+velocity;
+• solve problems related to the average velocity.
+
+--- [PAGE BREAK] ---
+
+26 Unit 2 Uniformly Accelerated Motion
+Average velocity
+In grade 9, you learnt that the rate of change of distance with time is called
+speed, while the rate of change of displacement is known as velocity. Un-
+like speed, velocity is a vector quantity.
+Key Concept
+Velocity is the
+physical quantity
+that describeshow a movingobject’s displace-
+ment changes.When an object travels a certain distance with different velocities, its
+motion is speciﬁed by its average velocity. The average velocity of a body
+is deﬁned as the body’s displacement ( /vector∆s) divided by the time interval
+(∆t) during which that displacement occurs. Let soand s be its positions
+at instants toand t, respectively. You can express average velocity ( /vectorvav)
+mathematically as:
+/vectorvav=/vector∆s
+∆t=s−so
+t−to(2.2)
+where t−tois change in time, and tois the starting time which is com-
+monly zero.
+The SI unit for average velocity is meters per second (m/s orms−1). But
+there are also many other units, such as kilometer per hour (km/h), miles
+per hour (mi/h (also written as mph)) and centimeter per second ( cm/s ) in
+common use.
+The average speed of an object is obtained by dividing the total distance
+traveled by the total time taken:
+vav=total distance travelled
+total time taken=stot
+ttot(2.3)Exercise 2.5
+/lefthandDoes the
+speedometerof a car measure
+speed or velocity?
+Exercise 2.6
+/lefthandDescribe how
+the instantaneos
+velocity differs
+from the averag
+velocity?
+/lefthandIn which sit-
+uation will theinstantaneous
+velocity and av-
+erage velocity ofan object be the
+same?If the motion is in the same direction along a straight line, the average
+speed is the same as the magnitude of the average velocity. However, this
+is always not the case.
+
+--- [PAGE BREAK] ---
+
+2.2 Average velocity and instantaneous velocity 27
+Instantaneous velocity
+Suppose the magnitude of your car’s average velocity for a long trip was 20
+m/s. This value, being an average, does not convey any information about
+how fast you were moving or the direction of the motion at any instant
+during the trip. Both can change from one instant to another. Surely, there
+were times when your car traveled faster than 20 m/s and times when it
+traveled more slowly.Key Concept
+/lefthandInstantaneous
+velocity is the ve-
+locity at a speciﬁc
+instant in time (orover an inﬁnitesi-mally small time
+interval).
+Figure 2.4 A fatal car accident.
+Exercise 2.7
+/lefthandCan you imag-
+ine the things that
+would happen if
+a driver does notobey the speedlimits set andare moving inuniformly acceler-
+ated motion?The instantaneous velocity of the car indicates how fast the car moves and
+the direction of the motion at each instant of time. Thus, it is the rate of
+change in displacement as change in time approaches zero. Mathemati-
+cally, the instantaneous velocity ( /vectorv) of a body is given by
+/vectorv=s−so
+t−towhen t −toapproaches 0 (2.4)
+The magnitude of the instantaneous velocity of a moving car is the reading
+of the speedometer.
+Road trafﬁc accidents are among the main causes of mortality in Ethiopia.
+Speed is still the most common factor in fatal road accidents, accounting
+for more than half of all road deaths each year. Figure 2.4shows one of
+the fatal car crash where at least 5 people were died and 17 others injured
+after a minibus collided with a parked car somewhere in Ethiopia. It may
+not seem like much, but driving even a few kilometers per hour above
+the speed limit greatly increases the risk of an accident. Speed limits are
+used to set the legal maximum or minimum speed at which road vehicles
+may travel on a given stretch of road. They are generally indicated on a
+trafﬁc sign reﬂecting the maximum or minimum speed permitted that is
+expressed usually in kilometers per hour (km/h). Speed limits are being
+started to be monitored by trafﬁc ofﬁcers in the various streets and roads
+of our country. Speed limits are used to regulate the speed of vehicles in
+certain places and it also controls the ﬂow of trafﬁc. It is also observed to
+minimize accidents from happening.
+
+--- [PAGE BREAK] ---
+
+28 Unit 2 Uniformly Accelerated Motion
+Example 2.2
+It takes you 10 minutes to walk with an average velocity of 1.2 m/s to the
+North from the bus stop to the museum entrance. What is your displace-
+ment?
+Solution:
+You are given with ∆t=10minutes =600 sand vav=1.2m
+s, North.
+You want to ﬁnd ∆s.
+Since
+/vectorvav=/vector∆s
+∆t,/vector∆s=/vectorvav×∆t=1.2m
+s×600 s=720 m, Nor th
+This means the displacement has a magnitude of 720 mand a direction to
+the North.
+Example 2.3
+A passenger in a bus took 8 st om o v e4 mto a seat on provided place
+forward. What is his average velocity?Solution:
+You are given /vector∆s=4m and ∆t=8s.
+What you want to ﬁnd is V
+av.
+The average velocity is thus
+/vectorvav=/vector∆s
+∆t=4m
+8s=0.5m/s
+Example 2.4
+A car travels at a constant speed of 50 km/h for 100 km. It then speeds up
+to 100 km/h and is driven another 100 km. What is the car’s average speed
+for the 200 kmtrip?
+
+--- [PAGE BREAK] ---
+
+2.2 Average velocity and instantaneous velocity 29
+Solution:
+You are given s1=100 km,v1=50km/h,s2=100 km,v2=100 km/h.
+In order to ﬁnd the average speed, you ﬁrst need to ﬁnd the total distance
+traveled and total time taken.
+Thus, the total distance traveled is 100 km + 100 km = 200 km. The total
+time taken is t1+t2where
+∆t1=s1
+v1=100 km
+50km/h=2h
+∆t2=s2
+v2=100 km
+100 km/h=1h
+The car’s average speed is thus
+vav=total distance travelled
+total time taken=200 km
+3h=66.7 km/h.
+Note: Averaging the two speeds (50km/h+100 km/h
+2) gives you a wrong
+answer which is 75 km/h. The average speed of an object is obtained by
+dividing the total distance traveled by the total time taken.Exercise 2.8
+Cheetahs, the
+world’s fastest
+land animals, canrun up to about
+125 km/h. A chee-
+tah chasing animpala runs 32 m
+north, then sud-denly turns andruns 46 mwest
+before lunging atthe impala. Theentire motion
+takes only 2.7 s.
+(a) Determine the
+cheetah’s averagespeed for this
+motion.
+(b) Determine the
+cheetah’s average
+velocity.Section summary
+•Average velocity is change in displacement divided by time
+taken.
+•Instantaneous velocity is the velocity of an accelerating body
+at a speciﬁc instant in time.
+•The magnitude of instantaneous velocity is its instantaneous
+speed.
+Review questions
+1.How do you ﬁnd the average velocity of an object in motion
+between two points?
+
+--- [PAGE BREAK] ---
+
+30 Unit 2 Uniformly Accelerated Motion
+2.Explain the difference between average speed and average
+velocity?
+3.There is a distinction between average speed and the magni-
+tude of average velocity. Give an example that illustrates the
+difference between these two quantities.
+4.If an object has the instantaneous velocity of 20 m/s to East,
+what is its instantaneous speed?
+5.A car moves with an average velocity of 48.0 km/h to the East.
+How long will it take him to drive 144 km on a straight high-
+way?
+6.An athlete runs 12 km to the North, then turns and runs 16
+kmto the East in three hours.
+a) What is his/her displacement?
+b) Calculate his/her average velocity.c) Calculate average speed.
+2.3 AccelerationExercise 2.9
+1) If a body has
+constant velocity
+on straight levelsurface, what isthe magnitude of
+its acceleration?
+2) Does the di-rection of ac-celeration be inthe direction of
+velocity itself?By the end of this section, you should be able to:
+• explain acceleration in one dimension;
+•distinguish between instantaneous acceleration and average accel-
+eration;
+• calculate the average acceleration.
+While traveling in a bus or a car, you might have noticed that sometimes its
+speed increases and sometimes it slows down. That is, its velocity changes
+with time. The quantity that describes the rate of change of velocity in a
+given time interval is called acceleration. Any change in velocity whether
+positive, negative, directional, or any combination of these is acceleration.
+
+--- [PAGE BREAK] ---
+
+2.3 Acceleration 31
+In everyday conversation, to accelerate means to speed up. Thus, the
+greater the acceleration is, the greater the change in velocity over a given
+time is.
+Average acceleration
+When you watch the ﬁrst few seconds of a liftoff, a rocket barely seems to
+move. With each passing second, however, you can see it move faster until
+it reaches an enormous speed. How could you describe the change in the
+rocket’s motion? When an object changes its motion, it is accelerating.
+The magnitude of the average acceleration is deﬁned by the change in an
+object’s velocity divided by the time interval in which the change occurs.
+That is,
+Average acceleration =Change in velocity
+time taken
+/vectora=∆/vectorv
+∆t=v−vo
+t−to(2.5)
+where vois the initial velocity of an object and vis the ﬁnal velocity of an
+object at instants toand t, respectively. In this equation, t−tois the length
+of time over which the motion changes. In SI units, acceleration has units
+of meters per second squared (m /s2).
+Key Concept
+/lefthandAcceleration
+occurs whenever
+an object speeds
+up, slows down, orchanges direction.The direction of average acceleration is the direction of change in velocity.
+If an object speeds up, the acceleration is in the direction that the object is
+moving. You get on a bicycle and begin to pedal. The bike moves slowly at
+ﬁrst, and then accelerates because its speed increases. When the speed
+of an object increases, it is said to be accelerating. On the other hand, ifan object slows down, the acceleration is opposite to the direction thatthe object is moving. This is commonly referred to as deceleration. In
+Figure 2.5, a light train in Addis Ababa, Ethiopia, decelerates as it comes
+into a station. Thus, the train is accelerating in a direction opposite to its
+direction of motion.
+
+--- [PAGE BREAK] ---
+
+32 Unit 2 Uniformly Accelerated Motion
+Figure 2.5 A decelerating light train.
+When you speed up, your ﬁnal speed will always be greater than your
+initial speed. So subtracting your initial speed from your ﬁnal speed gives
+a positive number. As a result, your acceleration is positive when you
+are speeding up. When you slow down, the ﬁnal speed is less than the
+initial speed. Because your ﬁnal speed is less than your initial speed, your
+acceleration is negative when you slow down.
+Instantaneous accelerationExercise 2.10
+/lefthandWhat do you
+mean by an in-
+stantaneous ac-celeration for an
+object in motion?
+The object moving in a straight line may undergo an increase, or decrease
+in acceleration or it may move with a uniform acceleration or zero acceler-
+ation. Thus, in such cases, the average acceleration does not describe the
+motion of the object at every instant. The average acceleration only pro-
+vides the mean value of the acceleration instead of the actual acceleration
+of the object during the motion while the instantaneous acceleration gives
+the exact acceleration at every instant during the motion.Key Concept
+/lefthandInstantaneousacceleration
+is
+the average ac-celeration at aspeciﬁc instantin time (or overan inﬁnitesimallysmall time inter-
+val).Instantaneous acceleration is a quantity that tells us the rate at which
+an object is changing its velocity at a speciﬁc instant in time anywhere
+
+--- [PAGE BREAK] ---
+
+2.3 Acceleration 33
+along its path. Hence, instantaneous acceleration a, or acceleration at a
+speciﬁc instant in time, is obtained using the same process discussed for
+instantaneous velocity. That is, you calculate the average velocity between
+two points in time separated by ∆tand let ∆tapproach zero. You see that
+average acceleration a=∆v
+∆tapproaches instantaneous acceleration as ∆t
+approaches zero. The instantaneous acceleration is, thus mathematically
+expressed as,
+a=∆v
+∆tas∆tapproaches 0. (2.6)Exercise 2.11
+/lefthandFor what type
+of motion does
+the average andinstantaneousacceleration be
+the same?For uniformly accelerated motion, the instantaneous acceleration has the
+same value as the average acceleration.
+Exercise 2.12
+/lefthandThink about
+the greatest ac-celerations youhave experienced.
+Where did they
+occur? Did theyinvolve speedingup or slowingdown? What ef-fects did they
+have on you?Example 2.5
+A car accelerates on a straight road from rest to 75 km/hin 5 s. What is the
+magnitude of its average acceleration?
+Solution:
+You are given with v0=0, v=75km/h and∆t=5s.
+You want to ﬁnd the average acceleration.
+The average acceleration can be calculated by
+/vectoraav=v−vo
+t−to=75km/h−0km/h
+5s−0s=15km/h
+s.
+This is read as "ﬁfteen kilometers per hour per second" and means that,
+on average, the velocity changed by 15 km/h during each second. That
+is, assuming the acceleration was constant, during the ﬁrst second, the
+car’s velocity increased from zero to 15 km/h. During the next second, its
+velocity increased by another 15 km/h, reaching a velocity of 30 km/h at
+t=2.0s, and so on. This result contains two different time units: hours
+and seconds. You usually prefer to use only seconds. To do so, you can
+change km/h tom/s:
+75km
+h=(75km
+h)(1000 m
+1km)(1h
+3600 s)=21m/s
+
+--- [PAGE BREAK] ---
+
+34 Unit 2 Uniformly Accelerated Motion
+/vectoraav=∆/vectorv
+∆t=v−vo
+t−to
+/vectoraav=21m/s−0m/s
+5s−0s=4.2m/s
+s=4.2m/s2
+Note that acceleration tells us how quickly the velocity changes, whereas
+velocity tells us how quickly the position changes.
+Exercise 2.13
+/lefthandDiscuss the
+concept of de-
+celeration andnegative accelera-
+tion.Example 2.6
+An automobile is moving to the right along a straight highway, which you
+choose to be the positive x-axis.Then the driver steps on the brakes. If the
+initial velocity (when the driver hits the brakes) is 15 m/s and it takes 5.0 s
+to slow down to 5 m/s, what was the car’s average acceleration?
+Solution:
+In this example, you are given with v0=15m/s,v=5m/sand∆t=5.0s.
+The required quantity is average acceleration.
+Average acceleration can thus be calculated using the formula time.
+/vectoraav=∆/vectorv
+∆t=v−vo
+t−to
+/vectoraav=v−vo
+t−to=5m/s−15m/s
+5.0s−0s=−2m/s
+s=−2m/s2
+The negative sign appears because the ﬁnal velocity is less than the initial
+velocity. Thus, the direction of the acceleration is to the left (in the negative
+x-direction) even though the velocity is always pointing to the right. You can
+say that the acceleration is to the left. That is the automobile is decelerating.But be careful:
+deceleration does not mean that acceleration is necessarily
+negative.There is a deceleration whenever the magnitude of the velocity is
+decreasing; thus, the velocity and acceleration point in opposite directions
+when there is a deceleration.
+
+--- [PAGE BREAK] ---
+
+2.3 Acceleration 35
+Activity 2.3
+/lefthandEstimate your maximum running velocity, and estimate the aver-
+age acceleration you undergo from rest to reach that velocity.
+/lefthandDesign an experiment to check your estimates in (a). Include the
+equations you would use./lefthand
+Get your design approved by your teacher, and then carry it out.
+Compare your results with your estimates.
+Section summary
+•Acceleration is the rate of change of velocity in a given time
+interval.
+•Acceleration occurs whenever an object speeds up, slows
+down, or changes direction.
+•Instantaneous acceleration is the acceleration of the object at
+a speciﬁc instant during the motion.
+Review questions
+1.Describe the similarities and differences between average ac-
+celeration and instantaneous acceleration.
+2.A car moves along the x-axis. What is the sign of the car’s
+acceleration if it is moving in the positive x direction with (a)
+increasing speed (b) decreasing speed?
+3.A race horse coming out of the gate accelerates from rest toa velocity of 15.0 m/s due west in 1.80 s. What is its average
+acceleration?
+4.A car is traveling at 14 m/s when the trafﬁc light ahead turns
+red. The car decelerates and comes to a stop in 5.0 s. Calculate
+the acceleration of the car.
+
+--- [PAGE BREAK] ---
+
+36 Unit 2 Uniformly Accelerated Motion
+2.4 Equations of motion with constant accelera-
+tion
+By the end of this section, you should be able to:
+• derive the equations of motion with constant acceleration;
+•use appropriate equations of motion to solve motion-related prob-
+lems.
+Exercise 2.14
+How can you de-
+rive the equationsof a uniformly ac-
+celerated motion?If an object travels in a straight line and its velocity increases or decreases
+by equal amounts at equal intervals of time, the acceleration of the ob-
+ject is said to be uniform. Such type of motion is said to be a uniformly
+accelerated motion. A bicycle that slowly decreases its speed to stop and
+a ball dropped from the top of a ladder are some examples of uniformly
+accelerated motions.
+When an object moves along a straight line with a uniform acceleration,
+it is possible to relate its velocity, acceleration during motion and the
+distance covered by it in a certain time interval by a set of equations known
+as the equations of motion. If an object’s average acceleration during atime interval is known, the change in velocity during that time can be
+calculated. For convenience, you let the starting time tf=t, where tis any
+arbitrary time. Also, let /vectorvobe the initial velocity at time to= 0 and /vectorvbe the
+velocity at any time t. With this notation, you can express
+/vectoraav=/vectorv−/vectorvo
+t−to
+Since acceleration is constant in a uniformly accelerated motion, the aver-
+age and instantaneous accelerations are the same. So, you can replace /vectoraav
+by/vectora. Moreover, in one-dimensional motion, direction can be indicated
+"-" or "+" signs. In this case, you can ignore the vector nature of symbols.
+Finally, replacing the vector notations by ordinary symbols, setting to=0
+and rearranging the result gives
+v=vo+at (2.7)
+
+--- [PAGE BREAK] ---
+
+2.4 Equations of motion with constant acceleration 37
+This linear relationship enables us to ﬁnd the velocity at any time t. You
+can make use of the fact that when the acceleration is constant (i.e., when
+the velocity varies linearly with time), the average velocity is given as:
+vav=vo+v
+2(2.8)
+To ﬁnd the displacement as a function of time, you ﬁrst let s0be the initial
+position at time t0=0a n d sf=sbe the position at any time t. If the initial
+position is at the origin, so= 0, and hence ∆s=s. So from the expression
+of average velocity, you can write sas
+s=vavt (2.9)
+Key Concept
+/lefthandEquations of
+uniformly accel-
+erated motionsare used to solveproblems in-
+volving constant
+acceleration.Substituting equation 2.8 into 2.9 gives:
+s=(vo+v
+2)t
+Again substituting vo+atin place of vand making rearrangement gives:
+s=v0t+1
+2at2(2.10)
+Sometimes, there are times when the time of motion is unknown. For
+such cases, you need to derive an equation that is independent of time as
+follows:
+s=(vo+v
+2)t=/parenleftBigvo+v
+2/parenrightBig/parenleftBigv−vo
+a/parenrightBig
+=v2−vo2
+2a(2.11)
+Rearranging gives:
+v2=v02+2as (2.12)
+Example 2.7
+A car starts from rest and accelerates uniformly over a time of 5 sfor a
+distance of 100 m. Determine the acceleration of the car.
+Solution:
+You are given with vo=0,t=5s, and s=100 m.
+
+--- [PAGE BREAK] ---
+
+38 Unit 2 Uniformly Accelerated Motion
+The required quantity is acceleration, a.
+From the expression for displacement, i.e.,
+s=vot+1
+2at2
+By making vo=0, you can easily derive and solve for aas
+a=2s
+t2=2×100 m
+25s2=8m/s2
+Substitution gives
+a=2×100 m
+25s2=8m/s2
+Example 2.8
+An airplane lands with an initial velocity of 70 m/s and then decelerates at
+1.5m/s2for 40 s. What is its ﬁnal velocity?
+Solution:
+You are given with vo=70m/s,t=40s, and a=−1.5m/s2.
+You want to ﬁnd the ﬁnal velocity, v.
+You can ﬁnd for the ﬁnal velocity using the formula
+v=vo+at=70m/s−1.5m/s2×40s=10m/s
+The ﬁnal velocity is much less than the initial velocity, as desired when
+slowing down, but is still positive.
+Example 2.9
+An automobile starts at rest and speeds up at 3 .5m/s2after the trafﬁc light
+turns green. How far did the automobile travel when it was traveling at 25
+m/s?
+
+--- [PAGE BREAK] ---
+
+2.4 Equations of motion with constant acceleration 39
+Solution:
+In this example, you are given with vo=0,v=25m/s, and a=3.5m/s2.
+You are asked to ﬁnd the displacement, s.
+You can ﬁnd susing the equation
+s=v2−vo2
+2a=(25m/s)2−0
+2×3.5m/s2=89.3 m
+Free fall
+It is well known that, in the absence of air resistance, all objects dropped
+near the Earth’s surface fall toward the Earth with the same constant accel-
+eration under the inﬂuence of the Earth’s gravity. A freely falling object is
+any object moving freely under the inﬂuence of gravity alone, regardless
+of its initial motion.
+Figure 2.6 The freely falling of
+an apple with uniform accelera-
+tion due to gravity.
+Activity 2.4
+Suppose you holda book in onehand and a ﬂatsheet of paperin another hand.
+You drop them
+both and theyfall to the ground.Explain why thefalling book is agood example offree fall, but the
+paper is not.An object that is released from rest falls freely once it is released. Any freely
+falling object experiences an acceleration directed downward, regardless
+of its initial motion.
+You shall denote the magnitude of the free-fall acceleration by the symbol
+g. The value of gis maximum on the Earth’s surface and decreases with
+increasing altitude from the surface. Furthermore, slight variations in g
+occur with changes in latitude. At the Earth’s surface, the value of gis
+approximately 9.80 m/s2.
+If you neglect air resistance and assume that the free-fall acceleration
+does not vary with altitude over short vertical distances, then the motion
+of a freely falling object moving vertically is equivalent to motion in one
+dimension under constant acceleration. Therefore, the equations derived
+above for objects moving with constant acceleration can be applied. The
+only modiﬁcation that you need to make in these equations is to replace
+the acceleration ’a ’ of the equations with ’ g’ and the distance ’ s’ with the
+
+--- [PAGE BREAK] ---
+
+40 Unit 2 Uniformly Accelerated Motion
+height ’h’ since the vertical distance of the freely falling bodies is known as
+height ’h ’.
+The equation of motion can thus be modiﬁed as:
+v=vo+gt (2.13)
+h=vot+1
+2gt2(2.14)
+v2=v02+2gh (2.15)
+where v0is the initial velocity, his the vertical height, gis acceleration due
+Exercise 2.15
+As a freely falling
+body speeds up,
+what is happening
+to acceleration
+due to gravity?to gravity and tis the elapsed time.
+Example 2.10
+A mango fruit has fallen from a tree. Find its velocity and vertical height
+when it reached the ground if it took 1 sto reach the ground.
+Solution:
+You are given with v0=0,g=9.8m/s2, and t=1s.
+The required quantities are ﬁnal velocity and height.
+You can ﬁnd the velocity using the equation
+v=v0+gt=0+9.8m/s2×1s=9.8m/s
+On the other hand, the vertical height can be calculated using the equation
+h=v0t+1
+2gt2=1
+2×9.8m/s2×1s2=4.9m
+
+--- [PAGE BREAK] ---
+
+2.4 Equations of motion with constant acceleration 41
+Section summary
+•Uniformly accelerated equations are equations that are used
+to solve problems involving constant acceleration.
+•The ﬁve quantities or variables commonly encountered in the
+uniformly accelerated motion equations are displacement,
+time, initial velocity, ﬁnal velocity, and constant acceleration.
+•Since the freely falling bodies with uniformly accelerated mo-
+tion, the equations of motion derived for bodies under uni-
+form acceleration can be applied to the motion of freely falling
+bodies by substituting ’a ’ by ’ g’ and ’ s’ by ’ h’.
+Review questions
+1. What type of motion is experienced by a free-falling object?
+2.A cyclist is traveling at 5.6 m/s when she starts to accelerate at
+0.60 m/s2for a time interval of 4.0 s.
+(a) How far did she travel during this time interval?
+(b) What velocity did she attain?
+3.A stone that is dropped from the top of a building is in free fall
+for 8.0 s.
+(a) Calculate the stone’s velocity when it reaches the ground.
+(b) What is the height of the building from which the stone
+had been dropped?
+
+--- [PAGE BREAK] ---
+
+42 Unit 2 Uniformly Accelerated Motion
+2.5 Graphical representation of uniformly accel-
+erated motion
+Exercise 2.16
+Would you re-
+member the
+graphs of a uni-form motionthat you learnt in
+grade 9?By the end of this section, you should be able to:
+•draw position-time, velocity-time and acceleration-time graphs of
+uniformly accelerated motion;
+•explain the concept of instantaneous velocity using position-time
+graphs;
+•distinguish between instantaneous acceleration and average accel-
+eration using the graphical method;
+•draw a velocity-time graph for a motion using the concept of instan-
+taneous acceleration.
+In your grade 9 physics, you learnt about the graphs of uniform motion.
+Figure 2.7shows the summary of the graphs of a uniform motion.
+Figure 2.7 Graphs for motion at constant velocity (a) position-time
+(b) velocity-time (c) acceleration-time.
+In this section, you will discuss about the graphs of a uniformly accelerated
+motion.
+Position-time graph
+A position-time graph is a graph that describes the motion of an object,
+with the position sof a particle on the y-axis and the time on the x-axis.
+
+--- [PAGE BREAK] ---
+
+2.5 Graphical representation of uniformly accelerated motion 43
+This graph will tell you the exact change in position of a body.
+Exercise 2.17
+How does uni-
+form accelerationmotion differfrom uniform
+motion?The position-time equation for uniformly accelerated motion along a
+straight line is s=vot+1/2at2. Dependence of sont2shows that it is a
+quadratic equation or quadratic function of t. So, the position-time grapht. So, the position-time grapht
+for uniformly accelerated motion is a parabola, as shown in Figure 2.8(a).
+As you learnt in grade 9, position-time graph’s slope represents the velocity
+of the object. Because the line is curved, however, its slope keeps changing.
+Thus, you must ﬁnd the slope of the curved line. A tangent is a straight line
+that touches a curve at a single point and has the same slope as the curve
+at that point. Thus, choose a point on the curve and draw a tangent to the
+curve at that point, as shown in Figure 2.8(b). The slope of the tangent line
+is therefore an instantaneous velocity.
+Figure 2.8 (a) The position-time graph with constant acceleration,
+(b) the slope of the tangent line at a particular point gives the instan-
+taneous velocity.
+Key Concept
+/lefthandThe slope of
+the tangent to thegraph of position-
+time is velocity.You may recall from your mathematics studies that the slope of a line
+describes its steepness. Slope is determined by comparing the magnitude
+of the rise (the change between points on the y-axis) and the magnitude of
+the run (the change between the same points on the x-axis).
+Slope=rise
+run=∆s
+∆t=instantaneous velocity (2.16)
+
+--- [PAGE BREAK] ---
+
+44 Unit 2 Uniformly Accelerated Motion
+The instantaneous velocity of an object at a speciﬁc point in time is thus
+the slope of the tangent to the curve of the position-time graph of the
+object’s motion at that speciﬁc time. That means, the magnitude of the
+velocity of an object at the point where the tangent line touches the graph
+is the slope of the tangent line.
+Example 2.11
+A car starts from rest and accelerates at a 10 m/s2for 10 son the straight,
+level road. Draw a position-time graph and calculate the instantaneous
+velocity at 4 s.
+Solution:
+In this example, you are given vo=0m/s,a=10m/s2, and t=10s.
+To draw the position-time graph, ﬁrst solve for susing the equation s=
+1
+2at2for the different values of t. Record and compare the result you ob-
+tained with the following table.
+Figure 2.9 Position-time of the
+given problem.Position (m) 0 5 20 45 80 125 180
+Time (s ) 0 1 2 3 4 5 6
+Then plot the position on the y-axis and time on the x-axis. The graph is
+shown as in the Figure 2.9.
+On the other hand, to ﬁnd the instantaneous velocity, draw the tangent line
+at the given time. The slope of the tangent line drawn at 4 sof the x-axis
+coordinate represents the instantaneous velocity at instant of 4 s. The slope
+of tangent line becomes:
+Slope =∆s
+∆t=120 m−40m
+5s−3s=80m
+2s=40m
+s
+Thus, the instantaneous velocity is 40 m/s.
+
+--- [PAGE BREAK] ---
+
+2.5 Graphical representation of uniformly accelerated motion 45
+Activity 2.5
+/lefthandSuppose a truck accelerates with average accelerations of 20.0
+m/s2starting from rest for 5.0 s.
+a) How far does it travel in this time? Draw position-time graph?
+b) Draw the tangent line at different point on the graph.c) Find the slope of each tangent line that you draw.
+Figure 2.10 The velocity-time
+graph.Velocity-time graph
+A graph plotted with time along the x-axis and the velocity along the y-axis
+is called the velocity-time graph. The velocity-time graph of the givenmotion shows how its velocity changes as it travels over a given time. Ifthe particle starts from rest and experiences uniform acceleration, the
+velocity-time graph will be a straight line passing through the origin and
+having a positive slope (as shown in Figure 2.10 (a)).
+If the particle has an initial velocity, the graph will be a straight line, but
+will not pass through the origin as shown in Figure 2.10 (b). In Figure 2.10
+(b), the ordinate OA gives the initial velocity and the ordinate BD gives the
+ﬁnal velocity.
+The velocity-time graph of a particle moving along a straight line with
+uniform acceleration may be used to measure the displacement of the
+particle and also the acceleration.
+A) Area under velocity-time graph
+Figure 2.11 The area under
+velocity-time graph.Consider a particle moving along a straight line with uniform acceleration
+a. Let vobe the velocity of the particle at the instant t= 0 and vat a later
+instant t. The velocity-time graph of such a motion is shown in Figure 2.11.
+The area under the velocity-time graph during the interval 0 to tis ABDO.
+
+--- [PAGE BREAK] ---
+
+46 Unit 2 Uniformly Accelerated Motion
+Area, ABDO = Area of rectangle ACDO + Area of triangle, ABC.
+Area ,ABDO =AO×Ac+1
+2×AC×BC
+=vot+1
+2t(v−vo)
+=vot+1
+2at2
+=displacement
+Thus, area under the velocity-time graph gives the total displacement ofKey Concept
+/lefthandThe area un-
+der the curve
+in a velocity-time graph isthe change inposition or dis-
+placement.
+the particle in that given time interval.
+B) Slope of a velocity-time graph
+As discussed earlier, for a particle moving along a straight line with con-
+stant acceleration, the velocity-time graph will be a straight line inclined
+to the time axis, as shown in Figure 2.11. Let vobe the velocity at to=0
+and vbe the velocity after a time interval t.
+The acceleration,
+a=v−vo
+t=BC
+Ac=slope (2.17)
+That is, the slope of the velocity-time graph gives the acceleration of the
+particle.
+Figure 2.12 Velocity-time graph
+for uniform retardation.Let us now consider two special cases.
+1. Velocity-time graph for uniform retardation
+For a particle moving with uniform retardation or deceleration, the velocity-
+time graph will be a straight line with a negative slope, as shown in Figure
+2.12 . If the body is brought to rest, the graph will touch the time axis.
+2. Velocity-time graph for non-uniform motion
+ Figure 2.13 Velocity-time graph
+for non uniform motion.In the case of a particle moving with variable velocity, the velocity-time
+curve will be irregular in shape. For example, consider a car starting from
+point O. Let it be moving along a straight line with uniform acceleration
+
+--- [PAGE BREAK] ---
+
+2.5 Graphical representation of uniformly accelerated motion 47
+aduring the time interval t1tot2and then start moving with uniform
+velocity during the interval of time t2tot3. Thereafter, let the velocity of
+the car decrease uniformly and the car come to a stop at the instant t4.
+The motion of the car can be represented by the velocity-time graph, as
+shown in Figure 2.13 . Then the area under the velocity-time graph gives
+the total displacement of the car.
+Example 2.12
+The velocity-time graph of a certain motion is plotted in Figure 2.14 below.
+Calculate the total distance and displacement of the truck after 15 s.
+Figure 2.14 Velocity-time graph.Exercise 2.18
+/lefthandWhat quantity
+is represented by
+the area underthe velocity-time
+graph?
+Solution:
+To calculate the total distance and total displacement, you have to ﬁnd the
+area under velocity-time graph.
+s1=area of a triangle ACB
+=1
+2(base )×(height )=1
+2(∆t)×(∆v)=1
+2(4s)×(4m/s)=8m.
+s2=area of rectangle CBDE
+=(base )×(height )=(∆t)×(∆v)=(8sm/s)×(4m/s)=32m.
+s3=area of a triangle EDF
+=1
+2(base )×(height )=1
+2(∆t)×(∆v)=1
+2(2s)×(4m/s)=4m.
+s4=area of a triangle EHG
+=1
+2(base )×(height )=1
+2(∆t)×(∆v)=1
+2(1s)×(2m/s)=1m.
+
+--- [PAGE BREAK] ---
+
+48 Unit 2 Uniformly Accelerated Motion
+Thus, the total distance is s1+s2+s3+s4=45m.
+On the other hand, the total displacement is s1+s2+s3−s4(since velocity
+is negative) = 44 min the positive direction.
+Acceleration-time graph
+The acceleration-time graph shows the acceleration graph plotted against
+time for a particle moving in a straight line. The acceleration-time plots
+acceleration values on the y-axis and time values on the x-axis. For a
+uniformly accelerated motion, acceleration is constant with time. Hence,
+the acceleration-time graph will be a straight line parallel to the time axis.
+For a straight line parallel to the time axis, slope equals zero.
+Figure 2.15 Acceleration-time
+graph.
+An acceleration-time graph can be used to ﬁnd the change in velocity
+during various time intervals. This is accomplished by determining the
+area under the line on the acceleration-time graph.
+Figure 2.16 Acceleration-time
+graph of the given problem.Example 2.13
+For the acceleration-time graph shown in Figure 2.16 , ﬁnd the change in
+velocity of an object.
+Solution:
+In this example, the change in velocity can be obtained by ﬁnding the area
+under the acceleration-time graph. Thus,
+area=base×height =9s×4m/s2=36m/s
+Hence, the change in velocity of the moving object is 36 m/s.
+
+--- [PAGE BREAK] ---
+
+2.5 Graphical representation of uniformly accelerated motion 49
+Activity 2.6
+The table below shows a set of position-time data for uniformly
+accelerated motion.
+Position ( m)0832 72 128
+Time ( s)s)s 02 4 6 8
+1.By plotting the position-time graph, ﬁnd the slopes of tan-
+gents at appropriate times.
+2.By plotting the velocity-time graph, determine the area under
+the graph. State what this area represent.
+3.Also plot the acceleration-time graph and determine the area
+under the graph. State what this area represent.
+Section summary
+In a uniformly accelerated motion:
+•The position-time equation is quadratic, and hence the graph
+is parabolic as shown in Figure 2.17 (a).
+•The slope of the tangent line (at a point) of the position-time
+graph is equal to the instantaneous velocity at that time.
+•The velocity-time equation is linear and hence the graph is a
+straight line as shown in Figure 2.17 (b).
+•The slope of velocity-time graph is equal to the acceleration
+while the area under the graph is the displacement.
+•The acceleration-time graph is a straight line parallel to the
+time axis as shown in Figure 2.17 (c).
+•The area under acceleration-time graph is the change in ve-
+locity of an object.
+ Figure 2.17 Graphs of motion
+in uniform acceleration.
+
+--- [PAGE BREAK] ---
+
+50 Unit 2 Uniformly Accelerated Motion
+Review questions
+1.In a uniformly accelerated motion, state what each of the
+following represents:
+(a) the slope of a tangent on a position-time graph.
+(b) the slope of a line on a velocity-time graph.
+(c) the area under the line on an acceleration-time graph.
+2.The velocity-time graph below shows the motion of an air
+plane. Find the displacement of the airplane at ∆t=1.0 s and
+at∆t=2.0 s.
+Figure 2.18 Velocity-time graph.Exercise 2.19
+/lefthandHow long does
+it take a car to
+cross a 25.0 m
+wide intersection
+after the light
+turns green, if
+the car acceler-
+ates from rest at
+a constant ac-
+celeration of 2.0
+m/s2? Draw the
+acceleration-time
+graph.
+2.6 Relative velocity in one dimension Exercise 2.20
+What is meant by
+relative velocity
+in one dimension.
+Give an example?By the end of this section, you should be able to:
+•explain relative velocity in one-dimension using a frame of reference;
+•calculate the relative velocity.
+
+--- [PAGE BREAK] ---
+
+2.6 Relative velocity in one dimension 51
+Any measurement of distance, speed, velocity, and so on; must be made
+with respect to a reference frame, or frame of reference. When you say an
+object has a certain velocity, you must state its velocity with respect to a
+given reference frame. In everyday life, when you measure the velocity of
+an object, the reference frame is taken to be the ground or the earth. For
+example, if you are traveling in a train and the train, is moving at a speed
+of 100 km/h, then your speed according to another passenger sitting on
+that train is zero. According to him, you are not moving. But if someone
+observes you from outside the train, standing on the ground, according to
+him, you are moving at 100 km/h as you are on the train and the train is
+moving at 100 km/h. Hence, the motion observed by the observer depends
+on the location (frame) of the observer. This type of motion is called rela-
+tive motion.
+Key Concept
+/lefthandRelative veloc-
+ity is the velocity
+of an object withrespect to an-other object or
+observer.The relative velocity of object A with respect to object B is the rate of
+change of position of the object A with respect to the object B. If vAand
+vBbe the velocities of objects A and B with respect to the ground, then
+• The relative velocity of A with respect to B is vAB=vA−vB.
+• The relative velocity of B with respect to A is vBA=vB−vA.
+In one-dimensional motion, objects move in a straight line. So there are
+only two possible cases: objects are moving in the same direction or in
+opposite directions. Thus, while using the above expressions, the signs of
+velocities needs to be the same (say, positive) for bodies that are moving in
+the same direction. But if they are moving in opposite directions, one of the
+velocities (say to the right) should be positive while the other one becomes
+negative. Thus, if the two objects are moving in the same direction, the
+magnitude of the relative velocity of one object with respect to anotheris equal to the difference in magnitude of two velocities. But if the two
+objects are moving in opposite directions, the above expression becomes
+•vAB=vA−(−vB)=vA+vB
+•vBA=−vB−vA=−(vA+vB) if object A is moving to the right and
+object B is moving to the left.
+
+--- [PAGE BREAK] ---
+
+52 Unit 2 Uniformly Accelerated Motion
+Thus, for objects that are moving in opposite directions, the magnitude of
+relative velocity of one object with respect to other is equal to the sum of
+magnitude of their velocities.
+Example 2.14
+Two cars, A and B are traveling with the same speed of 100 km/h in opposite
+directions, as in the Figure 2.19 (a). Find the relative velocity of car A with
+respect to car B and the relative velocity of car B with respect to car A.
+Figure 2.19 Two cars moving
+(a) in opposite directions (b) in
+same direction.Solution:
+In this example, suppose that right is positive and left is negative. So you
+are given vA= 100 km/h and vB=-1 0 0km/h.
+• The relative velocity of A with respect to B is vAB=vA−vB
+=[100−(−100)] km/h=100+100 km/h=200 km/h.
+• The relative velocity of B with respect to A is vBA=vB−vA
+=[(−100) −100] km/h=−200 km/h.
+Thus, when objects are moving in the opposite directions, the magnitude of
+the relative velocity between them is the sum of the velocities of the objects.
+In the same question, if both bodies are moving in the same direction (say
+to the right) as in the Figure 2.19 (b) with the same speed, then
+• The relative velocity of A with respect to B is vAB=vA−vB
+=[100−100] km/h=0km /h.
+• The relative velocity of B with respect to A is vBA=vB−vA
+=[100−100] km/h=0km/h.
+That means A is at rest with respect to B, and B is at rest with respect to A;
+but both are moving at 100 km/h with respect to the ground. This shows
+that, when objects are moving in the same direction, the magnitude of
+the relative velocity between them is equal to the difference between the
+magnitude of their velocities.
+
+--- [PAGE BREAK] ---
+
+2.6 Relative velocity in one dimension 53
+Exercise 2.21
+Why do a car
+coming in the
+opposite direction
+while travelling
+in a car seems to
+come at a very
+large speed?Section summary
+•When you say that an object has certain velocity, you must
+state its velocity with respect to a given frame of reference.
+•If two objects are moving in the same direction, the magnitude
+of relative velocity of one object with respect to another is
+equal to the difference in magnitude of two velocities. On
+the other hand, if they are moving in opposite directions, the
+magnitude of relative velocity of one object with respect to
+other is equal to the sum of magnitude of their velocities.
+Review questions
+1.A motorcycle traveling on the highway at a velocity of 120
+km/h passes a car traveling at a velocity of 90 km/h. From the
+point of view of a passenger on the car, what is the velocity of
+the motorcycle?
+2.An automobile is moving at 80 km/h, and a truck is moving
+at 60 km/h, approaching an automobile. What is the relative
+velocity of an automobile with respect to a truck when the
+observer on the automobile measures it?
+3.A thief is running away on a straight road on a jeep moving
+with a speed of 9 m/s. A police man chases him on a motor
+cycle moving at a speed of 10 m/s. If the instantaneous
+separation of jeep from the motor cycle is 100 m, how long
+does it take for the policemen to catch the thief?
+
+--- [PAGE BREAK] ---
+
+54 Unit 2 Uniformly Accelerated Motion
+Virtual Labs
+On the soft copy of the book, click on the following link to per-
+form virtual experiments on uniformly accelerated motion unit
+under the guidance of your teacher.
+1.Forces and Motion: Basics PhET Experiment .
+2.Moving-man PhET Experiment.
+End of unit summary
+•An object is in motion if it changes position relative to a refer-
+ence point.
+•Distance is the length of the path taken by an object whereas
+displacement is simply the distance between where the object
+started and where it ended up.
+•Average velocity is deﬁned as the change in position (or dis-
+placement) over the time of travel while instantaneous veloc-
+ity is the velocity of an object at a single point in time and is
+calculated by the slope of the tangent line.
+•Average acceleration is the change in velocity divided by the
+elapsed time; instantaneous acceleration is acceleration at a
+given point in time.
+•For uniformly accelerated motion, the position-time graph is
+a parabola. On the other hand, the velocity-time graph is an
+inclined line while the acceleration-time graph is a straight
+line parallel to the time axis.
+•The summary of the equations of motion at uniform accelera-
+tion are:v=vo+at vav=(vo+v)
+2
+s=((vo+v)
+2t s=vot+1/2at2
+v2=vo2+2as

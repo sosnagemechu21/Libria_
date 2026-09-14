@@ -1,0 +1,1551 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 2: Polynomial Functions ………………………
+Pages: 76 to 129
+=================================================================
+
+Unit 2 :Polynomial Functions
+67POLYNOMIAL FUNCTIONS
+Unit Outcomes
+Define polynomial functions.
+Perform the four fundamental operations on polynomials.
+Apply theorems on polynomial functions to solve related problems.
+Determine the rational and irrational zeros of polynomials.
+Sketch the graphs of polynomial functions.
+Unit Contents
+2.1Definition of Polynomial Function
+2.2Operations on polynomial functions
+2.3Theorems on polynomials
+2.4Zeros of a polynomial function
+2.5Graphs of polynomial functions
+2.6Applications
+  Summary
+  Review Exercise  UNIT
+POLYNOMIAL FUNCTIONS
+2
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+68
+✓Linear function ✓Domain
+✓Location Theorem ✓Turning point
+✓x-intercept✓Zero(s) of polynomial
+✓Remainder theorem ✓Polynomial Division Theorem ✓y-intercept
+✓Factor theorem ✓Polynomial Function ✓Multiplicity
+✓Leading Coefficient ✓Rational root test ✓Degree
+✓Constant function ✓Constant term
+Introduction
+In unit one of this textbook, you saw functions of the form 𝑦=𝑏,𝑦=𝑎𝑥+𝑏
+and 𝑎𝑥2+𝑏𝑥+𝑐. You also attempted to sketch their graphs. These functions are 
+parts of a large class of functions called polynomial functions. Polynomial functions 
+are functions that involve only one variable x, consisting of the sum of several terms; 
+each term is a product of two factors; the first being a real number coefficient and the 
+second being xraised to some non-negative integer power.  In this unit, you will be 
+looking at the different components of polynomial functions like degree, leading 
+coefficient, zeros of a polynomial function, theorems on polynomial functions and 
+properties of graphs of polynomial function. You will see how the leading coefficient 
+and the degree of a polynomial function determine the end property of the graph of the 
+function.
+2.1Definition of Polynomial Function
+You are familiar with functions like constant functions, linear functions and quadratic 
+functions in unit one.
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+69A function 𝑓is a constant function if it can be written in the form 𝑓(𝑥)=𝑏,where 
+𝑏is a real number. The domain of 𝑓is the set of all real numbers and the range is the 
+set containing only the number 𝑏.
+A function 𝑓is a linear function if it can be written in the form 𝑓(𝑥)=𝑎𝑥+𝑏,where 
+𝑎and 𝑏are real numbers and 𝑎≠ 0. The domain of 𝑓is the set of all real numbers and 
+the range is also the set of all real numbers.
+A function 𝑓is a quadratic function if it can be written in the form 𝑓(𝑥)=𝑎𝑥2+𝑏𝑥+
+𝑐where 𝑎,𝑏and 𝑐are real numbers and 𝑎≠ 0. The domain of 𝑓is the set of all real 
+numbers and the range is not the set of all real numbers and it depends on the values 
+of 𝑎,𝑏and 𝑐.
+Definition of Polynomial Function
+Classify the following functions as constant function, linear function, quadratic 
+function or none of these:
+a. 𝑓(𝑥)= 2𝑥+4                               b. 𝑔(𝑥)=2
+3−𝑥
+c. 𝑓(𝑥)=ȁ𝑥ȁ=൜𝑥,𝑖𝑓𝑥≥ 0
+−𝑥,𝑖𝑓𝑥<0       d.ℎ(𝑥)= − 𝑥2+5𝑥+9
+e. 𝑓(𝑥)=𝑥4+2𝑥−5                     f. 𝑘(𝑥)= 5
+g.ℎ(𝑥)=(𝑥−2)(𝑥+2) h. 𝑓(𝑥)= 6+9
+5𝑥+4𝑥2
+i𝑓(𝑥)= −ξ5𝑥+ξ2 j. 𝑙(𝑥)= 3ξ𝑥+ξ3
+Activity 2.1
+Definition 2.1
+Let 𝑛be non-negative integer and let 𝑎𝑛,𝑎𝑛−1, . . . , 𝑎2,𝑎1,𝑎0be real numbers 
+with 𝑎𝑛≠ 0. The function 𝑝(𝑥)=𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+ . . .+ 𝑎2𝑥2+𝑎1𝑥+
+𝑎0is called a polynomial function in one variable 𝑥of degree 𝑛.
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+70In the above definition of polynomial function
+i. 𝑎𝑛,𝑎𝑛−1, . . . , 𝑎2,𝑎1,𝑎0are called the coefficients of the polynomial 
+function (or simply the polynomial).
+ii. The number 𝑎𝑛is called the leading coefficient of the polynomial and 𝑎𝑛𝑥𝑛
+is the leading term .
+iii. The number 𝑛(the exponent of the highest power of 𝑥) is the degree of the 
+polynomial.
+iv. The number 𝑎0is called the constant term of the polynomial.
+Domain of Polynomial function :  The domain of a polynomial function is the set of 
+all real numbers .
+Find the degree, leading coefficient and constant term of the following polynomial 
+functions.
+a.𝑓(𝑥)= −2 𝑥+5
+b.𝑓(𝑥)= 3𝑥2+𝑥−3
+c.𝑓(𝑥)= 3𝑥3−9𝑥2+5𝑥+3
+2
+d.ℎ(𝑥)= −5 𝑥4+8𝑥3+2𝑥2−3𝑥+7
+e.𝑔(𝑥)= −2+3 𝑥3+2
+5𝑥2−𝑥4+4𝑥5+5𝑥
+f.𝑔(𝑥)= 2( 𝑥4+1
+2𝑥2−2)+ 𝑥+𝑥4+1
+Solution: 
+a.It is a polynomial function with degree 1, leading coefficient -2 and constant term 
+5.
+•The constant function  𝑓(𝑥)=𝑏,𝑏≠ 0 is polynomial function with degree 
+zero.
+•The constant function  𝑓(𝑥)= 0is called the zero polynomial with no degree 
+assigned to it.
+Note
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+71b.It is a polynomial function with degree 2, leading coefficient 3 and constant term −3.
+c.It is a polynomial function with degree 3, leading coefficient 3 and constant term 3
+2.
+d.It is a polynomial function with degree 4, leading coefficient -5 and constant term 7.
+e.You can rearrange the polynomial function 𝑔as
+𝑔(𝑥)= 4𝑥5−𝑥4+3𝑥3+2
+5𝑥2+5𝑥−2 and it is a polynomial function with 
+degree 5, leading coefficient 4 and constant term −2.
+f.𝑔(𝑥)= 2( 𝑥4+1
+2𝑥2−2)+ 𝑥+𝑥4+1 = 2 𝑥4+𝑥2−4+ 𝑥+𝑥4+1  
+                                                                 = 3𝑥4+𝑥2+𝑥−3. 
+Therefore, the degree is 4, the leading coefficient is 3 and the constant term is −3.
+Find the degree, leading coefficient and constant term of the following polynomial 
+functions.
+a.𝑓(𝑥)= − 𝑥2+3𝑥+9
+b.𝑓(𝑥)=12𝑥3−9𝑥2+3𝑥+4
+c.ℎ(𝑥)= −7 𝑥5+5𝑥3−10
+d.𝑔(𝑥)= −4 𝑥2−𝑥3−5+2 𝑥+3𝑥4
+e.ℎ(𝑥)= −3 𝑥4+𝑥2+3(2 𝑥2+4𝑥4+5𝑥3+2
+3)
+Exercise 2.1
+There are two ways to check whether a given function is not polynomial function.
+•Its domain is not all real numbers.
+•It does not take the form or unable to transform it to the form                                               
+𝑝(𝑥)=𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+ . . .+ 𝑎2𝑥2+𝑎1𝑥+𝑎0, where nis non-
+negative integer ( 0or positive integers) and 𝑎𝑛,𝑎𝑛−1,..., 𝑎2,𝑎1,𝑎0  are 
+real numbers with 𝑎𝑛≠ 0.
+Note
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+72Determine if the following are polynomial function or not.
+     1.  𝑔(𝑥)= 4𝑥−2+3𝑥−1−7                            2.  ℎ(𝑥)= 2𝑥
+Solution: 
+1.𝑔(𝑥)= 4𝑥−2+3𝑥−1−7is not a polynomial function because −2and −1are 
+not positive integers. 
+2.ℎ(𝑥)= 2𝑥is not a polynomial function because it can’t take the form of the
+general polynomial function. 
+Which of the following are polynomial functions? For those which are polynomials, 
+find the degree, leading coefficient and constant term.
+     a.      𝑓(𝑥)= 2𝑥2−9𝑥3+2
+5𝑥                       b.  𝑔(𝑥)=(2− 𝑥)(2+ 𝑥)` 
+      c.      ℎ(𝑥)= 5𝑥−4+6𝑥2+3                        d.   𝑘(𝑦)=√𝑦
+      e.    𝑓(𝑥)= 2𝑥1
+3+5𝑥1
+2−𝑥+5                      f.   𝑓(𝑥)=ξ2𝑥3+5𝑥2−√2
+7                                              
+Solution: 
+a.You can rearrange it as 𝑓(𝑥)= −9 𝑥3+2𝑥2+2
+5𝑥and it is a polynomial 
+function with degree 3, leading coefficient −9and constant term 0.
+b.𝑔(𝑥)=(2− 𝑥)(2+ 𝑥)= 4− 𝑥2, it is a polynomial function with degree 2, 
+leading coefficient −1and constant term 4.
+c.ℎ(𝑥)= 5𝑥−4+6𝑥2+3 is not a polynomial function because in the term  
+5𝑥−4, 𝑛= −4 is not a positive integer.
+d.𝑘(𝑦) =√𝑦is not a polynomial function becaus e it cannot be written in the 
+general form of polynomial function, because the variable 𝑦is inside a radical 
+sign. 
+Example 2
+Example 3
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+73e.𝑓(𝑥)= 2𝑥1
+3+5𝑥1
+2−𝑥+5is not a polynomial function because 1
+3and 1
+2  are 
+not integers.
+f.It is a polynomial function with degree 3, leading coefficient ξ2and constant 
+term−√2
+7.
+Which of the following are polynomial functions?  For those which are polynomials, 
+find the degree, leading coefficient and constant term.
+a.𝑓(𝑥)= 3𝑥5+2𝑥3+𝑥−5 b. 𝑘(𝑥)= 4− 𝑥+3
+8𝑥4−8𝑥2
+c. 𝑔(𝑥)= 4𝑥−3−7𝑥−2+𝑥−1−8              d.ℎ(𝑡)=ξ2𝑡+ξ3
+e.ℎ(𝑦)=ξ6𝑦2+ξ2𝑦+5 f. 𝑓(𝑥)=1
+𝑥2+1
+𝑥+1
+g. 𝑘(𝑥)= 2𝑥5−5𝑥2+2−2− 𝑥2+4𝑥3+𝑥5
+3h. 𝑓(𝑥)= (𝑥+2)( 𝑥2+𝑥−1)
+i𝑓(𝑥)=√(𝑥2+5)4 j. 𝑓(𝑥) =ȁ2𝑥2+7ȁ
+Consider the expression   8−3 𝑥3+4𝑥4
+4−3𝑥4+5𝑥2.
+a.Is it a polynomial expression?
+b.Find the degree, leading coefficient and the constant term.
+c.What is the coefficient of 𝑥3?
+Solution:   
+Exercise 2.2
+Definition 2.2
+A polynomial expression is an expression of the form   𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+                                                       
+. . .+ 𝑎2𝑥2+𝑎1𝑥+𝑎0where 𝑛is non negative integer and 𝑎𝑛≠ 0. Each 
+individual expression 𝑎𝑘𝑥𝑘making up the polynomial is called a term.
+Example 4
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+74First, write   8−3 𝑥3+4𝑥4
+4−3𝑥4+5𝑥2in the general form of a polynomial expression,
+      8−3 𝑥3+4𝑥4
+4−3𝑥4+5𝑥2=8
+4−3
+4𝑥3+4
+4𝑥4−3𝑥4+5𝑥2
+          = 2−3
+4𝑥3+(𝑥4−3𝑥4)+5 𝑥2   =  2−3
+4𝑥3−2𝑥4+5𝑥2                                                                                                  
+                      = −2𝑥4−3
+4𝑥3+5𝑥2+2.
+a.Yes, it is a polynomial expression.
+b.The degree is 4, the leading coefficient is −2and the constant term is 2.
+c.−3
+4
+Consider the expression  6𝑥3−2𝑥2+9
+3+3𝑥3−2𝑥
+     a. Is it a polynomial expression?
+     b. Find the degree, leading coefficient and constant term.
+     c. What is the coefficient of 𝑥2?
+2.2 Operations on Polynomial Functions
+Recall in algebra that we can combine two real numbers using the operations addition, 
+subtraction, multiplication and division to find another real number. You know the 
+restriction we have to make when we use the operation division. Here, we will combine 
+two or more polynomial functions using the operations addition, subtraction, 
+multiplication and division and discuss the results obtained by the combination. To 
+combine polynomial functions the knowledge of commutative, associative and 
+distributive laws and like and unlike terms is very important.
+Exercise 2.3
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+75Addition of Polynomial Functions
+In each of the following, find the sum of 𝑓(𝑥)and 𝑔(𝑥).
+     a.𝑓(𝑥)= 2𝑥4+5𝑥3+𝑥2+9𝑥+4and 𝑔(𝑥)= −3 𝑥3+5𝑥2−5𝑥−9
+b.𝑓(𝑥)=1
+2𝑥2+4
+3𝑥−5and 𝑔(𝑥)=3
+2𝑥2−2
+3𝑥+3
+1.Which of the following pairs contain like terms?
+   a.    2𝑥and 5𝑥                          b.    5𝑎2and  6 𝑎2
+   c.    𝑥2and 2𝑥3                         d. 3𝑥2and 2 𝑦2
+   e.    3  and  𝑦                           f.   𝑥5and 6𝑥5
+2.For any three real numbers 𝑎,𝑏and 𝑐,determine whether each of the following
+statements is true or false. Give reason for your answer.
+                     a.  𝑎+𝑏=𝑏+𝑎                          b.  𝑎−𝑏=𝑏−𝑎                               
+                     c.  (𝑎+𝑏)+𝑐=𝑎+(𝑏+𝑐)        d.   (𝑎𝑏)𝑐=𝑎(𝑏𝑐)                         
+                     e.  𝑎(𝑏+𝑐)=𝑎𝑏+𝑎𝑐                  f.  𝑎−(𝑏+𝑐)=𝑎−𝑏+𝑐
+                     g.  𝑎−(𝑏−𝑐)=𝑎−𝑏+𝑐            h. (𝑎−𝑏)+𝑐=𝑎+(− 𝑏+𝑐)
+Activity 2.2
+Definition 2.3
+The sum of two polynomial functions 𝑓and 𝑔  is written as 𝑓+𝑔and is defined 
+as: (𝑓+𝑔)(𝑥)=𝑓(𝑥)+𝑔(𝑥)for all real numbers 𝑥.
+The sum of two polynomial functions is found by adding the coefficients of like 
+terms.
+Note
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+76Solution:
+a.𝑓(𝑥)+𝑔(𝑥)
+= (2𝑥4+5𝑥3+𝑥2+9𝑥+4)+(−3 𝑥3+5𝑥2−5𝑥−9)
+      = 2𝑥4+(5𝑥3−3𝑥3)+(𝑥2+5𝑥2)+(9𝑥−5𝑥)+(4−9)
+         (Grouping like terms)
+= 2𝑥4+2𝑥3+6𝑥2+4𝑥−5(Adding like terms)
+b.𝑓(𝑥)+𝑔(𝑥)= (1
+2𝑥2+4
+3𝑥−5) +(3
+2𝑥2−2
+3𝑥+3)
+                        = (1
+2𝑥2+3
+2𝑥2) +(4
+3𝑥−2
+3𝑥) +(−5+3)
+                            ( Grouping like term )                                                               
+                        =   4
+2𝑥2+2
+3𝑥−2  =  2𝑥2+2
+3𝑥−2(Adding like terms)
+Observation :
+1.If 𝑓(𝑥)and 𝑔(𝑥)have different degrees, the degree of 𝑓(𝑥)+𝑔(𝑥)is the same as 
+the degree of 𝑓(𝑥)or the degree of 𝑔(𝑥)whichever has the highest degree.
+2.If 𝑓(𝑥)and 𝑔(𝑥)have the same degree, the degree of the sum may be lower than
+or equal to the common degree.
+3. The sum of two polynomial functions is a polynomial function.
+Find the sum of the polynomial functions 𝑓(𝑥)and 𝑔(𝑥).
+a.𝑓(𝑥)= 2𝑥3−3𝑥2−2𝑥+5and 𝑔(𝑥)= 5𝑥4+6𝑥3−7𝑥2+4𝑥+3.
+b.𝑓(𝑥)= − 𝑥4+2𝑥3−3𝑥2−3𝑥+2 and  𝑔(𝑥)= 5+7 𝑥−2𝑥2−𝑥3+𝑥4.
+c.𝑓(𝑥)= −2 𝑥5+2𝑥4−𝑥3+2𝑥2+5𝑥−1and 𝑔(𝑥)= 2+4 𝑥−5𝑥5−3𝑥4.
+d.𝑓(𝑥)=ξ2𝑥4+2𝑥3−5𝑥2+𝑥−ξ3and 
+𝑔(𝑥)=ξ3−3𝑥−𝑥2+2𝑥3−2ξ2𝑥4.
+Exercise 2.4
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+77Subtraction of Polynomial Functions
+In each of the following, find 𝑓−𝑔:
+a.𝑓(𝑥)= −2 𝑥3+5𝑥2+3𝑥+2and 𝑔(𝑥)= −2 𝑥3+4𝑥2+8𝑥−7.
+b.𝑓(𝑥)= 6𝑥5+5𝑥4+2𝑥3−𝑥2+4𝑥−3and 𝑔(𝑥)= 5𝑥4+𝑥3+4𝑥2−3𝑥−3.
+Solution: 
+a.𝑓(𝑥)−𝑔(𝑥)=(−2𝑥3+5𝑥2+3𝑥+2)−(−2 𝑥3+4𝑥2+8𝑥−7)
+                         = −2𝑥3+5𝑥2+3𝑥+2+2 𝑥3−4𝑥2−8𝑥+7  
+                               (Removing brackets)
+                                = (−2 𝑥3+2𝑥3)+(5 𝑥2−4𝑥2)+(3 𝑥−8𝑥)+(2+7)   
+                                   (Grouping like terms)
+                          = 0𝑥3+1𝑥2−5𝑥+9  (Adding like terms)
+                          =  𝑥2−5𝑥+9.
+b.𝑓(𝑥)−𝑔(𝑥)=(6𝑥5+5𝑥4+2𝑥3−𝑥2+4𝑥−3)−(5 𝑥4+𝑥3+4𝑥2−
+3𝑥−3)
+    =6𝑥5+5𝑥4+2𝑥3−𝑥2+4𝑥−3−5 𝑥4−𝑥3−4𝑥2+3𝑥+3
+         (Removing Brackets)
+                               = 6𝑥5+(5𝑥4−5𝑥4)+(2𝑥3−𝑥3)+(−𝑥2−4𝑥2)+
+(4𝑥+3𝑥)+(−3+3) (Grouping like terms)
+     = 6𝑥5+0𝑥4+1𝑥3−5𝑥2+7𝑥+0       (Adding like terms)
+     = 6𝑥5+𝑥3−5𝑥2+7𝑥      
+    
+Definition 2.4
+The difference of two polynomial functions 𝑓and 𝑔is written as 𝑓−𝑔, and is 
+defined as  (𝑓−𝑔)(𝑥)=𝑓(𝑥)−𝑔(𝑥)for all real numbers x.
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+781.  In each of the following find 𝑓(𝑥)−𝑔(𝑥).
+a.𝑓(𝑥)= − 𝑥3−5𝑥2+3𝑥+12 and 𝑔(𝑥)= 9𝑥3−𝑥2−6𝑥+3.
+     b.  𝑓(𝑥)= −1
+3𝑥4+3𝑥3−3𝑥2−3
+5𝑥+2and  𝑔(𝑥)=1
+3𝑥4−𝑥3−2𝑥2+7
+5𝑥+5
+   c.𝑓(𝑥)= −5 𝑥5+3𝑥4−𝑥3+2𝑥2+5𝑥+1and 𝑔(𝑥)= 2+4 𝑥−5𝑥5−3𝑥4.
+   d.𝑓(𝑥)= 3ξ3𝑥4+2𝑥3−5𝑥2+𝑥−5ξ3and 𝑔(𝑥)=ξ3−3𝑥−𝑥2+2𝑥3−
+2ξ3𝑥4.
+2.   The degree of 𝑓(𝑥)−𝑔(𝑥)is equal to the degree of 𝑓(𝑥)or the degree of 𝑔(𝑥)  
+       whichever has the highest degree. (True/False)
+3.   Is there a possibility for the degree of 𝑓(𝑥)−𝑔(𝑥)to be lower than the degree of 
+      𝑓(𝑥)or the degree of 𝑔(𝑥)? When?
+4.   Is the difference of two polynomial functions a polynomial function?
+Multiplication of Polynomial Functions
+1.Find 𝑓(𝑥)∙𝑔(𝑥)where 𝑓(𝑥)= 2𝑥+3and 𝑔(𝑥)= 3𝑥2−5𝑥+6.
+2.Let 𝑓(𝑥)=𝑥2−2𝑥+2and 𝑔(𝑥)= 2𝑥3−4𝑥2−5𝑥+1then
+a.Find 𝑓(𝑥)∙𝑔(𝑥).
+b.Find the degree of  𝑓,𝑔and 𝑓∙𝑔.
+Exercise 2.5
+Definition 2.5
+The product of two polynomial functions 𝑓(𝑥)and 𝑔(𝑥)is written as 𝑓∙𝑔, and 
+is defined as:
+                 (𝑓∙𝑔)(𝑥)=𝑓(𝑥)∙𝑔(𝑥)for all real numbers x.
+The product of two polynomials 𝑓(𝑥)and 𝑔(𝑥)is found by multiplying each term 
+of one by every term of the other as shown in the following example.
+Example 3
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+79c.Is the degree of 𝑓∙𝑔equal to the sum of the degrees of 𝑓and 𝑔?
+Solution: 
+   1.    𝑓(𝑥)∙𝑔(𝑥)  = (2𝑥+3)(3𝑥2−5𝑥+6)
+                 = 2𝑥(3𝑥2−5𝑥+6)+3(3𝑥2−5𝑥+6)  (Distributive property)
+                 = (2𝑥)(3𝑥2)+(2𝑥)(−5𝑥)+(2𝑥)(6)+(3)(3𝑥2)+(3)(−5𝑥)+(3)(6)         
+                       (Distributive property)                                        
+                  = 6𝑥3−10𝑥2+12𝑥+9𝑥2−15𝑥+18
+= 6𝑥3+(−10𝑥2+9𝑥2)+(12𝑥−15𝑥)+18
+                  = 6𝑥3−𝑥2−3𝑥+18
+    2.  a.  𝑓(𝑥)∙𝑔(𝑥)  = (𝑥2−2𝑥+2)(2𝑥3−4𝑥2−5𝑥+1)
+                                   = 𝑥2(2𝑥3−4𝑥2−5𝑥+1)+(−2𝑥)(2𝑥3−4𝑥2−5𝑥+
+1)+2(2 𝑥3−4𝑥2−5𝑥+1)    (Distributive property)                                           
+                                    = 2𝑥5−4𝑥4−5𝑥3+𝑥2−4𝑥4+8𝑥3+10𝑥2−2𝑥+
+4𝑥3−8𝑥2−10𝑥+2 (Distributive property )                                                                
+             = 2𝑥5+(−4𝑥4−4𝑥4)+(−5𝑥3+8𝑥3+4𝑥3)+
+(𝑥2+10𝑥2−8𝑥2)+(−2 𝑥−10𝑥)+2
+                                     = 2𝑥5−8𝑥4+7𝑥3+3𝑥2−12𝑥+2
+     b.  Degree of 𝑓is 2, degree of 𝑔is 3 and degree of 𝑓∙𝑔is5.
+     c.  Yes.
+1.In each of the following find 𝑓(𝑥)∙𝑔(𝑥).
+a.𝑓(𝑥)= 3𝑥+1and 𝑔(𝑥)= 2𝑥2+4𝑥−5
+b.𝑓(𝑥)=𝑥2+𝑥−2and 𝑔(𝑥)= 3𝑥2−6𝑥+1
+c. 𝑓(𝑥)=𝑥3+3𝑥and 𝑔(𝑥)= 2𝑥−𝑥2
+2.Let 𝑓(𝑥)= 3𝑥4+2𝑥−4,  𝑔(𝑥)=𝑥2−2𝑥3.
+a.Find 𝑓(𝑥)∙𝑔(𝑥).
+b.Find the degree of  𝑓,𝑔and 𝑓∙𝑔.
+Exercise 2.6
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+80c.Is the degree of 𝑓∙𝑔equal to the sum of the degrees of 𝑓and 𝑔?
+To find the product of two polynomial functions, we can also use a vertical 
+arrangement for multiplication.
+Find (𝑥)∙𝑔(𝑥), if 𝑓(𝑥)=𝑥5+2𝑥4−3𝑥2−𝑥−5,  𝑔(𝑥)= 3𝑥2−4𝑥+2.
+Solution:
+We arrange the polynomials in a vertical column and multiply each term of the second 
+polynomial by each term of the first polynomial as indicated along with the following 
+solution.
+                                           𝑥5+2𝑥4−3𝑥2−𝑥−5
+3𝑥2−4𝑥+2}
+                              2𝑥5+4𝑥4−6𝑥2−2𝑥−10(Multiplying by 2)
+                 −4𝑥6−8𝑥5+12𝑥3+4𝑥2+20𝑥  (Multiplying by −4 𝑥)
+       3𝑥7+6𝑥6−9𝑥4−3𝑥3−15𝑥2(Multiplying by 3 𝑥2)
+       3𝑥7+2𝑥6−6𝑥5−5𝑥4+9𝑥3−17𝑥2+18𝑥−10(Adding like terms 
+vertically)
+Thus, 𝑓(𝑥).𝑔(𝑥)= 3𝑥7+2𝑥6−6𝑥5−5𝑥4+9𝑥3−17𝑥2+18𝑥−10.
+Find the product of 𝑓(𝑥)and 𝑔(𝑥)using vertical arrangement.
+      a.  𝑓(𝑥)= 2𝑥2−2𝑥−1and 𝑔(𝑥)= 3𝑥+5.
+       b.  𝑓(𝑥)= 3 𝑥3−𝑥2+𝑥−1and 𝑔(𝑥)= 5𝑥−2𝑥2.
+       c.  𝑓(𝑥)=𝑥3+2𝑥2+𝑥−5and 𝑔(𝑥)= −2 𝑥2+5𝑥−3.
+Observation
+1. For any two non-zero polynomial functions 𝑓and 𝑔, the degree of 𝑓∙𝑔is𝑚+𝑛
+if the degree of 𝑓is𝑚and the degree of 𝑔is n.
+Example 4
+Exercise 2.7
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+812. If either 𝑓or𝑔is the zero polynomial then 𝑓∙𝑔becomes the zero polynomial and 
+has no degree.
+3. The product of two polynomial functions is a polynomial function.
+Division of Polynomial Functions
+A number that takes the form 𝑎
+𝑏, where 𝑎and 𝑏are integers and 𝑏≠ 0 is called a 
+rational number. If 𝑏is positive integer, we can divide 𝑎by 𝑏to find two other integers 
+qand 𝑟with 0 ≤ 𝑟<𝑏such that  𝑎
+𝑏=𝑞+𝑟
+𝑏. Here, 𝑎is called the dividend , 𝑏is called 
+the divisor , 𝑞is called the quotient and 𝑟is called the remainder .
+For example, to find 𝑞and 𝑟when 50 is divided by 3, you usually use a process called 
+long division as follow s:
+Hence, 50÷3 =50
+3=16+2
+3.
+Here, 50 is the dividend, 3 is the divisor, 16 is the 
+quotient and 2 is the remainder. 
+In almost a similar way, we can divide one 
+polynomial by another polynomial. 
+For each of the following, divide the number aby the number bto find two numbers 
+q(quotient) and r (remainder) with 𝑟<𝑏such that  𝑎
+𝑏=𝑞+𝑟
+𝑏if
+i.     𝑎=97and 𝑏= 8.                      ii.   𝑎=168 and 𝑏= 5.        
+iii.   𝑎=287 and 𝑏=15.                  iv.   𝑎=355 and 𝑏=11.
+Activity 2.3
+Definition 2.6
+The division (Quotient) of two polynomial functions 𝑓and 𝑔is written as 𝑓÷𝑔, 
+and is defined as (𝑓÷𝑔)(𝑥)=𝑓(𝑥)÷𝑔(𝑥) for all real numbers 𝑥and    
+𝑔(𝑥)≠ 0(zeropolynomial).
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+82It is possible to divide one polynomial by another using a long division process . When 
+you are asked to divide one polynomial function by another, stop the division process 
+when you get a quotient and remainder that are polynomial functions and the degree 
+of the remainder polynomial is less than the degree of the divisor polynomial.
+Find (𝑥)÷𝑔(𝑥), where 𝑓(𝑥)= 4𝑥3+4𝑥2−𝑥+4and 𝑔(𝑥)= 2𝑥−1.
+Solution:
+So, dividing 4𝑥3+4𝑥2−𝑥+4 by 2𝑥−1gives a quotient 2𝑥2+3𝑥+1and a 
+remainder 5.
+In each of the following, find the quotient 𝑞(𝑥)and the remainder 𝑟(𝑥)when 𝑓(𝑥)is 
+divided by 𝑔(𝑥).
+   a.  𝑓(𝑥)=𝑥3+4𝑥2+𝑥+1and 𝑔(𝑥)=𝑥+2.
+    b.𝑓(𝑥)= 4𝑥3+6𝑥2−8𝑥+5and 𝑔(𝑥) = 2 𝑥−1.
+    c.  𝑓(𝑥)=𝑥3−3𝑥2−6and 𝑔(𝑥)= − 𝑥+1.
+Example 5
+Exercise 2.8
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+83Find (𝑥)÷𝑔(𝑥), where 𝑓(𝑥)=𝑥5+5𝑥3−2𝑥2+7and    𝑔(𝑥)=𝑥2+2𝑥+1.
+Solution:
+So, dividing 𝑥5+5𝑥3−2𝑥2+7 by 𝑥2+2𝑥+1gives a quotient 𝑥3−2𝑥2+
+8𝑥−16and a remainder  24𝑥+23.
+Therefore, 𝑥5+5𝑥3−2𝑥2+7
+𝑥2+2𝑥+1=𝑥3−2𝑥2+8𝑥−16+24𝑥+23
+𝑥2+2𝑥+1.
+In each of the following, find the quotient 𝑞(𝑥)and the remainder 𝑟(𝑥)when 𝑓(𝑥)is 
+divided by 𝑔(𝑥)and write the result as
+                           𝑓(𝑥)
+𝑔(𝑥)=𝑞(𝑥)+𝑟(𝑥)
+𝑔(𝑥).
+    a.  𝑓(𝑥)=𝑥3+3𝑥2+6𝑥+5;      𝑔(𝑥)=𝑥2+𝑥+2
+     b.   𝑓(𝑥)=𝑥4+𝑥3+𝑥2−6𝑥+7;      𝑔(𝑥) = 𝑥2−1
+      c.   𝑓(𝑥)= 1+8 𝑥2−5𝑥3+5𝑥4+2𝑥5;    𝑔(𝑥)= 2𝑥3−𝑥2+1
+Example 6
+Exercise 2.9
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+842.3 Theorems on Polynomials
+Polynomial Division Theorem
+Proof :
+Existence of the polynomials 𝒒(𝒙)and 𝒓(𝒙)
+Since 𝑓(𝑥)and 𝑑(𝑥)are polynomials, long division of 𝑓(𝑥)by and 𝑑(𝑥)will give a 
+quotient 𝑞(𝑥)and remainder 𝑟(𝑥), with degree of  𝑟(𝑥)< degree of 𝑑(𝑥)or    
+𝑟(𝑥)= 0.
+To show uniqueness of 𝒒(𝒙)and 𝒓(𝒙)
+To prove that 𝑞(𝑥)and 𝑟(𝑥)are unique, suppose that 𝑞′(𝑥)and 𝑟′(𝑥)are polynomials 
+satisfying 
+For each of the following, divide the number aby the number bto find two numbers 
+q(quotient) and r (remainder) with 𝑟<𝑏such that  𝑎=𝑞𝑏+𝑟if
+i.𝑎=88and 𝑏= 5.                 
+ii.   𝑎=305 and 𝑏= 6.        
+iii.   𝑎=354 and 𝑏=17.               
+iv.   𝑎=444 and 𝑏=111.
+Activity 2.4
+Theorem 2.1Polynomial Division Theorem
+If 𝑓(𝑥)and 𝑑(𝑥)are polynomials such that 𝑑(𝑥) ≠ 0 , and the degree of 𝑑(𝑥)is 
+less than or equal to the degree of 𝑓(𝑥), then there exist unique polynomials 𝑞(𝑥)
+and 𝑟(𝑥)such that 
+𝑓(𝑥) = 𝑑(𝑥)𝑞(𝑥)+𝑟(𝑥)
+where, 𝑟(𝑥)= 0 or the degree of 𝑟(𝑥)is less than the degree of 𝑑(𝑥). If the 
+remainder 𝑟(𝑥)is zero, 𝑑(𝑥)divides 𝑓(𝑥)exactly.
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+85                               𝑓(𝑥)=𝑞′(𝑥)𝑑(𝑥)+𝑟′(𝑥)   and
+                              𝑟′(𝑥)= 0or degree of 𝑟′(𝑥)< degree of 𝑑(𝑥).
+Then we would have 
+𝑞(𝑥)𝑑(𝑥)+𝑟(𝑥)=𝑓(𝑥)=𝑞′(𝑥)𝑑(𝑥)+𝑟′(𝑥)
+This implies                       𝑞(𝑥)𝑑(𝑥)+𝑟(𝑥)=𝑞′(𝑥)𝑑(𝑥)+𝑟′(𝑥)
+𝑑(𝑥)(𝑞(𝑥)−𝑞′(𝑥)) = 𝑟′(𝑥)−𝑟(𝑥). . . (∗)
+If 𝑞(𝑥)−𝑞′(𝑥)≠ 0, then the degree of the polynomial on the left-hand side of (*) is 
+greater than or equal to the degree of 𝑑(𝑥). But since the polynomials 𝑟′(𝑥)and 𝑟(𝑥)
+are either zero or have degree strictly less than that of 𝑑(𝑥), the right-hand side of (*) 
+must have degree strictly less than that of 𝑑(𝑥). Thus, unless 𝑞(𝑥)−𝑞′(𝑥)= 0 the 
+degree of the two sides of (*) cannot be the same; that is, we have a contradiction. 
+Therefore, 𝑞(𝑥)−𝑞′(𝑥)= 0or 𝑞(𝑥)=𝑞′(𝑥). 
+This implies the left-hand side of (*) is zero. That is, 0 = 𝑟′(𝑥)−𝑟(𝑥)or
+𝑟′(𝑥)=𝑟(𝑥). Thus, the polynomials 𝑞′(𝑥)and 𝑟′(𝑥)are unique.
+For each of the following pairs of polynomials, find polynomials 𝑞(𝑥)and 𝑟(𝑥)such 
+that 𝑓(𝑥)=𝑑(𝑥)𝑞(𝑥)+𝑟(𝑥).
+         a.  𝑓(𝑥)=𝑥3−1; 𝑑(𝑥)=𝑥−1.
+b.  𝑓(𝑥)= −2 𝑥3+𝑥2−3𝑥+7; 𝑑(𝑥)=𝑥2−1.
+Solution:   
+  
+If the remainder 𝑟(𝑥)is zero then 𝑑(𝑥)divides 𝑓(𝑥)exactly and we say the 
+division is exact.
+Note
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+86  a.  
+       
+𝑞(𝑥)=𝑥2+𝑥+1and 𝑟(𝑥)= 0. Since 𝑟(𝑥)= 0  we say that 𝑥3−1  is exactly       
+divisible by  𝑥−1and  𝑥3−1= (𝑥2+𝑥+1)(𝑥−1)+0 = ( 𝑥2+𝑥+1)(𝑥−1).
+     b. 
+The quotient is𝑞(𝑥)= −2 𝑥+1and the remainder is𝑟(𝑥)= −5 𝑥+8such that
+−2𝑥3+𝑥2−3𝑥+7 =(−2𝑥+1)(𝑥2−1)+(−5 𝑥+8) .
+For each of the following pairs of polynomials, find the quotient 𝑞(𝑥)and the 
+remainder 𝑟(𝑥)that satisfy the polynomial division theorem.
+             a.𝑓(𝑥)= 6𝑥2−2𝑥+3; 𝑑(𝑥)=𝑥−1.
+b.𝑓(𝑥)=𝑥3+4𝑥2+8𝑥+6; 𝑑(𝑥)=𝑥2+2𝑥−1.
+Exercise 2.10
+)
+2
+1
+and 
+ (
+)
+ 0
+. Since 
+ (
+)
+ 0
+we say that 
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+87c.𝑓(𝑥)=𝑥4+6𝑥3−10𝑥+3; 𝑑(𝑥)=𝑥2−1
+d.  𝑓(𝑥)= − 𝑥3+4𝑥2−𝑥−6; 𝑑(𝑥)=𝑥2+𝑥+1.
+e.  𝑓(𝑥)= − 𝑥4;𝑑(𝑥)=𝑥+2.
+Remainder Theorem
+Proof:
+When 𝑓(𝑥)is divided by 𝑥−𝑐, the remainder is always a constant. Because we 
+continue to divide until the degree of the remainder is less than the degree of the 
+divisor.
+By the polynomial division theorem,
+                                          𝑓(𝑥)= (𝑥−𝑐)𝑞(𝑥)+𝑘,
+where 𝑘is a constant. This equation holds for every real number 𝑥. Thus, it holds 
+when      𝑥=𝑐. 
+That is                           𝑓(𝑐)=(𝑐−𝑐)𝑞(𝑥)+𝑘
+                      = 0. 𝑞(𝑐)+𝑘= 0+ 𝑘=𝑘.
+Find the remainder when the polynomial 𝑓(𝑥)is divided by the polynomial 𝑥−𝑐
+for the given number 𝑐. Compare the result obtained with 𝑓(𝑐). 
+a.𝑓(𝑥)=𝑥2−𝑥+3; 𝑐= −2
+b.𝑓(𝑥)=𝑥3+2𝑥2−𝑥−5; 𝑐= 1
+Activity 2.5
+Theorem 2.2    Remainder Theorem                                                                    
+Let 𝑓(𝑥)be a polynomial of degree greater than or equal to 1and let 𝑐be any real 
+number. If 𝑓(𝑥)is divided by the linear polynomial (𝑥−𝑐), then the remainder 
+is 𝑓(𝑐).
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+88It follows that the value of the polynomial 𝑓(𝑥)at𝑥=𝑐is the same as the 
+remainder 𝑘obtained when you divide 𝑓(𝑥)by 𝑥−𝑐.
+In each of the following pairs of polynomials, use remainder theorem to find the 
+remainder when 𝑓(𝑥)is divided by 𝑑(𝑥).
+a.𝑓(𝑥)= 2𝑥3+5𝑥2+3𝑥+2; 𝑑(𝑥)=𝑥+1.
+b.𝑓(𝑥)=𝑥4+3; 𝑑(𝑥)=𝑥−2.
+c.𝑓(𝑥) = 𝑥35+5𝑥24−𝑥9+9; 𝑑(𝑥) = 𝑥−1.
+d.𝑓(𝑥) =55𝑥201+100; 𝑑(𝑥) = 𝑥+1.
+Solution: 
+a.𝑑(𝑥)=𝑥+1 = 𝑥−(−1). Therefore, 𝑐= −1 and the remainder is
+            𝑓(𝑐)=𝑓(−1)= 2.
+b. 𝑑(𝑥)=𝑥−2, therefore 𝑐= 2and the remainder is 𝑓(𝑐)=𝑓(2)=19.
+c.𝑑(𝑥) = 𝑥−1, therefore 𝑐= 1and the remainder is
+𝑓(𝑐) = 𝑓(1) = 135+5(1)24−19+9 =14
+d.𝑑(𝑥) = 𝑥+1 = 𝑥−(−1), therefore 𝑐= −1and the remainder is   
+      𝑓(−1) =55(−1)201+100=45.
+In each of the following, use the remainder theorem to find the remainder when 𝑓(𝑥)
+is divided by 𝑑(𝑥).
+   a.  𝑓(𝑥)=𝑥3−3𝑥2+4, 𝑑(𝑥)=𝑥−1
+b.  𝑓(𝑥)= −2 𝑥3+4𝑥2+5𝑥−2, 𝑑(𝑥)=𝑥+2
+c. 𝑓(𝑥) = 𝑥17−4𝑥2+7𝑥−32,𝑑(𝑥) = 𝑥−1
+d.  𝑓(𝑥)=𝑥16+8𝑥3+99,𝑑(𝑥)=𝑥+1
+e.  𝑓(𝑥)=𝑥3−2, 𝑑(𝑥)=𝑥−1
+2
+Example 2
+Exercise 2.11
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+89a.When 3𝑥3−4𝑥2+𝑏−5is divided by 𝑥−2, the remainder is 10. 
+Find the value of b.
+b.Find the value of aand bsuch that when 𝑥3+𝑎𝑥2+𝑏𝑥−9is divided by 
+𝑥+1and 𝑥−2the remainder is 4 and -5 respectively.
+Solution: 
+a.Let 𝑓(𝑥)= 3 𝑥3−4𝑥2+𝑏−5, by the remainder theorem when 𝑓(𝑥)is 
+divided by 𝑥−2the remainder is 𝑓(2)= 3(2)3−4(2)2+𝑏−5 = 𝑏+3. 
+Since the remainder is given as 10, we have 𝑏+3 =10and solving for 𝑏, 
+we have 𝑏= 7.
+b.Let 𝑓(𝑥)=𝑥3+𝑎𝑥2+𝑏𝑥−9. When 𝑓(𝑥)is divided by 𝑥+1 the   
+remainder is  𝑓(−1)=(−1)3+𝑎(−1)2+𝑏(−1)−9 = 𝑎−𝑏−10.
+       Since the remainder is 4, 𝑎−𝑏−10= 4,
+                                         𝑎−𝑏=14. . .   (1).
+       When 𝑓(𝑥)is divided by 𝑥−2the remainder is 
+              𝑓(2)=(2)3+𝑎(2)2+𝑏(2)−9 = 4 𝑎+2𝑏−1.
+       Since the remainder is -5, 4𝑎+2𝑏−1 = −5 ,
+                                         4𝑎+2𝑏= −4
+                                         2𝑎+𝑏= −2 . . .   (2).
+       From (1) and (2) we have 𝑎= 4and 𝑏= −10.
+1.When 5𝑥3−𝑏𝑥2+8𝑥−1is divided by 𝑥+1, the remainder is 15. Find the 
+value of 𝑏.
+2.Find the values of  𝑎and 𝑏such that when 𝑎𝑥3−𝑏𝑥2+5𝑥−2is divided by  
+𝑥−1and  𝑥+1the remainder is 4 and 6, respectively.
+Example 3
+Exercise 2.12
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+90Factor Theorem
+Remember that in the case of multiplication of polynomials, we multiply two or more 
+polynomials to find another polynomial.
+For example, (𝑥+1)(2𝑥−1)= 2𝑥2+𝑥−1.
+The polynomial 2𝑥2+𝑥−1is called product or multiple and (𝑥+1) and (2𝑥−1)
+are called factors . Factoring a polynomial means writing it as the product of its 
+polynomial factors. The following theorem is known as the factor theorem . It is very 
+helpful to check whether a linear polynomial is a factor of a given polynomial or not.
+Proof :
+1.  Suppose 𝑐is a real number and 𝑓(𝑐)= 0and consider the polynomial 𝑥−𝑐.
+By the polynomial division theorem when a polynomial 𝑓(𝑥)is divided by 𝑥−𝑐,
+there exist unique polynomials 𝑞(𝑥)and 𝑟(𝑥)such that 
+                        𝑓(𝑥) = ( 𝑥−𝑐)𝑞(𝑥)+𝑟(𝑥),
+Let 𝑓(𝑥)=𝑥3+4𝑥2+𝑥−6.
+a.Find 𝑓(1).
+b.Find the quotient 𝑞(𝑥)and the remainder 𝑟(𝑥)when 𝑓(𝑥)is divided by
+𝑥−1.
+c.Express 𝑓(𝑥)as 𝑓(𝑥)=(𝑥−1)𝑞(𝑥)+𝑟(𝑥).
+d.Is (𝑥−1) a factor of 𝑓(𝑥)?
+Activity 2.6
+Theorem 2.3   Factor Theorem                                                                 
+Let 𝑓(𝑥)be a polynomial of degree greater than or equal to one, and let 𝑐be any 
+real number, then 
+               1.   if 𝑓(𝑐)= 0then 𝑥−𝑐is a factor of 𝑓(𝑥).
+               2.   if 𝑥−𝑐is a factor of 𝑓(𝑥)then  𝑓(𝑐)= 0.
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+91where 𝑟(𝑥)= 0or the degree of 𝑟(𝑥)is less than “the degree of 𝑥−𝑐”= 1.
+But, degree of 𝑟(𝑥)< 1, means “degree of 𝑟(𝑥)”= 0that is 𝑟(𝑥)is a constant 
+polynomial.
+Let 𝑟(𝑥)=𝑘, since 𝑓(𝑐)=(𝑐−𝑐)𝑞(𝑐)+𝑟(𝑐)= 0,  𝑟(𝑐)= 0 = 𝑘.
+Thus, 𝑟(𝑥)= 0and this implies 𝑓(𝑥) = ( 𝑥−𝑐)𝑞(𝑥), thus 𝑥−𝑐is a factor of 
+𝑓(𝑥).
+2.Suppose 𝑐is a real number and 𝑥−𝑐is a factor of 𝑓(𝑥), then there is a 
+polynomial 𝑞(𝑥)such that 𝑓(𝑥) = ( 𝑥−𝑐)𝑞(𝑥). From this 
+𝑓(𝑐)=(𝑐−𝑐)𝑞(𝑥)= 0.  
+a.   Show that 𝑥+2is a factor of 𝑓(𝑥)=𝑥2+5𝑥+6.
+b.  Show that 𝑥+1and 𝑥−2are factors but 𝑥+2is not factor of                                          
+     𝑓(𝑥)=𝑥4−𝑥3−𝑥2−𝑥−2.
+Solution:
+a.  Since 𝑥+2 = 𝑥−(−2) has the form 𝑥−𝑐, the value of 𝑐= −2 .
+     Now, 𝑓(𝑐)=𝑓(−2)= (−2)2+5(−2)+6 = 0 , then by the factor theorem
+     𝑥+2is a factor of 𝑥2+5𝑥+6.
+b.   Since 𝑥+1 = 𝑥−(−1) has the form 𝑥−𝑐, the value of 𝑐= −1 .
+      𝑓(𝑐)=𝑓(−1)= (−1)4−(−1)3−(−1)2−(−1)−2 = 0 . Then by the factor 
+       theorem 𝑥+1is a factor of 𝑓(𝑥).
+       Since 𝑥−2has the form 𝑥−𝑐, the value of 𝑐= 2.
+       𝑓(𝑐)=𝑓(2)= (2)4−(2)3−(2)2−(2)−2 = 0 . Then by the factor theorem
+      𝑥−2is a factor of 𝑓(𝑥).
+       Since 𝑥+2 = 𝑥−(−2) has the form 𝑥−𝑐, the value of 𝑐= −2 .
+       𝑓(𝑐)=𝑓(−2)= (−2)4−(−2)3−(−2)2−(−2)−2 =20≠ 0. Then by the 
+       f actor theorem 𝑥+2is not a factor of 𝑓(𝑥).
+Example 4
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+921. Show that 𝑥−2is a factor of 𝑓(𝑥)=𝑥2+𝑥−6.
+2.Which of the following is a factor of 𝑓(𝑥)=𝑥3+4𝑥2+𝑥−6?
+    a.  𝑥−1         b.  𝑥−3          c. 𝑥+1           d.  𝑥+2
+3.  In each of the following, determine whether 𝑥−𝑐is a factor of 𝑓(𝑥).
+a.  𝑓(𝑥)=𝑥3−6𝑥2+11𝑥−6; 𝑐= 1.
+b.  𝑓(𝑥)= 2𝑥4−𝑥3+3𝑥2−4𝑥−3; 𝑐= −1
+2.
+c.  𝑓(𝑥)=𝑥3−3𝑥2+4𝑥−3; 𝑐= 2.
+a. Find the number 𝑘such that 𝑥+1is a factor of 𝑘𝑥3+2𝑥2−3𝑘𝑥+2.
+b.Find the values of aand bin the polynomial 𝑥3+𝑎𝑥2+𝑏𝑥+6such that 𝑥+1  
+     and 𝑥−2are its factors.
+Solution:
+a.  Let𝑓(𝑥)=𝑘𝑥3+2𝑥2−3𝑘𝑥+2.                       
+     𝑥+1 = 𝑥−(−1)is a factor of 𝑓implies 𝑓(−1)= 0.
+    That is , 𝑓(−1)= 0
+                   𝑘(−1)3+2(−1)2−3𝑘(−1)+2 = 0
+                  −𝑘+2+3 𝑘+2 = 0
+                   2𝑘+4 = 0
+𝑘= −2
+  b.  Let 𝑓(𝑥)=𝑥3+𝑎𝑥2+𝑏𝑥+6.
+       𝑥+1is a factor of 𝑓(𝑥)implies 𝑓(−1)= 0.
+       On the other hand,
+        𝑓(−1)=(−1)3+𝑎(−1)2+𝑏(−1)+6 = 𝑎−𝑏+5.
+        Therefore, 𝑎−𝑏+5 = 0
+                          𝑎−𝑏= −5 . . .   (1)
+Exercise 2.13
+Example 5
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+93       𝑥−2is a factor of 𝑓(𝑥)implies 𝑓(2)= 0.
+       On the other hand,
+       𝑓(2)=(2)3+𝑎(2)2+𝑏(2)+6 = 4 𝑎+2𝑏+14.
+       Therefore, 4𝑎+2𝑏= −14
+                          2𝑎+𝑏= −7 . . .   (2)
+       From (1) and (2) we have 𝑎= −4and 𝑏= 1.
+1.In each of the following, find a number 𝑘satisfying the given condition. 
+a.  𝑥−2  is a factor of    2𝑥3+𝑘𝑥2+5𝑥−1.
+b.  𝑥+3  is a factor of    𝑥4+2𝑘𝑥3−𝑥2−5𝑘𝑥+6.
+2.Find the values of aand bin the polynomial 𝑎𝑥4+𝑥3−2𝑏𝑥2−11𝑥+6
+such that 𝑥+1and 𝑥−2are its factors.
+2.4   Zeros of a Polynomial Function
+From your grade 9 mathematics lesson, you know how to find the solution or root of 
+linear and quadratic equations.
+In activity 2.7, you have tried to find solutions or roots of the equations. 
+For a polynomial function 𝑓(𝑥), the root of the equation 𝑓(𝑥)= 0is called the zero
+of 𝑓(𝑥).
+Exercise 2.14
+Find the solution of the following equations.
+a.    2𝑥+3 = −5+3 𝑥 b.   2
+3𝑥+5
+4= 2( 𝑥−1
+8)    
+c.   (2𝑥−3)(4+2 𝑥)= 0  d.   𝑥2−5𝑥+6 = 0
+            e.   𝑥2+2𝑥+1 = 0 f.  𝑥2+4 = 0
+Activity 2.7
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+94a.  Find the zeros of 𝑓(𝑥)= (𝑥−2)(3 𝑥+4)(1−4 𝑥).
+b.  Determine the zeros of 𝑓(𝑥)=𝑥4−13𝑥2+36.
+c.  If 𝑥= 1is one zero of 𝑓(𝑥)=𝑥3−6𝑥2+11𝑥−6, then find the rest of real 
+     zeros and rewrite 𝑓(𝑥)as a product of its factors.
+Solution:
+a.𝑓(𝑥)= 0
+(𝑥−2)(3𝑥+4)(1−4 𝑥)= 0
+𝑥−2 = 0 or 3𝑥+4 = 0 or 1−4 𝑥= 0
+𝑥= 2or 𝑥= −4
+3  or 𝑥=1
+4
+Therefore, 𝑥= 2, 𝑥= −4
+3and 𝑥=1
+4are the zeros of 𝑓(𝑥).
+b.𝑓(𝑥)= 0
+𝑥4−13𝑥2+36= 0  
+           (𝑥2)2−13𝑥2+36= 0(Let 𝑦=𝑥2)
+            𝑦2−13𝑦+36= 0
+            ( 𝑦−4)(𝑦−9)= 0
+            (𝑥2−4)(𝑥2−9)= 0
+             (𝑥−2)(𝑥+2)(𝑥−3)(𝑥+3)= 0
+Definition 2.7
+For a polynomial function 𝑓(𝑥)and a real number 𝑐, if 𝑓(𝑐) = 0 then 𝑐is a zero
+of 𝑓.
+1.If 𝑥−𝑐is a factor of 𝑓(𝑥), then 𝑐is the zero of 𝑓(𝑥).
+2.If 𝑐is the zero of 𝑓(𝑥), then 𝑥−𝑐is a factor of 𝑓(𝑥).
+3.If 𝑐is the zero of 𝑓(𝑥), then 𝑐is the root or solution of the equation 
+𝑓(𝑥)= 0.
+Note
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+95            𝑥= 2or𝑥= −2or𝑥= 3or𝑥= −3
+Therefore, 𝑥= 2, 𝑥= −2, 𝑥= 3and 𝑥= −3 are the zeros of 𝑓(𝑥).
+c.Since 𝑥= 1is a zero of 𝑓(𝑥), by the factor theorem 𝑥−1is one factor of 𝑓(𝑥). 
+Using long division, the other factor is 𝑥2−5𝑥+6. 
+Further factoring 𝑥2−5𝑥+6 =(𝑥−2)(𝑥−3) . Hence, 𝑥3−6𝑥2+11𝑥−
+6 = 0is the same as (𝑥−1)(𝑥−2)(𝑥−3)= 0.
+Therefore, 𝑥= 1, 𝑥= 2and 𝑥= 3 are the zeros of 𝑓(𝑥).
+  Find the zeros of the following functions.
+     a.  𝑓(𝑥)= (𝑥−1)( 𝑥+5)(3 𝑥−2)         b.  𝑓(𝑥)=𝑥4−5𝑥2+4
+      c.  𝑓(𝑥)=𝑥4−𝑥2−2                           d.  𝑓(𝑥)=𝑥3−𝑥2−10𝑥−8
+      e.   𝑓(𝑥)= 2𝑥3−9𝑥2−5𝑥
+Zeros of a Polynomial Function and Their Multiplicities
+Consider  𝑓(𝑥)=𝑥3+2𝑥2−𝑥−2 =(𝑥−1)(𝑥+1)(𝑥+2)and                                              
+                𝑔(𝑥)=𝑥3+4𝑥2−3𝑥−18=(𝑥+3)2(𝑥−2)
+𝑓(𝑥)has three distinct factors (𝑥−1),(𝑥+1)and(𝑥+2). That is, it has three 
+distinct zeros 1,−1and−2. These are called simple zeros of 𝑓(𝑥). While, in 𝑔(𝑥)
+the factor (𝑥+3)is repeated twice, that is, the zero −3of 𝑔(𝑥)is repeated twice and 
+its other zero 2 appears only once. In this case we say -3 is a repeated or a multiple 
+zero of 𝑔(𝑥).
+Exercise 2.15
+Definition 2.8
+If (𝑥−𝑐)𝑘is a factor of a polynomial function  𝑓(𝑥), but (𝑥−𝑐)𝑘+1is not, 
+then 𝑐is said to be a zero of multiplicity 𝑘of 𝑓(𝑥).
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+96a.Given that 𝑥= −1 is a zero of 𝑓(𝑥)=𝑥3−𝑥2−5𝑥−3, find its multiplicity.
+b.  Find a polynomial function 𝑓(𝑥)of degree two whose zeros are 1, −2and
+     satisfying the condition 𝑓(3)=30.
+Solution:
+a.By the factor theorem 𝑥+1is a factor of 𝑓(𝑥). To find the other factor, you can 
+use long division giving 𝑓(𝑥)=(𝑥+1)(𝑥2−2𝑥−3) . Further factoring the 
+quadratic factor gives (𝑥+1)(𝑥+1)(𝑥−3)= (𝑥+1)2(𝑥−3) . Therefore, -1 is 
+a zero of multiplicity 2 of 𝑓(𝑥).
+b.Let𝑓(x)=𝑘(𝑥−1)(𝑥+2)forsomenumber 𝑘. Clearly 1and −2are zeros of
+𝑓(𝑥). Tofind 𝑘, since 𝑓(3)=𝑘(3−1)(3+2)=𝑘(2)(5)=10𝑘=30, implies
+𝑘= 3. Therefore ,the polynomial function of degree two is            
+     𝑓(𝑥)= 3(𝑥−1)(𝑥+2)= 3𝑥2+3𝑥−6
+1.Given that 𝑥= 1is a zero of   𝑓(𝑥)=𝑥3−4𝑥2+5𝑥−2, find the other zeros 
+and their multiplicity.
+2.For each of the following polynomials, list the zeros and state the multiplicity   
+ofeach zero.
+        a.  𝑘(𝑡)= (𝑡+2
+3)3𝑡10.
+        b.  𝑔(𝑥)= 5( 𝑥+ξ2)2(𝑥+2)3(1+3 𝑥).  
+        c.  ℎ(𝑡)= 2𝑡3+5𝑡2+4𝑡+1.
+      3.   a.  Find a polynomial 𝑓(𝑥)of degree two whose zeros are -2, 3 and satisfying 
+                  the condition 𝑓(2)=12.
+              b.  Find a polynomial function 𝑓(𝑥)of degree three whose zeros are −1, 2
+                   and 1andsatisfying the condition 𝑓(3)=16.
+              c.  Find a polynomial function 𝑓(𝑥)of degree 7 such that 2, −3, and 0are 
+                   the zeros of multiplicity 3, 2 and 2, respectively and 𝑓(1)=48. 
+Example 2
+Exercise 2.16
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+97Location Theorem
+Consider 𝑓(𝑥)=𝑥2−3.  −ξ3andξ3are the zeros of 𝑓and they are irrational 
+numbers . The table of values of the given functions for −2 ≤ 𝑥≤ 2 and xis an 
+integer, is the following.
+𝑥 −2 −1 0 1 2
+𝑓(𝑥) 1 −2 −3 −2 1
+Since 𝑓(−2)= 1 > 0and 𝑓(−1)= −2 < 0 , we see that the value of 𝑓(𝑥)changes 
+sign from positive to negative between −2and−1. And observe that one of the 
+irrational roots  −ξ3≅ −1.73lies between these two numbers. We also see that the 
+value of 𝑓(𝑥)changes sign from negative to positive between 1and2. Similarly 
+observe that the second irrational root ξ3≅ 1.73lies between these two numbers.
+The following theorem which is called the location theorem helps to locate the real 
+zeros of a polynomial function.
+It is sometimes possible to estimate the zeros of a polynomial function from a table of 
+values.
+In each of the following, determine whether the zeros of the polynomial function 
+are rational, irrational, or neither.
+   a.𝑓(𝑥) = 𝑥(𝑥+2)( 𝑥−3
+2).             b.   𝑓(𝑥)= (𝑥+ξ2)(𝑥−ξ3).
+   c. 𝑓(𝑥)=𝑥2+1.     
+Activity 2.8
+Theorem 2.4   Location Theorem
+Let 𝑎and 𝑏be real numbers such that 𝑎<𝑏. If 𝑓is a polynomial function such 
+that 𝑓(𝑎)and 𝑓(𝑏)have opposite signs, then there is at least one zero of 𝑓between 
+the numbers 𝑎and 𝑏.
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+98Let 𝑓(𝑥)=𝑥4−2𝑥3−4𝑥2+4𝑥+4. Construct a table of values and use the 
+location theorem to locate the zeros of 𝑓for the integers 𝑥and −3 ≤ 𝑥≤ 3
+Solution:
+Since 𝑓(−2)=12> 0and 𝑓(−1)= −1 < 0 , we see that the value of 𝑓(𝑥)changes 
+sign from positive to negative between −2and−1. Hence by the location theorem 
+there is a zero of 𝑓(𝑥)between 𝑥= −2and 𝑥= −1 .
+Since 𝑓(−1)= −1 < 0 and 𝑓(0)= 4 > 0 , we see that the value of 𝑓(𝑥)changes sign 
+from negative to positive between −1and0. Hence by the location theorem there is a 
+zero of 𝑓(𝑥)between 𝑥= −1 and 𝑥= 0. Similarly, there are zeros of 𝑓(𝑥)between 
+𝑥= 1and 𝑥= 2and between 𝑥= 2and 𝑥= 3.
+Using the location theorem, show that the polynomial function
+    𝑓(𝑥)=𝑥6−2𝑥5−4𝑥2+4𝑥+4has a zero between 𝑥= 1and 𝑥= 2.
+Solution:
+    𝑓(1)= (1)6−2(1)5−4(1)2+4(1)+4 = 3 > 0
+    𝑓(2)= (2)6−2(2)5−4(2)2+4(2)+4 = −4 < 0
+Hence, 𝑓(1)is positive and  𝑓(2)is negative and by the location theorem 𝑓(𝑥)has 
+a zero between 𝑥= 1and 𝑥= 2.
+1.Use the location theorem to verify that 𝑓(𝑥)has a zero between 𝑎and 𝑏.
+               a.  𝑓(𝑥)= − 𝑥4+𝑥3+1; 𝑎= −1, 𝑏= 1.𝑥 −3 −2 −1 0 1 2 3
+𝑓(𝑥)91 12 −1 4 3 −4 7
+Example 3
+Example 4
+Exercise 2.17
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+99            b.  𝑓(𝑥)= 3𝑥3+7𝑥2+3𝑥+7; 𝑎= −3, 𝑏= −2 .
+2.In each of the following, use the Location Theorem to locate the real zero of 
+𝑓(𝑥)between successive integers in the given intervals.
+a.𝑓(𝑥)=𝑥3−9𝑥2+23𝑥−14; for 0 ≤ 𝑥≤ 6.
+b.𝑓(𝑥)=𝑥4+2𝑥3−4𝑥2−6𝑥+2; for −3 ≤ 𝑥≤ 3. 
+  
+Rational Zero Test
+Steps to find the rational zeros of a polynomial function 𝑓(𝑥).
+1.Arrange the polynomial in descending order so that it takes the form   
+           𝑓(𝑥)=𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+ . . .+ 𝑎2𝑥2+𝑎1𝑥+𝑎0.
+2.Write down all the factors of the constant term 𝑎0. These are all the possible 
+values of 𝑝.
+3.Write down all the factors of the leading coefficient 𝑎𝑛. These are all the 
+possible values of 𝑞.
+4.Write down all the possible values of𝑝
+𝑞. Remember that since factors can be 
+negative,𝑝
+𝑞and-𝑝
+𝑞must both be included. Simplify each value and cross out 
+any duplicates.
+5.Identify those values of𝑝
+𝑞for which 𝑓(𝑝
+𝑞) = 0 . These are all the rational zeros
+of𝑓(𝑥).
+Theorem 2.5    Rational Zero Test
+Suppose that all the coefficients of the polynomial function described by
+𝑓(𝑥)=𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+ . . .+ 𝑎2𝑥2+𝑎1𝑥+𝑎0
+are integers with 𝑎𝑛≠ 0and 𝑎0≠ 0. If  𝑝
+𝑞in lowest term is a zero of 𝑓(𝑥), then p
+is a factor of 𝑎0and qis a factor of 𝑎𝑛.
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+100In each of the following, find all the rational zeros of the polynomial.
+   a.    𝑓(𝑥)=𝑥2+𝑥−2                                 b.  𝑓(𝑥)=𝑥3−𝑥+1
+     c.    𝑓(𝑥)= 6 𝑥3+13𝑥2+𝑥− 2.                d.  𝑓(𝑥)=1
+2𝑥3+𝑥2−1
+2𝑥−1
+Solution:
+a.𝑓(𝑥)=𝑥2+𝑥−2has leading coefficient  𝑎2= 1and constant term
+𝑎0= −2 .
+Possible values of 𝑝are factors of −2. These are ±1, ±2 .
+Possible values of 𝑞are factors of 1. These are ±1.
+The possible rational zeros 𝑝
+𝑞  are ±1, ±2 . Since 𝑓(𝑥)is a polynomial function 
+of degree 2, it has at most 2 zeros, and from the four possible rational zeros at 
+most 2 can be the zeros of 𝑓. We can check this using the table below
+𝑥 −2 −1 1 2
+𝑓(𝑥) 0 −2 0 4
+            Therefore, the zeros of 𝑓(𝑥)are −2and1.
+b.𝑓(𝑥)=𝑥3−𝑥+1, the leading coefficient is 1 and the constant term is 1. 
+Hence, the possible rational zeros are ±1.
+Check that 𝑓(1)=𝑓(−1)= 1 ≠ 0 . So, we can conclude that the given 
+polynomial has no rational zero. Use the location theorem to show that 𝑓has a 
+zero between −2and −1. 
+c.The leading coefficient is 𝑎3= 6and the constant term is 𝑎0= −2 .
+Possible values of 𝑝are factors of −2. These are ±1, ±2 . 
+Possible values of 𝑞are factors of 6. These are ±1, ±2, ±3and  ±6 . 
+The possible rational zeros 𝑝
+𝑞are ±1, ±1
+2, ±1
+3, ±1
+6, ±2, ±2
+3. Since 𝑓(𝑥)is 
+a polynomial function of degree 3it has at most three zeros and from the 12
+possible rational zeros at most 3 can be the zeros of 𝑓.
+Example 5
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+101Check that 𝑓(−1
+2) = 𝑓(−2)=𝑓(1
+3) = 0 .
+Using the factor theorem, we can factorize 𝑓(𝑥)as 𝑓(𝑥)=(3𝑥−1)(2𝑥+
+1)(𝑥+2) with −1
+2,−2and 1
+3are the only rational zeros of 𝑓.
+d.𝑓(𝑥)=1
+2𝑥3+𝑥2−1
+2𝑥−1 =1
+2(𝑥3+2𝑥2−𝑥−2)=1
+2𝑘(𝑥)
+where, 𝑘(𝑥)=𝑥3+2𝑥2−𝑥−2has integer coefficients and the same zeros 
+as 𝑓(𝑥). 𝑘(𝑥)has a constant term −2and leading coefficient 1. The possible
+rational zeros 𝑘(𝑥)are ±1and±2. You can check that
+𝑘(1)=𝑘(−1)=𝑘(−2) = 0 . Therefore, the zeros of 𝑓(𝑥)are ±1and −2.
+For each of the following polynomials, find all possible rational zeros:
+a.𝑓(𝑥)=𝑥2−5𝑥+4                               
+b.𝑓(𝑥)= −3 𝑥3+𝑥2−3𝑥+1   
+c.𝑓(𝑥)=𝑥3−3𝑥2−𝑥−3                   
+d.𝑓(𝑥)=10𝑥3−41𝑥2+2𝑥+8
+e.𝑓(𝑥)= 4𝑥4+𝑥3−8𝑥2−18𝑥−4      
+f.𝑓(𝑥)= −6 𝑥5+17𝑥4−14𝑥3+  4𝑥−1
+2.5 Graphs of Polynomial Functions
+In unit 1, you discussed how to draw the graphs of the polynomial functions of degree 
+zero, one and two. You saw that the graph of a linear function is a straight line and the 
+graph of a quadratic function is a parabola. In this section you will learn about the 
+properties of graphs of polynomial functions.
+Exercise 2.18
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+102For the function 𝑓(𝑥)=𝑥2+2𝑥−3,
+a.Find the intercepts.
+b.Using completing the square method, rewrite 𝑓as 𝑓(𝑥)= −4+( 𝑥+1)2and 
+find the turning point.
+c.Complete the table of values below
+𝑥 −4 −3 −2 −1 0 1 2
+𝑦=𝑓(𝑥)
+d.Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining them 
+by a smooth curve (a smooth curve is a curve that has no sharp corner).
+e.Find the domain and range of 𝑓.
+1.Use table of values to sketch the graphs of 𝑓(𝑥)= 2 𝑥+3and
+𝑔(𝑥) = −2 𝑥+3. Include the 𝑥-intercept and y-intercept when you make 
+the table of values. Sketch the graphs on the same 𝑥𝑦-plane.
+2.Consider the linear function 𝑓(𝑥)=𝑎𝑥+𝑏, 𝑎≠ 0and give answers for each 
+of the following.
+a.What is its degree?  Is it odd or even?
+b.Find the intercepts.
+c.Write the behavior of the graph when 𝑎is positive and ȁ𝑥ȁis large (far to 
+the right and far to the left). 
+d.Write the behavior of the graph when 𝑎is negative and ȁ𝑥ȁis large (far to 
+the right and far to the left). 
+e.What is the shape of the graph of 𝑓?
+f.Find the domain and the range of 𝑓.
+Activity 2.9
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+103Solution:
+a.𝑓(𝑥) = 𝑦=𝑥2+2𝑥−3 = ( 𝑥+3)( 𝑥−1) . By making 𝑓(𝑥)=𝑦= 0and 
+solving the equation 𝑥2+2𝑥−3 =(𝑥+3)(𝑥−1)= 0, 
+weget 𝑥= −3or𝑥= 1. By making  𝑥= 0we have 𝑦= −3 . Thus,
+𝑥= −3and 𝑥= 1arethe 𝑥−intercepts and 𝑦= −3 is the y-intercept. 
+b.𝑦=𝑥2+2𝑥−3 =(𝑥2+2𝑥+1)−1−3 = (𝑥+1)2−4=−4+(𝑥+1)2
+Since (𝑥+1)2≥ 0for all real numbers x, 𝑓(𝑥)≥ −4 for all values of 𝑥and 
+−4is the minimum value of 𝑓. This minimum value of 𝑓is attained when     
+𝑥= −1 . The point (−1,−4) is called turning point or vertex of the graph 
+of 𝑓.
+      c. 
+𝑥 -4 -3 -2 -1 0 1 2
+𝑦=𝑓(𝑥) 5 0 -3 -4 -3 0 5
+       d. 
+      
+             
+                         (a)                                                                          (b)
+                                                  Figure 2.1       
+    e.  The domain is the set of all real numbers and the range is the set of all real 
+          numbers greater than or equal to −4.
+(a)                                  
+ (b)
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+104For the function 𝑓(𝑥)=𝑥2+4𝑥+3,
+a.Find the intercepts.
+b.Using completing the square method, rewrite 𝑓as 𝑓(𝑥)= −1+( 𝑥+2)2and 
+find the turning point.
+c.Complete the table of values below
+𝑥−5 −4 −3 −2 −1 0 1
+𝑦=𝑓(𝑥)
+d.Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining them 
+by a smooth curve.
+e.Find the domain and range of 𝑓.
+Let 𝑓(𝑥)= − 𝑥2−6𝑥−8.
+a.Find the intercepts.
+b.Using completing the square method, rewrite 𝑓as 𝑓(𝑥)= 1−(𝑥+3)2and 
+find the turning point.
+c.Complete the table of values below
+𝑥 −4 −3 −2 −1 0
+𝑦=𝑓(𝑥)
+d.Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining them 
+by a smooth curve.
+e.Find the domain and range of 𝑓.
+Exercise 2.19
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+105Solution:
+a.𝑓(𝑥)=𝑦= − 𝑥2−6𝑥−8 = ( 𝑥+2)(− 𝑥−4) . By making 𝑓(𝑥)= 0and 
+solving the equation   −𝑥2−6𝑥−8 = ( 𝑥+2)(− 𝑥−4) = 0 ,we get
+𝑥= −2or𝑥= −4 . 
+By making 𝑥= 0  we have  𝑦= −8 . Thus, 𝑥= −2and 𝑥= −4arethe 𝑥−
+intercepts and 𝑦= −8 is the y-intercept. 
+      b.  𝑦=𝑓(𝑥)= − 𝑥2−6𝑥−8 = − (𝑥2+6𝑥)−8                                                                                                   
+                              = −(𝑥2+6𝑥+9)+9−8
+                              = −(𝑥+3)2+1
+                              = 1−(𝑥+3)2
+Since (𝑥+3)2≥ 0,  𝑓(𝑥)≤ 1for all values of 𝑥and 1is the maximum value 
+of 𝑓.  This maximum value of 𝑓is attained when 𝑥= −3 . The point (−3,1) is 
+called turning point for the graph of 𝑓.
+       c.
+        
+       d.
+  
+                                           Figure 2.2          
+                                                         Figure 2.2       
+         e.   The domain is the set of all real numbers and the range is the set of all real 
+               numbers less than or equal to 1.𝑥 −4 −3 −2 −1 0
+𝑦=𝑓(𝑥)0 1 0 −3 −8
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+1061. For the function 𝑓(𝑥)= − 𝑥2+6𝑥−8,
+a.Find the intercepts.
+b.Using completing the square method, rewrite 𝑓as 𝑓(𝑥)= 1−( 𝑥−3)2
+and find the turning point.
+c.Complete the table of values below.
+𝑥 −1 0 1 2 3 4 5
+𝑦=𝑓(𝑥)
+d.Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining 
+them by a curve.
+e.Find the domain and range of 𝑓.
+3.Consider the quadratic function 𝑓(𝑥)=𝑎𝑥2+𝑏𝑥+𝑐and give answers for 
+each of the following.
+a.What is its degree? Is it even or odd?
+b.What is the maximum number of x-intercepts? 
+c.What is the y-intercept?
+d.Write the behavior of the graph when 𝑎is positive and ȁ𝑥ȁis large (far to 
+the right and far to the left)
+e.Write the behavior of the graph when 𝑎is negative and ȁ𝑥ȁis large (far to 
+the right and far to the left)
+f.Is the graph smooth (has no sharp corner) and continuous (has no jump or 
+hole)?
+g.What is the domain of 𝑓?
+h.Can the range of 𝑓be all real numbers? Why?
+Exercise 2.20
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+107The absolute value function 𝑓(𝑥)=ȁ𝑥ȁis not a polynomial function. Because it has a 
+sharp corner at the point (0, 0) as shown by figure 2.3 (a). 
+                (a)                                    (b)                                   (c)                                                                    
+Figure 2.3
+The function shown in figure 2.3 ( c) is not polynomial because it is not a continuous 
+function. It has a hole and a jump.
+To study more on the property of graphs of polynomials, we will now try to observe 
+the graphs of polynomial functions of higher degree, that is, when the degree 𝑛≥ 3.
+By sketching the graphs of 𝑓(𝑥)=𝑥3−1and 𝑔(𝑥)= − 𝑥3+1, describe the behavior 
+of the graphs for large ȁ𝑥ȁ. 
+Solution: 
+For  𝑓(𝑥)=𝑥3−1 =(𝑥−1)(𝑥2+𝑥+1) , the x-intercept is 1, the y-intercept is −1
+and by finding some points that lie on the graph of 𝑓as shown by the table of values.
+𝑥−20−10−101 1.5 10 20
+𝑦−8001−1001−2−10 2.375999 7999
+1.Graph of a polynomial function is a smooth curve (has no sharp corner).
+2.Functions whose graphs are not continuous and have sharp corners are not 
+polynomial functions.
+Note
+Example 3
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+108We plot the points (−1,−2) , (0,1) , and (1.5,19
+8)andconnect them by a smooth curve 
+and we use the other points to see the direction of the graph far to the right and far to 
+the left along the x- axis.
+For 𝑔(𝑥)= − 𝑥3+1 =(−𝑥+1)(𝑥2+𝑥+1) , the x-intercept is 1, the y-intercept is 
+1by finding some points that lie on the graph of 𝑔as shown by the table of values.
+x−20−10−101 1.510 20
+y8001 1001 210−2.375−999−7999
+Similarly, we plot the points (−1,2) , (0,1) and (1.5, −19
+8) and connect them by a 
+smooth curve and we use the other points to see the direction of the graph far to the 
+right and far to the left along the x-axis. The graphs of the two functions are:
+                  a      b
+                                                             Figure 2.4
+Observation
+1. The degree of 𝑓(𝑥)is odd and its leading coefficient is positive.  As shown in 
+figure 2.4a, when xis large positive, 𝑓(𝑥)becomes large positive and the graph 
+moves upwards and when xis large negative, 𝑓(𝑥)becomes large negative and the 
+graph moves downwards.
+2. The degree of 𝑔(𝑥)is odd and its leading coefficient is negative. As shown in 
+figure 2.4b, when 𝑥is large positive, 𝑓(𝑥)becomes large negative and the graph 
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+109moves downwards and when x is large negative, 𝑓(𝑥)becomes large positive and 
+the graph moves upwards.
+1.By sketching the graphs of 𝑓(𝑥)=𝑥3and 𝑔(𝑥)= − 𝑥3, describe the behavior of 
+the graphs for large ȁ𝑥ȁ. 
+2.For the third- degree polynomial 𝑓(𝑥)=𝑎3𝑥3+𝑎2𝑥2+𝑎1𝑥+𝑎0,
+a.What is the maximum number of intersections which the graph of 𝑓makes 
+with the x-axis? 
+b.What is the minimum number of intersections which the graph of 𝑓makes 
+with the x-axis? 
+c.What is the number of intersections which the graph of 𝑓makes with the
+y-axis? 
+d.Whatmaximum number of turning points dose the graph of 𝑓have?
+e.Write the behavior of the graph when 𝑎3is positive and ȁ𝑥ȁis large (far to the 
+right and far to the left). 
+f.Write the behavior of the graph when 𝑎3is negative and ȁ𝑥ȁis large (far to the 
+right and far to the left). 
+g.What is the domain of 𝑓?
+Noted that the following are examples of graphs of polynomial functions of degree 
+four. The graphs are drawn using graph calculator software called GeoGebra. 
+Exercise 2.21
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+110                                                            Figure 2.5
+In figure 2.5a and figure 2.5b, the leading coefficient of 𝑓(𝑥)is positive and the degree 
+is even. The values of 𝑓(𝑥)become large positive and the graphs go upward both far 
+to the right and far to the left as the values of 𝑥become large in absolute value.
+In figure 2.5c and figure 2.5d, the leading coefficient of 𝑓(𝑥)is negative and the degree 
+is even. The values of 𝑓(𝑥)become large negative and the graphs go downward both 
+far to the right and far to the left as the values 𝑥become large in absolute value.
+From figure 2.5b, it is seen that the maximum number of intersections that the graph 
+of a fourth-degree polynomial makes with the x-axis is 4 and the maximum number of 
+turning points is 3.
+As shown in figure 2.5a, the graph of a polynomial function of degree 4 may not 
+intersect the x-axis. 
+By applying the rational root test and the factor theorem, there is a possibility of finding 
+the x-intercepts of a function. There is also a possibility of locating the real zeros using
+the location theorem. 
+With quadratic polynomials, we were able to algebraically find the maximum or 
+minimum value of the function by finding the vertex (turning point). But for general 
+polynomials, finding the turning points like A, B and C in figure 2.5d, is not possible 
+without more advanced techniques from calculus (derivative of a function).    
+Observation
+The properties of the first-degree and the third-degree polynomial are also applicable 
+for polynomial functions of odd degree. The properties of the second-degree and the
+fourth-degree polynomial are also applicable for polynomial functions of even degree
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+1111.For the polynomial functions given from 𝑎to 𝑑, state the following properties of 
+the graph of the functions without drawing the irgraphs.
+i. The behavior of the graph as xtakes values far to the right.
+ii. The behavior of the graph as xtakes values far to the left.
+iii. The number of intersections with the x-axis.
+a.  𝑓(𝑥)=𝑥2−2𝑥−1        b.   𝑓(𝑥)= 2𝑥2−𝑥4
+c.  𝑓(𝑥)= − 𝑥3+3𝑥−2       d.    𝑓(𝑥)= −2(1− 𝑥)3(𝑥+1)2   
+2.Graphs of some polynomial functions are given below. In each case identify the 
+sign of the leading coefficient of the function. State whether the degree is even or 
+odd.
+Figure 2.6
+Exercise 2.22
+
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+1122.6 Applications
+Polynomials arise in the study of problems involving areas and volumes.
+A wire of length 56 m is bent into the shape of a rectangle.  Find the maximum area it 
+can enclose and the dimensions of the rectangle of maximum area.
+Figure 2.7
+Solution:
+Perimeter pof the rectangle,  𝑝= 2𝑥+2𝑦  .  .  .  (i)                                                                   
+Area Aof the rectangle, 𝐴=𝑥𝑦  .  .  .   (ii)                                                                      
+Since the rectangle is made by bending 56 meters wire, the perimeter of the rectangle 
+is 56 m      2 𝑥+2𝑦=56  . . .   (iii)
+From (iii), solving for 𝑦(you can also solve for 𝑥).
+𝑦=28−𝑥  .  .  .  (iv) 
+Substituting the value of 𝑦in (iv) to the value of 𝑦in (ii) we get
+𝐴=𝑥(28−𝑥)= − 𝑥2+28𝑥, and this is a quadratic polynomial.
+Using completing the square method, we can rewrite the value A as in the following:
+A = − 𝑥2+28𝑥= −(𝑥2−28𝑥)= −(𝑥2−28𝑥+196)+196=196−(𝑥−14)2
+Thus,A =196−(𝑥−14)2and since (𝑥−14)2is always non-negative, we subtract 
+positive number or zero from 196. This means the maximum value of A is 196. This 
+maximum value is attained when 𝑥is 14. Substituting 𝑥= 14 into equation (iv) we get 
+𝑦= 14.
+Therefore, the maximum area that can be enclosed is 196 𝑚2and the dimension of the 
+rectangle of maximum area is 𝑥=14𝑚and 𝑦=14𝑚.That is when the rectangle is
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+113a square of side of length 14 m.
+1.A farmer has 100 meters of fencing material to use to make a rectangular
+      enclosure for sheep as shown. He will leave an opening of 2 meters for the gate.
+                                                             Figure 2.8
+a.Show that the area of the enclosure is given by A =51𝑥−𝑥2
+b.Find the value of xthat will give maximum area.
+c.Calculate the maximum possible area.
+2.A farmer has 100 meters of fencing material to make a rectangular enclosure for
+sheep. One side of the enclosure is closed by a wall as shown. He will l eave an 
+opening of 2 meters for the gate.
+                               Figure 2.9
+a.Show that the area of the enclosure is given by 𝐴=102 𝑥−2𝑥2
+b.Find the value of xthat will give maximum area.
+c.Calculate the maximum possible area.
+Exercise 2.23
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+1143.An open-topped box is to be made by removing squares from each corner of a 
+rectangular piece of card and folding up the sides.
+                                             Figure 2.10
+a.Show that if the original rectangle of card measured 80 cm by 50 cm and 
+the squares removed from the corners have sides xcm long, then the volume 
+of the box is given by 𝑉= 4𝑥3−260 𝑥2+4000 𝑥.
+b.Find V when x= 20 cm.
+c.Can the value of xbe 30 cm? Why?
+Find the two real numbers whose difference is 16 and whose product is the minimum.
+Solution:
+Let the two numbers be 𝑥and 𝑦. Then,
+𝑥−𝑦=16  .  .  .  (1)
+If we denote the product of the two numbers by 𝐴, then
+𝐴=𝑥𝑦  .  .  .  (2)
+To find the minimum value of 𝐴, first we solve either for 𝑥or for 𝑦from equation 
+(1).
+Solving for 𝑦from equation (1) gives 𝑦=𝑥−16and substituting this in equation 
+(2) gives          𝐴=𝑥(𝑥−16)=𝑥2−16𝑥
+  = (𝑥2−16𝑥+64)−64
+  = (𝑥−8)2−64
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 2 :Polynomial Functions
+115    =  −64+(𝑥−8)2
+Since (𝑥−8)2≥ 0
+𝐴= −64+(𝑥−8)2≥ −64.
+Therefore, −64is the minimum product and this minimum product is obtained when 
+the value of  𝑥= 8. And when 𝑥= 8, 𝑦=𝑥−16= −8 . That is, 𝑦= −8 .
+1.Find the two real numbers whose difference is 10 and whose product is the 
+minimum.
+2.Find the two real numbers whose sum is 12 and whose product is the maximum.
+Exercise 2.24
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+1161.A linear function is given by 𝑓(𝑥)=𝑎𝑥+𝑏,𝑎≠ 0.
+2.A quadratic function is given by 𝑓(𝑥)=𝑎𝑥2+𝑏𝑥+𝑐,𝑎≠ 0.
+3.Let 𝑛be a non-negative integer and let 𝑎𝑛,𝑎𝑛−1, . . . , 𝑎2,𝑎1,𝑎0be real 
+numbers with 𝑎𝑛≠ 0, the function 𝑝(𝑥)=𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+ . . .+ 𝑎2𝑥2+
+𝑎1𝑥+𝑎0is called a polynomial function in 𝑥of degree n.
+4.A polynomial function is over integers if its coefficients are all integers.
+5.A polynomial function is over rational numbers if its coefficients are all rational 
+numbers.
+6.A polynomial function is over real numbers if its coefficients are all real numbers.
+7.Operations on polynomial functions
+i. Sum:  (𝑓+𝑔)(𝑥)=𝑓(𝑥)+𝑔(𝑥)
+ii. Difference: (𝑓−𝑔)(𝑥)=𝑓(𝑥)−𝑔(𝑥)
+iii. Product: (𝑓∙𝑔)(𝑥)=𝑓(𝑥)∙𝑔(𝑥)
+iv. Quotient: (𝑓÷𝑔)(𝑥)=𝑓(𝑥)÷𝑔(𝑥),𝑖𝑓𝑔(𝑥) ≠ 0
+8.If 𝑓(𝑥)and 𝑑(𝑥)are polynomials such that 𝑑(𝑥) ≠ 0 , and the degree of 𝑑(𝑥)is 
+less than or equal to the degree of 𝑓(𝑥), then there exist unique polynomials
+𝑞(𝑥)and 𝑟(𝑥)such that 𝑓(𝑥)=𝑞(𝑥)𝑑(𝑥)+𝑟(𝑥), where 𝑟(𝑥)= 0or the degree 
+of 𝑟(𝑥)is less that the degree of 𝑑(𝑥).
+9.If a polynomial 𝑓(𝑥)is divided by a first-degree polynomial of the form 𝑥−𝑐,
+then the remainder is the number 𝑓(𝑐).
+10.Given the polynomial function                                              
+                   𝑝(𝑥)=𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+ . . .+ 𝑎2𝑥2+𝑎1𝑥+𝑎0                                            
+If 𝑝(𝑐)= 0, then 𝑐is a zero of 𝑝(𝑥)or a root of the equation 𝑝(𝑥)= 0. 
+11.For every polynomial function 𝑓and a real number 𝑐if 𝑓(𝑐)= 0, then 𝑥−𝑐is 
+a factor of the polynomial function 𝑓.
+Summary
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+11712.If (𝑥−𝑐)𝑘is a factor of  𝑓(𝑥), but (𝑥−𝑐)𝑘+1is not, we say that 𝑐is a zero of 
+multiplicity 𝑘of𝑓(𝑥).
+13.If the rational number 𝑝
+𝑞,in its lowest term, is a zero of the polynomial                   
+𝑓(𝑥)=𝑎𝑛𝑥𝑛+𝑎𝑛−1𝑥𝑛−1+ . . .+ 𝑎2𝑥2+𝑎1𝑥+𝑎0with integer       
+coefficients, then 𝑝must be an integer factor of 𝑎0and 𝑞must be an integer 
+factor of 𝑎𝑛.
+14.Let 𝑎and 𝑏be real numbers such that 𝑎<𝑏. If 𝑓(𝑥)is a polynomial function 
+such that 𝑓(𝑎)and 𝑓(𝑏)have opposite signs, then there is at least one zero of 
+𝑓(𝑥)between 𝑎and 𝑏.
+15.The graph of a polynomial function of degree 𝑛has at most 𝑛−1turning points 
+and intersects the 𝑥-axis at most 𝑛times.
+16.The graph of every polynomial function has no sharp corners; it is a smooth and 
+continuous curve. 
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+1181.Identify whether the following functions are polynomial or not, for those which 
+are polynomial indicate the degree, leading coefficient and constant term.
+a.𝑓(𝑥)= 5𝑥2−2
+3𝑥3−1
+3𝑥−4𝑥3+9𝑥2−2𝑥+9
+3
+b.𝑓(𝑥)= 2(1
+𝑥)2
++3(1
+𝑥) −6
+c.𝑓(𝑥)= 3(𝑥2)3−4(𝑥2)2+2(𝑥+1)2+5
+d.𝑓(𝑥)= −2(ξ𝑥)3+5ξ𝑥−10
+e.𝑓(𝑥)= 3𝜋2+4
+2.Given  𝑓(𝑥)= 6+4 𝑥−2𝑥2+3𝑥3,  𝑔(𝑥)=𝑥4−5𝑥2+𝑥3−2and  ℎ(𝑥)=
+𝑥+2,  find
+      a.ℎ𝑓+𝑔           b. 𝑓−ℎ𝑔            
+      c.𝑓𝑔                   d.𝑔
+ℎ
+3.If 𝑓and 𝑔are any two polynomials, then which of the following will always be a 
+polynomial function?
+     a.   𝑓+𝑔                     b.  𝑓−𝑔                    
+     c.   𝑓.𝑔                         d.   𝑓
+𝑔
+     e.   𝑓2−𝑔                   f.   𝑓+𝑔
+𝑔−𝑓                      
+     g. 3𝑓−4
+5𝑔
+4.In each of the following, find the quotient and the remainder when the first 
+polynomial is   divided by the second:
+a.𝑓(𝑥)= 3𝑥3+5𝑥2−7𝑥−6; 𝑥+1     
+b.𝑓(𝑥)= 4𝑥3−5𝑥2+4𝑥−17;𝑥2−1    
+c.𝑓(𝑥)= 2𝑥4+5𝑥2−6; 𝑥2−𝑥+1    
+d.𝑓(𝑥)=𝑥5+3𝑥4+2𝑥3−𝑥2+2𝑥−7: 𝑥+2              
+Review Exercise
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+119e.𝑓(𝑥)=𝑥5+2𝑥4−𝑥3+5𝑥2−𝑥−2; 𝑥3+1   
+f.𝑓(𝑥)= 2𝑥3−𝑥2+2𝑥−1: 2 𝑥+1         
+5.Prove that when a polynomial 𝑓(𝑥)is divided by a first-degree polynomial 𝑎𝑥+
+𝑏, the remainder is 𝑓(−𝑏
+𝑎).
+6.Let  𝑓(𝑥)=𝑥𝑛+1be polynomial function and 𝑛is an odd integer then show 
+that   
+a.the remainder when 𝑓is divided by 𝑥+1is zero.
+     b.𝑥+1is a factor of 𝑓.
+7.Factorize fully
+a. 𝑥3−4𝑥2−7𝑥+10            
+b.2𝑥4−𝑥3−6𝑥2+7𝑥−2   
+c.2𝑥5+2𝑥4−𝑥3−𝑥2−𝑥−1
+8.Find the value of 𝑘such that,
+a.when 𝑓(𝑥)= 3𝑥3−2𝑥2+𝑘𝑥−6is divided by 𝑥−3it has a remainder of 
+-3.
+b.𝑥+1is a factor of 𝑥3−𝑘𝑥2+4𝑥−1.
+c.2𝑥−3is a factor of 𝑥3+3𝑥2+𝑘𝑥−10.
+9.When t he polynomial 𝑓(𝑥)=𝑎(2𝑥+1)2+𝑏(𝑥−2)2is divided by 𝑥+1the 
+remainder is −10and 𝑓(1)=10. Then find the values of 𝑎and 𝑏.
+10.Find the values of 𝑝𝑎𝑛𝑑 𝑞if 𝑥+1is a common factor of 𝑓(𝑥)= 2𝑥4−𝑝𝑥3+
+𝑞𝑥2+2and 𝑔(𝑥)=𝑝𝑥5+8𝑥3−4𝑥2−𝑞𝑥.
+11.Find numbers 𝑎and 𝑘so that 𝑥+1is a factor of 𝑓(𝑥)=𝑎𝑥4−2𝑘𝑥3+𝑎𝑥2−
+𝑘𝑥+2and 𝑓(1)= 2.
+12.Find a polynomial function 𝑓of degree 3 such that 𝑓(2)=48and 𝑥+1,𝑥and 
+𝑥+2 are factors of the polynomial.
+13.In each of the following, find a polynomial function 𝑓that has the given zeros 
+satisfying the given condition.
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+120      a.   2,−3,5and 𝑓(4)=10                
+      b.  0,−2
+3,1
+2,3𝑓(1)=5
+4
+14.Find all rational zeros of:
+a.𝑓(𝑥)= 6𝑥3−7𝑥2−9𝑥−2
+b.𝑓(𝑥)=12𝑥4−22𝑥3−12𝑥2+33𝑥−9
+c.𝑓(𝑥)= −6 𝑥5+5𝑥4−3𝑥3−21𝑥2−𝑥+6        
+d.𝑓(𝑡)=𝑡3+11
+6𝑡2−1
+2𝑡−1
+3             
+15.Sketch the graphs of 
+a.𝑓(𝑥)= −2 𝑥2+5𝑥−2
+b.𝑓(𝑥)=𝑥2+2𝑥+2   

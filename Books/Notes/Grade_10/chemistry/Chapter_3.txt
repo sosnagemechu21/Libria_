@@ -1,0 +1,2712 @@
+=================================================================
+Book: chemistry.pdf
+Chapter 3: IMPORTANT INORGANIC COMPOUNDS
+Pages: 115 to 203
+=================================================================
+
+Chemistry Grade 10
+UNIT/gid00020
+Unit Outcomes 
+At the end of this unit, you will be able to
+"classify inorganic compounds on the basis of their composition and/ or their 
+chemistry;
+"discuss types of oxides and their chemical properties;
+"explain the Arrhenius concept of acids and bases;
+"mention the classification of acids and salts;
+"describe the general properties, preparation and uses of common acids,   
+bases and salts;
+"distinguish the differences between strong and weak acids/ bases; and 
+concentrated and dilute acids/ bases;
+"recognize the corrosive nature of acids and bases, and exercise the 
+necessary precautions in handling and using them;
+"develop skills for identifying acidic, basic and neutral compounds;
+"demonstrate scientific inquiry skills: observing, classifying, comparing 
+and contrasting, inferring, predicting, communicating, measuring, asking 
+questions, interpreting data, drawing conclusion, applying concepts, relating cause and effect and problem solving.IMPORTANT INORGANIC COMPOUNDS 
+Battery
+Stomach Acid Vinegar Acidic Neutral Alkaline 
+Coffee Water Baking 
+ SodaAmmoniaSolutionBleachLemon Tomato 
+Decreasing IncreasingMilk  BloodStomach Tablets SoapDrain Cleaner
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+110Chemistry Grade 10 Important Inorganic Compounds
+Discuss the following in groups and present your 
+conclusion to the class.1.Which flavour (salty, sour, bitter or none) each of the following substances does have? Coffee, unripe orange, cheese, outer peel of lemon, kosso, water, common salt, vinegar.
+2.Consider the following: carbohydrates, proteins, 
+urea, oils, diamond, salt, water, baking soda.  Classify them into organic and inorganic and analyze the source of each substance.
+3.Can you identify organic and inorganic compounds using their melting points? Start-up Activity 
+3.1 Introduction
+By the end of this section, students will be able to 
+" define inorganic compounds; 
+" classify inorganic compounds as oxides, acids, bases and salts.
+The term inorganic compound refers to all compounds that do not contain carbon 
+except simpler compounds of carbon like oxides (eg CO2), carbonates (eg CaCO3) 
+and carbides (eg SiC). Inorganic compounds are compounds consisting of mineral constituents of the earth or generally found in nonliving things. Compounds found in living things are generally organic compounds (see unit 6 for the details). The majority of metal compounds are inorganic.
+Inorganic compounds are mostly found in nature as silicates, oxides, carbonates, 
+sulphides, sulphates, chlorides, nitrates, etc.
+Inorganic compounds are generally classified into four groups namely oxides, acids, 
+bases and salts. 
+We are familiar with the utility and importance of oxides, acids, bases and salts in 
+our daily life.  For example, we know that the carbon dioxide (CO
+2) gas in CO2-fire 
+extinguisher is an oxide, the sour taste of vinegar is due to acetic acid (CH3COOH), 
+sodium hydroxide (NaOH) is a base used in the preparation of soaps, and sodium 
+chloride (NaCl) is common salt which is useful as a food ingredient.  This unit deals with the chemical nature and formation of more oxides, acids, bases and salts.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+111Chemistry Grade 10 Important Inorganic Compounds
+1.List some inorganic compounds with which you are familiar. Write on the board.
+2. Lime stone (CaCO3) and common salt (NaCl) are inorganic substances. Why?
+3. Which branch of chemistry is concerned with the study of all elements?
+4. What is the source of inorganic compounds ?Exercise 3.1
+3.2 Oxides
+Form a group and discuss the following and present 
+your findings to the class;
+1. Why ox ygen is the most abundant element on the 
+earth’s crust?
+2. How oxygen exists in nature? 
+3. Which elements react with oxygen? 4. What do you call the product when oxygen reacts 
+with an element?
+  Activity 3.1 
+At the end of this section, students will be able to " define and classify oxides as acidic, basic, neutral, amphoteric and peroxides 
+" define and give examples of acidic oxides, basic oxides, amphoteric oxides and neutral oxides 
+" explain the chemical properties of acidic oxides, basic oxides, amphoteric oxides and neutral oxides 
+" differentiate basic oxides from acidic oxides using experimental results 
+" compare and contrast acidic and basic oxides 
+" explain the salt-forming nature of acidic oxide, basic oxide and amphoteric oxide 
+" define neutral oxides and peroxides and give examples for each of them 
+" discuss the chemical properties of peroxides 
+" differentiate peroxides from other oxides by conducting an experiment
+Oxygen reacts directly with almost all elements except the noble gases and inactive metals like gold, platinum, and palladium. Such compounds of oxygen are called oxides. Oxides are binary compounds containing oxygen and any other element (metal, non-metal or metalloid). Note that binary compounds are those consisting of only two elements.
+Oxygen + Element (Metal, Non-metal or Metalloid)  → Oxide
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+112Chemistry Grade 10 Important Inorganic Compounds
+Example 3.1: magnesium oxide, MgO, aluminium oxide, Al2O3, carbon dioxide, 
+CO2, and sulphur dioxide, SO2 and carbon monoxide, CO are examples of oxides.
+Classify the following compounds as oxides or not oxides. 
+A. Na2O
+B.N2O5
+C. Na2CO3
+D.P4O10
+E. KNO3F.SO3
+G.H3PO4
+H. Al2O3
+I. H2O
+J.H2SO4Exercise 3.2
+Oxides, based on their properties are classified as shown in Figure 3.1 . 
+OxidesAcidic Oxides
+Basic Oxides
+Neutral Oxides
+Amphoteric Oxides
+Peroxides
+Figure 3.1 Classification of oxides.
+A. Acidic Oxides
+Discuss in your group and present your conclusions to 
+the class.
+1.What is acid rain and what are the major causes 
+of acid rain?
+2.What would be the pH (decreases, increases or 
+remains unchanged) of solution when carbon 
+dioxide (CO2), dinitrogen pentoxide (N2O5), 
+tetraphosphorous decaoxide (P4O10), sulfur 
+dioxide (SO2) and dichlorine heptoxide (Cl2O7) 
+are dissolved in water? What can you conclude regarding the acid-base behavior of oxides of nonetallic elements like C, N, S, Cl, and P? 
+  Activity 3.2
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+113Chemistry Grade 10 Important Inorganic Compounds
+Acidic oxides are the oxides formed by the chemical combination of oxygen with non-
+metals (Groups 14 -17).
+These oxides are also called acid anhydrides, since they form acidic solutions when 
+reacted or dissolved in water. Acid anhydride means acid without water. Generally speaking, acidic oxides are non-metal oxides. Examples of acidic oxides include carbon dioxide, CO
+2, nitrogen dioxide, NO2, and sulphur dioxide, SO2. However, it 
+is very important to note that all non-metal oxides are not necessarily acidic oxides.  For example, carbon monoxide, CO, and di-nitrogen monoxide, N
+2O, are non-metal 
+oxides, but they are neutral oxides which will be discussed later (D).  There are acidic oxides that do not react directly with water. The acids of such oxides are formed by other methods.  For example; SiO
+2 is not soluble in water, but it neutralizes basic 
+oxides, thus it is acidic.
+  SiO2 + Na2O → Na2SiO3 (sodium silicate)
+The acid of SiO2 (H2SiO3) is prepared by the reaction of HCl with Na2SiO3 as shown 
+below:  Na
+2SiO3 (aq) + HCl (aq) → H2SiO3 (aq) + 2NaCl (aq)
+ Chemical properties of acidic oxides
+1. Acidic oxides (acid anhydrides) dissolve in water to form acidic solution (acid).
+  Acid anhydride + Water → Acid
+  CO2 + H2O → H2CO3 (Carbonic acid)
+  SO2 + H2O → H2SO3 (Sulphurous acid)
+2. Acidic oxides react with basic or metallic oxides to form salt.
+  Acidic oxide + Basic oxide → Salt
+  CO2 + Na2O → Na2CO3 (sodium carbonate)
+  SO3 + CaO → CaSO4 (calcium sulphate)
+3.Acidic oxides react with bases to form salt and water. This reaction is called neutralization reaction.
+  Acidic oxide + Base → Salt + Water
+  SO
+2 + 2NaOH → Na2SO3 + H2O
+  CO2 + 2LiOH → Li2CO3 + H2O
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+114Chemistry Grade 10 Important Inorganic Compounds
+1. List some examples of acidic oxides. 
+2. Give two examples of non-metallic oxides which are not acidic oxides.
+3. Complete and balance the following equations.
+a. N2O5   + H2O →                             
+b.P4O10  +  H2O →
+c. MgO  +  CO2→                           d. Ca(OH)2 + SO3→
+e.KOH  +  CO2→                             
+f.SrO + SO2  →Exercise 3.3
+B. Basic Oxides
+Basic oxides are oxides that are composed of metals and oxygen. Most metals form oxides which exhibit basic properties and dissolve in water to give alkaline solutions. But, all metal oxides are not necessarily basic oxides; for example Al
+2O3 and ZnO 
+are amphoteric oxides, which will be discussed in part (C). Oxides of metals that dissolve in water and react with it to form basic or alkaline solutions are called basic anhydrides. There are metallic oxides which have basic properties but are insoluble in water. These oxides react with acids to give salt and water
+Example: FeO  +  2HCl  →  FeCl
+2  +  H2O
+The oxides of active metals, group IA and heavier members of group IIA, dissolve in water and readily form bases. The term base is used to describe both soluble and insoluble basic oxides. Some examples of basic oxides are Li
+2O, Na2O, K2O, MgO, 
+CaO, BaO, and CuO.
+Discuss the following questions in your group and 
+present your conclusion to the class. 
+a.What products do basic oxides form in their 
+reactions with water, acidic oxides and acids?
+b.What is the type of reaction that takes place between lime (CaO) and carbon dioxide (CO
+2)? 
+c. Write the balanced chemical equation for each of 
+the chemical reactions that occur in (a) and (b).   Activity 3.3 
+Chemical properties of basic oxides
+1. Basic oxides dissolve in water to form alkaline solutions. As they dissolve, they   
+react with water to form the corresponding metal hydroxides.
+  Basic oxide + Water → Base (Alkali)
+  Examples: Li2O + H2O → 2LiOH
+    CaO + H2O → Ca(OH)2
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+115Chemistry Grade 10 Important Inorganic Compounds
+2. Basic oxides react with acidic oxides to form salts.
+  Basic oxide + Acidic oxide → Salt
+Examples: BaO + SO3→ BaSO4
+    Na2O + CO2→ Na2CO3
+3. Basic oxides react with acids to form a salt and water.
+  Basic oxide + Acid → Salt + Water
+  Examples: CaO + 2HCl → CaCl2 + H2O
+    CuO + H2SO4→ CuSO4 + H2O
+Table 3.1  Some common indicators and the colour they develop in acidic and basic 
+solutions
+Indicator Colour in aqueous solution of 
+acidic oxideColour in aqueous 
+solution of basic oxide
+Universal 
+Indicator     Yellow – orange (in weakly acidic) 
+and red (in strongly acidic)Blue (in weakly basic) and   
+purple (in strongly basic)                                                                
+Litmus Red Blue
+Phenolphthalein Colourless Pink (red)
+Methyl orange                        Red Yellow
+Note that acidic and basic oxides can be identified either by their effects on indicators 
+or chemical interaction they have with one another. Acidic oxides react with bases while basic oxides react with acids. But acidic oxides do not react with acids and basic oxides do not react with bases.
+Experiment 3.1 
+Test for Acidity and Basicity of Oxides
+Objective: To identify basic and acidic oxides.
+Apparatus : Deflagrating spoon, gas jar and gas jar lid, test tubes. 
+Chemicals: Sulphur, magnesium or calcium metal, water, universal indicator, litmus 
+paper (blue and red).
+Procedure:
+1.Take a small amount of powdered sulphur in a deflagrating spoon and 
+heat it.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+116Chemistry Grade 10 Important Inorganic Compounds
+As soon as sulphur starts burning, introduce the spoon into a gas jar. Cover 
+the gas jar with a lid to ensure that the gas produced does not escape. 
+Remove the spoon after some time. Add 10 mL of water into the gas jar and quickly replace the lid. Shake the gas jar well.  Take two test tubes and pour 5 mL of the solution to each test tube. Add a few drops of universal indicator solution to the first test tube and blue litmus paper in the second.
+2. Ignite a small amount of magnesium or calcium metal on a deflagrating 
+spoon and insert in to a gas jar. Add 10 mL water to the ash formed and 
+shake. Take two test tubes and pour 5 mL of the solution to each of the test tubes. Add a few drops of universal indicator in the first and red litmus 
+paper to the second test tube.
+Questions
+a.What compounds are formed by the combustion of sulphur and magnesium 
+or calcium? Write chemical equations to show the reactions.
+b.What happens when water is added to the gas jars in which sulphur was burnt?
+c.What colours are observed by adding drops of universal indicator and blue or red litmus to the solutions in the test tubes?
+d.Why does the change in the colour of indicators occur in the various solutions? Write a laboratory report and submit to your teacher.
+Note: Universal indicator and litmus paper serve as indicators. Indicators are 
+substances used to identify whether a given solution is acidic or basic by showing colour changes.
+1. Complete and balance the following chemical equations: 
+a. K
+2O + H2O →
+b.MgO + H2O → 
+c. Na2O + CO2→d. Li2O + SO2→
+e.BaO + H2SO4→
+f.CuO + HCl →
+2. Classify the following oxides as basic or acidic:
+a. MgOb.BaO
+c. P
+4O10d. N2O5
+e.Cu2O
+f.Fe2O3g.K2O
+h. SO2Exercise 3.4
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+117Chemistry Grade 10 Important Inorganic Compounds
+C. Amphoteric Oxides
+What trend do you observe in the properties of 
+oxides of the elements in a period as you go from left 
+to right in the periodic table? Which elements form a basic oxide, which elements form acidic oxides?    Discuss this in your group and present to the class.
+Activity 3.4
+An oxide which shows both acidic and basic behavior is called amphoteric oxide (see
+Figure 3.1 ). 
+Amphoteric OxideSalt + Water 
+Salt + WaterAcid
+Base
+Figure 3.1  The reaction of amphoteric oxide with acids and bases.  
+For example, oxides of aluminium (Al2O3) and zinc (ZnO) are amphoteric. These oxides 
+react with strong bases as well as strong acids.  
+A. Reactions showing amphoteric nature of aluminium oxide (Al2O3)
+Al2O3AlCl3 + H2O 
+NaAlO2 + H2OHCl
+NaOH
+B.Reactions showing amphoteric nature of zinc oxide (ZnO)
+   ZnOZnCl2 + H2O 
+Na2ZnO2 + H2OHCl
+NaOH
+Some other examples of amphoteric oxides are PbO, PbO2, SnO, and SnO2. It is 
+also important to realize that hydroxides which react with both acids and bases are 
+described as amphoteric hydroxides. For example, aluminium hydroxide, Al(OH)3, 
+reacts with both acids and bases to form salt and water. So, Al(OH)3, is amphoteric 
+in nature.
+What is the common characteristic of acidic, basic and amphoteric oxides? Acidic 
+oxides form salts when reacted with basic oxides and bases. Basic oxides also produce 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+118Chemistry Grade 10 Important Inorganic Compounds
+salts in their reactions with acidic oxides and acids. Amphoteric oxides form salts when 
+they react with acids and bases. Thus, acidic oxides, basic oxides and amphoteric oxides are salt-forming oxides .
+1.Write the chemical equations to show the amphoteric properties of, Al
+2O3and 
+PbO when they react with:
+a. NaOHb.HNO
+3c.   KOH
+d. H2SO4Exercise 3.5
+Experiment 3.2
+Investigating Amphoteric Behaviour of Oxides
+Objective: To observe the amphoteric behaviour of Al2O3.
+Apparatus:  Spatula, reagent bottles, beakers, and glass rod.
+Chemicals: Al2O3, HCl, NaOH, Universal indicator and water.
+Procedure:
+1.Mix 20 mL concentrated HCl and 80 mL water in one reagent bottle;
+2. Dissolve 8 g NaOH in 100 mL water in another reagent bottle.3.Add universal indicator to the acid and base, and observe the colour change.
+4. Take two beakers and place a spatula full of Al
+2O3 in each of the beakers.
+5.Pour the HCl solution (which you prepared) into one of the beakers and NaOH 
+solution into the other. Stir the mixture with a glass rod.
+6.Add universal indicator in the solutions of beakers and observe the colour 
+change.
+Questions1. Does Al
+2O3 react with the solutions in both beakers?
+2. What does the change in colour of the indicator in the mixtures indicate?3. Write the chemical equations to show what has happened?
+Write a laboratory report and present to the class.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+119Chemistry Grade 10 Important Inorganic Compounds
+D.Neutral Oxides
+1.Explain the acid-base behavior of oxides according 
+to the electropositive character (oxidation state) of the oxide’s central atom. Consider all nitrogen oxides 
+a. Assign oxidation state for each.b.Classify them as soluble and in soluble in water. 
+c. Which oxidation state (higher or lower) favors solubility in water?
+d.Which of the nitrogen oxides produce acidic solution in water? 
+2.In general, oxides of nonmetals are acidic whereas oxides of metals are basic or amphoteric. Can an oxide be neither acidic nor basic? 
+Discuss in your group and present to the class 
+  Activity 3.5
+Neutral oxides react neither with acids nor with bases to form salt and water. Hence, neutral oxides do not show basic and acidic properties. Examples of neutral oxides are water, H
+2O, carbon monoxide, CO, dinitrogen monoxide, N2O, and nitrogen 
+monoxide, NO. Neutral oxides are very few in number. Neutral oxides are not salt- forming oxides.
+E. Peroxides
+Discuss the following in your  group and present your 
+conclusion to the class. 
+a.Oxides contain O2− ions or the group –O– or =O. 
+What is the oxidation state of oxygen in oxides?
+b.What is the oxidation state of oxygen in Al2O3, 
+N2O5, P4O10, KO2 and SO2? 
+c. What kind of bonds form oxygen in these oxides?   Activity 3.6
+Compounds which contain oxygen with oxidation number -1 are called peroxides. In 
+peroxides, the two oxygen atoms are linked to each other and with atoms of other 
+elements. Thus, peroxides contain the peroxide, “– O – O –” link.  Some examples of 
+peroxides are hydrogen peroxide, H2O2, sodium peroxide, Na2O2, calcium peroxide, 
+CaO2, barium peroxide, BaO2, and strontium peroxide, SrO2.
+Most peroxides of metals are formed by burning the metals in a sufficient amount of oxygen.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+120Chemistry Grade 10 Important Inorganic Compounds
+Example 3.2:
+  2Na (s) + O2 (g) → Na2O2 (s)
+Ca (s) + O2 (g) → CaO2 (s)
+There are many organic peroxides (ROOR’) which are important activators in a 
+process called polymerization, which creates plastic polymers.
+Chemical Properties of Per oxides
+1.Peroxides are powerful oxidizing agents; they react with different substances 
+by losing oxygen.
+Example 3.3:
+  PbS (s)  +  4H2O2 (aq) → PbSO4 (s) + 4H2O (l)
+  2KI (aq) + H2SO4 (aq) + H2O2 (aq) → I2 (s) + K2SO4 (aq) + 2H2O (l)
+2. Peroxides react with aqueous acids to form hydrogen peroxide.
+Example 3.4:
+  Na2O2 (s)   +   2HCl (aq)  →  2NaCl (aq)   +   H2O2 (aq)
+  CaO2 (s)   +   H2SO4 (aq) → CaSO4 (s)   +   H2O2 (aq)
+Hydrogen Peroxide
+Hydrogen peroxide, H2O2, is a colorless liquid whose solutions are usually used as 
+bleach and an antiseptic. Hydrogen peroxide decomposes to release oxygen. This reaction is slow but can be speed up by the addition of catalysts like MnO
+2 or Pt.
+  2H2O2 (aq) → 2H2O (l) + O2 (g)
+Hydrogen peroxide is a strong oxidizing agent. Its oxidizing power is responsible for its effectiveness as an antiseptic for mouthwash and cleansing wounds. When 
+hydro gen peroxide is added to a colored dye, the molecule responsible for the color 
+will oxidize and so the color will disappear, showing its bleaching action. For example, if hydrogen peroxide is added to a black dye (paint) that contains lead sulphide, PbS, the black colour turns white. This is due to the oxidation of PbS to PbSO
+4. The equation 
+for this process is:
+  PbS (s) + 4H2O2→ PbSO4 + 4H2O (l)
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+121Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.3 
+Distinguishing Peroxides from Other Oxides 
+Objective: To identify peroxides from other oxides.
+Chemicals: CaO or MgO, Al2O3 or ZnO or PbO, Na2O2 or BaO2, P4O10, KI, dilute 
+H2SO4, starch, water.
+Materials: Reagent bottle, six beakers, dropper, and spatula.
+Procedure:
+1.Take three beakers. In the first beaker, dissolve 20 g KI in water to prepare 
+a 250 mL solution. Dilute 2 mL concentrated H2SO4 by pouring it in 18 mL of 
+water in the second beaker.
+2.Prepare starch solution in the third beaker by boiling 1g starch in 100 mL water.
+3.Take four beakers and pour 50 mL KI solution to each of them. Acidify the solutions in each of the beakers by adding 5-10 drops of dilute H
+2SO4.
+4.Add a spatula full of CaO or MgO in the first, Al2O3 or ZnO or PbO in the 
+second, Na2O2 or BaO2 in the third and P4O10 in the fourth beaker and then 
+add about 5 mL starch solution to each of the four beakers.
+Questions
+1. In which beaker do you see a color change?2. What is the cause of the colour change?3. Write a balanced chemical equation for the change?4. Write a laboratory report and present to the class.
+1.Classify the following oxides as acidic, basic, amphoteric, neutral and peroxidesa. Na
+2O
+b.NO
+c. CO2
+d. ZnO
+e.MgOf.N2O5
+g.CaO
+h. COi. CaO
+2
+j. Na2O2k. Li2O
+l. H3PO4
+m. Al2O3
+n. SO2Exercise 3.6
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+122Chemistry Grade 10 Important Inorganic Compounds
+2.Write an acidic oxide that should react with water to form each of the 
+following acids?
+a. H2SO3
+b.H2SO4c. HNO3
+d. H2CO3e.H3PO3
+f.H3PO4
+3.Identify the basic anhydrides that react with water to form each of the following bases:a. Ca(OH)
+2
+b. KOHc. Mg(OH)2
+d. NaOHe.Sr(OH)2
+f.Ba(OH)2
+4. Complete and write the balanced equation for each of the following
+a. MgO + H2SO4→
+b.CaO + H3PO4→c. Al2O3 + HNO3→ 
+d. K2O + H2SO4→e.NaOH + CO2  →
+f.ZnO + H3PO4→
+5.How peroxides differ from oxides? Write the structures of H2O2, Na2O2, CaO2
+6. How can you identify whether an oxide is acidic, basic or neutral?
+3.3 Acids
+Discuss in your group and present it to the class.
+a.Describe the reason why unripe citrus fruits or lemon juice give sour taste?
+b.List as many sour foods as possible which you have ever tasted.
+c.Give some examples of acids that you have encountered in your everyday life?
+  Activity 3.7
+By the end of this section, students will be able to 
+" define acids in terms of the concepts of Arrhenius; 
+" give examples of acids based on Arrhenius; 
+" categorize acids as monoprotic and poly protic based on the number of ionizable(replaceable) hydrogen atom; 
+" group acids as binary and ternary based on the number of elements, they contain 
+" define strong and weak acids; 
+" differentiate between strong and weak acids; 
+" define concentrated and dilute acids; 
+" describe the conceptual difference between strong and concentrated acids; 
+" explain the conceptual difference between weak and dilute acids; 
+" apply the necessary precautions while working with acids; 
+" define pH; 
+" describe the pH scale; 
+" identify a given pH-labelled solution as acidic, basic or neutral; 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+123Chemistry Grade 10 Important Inorganic Compounds
+" perform activities to determine the pH of some common substances using universal 
+indicators or pH meter; 
+" calculate the pH of a given acidic solution; 
+" calculate the concentration of hydrogen ion from the given information; 
+" perform activities to investigate some physical properties of acids; 
+" do activities to investigate some chemical properties of acids;
+" discuss the direct combination of elements, the reaction of acidic oxides with water and formation of volatile acids from non -volatile acids as the three methods of preparation of acids; 
+" carry out simple experiment to prepare acids in laboratory; 
+" describe the uses of the three common laboratory acids;
+" explain the general properties of acids.
+Acids play key roles in our bodies, in our homes, and in the laboratories.  We seem to 
+like the sour taste of acids; we add them to salad dressings, and spices. Many foods, including citrus fruits and some vegetables, contain acids. 
+Acetic acid in vinegar, citric acid in lemons and other citrus fruits, are among the 
+acids that we encounter every day. Hydrochloric acid is the acid in gastric juice; it is essential to digestion. Phosphoric acid gives flavour to many carbonated beverages. In Latin the word acidus is used for sour. In the study of chemistry the term acid has 
+been used to name a group of compounds which have a sour taste.
+Arrhenius Definition of Acids
+The simplest definition of acids is suggested by Savante Arrhenius, a Swedish Chemist. Arrhenius defined an acid as a substance that releases hydrogen ion or proton, H
++, 
+or hydronium ion, H3O+, in aqueous solution.  In general, the ionization of acids takes 
+place as follows.
+HA(aq) → H+(aq) + A– (aq)   or   HA(aq) + H2O(l) → H3O+(aq) + A–(aq)
+Example 3.5 : 
+HCl(aq) → H+(aq) + Cl–(aq) or HCl(aq) + H2O(l) → H3O+(aq) + Cl–(aq)
+H2SO4(aq) → 2H+(aq) + SO42-(aq) or H2SO4(aq) + 2H2O(l) → 2H3O+(aq) + SO42–(aq) 
+According to this definition, for a substance to be an Arrhenius acid, it should contain ionizable hydrogen.  Some examples of Arrhenius acids are HNO
+3, H2SO4, H3PO4, 
+HBr, HI and HF. 
+Although the Arrhenius concept has limited scope yet, it led to the development of 
+more general theories of acid-base behavior. Broader Acid-base definitions will be dealt in grade 12 chemistry.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+124Chemistry Grade 10 Important Inorganic Compounds
+Classification of Acids
+Sulphuric acid, H2SO4, has two hydrogen atoms and 
+it is a diprotic acid. Propionic acid, CH3CH2COOH, has 
+six hydrogen atoms but is classified as a monoprotic 
+acid.Discuss the reason in your group and present it to the 
+class.
+  Activity 3.8
+A. Class ification of Acids Based on the Number of Ionizable  Hydrogen
+Acids are classified as monoprotic, diprotic and polyprotic depending upon the 
+number of replaceable hydrogen ions (H+) or hydronium ions (H3O+ ions) per molecule 
+of the acid.
+An acid that contains only one ionisable hydrogen atom per molecule is called 
+monoprotic. 
+Example 3.6: Hydrochloric acid (HCl) and nitric acid (HNO3) are monoprotic 
+acids because each give only one H+ ion upon dissociation in aqueous solution.
+  HCl (aq) → H+ (aq) + Cl– (aq)
+  HNO3 (aq) → H+ (aq) + NO3– (aq)
+Polyprotic acids are those acids containing more than one ionizable (replaceable) hydrogen ion in aqueous solution. Polyprotic acids which contain two ionizable hydrogen atoms such as H
+2SO4, H2S, and H2CO3 are called diprotic acids; those containing three 
+ionizable hydrogen atoms like H3PO4 are called triprotic acids. The dissociation of 
+polyprotic acids in aqueous solution is shown in the following chemical equations:
+  H2SO4 (aq) → 2H+ (aq) + SO42– (aq)
+  H2CO3 (aq) ⇌ 2H+ (aq) + CO32– (aq)
+  H3PO4 (aq) ⇌ 3H+ (aq) + PO43– (aq)
+Ammonia (NH3) and phosphoric acid (H3PO4) have 
+three hydrogen atoms but ammonia does not behave 
+as a triprotic acid. It is a base. Why? Discuss in your group and present it to the class.
+Activity 3.9
+B. Classification of Acids Based on the Number of Elements they Contain
+Acids can also be cl assified depending on the number of their constituent elements 
+as binary and ternary acids. Binary acids are those acids composed of only two 
+different elements. The two elements are hydrogen and a non-metal. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+125Chemistry Grade 10 Important Inorganic Compounds
+Examples of binary acids are HCl, HBr, HF, HI, and H2S.
+Ternary acids also called oxy-acids are acids composed of three different elements. 
+The three elements usually are hydrogen, oxygen and a non-metal. Examples are H
+2SO4, H2CO3, HClO4, and H3PO4.
+1.Add a drop of lemon juice on your tongue and try to identify its taste. Repeat your observation with orange juice. Try to classify them as acid or base, depending on their taste.
+2.Why should curd and acid-containing substances not be kept in brass and copper vessels? (Brass is 
+an alloy of copper and Zinc). Discuss in class.
+  Activity 3.10
+Acids generally have the following properties:
+General Properties of Acids
+I.Acids have a sour taste. Aqueous solutions of acids have a sour taste. Lemon juice and orange juice taste sour due to the presence of citric acid. Citric acid in lemon juice and orange juice is harmless. However, concentrated acids are corrosive and poisonous. So the test ‘taste’ is never allowed to identify acids especially in the 
+laboratories.
+II. Acid s change the color of certain acid-base indicators. The common indicators 
+available in high school laboratories are litmus, phenolphthalein,   methyl orange 
+or methyl red and universal indicator. Note that natural dyes like red extract of cabbage leaves, petals of some colored flowers and turmeric also act as indicators 
+to test the presence of acid or base.
+Experiment 3.4 
+Effect of Acids on Indicators
+Objective: To detect the acidity of a solution using indicators.Chemicals: Lemon juice, dilute HCl, dilute HNO
+3, dilute H2SO4
+phenolphthalein, litmus, methyl red, universal indicatorApparatus:  Test tubes, test tube rack, test tube holder, and reagent bottles.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+126Chemistry Grade 10 Important Inorganic Compounds
+Procedure:
+Take four clean test tubes and place some lemon juice in the first, dilute HCl in 
+the second, dilute HNO3 in the third and dilute H2SO4 in the fourth. Dip a strip of 
+blue litmus paper into each of the four test tubes and observe. Follow the same procedure and repeat the experiment until each acid has been tested by each indicator. Record your observation.
+Questions
+1.What colours have you observed when each indicator was added to each of the four acid solutions? Record the colour change of each indicator in each solution (lemon juice, dilute HCl, HNO
+3 and H2SO4) using the following table.
+2. Why do all the acids show similar color changes in the same indicator?3.What can you say about the acid-base behavior of indicators? Are indicators 
+acidic or basic ?
+Table 3.2 Colour of indicators in lemon juice, dilute HCl, HNO
+3 and H2SO4
+Indicator                               Colour of indicator in
+Lemon juice Dilute HNO3Dilute HCl Dilute H2SO4
+III.Acids react with active metals to yield hydrogen gas.  Acids react explosively 
+with metals like sodium, potassium and calcium. The reaction is very dangerous and 
+should not be performed. However, dilute acids (HCl, H2SO4) react moderately 
+with reactive metals like: Mg, Zn, Fe and Al to form their respective salts with the evolution of hydrogen gas.  
+Example 3.7:
+H
+2SO4+ Zn → ZnSO4 + H2
+6HCl + 2Al → 2AlCl3 + 3H2
+Concentrated nitric acid and hot c oncentrated sulphuric acid react with copper 
+producing nitrogen dioxide and sulphur dioxide gases, respectively, instead 
+of hydrogen. This is because concentrated HNO3 and hot concentrated H2SO4
+are oxidizing acids. The reactions of these acids with copper are given by the following equations:
+Cu + 4HNO
+3→ Cu(NO3)2 + 2NO2 + 2H2O
+Cu + 2H2SO4→ CuSO4 + SO2 + 2H2O
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+127Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.5
+Investigating the Reactions of Metals with Dilute Acids 
+Objective: To investigate the reaction between active metals and dilute acids.
+Chemicals: Dilute H2SO4, dilute HCl, zinc, magnesium and iron
+Apparatus: Test tubes, test tube holder, test tube rack, burner, match, cork and 
+spatula.
+Procedure:
+Take three test tubes and place a spatula-full of powdered zinc in the first, powdered magnesium in the second and iron filings in the third. Pour dilute HCl into each of the test tubes until the metals are completely covered by the acid. To test the type of gas evolved, cover one of the test tubes with a cork which has a glass delivery (jet tube as shown in Figure 3.2 ). Bring a burning match stick close 
+to the glass tube mouth, the gas burns with a pale blue flame with a characteristic sound. Repeat the experiment with dilute H
+2SO4 after placing each of the three 
+metals in three different test tubes.
+Questions:
+A. What does the formation of bubbles indicate?
+B.What sound do you hear when the burning splint is close to the mouth of  the test tube?
+C. Which gas is evolved during the reaction?D.Which metal’s reaction with dilute HCl or H
+2SO4 is the most violent?
+E. Write a laboratory report on your observations and present to the class.
+Blue flame
+Narrow jet tube
+Cork
+Clamp
+Liquid HCl or 
+dil. H2SO4
+Zinc granules or 
+Magnesium metal
+Figure 3.2  Action of dilute acids on relatively active metals. 
+Acids react with carbonates and hydrogen carbonates to form salt, water and carbon 
+dioxide gas
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+128Chemistry Grade 10 Important Inorganic Compounds
+Acid + Hydrogen carbonate → Salt + Water + Carbon dioxide
+Acid + Carbonate → Salt + Water + Carbon dioxide
+Example 3.8
+2HCl + CaCO3→ CaCl2 + H2O + CO2
+HCl + NaHCO3→ NaCl + H2O + CO2
+Experiment 3.6
+Reactions of Acids with Carbonates and Hydrogen Carbonates 
+Objective: To investigate the reaction between acids and carbonates and 
+bicarbonates.
+Chemicals: Dil. H2SO4, dil. HCl, Zinc, Magnesium, iron
+Apparatus: Test tubes , test tube holder, test tube rack, burner , match, cork and 
+spatula
+Procedure:
+1.Take three conical flasks and add powdered Na2CO3 in the first, powdered 
+CaCO3 to the second and powdered sodium bicarbonate to the third. Pour 
+dilute HCl into each of the three conical flasks until the acid covers the 
+carbonates and bicarbonate. Hold damp blue litmus paper close to the mouth of the conical flasks. Repeat this with damp red litmus paper and record your observations. Bubble the gas through limewater as shown in Figure 3.3 .
+2.Repeat the experiment using the same carbonates and hydrogencarbonate 
+with dilute H
+2SO4 and dilute HNO3.
+Thistle 
+funnel
+Double
+bore cork
+Na2CO3CO2
+Lime waterHCl
+Figure 3.3  Test for Carbon dioxide.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+129Chemistry Grade 10 Important Inorganic Compounds
+Questions
+A.What does the formation of bubbles in the conical flasks indicate?
+B.Did the colour of the damp blue litmus paper change when you held it close 
+to the mouth of the conical flasks? What about the colour of damp red litmus?
+C.What happened to the colour of lime water when you bubbled the gas through it? If there was any change, what did it prove? Write a balanced chemical equation for the change? 
+Write a laboratory report on your observation and present to the class.
+IV.Concentrated acids react with sulphites to form salts with the liberation of sulphur dioxide gas.
+  Sulphite + Acid → Sulphur dioxide + Salt + Water  CaSO
+3 + H2SO4  →  SO2 + CaSO4 + H2O
+  NaHSO3 + HCl → SO2 + NaCl + H2O
+Experiment 3.7
+Neutralization Reaction 
+Objective: To investigate the reaction between acids and bases
+Chemicals: 1 M HCl, 1 M NaOH, 0.5 M Ca(OH)2, red and blue litmus papers
+Apparatus: Four 150 mL beakers, two droppers, stirring rod, two watch glasses.
+Procedure
+1.Make 1 M NaOH solution by dissolving 4.0 g NaOH in enough water to make 
+100 mL solution.
+2.Make a 1 M HCl solution by dissolving 8.3 mL of concentrated HCl in enough 
+distilled water until the volume of the solution is 100 mL.
+3. Dissolve 3.7 g of Ca(OH)2 in enough distilled water to make 100 mL solution.
+4.To a 150 mL beaker add 10 mL HCl solution and 9.5 mL NaOH solution 
+and stir thoroughly and test with blue and red litmus paper. Continue adding NaOH solution dropwise using a dropper, stirring after each addition and checking with red and blue litmus until the blue remains blue and the red stays red. Put 2 mL of the neutral solution in a watch glass and allow the water to evaporate until the next day.
+5.To another 150 mL beaker add 10 mL Ca(OH)
+2 solution and 9.5 mL HCl 
+solution. Repeat all the steps, which you followed in procedure 4.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+130Chemistry Grade 10 Important Inorganic Compounds
+Questions
+A.Is there any colour change, when you dip blue and red litmus papers into the 
+solution of the acid and the base?
+B.Why is it necessary to add NaOH solution dropwise (one drop at a time) in procedure 4?
+C.During this experiment, under what conditions does the blue litmus remain blue and the red remain red?
+D.What are the products formed in procedures 4 and 5? Write balanced chemical equations for the reactions?
+F.Write a laboratory report on your observations and submit to your teacher.
+V.Acids react with bases (oxides and hydroxides of metal and ammonium hydroxide) to form salts and water. The reaction of acids with basic oxides or bases to form salt and water is called neutralization reaction
+Acid + Base (basic oxides or hydroxi des of metal) → Salt + Water
+Example 3.9 : reaction of acids with basic oxides
+  2HCl + MgO → MgCl
+2 + H2O
+  H2SO4 + CaO → CaSO4 + H2O
+Example 3.10 : Reaction of acids with hydroxides of metals
+  H2SO4 + 2NaOH → Na2SO4 + 2H2O
+  HNO3 + KOH → KNO3 + H2O
+VI.Aqueous solutions of acids are electrolytes, meaning that they conduct electrical current. Some acids are strong electrolytes because they ionize completely in water, yielding a great number of ions. Other acids are weak electrolytes that exist primarily in a non-ionized form when dissolved in water. 
+Example 3.11: A solution of hydrochloric acid (HCl) conducts electricity as it contains replaceable H atom which is furnished in solution as H
++ ion and carries 
+the current.
+  HCl (aq) → H+ (aq) + Cl– (aq)
+HCl is a strong electrolyte because it gives large amount of ions in aqueous 
+solution. Strong electrolytes give bright light. CH
+3COOH gives few ions in aqueous solution; 
+hence it is a weak electrolyte. Weak electrolytes give dim light.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+131Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.8
+Can Aqueous Acid Solution Conduct Electricity? 
+Objectives: To investigate the conductivity of acids
+Chemicals: 1 M HCl, 1 M HNO3, 1 M CH3COOH, 
+Apparatus:  Three 150 mL beakers, two graphite electrodes, insulated electric 
+wires, two dry cells, and bulb
+Procedure:
+Take about 100 mL of 1 M HCl in the first beaker, the same volume and concentration of HNO
+3 and CH3COOH in the second and third beakers respectively.
+Arrange the set up as shown in Figure 3.4 . First test the conduction of electricity 
+through HCl solution by inserting the two graphite electrodes. See whether the bulb glows or not. Is the light bright or dim? Record your observation. Repeat the same activity with HNO
+3 and CH3COOH. Rinse the electrodes after use in each 
+of the acid solutions. Compare the intensity of light produced with HNO3 and 
+CH3COOH.
+AC plug
+Bulb
+Beaker
+dil.HCl solution 
+Graphite rods230 volt
+Figure 3.4  Conductivity of acid solutions.
+Questions
+A. In which of the acid solutions does the bulb produce?
+I) bright light? II) dim light?
+B.What conclusions can you draw from your observations?
+Write a laboratory report on your observations and present to the class.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+132Chemistry Grade 10 Important Inorganic Compounds
+Strength of Acids (Strong and Weak Acids)
+Discuss in your group and present your conclusion to 
+the class.
+1.Add a few drops of citric acid solution and 
+hydrochloric acid separately on a piece of waste cotton cloth; What happens? Based on your observations, can you classify these acids as weak acid or strong acid?
+2.Why is it safe to put acetic acid-containing vinegar on food yet extremely dangerous to use dilute nitric acid for the same purpose?
+Activity 3.11
+Based on their degree of dissociation, acids are divided into strong acids and weak acids.  If an acid completely dissociates in an aqueous solution, it is called a strong 
+acid. Strong acids produce large amount of H
++ ions in the aqueous solution as they 
+dissociate completely. Hydrochloric acid (HCl), nitric acid (HNO3), and sulfuric acid 
+(H2SO4) are some examples of acids that dissociate completely in aqueous solution. 
+Their dissociation is indicated by a single arrow (→) as shown below:
+  HCl (aq) → H+ (aq) + Cl– (aq)
+  HNO3 (aq) → H+ (aq) + NO3– (aq)
+  H2SO4 (aq) → 2H+ (aq) + SO42– (aq)
+A dilute aqueous solution of strong acids contains predominantly the ions derived 
+from the acids instead of the acid molecules. For example, HCl and HNO3 are almost 
+completely ionized in water.
+An acid is called weak if it dissociates only partially in aqueous solution. Weak acids 
+release few hydrogen ions in aqueous solution. The aqueous solution of a weak acid contains hydronium ions, anions and dissolved molecules of the acid. Examples of weak acids are acetic acid (CH
+3COOH), oxalic acid (H2C2O4), carbonic acid (H2CO3). These 
+acids dissociate only partially as indicated by the double arrow (⇌) shown below:
+  CH3COOH ⇌ H+ + CH3COO–
+  H2C2O4⇌ 2H+ + C2O42–
+  H2CO3⇌ 2H+ + CO32–
+Organic acids which contain the acidic carboxyl group – COOH, are generally weak 
+acids.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+133Chemistry Grade 10 Important Inorganic Compounds
+1.a. Give examples of organic acids and inorganic acids. 
+b.Classify your examples as strong and weak acids
+2.Why do HCl, HNO3, etc. Show acidic characteristics in aqueous solutions while 
+solutions of compounds like alcohol and glucose do not show acidic property ?Exercise 3.7
+Concentrated and Dilute Acids
+Discuss in your group and present your conclusion to 
+the class.
+a.In a solution, if there is 96% H2O and the rest is 
+H2SO4, what kind of solution is it?
+b.In a solution, if there is 96% H2SO4 and the rest is 
+H2O, what kind of solution is it?  Activity 3.12
+The terms “conce ntrated” and “dilute” are used to describe the relative amount of 
+acid present in a given solution. A concentrated acid has a relatively large amount of 
+solute dissolved in the solvent. A dilute acid has a relatively smaller amount of solute dissolved in the solvent. Both strong acid and a weak acid may be concentrated or diluted depending on the number of moles of acid present.
+Precautions in Handling Acid
+Concentrated acids are corrosive and may cause visible destruction or irreversible alterations to living tissue by chemical action at the site of contact. Hence, the following safety precautions should be taken when handling acids:
+a. Wear goggles, gloves and a laboratory coat
+b.If a concentrated acid is spilled or splashed on your body, first wash the affected  part with running water and then with 10% Na
+2CO3 solution
+c.To dilute concentrated acids, pour the concentrated acid in to water and not water in  to the acid .
+d.If corrosive acids are swallowed, administer weak bases such as Mg(OH)
+2 or 
+Al(OH)3.
+e.Use bellows to pipette acid instead of sucking using yours lips
+f.If an acid enters your eye, wash with water repeatedly and then consult a doctor
+g.If concentrated acid is spilled on to cloth, immediately wash it with running water
+pH and pH scaleThe molar concentrations of H
+3O+ in aqueous solutions are generally very small and 
+expressing acidity as the concentration of H3O+ becomes cumbersome. Instead, a 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+134Chemistry Grade 10 Important Inorganic Compounds
+more convenient quantity called pH is used as a measure of the acid strength of a 
+solution. pH scale is used to rank solutions in terms of acidity or basicity (alkalinity). Concentration of hydrogen ion [H
++] in pure water is the basis for the pH scale. Water 
+is a weak electrolyte because it ionizes very slightly into ions in a process called autoionization or self-ionization ; H
+2O ⇌ H+ + OH–
+The ionic product constant of water ‘Kw’ is given as 
+  Kw = [H+][OH–] = 1.0 x 10–14 at 25 °C
+It is known that the amount of [H+] and [OH-] in pure water are equal
+  [H+] = [OH–] or [H+]2 = 1.0 × 10–14
+  [H+] = 1.0 ×10–7at 25 °C
+As it is difficult to deal with such small figures having negative exponents, it is convenient 
+to convert these figures into a positive figure using a numerical system. It is taking the common (base-10) logarithm of the figure and multiplying it with -1. ‘p’ before a symbol means’ negative logarithm of the symbol. Therefore, pH is the negative logarithm of molar concentration of the hydrogen ions.
+  pH = - log[H
++]
+With reference to this equation, a scale develops according to the molar concentration 
+of H+ ions that is called pH scale. It ranges from 0 to 14. According to this scale, pH 
+of water is calculated as: pH = - log[H+] = -log (1x10–7) = 7, 
+  similarly pOH = - log[OH–] = -log(1x10–7) = 7
+  pH value normally varies from 0 to 14. Therefore:  pH + pOH = 14
+YELLOW GREEN
+Figure 3.5 Measurement of pH using a universal indicator.
+Hence, the sum of the pH and pOH of the solution is always 14 at 25 °C. The pH of 
+a solution can be measured using a universal indicator solution (see Figure 3.5). When 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+135Chemistry Grade 10 Important Inorganic Compounds
+universal indicator solution is added to an acid solution, it develops different colors 
+depending on the pH of the solution. In order to identify the pH, we need to compare the color is developed with the standard color chart.  A solution of a compound with pH 7 or pOH 7 is considered as a neutral solution.  Solutions of pH less than 7 are acidic and those more than 7 are basic. pH values of some common items are given in Figure 3.6 as examples.
+Car 
+Battery
+Stomach Acid Vinegar Acidic Neutral Alkaline 
+Coffee Water Baking  SodaAmmoniaSolutionBleachLemon Tomato 
+Decreasing IncreasingMilk  BloodStomach Tablets SoapDrain Cleaner
+Figure 3.6  pH values of some common items.
+As the pH value decreases the acidity of the solution increases. For example, if two 
+solutions A and B have pH values of 4 and 6, respectively, then we can conclude that solution A is more acidic than solution B. The hydrogen ion concentration in solution A is one hundred times greater than that in B.
+Example 3.12 : Calculate the pH value of a solution when hydrogen ion 
+concentration is 1.0 x 10
+-5mo L-1
+Solution: pH is related to hydrogen ion concentration by an equation 
+pH = - log[H+]
+It is given that  [H+] = 1.0 x 10-5 mol L–1 = 10-5 mol L–1
+pH = - log[H+] =- log(10–5)
+  = -(-5 log (10) = 5 x 1=5
+Example 3.13: Calculate the hydrogen ion concentration of an aqueous solution 
+when its pH is 9.
+Solution:  The concentration of hydrogen ion and the pH value of an aqueous 
+solution are related by pH = – log [H+]
+–pH = log [H+]
+[H+] = antilog (–pH) = 10–9 = 1.0 x 10–9 mol L–1
+The Relationship Between pH and ConcentrationSince the pH scale is logarithmic, a solution of pH 1 has 10 times higher concentration of [H
++] than that of a solution of pH 2; 100 times than that of a solution of pH 3 and 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+136Chemistry Grade 10 Important Inorganic Compounds
+so on. Hence, low pH value means strong acid while high pH value means a strong 
+base and vice versa.
+Example 3.14 : A solution of hydrochloric acid is 0.01M. What is its pH value?
+Solution: Hydrochloric acid is a strong acid so it ionizes completely.
+   That is: HCl(aq) → H+ (aq) + Cl– (aq)
+   0.01        0.01   0.01
+  pH = - log[H+] 
+By putting the values of H+ ions in the above equation:
+  pH = - log[H+] = - log(1.0 x 10–2) = 2
+Example 3.15:   The hydrogen ion concentration in a dilute solution of citric acid is 
+1 × 10-6 M. What is the pH of the solution?
+Solution: pH = - log[H+] = -log 1 × 10–6 = 6
+Example 3.16:   Calculate the pH value of 0.05 M H2SO4. Assume that H2SO4 is 
+completely ionized.Solution:  H
+2SO4 is a strong acid and ionizes as
+  H2SO4 (aq) → 2H+(aq) + SO42–(aq)
+  0.05  2 × 0.05
+  Molarity of H+ = [H+] = 0.1 mol L–1
+  
+pH =-log(H+)= -log(0.1) = 1
+  
+1. Find the pH of 0.01M sulphuric acid?
+2.HCl and H2SO4 are strong acids.  Why do the equimolar solutions of the two 
+acids have different pH?  
+3.Two solutions A and B have pH values of 2 and 6 respectively.  How many times greater is the hydrogen ion concentration in solution A than that of solution B?Exercise 3.8
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+137Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.9
+pH of Solutions of Common Substances 
+Objective: To determine the pH of different substancesChemicals:  Lemon juice, vinegar, tonic water, tomato juice
+Materials : Beakers, and universal indicator solution or pH indicator paper
+Procedure:Take four beakers and place lemon juice in the first, vinegar solution in the second, tonic water in the third and filtered tomato juice solution in the fourth. Then add a few drops of universal indicator solution or dip a piece of pH indicator paper into each of the solutions. Compare the colour developed with standard colour 
+chart to decide the pH of each solution.
+Questions :
+a. What is your conclusion based on your observations?
+b.Were the substances used in this experiment acidic or neutral? Why?
+c. Record your observations using the following Table:
+Table 3.3  Colour and corresponding pH.
+Substance Color developed pH
+Lemon juice
+Vinegar solutionTomato JuiceTonic water
+Write a laboratory report on your observations and present to the class.
+Preparation of Acids
+Acids can be prepared by:1. The reaction of oxides of non-metals (acidic oxides) and water:
+  Acidic oxide + Water → Acid
+Example 3.17 : N
+2O5 (s) + H2O (l) → 2HNO3 (aq)
+    P4O10 (s) + 6H2O (l) → 4H3PO4 (aq)
+2. Direct combination of some non-metals like S and Cl with hydrogen:
+This method is mostly used to prepare binary acids (acids consisting only two elements
+  Nonmetal + Hydrogen → Binary acid
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+138Chemistry Grade 10 Important Inorganic Compounds
+Example 3.18 :  H2 (g) + Cl2 (g) → 2HCl (g)
+    H2(g) + S (s) ) → H2S (g)
+When gaseous hy drogen chloride and hydrogen sulphide dissolve in water, they form 
+hydrochloric acid,  and hydrosulphuric acid respectively.
+3.Using a non-volatile acid: Volatile acids can be prepared by heating the ir 
+salts with a non-volatile acid .For example, concentrated sulphuric acid (H2SO4) is a 
+nonvolatile acid and it is used for the preparation of volatile acids Hydrochloric acid 
+(HCl) and nitric acid (HNO3) according to the following equations:
+  NaCl (s) + H2SO4 (l) → NaHSO4 (s) + HCl (l)
+  Nonvolatile acid  Volatile acid
+  NaNO3 (s) + H2SO4 (l) → NaHSO4 (s) + HNO3(l)
+  Nonvolatile acid  Volatile acid
+Experiment 3.10
+Preparation of Chlorous Acid 
+Objective: To investigate the product formed from Ba(ClO2)2 and H2SO4
+Chemicals: Ba(ClO2)2, concentrated H2SO4 , water, blue, red litmus papers, methyl 
+red.
+Materials: Two 250 mL beakers, glass rod, dropper, test tubes, test tube rack.  
+Procedure:1. Dissolve 12 g Ba(ClO
+2)2 to prepare 100 mL solution in one beaker. Dilute 2 mL 
+concentrated H2SO4 with water to prepare 50 mL of dilute H2SO4 solution in the 
+second beaker.2. Add 80 mL of Ba(ClO
+2)2 solution to the dilute solution of H2SO4 in the second 
+beaker. Is there any formation of the white precipitate? What do you think is the precipitate formed? Wait for some time till the precipitate settles. Continue adding Ba(ClO
+2)2 solution using a dropper, one drop at a time until formation of 
+white precipitate stops. After all the precipitate settles, take 5 mL of the clear liquid in a test tube and test with litmus or methyl red.
+Questions:
+a.Is the final solution acidic or basic?
+b.Which acid is formed?
+c. Write a balanced chemical equation for the reaction.
+Write a laboratory report as a group and present to the class
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+139Chemistry Grade 10 Important Inorganic Compounds
+Use of Some Important Acid 
+1. List uses of some common acids in your daily life.
+2. High consumption of sulphuric acid in a country 
+indicates the economic growth of the country. What is 
+the reason? Discuss in groups and present to the class.  Activity 3.13
+Table 3.4   Uses of the common acids H2SO4,  HCl and HNO3
+Acid Use
+Sulphuric acid, 
+H2SO4H2SO4 is the leading industrial chemical. It is  used:
+* In production of sulphate and phosphate fertilizers, synthetic, 
+fibers, paints, drugs, detergents, paper and dyes
+*In petroleum refining
+* In production of metals* As electrolyte in car batteries
+Hydrochloric Acid, HCl* It is present naturally in the gastric juice of our body and helps 
+in the digestion of food
+* Industrially, HCl is used for pickling of iron and steel (to remove 
+surface impurities) before galvanizing and tin plating
+*Used to produce aniline dyes, drugs, photographic films, plas-tics like polyvinyl chloride (PVC)
+* Used to recover magnesium from sea water
+Nitric Acid, HNO
+3Used industrially in the manufacture of* Explosives such as trinitrotoluene (TNT) and trinitroglycerine* Fertilizers such as KNO
+3 and NH4NO3
+* Rubber, chemicals, plastics, dyes and drugs.
+Reading Assignment Read from reliable sources the uses of common acids H
+3PO4, H2CO3, CH3COOH and 
+discuss in class with your group
+1. Which one of the following substances are Arrhenius acids:
+a. HBrO4
+b.BCl3
+c. H2S
+d. HFe.HBr
+f.PCl5Exercise 3.9
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+140Chemistry Grade 10 Important Inorganic Compounds
+2.Classify the following acids as monoprotic, diprotic or triprotic, binary or 
+ternary, strong or weak acids. (give three answers for each type):
+a. HClO4
+b.H2SO4
+c. H2CO3d. H2SO3
+e.HF
+f.H2Sg.HCl 
+h. H3PO4
+i.HNO2j. HCN
+k. HNO3
+l.   CH3COOH
+3.A reagent bottle (labelled as A) is filled with HCl solution and the other 
+(labelledas B) is filled with water. Both liquids in the bottles are colourless. What method do you recommend to identify the acid and water?
+4.What is the basis for the classification of acids as strong and weak?
+5.What is the pH of a solution having the following hydrogen ion concentrations?
+a. 5 × 10
+–3 M
+b.0.003 M c. 2.0 × 10–6 M
+6.Calculate the hydrogen ion concentrations in solutions having the following pH 
+values:
+a. 4 b.2 c. 5
+7.How many moles of H2SO4 are present in 0.500 L of a 0.150 M H2SO4   solution?
+8.Identify the following solutions as acidic or basic, estimate [H3O+] values for 
+each, and rank them in order of increasing acidity:    
+a. Saliva, pH =6.5b.Orange juice, pH = 3.7
+c. Pancreatic juice, pH = 7.9d. Wine, pH = 3.5
+3.4   Bases
+Discuss the following questions in your group and 
+present your conclusions to the class.
+1. What is the main ingredient in stomach antacid ?
+2.Make a list of some bitter-tasting foods and beverages.
+3.Have you ever wondered about the origin of the saying “it is a bitter pill (kosso) to swallow”?  Discuss and give a meaning to the saying.
+4.Have you ever had soap in your mouth? How does it taste?
+  Activity 3.14
+After completing this section, you should be able to " define bases in terms of the concepts of Arrhenius;
+" give examples of bases based on Arrhenius; 
+" discuss the general properties of bases; 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+141Chemistry Grade 10 Important Inorganic Compounds
+" define strong and weak bases; 
+" distinguish between strong and weak alkalis (soluble bases); 
+" define concentrated and dilute alkalis;
+" distinguish between concentrated and dilute alkalis (soluble bases); 
+" use the necessary precautions while working with bases; 
+" define pOH; 
+" show the mathematical relationship between pH and pOH; 
+" calculate the pOH of a given basic solution; 
+" calculate the concentration of hydroxide ion from the given information; 
+" carry out activities to investigate some chemical properties of bases; 
+" discuss the reaction of active metals with water, the reaction of basic oxides with 
+water and double displacement reactions as the three methods of preparation of bases; 
+" carry out simple experiments to prepare bases in laboratory; 
+" explain the uses of the two common laboratory bases.
+Bases are either oxides or hydroxides of metals, which are therefore called basic 
+oxides and hydroxides respectively. They are of great importance in chemical industries and in our daily lives, directly or indirectly. For example, sodium hydroxide, NaOH is used in the production of soap, paper, textile etc. 
+Potassium hydroxide, KOH is used to produce soft soap, fertilizers etc. Calc ium 
+hydroxide, Ca(OH)
+2, is used to manufacture mortar and bleaching powder, to remove 
+soil acidity etc.Arrhenius Definition of Bases
+According to the Arrhenius theory, a base is a substance that produces a hydroxide ion (OH
+-) when it is dissolved in water. Soluble bases are called alkalis .
+For example, sodium hydroxide and potassium hydroxide are bases because they produce OH- ion when dissolved in water. 
+NaOH (aq) → Na (aq)
++ + OH-(aq)
+  KOH (aq) → K+ (aq) + OH- (aq)
+Note that the ions produced by the base can come from either of two sources. Metal hydroxides, such as NaOH, KOH, and Ba(OH)
+2, are ionic compounds that already 
+contain ions and merely release those ions when they dissolve in water. Ammonia, however, is not ionic and contains no ions in its structure. Nonetheless, ammonia is a base because it undergoes a reaction with water when it dissolves, producing NH
+4+
+and OH– ions:
+  NH3 (aq) + H2O (l) ⇌ NH4OH(aq) → NH4+ (aq) + OH-(aq)
+The reaction of ammonia with water is a reversible process whose equilibrium strongly favors unreacted ammonia.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+142Chemistry Grade 10 Important Inorganic Compounds
+General Properties of Bases
+1.What is the taste of carbonated beverage, coffee 
+and tonic water? How can it be differ from the taste 
+of lemon juice or vinegar? 
+2.Explain the reason why a dilute solution of sodium 
+bicarbonate can be used to treat bee stings, whereas a dilute solution of acetic acid can be used to treat wasp stings. 
+Discuss with your group and present your conclusion to 
+the class.
+  Activity 3.15
+1.Alkalis have a soapy feeling and a bitter taste: Bases have a bitter taste; feel slippery like soap to the skin in dilute aqueous solutions. Strong bases such as NaOH and KOH are very corrosive and poisonous. So they should be neither brought into contact with the skin nor tasted.
+2.Alkalis change the color of indicators: Aqueous solutions of bases turn the color of red litmus to blue, phenolphthalein to pink (red), methyl red to yellow and universal indicator blue (purple). This property is because of the OH
+– ion given by 
+the base.
+3.Alkalis release hydroxide ion in aqueous solution: The characteristic properties of bases in aqueous solutions are due to the presence of the hydroxide ion, OH
+–
+which they release on dissolution.
+Example 3.19 : NaOH (aq) → Na (aq)+ + OH– (aq)
+    KOH (aq) → K+ (aq)  + OH– (aq)
+4.  Bases neutralize acids or acidic oxides to form salt and water:
+Example 3.20:    Base + Acid (or Acidic Oxide) → Salt + Water
+     NaOH (aq) + HCl (aq) →  NaCl (aq) + H2O (l)
+     2NaOH (aq) + CO2 (aq) →  Na2CO3 (aq) + H2O(l)
+5. Aqueous solutions of bases conduct electricity: Soluble bases are electrolytes. Solutions of strong bases are good conductors while solutions of weak bases are poor conductors
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+143Chemistry Grade 10 Important Inorganic Compounds
+Discuss with your group and present your conclusion 
+to the class.
+1.What is the difference between concentrated base and strong base, dilute base and weak base?   Can a strong base be a dilute base and a weak base concentrated base? Discuss in class.
+2.Why solutions of weak bases give dim light and solutions of strong bases give bright light? Discuss 
+in class.
+Activity 3.16
+Strength of Bases (Strong and Weak Bases) 
+A strong base is almost completely ionized in aqueous solution to give its constituent 
+cations and anions. That is the extent of ionization of a strong base is very high. Thus, 
+the amount of hydroxide ions ( OH–) in the solution of a strong base is large.
+KOH (aq) → K+ (aq) + OH– (aq)
+Hydroxides of alkali (Group IA) metals and lower members of alkaline earth metals such as LiOH, NaOH, KOH, and Ba(OH)
+2 are examples of strong bases. Strong bases 
+are strong electrolytes as they produce large amount of ions and conduct high current.A weak base is only partially ionized into its cations and anions in aqueous solution. That is, the extent of ionization of a weak base is small. Thus, the amount of hydroxide ions (OH
+–) in the solution of a strong base is small.
+NH4OH (aq) ⇌ NH4+ (aq) + OH–(aq)  
+The double arrow shows that the dissociation of a weak base does not proceed to 
+completion. This means an aqueous solution of a weak base contains only a small amount of ions derived from the dissociation of the base and a large amount of the non-ionized base. For example, a solution of ammonia containing 0.1 mole NH
+3 per 
+litre of solution ionizes only to the extent of 1.3%. Weak bases are weak electrolytes as they allow low current.  Examples of weak bases include Mg(OH)
+2 and Ca(OH)2.
+Concentrated and Dilute BasesThe concentration of an alkali is a measure of the number of moles of the alkali dissolved in 1 litre of solution and is therefore expressed in mol per liter. Concentrated bases contain relatively large amounts of a base in a given volume of solution while dilute base solutions contain only a small amount of base. The concentration is expressed in terms of mole per litre (Molarity).  
+The greater the number of moles of the base per liter of the solution, the more 
+concentrated is the solution. For example, a solution containing ten moles of NaOH 
+per litre is more concentrated than the solution containing two moles of NaOH per 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+144Chemistry Grade 10 Important Inorganic Compounds
+liter. The latter solution is more dilute than the former. Thus, both a strong base and a 
+weak base may be concentrated or dilute depending on the number of moles of the base present per liter.
+Precautions in Handling Bases
+Strong bases like NaOH and KOH are known as caustic alkalis.  The word “caustic” refers to a substance that can cause burning.  Thus, it is very important to avoid contact of these bases with any part of our body or clothing.  Not only strong bases but also weak bases are corrosive.  For example, concentrated ammonia solution can cause blindness if splashed into the eye.
+The following safety precautions are useful in handling bases in school laboratories or 
+anywhere while working with thema. Wear eye goggles, gloves and a laboratory coat.b.If bases are spilled on your working tables wipe the spillages immediately.
+c.Whenever bases are splashed on your cloth, wash the affected part with running water.
+d.If a base enters your eyes, wash with water repeatedly as first aid treatment and seek medical advice.
+e.If a base is swallowed by accident, drink 1-2% acetic acid or lemon juice immediately.
+f.Whenever bases come into contact with your skin, wash the affected part with plenty of water and then wash the affected part with a very dilute solution (about 1%) of a weak acid such as acetic acid.
+pOH (note that ‘p’ is  small, O and H are capitals!)
+1.Since water, H2O, has H+ and OH–, it is both acidic 
+and basic. Do you agree?
+2.Why pure water doesn’t change the color of either 
+red litmus or blue litmus?
+3.If [OH–] increases in a solution what happens to its 
+[H+]? Share your comments with your group.  Activity 3.17
+pOH is a measure of the concentration of hydroxide ions in an acidic or a basic solution. It is defined as the negative logarithm of hydroxide, OH
+– ion concentration.
+  pOH = - log10[OH–] 
+Relationship Between pH and pOHThe pH and pOH are related mathematically as pH + pOH = 14This equation can be derived using the ionic product of water, Kw, as follows: The ionic product of water, Kw is the product of the concentration of [H
++] or [H3O+] 
+and [OH–].
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+145Chemistry Grade 10 Important Inorganic Compounds
+Electrical conductivity measurements of pure water such as distilled water show that 
+concentrations of H3O and OH are 1.0 x 10–7 M at 250. Therefore, the ionic product 
+of pure water is Kw = [H+] or [H3O+] x [OH–] 
+          = (1.0 x 10–7) x (1.0 x 10–7) = 1.0 x 10–14
+  [H+][OH–] = 1.0 x 10–14
+Taking the logarithm of both sides of the equation   log10{[H+][OH–]} = log1.0 x 10–14
+  We get {-log10 [H+]} + {– log10 [OH–]} = 14
+  Hence, pH + pOH = 14
+Example 3.21: Find out the pH and pOH of a 0.0001M solution of NaOH?
+Solution: Potassium hydroxide solution is a strong base. It ionizes completely such that one mole of NaOH gives one mole of OH ions.
+  NaOH(aq) → Na
++(aq) + OH–
+  0.0001M 0.0001M   0.0001M
+Therefore, 0.0001M solution of NaOH produces 0.0001M OH ions
+  [OH–] = 0.0001M= 1 x 10–4
+  pOH  = -log[OH–] = - log1 x 10–4 = 4
+  pH = 14 - 4= 10
+1.Which solution has  a higher [H3O+] concentration, one with pH =5, or with pH 
+=9?  Which solution has the higher OH–  concentration?
+2. Give the pH and pOH for each solution with the following concentrations:
+a. [H3O+] = 1.0 x 10-5b. [OH– ] = 1.0 x 10-9 M
+3.Give the hydroxide ion concentrations of solutions with the following values of pH. Which of the solutions is most acidic? Which is most basic?
+a. pH 13.0 b.pH 3.0 c. pH 8.0Exercise 3.10
+Preparation of Bases
+Bases conta ining hydroxide ion (hydroxide bases) can be prepared by the following 
+methods:
+I.  By the reaction of highly reactive metals from Group IA and Group IIA (below magnesium) with water. This reaction produces the metal hydroxide with the liberation of hydrogen gas
+  2Li (s)  +  2H
+2O (l) → 2LiOH (aq) + H2 (g)
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+146Chemistry Grade 10 Important Inorganic Compounds
+  2Na (s) +  2H2O (l) → 2NaOH (aq) + H2 (g)
+  Ca (s)   +  2H2O (l) → Ca(OH)2 (aq) + H2 (g)
+II.  By the reaction of Group IA or Group IIA metal oxides with water, which gives the 
+metal hydroxides?
+  Metal oxide + Water → Metal hydroxide
+  Na2O (s) + 2H2O (l) → 2NaOH (aq)
+  BaO (s) + 2H2O (l) → Ba(OH)2 (aq)
+III.  By double displacement reaction 
+The reaction of an aqueous solution of a soluble base and a soluble salt, gives another soluble base and an insoluble salt as products  
+  Ba(OH)
+2 (aq) + K2SO4 (aq) → 2KOH (aq) + BaSO4 (s)
+  Ca(OH)2 (aq) + Na2CO3 (aq) → 2NaOH (aq) + CaCO3 (s)
+Common uses of NaOH and Ca(OH)2
+Sodium hydroxide, NaOH (lye or caustic soda) is used in the manufacture of soaps 
+and detergents, degreasers and as the main ingredient in oven and drain cleaners.Calcium hydroxide, Ca(OH)
+2 (slaked lime) is used in the manufacture of cement and 
+lime water. It is usually added to neutralize acidic soil.  Ca(OH)2 is used also for lime 
+water test for carbon dioxide.
+Experiment 3.11
+Chemical Behavior of BasesObjectives: To investigate the thermal stability and reaction of bases with acids.Chemicals: NaOH or KOH, Ca(OH)
+2, HNO3, water, blue and red litmus papers, 
+cobalt chlorideApparatus:  Test-tube, test-tube rack, test-tube holder, Bunsen burner, three bea -
+kers, dropper, measuring cylinder, glass rod and watch glass.
+Procedure:
+1.Place 4.5 g NaOH or KOH in one test-tube and the same amount of Ca(OH)
+2
+in another test-tube. Heat the test-tube containing NaOH or KOH gently using a Bunsen burner, by holding the test tube with a test tube holder. Hold the cobalt chloride paper partly inserted in the test tube. See whether the cobalt chloride paper shows a colour change or not. Repeat the same experiment with the second test tube that contains Ca(OH)
+2.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+147Chemistry Grade 10 Important Inorganic Compounds
+2.Dissolve 3.6 g KOH in distilled water to prepare 100 mL solution in one 
+beaker. Dilute 2 mL concentrated HNO3 to make a 50 mL solution in another 
+beaker. Add 10 mL KOH solution and 9.5 mL HNO3 to the third beaker, stir 
+thoroughly and test with blue and red litmus papers. Continue adding HNO3
+using a dropper, one drop at a time stirring after each addition and checking with red and blue litmus until the blue remains blue and the red remains red.
+3.Put 5 mL of the neutral solution on a watch glass and allow the water to evaporate until the next day.
+Questions:1.What type of reaction occurred between the KOH and HNO
+3? Write the 
+balanced chemical equation for the reaction.
+2. What was left on the watch glass?3.Which hydroxide was melted on heating? Which base was decomposed on heating to give metal oxide and water? How do you know this? Write the balanced chemical equation for the reaction.  Write a laboratory report and present it to the class.
+Experiment 3.12
+Preparation of BasesObjective: To prepare bases from metal oxides and using double displacement reactionChemicals: Water, MgO,  K
+2SO4, Ba(OH)2 solution
+Apparatus : Spatula, balance, three beakers, measuring cylinder, dropper, glass 
+rod.
+Procedure:
+1.Add a half a spatula measure of MgO to a test tube containing clean water. Shake well and then test whether the solution is acidic or basic using red litmus paper. Does the colour of the red litmus paper change?
+2.Add 7 g K
+2SO4 to the first and 7 g Ba(OH)2 to the second beaker. Add water 
+to each beaker and stir with a glass rod to prepare a 100 mL solution of each sample. After dissolution is complete, take 20 mL Ba(OH)
+2 solution and pour it 
+into the third beaker. Measure 20 mL K2SO4 solution, mix it with the solution in 
+the third beaker and shake well. Observe what is happening. Continue add -
+ing K2SO4 solution drop by drop using a dropper while shaking the solution 
+after the addition of each drop.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+148Chemistry Grade 10 Important Inorganic Compounds
+When the formation of a white precipitate does not occur anymore stop adding 
+K2SO4 solution and test whether the solution in the third beaker is acidic or basic 
+using litmus paper.
+Questions:
+1.Did the colour of red litmus paper change when dipped into the solutions obtained in procedure 1. Is  the solutions acidic or basic?
+2. Why do you think is the white precipitate formed in procedure 2?3.What is the nature of the final solution in the third beaker?
+4. Write balanced chemical equations for the reactions 1 and 2.
+Write a laboratory report on your observations and present to the class.
+3.5 Salts
+Discuss the following in class and present your conclusion 
+to the class. 1.List as many salts as you can that are used in home, 
+medicine or agriculture.
+2.What is the natural source of salts?  How can you 
+define salts? 
+3.Make a list of coloured salts available in your school 
+laboratory.
+4.What is the most common salt in seawater such as in 
+Red Sea? 
+  Activity 3.18
+By the end of this section, students will be able to 
+"define salts; 
+"give examples of salts; 
+"classify salts as acidic and normal salts; 
+"discuss the direct combination of elements, the reaction of acids with bases, 
+neutralization and the reaction between acids and metals as the methods of salt preparation; 
+"carry out simple experiment to prepare a salt by neutralization; 
+"list some important salts; 
+"explain the uses of some important salts; 
+"discuss the properties of salts; 
+"explain the chemical tests of some salts by conducting activities.
+Salts are ionic compounds generally formed by the neutralization of an acid with a 
+base.  A salt gets its name from the names of the metal ion (derived from the base) 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+149Chemistry Grade 10 Important Inorganic Compounds
+and the acid radical derived from the acid. For example, NaCl is formed from Na+
+derived from NaOH and Cl_ is derived from HCl. Hence, NaCl (sodium cloride) is a 
+salt of NaOH and HCl. Similarly, KNO3  (potasium nitrate) is a salt of KOH and HNO3. 
+  Salt formation
+  Na+OH–+ H+Cl–→ Na+Cl– + H2O 
+  Base   Acid   Salt      Water
+        Salt formation
+  K+OH–    +    H+NO3–→ KNO3 + H2O
+  Base     Acid       Salt        Water
+During neutralization reaction, the cation of the base combines with the anion of the
+acid and a salt is formed (while H+ and OH_ combine to form H2O) as shown above.
+Salts are also defined as ionic compounds formed when the ionizable hydrogen of acids are partly or completely replaced by metal ions or ammonium ion.
+Classific ation of Salts 
+Discuss in your group and present the conclusion to the 
+class.
+Recall the concept of the neutralization reaction 
+between an acid and a base to give a salt and water.a.What would be the nature of the salt, if all the acid hydrogen ions are not replaced by metal ions or ammonium ions?
+b.What would be the nature of the salt, if all the base hydroxide ions are not replaced by the anions 
+of the acid?
+  Activity 3.19
+Salts can be classified into three main groups as shown below in Figure 3.7 :
+SaltsNormal Salts
+Acidic Salts
+Basic Salts
+Figure 3.7  Classification of Salts
+I. Normal Salts A salt formed by the complete replacement of ionizable  H
++ ions of an acid by a 
+positive  metal ion or NH4+ ions is called normal or neutral salt. These salts are neutral 
+to litmus.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+150Chemistry Grade 10 Important Inorganic Compounds
+  HCl (aq) + KOH (aq) → KCl (aq) + H2O (l)
+  H2SO4 (aq) + ZnO (aq) → ZnSO4(aq) + H2O (l)
+  HNO3(aq) + NH4OH (aq) → NH4NO3( aq) + H2O (l)
+II. Acidic salts 
+These salts are formed by the partial replacement of replaceable H+ ions of an acid 
+by a positive metal ion.
+  H2SO4 (aq) + KOH(aq) → KHSO4(aq) + H2O(l)
+  H3PO4(aq) + NaOH(aq) → NaH2PO4(aq) + H2O(l)
+These salts KHSO4 and NaH2PO4 turn blue litmus red. For example, when KHSO4
+dissolves in aqueous solution, it releases the ions K+, H+, SO42-. It releases hydrogen 
+ions hence it is acidic.
+Acidic salts react with bases to form normal salts, K2SO4 and  Na3PO4
+  KHSO4 (aq) + KOH (aq) → K2SO4 (aq)+ H2O (l)
+  NaH2PO4(aq) + 2NaOH (aq) → Na3PO4(aq) + H2O (l)
+III. Basic SaltsThese are salts in which not all of the hydroxide ions in a base have been replaced by the anions of the acid.  Basic salts are formed by the incomplete neutralization of a polyhydroxy base by an acid.
+  Al(OH)
+3 (aq) + HCl (aq) → Al(OH)2Cl (aq) + H2O(l)
+  Zn(OH)2 (aq) + HNO3 (aq) → Zn(OH)NO3(aq) + H2O(l)
+The above basic salts further react with acids to form normal salts.  Al(OH)Cl (aq) + HCl (aq) → AlCl
+3 (aq) +  H2O(l)
+  Zn(OH) (aq) + 2HNO3 (aq) → Zn(NO3)2 (aq) + 2H2O(l)
+ General Methods for the Preparation of Salts
+How salts could be prepared?  List a few methods to 
+prepare sodium chloride in the laboratory? Discuss in your group and present it to the class.
+  Activity 3.20
+Usually soluble salts are prepared by methods that involve crystallization, while insoluble salts are prepared by methods that involve precipitation.
+1.  Preparation of Soluble SaltsA. The reaction of an acid and a metal (Direct Displacement method)
+This is direct displacement method in which hydrogen ion of acid is replaced by a reactive metal. Such as calcium, magnesium, zinc and iron, e.g.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+151Chemistry Grade 10 Important Inorganic Compounds
+Active metal + Acid → Salt + Hydrogen
+  Mg(s) + 2HCl (aq) → MgCl2(aq) + H2(g)
+  Zn (s) + H2SO4 (aq) → ZnSO4 (aq) + H2 (g)
+Note that the reactions of Group IA metals like sodium and potassium are very 
+vigorous and it is not advisable to use the metals of Group IA for the preparation of salts by this method.
+B.The reaction of an acid and a base (Neutralization method)
+It is a neutralization reaction in which acid and base react to produce a salt and water  Acid + Base → Salt + Water
+HCl (aq) + NaOH(aq) →  NaCl(aq) + H
+2O(g)
+Identify the base and the acid used for the formation of each of the following 
+salts
+a. Zinc sulphate (ZnSO4)
+b.Calcium phosphate Ca3(PO4)2   c. Silver acetate (CH3COOAg)
+d. Sodium carbonate (Na2CO3) Exercise 3.11
+C. By the reaction of an acid and metallic oxideMostly the insoluble metallic oxides react with dilute acids to form salt and water
+Metallic oxide + Dilute Acid → Salt + Water
+  CuO(s) + H
+2SO4 (aq) → CuSO4(aq) + H2O(aq)
+  ZnO (s) + 2HNO3 (aq) → Zn(NO3)2 (aq) + H2O (l)
+D.The reaction of an acid and a carbonate or bicarbonate:
+Dilute acids react with metallic carbonates to produce salts, water and carbon dioxide gas.
+Metal carbonates or Bicarbonates + Dilute acid → Salt + Water + Carbon dioxide
+  Na
+2CO3 (aq) + 2HNO3 (aq) → NaNO3(aq) + H2O(l) + CO2(g)
+  Ca(HCO3)2 (s) + 2HCl (aq) → CaCl2 (aq) +  2H2O (l) +  2CO2 (g)
+2. Preparation of Insoluble Salts by Double Decomposition (Precipitation )
+In this method, usually solutions of soluble salts are mixed. During the reaction, 
+exchange of ionic radicals (i.e., metallic radicals exchange with acidic radicals) takes place to produce two new salts. One of the salts is insoluble and the other is soluble. The insoluble salt precipitates (solidify in solution).
+AgNO
+3(aq) +  NaCl(aq) →  AgCl(s) + NaNO3(aq)
+  Na2CO3(aq) +  CuSO4(aq)  →  CuCO3 (s)  +   Na2SO4 (aq)
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+152Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.13
+Preparation of Sodium Chloride
+Objective: to prepare sodium chloride from sodium bicarbonateChemicals:  Sodium bicarbonate, concentrated hydrochloric acid. 
+Apparatus: Evaporating dish, graduated cylinder, Burner.
+Procedu re
+1.Add to the dish about 5 g of NaHCO
+3 and weigh again. Record the mass in 
+blank (a) in the table below.
+2.Add 5 to 6 mL of distilled water to the dish to wet the bicarbonate. Cover the 
+dish with a watch glass.
+3.Move the watch glass aside slightly and add, in small portions, about 6 mL of 
+concentrated hydrochloric acid from a 10 mL graduated cylinder. These small portions of acid should be added so that the acid runs down the inside wall of the evaporating dish. After the addition of 6 mL of acid, continue adding acid only as long as CO
+2 (gas) continues to be evolved. Remove the watch glass 
+and evaporate to dryness over a water bath (the evaporating dish is placed on top of a beaker containing boiling water).
+4.Next, heat the dish on wire gauze with the burner for about 3 minutes. Allow 
+the dish to cool and weigh accurately. Again, heat the dish, cool, and weigh. Continue heating and weighing until the dish reaches constant mass. Record this constant mass in blank (d) in the table below.
+Questions :
+1.What is the product formed?  Write the balanced chemical equation for the
+reaction.
+2. What is the change as the reaction occurs? What does this show?
+Write a laboratory report and present to the class.
+Some of the most important bases are listed corresponding to their uses in the 
+following table.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+153Chemistry Grade 10 Important Inorganic Compounds
+Table 3.5 Some important salts and their uses.
+Salts  Uses
+Sodium chloride (common 
+salt, NaCl)1. Preparation and preservation of food2. Raw  material for the manufacture of sodium, 
+chlorine, and sodium hydroxide
+3. Component of Oral Rehydration Salt (ORS)4. Manufacture of baking soda (NaHCO
+3) and 
+Na2CO3
+5. In making a freezing mixture which is used by ice 
+cream vendors
+Ammonium nitrate, (NH
+4NO3Nitrogenous fertilizer and in explosives
+Copper (II) sulphate, (CuSO
+4)1. Used to make Bordeaux mixture (mixture of CuSO4
+and Ca(OH)2 and other fungicides. Bordeaux 
+mixture is used to prevent fungal attack of leaves and vines
+2. Useful in electroplating and dyeing
+Iron (III) chloride, (FeCl
+3) 1. Used in the treatment of waste water
+2. Used for etching printed circuits
+Potassium nitrate, (KNO3) 1. Used in making gun powder ((mixture of KNO3, 
+carbon and sulphur) and other explosives
+2. Used as fertilizer in agriculture
+Calcium sulphate, (CaSO
+4.2H2O, Gypsum)Used for plastering walls and supporting fractured bones.
+Barium sulphate, (BaSO
+4) 1. Given to patients as a “barium meal” before 
+gastrointestinal x-ray photography
+2. Used as a white pigment
+Iron (II) sulphate (FeSO4) Given as iron tablets to patients who suffer from 
+anemia
+Properties of SaltsSalts can be classified depending on the anion (negative ion) they possess, because the anion is partly responsible for the solubility of the salt.
+1. Solubility of salts 
+When salts are added to water or water is added to salt, different types of actions 
+take place. Some salts are soluble in water; some are insoluble while some salts are only slightly soluble. 
+2. Tendenc y to absorb water from the atmosphere or release water to the atmosphere. 
+Salts can be classified as hygroscopic, deliquescent and efflorescent depending 
+on their tendency to absorb water from or release water to the atmosphere.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+154Chemistry Grade 10 Important Inorganic Compounds
+Hygroscopic salts  are those which absorb water from the atmosphere but remain 
+solid. 
+Example : Anhydrous copper (II) sulphate, CuSO4
+Deliq uescent salts  absorb wat er from the atmosphere to form a solution. The process 
+of absorbing water from the atmosphere by a solid to form a solution is called deliquescence.
+Example : Calcium chloride(CaCl
+2), Sodium nitrate (NaNO3), Iron(III) chloride (FeCl3) 
+Efflor escent salts  lose their water of crystallization to the atmosphere. The loss of 
+water of crystallization by solid crystals to the atmosphere is known as efflorescence.
+It is very important to note that all deliquescent substances are hygroscopic, but all hygroscopic substances are not necessarily deliquescent.
+Example 3.22 : Hydrated sodium carbonate (Na
+2CO3•10H2O), Hydrated sodium 
+sulphate (Na2SO4•10H2O) 
+3. Aqueous solutions  of soluble salts  are good conductors of electricity, because 
+they release mobile positive and negative ions in solution.
+  NaNO3 (aq) → Na+ (aq) + NO3– (aq)
+  CaCl2 (aq) → Ca2+(aq) + 2Cl– (aq)
+4.Thermal stability of salts: Thermal stability of a salt is the property of a salt to 
+resist irreversible change in its chemical or physical structure, often by resisting decomposition at a high relative temperature. When different salts containing the same anion are heated, they may not show similar behavior. Some salts are thermally stable while others undergo decomposition. The following examples illustrate this fact.
+A. Thermal decomposition of carbonates 
+All the carbonates of Group IIA undergo thermal decomposition to the metal oxide 
+and carbon dioxide gas. The term “thermal decomposition” describes splitting up a compound by heating it. Carbonates are salts containing a carbonate, CO
+32-, as an 
+anion.
+If “M” represents any one of the elements, the following describes this decomposition:
+  MCO3(s) → MO(s) + CO2
+The carbonates of Group IIA are: MgCO3, CaCO3, SrCO3, BaCO3
+The carbonates become more thermally stable down the group. In Group IA, lithium 
+carbonate behaves in the same way, producing lithium oxide and carbon dioxide:
+Li2CO3(s) → Li2O(s)+CO2
+The rest of the Group IA carbonates do not decompose at laboratory temperatures, 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+155Chemistry Grade 10 Important Inorganic Compounds
+although at higher temperatures this becomes possible. The decomposition temperatures 
+again increase down the group.
+Most transition metals decompose on heating to give the metal oxides and carbon 
+dioxide:
+Example 3.23:
+CuCO3 (s) → CuO (s) + CO2 (g)
+B. Thermal decomposition of nitratesNitrates are salts containing a nitrate, NO
+3–, as an anion.  The Group IIA and most 
+transition metal nitrates undergo thermal decomposition to the metal oxide, nitrogen dioxide and oxygen gas.  .
+  Nitrate → Metal oxide + Nitrogen dioxide + Oxygen
+Example 3.24 : 2Mg(NO
+3)2 (s) → 2MgO (s) + 4NO2 (g) + O2 (g)
+   2Pb(NO3)2 (s) → 2PbO (s) + 4NO2 (g) + O2 (g)
+Nitrates of sodium and potassium decompose on heating to give nitrites (instead of 
+the oxides) and oxygen gas;
+  2NaNO3 (s) → 2NaNO2 (s) + O2 (g)
+  2KNO3 (s) → 2KNO2 (s) + O2 (g)
+The carbonate and nitrate of lithium differ from those of sodium and potassium; they 
+decompose on heating in the following manner:
+  4LiNO3 (s) → 2Li2O (s) + 4NO2 (s) + O2 (g)
+  Li2CO3 (s) → Li2O (s) + CO2 (g)
+Note that both the nitrates and carbonates of lithium are thermally unstable similar to 
+Group IIA. This reveals that lithium behaves more like Group IIA rather than Group IA.
+Chemical Tests of Some Ions in Salt
+1.Do you know why fireworks give different colors? 
+Consult books in your library, and discuss in your group. Explain to the class.
+2.How do chemists know of the presence of certain ions in a compound?
+  Activity 3.21
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+156Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.14
+Test for Cations-I
+Objective: To identify the presence of Li+, Na+, K+, Ca2+, Sr2+ and Ba2+ in salts 
+by flame tests.Chemicals: Distilled water, salts containing Li
++, Na+, K+, Ca2+, Sr2+ and Ba2+.
+Apparatus : Platinum or nichrome wire, watch glass, Bunsen burner. 
+Procedure:1.Place a small amount of the salt containing a Li
++ ion on a watch glass, moisten 
+it with pure concentrated  HCl, dip the tip of the platinum or Nichrome wire into the moist salt and then bring to the Bunsen flame.
+2. Observe the colour produced.3.Repeat the same step for salts containing Na
++, K+, Ca2+, Sr2+ and Ba2+ and 
+record your observations. Rinse the platinum or nichrome wire with distilled water after each test.
+Question:a.  Write the colour of the flame produced in the following table.Table 3.6 Metal ion and corresponding flame colour
+Metal ion in the salt Colour of flame produced
+Lithium (Li+)
+Sodium (Na+)
+Potassium (K+)
+Calcium (Ca2+)
+Strontium (Sr2+)
+Barium (Ba2+)
+b. Write a laboratory report and present to the class.
+Flame tests are used to identify the presence of a relatively small number of metal ions in a compound. Certain metals give a characteristic color to a Bunsen flame when their solid salts or moist salts are heated directly in the flame.  A flame test is commonly used to identify the presence of lithium, sodium, potassium, calcium, strontium and barium ions in salts.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+157Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.15
+Test for Cations - II 
+Objectives: To identify the presence of Cu2+, Fe2+ and Fe3+ in salts.
+Chemicals: Ammonia solution, sodium hydroxide solution, salts containing each of 
+Cu2+, Fe2+ and Fe3+ ions
+Apparatus : Beakers, test tubes, test tube rack, glass rod.
+Procedure:
+1.Dissolve a salt containing Cu2+ in the first beaker, Fe2+ in the second and Fe3+ in 
+the third. Take three test tubes and add a 2 mL solution of (each ion) Cu2+ salt 
+to the first, Fe2+ salt solution to the second and Fe3+ salt solution to the third.
+2.Add aqueous ammonia in small quantities until it is in excess, to the first test 
+tube containing a copper (II) salt solution and record your observations.
+3.Add sodium hydroxide solution in small quantities, until it is present in excess, to 
+the second and third test tubes, and record your observations.
+Questions:1.What does the formation of a blue precipitate in the first indicate? Write the 
+chemical equation for the blue precipitate formation.2. Observe the colours of the precipitates formed and complete the following Table 3.7 Colour observed and its indication.
+Colour observed Confirms the presence of
+Write balanced chemical equations for the reactions. Write a laboratory report in group and present to the class.
+Experiment 3.16
+Test for Sulphates Objective: To identify for the presence of sulphate using barium salts.Chemicals: Any soluble sulphate salt (such as sodium sulphate), barium chloride 
+or barium nitrate solution, and dilute HCl.
+Apparatus : Beakers, test tubes, and test tube rack, 
+Procedure: Add some sodium sulphate solution to a test tube and acidify the solu -
+tion by adding a few drops of dilute HCl. Then add BaCl
+2 or Ba(NO3)2 solution 
+and note if a white precipitate is formed.Questions:
+1. Name the white precipitate formed?2. Why is it necessary to add a few drops of dilute HCl?3. Write a balanced chemical equation for the reaction.
+Write a laboratory report and present to the class
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+158Chemistry Grade 10 Important Inorganic Compounds
+Experiment 3.17
+Test for Carbonates and Hydrogen Carbonates
+Objective: To distinguish between carbonates and hydrogen carbonates
+Chemicals: Na2CO3, NaHCO3, dilute HCl, lime water
+Apparatus : Conical flasks, Beaker
+Procedure:1. Take 20 mL solution of Na
+2CO3 and add it to one conical flask and 20 mL 
+NaHCO3 solution to another. Add the same amount of dilute HCl to each of the 
+conical flasks; Fit a rubber stopper to which a delivery tube is inserted to each conical flask. Allow the gas produced to pass through lime water and observe the changes.2. Again take Na
+2CO3 solution in one conical flask and NaHCO3 solution in the 
+other. Add the same amount of CaCl2 solution to each of the conical flasks.
+Questions:1   What happened to the lime water in each case?2. Which solution formed a white precipitate upon the addition of CaCl
+2 solution?
+3. Write balanced chemical equations for all the reactions.Write a laboratory report and present it to the class.
+Experiment 3.18
+Test for Nitrates (Brown Ring Test)
+Objectives: To identify the presence of nitrate in a solution.
+Chemicals: Nitrate solution, iron (II) sulphate solution, concentrated H2SO4
+Apparatus : Test tube, test tube rack, beaker, 
+Procedure:Take 2 mL of nitrate solution in a test tube and add an equal volume of freshly prepared iron (II) sulphate solution. Hold the test tube in an inclined position and carefully pour concentrated sulphuric acid down along the inclined side of the test tube. The acid sinks to the bottom. Carefully observe the changes in test tube.
+Questions:
+1. Where is the brown ring formed?
+2. Write the chemical equation for the formation of the brown ring.3.What does the formation of brown ring in the solution indicate? Write a 
+laboratory report
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+159Chemistry Grade 10 Important Inorganic Compounds
+1.You are provided separate solutions of NaCl, HCl, NaOH and Phenolphtha -
+lein (Marked 1). All the solutions are colorless. How would you recognize the 
+solutions of acid, base and salt? 
+2. Suggest at least three methods for the preparation of salts.3. Classify the following salts as soluble or insoluble in water:
+a. NH
+4Cl
+b.K3PO4
+c. FeCO3
+d. AgCle.AgNO3
+f.CaCl2
+g.PbSO4
+h. Na2Si. CaSO4
+j. BaCO3
+4. Why do aqueous solutions of soluble salts conduct electricity?5. Which carbonates do not decompose on heating?6.Nitrates mostly decompose by heat to give metal oxide, nitrogen dioxide and 
+oxygen. Which nitrates do not give these products on heating?
+7.What reagents do you use to identify the presence of the following ions in 
+salts?a. Halide ions
+b.Fe
+2+ and Fe3+ ionc. Sulphate, SO42-  ions?Exercise 3.12
+Plant Nutrients
+By the end of this topic, students will be able to
+"explain the applications of some salts as fertilizers, pesticides and herbicides;
+"give examples of salts used for fertilizers, herbicides and pesticides.
+Form groups, discuss the following questions in class 
+and present it to the class. 1.Plants need nitrogen for their growth, and there is plenty of nitrogen in the air. If this is so, why do we apply nitrogenous fertilizers to the soil  to support plants growth?
+2.Some people prefer to eat organic food that has been grown without fertilizers and pesticides.  Does eating organic food overcome the problems caused by artificial fertilizers? 
+  Activity 3.22
+Essential plant nutrients could be either macronutrients or micronutrients , depending on 
+the amount required by plants.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+160Chemistry Grade 10 Important Inorganic Compounds
+Table 3.8 Essential plant nutrients 
+Macronutrients Micronutrients
+These are the elements required 
+in relatively large amounts by plants. These elements are nitrogen, phosphorus, potassium, calcium, magnesium, sulphur, carbon, hydrogen and oxygen.These are the elements required by plants in relatively small (trace) amounts. These elements are iron, cobalt, zinc, manganese, molybdenum, copper, boron and chlorine. The elements carbon, hydrogen and oxygen are obtained by plants from air and water. These are not considered as mineral nutrients.
+Nitrogen, phosphorous and potassium are said to be primary mineral nutrients. What are the roles of nitrogen, phosphorus and potassium in plant growth?
+Nitrogen (N)
+" is a very important plant nutrient and absorbed by plants in the form of nitrate ions (NO
+3–).
+" is utilized in the synthesis of amino acids, proteins, coenzymes and nucleic acids which are taking place in the growth and development of plants  
+" is also involved in the synthesis of chlorophyll to produce a deep green color.
+Phosphorus (P) " is absorbed by plants mainly in the form of H
+2PO4– and HPO32– in small amounts.
+" facilitates early growth and root formation, quick maturity and promotes seed or fruit production. 
+" has a role in the formation of some amino acids and proteins, coenzymes, nucleic acids and high energy phosphate compounds like Adenosine Triphosphate (ATP).
+Potassium (K)" is absorbed by plants in the form of the K
++ ion. 
+" is a component of enzymes that facilitate the process of photosynthesis , protein synthesis, and adjusts stomata movement.
+" is the most important ion in controlling the turgidity of plant cells.
+" increases in the solute potential (sap concentration) within the cells which leads to an increase in the amount of water that enters the cells osmotically. 
+1.What is the importance of the following elements for the growth of food crops?
+A. Nitrogen B.Phosphorus C. Potassium
+2. In what form do plants absorb these elements? 3.Why nitrogen is not absorbed by plants in the form of N
+2? And phosphorous 
+not in the form of P4?Exercise 3.13
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+161Chemistry Grade 10 Important Inorganic Compounds
+Fertilizers 
+Fertilizers are materials that are added to soils to increase the growth, yield or nutritional value of crops.   There are organic( natural) and synthetic (artificial) fertilizers.
+Organic (natural) fertilizers are fertilizers derived from animals and plants." Organic fertilizers provide readily available nutrients to plants after some period of decay and decomposition and can supply the elements nitrogen, phosphorus, potassium and various trace elements to the soil.
+" Synthetic (artificial) fertilizers contain nitrogen, phosphorous and potassium, and are known as complete fertilizers.  
+" A mixed artificial fertilizer may contain nitrogen, phosphorus and potassium. Such type of fertilizer is called a complete fertilizer. 
+" The term NPK is used to describe fertilizers containing the elements nitrogen, phosphorus and potassium.  
+Examples of artificial fertilizers are ammonium sulphate, (NH
+4)2SO4, potassium nitrate 
+(KNO3), ammonium nitrate (NH4NO3), and diammonium hydrogen phosphate, DAP 
+(NH4)2HPO4).The most important mineral nutrients that need to be added to the soil 
+are usually nitrogen, phosphorus and potassium. " All three elements are needed in large quantities. Commercial fertilizers are normally given a “grade”, which reflects the percentages they contain of N, P and K by dry weight. For example, a NPK fertilizer may be described as 10:10:10 indicating that there is 10% of each element in the fertilizer. 
+" The suitable proportions are best determined in relation to the tested fertility of the soil and the requirements of the particular crop that is being grown on it. This means fertilizers of the same composition are not used for different purposes. 
+" In nitrogen-deficient soil, a fertilizer containing a higher percentage of nitrogen than phosphorus and potassium must be used. In addition to this, all fertilizers are not used for the treatment of all kinds of soil. For example, ammonium sulphate is more suitable for use in basic soils than in acidic or neutral soils.
+1. Explain the terms mixed fertilizer , complete fertilizer and fertilizer grade
+2. Classify the following as organic or synthetic fertilizers:
+A. NH
+4NO3B.Urea C. (NH4)2SO4
+3. Can the same fertilizer be applied to all types of soil? Explain.Exercise 3.14
+Pesticides" Pesticides are chemicals that can be applied to crops to kill pests that affect plant growth and development. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+162Chemistry Grade 10
+Herbicides
+" Herbicides (weed killers) are chemicals used to manipulate or control undesirable plants. Some examples of herbicidal salts are: Common salt ( NaCl), copper sulphate ( CuSO
+4), sodium arsenite (NaAsO2), Ammonium sulphamate 
+(NH4SO3NH2),  sodium chlorate (NaClO3).
+Reading Assignment Read about the use of more salts as  pesticides and herbicides from a reliable source and present it to your class.
+Check List for Reference
+Key Terms of the Unit" Alkalis 
+" Acid salt 
+" Acidic oxide  
+" Acid, basic and 
+normal salt" Amphoteric oxide
+" Arrhenius acid  
+" Arrhenius base  
+" Basic salt 
+" Basic oxide 
+" Binary acid 
+" Concentrated acid 
+" Deliquescent 
+" Dissociation constant for water (kw) " Dilute acid 
+" Electrolyte 
+" Efflorescent 
+" Fertilizer 
+" Flame test 
+" Hygroscopic 
+" Litmus
+" Macronurient 
+" Molarity
+" Micronutrient 
+" Monoprotic acid 
+" Neutral oxide
+" Neutralization" Non-volatile acid 
+" Normal salt 
+" pH
+" Peroxide
+" pOH
+" Pesticide
+" Polyprotic acid  
+" Salt 
+" Strong acid
+" Strong base
+" Ternary acid  
+" Universal indicator
+" Weak acid
+" Weak base 
+Unit Summary
+"Inorganic compounds are those compounds that originate from mineral constituents 
+of the earth’s crust. Inorganic compounds may be classified as oxides, acids, bases and salts. 
+"Oxides are binary compounds consisting of oxygen and any other element. Most common oxides are classified as acidic, basic, amphoteric, neutral oxides and peroxides. Acidic oxides are oxides of non-metallic elements. Basic oxides are oxides of metals. These metal oxides which dissolve in water are also called basic anhydrides. Amphoteric oxides are those oxides which show the properties of both acids and bases. Neutral oxides are those oxides which do not show basic or acidic properties. Peroxides are oxides containing a peroxide (-O-O-) link and the oxidation state of oxygen is -1.
+"Arrhenius acids are substances that release hydrogen ions or protons in aqueous Important Inorganic Compounds
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+163Chemistry Grade 10
+solution. Arrhenius bases are substances that release hydroxide (OH–) ions in 
+aqueous solution. Strong acids and strong bases ionize almost completely in aqueous solution. Weak acids and weak bases ionize only slightly in aqueous solution. 
+"pH is the negative logarithm of hydrogen ion concentration pH = –log [H
++]. 
+pOH is the negative logarithm of hydroxide ion concentration pOH = –log[OH–].
+KW = [H+][OH–] = 1 × 10–14 at 25°C.
+pKw = pH+ pOH = 14 at 25°C
+"Salt is an ionic compound containing a cation derived from a base and anion derived from an acid. Salts may be classified as acidic, normal and basic salts. An acid salt is formed when ionizable hydrogen atoms of an acid are replaced partly by a metal ion or ammonium ion. A normal salt is formed when all ionizable hydrogen atoms of an acid are completely replaced by a metal or ammonium ion. A basic salt is a salt containing ionizable hydroxide ion.
+"Hygroscopic salt absorb water from the atmosphere. Deliquescent salt absorb water from the atmosphere and dissolve in the water absorbed to form solutions. Deliquescent salt absorb water from the atmosphere and dissolve in the water absorbed to form solutions. Efflorescent salt lose their water of crystallization to the atmosphere.
+"Plant nutrients are minerals required by plants for their growth and development.The elements plants need for their growth and development are classified as Macronutrients and micronutrients depending on the amount utilized by them. Fertilizers are natural products or synthetic chemicals that are added to the soil to increase its crop producing potential. Synthetic fertilizers are classified as nitrogen, phosphorus and potassium fertilizers. Pesticides are chemicals used in agriculture to kill pests that reduce crop yields.
+Review Exercises
+Part I: Match the substances in column X with those properties in column Y
+Column X     Column Y
+1. Apple (pH = 3.3)    A. Strongly Acidic2. Tomato (pH =4.4)   B. Strongly Alkaline
+3. Household ammonia (pH = 11.9) C. Neutral4. Distilled water (pH =7)   D. Weakly acidic    
+5. Hydrochloric acid (pH = 0.0)  E. Weakly alkaline 
+6. Grapes (pH = 4.5)  7. Milk of magnesia (pH = 10.5)8. Dish-washing powder (pH = 12)Important Inorganic Compounds
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+164Chemistry Grade 10
+Part II: Match the ions or molecules in column X with the correct test reagent in 
+column Y
+Column X    Column Y
+9. Iron (II) ion    a. Silver nitrate    10. Iodide ion    b. Acidified barium nitrate
+11. Sulphate ion    c. Heat with aluminium12. Carbon dioxide   d. Iron (II) sulphate & sulphuric acid
+13. Nitrate ion    e. Sodium hydroxide
+      f. Limewater
+Part III: Fill in the blanks by using the correct words /terms given in the brackets14. The pH value of an acid is ____ than 7. (greater/less)15.A solution is said to have ____ character when its pH value is greater than seven (basic/acidic)
+16. The pH value of a neutral solution is ____ at 298K. (Zero/7)17. The pH of 10
+-6 is ___ than the pH of 10-4 HCl. (greater/less)
+18. The pH of water decreases when ____ is dissolved in it. (NH3/SO2)
+19.The hydrogen ion concentration of a solution with pH = 3 is ___ than the solution with pH = 6. (greater/less)
+20. An acid produces ____ ions in aqueous solution. (Hydrogen/hydroxide)21.The concentration of H
++ ions given by HCl is ____ than that given by equal 
+concentration of CH3COOH (greater/less).
+Part IV: Select the correct answer from the given choices
+22. Which one of the following is a diprotic acid?
+a. Hydrochloric acidb.Phosphoric acidc. Sulfuric acidd. Acetic acid
+23. Which of the following is not the characteristic of an acid:
+a. An acid changes the color of an indicatorb.An acid has a bitter taste
+c. An acid ionizes in waterd. An acid produces hydronium ions in water
+24. When an acid reacts with an active metal:
+a. Hydronium ion concentration increasesb.Hydrogen gas is produced
+c. Metal forms anionsd. Carbon dioxide gas is produced
+25. The pH of a solution is 8. What is the pOH of the solution?
+a. 8b.8 × 10
+-7c. 6d. 2.1 × 10
+–6
+26.  Which of the following solutions would have a pH value greater than 7?
+a. [OH–] = 2.4 × 10–2 M
+b.0.0001 M HCl
+c. [H3O+] = 1.53 × 10–2 Md. [OH¯] = 4.4 × 10–9 MImportant Inorganic Compounds
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+165Chemistry Grade 10
+Part V: Give Short Answers
+27. The hydrogen ion concentration in an acidic solution is 10-5 ? What is the pH 
+value of the solution?
+28.An element combines with oxygen to form an oxide. This oxide dissolves in 
+water. This aqueous solution changes blue litmus to red. Write: A. the nature of the aqueous solution (alkaline or acidic) B. the nature of the element (metal or nonmetal) 
+29.What do you understand by the statement ‘acetic acid’ CH
+3COOH, is a monoprotic 
+acid?
+30. Write the balanced equations for the reaction of zinc oxide with: 
+a. hydrochloric acid 
+b.aqueous sodium hydroxide
+31.How many times will the hydrogen ion concentration change when the pH value 
+of an aqueous solution is changed from 6 to 5?
+32.Write the balanced chemical equations for the preparation of the following salts:
+a. A soluble sulphate by the action of an acid on a metal
+b.A soluble sulphate by the action of an acid on an insoluble metal oxide
+c. An insoluble sulphate by the action of an acid on another salt
+33. Calcium oxide reacts with hydrochloric acid to form calcium chloride and water.
+a. Write a balanced equation for this reaction.
+b.Farmers often add calcium oxide to the soil. Explain why they do this. 
+34.Fertilizers are spread on fields by farmers.
+a. Why do farmers use fertilizers?
+b.State the names of three elements most commonly found in fertilizers.
+c.Ammonium sulphate is a fertilizer. Describe how you can make ammonium sulphate in the laboratory from aqueous ammonia and sulphuric acid.
+d.Ammonium nitrate is also a fertilizer. Write a word equation to show how ammonium nitrate can be produced.
+35.State the names of a suitable acid and alkali you can use to make each of the 
+following fertilizers: 
+a. Ammonium sulphate 
+b.Potassium phosphate
+c. Ammonium nitrate
+36.A classmate states, “All compounds containing H atoms are acids, and all 
+compounds containing OH groups are bases.” Do you agree? Give examples and explanations.Important Inorganic Compounds
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+UNIT/gid00021
+Unit Outcomes 
+At the end of this unit, you will be able to
+"describe energy changes in chemical reactions;
+"describe how a chemical reaction produces electric current and how electricity 
+brings about a chemical reaction in electrochemical cells;
+"distinguish the difference between metallic conduction and electrolytic conduction; 
+"develop skills in writing the oxidation half-reaction, reduction half-reaction and cell reaction for the electrolysis of molten electrolytes that occur in electrolytic cells;
+"describe the three types of Voltaic cells;
+"explain the difference between electrolytic cells and voltaic cells and
+"demonstrate scientific inquiry skills: observing, classifying, comparing and contrasting, inferring, predicting, communicating, measuring, asking questions, interpreting data, drawing conclusion, applying concepts, relating cause and effect and problem solving.ENERGY CHANGES AND ELECTROCHEMISTRY
+Energy Changes and Electrochemistry
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+167
+1.Describe the different types of chemical reactions 
+and their characteristics. 
+2.Argue for or against this idea “without energy, there is no development!”
+3.Describe the energy sources of our country Ethiopia? Compare their relative importance to the country’s development. Which one is the principal source? Which one is the most important source that is underutilized? What are the different forms of energy contained in each of these sources?
+4.Discuss the relevance of hydroelectric dams such as the GERD (The Grand Ethiopian Renaissance Dam) to the country’s development vis-à-vis climate change? What energy changes are involved? What about batteries? How do they generate electrical energy and how light bulbs convert it into light? Can you make a battery? Some people do not want to think about these types of questions. They just spend money to buy one and gratify their needs. But others are very curious to learn new things and want to create their own device named in honor of their names (Made by Mr/Miss “X”). Which category are you from?   Start-up Activity
+4.1 Introduction
+At the end of this section, students will be able to describe energy changes in chemical reactions.
+1.We feel warm when we stand in the sunlight. Discuss the reason.
+2.Your body sweats when you take a hot shower after an intensive physical exercise?
+3.Why do you burn wood, or charcoal at your home? What energy change is involved?
+4.The major component of dynamite is nitroglycerin, a very unstable material, mixed with diatomaceous earth. What type of energy change occurs when dynamite explodes?
+  Activity 4.1 Energy Changes and Electrochemistry 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+168Chemistry Grade 10 Energy Changes and Electrochemistry 
+You have studied in unit 1 that chemical reactions almost always involve energy 
+change. This means, the energy of the reaction mixture is different before and after the reaction. For example, coke is mainly carbon, and the combustion of carbon in oxygen, which can be represented by the chemical equation
+  C(s) + O
+2(g) → CO2(g)
+results not only in the formation of gaseous carbon dioxide, but also in the release 
+of energy in the form of heat and light. During this process, the chemical energy contained in fossil fuels is converted into heat and light energy. Similarly, natural gas (principally methane, which has the formula CH
+4) bums in oxygen
+  CH4(g) + O2(g) → CO2(g) + 2H2O(g)
+gives not only the gaseous products carbon dioxide and water, but energy in the form 
+of heat and light.
+To study the energy change, (E), involved in chemical reactions like the combustion 
+reaction we have just cited, scientists conceptually divide the universe into two: the system (the part being studied) and the surroundings (everything else). 
+  Universe = System + SurroundingA system is part of the universe that is being studied.  Surrounding is anything else 
+than the system in the universe. Each particle in a system under investigation, such as a reaction mixture in a test tube, has potential energy and kinetic energy , and the sum 
+of all these energies is the internal energy, E of the system. 
+Internal energy of a system is the sum of potential energy and kinetic energies of the 
+components of the system.
+  (Internal Energy)
+system = (potential energy + kinetic energy)system
+Potential energy is stored energy. It is stored in chemical bonds. Kinetic energy is the 
+energy due to motion. It causes work to be done through movement. When the reactants in a chemical system change to products, the system’s internal 
+energy is changed. This change, E, is the difference between the internal energy 
+after the change (E
+final) and before the change (Einitial):
+		 E = Efinal – Einitial = Eproducts - Ereactants                 
+Where (Greek delta) means “change (or difference) in” and refers to the final state 
+minus the initial state. Thus, E is the final quantity of energy of the system minus the initial quantity. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+169Chemistry Grade 10 Energy Changes and Electrochemistry 
+Note that the total energy of the universe remains constant. When the system loses 
+a certain amount of energy, the surrounding gains the same amount of energy. This means, energy is simply being exchanged between the two components of the universe keeping the total energy of the universe constant ( Figure 4.1 ). 
+Temperature 
+Temperature 
+Figure 4.1 Energy exchange between system and surrounding. 
+Energy transferred from system to surroundings or vice versa appears in two forms: 
+heat and work. For instance, the various chemicals that make up gasoline contain a large amount of chemical (potential) energy that is released when the gasoline is burned in a controlled way in the engine of the car. The release of that energy does two things: some of the potential energy is transformed into work, which is used to move a car; at the same time, some of the potential energy is converted to heat and makes the car's engine very hot. Therefore, the energy changes of a system occur as either heat (q) or work (w), or some combination of both.
+		 E = q + w
+4.1.1 Exothermic and Endothermic Chemical Reactions
+At the end of this section, students will be able to
+"define endothermic reaction;
+"describe endothermic reaction;
+"define exothermic reaction;
+"describe exothermic reaction;
+"elucidate endothermic and exothermic reactions using diagrams; 
+"do simple experiment to demonstrate exothermic and endothermic reactions.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+170Chemistry Grade 10 Energy Changes and Electrochemistry
+1.From your discussion on Activity 4.2, you can 
+conclude that reactions that cause the surrounding to heat up are called heat releasing reactions and the process is exothermic. Reactions that take up energy from the surrounding such as the reaction flask are called heat absorbing and the process is endothermic. Based on this information, discuss whether energy (in the form of heat) is released or absorbed during 
+a.baking of bread (consider the heat of stove before and after the cold dough is loaded) 
+b.cooking food 
+c.burning of wood and then classify each of them as exothermic or endothermic.
+What other processes can you cite from your daily life experience that either releases heat or absorbs heat?2.Is photosynthesis an endothermic or exothermic reaction? Write the balanced equation and draw an energy diagram indicating all the necessary information. Repeat this activity for respiration.
+  Activity 4.2 
+All of the combustion reactions mentioned in the previous section release energy in the form of heat. Such reactions are described as being exothermic (from the Greek exo 
+meaning outside and therme meaning heat). One of the examples cited earlier is the 
+combustion of coke in oxygen, which obviously results in the release of a considerable amount of energy. Similarly, although on a much more modest scale, when NaOH dissolves in water, the test-tube becomes warm. In other words, the process results in a temperature rise. This observation indicates that the dissolving process for NaOH is also exothermic; that is, it is accompanied by the release of energy, which heats up the solution. 
+  NaOH(s) → Na
++(aq) + OH¯(aq)
+The other is the reaction between calcium chloride and water: 
+  CaCl2(s) + 2H2O(l) → Ca(OH)2(aq) + 2HCl(g)  + heat
+In this case too, heat is released during the reaction, elevating the temperature of the 
+reaction mixture, and thus the reaction flask becomes hot. But, when potassium nitrate, KNO
+3, dissolves in water, the mixture gets colder. This process can be represented by 
+the following equation:  
+                    H2O  KNO3(s) + Heat  K+ (aq) + NO3¯(aq)
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+171Chemistry Grade 10 Energy Changes and Electrochemistry
+Reactions like this are described as being endothermic (from the Greek endo meaning 
+within). 
+To study whether the energy being released or absorbed during a chemical reaction, 
+we need to set the temperature and pressure constant. Thus, if a reaction takes place at constant temperature and pressure , the heat transferred is called the enthalpy of 
+reaction, and this is denoted by the symbol H:
+H=H
+Products_ Hreactants
+For an exothermic reaction: H is negative, H < 0. 
+For an endothermic reaction: H is positive, H > 0.
+The relative energies of reactants and products in exothermic and endothermic 
+reactions can be represented as shown schematically in Figure 4.1 a and b, respectively.
+Reactants enthalpy level 
+Reaction progress Reaction progress Reactants enthalpy level Reactants (a) (b)Enthalpy
+Enthalpy Reactants Products enthalpy level 
+Products enthalpy level Products 
+Products H > 0 H < 0
+Figure 4.1  Enthalpy diagram for (a) exothermic reactions (b) endothermic reactions.
+The device used to measure the heat released (or absorbed) by a chemical reaction 
+is called calorimeter . To find the energy change during chemical reaction, we measure 
+the change in temperature and determine the quantity of heat released or absorbed 
+using the following relation:
+q ∝ ΔT or q = con stant x ΔT or q/ΔT = constant
+The proportionality constant in the above equation is called heat capacity . Every 
+object has its own heat capacity. Heat Capacity of a substance is defined as the 
+quantity of heat required to change its temperature by 1 K. 
+  Heat capacity = q/ΔT
+The unit of heat capacity is Joule per Kelvin (J/K). Heat capacity is related to a 
+substance’s ability to retain heat and the rate at which it will heat up or cool down. For 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+172Chemistry Grade 10 Energy Changes and Electrochemistry
+example, a substance with a low heat capacity, such as iron, will heat and cool quickly, 
+while a substance with a high heat capacity, such as water, heats and cools slowly.
+A related property is specific heat capacity (c). Specific heat capacity (c) of a 
+substance is defined as the quantity of heat required to change the temperature of 1 
+gram of the object by 1 K:
+  Specific heat capa city (c) = (Heat capacity)/mass = q/(mass x ΔT)
+If we know c of the object being heated (or cooled), we can measure the mass and the 
+temperature change and calculate the heat absorbed (or released):
+  q = c x mass x ΔT
+Notice that metals have relatively low values of c and water has a very high value: for 
+instance, it takes over 30 times as much energy to increase the temperature of a gram of water by 1 K as it does a gram of gold. This is one of the properties that make water unique and responsible for its use as a coolant in car radiators and in industries
+1. Where does the energy released during chemical reaction come from?2.How is the energy that you get from food stored in your body? How is it supplied to the cellular process in your body when needed?
+3. Explain the energy changes involved when
+a.quicklime or calcium oxide (CaO) reacts with water to form slaked lime [Ca(OH)
+2]?
+  CaO(s) + H2O(l) → Ca(OH)2 (aq)
+b.limestone (CaCO3) decomposes to give quicklime (CaO)
+c. nitroglycerine (major component of dynamite) decomposes
+4C3H5 (NO3)3(l) → 12CO2(g) + 10H2O(g) + O2 (g) + 6N2 (g) 
+Is it exothermic or endothermic? Explain! Draw an enthalpy diagram for each of 
+these three reactions.
+4.On a hot summer day the water in a lake stays cool even though the air above it heats quickly, and the water stays warm at night after the air has cooled. Can you explain this? 
+5.Have you encountered an earthen stove “Injera Mitad” that takes longer time to feel hot? Explain why. Which stove stays warm for longer time after the heat source is disconnected, the one heats up quickly or slowly? 
+6.What property of substance is responsible for the observations in Q1 and Q2?Exercise 4.1
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+173Chemistry Grade 10 Energy Changes and Electrochemistry
+4.1.2 Importance of Chemical Changes
+At the end of this section, students will be able to discuss the importance of chemical 
+changes in the production of new substances and energy.
+1.Discuss the importance of chemical changes in your 
+life process. Consider, for instance, oxidation of glucose in your body cells. The photosynthesis and combustion reactions, the digestion, etc. Do you think life is possible without chemical reactions or chemical changes?
+2.Can you mention some pharmaceuticals and their use? How are they made?
+3.What two major uses of chemical reactions or changes 
+can you suggest from the above discussion? 
+  Activity 4.3 
+Chemical reactions are the most important types of events in the universe. It's through chemical reactions that plants grow, produce fruit, and become compost for new plants. It's because of chemical reactions that human beings (and all other animals) reproduce, digest, grow, hear, and think. Chemical changes are involved during digestion and respiration. You get energy because of respiration. You get food because of the chemical change called photosynthesis. Therefore, the two principal advantages of chemical changes are production energy and useful substances.
+Experiment 4.1 
+Energy Changes in Chemical Reactions
+Objective: To explore the energy changes involved in the reaction between acetic 
+acid and baking soda.Materials needed:  Plastic cup or beaker, vinegar (acetic acid), baking soda 
+(NaHCO
+3), spatula/teaspoon, thermometer. 
+Procedure:Pour about 10 mL of vinegar into a small plastic cup. Then, place a thermometer into the vinegar. Record the initial temperature (T
+i).
+While the thermometer is in the cup, add about ½ teaspoon of baking soda to the cup.Watch the thermometer for any change in temperature. After it has stopped changing, record the final temperature (T
+f).
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+174Chemistry Grade 10 Energy Changes and Electrochemistry
+1.Based on your observations of the baking soda and vinegar reaction, is the 
+reaction exothermic or endothermic?
+2. Use energy level diagram to visualize the energy changes3.Repeat the above steps using calcium chloride instead of vinegar. Briefly, dissolve 1/2 a spoonful of calcium chloride in 20 mL water in a test tube. Record your observation. In a second test tube, dissolve equal amount of baking soda and record your observation. Allow both solutions to cool to equal (room) temperature and record this temperature as Ti. Mix the two solutions in a plastic cup/beaker and record the final temperature.
+4.Discuss the endothermic and exothermic processes observed in the above procedure. 
+5.Write the reaction equation and use energy level diagram to visualize the energy changes during reaction of calcium chloride and baking soda.
+4.2 Energy Changes in Electrochemistry 
+At the end of this section, students will be able to
+"describe electrochemistry;
+"define electrical conductivity;·
+"explain metallic conductivity;
+"explain electrolytic conductivity;
+"differentiate between metallic conduction and electrolytic conduction. 
+4.2.1 Electrochemistry
+1.You know that metals are good conductors of heat and 
+electricity. But what is electricity? What are the sources? What is the analogy between electricity and water flow via tap to your home? How do metals conduct electricity? Can you suggest other materials that conduct electricity?
+2.What do substances need to possess in order to 
+conduct electricity?
+3.What about batteries such as hand batteries and 
+car batteries? What is the energy change involved? 
+4.Can you suggest devices that generate electrical 
+energy? Discuss the uses of electrical energy?   Activity 4.4
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+175Chemistry Grade 10 Energy Changes and Electrochemistry
+Electrochemistry is a field of chemistry that deals with the interconversion of electrical
+energy and chemical energy. It is concerned with the use of electricity to cause chemical reactions (changes) to happen or generating electricity from chemical reactions. Thus, electrical energy and chemical energy are inter-convertible.
+4.2.2 Electrical Conductivity
+Why do metals conduct electricity? Do you know any non-metal which conducts electricity? Electrical conductivity is the ability of a substance to transmit electricity. The materials that allow the passage of electricity through them are called electrical conductors. Electricity is constituted by movement of charged particles or charge carriers. Electrons carry negative charge whereas ions may carry positive (cations) or negative (anions) charges. Depending on the nature of the particles responsible for the flow of electric charges through conductors, electrical conductivity can be classified as metallic conductivity and electrolytic conductivity.
+a) Metallic conductivity
+Electrical conductivity in metals is a result of the movement of electrically charged particles called electrons. The atoms of metal elements are characterized by the presence of valence electrons; which are electrons in the outer shell of an atom that are free to move about. It is these "free electrons" that allow metals to conduct an electric current. Because valence electrons are free to move, they can travel through the metallic lattice that forms the physical structure of a metal. Silver is the best electrical conductor.
+Metallic lattice can be described as an atmosphere of positive ions in a sea of mobile 
+electrons (Figure 4.3 ). The electrons entering the metal displace (repel) the freely 
+moving electrons at the point of entry. The displaced electrons occupy new positions by pushing neighboring electrons ahead. This will continue until electrons are forced out of the wire at the opposite end. The charge carriers in metallic conduction are electrons. Hence, metallic conductivity is also called electronic conductivity.
+Free electron Nucleus Electrons 
+outElectrons 
+in
+Figure 4.3  Electrical conductivity in metals.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+176Chemistry Grade 10 Energy Changes and Electrochemistry
+Non-metals are generally non-conductors of electricity, because they do not have 
+freely moving electrons. Graphite is a form of carbon in which the carbon atoms are 
+bonded in trigonal planar fashion to the three other carbon atoms, to form inter-connected hexagonal rings , as shown in Figure 4.4. Electrons move freely through the 
+hexagonal layers , making graphite a good conductor of electricity.
+Covalent bonds 1.42A
+3.35AVan der waals forces
+Figure 4.4  Structure of graphite.
+b) Electrolytic conduc tivity
+Electrolytes are substances that transmit electricity in a molten state or in aqueous solution. Unlike metallic conductivity, the conductivity of electrolytic solutions depends on the type and concentration of ions in solution. Based on their degree of ionization or the extent to which they produce anions and cations, electrolytes can be classified as strong electrolytes or weak electrolytes. Recall from unit 2 that many ionic compounds such as NaCl dissociate completely in water and are therefore called strong electrolytes. 
+  NaCl (aq) → Na
++ (aq)  +  Cl_ (aq)
+When electrical potential is applied through an electrolyte solution, the positive ions 
+(cations) move in one direction and the negative ions (anions) move in the opposite direction. This movement of ions through the electrolyte, brought about by the application of electricity, is called electrolytic conductivity. Hence, the charge-carriers in electrolytic conductivity are ions (anions and cations). That is electrolytic conductors are also called ionic conductors. 
+Difference  between metallic conduction and electrolytic conduction
+Metallic Conduction Electrolytic Conduction
+Conduction through metals is due to 
+the movement of electrons.Conduction through electrolytes is due to the movement of ions.
+No change in the chemical properties of the conductors is observed.It may cause chemical decomposition of the electrolytes.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+177Chemistry Grade 10 Energy Changes and Electrochemistry
+It does not involve any transfer of 
+matter.It involves the transfer of matter as ions.
+The resistance of metals is due to obstacles of vibrating kernels of metal atoms.The resistance of electrolytic solutions is due to factors like concentration inter-ionic attractions, the viscosity of solvent etc.
+It decreases with the increase in temperature.It increases with the increase in temperature.
+Note that metallic conduction is a physical process , but electrolytic conduction is 
+accompanied by chemical changes that occur on the surface of the electrodes.
+Experiment 4.2
+Conductivity of MaterialsObjectives: To test the conductivity of substances and classify them as strong, weak or non-conductors of electricity.Apparatus : Copper wire, light bulb, power supply (DC) or dry cells, scotch tape, 
+distilled water, 1M NaCl solution, 1 M HCl, 1 M acetic acid solution, 1 M sugar solution, pencil graphite, wood, magnesium ribbon and an iron nail.
+Procedure:
+1. Arrange the conductivity apparatus as shown in Figure 4.5 .
+Figure 4.5  Conductivity apparatus for (A) metals and (B) electrolytic solution
+2.Pour some distilled water in the beaker (as illustrated in Figure 4.5B), dip the 
+electrodes into the water and turn the switch on. Set-up the experiments to 
+test the conductivity of pencil graphite, magnesium ribbon, wood or an iron 
+nail as illustrated in Figure 4.5A. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+178Chemistry Grade 10 Energy Changes and Electrochemistry
+3.Repeat the experiment with separate solutions of table salt, copper sulphate, 
+hydrochloric acid, sodium hydroxide, acetic acid, ammonia solution, molten 
+lead bromide and sugar solution. (use 1.0 M solutions of each).
+Observations and Analysis:
+a. Does the bulb glow when the switch is turned on?b.Solutions of which substances make the bulb glow and not glow, when you turn on the switch?
+c.Solutions of which substances make the bulb to glow with a: i) bright light? ii) dim light?
+d.Classify the substances used in this experiment as strong conductors, weak conductors and non-conductors by completing the table below:
+Strong Conductors Weak Conductors Non-conductors
+e.Which substances in the experiment are used as: i strong electrolytes ii weak electrolytes
+Repeat the experiment with lemon juice, and orange juice and answer the questions.
+Note that if the solution contains ions, current flows through the circuit and the 
+light bulb glows. The brightness of the bulb increases with current strength, which 
+increases with the number of ions in the solution. Strong electrolytes dissociate completely and produce more ions in solutions brighter light than weak electrolytes that dissociate slightly. 
+f.In your experiment using set-up 4.5 A, what observations did you make? In which case did the bulb glow and in which case did not? Pencil graphite, magnesium ribbon, wood, or iron nail?
+Write a laboratory report on what you have observed and submit to your teacher.
+1.Na and Ca metals conduct electricity in solid state but NaCl and CaCl
+2
+conduct electricity only when they are dissolved in water or when they are in 
+the molten form, but not in the solid state. Why?
+2.Why are solutions of strong electrolytes better conductors of electricity than weak electrolytes?
+3.Which of the following substances are capable of conducting electricity? Give reason for your answer.
+a. Iron b.Sulphurc. Solid sodium chloride
+d. Molten calcium chlorideExercise 4.2
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+179Chemistry Grade 10 Energy Changes and Electrochemistry
+Electrolytes and Nonelectrolytes
+At the end of this section, students will be able to
+"distinguish between strong and weak electrolytes;
+"use conductivity apparatus to test conductivity of substances.
+All solutes that dissolve in water fall into one of two categories: electrolytes and 
+nonelectrolytes. An electrolyte is a substance that, when dissolved in water, results in asolution that can conduct electricity. In order to conduct a current, a substance must contain mobile ions. All ionic compounds are electrolytes. When ionic compounds dissolve, they dissociate (break apart) into ions, which are then able to conduct a current. Thus, we can represent sodium chloride dissolving in water as
+  NaCl(s) 
+ Na+(aq) + Cl-(aq)H2O
+What this equation says is that all the sodium chloride that enters the aqueous solution 
+ends up as Na+ and Cl- ions; there are no undissociated NaCl units in solution.
+Even insoluble ionic compounds, such as CaCO3, are considered electrolytes because 
+they can conduct a current in the molten (melted) state. Some polar covalent compounds such as acetic acid (CH
+3COOH) that can, at least partially, dissociate into ions when 
+dissolved in water are also classified as electrolytes.  
+A nonelectrolyte is a substance that does not conduct an electric current in either 
+aqueous solution or in the molten state. Most polar covalent compounds, such as table sugar (C
+12H22O11), and all nonpolar covalent compounds are good examples of 
+nonelectrolytes. When these compounds dissolve in water, they do not produce ions. An equation can still be written that simply shows the solute going into solution without dissociating into ions. For example, the process of dissolving sucrose in water can be written as follows:
+C12H22O11(s) → C12H22O11(aq)Individual C12H22O11
+molecules in solution
+C12H22O11
+crystal
+Strong and Weak ElectrolytesA strong electrolyte is a substance that when dissolved in water dissociates completely into its ions. All ionic compounds are strong electrolytes. NaCl is a good example. A weak electrolyte is a substance that when dissolved in water dissociates partially into its ions. For example, acetic acid (CH
+3COOH)- the compound in vinegar and nitrous 
+acid (HNO2) only partially ionizes into respective ions (H+ and CH3COO_ or H+ and 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+180Chemistry Grade 10 Energy Changes and Electrochemistry
+NO2_) when dissolved in water. Aqueous nitrous acid is composed of only about 5% 
+ions and 95% intact (undissociated) nitrous acid molecules. Table 4.1shows some strong 
+and weak electrolytes.
+  HNO2(aq) ⇌ H+(aq) + NO2-(aq)
+  CH3COOH(aq) ⇌ H+(aq) + CH3COO- (aq)
+Table 4.1: Classification of Solutes in Aqueous Solutions. 
+Strong Electrolyte Weak Electrolyte Nonelectrolyte
+HCl CH3COOH (NH2)2CO (urea)
+HNO3HF CH3OH (methanol)
+HClO4HNO2C2H5OH (ethanol)
+H2SO4NH3C6H12O6 (glucose)
+NaOH H2O C12H22O11 (sucrose)
+Ba(OH)2
+Ionic compounds 
+Experiment 4.3
+The Distinction Between Electrolyte and Nonelectrolyte Solutions
+Objective: To distinguish between electrolyte and nonelectrolyte solutions
+Chemicals : Water, Table salt
+Apparatus : power source, wires, beaker (or water glass) and light bulb
+Procedure1. Construct the light bulb experiment as shown in Figure 4.6.2. Fill the glass with water as shown in the Figure. Write your observation3.Add a tea spoonful of fine NaCl in the water and let it dissolve. Make sure the circuit is complete. Write your observation.
+Caution : Bare wires are a hazard! Skin will conduct an electric current and 
+will cause a shock. Do not touch the bare part of the wires when the light-bulb apparatus is plugged in.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+181Chemistry Grade 10 Energy Changes and Electrochemistry
+Question
+In which case does the light bulb glow? With just water or salt dissolved in it?
+Explain your observations. Try the same experiment using table sugar (sucrose) instead of salt. Apply the concept to test whether the drinking water in your locality is salty or potable. Note that the brightness of the light bulb depends on the concentration of the salt.
+Figure 4.6  Setup for electrolytic conductivity test.
+1. Classify each of the following as electrolytes or nonelectrolytes: 
+a. air b.pure water 
+c. saline solution   d. lemon water   
+e.sulphuric acid
+f.nitric acidg.ammonia 
+solution 
+2.The diagrams show three compounds (a) AB
+2, (b) AC2, and (c) AD2 dissolved 
+in water. Which is the strongest electrolyte and which is the weakest? (For simplicity, water molecules are not shown.) 
+(a) (b) (c) Exercise 4.3
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+182Chemistry Grade 10 Energy Changes and Electrochemistry
+4.3 Electrochemical Cells
+At the end of this section, students will be able to describe the importance of 
+electrochemical cells in daily life (Votic cell and car battery).
+Consider the catabolic biochemical reactions such 
+as breakdown of glucose during respiration which 
+releases energy (exothermic) and anabolic reactions 
+such as joining of amino acids to form proteins (endothermic). Where do you think these reactions take place in your body? What about photosynthesis in plants? Where does it take place? Can you draw analogy between the places (setup) where biochemical reactions take place in your body to the setup for redox reactions to produce electrical energy or produce useful compounds? 
+  Activity 4.5
+An electrochemical cell is a system that incorporates a redox reaction to produce 
+or use electrical energy. It consists of two or more electrodes that are dipped into an electrolyte (see Figure 4.7 & 4.10 ) in which a chemical reaction either uses or 
+generates an electric current, and the electronic circuitry for controlling and measuring the current and the potential. Electrodes are strips of metal or graphite that allow electrons to leave or enter the electrolytes. They can be chemically active or inert. Active electrodes directly take part in reactions. Examples include zinc and magnesium. Inert electrodes do not directly take part in chemical reactions. They only serve to transfer electrons. Examples include platinum and graphite. 
+Depending on the purpose or the types of  reactions taking place, electrochemical cells 
+are divided into two. These are Galvanic (Voltaic) cells and Electrolytic cells. 
+4.3.1 Galvanic (Voltaic) Cells
+What is a galvanic cell?
+A Galvanic cell or voltaic cell  is an electrochemical cell in which chemical energy 
+contained in reactants is converted into electrical energy via a spontaneous redox reaction. Galvanic cell or voltaic cell was so named after the Italian scientists Luigi 
+Galvani and Alessandro Volta, who constructed early versions of the device. 
+Examples include the cells we use in our hand batteries (dry cells), flashlight batteries, 
+wrist watches, cameras and car batteries. The redox reactions between the chemicals 
+in these cells are responsible for the generation of electricity. The reaction proceeds on its own and without any external influence. This type of chemical reaction is called spontaneous redox reaction. Therefore, Galvanic cells are electrochemical cells in 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+183Chemistry Grade 10 Energy Changes and Electrochemistry
+which spontaneous redox reactions generate electricity. Galvanic cells are classified 
+into primary cells, secondary cells, and fuel cells . Here, we shall be concerned with 
+the primary and secondary cells only. Fuel cells will be discussed in grade 11. Both primary and secondary cells are batteries that store electrical energy in the form of chemical energy. The chemical energy is converted into electrical energy when we the battery is in use.  
+Primary Cells (Battery Cells)
+Primary cells or also known as battery cells are galvanic cells that are not rechargeable. This is because once the chemicals in the cells that serve as reactants are completely used up, it is not possible to recover them by charging the cells. Examples of primary cells include Daniell’s cell and zinc-carbon (Leclanche) dry cells. The common feature of all Galvanic cells is that they contain two electrodes in contact with an electrolyte. The electrolyte in a Galvanic cell can be in the form of a solution (Daniell cell) or a paste (Leclanche cell). The cells containing electrolytes in the form of solution are called wet cells, and those containing electrolytes in the form of paste are called dry cells.
+An example of a wet primary cell is the Daniell cell. It consists of a zinc strip placed 
+in ZnSO
+4 solution in one compartment and a copper strip placed in copper sulphate, 
+CuSO4, solution in another compartment (Figure 4.7 ). 
+The anode (zinc)electrode loses its massThe cathode (copper) electrode gains mass
+Figure 4.7  The Daniell Cell.
+Each compartment is called a half-cell, and the reactions occurring in each compartment are called half-cell reactions. The solutions in the two compartments are linked by a 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+184Chemistry Grade 10 Energy Changes and Electrochemistry
+salt bridge. The salt bridge consists of a delivery tube filled with warm mixture of 
+conc. KCl solution and agar solution, which is then allowed to cool so that it sets in the form of a gel.
+In the anode compartment, the zinc atoms from the zinc electrode lose two electrons 
+each and become zinc ions, Zn
+2+. The ions enter into the solution, and the electrons 
+remain on the electrode and flow through the external wire to the copper electrode (see anode half reaction below). This situation causes the zinc electrode to be negative and the solution to have an overall positive charge. In the process the anode (zinc) electrode loses its mass. That is why the anode of the galvanic cell is sometimes called sacrificial electrode. On the other hand, in the compartment containing the copper electrode, copper ions, Cu
+2+, from the solution move to the cathode and gain two 
+electrons each, to become copper atoms and deposit on the surface of the copper electrode (see cathode half reaction below). This condition causes the electrode to be positive and the solution to have a negative charge. In addition, the cathode continuous to grow in mass as more and more copper deposits on it. The electron flows from anode to cathode in the external conductor.
+The half-cell reactions and the cell reaction in Daniell cells are represented asAnode reaction: Zn(s) → Zn
+2+(aq)  +  2e-
+Cathode reaction: Cu2+(aq) + 2e- → Cu(s)
+Overall (cell) reaction: Zn(s)  +  Cu2+(aq) → Zn2+(aq) + Cu(s)
+Due to the oxidation-reduction reaction in the cell, the Daniell cell generates electricity.
+What is the purpose of the salt bridge in Figure 4.7 ? From the preceding discussion, 
+it is clear that the solution in which the zinc electrode is placed has an overall positive 
+charge while the solution in the copper compartment has a negative charge. Unless the two solutions are neutral, the cell cannot produce electricity. Thus, the purpose of the salt bridge is to maintain electrical neutrality between the two solutions. 
+Although, wet cells like the Daniell cell can serve as a source of electricity, they are not 
+portable since they contain solutions. Due to this practical problem of using wet cells, dry cells were developed. In a dry cell, a moist electrolyte paste is used instead of solutions. This cell was invented by Georges Leclanche, a French chemist.
+We commonly use Leclanche cells as convenient, portable sources of energy. Flashlights 
+and radios are examples of devices that are often powered by the zinc–carbon, 
+or Leclanché, dry cell ( Figure 4.8 ). This voltaic cell has a zinc can as the anode; a 
+graphite rod  in the center, surrounded by a paste of manganese dioxide, ammonium 
+and zinc chlorides, and carbon black, as the cathode . It produces electricity as a result 
+of a spontaneous redox reactions: 
+Anode reaction: Zn(s) → Zn
+2+(aq)  +  2e-
+Cathode reaction: 2NH4+(aq) + 2MnO2(s) + 2e →  Mn2O3(s)  +  H2O(l)  +  2NH3(aq)
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+185Chemistry Grade 10 Energy Changes and Electrochemistry
+Overall (cell) reaction: 
+Zn(s) + 2NH4+(aq) + 2MnO2(s) → Zn2+(aq) + Mn2O3(s) + H2O(l) + 2NH3(aq)
+Figure 4.8  Zinc-carbon dry cell (Leclanche cell).
+A buildup of ammonia gas around the cathode may disrupt the current. However, this is 
+prevented by the reaction between Zn2+ and NH3 to form a complex ion, [Zn(NH3)2]2+
+which crystallizes as a chloride salt through reaction with chloride (spectator ion).
+  Zn2+(aq) + 2NH3(aq) + 2Cl_(aq) → Zn(NH3)2Cl2(s)
+Therefore, the overall reaction occurring in a Leclanche cell is often written as:  Zn(s) + 2NH
+4Cl(aq) + 2MnO2(s) → Zn(NH3)2Cl2(s) + Mn2O3(s) + H2O(l)
+The voltage of this dry cell is initially about 1.5 V, but it decreases as current is drawn 
+off. The voltage also deteriorates rapidly in cold weather. There are other examples 
+of dry cells, such as the alkaline dry cell, silver oxide cell, and copper oxide cell which are left for interested students to read.
+A voltaic cell is constructed from a half-cell in which a cadmium rod is dipped 
+into a solution of cadmium nitrate, Cd(NO
+3)2, and another half-cell in which a 
+silver rod is dipped  into a solution of silver nitrate, AgNO3. The two half-cells are 
+connected by a salt bridge. Silver ion is reduced during operation of the voltaic cell. 
+"Draw a sketch of the cell. 
+"Label the anode and cathode, showing the corresponding half reactions at these electrodes. 
+"Indicate the electron flow in the external circuit (with a lightbulb) and the signs of the electrodes. Exercise 4.4
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+186Chemistry Grade 10 Energy Changes and Electrochemistry
+Project 4.1
+Constructing Simple Galvanic CellsObjectives: To construct a simple Galvanic cell.Direction : Construct a modified zinc-carbon dry cell (Leclanche cell) using your own 
+materials. Write a pr oject report and submit to your teacher. Demonstrate the functioning of 
+the developed cell in the class. Your report should describe the basic features of the developed cell. The equations for the redox reactions involved. The half-reaction reactions and where (the electrode) they occur. Compare the performance (light intensity) of your cell with the commercially available cells.
+b.Secondary (Rechargeable) Cells 
+Unlike primary cells, secondary cells are rechargeable. The electrode reactions can 
+be reversed, and the original reactants can be regenerated. This can be achieved by passing a direct current through the cell. The process is called charging or recharging. A secondary cell needs to be recharged when it stops producing electricity. A lead storage battery is an example of a secondary cell. A lead storage battery is the common automobile battery that usually delivers either 6 or 12 volts, depending on the number of cells used in its construction. The inside of this Voltaic cell consists of electrodes of lead alloy grids; one electrode is packed with a spongy lead  to form 
+the anode, and the other electrode is packed with lead (IV) oxide to form the cathode 
+(see Figure 4.9). Both are bathed in an aqueous solution of 35% sulfuric acid, H
+2SO4.
+A single lead-storage cell delivers 2 volts. Therefore, a 12 V battery contains six cells connected in series ( Figure 4.9 ).
+Figure 4.9  A Lead - Storage Battery. Each cell delivers about 2 V, and a battery 
+consisting of six cells in series gives about 12 V
+When a lead-storage battery is in operation (on discharge), the following reactions 
+occur at the electrodes:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+187Chemistry Grade 10 Energy Changes and Electrochemistry
+Anode reaction: Pb(s) + SO42-(aq) → PbSO4(s) + 2e-
+Cathode reaction: PbO2(s) + 4H+(aq) + SO42-(aq) + 2e- → PbSO4(s) + 2H2O(l)
+Overall (cell) reaction : Pb(s) + PbO2(s) + 4H+(aq) + 2SO42-(aq) → 2PbSO4(s) +  2H2O(l)
+From the electrode reactions it can be noticed that PbSO4 is produced at both 
+electrodes. Lead-storage battery, as a secondary cell, is rechargeable when it runs 
+down. The electrode reactions can be reversed by applying a potential across the electrodes that is slightly larger than that which the battery can deliver. The reaction that takes place on recharging a lead storage battery is given by the following equation.
+  2PbSO
+4(s) + 2H2O(l) → Pb(s) + PbO2(s) + 2H2SO4(aq)
+Note: The electrode that served as anode during discharging (use) is forced to behave 
+as cathode during recharging. Consequently, the direction of the electron flow that 
+was from left (Pb = anode) to right (PbO2 = cathode) is changed to right (PbO2 = 
+anode) to left (Pb = cathode). Oxidation always takes place at anode and reduction at cathode. The direction of electron flow is always from anode to cathode. 
+Project 4.2
+Do you know how car batteries are maintained? Your teacher will arrange a visit to the nearby car battery maintenance center. Before the trip, prepare the following questions for interview.Why car battery fails? What are the components in the car battery? How are they assembled to a self-contained device? What is the advantage of car battery over other types of batteries such as dry cells? Each dry cell can generate 1.5 V. If we assemble 8 of them in series, we can generate 12.0 V. So, why can’t we use this option?How the health or the degree of discharge is tested?How is the battery recharged?After getting answers for the above questions, and reaching conclusion after discussion in group, write a report about what you have learnt during your visit and present it to the class.
+4.4 Electrolysis
+At the end of this section students will be able to
+"define the term electrolysis;
+"define the terms electrode, anode, cathode, electrolyte, anion, and cation;
+"describe electrolytic cell;
+"draw labelled diagram of an electrolytic cell;
+"define the terms’ half-reaction and cell reaction;
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+188Chemistry Grade 10 Energy Changes and Electrochemistry
+"write the oxidation half-reaction, reduction half reaction and cell reaction for the 
+electrolysis of molten or fused electrolytes;
+"perform an activity to show electrolysis of molten electrolytes.
+1.In the voltaic cells such as primary or secondary 
+you have just learnt, chemical reaction generates electricity or chemical energy is converted into electrical energy. What about the reverse? Which of the two types of voltaic cells can be adapted to serve as electrolytic cell; the primary or secondary?
+2.Can you infer the meaning of the word “electrolysis” by breaking it into ‘electro’ and ‘lysis’? Remember that you applied an electrical potential across the electrodes to cause the reaction:
+2PbSO
+4(s) + 2H2O(l) → Pb(s) + PbO2(s) + 2H2SO4
+(aq) in secondary cells.
+Now, based on the information from the above analysis 
+can you define electrolysis?  
+  Activity 4.6
+In contrast to spontaneous redox reactions, which result in the conversion of chemical energy into electrical energy, electrolysis is a process by which electrical energy is 
+used to drive an otherwise nonspontaneous reaction. Electrolysis stands for “ electro“ 
+means electricity and “lysis” means to separate or break. So in terms, electrolysis 
+would mean "breakdown via electricity". An electrochemical cell in which electrolysis occurs is called electrolytic cell (Figure 4.10). It has two components, electrodes (anode and cathode) and electrolyte. 
+In electrolytic cell, the electrode connected to the positive terminal of the source (e.g. 
+battery) is positively charged and is called the anode. It is the electrode through which electrons leave the cell. The electrode connected to the negative terminal of the source is negatively charged and is called the cathode. It is the electrode through which electrons enter the cell (see Figure 4.10 ). 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+189Chemistry Grade 10 Energy Changes and Electrochemistry
+Current flow 
+CathodeZ Z
+Anode
+Z+ (aq)e_  flow_
+_+
++
+Figure 4.10  A sketch of an electrolytic cell.
+During electrolysis, the ions of the electrolyte migrate to the electrodes of the opposite 
+charge. The positive ions are attracted to the cathode and are called cations. Since the cathode has excess electrons, the cations will discharge by gaining electrons. This process of gaining electrons is called reduction. The negative ions are attracted by the positive electrode ( anode) and are called anions. These ions are discharged by 
+losing electrons (get oxidized) at the anode. This process of losing electrons is called oxidation. Thus, the cathode  is the electrode at which reduction occurs and the anode
+is the electrode at which oxidation takes place . 
+4.4.1 Electrolysis of Molten (Fused) Electrolytes
+Ionic solids can melt at elevated temperature. NaCl, for instance, melts at 801°C. The 
+process is called melting or fusion. When ionic solids melt, they dissociate into positive 
+and negative ions that are free to move. To understand the chemical reactions that occur during electrolysis of molten (fused) electrolytes, consider electrolysis of molten NaCl. Figure 4.11 shows a simple electrolytic cell. Wires from a battery are connected 
+to electrodes that are dipped into molten sodium chloride. At the electrode connected to the negative pole of the battery, globules of sodium metal form; chlorine gas evolves from the other electrode. The half-reactions are
+  Na
++(l)  +  e −→  Na(l)
+  Cl − (l)  →  1/2Cl2(g)  +  e −
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+190Chemistry Grade 10 Energy Changes and Electrochemistry 
+Figure 4.11  Electrolysis of molten sodium chloride. Sodium metal is produced 
+commercially this way. 
+The reduction of Na+ to Na occurs at the cathode, and the oxidation of Cl− to Cl2
+occurs at the anode (note the labeling of electrodes in Figure 4.11 .
+You obtain the cell reaction by adding the half-reactions.
+  Na+(l)  +  e −  →  Na(l)
+  Cl − (l)    →  1/2Cl2(g) + e −
+  _______________________________
+  Na+(l)  +  Cl − (l)  →  Na(l)  +  ½ Cl2(g)
+As you  can see from the cell reaction, the electrolysis of molten NaCl is used com mercially 
+to obtain sodium metal from sodium chloride. A number of other reactive metals are 
+obtained by the electrolysis of a molten salt or ionic compound. Lithium, magnesium, and calcium metals are all obtained by the electrolysis of the chlorides.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+191Chemistry Grade 10 Energy Changes and Electrochemistry 
+1. A lead-storage buttery is an example of ____
+a. an electrolytic cell called secondary cell
+b.galvanic cell called secondary cell
+c. rechargeable electrolytic cell called secondary celld. only b and c
+2.How do you know if an electrode is a cathode or an anode in voltaic cells and 
+in electrolytic cells?
+3.Can you suggest why positive and negative ions are named as cations and anions respectively?
+4. Distinguish between Voltaic cells and electrolytic cells.5. During electrolysis of fused PbBr
+2,
+a.Which ions are responsible for the conduction of electricity through the molten salt?
+b.What half-cell reactions occur at the anode and cathode?Exercise 4.5
+Experiment 4.4
+Electrolysis of Molten (Fused) Lead Bromide
+Objectives: To observe substances produced at the electrodes during electrolysis.Materials required: Stand and clamp, two graphite electrodes, wires, switch, light bulb, test tube (bigger in size), Bunsen burner, lead bromide crystals (melting point: 373
+oC).
+Precaution : Bromine causes very severe burn on the skin.
+Procedure:
+1. Assemble the materials as shown in Figure 4.12 . 
+2.Place small amount of lead bromide crystals in a beaker. Insert the two 
+electrodes, as shown in Figure 4.12 , until they are in contact with the lead 
+bromide crystals. Then turn on the switch. Does the bulb glow?
+3.Heat the lead bromide in a beaker gently, using a Bunsen burner. When the 
+lead bromide melts, turn on the switch.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+192Chemistry Grade 10
+Figure 4.12  Electrolysis of Fused Lead Bromide.
+Observations and Analysis:
+1. Does the bulb glow? If yes, what is the reason?2. Write the dissociation reaction for PbBr
+2.
+3. Identify the ions which migrate to the respective electrodes4. Write the products formed at each electrode.5.  Identify the half reactions as oxidation and reduction.6. Write the cell reaction
+Write a laboratory report on your observation and present to the class.
+Consider the text entitled ‘ Energy and Climate’ 
+below and answer the following questions!
+1.Discuss the impact of nation’s energy demand on climate.
+2.Explain the role of youth in controlling climate change.
+3.Which type of nations do you think contribute largely to climate change, developed or developing?
+4.Discuss how Ethiopia should benefit from large-scale tree planting.
+5.Explain the relevance of tree planting in the carbon capture and sequestration.
+  Activity 4.7
+Energy Changes and Electrochemistry 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+193Chemistry Grade 10
+Energy and Climate
+Today, no scientific challenge is greater than reversing the climatic effects of our 
+increasing dependence on the combustion of fossil fuels-coal, petroleum, and 
+natural gas. Because these fuels form so much more slowly than we consume them, they are nonrenewable. In contrast, wood and other fuels derived from plant and animal matter are renewable. 
+All carbon-based fuels release CO
+2 when burned. The ability of CO2 to absorb 
+heat plays a vital temperature-regulating role in the atmosphere. Much of the 
+sunlight that shines on Earth is absorbed by the land and oceans and converted to heat. Like the glass of a greenhouse, CO
+2 traps some of the heat radiating back 
+from Earth’s surface and, thus, warms the atmosphere. This process is called the natural greenhouse effect  which changes Earth’s climate. 
+Scientists are trying to develop alternative energy sources that do not release greenhouse gases. In addition to developing alternative energy sources to reduce fossil-fuel consumption, some researchers are studying carbon capture and sequestration, accomplished by large-scale tree planting and by liquefying CO
+2
+released from coal fired power plants and burying it underground or injecting it deep into the oceans. 
+The climate change is a concern to the global nations too. In 1997, the United 
+Nations Conference on Climate Change in Kyoto, Japan, created an international treaty that set legally binding limits on release of greenhouse gases. It was ratified by 189 countries, but not by the largest emitter of CO
+2, the United States. 
+The 2005 conference in Montreal, Canada, presented overwhelming scientific evidence that confirmed the human impact on climate change, but the 2009 conference in Copenhagen, Denmark, which was attended by representatives from 192 nations, failed to produce a legally binding agreement on emission targets. In late 2010, however, the conference in Cancun, Mexico, resulted in some financial commitments to help developing countries rely on alternative energy sources.
+1.Write the half-reactions for the electrolysis of the following molten compounds: a. KCl; b. KOH.
+2.Is the polarity of the electrodes in Galvanic cells similar to that of the electrodes in electrolytic cells? Explain your answer.
+Exercise 4.6
+Energy Changes and Electrochemistry 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+194Energy Changes and Electrochemistry 
+Key Terms of the Unit
+"anode
+"cathode
+"conductivity apparatus
+"Daniell cell
+"electrical conductivity
+"electrochemical cell
+"electrochemistry
+"electrode
+"electrolysis
+"electrolyte
+"electrolytic cell"endothermic reaction
+"energy
+"energy change
+"enthalpy
+"enthalpy change
+"exothermic reaction
+"galvanic cell
+"half - cell
+"half - reaction
+"heat
+"heat of reaction"heat capacity
+"internal energy
+"kinetic energy
+"Leclanche cell 
+"potential energy
+"primary cell
+"salt bridge
+"secondary cell
+"specific heat capacity
+"voltaic (galvanic) cell
+"work
+Unit Summary
+"All chemical reactions accompany energy change.
+"There are many forms of energy and they are all interconvertible. 
+"The internal energy of a substance is the sum of its potential energy and kinetic 
+energy.
+"Potential energy is stored energy.
+"Potential energy is stored in chemical bonds and as intermolecular forces.
+"Chemical energy is a form of potential energy.
+"The energy change occurs when energy transfer takes place between system and surrounding.
+"Energy transfer takes place in the form of heat or work or both.
+"Any chemical reaction that gives off heat to the surroundings is called an exothermic reactions; any Chemical reaction that absorbs heat from the surroundings is called an endothermic reaction.
+"Enthalpy is a measure of energy change of the system of reactant and products.
+"Enthalpy change is calculated as enthalpy of products minus enthalpy of reactants. 
+"Enthalpy change is positive for endothermic reactions and negative for exothermic reactions.
+"Like any other reaction, redox reactions also involve energy change.
+"The energy change in redox reactions is dealt in electrochemistry. 
+"Electrochemistry is a field of chemistry that studies how chemical reactions produce electricity and how electricity is used to bring about chemical reactions in electrochemical cells.
+"Electrical conductivity is the ability of substances to conduct electricity.
+"Metallic conductivity is the flow of electricity through metals, and the conduction of electricity through metals is due to the presence of freely moving (delocalized) valence electrons.
+"Electrolytes are substances that conduct electricity in solution or in a molten state.
+"The conduction of electricity through electrolytes is due to the movement of Chemistry Grade 10 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+195Energy Changes and Electrochemistry Chemistry Grade 10 
+anions and cations towards electrodes of opposite charge, and the charge 
+carriers in electrolytic conduction are ions.
+"Cations carry positive charge whereas anions carry negative charge
+"Electrochemical cells include Galvanic (Voltaic) cells and electrolytic cells.
+"Galvanic cells convert chemical energy into electrical energy.
+"Electrolytic cells convert electrical energy into chemical energy.
+"Electrolysis is a process in which electricity is used to bring about an oxidation- reduction reaction in an electrolytic cell and produces useful substances.
+"Electrolysis is also the process of decomposition of an electrolyte, using electrical energy.
+"Electrodes are either metal strips or graphite rods.
+"Primary cells are voltaic cells that are not rechargeable, and the reactions taking place in them are irreversible.
+"Secondary cells are voltaic cells that are rechargeable since the reactions taking place in them are reversible.
+"Unlike electrolytic cells, the anode is negative and the cathode is positive in galvanic/voltaic cells.
+"In voltaic cells, the polarity (charge) of the electrodes is determined by the redox reactions.
+"In electrolytic cells the polarity of the electrodes is determined by the external power source.
+"An anode is the electrode attached to the positive terminal of a direct current source in electrolytic cell, at which oxidation (loss of electrons) by anions occurs, and electrons leave the cell.
+"A cathode is the electrode attached to the negative terminal of a DC source in electrolytic cell, the negative electrode at which reduction of cations occurs and electrons enter the cell.
+"Oxidation always takes place at anode and accompanied by reduction at cathode.
+"During electrolysis, anions move to the anode and cations move to the cathode.
+"The reaction taking place at each electrode (cathode or anode) is said to be a half-cell reaction.
+"Cell reaction is the reaction that takes place in the entire cell and obtained by adding half reactions.
+Review Exercise 
+Part I: Choose the correct answer from the suggested options1. The energy released during chemical reactions comes from
+a. the bond being formedb.the bond being broken
+c. the heat supplied from the surroundingd. all
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+196Chemistry Grade 10
+2. Which of the following is not correct about voltaic cells?
+a. the anode is negative
+b.the cathode is positive
+c. oxidation takes place at the cathoded. redox reactions produce electricity in the cell
+3. Which one of the following is used to produce useful compounds?
+a. Voltaic cellsb.Electrolytic cells
+c. Daniel’s celld. Batteries
+4. Electrolysis is not used for the:
+a.purification of metals
+b.production of metals
+c. electroplating of metalsd. production of electricity
+5. Which substance is not used in the Leclanche cell?
+a. H
+2SO4
+b.NH4Cl
+c. MnO2
+d. powdered carbon
+6. Which one of the following is correct about automobile batteries?
+a. the electrodes are graphite electrodesb.each cell in the battery delivers 1.5 volts
+c. the electrolyte is aqueous H
+2SO4 solution
+d. lead (IV) oxide is used as anode
+7.Which of the following occurs during electrolysis of the molten binary salt of a metal:
+a. the metal will deposit on the cathodeb.reduction will take place at the anode
+c. oxidation will take place at the cathoded.no current will flow through the molten salt
+8.Two copper electrodes dipped in copper sulphate solution are connected to a12 volt battery. The electrode connected to the end of the battery marked with a “ ˗” is:
+a. anionb.cathodec. anode               d. cation
+9. The charge-carriers in electrolytic conduction are:
+a. anions onlyb.cations onlyc. cations and anions d. delocalized electrons
+10. During the electrolysis of fused lead bromide, the anode half reaction involves:
+a. oxidation of lead atoms to ionsb.reduction of bromine atoms to give bromide ions
+c. reduction of lead ions to form free metald. oxidation of bromide ions to elemental bromineEnergy Changes and Electrochemistry 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+197Chemistry Grade 10 Energy Changes and Electrochemistry 
+11. Voltaic cells and electrolytic cells are similar in that:
+a. the anode is positive and cathode is negative in both types of cells
+b.oxidation half-reaction occurs at the cathode in both types of cells
+c. both types of cells contain two electrodes in contact with electrolytesd. reduction half-reaction occurs at the anode in both types of cells
+12.Four different solutions of equal volume (1L) were prepared by dissolving one mole of each of the following substances. The conduction of electricity is least in the solution containing:
+a. HCl                            b.HNO
+3c. CH3COOH                
+d.KCl
+13. Which of the following is a wet voltaic cell:
+a. Leclanche cellb.cells used in mobile telephones 
+c. lead-storage cell
+Part II: Give short answers to each of the following questions14.Under what condition is the heat of a reaction equal to the enthalpy change of the same reaction?
+15. Describe at least two exothermic processes and two endothermic processes.16.Decomposition reactions are usually endothermic, whereas combination reactions are usually exothermic. Give a qualitative explanation for these trends.
+17.Draw an enthalpy diagram for a general exothermic reaction; label the axis, reactants, products, and H with its sign.
+18.Draw an enthalpy diagram for a general endothermic reaction; label the axis, reactants, products, and H with its sign.
+19. Consider these changes.
+a. Hg(l) → Hg(g)b.3O
+2(g) → 2O3(g)
+c. CuSO4.5H2O(s) → CuSO4(s) + 5H2O(g)
+d. H2(g) + F2(g) → 2HF(g)
+At constant pressure, which of the reactions is exothermic and which is endothermic? 20.Why are ionic compounds like NaCl, KCl, CaCl
+2, PbBr2, etc. non-conductors in the 
+solid state but conductors in aqueous solutions?
+21.Describe the basic features of a galvanic cell. Why are the two components of the cell separated from each other?
+22.Explain the differences between a primary galvanic cell-one that is not rechargeable-and a storage cell (for example, the lead storage battery), which is rechargeable.
+23. During electrolysis of fused CaCl
+2,
+a.Which ions are responsible for the conduction of electricity through the molten salt?
+b.Which ion migrates towards anode?
+c. Which ion migrates towards cathode?d. What half-cell reactions occur at the anode and cathode?
+Ethiofetena.com Ethiopian No 1 Educational Website

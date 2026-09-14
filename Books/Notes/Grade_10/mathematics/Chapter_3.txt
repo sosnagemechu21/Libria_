@@ -1,0 +1,2620 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 3: Exponential and L ogarithmic Functions …
+Pages: 130 to 207
+=================================================================
+
+Unit 3 :Exponential and Logarithmic Functions
+121EXPONENTIAL AND 
+LOGARITHMIC FUNCTIONS
+Unit Outcomes
+Apply the laws of exponents for real exponents.
+Define exponential and logarithmic functions.
+Identify domain and range of exponential and logarithmic functions.
+Solve mathematical problems involving exponents and logarithms.
+Unit Contents
+3.1  Exponents and Logarithms
+3.2  The Exponential functions and Their Graphs
+3.3  The Logarithmic Functions and Their Graphs
+3.4  Relation between Exponential and Logarithmic Functions
+3.5  Applications
+  Summary
+  Review Exercise  UNIT
+EXPONENTIAL AND 
+3
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+122
+✓exponential equation ✓mantissa   
+✓logarithm of a 
+number✓logarithmic 
+equation     
+✓base    ✓logarithm ✓natural logarithm      
+✓characteristics  ✓exponential function ✓power    
+✓common logarithm              ✓logarithmic equation ✓Asymptote  
+✓exponent  ✓logarithmic function ✓antilogarithm
+3.1 Exponents and Logarithms
+Introduction
+Two of the most important functions that occur in mathematics and its applications are 
+the exponential function 𝑓(𝑥)=𝑎𝑥and its inverse function, the logarithmic function 
+𝑔(𝑥)=log𝑎𝑥. Such functions arise in many applications and are powerful 
+mathematical tools for solving real life problems such as analyzing population growth, 
+decay of radioactive substances, calculating compound interest in accounting, etc. 
+In this unit, we will investigate their various properties and learn how they can be used 
+in solving real life problems.
+3.1.1 Exponents
+Whenever we use expressions like 73or 25, we are using exponents. The symbol 25
+means 2×2×2×2×2⏟          
+5factors. This symbol is read as ‘the 5thpower of 2’ or ‘2 raised to 
+5’. The expression 25  is just a shorthand way of writing the product of five twos. The 
+number 2is called the base, and 5the exponent. 
+Similarly, if ais any real number , then𝑎4stands for a× a× a × a. Here ais the 
+base, and 4is the exponent.
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+123Special names are used when the exponent is 2or 3. The expression 𝑏2is usually read
+as‘𝑏squared’ , and the expression 𝑏3as‘𝑏cubed’ . Thus, ‘two cubed’ means
+23= 2 × 2 × 2 = 8. 
+Note that, in (−𝑎)𝑛the base is −𝑎but in −𝑎𝑛the base is only 𝑎.
+For example,
+(−3)2= (−3)×(−3) = 9 but −32= −(3×3)= −9 .
+(3𝑎)3= 3𝑎×3𝑎×3𝑎=27𝑎3but 3𝑎3= 3×𝑎×𝑎×𝑎= 3𝑎3.
+Evaluate the following.
+a.23         b.   −23          c.   (−2)3             d.   −(−2)3          e.(−4𝑡)3  
+1.Identify the base and the exponent of each of the following.
+a)34                b) (−3)4               c) ቀ3
+5ቁ5
+                 d) (−1)9
+2.Find the values of each of the following.
+a)(−1)1          b)(−1)4                c)   ቀ3
+5ቁ1
+                   d) (−2)7
+e)  −24             f) (−2)4                  g) ቀ−2
+3ቁ4
+                    
+Activity 3.1
+Definition 3.1
+Fora natural number𝑛and a real number 𝑎,the symbol 𝑎𝑛,read as “ the 𝑛𝑡ℎ
+power of 𝑎” or “𝑎raised to 𝑛”,is defined as follows:
+𝑎𝑛=𝑎×𝑎×. . . × 𝑎 ⏟          
+𝑛factors.
+In𝑎𝑛,𝑎is called the base and 𝑛is called the exponent.
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+124Solution: 
+a.23= 2×2×2 = 8
+b.−23= −(2×2×2 )= −8
+c.(−2)3=(−2)×(−2)×(−2)= −8
+d.−(−2)3= −[(−2)×(−2)×(−2)]= −(−8)= 8
+e.(−4𝑡)3= −4𝑡×−4𝑡×−4𝑡= −64𝑡3
+Laws of Exponents
+If 𝑎is any real number and 𝑛is a positive integer then 𝑎𝑛means 
+𝑎×𝑎×𝑎× . . . × 𝑎 ⏟              
+𝑛factors. The laws for the behaviors of exponents follow naturally from 
+this meaning of 𝑎𝑛for a natural number n.
+If 𝑎is a real number and 𝑚and 𝑛are natural numbers, then 
+𝑎𝑚×𝑎𝑛=𝑎×𝑎×…×𝑎 ⏟        
+𝑚factors×𝑎×𝑎×…×𝑎 ⏟        
+𝑛factors
+               = 𝑎×𝑎×𝑎×…×𝑎×𝑎×𝑎×…×𝑎 ⏟                      
+𝑚+𝑛factors   
+               = 𝑎𝑚+𝑛.
+Law 1 .𝑎𝑚×𝑎𝑛=𝑎𝑚+𝑛, where 𝑎is a real number and 𝑚and𝑛are natural numbers.
+That is, to multiply two numbers in exponential form (with the same base), we add 
+their exponents.
+23×24=(2×2×2 )×(2×2×2×2 )
+             = 2×2×2×2×2×2×2⏟                
+7factors                    
+              = 27                  
+              = 23+4.      
+If 𝑎is a real number different from zero and 𝑚and 𝑛are natural numbers with 𝑛>𝑚, 
+then 
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+125𝑎𝑛
+𝑎𝑚=𝑎×𝑎×𝑎×𝑎×…×𝑎 ⏟              
+𝑛factors
+𝑎×𝑎×𝑎×…×𝑎 ⏟            
+𝑚factors=𝑎×𝑎×𝑎×…×𝑎 ⏟            
+𝑚factors×𝑎×𝑎×…×𝑎 ⏟        
+𝑛−𝑚factors
+𝑎×𝑎×𝑎×…×𝑎 ⏟            
+𝑚factors
+=𝑎×𝑎×𝑎×…×𝑎 ⏟            
+𝑚factors
+𝑎×𝑎×𝑎×…×𝑎 ⏟            
+𝑚factors×𝑎×𝑎×…×𝑎 ⏟        
+𝑛−𝑚factors
+= 𝑎×𝑎×…×𝑎 ⏟        
+𝑛−𝑚factors=𝑎𝑛−𝑚.
+Law 2.   𝒂𝒏
+𝒂𝒎=𝑎𝑛−𝑚, where 𝑎is a real number different from zero and 𝑚and𝑛are 
+               natural numbers.
+Since we have not yet given any meaning to zero and negative exponents, 𝑛must be 
+greater than 𝑚for law 2 to make sense.
+36
+33=3×3×3×3×3×3
+3×3×3
+      = 3×3×3×3×3×3
+3×3×3
+      = 3×3×3
+      = 33= 36−3
+Law 3.(𝑎𝑚)𝑛=𝑎𝑚×𝑛, where 𝑎is a real number and 𝑚and𝑛are natural numbers.
+(32)3=(3×3)×(3×3)×(3×3)
+                                 = 36= 32×3.
+From the definition of exponents, we know that if 𝑛is a natural number, then
+(𝑎𝑏)𝑛=(𝑎𝑏)×(𝑎𝑏)×. . . × (𝑎𝑏) ⏟                
+𝑛factors
+                                  =𝑎×𝑎×. . . × 𝑎 ⏟          
+𝑛factors×𝑏×𝑏×. . . × 𝑏 ⏟          
+𝑛factors=𝑎𝑛𝑏𝑛               
+Example 3
+Example 4
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+126Law 4.(𝑎𝑏)𝑛=𝑎𝑛𝑏𝑛, where 𝑎and 𝑏are real numbers and 𝑛is a natural number.
+(2×3)3=(2×3)×(2×3)×(2×3)
+               = (2×2×2)×(3×3×3)
+               = 23×33
+If 𝑎and 𝑏are real numbers, 𝑏≠ 0and𝑛is a natural number, then by the definition of 
+exponent,
+ቀ𝑎
+𝑏ቁ𝑛
+=𝑎
+𝑏×𝑎
+𝑏×. . .×𝑎
+𝑏 ⏟          
+𝑛factors=𝑎×𝑎××. . . × 𝑎 ⏟            
+𝑛factors
+𝑏×𝑏×. . . × 𝑏 ⏟          
+𝑛factors
+=𝑎𝑛
+𝑏𝑛
+Law 5.ቀ𝑎
+𝑏ቁ𝑛
+=𝑎𝑛
+𝑏𝑛, where 𝑎and 𝑏are real numbers, 𝑏≠ 0and𝑛is a natural number.
+(2
+3)4
+=2
+3×2
+3×2
+3×2
+3=2×2×2×2
+3×3×3×3=24
+34
+1. Evaluate the following.
+a) 42                  b)  −42             
+      c)  (−4)2                 d) −(−3)3
+2.  Simplify the exponential expressions.
+a)  𝑎3×𝑎2              b)  𝑎5
+𝑎2                    c)  (𝑎2)3           
+      d)  (2𝑎)4                  e)  ቀ𝑎
+2ቁ2
+Example 5
+Example 6
+Exercise 3.1
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+127Zero and Negative Exponents      
+Let us begin by extending 𝑎𝑛to include an exponent equal to 0 (𝑛= 0). We want to 
+make sense of the expression 𝑎0in such a way that Laws 1, 2 and 3 hold. What happens 
+to law 2 when 𝑚=𝑛? Law 2 gives,
+𝑎𝑛
+𝑎𝑛=𝑎𝑛−𝑛
+1 =𝑎0
+It doesn’t make sense to talk about a number being multiplied by itself 0times. 
+However, if we want law 2to continue to be valid when 𝑛=𝑚then we must define 
+the expression 𝑎0to mean the number 1. 
+If 𝑎≠ 0then we define 𝑎0to be equal to 1. We do not attempt to give any meaning to 
+the expression 00. It remains undefined.
+Using this definition, we can check law s 1and 2also remain valid.
+That is, 𝑎𝑚×𝑎0=𝑎𝑚×1 =𝑎𝑚=𝑎𝑚+0and𝑎𝑛
+𝑎0=𝑎𝑛
+1=𝑎𝑛=𝑎𝑛−0.
+To come up with a suitable meaning for negative exponents, we can take 𝑛<𝑚in law 
+2. For example, let us try 𝑛= 2and𝑚= 3.
+𝑎2
+𝑎3=𝑎2−3=𝑎−1. 
+But, 𝑎2
+𝑎3=𝑎×𝑎
+𝑎×𝑎×𝑎=1
+𝑎. Therefore,  1
+𝑎=𝑎−1.
+Evaluate each of the following using the law 𝑎𝑚
+𝑎𝑛=𝑎𝑚−𝑛.
+a)32
+32; what is the value of 30?
+b)(−3)2
+(−3)2; what is the value of (−3)0?
+c)(0.1)2
+(0.1)2; what is the value of (0.1)0?
+Activity 3.2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+128Similarly, for 𝑎≠ 0,  𝑎5
+𝑎8=𝑎−3implies 1
+𝑎3=𝑎−3and  𝑎8
+𝑎20=𝑎−12implies
+1
+𝑎12=𝑎−12.
+Evaluate the following.
+     a)   10                    b)  (−10)0               
+     c)  ቀ1
+2ቁ0
+                d)  (0.123)0     
+Solution: 
+      a)   10= 1         b)(−10)0= 1       
+      c)  ቀ1
+2ቁ0
+= 1       d)(0.123)0= 1     
+Evaluate the following.
+a)  3−2                 b)  ቀ2
+3ቁ−3
+              c)  ቀ1
+2ቁ−2
+Solution: 
+a)  3−2=1
+32=1
+9                
+b)ቀ2
+3ቁ−3
+=1
+ቀ2
+3ቁ3=1
+23
+33=33
+23=ቀ3
+2ቁ3
+=27
+8               
+c)ቀ1
+2ቁ−2
+=1
+ቀ1
+2ቁ2=1
+12
+22=22
+12= 22= 4  
+Definition 3.2Zero and Negative Exponents                                                                 
+If 𝑛is a positive integer and 𝑎≠ 0,then
+1)  𝑎0= 1and is undefined.
+2)  𝑎−𝑛=1
+𝑎𝑛. 
+Example 7
+Example 8
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+129Evaluate the following.
+a) 40b)(−11)0c)  ቀ22
+55ቁ0
+d) 2−3
+   e) 10−2                 f) ቀ3
+4ቁ−3
+                   g)  ቀ1
+2ቁ−5
+Laws for Integer Exponents: 
+For real numbers 𝒂and 𝒃and integers 𝒎and 𝒏, the following laws of exponents 
+hold true.
+1.𝑎𝑚×𝑎𝑛=𝑎𝑚+𝑛  .  .  .   law of multiplication of powers of the same base.
+2.𝑎𝑚
+𝑎𝑛=𝑎𝑚−𝑛             .  .  .   law of division of powers of the same base.
+3.(𝑎𝑚)𝑛=𝑎𝑚𝑛        .  .  .   law of power of a power.
+4.(𝑎×𝑏)𝑛=𝑎𝑛×𝑏𝑛     .  .  .   law of a power of a product.
+5.ቀ𝑎
+𝑏ቁ𝑛
+=𝑎𝑛
+𝑏𝑛     .  .  .   law of a power of a quotient.
+Simplify each of the following.
+a)   𝑎−2×𝑎5                 b)  (3𝑎)4×(3𝑎)−2          c)    54
+56            d)  (𝑎2)−3                        
+e)𝑥2×𝑥−3×𝑥4           f)  ቀ3𝑎
+16ቁ2
+            g)  (81)𝑡×92𝑡                h)(−5𝑥×3𝑦)2    
+Solution:
+a)𝑎−2×𝑎5=𝑎−2+5=𝑎3
+b)(3𝑎)4×(3𝑎)−2=(3𝑎)4+(−2)=(3𝑎)2= 32𝑎2= 9𝑎2
+c)54
+56= 54−6= 5−2=1
+25
+d)(𝑎2)−3=𝑎2×(−3)=𝑎−6=1
+𝑎6  
+e)  𝑥2×𝑥−3×𝑥4  = (𝑥2×𝑥−3)×𝑥4=𝑥−1×𝑥4=𝑥−1+4=𝑥3     
+Exercise 3.2
+Example 9
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+130f)ቀ3𝑎
+16ቁ2
+=32×𝑎2
+(16)2=9𝑎2
+256                
+g)(81)𝑡×92𝑡= 34𝑡×(32)2𝑡= 34𝑡×34𝑡= 34𝑡+4𝑡= 38𝑡  
+h)(−5𝑥×3𝑦)2=(−5𝑥)2×(3𝑦)2
+=(−5)2𝑥2×32𝑦2=25𝑥2×9𝑦2=225𝑥2𝑦2   
+    
+Simplify the exponential expressions using laws of exponents.
+     a)  𝑥−3×𝑥4                                  b)25
+27                                 c)  3−5
+3−3                                  
+     d) (−2𝑥×4𝑦)2                           e) 𝑥−3×𝑥−2                f) (4𝑦)2×(8𝑦)−3                               
+     g)   2𝑡×23𝑡×22𝑡                        h) (2𝑥)2
+(2𝑥)4                         i)  (−3𝑥)2
+(−3𝑥)4      
+j)   (32)2𝑛                                   k)(𝑎𝑦)−1                      l)  (𝑎3𝑥)4     
+m)(2𝑎−3×𝑏2)−2                    n)  (𝑎2)−3×(𝑎3)4
+𝑎10               o) ቀ𝑚−5𝑛2
+𝑛−2𝑚6ቁ−2
+TheRational Exponent
+Extend the definition of exponents even further to include rational numbers. For 
+example, todefine powers like 𝑎1
+2, consider 91
+2. 
+Applying law 3 and taking the square of21
+9, we get ቀ91
+2ቁ2
+= 9ቀ1
+2ቁ∙(2)= 91= 9. Thus, 
+91
+2is a number that yields 9 when squared. There are two numbers whose square is 9. 
+They are 3 and −3. We define 91
+2to be the positive square root of 9. That is, 3. To avoid 
+ambiguity, we define 𝑎1
+2as the non-negative number that yields awhen squared. Thus,
+3921=.
+Exercise 3.3
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+131In general, 𝑎1
+2is defined to be the positive square root of 𝑎, which can also bewritten
+as√𝑎. So𝑎1
+2=√𝑎.
+Of course, 𝑎must be positive if 𝑎1
+2is meaningful because if we take any real number 
+and multiply it by itself, then we get a positive number. 
+We can arrive at the definition of 𝑎1
+3  in the same way as we did for 𝑎1
+2. For example, 
+if we cube 81
+3, we getቀ81
+3ቁ3
+=(8)ቀ1
+3×3ቁ= 8. Thus, 81
+3is the number that yields 8 when 
+cubed. Since 823=we have81
+3= 2. Similarly, (−27)1
+3= −3 . 
+This time we have no trouble giving a meaning to (−27)1
+3even though −27< 0. There 
+is a number when multiplied by itself 3 times gives -27, namely −3, so
+(−27)1
+3= −3. 
+Thus, we define 𝑎1
+3(called the cube root of 𝑎) as the quantity that yields 𝑎when cubed.
+Express in the form 𝑎1
+𝑛and evaluate the following.
+a)√164b)√83c)√−83d)√−164
+Solution:
+Definition 3.3The Rational Exponent 𝒂𝟏
+𝒏
+If𝑎is positive, then 𝑎1
+𝑛is defined to be a positive number whose 𝑛𝑡ℎpower is 
+equal to 𝑎. This number is called the 𝑛𝑡ℎroot of 𝑎and sometimes written as√𝑎𝑛.
+If 𝑛is even and 𝑎is negative, 𝑎1
+𝑛cannot be defined because raising any number 
+to an even power result in a positive number.
+If 𝑛is odd and 𝑎is negative, 𝑎1
+𝑛can be defined. It is a negative number whose 𝑛𝑡ℎ
+power is equal to 𝑎.
+Example 10
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+132a)Since 24=16,  √164=(16)1
+4= 2
+b)  Since 23= 8,  √83=(8)1
+3= 2
+c)Since (−2)3= −8 ,  √−83=(−8)1
+3= −2
+d)  √−164=(−16)1
+4  is not a real number because there is no real number asuch 
+       that 𝑎4is  −16
+Express in the form 𝑎1
+𝑛and evaluate the following
+a)   √814                      b)  √325             `              c)  √1253       
+d)  √−273                          e) −√−10003            f)√−100004       
+So far, we have defined 𝑎1
+𝑛, where 𝑛is a natural number. With the help of the third law
+for exponent, we can notice that,
+𝑚
+𝑛=𝑚×1
+𝑛. 
+So, if law 3 is to hold then
+𝑎𝑚
+𝑛=ቀ𝑎1
+𝑛ቁ𝑚
+.
+Therefore, we can define the expression 𝑎𝑚
+𝑛, where𝑚and 𝑛are natural numbers and
+𝑚
+𝑛is reduced to lowest term as in definition 3.4.
+Exercise 3.4
+Simplify the following expressions.
+    a)    21
+2×21
+2         b)  √2×√2        c)   21
+2×21
+2×21
+2   d)   √2×√2×√2
+Activity 3.3
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+133Evaluate the following expressions.
+a)   41
+3×161
+3       b)  31
+2
+273
+2             c)   272
+3         d)  ቀ3𝑚1
+2×4𝑛3
+2ቁ2
+    e)  (−32)−3
+5    
+Solution:
+a)41
+3×161
+3   = (22)1
+3×(24)1
+3= 22
+3×24
+3= 22
+3+4
+3= 22= 4
+b)31
+2
+273
+2= 31
+2
+39
+2= 31
+2−9
+2= 3−8
+2= 3−4=1
+34=1
+81
+c)272
+3=ቀ271
+3ቁ2
+= 32= 9
+d)ቀ3𝑚1
+2×4𝑛3
+2ቁ2
+=ቀ3𝑚1
+2ቁ2
+×ቀ4𝑛3
+2ቁ2
+= 32𝑚×42𝑛3= 9𝑚×16𝑛3=144𝑚𝑛3    
+e)(−32)−3
+5=1
+(−32)3
+5=1
+((−32)1
+5)3=1
+(−2)3= −1
+8
+Simplify each of the following expressions.
+    a) 21
+3×44
+3              b)  162
+5
+86
+5                c) 1003
+2               d)   ቀ𝑎1
+4×3𝑏5
+2ቁ4
+        
+Definition 3.4  TheRational Exponent  𝒂𝒎
+𝒏
+If 𝑎1
+𝑛is a real number, then 𝑎𝑚
+𝑛=ቀ𝑎1
+𝑛ቁ𝑚
+(that is, the 𝑛𝑡ℎroot of araised to the 
+𝑚𝑡ℎpower).
+We can also define negative rational exponents:
+𝑎−𝑚
+𝑛=1
+𝑎𝑚
+𝑛(𝑎≠ 0)
+The laws of exponents discussed earlier for integral exponents hold true for 
+rational exponents.
+Note
+Example 11 
+Exercise 3.5
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+134     e) (−27)−2
+3                f)  (𝑥2
+3
+𝑦−1
+2)−6
+        g)   (𝑎2)−1
+4×(𝑎3)2
+9
+𝑎1
+2          h)    (𝑚1
+8𝑛−1
+3
+𝑛2
+3𝑚1
+4)4
+Radical notation is an alternative way of writing an expression with rational exponents. 
+Express in the form 𝑎𝑚
+𝑛, with 𝑎being a prime number.
+a)√43b)√275c) √83
+√43          d)  (√6253)2          e)  √√6423
+Solution:
+a)√43= 41
+3=(22)1
+3= 22
+3.
+b)√275= (27)1
+5=(33)1
+5= 33
+5
+c)√83
+√43=(23)1
+3
+(22),1
+3=21
+22
+3= 21−2
+3= 21
+3             
+d)(√6253)2=ቀ(54)1
+3ቁ2
+=ቀ54
+3ቁ2
+= 58
+3  
+e)√√6423=√(64)1
+23
+=√(82)1
+23
+=√83= √233= (23)1
+3= 2
+Express in the form 𝑎𝑚
+𝑛, with 𝑎being a prime number.
+    a) √813                    b)√324                     c)√253
+√53                    d)√405
+√55      
+Definition 3.5The𝒏𝒕𝒉root
+If 𝑎1
+𝑛is a real number and 𝑚an integer then
+𝑎𝑚
+𝑛=(𝑎𝑚)1
+𝑛=√𝑎𝑚𝑛    (𝑜𝑟𝑎𝑚
+𝑛=ቀ𝑎1
+𝑛ቁ𝑚
+= (√𝑎𝑛)𝑚).
+Example 12 
+Exercise 3.6
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+135   e)  (√274)6                f)  (√1213)2               g)  √√1
+100000023
+Irrational Exponents
+The expressions 3√2, 22√3, 5𝜋are powers with irrational exponents.
+What is the value of 3√2?
+Using calculator, the value of √2= 1.41421356 . . .
+Therefore, 3√2= 31.41421356 . . .
+It is not possible to calculate 3√2= 31.41421356 . . .because 1.41421356 . . . has 
+infinite decimals. But one can approximate the value of  31.41421356 . . .as follows.
+To approximate 31.41421356 . . .
+31= 3
+31.4= 314
+10= 4.65553672 , to eight decimal places
+( 314
+10is an expression with rational exponent, use a calculator to find its value)
+31.41= 3141
+100= 4.70696500
+31.414= 31414
+1000= 4.72769503
+31.4142= 4.72873393
+31.41421= 4.72878588
+31.4142135= 4.72880406
+31.41421356= 4.72880437
+As we can see from the above list, the values of
+31, 31.4, 31.41, 31.414,31.4142, 31.41421, 31.4142135, 31.41421356
+are approaching to some number. For example, the first six decimals of the values of 
+31.4142135and 31.41421356are the same. That is 4.728804. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+136By continuing the approximation of 3√2like above we can say 3√2≅ 4.72880437 to 
+eight decimal places.
+Now, if we define 3𝑥then  3√2is the real number that 3𝑥approaches when 𝑥gets 
+closer and closer to √2.
+In general, if we define 𝑎𝑥and 𝑏is an irrational number, then 𝑎𝑏is a real number that 
+𝑎𝑥approaches when xgets closer and closer to 𝑏.
+The above statement about irrational exponents suggests that the expression 𝑎𝑥is 
+defined not only for integral and rational exponents but also for irrational exponents.
+The laws of exponents discussed earlier for integral and rational exponents continue to 
+hold true for irrational exponents.
+Simplify each of the following.
+      a)    3√2×3√2                          b)  ቀ4√2ቁ3
+                              c)  ቀ3√2ቁ√2
+   
+      d)  2√3+2
+2√3−3                                   e)5√2×5√3                         f)  ቀ5√2ቁ√3
+Solution: 
+a)3√2×3√2= 3√2+√2= 32√2=(32)√2= 9√2       
+b)ቀ4√2ቁ3
+= 43×√2=(43)√2=64√2      
+c)ቀ3√2ቁ√2
+= 3√2×√2= 32= 9     
+d)2√3+2
+2√3−3=2√3×22
+2√3×2−3=22
+2−3= 22−(−3)= 25=32   
+or  2√3+2
+2√3−3=(2)(√3+2)−(√3−3)= 25=32
+e)5√2×5√3= 5√2+√3
+f)ቀ5√2ቁ√3
+= 5√2×√3= 5√6
+Example 13
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+137Simplify each of the following.
+    a)  2√3×2√3          b)  ቀ5√2ቁ2
+             c)  (√83)−2             d)    √3√2×√3√8        
+    e)   3√2+3
+3√2−1                 f)  (2√3)√27
+           g)  3√2×9√8
+27√18                h)    (5√3)2×5−√12×25√3
+5√27   
+   
+3.1.2 Logarithms  
+In the exponential equation 23= 8, the base is 2 and the exponent is 3. We write this 
+equation in logarithm form as log28 = 3. We read this as “the logarithm of 8 to the 
+base 2 is 3”.
+The logarithm to base 𝑎of a number 𝑥> 0  (writtenlog𝑎𝑥) is that power to which 𝑎
+must be raised to obtain the number 𝑥.
+For example,
+log39 = 2 because 32= 9.
+log3ቀ1
+9ቁ= −2 because 3−2=1
+9. 
+log51 = 0 because 50= 1.
+Convert each of the following to logarithmic statement.
+a)  25=32                    b)  34=81                    c)    41
+2= 2
+Solution:
+a)From 25=32, we have log232= 5.         
+b)From 34=81, we have log381= 4.    
+c)From 41
+2= 2, we have log42 =1
+2.                                
+Exercise 3.7
+Definition 3.6
+For a > 0 ,𝑎≠ 1, and 𝑐> 0      
+                 log𝑎𝑐=𝑏if and only if 𝑎𝑏=𝑐.
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+138Convert each of the following to exponential statement.
+a)log2128= 7                b)log3ቀ1
+27ቁ= −3          c)    log10√103=1
+3         
+Solution:
+a)From log2128= 7, we have 27=128.         
+b)From log3ቀ1
+27ቁ= −3 , we have 3−3=1
+27.        
+c)From log10√103=1
+3, we have 101
+3=√103.         
+Find the value of each of the following logarithms. 
+a)log264               b)log3ቀ1
+81ቁ            c)    log10100        d)log100.01            
+Solution:
+a)Since 64= 26, the exponent to which we raise 2 to get 64 is 6.
+So,  log264= 6.               
+b)Since  1
+81=1
+34= 3−4, the exponent to which we raise 3 to get 1
+81is −4.                                      
+Hence,  log3ቀ1
+81ቁ= −4 .    
+c)The exponent to which we raise 10 to get 100 is 2 as 102=100.  Therefore,  
+log10100= 2.  
+d)Since0.01=1
+100=1
+102=10−2, the exponent to which we raise 10 to get 1
+100
+is −2. Thus,  log100.01= −2 .    
+1.  Write the equivalent logarithmic statement for the following equations.
+a)210= 1,024               b)2−6=1
+64           c)  √1253= 5       d)27−2
+3=1
+9
+2.  Write the equivalent exponential statement for the following equation s.
+Example 2
+Example 3
+Exercise 3.8
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+139a) log101000= 3                                  b) log8√64= 1                                                  
+c)   log100.001= −3                               d) log31
+27= −3
+3.  Find the values of following logarithms.
+a) log327 b)log416                                                  
+c)   log1000.001                                         d) log√497
+Properties of logarithms
+The following properties follow directly from the definition of the logarithm with base
+𝑎> 0and𝑎≠ 1
+Properties of Logarithms
+1.log𝑎1 = 0 because 𝑎0= 1.
+2.log𝑎𝑎= 1because 𝑎1=𝑎.
+3.log𝑎𝑎𝑝=𝑝  and  𝑎log𝑎𝑝=𝑝  . . .    Inverse property.
+4.If log𝑎M =log𝑎N,then  M = N   . . .  One- to-One property.
+Use properties of logarithms to answer the following questions.
+a)Find 𝑝such that log2𝑝=log25.                        b)Simplify log22𝑝.                           
+c) Find 𝑝such that log33 =𝑝.                                d)  Simplify 5log5𝑝.                                   
+Solution: 
+a)Using property 4, we can see that 𝑝= 5.
+b)Using property 3, it follows that log22𝑝=𝑝.
+c)Using property 2, we can conclude that 𝑝= 1.
+d)Using property 3, it follows that 5log5𝑝=𝑝.          
+Using properties of logarithms give answer for the following questions.
+a)Find 𝑝such that log3𝑝=log34.                            b)  Simplify log525𝑝.                   
+Example 4
+Exercise 3.9
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+140c) Find 𝑝such that log66 =𝑝.                                      d)  Simplify 2log23𝑝.                                   
+Laws of logarithms
+We now establish laws of logarithms. The laws are represented by theorems and we 
+prove the theorems based on the corresponding laws of exponents.
+Proof:
+Letlog𝑎𝑀=𝑝andlog𝑎𝑁=𝑞.
+Converting to exponential equations, we get : 𝑎𝑝=𝑀and𝑎𝑞=𝑁.
+Now,     𝑀𝑁=𝑎𝑝∙𝑎𝑞=𝑎𝑝+𝑞.
+This implies  𝑀𝑁=𝑎𝑝+𝑞.
+Converting back to a logarithmic equation, we obtain
+log𝑎𝑀𝑁=𝑝+𝑞.
+But, 𝑝=log𝑎𝑀and𝑞=log𝑎𝑁.                          
+Therefore, log𝑎𝑀𝑁=𝑝+𝑞=log𝑎𝑀+log𝑎𝑁.
+Express log2(4×8)as a sum of logarithms.
+Solution: 
+We have log2(4×8)=log24+log28.  .   . using the product law
+Theorem 3.1 Logarithms of products                                                                 
+For any positive numbers 𝑀,Nand 𝑎> 0and𝑎≠ 1,
+log𝑎𝑀𝑁=log𝑎𝑀+log𝑎𝑁
+(The logarithm of a product is the sum of the logarithms of the factors.)
+This property of logarithms corresponds to the product law for exponents:            
+                         𝑎𝑀𝑎𝑁=𝑎𝑀+𝑁∙
+Note
+Example 5
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+141Express log35+log38as a single logarithm.
+Solution: 
+We have log35+log38 =log3(5×8)=log340  .  .  . using the product law
+Proof:
+Let 𝑝=log𝑎𝑀.
+Converting to exponential equations, we get  𝑎𝑝=𝑀.
+Now,     (𝑎𝑝)𝑟=𝑎𝑝𝑟=𝑀𝑟.
+Converting back to a logarithmic equation, we obtain: log𝑎𝑀𝑟=log𝑎𝑎𝑝𝑟=𝑝𝑟.
+But, 𝑝=log𝑎𝑀.
+Therefore, log𝑎(𝑀)𝑟=𝑟log𝑎𝑀.
+Use laws of logarithms to evaluate the following. 
+      a)log2√8                   b)  log381       c)log10√0.013       
+     d)log48+log42        e)  log1
+2ቀ1
+4ቁ     
+Solution:
+a)log2√8=log281
+2=1
+2log223= 1
+2(3log22)  = 1
+2×3×1 =3
+2.                    
+b)log381=log334= 4log33  =4×1 = 4 .                    
+Example 6
+Theorem 3.2  Logarithms of powers                                                             
+For any positive number 𝑀, any real number 𝑟, and 𝑎> 0𝑎𝑛𝑑𝑎≠ 1,
+log𝑎(𝑀)𝑟=𝑟log𝑎𝑀
+(The logarithm of a power of 𝑥is the exponent times the logarithms of 𝑥.)
+This property of logarithms corresponds to the power law for exponents:
+(𝑎𝑀)𝑟=𝑎𝑀𝑟∙
+Note
+Example 7
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+142c)log10√0.013=log10(0.01)1
+3        
+                    = 1
+3log100.01                 
+                     = 1
+3log101
+100                 
+                     =1
+3log101
+10−2          
+                     =1
+3log1010−2=1
+3(−2log 1010) =1
+3×(−2)×1   = −2
+3.           
+d)log48+log42= log4(8×2) = log416= log442  = 2log44= 2×1 = 2
+e)log1
+2ቀ1
+4ቁ=log1
+2ቀ1
+2ቁ2
+= 2log1
+2ቀ1
+2ቁ= 2×1 = 2      
+Use laws of logarithm to find the values of
+a)   log3√3                     b)  log636                                c) log2ቀ1
+4ቁ
+d)   logቀ1
+3ቁቀ1
+81ቁ               e)  log10√1
+10003                         f)log832+log82         
+g) log26+log2ቀ1
+12ቁ     h)  log310+log3ቀ6
+5ቁ+log3ቀ9
+4ቁ  i)  1
+2log48+log4√2
+Proof:
+The proof follows from the product law and the power law.
+log𝑎(𝑀
+𝑁)=log𝑎𝑀𝑁−1
+Exercise 3.10
+Theorem 3.3  Logarithms of quotients
+For any positive numbers 𝑀,𝑁, and 𝑎> 0and𝑎≠ 1,
+log𝑎ቀ𝑀
+𝑁ቁ=log𝑎𝑀−log𝑎𝑁.
+(The logarithm of a quotient is the logarithm of the numerator minus the 
+logarithm of the denominator.)
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+143                                                                     =log𝑎𝑀+log𝑎𝑁−1.  .  .  using product law
+                                                                         =log𝑎𝑀+(−1)log𝑎𝑁.  .  .  using power law
+                           =log𝑎𝑀−log𝑎𝑁.
+Use laws of logarithms to evaluate the following.
+𝐚)log354−log32                            b)log10√2000−log10√20     
+  c)log530+log515−log52
+Solution:
+a)log354−log32= log354
+2=log327=log333= 3log33 = 3×1 = 3                                      
+b)  log10√2000−log10√20= log10ቀ√2000
+√20ቁ
+= log10√2000
+20=log10√100=log1010= 1
+c)log530+log515−log52   = (log530+log515)−log52
+             =  log5(30×15)−log52
+             =log5450−log52                                   
+             =log5ቀ450
+2ቁ=log5225=log553= 3log55 = 3×1 = 3
+Use laws of logarithms to find the values of
+   a)  log550−log52                                    b)log34−log3108                 
+c)  log10√2000−log10√2 d) log52+log550−log54
+   e)  log69−log615+log610                   f) log1024−2log106+log1015   
+Example 8
+Exercise 3.11
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+144                   Proof:
+Let 𝑝=log𝑎𝑀. Then 
+𝑎𝑝=𝑎log𝑎𝑀=𝑀
+log𝑏𝑎𝑝=log𝑏𝑀.  .  . taking logarithm to the base 𝑏of both sides
+𝑝log𝑏𝑎=log𝑏𝑀. . . using power law
+𝑝=log𝑏𝑀
+log𝑏𝑎
+Therefore,  𝑝=log𝑎𝑀=log𝑏𝑀
+log𝑏𝑎.
+Use laws of logarithms to find:
+𝐚)log√24                           b)log0.1100                               
+Solution:
+a)log√24 =log24
+log2√2by using base change law of logaritms
+            = log222
+log221
+2      because 4 = 22and √2= 21
+2
+            =2log22
+1
+2log22    by power  law of logaritms
+            =2
+1
+2           because log22 = 1
+            = 2×2
+1     
+            = 4
+b)log0.1100=log10100
+log100.1    by using base change law of logaritms
+                    = log10102
+log1010−1     because 100=102and 0.1 =1
+10=10−1
+Theorem 3.4  Change of base
+For any positive real number M, 𝑎> 0,𝑏> 0,𝑎≠ 1and𝑏≠ 1,
+log𝑎𝑀=log𝑏𝑀
+log𝑏𝑎
+Example 9
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+145                    =2log1010
+−1log1010   by power  law of logaritms
+                    =2
+−1             because log1010= 1
+                    = −2
+Use the law log𝑎𝑥=log𝑏𝑥
+log𝑏𝑎to find the value of the following expressions.
+    a)   log√39 b)  log√2128 c) logቀ1
+3ቁ243                                                                  
+      d) log1000.1                       e)  log4ቀ1
+2ቁ    
+                 
+Remember that :
+1.logaMN≠(logaM)(logaN)  .  .  .   The logarithm of a product is not the product 
+of the logarithms.
+2.loga(M+N)≠logaM+logaN.  .  . The logarithm of a sum is not the sum of the 
+logarithms.
+3.logaቀM
+Nቁ≠logaM
+logaN  .  .  . The logarithm of a quotient is not the quotient of the 
+logarithm.
+4.(logaM)r≠ rlogaM  .  .  . The power of a logarithm is not the exponent times the
+logarithm.
+Logarithms to Base 10 (Common Logarithms)
+For a general number 𝑀, log10𝑀is equal to that power to which 10 must be raised to 
+obtain the number 𝑀.
+Exercise 3.12
+Find the value of the following common logarithms.
+a)log1010              b)  log101000                c)  log101 d)  log100.1              
+Activity 3.4
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+146A common logarithim is usually written without indicating its base. For example, 
+log10𝑀is simply denoted by log𝑀.
+Find  the value of each of the common logarithms.
+  a)  log10√103          b)log0.0001        c)log200−log2     d) logቀ0.1
+√100ቁ
+Solution:
+a)  log10√103=log1010ቀ1
+3ቁ          
+               = 1
+3log1010=   1
+3×1 =1
+3.                            
+b)   log0.0001=logቀ1
+10000ቁ=logቀ1
+104ቁ                              
+                      = log10−4=−4log10    because log10=log1010= 1
+                      = −4 .                                       
+c)log200−log2 =logቀ200
+2ቁ=log100=log102= 2log10= 2×1 = 2 .        
+Find the values of the following common logarithms.
+a) log√0.13       b) log10(10√10)    c) logቀ0.01
+√1000ቁ     d)  logቀ1
+√105ቁ        e)  logቀ10𝑚
+10𝑛ቁ
+Suppose 𝑝can be written as 𝑝=𝑚×10𝑐,1 ≤𝑚<10, then the logarithm of 𝑝can 
+be read from the common logarithm table ( a table that contains the common 
+logarithm value of a number 𝒎such that 𝟏≤𝒎<𝟏𝟎) which is attached at the last
+page of the book. 
+Definition 3.7
+The logarithm to the base 10 is called common logarithm or decadic logarithm 
+and written as log10𝑀.
+Example 1
+Exercise 3.13
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+147So, log𝑝=log(𝑚×10𝑐) =log𝑚+log10𝑐=log𝑚+𝑐.
+That is, log𝑝=log𝑚+𝑐.
+The common logarithm of 𝑚, log𝑚is called the mantissa (fractional part) of the 
+common logarithm of 𝑝and 𝑐is called the characterstic of the logarithm.
+The common logarithm of any two decimal place number between 1.00 and 9.99 can 
+be read directly from the common logarithm table. 
+Using the table of logarithm, calculate
+a)  log1.23                                b)log3.57               
+c) log2.478                              d)log6,920
+Solution:
+a)We read the number at the intersection of row 1.2and column 3to find 
+0.0899 .
+So, log1.23= 0.0899 .                         
+b)Reading the number in row 3.5under column 7from the common logarithm 
+table, gives 0.5527 .
+So, log3.57= 0.5527 .                         
+c)2.478 in log2.478 hasthree numbers after decimal.
+To read the value of log2.478 from the logarithm table, the steps are as follow:
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+148Step 1 .Separate the number 2.478 in log2.478 as 2.4, 7 and 8.
+Step 2 . Read the number at the intersection of row 2.4 and column 7, this 
+gives 0.3927.
+Step 3. From the mean difference part of the common logarithm table, read 
+the number at the intersection of row 2.4 and column 8, this gives 14. We 
+write this as 0.0014.
+Step 4 . Add the values obtained in steps 2 and 3 to get 0.3927+0.0014=
+0.3941 .Therefore, log2.478= 0.3941 .
+d)We have, 6,920= 6.92×103.
+So, log6,920=log(6.92×103)=log6.92+log103=log6.92+3.         
+But, log6.92= 0.8401 . (reading from the table of common logarithm at the 
+intesection of  6.9 row and column 2).
+Therefore, log6,920=log6.92+3 = 3.8401.     
+            
+Identify the mantissa and characterstic of each of the common logarithms.
+a)log0.00123                          b)log345                      c)log0.01
+Solution:
+a)0.00123= 1.23×10−3and
+log0.00123=log(1.23×10−3) =log1.23+log10−3=log1.23+(−3) .
+The mantissa is log1.23= 0.0899 (Refer to the common logarithm table to 
+find log1.23).
+The characterstic is −3.
+b)345= 3.45×102.
+So, the mantissa is log3.45= 0.5378 and the characterstic is 2.
+c)We have 0.01= 1.00×10−2.
+Therefore, the mantisa is log1.00= 0and the characterstic is -2.
+Example 3
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+1491.Using the table of logarithm find the values of the following.
+    a)  log2.13                    b)  log2.99                c)   log6.3                    d)  log6.345                         
+    e)  log0.28                   f)  log9.99                g)log0.00008           h) log400
+2. Identify the characterstic and mantissa of the logarithm of each of the following.
+a)  0.00503              b)   0.25                c)  302             d)    1
+8
+      e)  4.4                       f)   9                     g)  3280           h)   53.814
+Antilogarithms
+Suppose log𝑀= 0.8175 . What is the value of 𝑀?
+Iflog𝑀=𝑁, then 𝑀is the antilogarithm (antilog) of 𝑁and write antilog(𝑁)=𝑀. 
+When you are asked to find the antilog of a given number N you will try to find a 
+number M such that log𝑀=𝑁.
+We can use the antilogarithm table attached at the end of the text book to read the 
+antilog of a number.
+In general, antilog(log𝑀)=𝑀
+For example, given log𝑀= 0.8175 to read the value of 𝑀=antilog(0.8175)from 
+the antilogarithm table, we follow the following steps
+Step 1 . Separate the number 0.8175 as0.81, 7 and 5
+Step 2 . From the antilogarithm part read the number at the intersection of row 0.81 
+             and column 7, this gives 6.561
+Step 3 . From the mean difference part, read the number at the intersection of row
+Exercise 3.14
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+150            0.81 and column 5, this gives 8. We write this as 0.008.
+Step 4 . Add the values obtained in steps 2 and 3 to get
+𝑀=antilog(0.8175)=  6.561+0.008= 6.569
+            Therefore, log(6.569) = 0.8175
+Find the antilog of the following numbers.
+a)  0.9335             b)3.0913        c)  -2.1202
+Solution:
+a)    To find antilog (0.9335). That is to find a number 𝑀such that log𝑀= 0.9335 .
+           Step 1 . Separate the number 0.9335 as 0. 93, 3 and 5
+Step 2 . From the antilogarithm part read the number at the intersection of row
+           0.93 and column 3, this gives 8.570
+Step 3 . From the mean difference part, read the number at the intersection of 
+            row 0.93 and column 5, this gives 10. We write this as 0.010.
+Step 4 . Add the values obtained in steps 2 and 3 to get 
+            8.570+0.010= 8.580,Therefore, antilog(0.9335) = 8.580
+b)  In 3.0913, the characterstic is 3. Therefore aftre finding the antilog of 0.0913, we 
+     multiply it by 103.   
+    To find antilog (0.0913),
+           Step 1 . Separate the number 0.0913 into 0.09, 1 and 3
+Step 2 . From the antilogarithm part read the number at the intersection of row
+           0.09 and column 1, this gives 1.233.
+Step 3 . From the mean difference part, read the number at the intersection of
+            row 0.09 and column 3, this gives 1. We write this as 0.001.
+Step 4 .Add the values obtained in steps 2 and 3 to get  
+1.233+0.001= 1.234
+Step 5. 1.234×103=1234.00. Therefore the antilog (3.0913)=1234.00
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+151c)  To find the antilog of negative numbers like −2.1202 , we rewrite it as
+     −2.1202= −2−0. 1202+(1−1) = (−2−1)+(1−0. 1202)
+                     = −3+0.8798 .
+Then after finding the antilog of 0.8798, we multiply it by 10−3to get the 
+antilog(-2.1202)
+Now, to find  antilog (0.8798)
+            Step 1 . Separate the number 0.8798 into 0.87, 9and 8.
+Step 2 . From the antilogarithm part read the number at the intersection of row
+           0.87and column 9, this gives 7.568. 
+Step 3 . From the mean difference part, read the number at the intersection of 
+             row 0.87and column 8, this gives 14. We write this as 0.014. 
+Step 4 . Add the values obtained in steps 2 and 3 to get 
+           7.568+0.014= 7.582
+Step 5. 7.582×10−3= 0.007582 . 
+            Therefore the antilog(−2.1202)= 0.007582
+Find     a)   antilog0. 7412            b)antilog0. 9330                 c)   antilog0. 9996          
+d)  antilog0.7                  e)   antilog1. 3010                  f)   antilog0. 9953            
+g)   antilog5. 721             h)  antilog(−0.2)                                          
+Computation with Logarithms
+In this section, you will see how logarithms are used for computations of numbers 
+like 267×3252
+403, √254, etc. Specially common logarithms are used in mathematical 
+computations. 
+In order to compute a given number 𝑀, you can perform the following steps:
+Step 1. Find log𝑀, using the laws of logarithms.
+Exercise 3.15
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+152Step 2. Find the antilogarithm of log𝑀.
+Approximate the values of the following using logarithm.
+a)  267×3252
+403                          b)  √254    
+Solution :
+a)Let 𝑀=267×3252
+403
+             Log𝑀=logቀ267×3252
+403ቁ
+=log267+log3252−log403
+                   = (2+log2.67)+(3+log3.252)−(2+log4.03)
+                                               = 3+log2.67+log3.252−log4.03
+                                               = 3+0.4265+0.5122−0.6053= 3.3334
+        log𝑀= 3.3334
+        𝑀= antilog (3.3334)=2155
+b)  Let 𝑀=√254    
+         log𝑀=log(√254) =1
+2log254=1
+2(2+log2.54)
+= 1+1
+2log2.54= 1+1
+2(0.4048)= 1.2024
+               𝑀= antilog (1.2024)=15.93
+   
+Compute using logarithms.
+a)   4.26×5.73                             b)   √255                            c)   31.42                                                     
+d)    (4.2)1.3×(0.21)4.1              e)  √488
+(2.81)2                            f)   √0.04615                                                  
+Example 2
+Exercise 3.16
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+1533.2 The Exponential Functions and Their Graphs        
+3.2.1 Exponential Functions 
+Given𝑓(𝑥)= 3𝑥. Evaluate the following.
+a)  𝑓(2)                              b)𝑓(0)                            c) 𝑓(−1)
+Solution:
+𝐚)𝑓(2)= 32= 9.             b)𝑓(0)= 30= 1. 𝐜)𝑓(−1)= 3−1=1
+3.
+Write each of the following functions in the form 𝑓(𝑥)= 2𝑘𝑥or 𝑓(𝑥)= 3𝑘𝑥for a 
+suitable constant 𝑘.                                               
+a)  𝑓(𝑥)= 4𝑥            b)  𝑓(𝑥)=√2𝑥           c)  𝑓(𝑥)=ቀ1
+9ቁ𝑥
+     
+Solution:
+a)  𝑓(𝑥)= 4𝑥=(22)𝑥= 22𝑥                     b)  𝑓(𝑥)=√2𝑥=ቀ21
+2ቁ𝑥
+= 21
+2𝑥                              
+Consider a single bacterium which divides every hour.
+a)Find the number of bacteria after one hour, two hours, three hours, four 
+hours, and 𝑡hours.
+b)Complete the following table.
+Time in hour ( 𝑡)0 1 2 3 4   …𝑡
+Number of bacteria 1
+c)Write a formula to calculate the number of bacteria after 𝑡hours.
+Activity 3.5
+Definition 3.8
+The exponential function 𝑓with base 𝑎is denoted by 𝑓(𝑥)=𝑎𝑥where
+𝑎> 0,𝑎≠ 1and 𝑥is any real number.
+Example 1
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+154     c)  𝑓(𝑥)=ቀ1
+9ቁ𝑥
+=ቀ1
+32ቁ𝑥
+=(3−2)𝑥= 3−2𝑥
+1.Given 𝑓(𝑥)=ቀ1
+4ቁ𝑥
+. Find the values of 
+a)   𝑓(2)                  b)  𝑓(−2)         c)   𝑓ቀ1
+2ቁ         d)    𝑓ቀ−1
+2ቁ
+2.Write each of the following functions in the form 𝑓(𝑥)= 2𝑘𝑥or 𝑓(𝑥)= 3𝑘𝑥for 
+a suitable constant 𝑘.                                               
+a)  𝑓(𝑥)= 8𝑥            b)  𝑓(𝑥)=√3𝑥           c)𝑓(𝑥)=ቀ1
+81ቁ𝑥
+     
+d)  𝑓(𝑥)=√23𝑥                 e)  𝑓(𝑥)=ቀ1
+27ቁ𝑥
+3        f) 𝑓(𝑥)=ቀ1
+16ቁ−𝑥
+3
+3.2.2 Graph of Exponential Functions 
+Graphs of exponential functions can be drawn by plotting points on the 𝑥𝑦-plane.
+Draw the graph of the exponential function  𝑓(𝑥)= 2𝑥.
+1)In the definition of exponential function, 𝑎≠ 1 because if 𝑎= 1,𝑓(𝑥)=
+1𝑥= 1is a constant function.
+2)The exponential function  𝑓(𝑥)=𝑎𝑥, where 𝑎> 0,𝑎≠ 1is different from 
+all the functions that you have studied in the previous chapters because the 
+variable xis an exponent.
+3)A distinct characteristic of an exponential function 𝑓(𝑥)=𝑎𝑥is showing a 
+rapid increase as 𝑥increases for 𝑎> 1 and showing a rapid decrease as 𝑥
+increases for 𝑎< 1.
+4)Many real-life phenomena with patterns of rapid growth (or decline) can be 
+modeled by exponential functions.
+Note
+Exercise 3.17
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+155Solution:
+First, wecalculate values of 𝑓(𝑥)for some integer values of 𝑥and prepare a table of 
+these values.
+𝑓(−3)=1
+8, 𝑓(−2)=1
+4, 𝑓(−1)=1
+2, 𝑓(0)= 1, 𝑓(1)= 2, 𝑓(2)= 4, 𝑓(3)= 8
+𝑥 −3 −2 −1 0 1 2 3
+𝑓(𝑥)= 2𝑥1
+81
+41
+21 2 4 8
+Then we plot the points on the 𝑥𝑦-plane and 
+join them by a smooth curve as shown in the 
+figure 3.1.
+                                                                             Figure 3.1: Graph of 𝑓(𝑥)= 2𝑥
+Since the domain of a function 𝑦=𝑓(𝑥)is the set of all values of 𝑥for which the 
+function 𝑓is defined and its range is the set of all values o f 𝑦, the domain of          
+𝒇(𝒙)=𝟐𝒙is the set of all real numbers and its range is the set of positive real 
+numbers .
+✓The function 𝑓(𝑥)= 2𝑥is positive for all values of 𝑥.
+✓As 𝑥increases, the value of the function gets larger andlarger.
+✓As 𝑥decreases, the value of the function gets smaller and smaller, 
+approaching zero.
+Note
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+156For the function 𝑓(𝑥)= 3x,
+      a)  Complete the table of values below.
+𝑥 −2 −1 0 1 2
+𝑦=𝑓(𝑥)
+       b)  Find the intercepts.
+       c) Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining them
+           by a smooth curve.
+       d) Find the domain and range of 𝑓.
+Draw the graph of the exponential function  𝑓(𝑥)=ቀ1
+2ቁ𝑥
+.
+Solution:
+First, we calculate values of 𝑓(𝑥)for some integer xand prepare a table of these
+values.
+1)For which values of xis 𝑓(𝑥)= 2𝑥> 1?
+2)For which values of xis 𝑓(𝑥)= 2𝑥< 1?
+3)Does𝑓(𝑥)= 2𝑥increase as 𝑥increases ? 
+4)What happens to the graph of  𝑓(𝑥)= 2𝑥as x gets larger and larger without 
+bound?
+5)What happens to the graph of 𝑓(𝑥)= 2𝑥when xis negative and ȁ𝑥ȁis very 
+large?
+6)Is there a line that the graph of  𝑓(𝑥)= 2𝑥approaches but never touches 
+when xis negative and ȁ𝑥ȁis very large? What is that line?
+Activity 3.6
+Exercise 3.18
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+157𝑓(−3)= 8, 𝑓(−2)= 4, 𝑓(−1)= 2, 𝑓(0)= 1, 𝑓(1)=1
+2, 𝑓(2)=1
+4, 𝑓(3)=1
+8
+Then we plot the points on the xy-plane and join 
+them by a smooth curve as shown in the figure 
+3.2.
+                             
+                                            
+                                                                                 Figure 3.2: Graph of 𝑓(𝑥)=ቀ1
+2ቁ𝑥
+   
+For the function 𝑓(𝑥)=ቀ1
+3ቁ𝑥
+,
+      a)  Complete the table of values below.
+𝑥 −3 −2 −1 0 1 2
+𝑦=𝑓(𝑥)𝑥 −3 −2 −1 0 1 2 3
+𝑓(𝑥)=(1
+2)𝑥8 4 2 1 1
+21
+41
+8
+•The function 𝑓(𝑥)=ቀ1
+2ቁ𝑥
+is positive for all values of x.
+•As xincreases, the value of the function gets smaller and smaller, 
+approaching zero.
+•As xdecreases, the value of the function gets larger and larger.
+Note
+Exercise 3.19
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+158       b)  Find the intercepts.
+       c) Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining them
+           by a smooth curve.
+       d) Find the domain and range of 𝑓.
+The exponential function 𝑓(𝑥)=𝑎𝑥,𝑎> 0and𝑎≠ 1 has domain of the set of all 
+real numbers and range of the set of all positive real numbers. The 𝑥-axis (the line
+𝑦= 0) is a horizontal asymptote of 𝑓. The graph of 𝑓has one of the following shapes.
+                                  
+                                   (a)                                                                (b)
+                                                               Figure 3.3
+The basic characterstics of the exponential function are summarized below.
+Characterstics of Graph of 𝒇(𝒙)=𝒂𝒙,𝒂>𝟏
+a)Domain: ℝ= The set of all real numbers.
+b)Range: ℝ+=The set of all positive real numbers.
+c)𝑦-intercept: The point (0,1).
+d)Has no 𝑥-intercept.
+e)It is increasing on ℝ= (−∞, ∞).
+f)The graph goes upward without bound as x gets larger and positive.
+g)The graph gets closer to the negative 𝑥-axis when 𝑥is negative and ȁ𝑥ȁis 
+large. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+159h)Horizontal asymptote: The 𝑥-axis (the line 𝑦= 0) is a horizontal asymptote.
+(See figure 3 .3a)
+Characterstics of Graph of 𝒇(𝒙)=𝒂𝒙,𝟎<𝒂<𝟏.
+a)Domain: ℝ= The set of all r eal numbers.
+b)Range: ℝ+=The set of all positive real numbers.
+c)𝑦-intercept: The point (0,1).
+d)Has no x intercept.
+e)It is decreasing function. The value of 𝑓decreases whenever the value of 𝑥
+increases.
+f)The graph goes upward without bound when 𝑥is negative and ȁ𝑥ȁis large
+g)The graph gets closer to the positive 𝑥-axis when 𝑥gets larger and positive. 
+h)Horizontal asymptote: The 𝑥-axis (the line y= 0) is a horizontal asymptote.
+(See figure 3.3b)
+Find the exponential function 𝑓(𝑥)=𝑎𝑥whose graph is given by figure 3.4.
+Figure 3.4
+Solution: 
+If 𝑓(2)=𝑎2=16then𝑎= 4. So, 𝑓(𝑥)= 4𝑥is the required function.
+Exam ple 3
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+1601) Find the exponential function 𝑓(𝑥)=𝑎𝑥whose graph is given by figure 3.5.
+                                                      Figure 3.5
+  2)  Using the same coordinate system, draw the graphs of 
+a)𝑓(𝑥)= 3𝑥and 𝑔(𝑥)=ቀ1
+3ቁ𝑥
+.
+b)𝑓(𝑥)= 4𝑥and 𝑔(𝑥)=ቀ1
+4ቁ𝑥
+.
+3.2.3 The Natural Exponential Function 
+Any positive number can be used as the base for an exponential function, but for the 
+bases the number denoted by the letter 𝑒and 10 are used more frequently. The number 
+𝑒is the most important base and convenient for certain applications.
+The number 𝑒is defined as the value that ቀ1+1
+𝑛ቁ𝑛
+approaches as nbecomes large. 
+The table below shows the values of the expression ቀ1+1
+𝑛ቁ𝑛
+for increasingly large 
+values of 𝑛. It appears that 𝑒≅ 2.71828 correct to five decimal places.
+Exercise 3.20
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+161The approximate value to 20decimal places is 𝑒≅ 2.71828182845904523536 .
+Since 2 < 𝑒< 3, the graph of the natural 
+exponential function lies between the graphs 
+of 𝑔(𝑥)= 2𝑥and ℎ(𝑥)= 3𝑥as shown in the 
+figure 3.6.
+                                                               Figure 3.6n(1+1
+𝑛)𝑛
+1 2.00000
+2 2.25000
+5 2.48832
+10 2.59374
+100 2.70481
+1000 2.71692
+10,000 2.71815
+100,000 2.71827
+1,000,000 2.71828
+Definition 3.9
+The natural exponential function is the exponential function 𝑓(𝑥)=𝑒𝑥  with 
+base 𝑒.
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+162Use a scientific calculator to evaluate each expression correct to five decimal places.
+a)𝑒2                                   b)  𝑒−1                              c)𝑒3.5
+Solution:
+We use the [𝑒]key on a scientific calculator to evaluate the exponential expressions.
+a)𝑒2≅ 7.38906 .
+b)𝑒−1≅ 0.36788.
+c)𝑒3.5≅33.11545.
+Construct table of values for some integer values of 𝑥, sketch the graphs, find the x-
+intercept and y-intercept, find the asymptote and give the domain and the range of    
+𝑦= −𝑒𝑥.
+𝑥 −2 −1 0 1 2
+𝑦= −𝑒𝑥−0.14−0.37−1 −2. 72−7.39
+No 𝑥-intercept.
+The 𝑦-intercept is (0, -1).
+The asymptote is the line 𝑦= 0(𝑥-axis).
+The domain is the set of all real numbers.
+The range is the set of negative real numbers.
+                                                                                                   Figure 3.7
+Example 1
+Example 2
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+163Construct table of values for some integer values of 𝑥, sketch the graphs, find the    
+x-intercept and y-intercept, find the asymptote and give the domain and the range of 
+the following functions.
+a)  𝑦=𝑒−𝑥                          b)  𝑦= −𝑒−𝑥                 c)  𝑦= 1+𝑒𝑥                
+3.3 The Logarithmic Functions and Their Graphs
+3.3.1 The Logarithmic Functions
+Every exponential function 𝑓(𝑥)=𝑎𝑥with 𝑎> 0and 𝑎≠ 1is a one- to-one function 
+and hence it has an inverse function. The inverse function 𝑓−1is called the logarithmic 
+function with base 𝑎and is denoted by 𝑔(𝑥)=log𝑎𝑥where 𝑔=𝑓−1. This leads us 
+to the following definition of the logarithmic function.
+Let 𝑎> 0and 𝑎≠ 1. The logarithmic function with base adenoted by 𝑦=log𝑎𝑥is 
+defined by
+y =log𝑎𝑥  ifandonlyif𝑥=𝑎𝑦.
+When evaluating logarithms, remember that a logarithm is an exponent. That is, 
+log𝑎𝑥is the exponent to which 𝑎must be raised to obtain 𝑥. 
+Use the definition of logarithmic function to evaluate each logarithm function at the 
+indicated value of 𝑥.
+a)   𝑓(𝑥)=log2𝑥,𝑥= 4                       b)𝑓(𝑥)=log4𝑥,𝑥= 1
+c)𝑓(𝑥)=log3𝑥,𝑥=27                     d)𝑓(𝑥)=log10𝑥,𝑥=1
+10
+Solution:
+a)𝑓(4)=log24 = 2 because 22= 4.
+b)𝑓(1)=log41 = 0 because 40= 1.
+Exercise 3.21
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+164c)𝑓(27)=log327= 3 because 33=27.
+d)𝑓ቀ1
+10ቁ=log10ቀ1
+10ቁ= −1 because 10−1=1
+10.
+Write each of the following functions in the form 𝑓(𝑥)=𝑘log2𝑥or
+𝑓(𝑥)=𝑘log3𝑥for a suitable constant 𝑘.                                                   
+a)  𝑓(𝑥)=log4𝑥                     b)  𝑓(𝑥)=log9𝑥        
+c)𝑓(𝑥)=logቀ1
+4ቁ𝑥                     d)  𝑓(𝑥)=log√3𝑥          
+Solution:
+a)  𝑓(𝑥)=log4𝑥=log2𝑥
+log24=log2𝑥
+log222=log2𝑥
+2log22=log2𝑥
+2=1
+2log2𝑥   
+b)  𝑓(𝑥)=log9𝑥=log3𝑥
+log39=log3𝑥
+log332=log3𝑥
+2log33=log3𝑥
+2=1
+2log3𝑥   
+c)   𝑓(𝑥)=logቀ1
+4ቁ𝑥=log2𝑥
+log22−2=log2𝑥
+−2log22= −1
+2log2𝑥      
+d)  𝑓(𝑥)=log√3𝑥=log3𝑥
+log3√3=log3𝑥
+1
+2log33= 2log3𝑥
+Write each of the following functions in the form 𝑓(𝑥)=𝑐log2𝑘𝑥or
+𝑓(𝑥)=𝑐log5𝑘𝑥for suitable constants 𝑐and𝑘.                             
+a.  𝑓(𝑥)=logቀ1
+8ቁቀ−𝑥
+2ቁ           b.  𝑓(𝑥)=logቀ1
+25ቁቀ𝑥
+5ቁ              
+Solution:
+a.  𝑓(𝑥)=logቀ1
+8ቁቀ−𝑥
+2ቁ=log2ቀ−𝑥
+2ቁ
+log2ቀ1
+8ቁ=log2ቀ−𝑥
+2ቁ
+log2(2)−3=log2ቀ−𝑥
+2ቁ
+−3log22=log2ቀ−𝑥
+2ቁ
+−3
+                                                                                          = −1
+3log2ቀ−1
+2𝑥ቁ   
+b.𝑓(𝑥)=logቀ1
+25ቁቀ𝑥
+5ቁ=log5ቀ𝑥
+5ቁ
+log5ቀ1
+25ቁ=log5ቀ𝑥
+5ቁ
+log5(5)−2=log5ቀ𝑥
+5ቁ
+−2log55=log5ቀ𝑥
+5ቁ
+−2
+                                                                                    = −1
+2log5ቀ1
+5𝑥ቁ   
+Example 2
+Example 3
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+1651.  Given 𝑓(𝑥)=logቀ1
+4ቁ𝑥. Find the values of 
+     a.   𝑓(2)             b.    𝑓(−2)         c.   𝑓ቀ1
+16ቁ         d.    𝑓(√2)
+2.  Write each of the following functions in the form 𝑓(𝑥)=𝑘log2𝑥or
+     𝑓(𝑥)=𝑘log3𝑥for a suitable constant 𝑘.    
+a.  𝑓(𝑥)=log16𝑥                    b.  𝑓(𝑥)=log√27𝑥                
+c. 𝑓(𝑥)=logቀ1
+9ቁ𝑥                      d.  𝑓(𝑥)=log√23𝑥           
+3. Write each of the following functions in the form 𝑓(𝑥)=𝑐log2𝑘𝑥or
+    𝑓(𝑥)=𝑐log3𝑘𝑥for suitable constants 𝑐and𝑘.                    
+a.  𝑓(𝑥)=logቀ1
+32ቁቀ−𝑥
+2ቁ               b.  𝑓(𝑥)=logቀ1
+27ቁቀ𝑥
+3ቁ           
+3.3.2 Graphs of Logarithmic Functions
+If a one -to-one function 𝑓has domain A and range B, then its inverse function 𝑓−1has 
+domain B and range A. Since the exponential function 𝑓(𝑥)=𝑎𝑥with
+𝑎> 0and𝑎≠ 1 has domain ℝand range (0,∞), we see that its inverse function 
+𝑔(𝑥)=log𝑎𝑥has domain (0,∞)and range ℝ. Note that 𝑔(𝑥)=𝑓−1(𝑥).
+Draw the graph of the logarithmic function  𝑓(𝑥)=log2𝑥.
+Solution:
+First, we calculate values of 𝑓(𝑥)for some values of 𝑥which are powers of 2 so that 
+we can find their logarithms and prepare a table of these values.
+𝑓(8)=log28 = 3 , 𝑓(4)=log24 = 2 , 𝑓(2)=log22 = 1 , 𝑓(1)=log21 = 0 ,                   
+𝑓ቀ1
+2ቁ=log21
+2= −1 ,       𝑓ቀ1
+4ቁ=log21
+4= −2 ,       𝑓ቀ1
+8ቁ=log21
+8= −3
+Exercise 3.22
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+166𝑥 1
+81
+41
+21 2 4 8
+𝑓(𝑥)=log2𝑥−3 −2 −1 0 1 2 3
+Then we plot the points on the 𝑥𝑦-plane and join them by a smooth curve as shown 
+by figure 3.8
+                                   Figure 3.8: Graph of 𝑓(𝑥)=log2𝑥.
+For the function 𝑓(𝑥)=log3𝑥
+       a)  Complete the table of values below
+𝑥 1
+271
+91
+31 3 9 27
+𝑦=𝑓(𝑥)
+       b)  Find the intercepts.
+       c) Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining them
+          by a smooth curve.
+       d) Find the domain and range of 𝑓.
+Exercise 3.23
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+167Basic characteristics of the graph of 𝑓(𝑥)=log𝑎𝑥,𝑎> 1.
+1.Domain: ℝ+=The set of all positive real numbers.
+2.Range: ℝ= The set of all real numbers.
+3.𝑥-intercept: (1,0)
+4.It has no y intercept. It does not intersect the 𝑦-axis.
+5.It is increasing function. The value of 𝑓increases whenever the value of 𝑥
+increases.
+6.The graph goes upward as x gets larger and positive.
+7.The graph gets closer to the negative 𝑦-axis when 𝑥gets closer to 0 from the right.
+  Figure 3.9: Graph of 𝑓(𝑥)=log𝑎𝑥,𝑎> 1
+Draw the graph of the logarithmic function  𝑓(𝑥)=log1
+2𝑥.
+Solution:
+First, we calculate values of 𝑓(𝑥)for some values of 𝑥which are powers of 1
+2so that 
+we can find their logarithms and prepare a table of these values.
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+168𝑓(8)=log1
+28 = −3 ,   𝑓(4)=log1
+24 = −2 ,   𝑓(2)=log1
+22 = −1 ,   
+𝑓(1)=log1
+21 = 0
+𝑓ቀ1
+2ቁ=log1
+21
+2= 1,   𝑓ቀ1
+4ቁ=log1
+21
+4= 2,    𝑓ቀ1
+8ቁ=log1
+21
+8= 3
+𝑥 1
+81
+41
+21 2 4 8
+𝑓(𝑥)=log1
+2𝑥3 2 1 0 −1 −2 −3
+Then we plot the points on the 𝑥𝑦-plane and join them by a smooth curve as shown 
+in figure 3.10.
+Figure 3.10: Graph of 𝑓(𝑥)=log1
+2𝑥
+For the function 𝑓(𝑥)=logቀ1
+3ቁ𝑥
+       a)  Complete the table of values below.
+𝑥 1
+271
+91
+31 3 9 27
+𝑦=𝑓(𝑥)
+       b)  Find the intercepts.
+Exercise 3.24
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+169       c)Sketch the graph of 𝑓, first by plotting the points (𝑥,𝑦)and then joining
+            them by a smooth curve.
+       d) Find the domain and range of 𝑓.
+Basic characteristics of the graph of  𝑓(𝑥)=log𝑎𝑥,0 <𝑎< 1.
+                              Figure 3.11 Graph of 𝑓(𝑥)=log𝑎𝑥,0 <𝑎< 1
+1.Domain: ℝ+=The set of all positive real numbers.
+2.Range: ℝ= The set of all real numbers.
+3.𝑥-intercept: (1,0)
+4.It has no y intercept. It does not intersect the 𝑦-axis.
+5.It is decreasing function. The value of 𝑓decreases whenever the value of 𝑥
+increases.
+6.The graph goes downward as x gets larger and positive.
+7.The graph gets closer to the positive 𝑦-axis when 𝑥gets closer to 0 from the right.
+For the logarithmic function 𝑓(𝑥)=log𝑎𝑥
+➢The graph of –𝑓(𝑥)is the reflection of the graph of 𝑓(𝑥)along the x-axis.
+➢The graph of 𝑓(−𝑥)is the reflection of the graph of 𝑓(𝑥)along the y-axis.
+Note
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+170Sketch the graph of the following logarithmic functions by reflecting the graph of 
+𝑓(𝑥)=log2𝑥either along the 𝑥-axis or along the 𝑦-axis.
+a)𝑔(𝑥)= −log2𝑥.
+b)ℎ(𝑥)=log2(−𝑥).
+Solution:
+Let𝑓(𝑥)=log2𝑥
+a)Since 𝑔(𝑥)= −log2𝑥= −𝑓(𝑥), the 
+graph of 𝑔(𝑥)is a reflection of the graph 
+of 𝑓(𝑥)along the 𝑥-axis as shown in the 
+figure 3.12.
+                                   Figure 3.12: Graph of 𝑓(𝑥)=log2𝑥𝑎𝑛𝑑𝑔(𝑥)= −log2𝑥
+b)Since ℎ(𝑥)=log2(−𝑥) =𝑓(−𝑥), the 
+graph of ℎ(𝑥)is a reflection of the graph 
+of 𝑓(𝑥)along the 𝑦-axis as shown in the 
+figure 3.13.
+                                       Figure 3.13: Graph of  𝑓(𝑥)=log2𝑥and ℎ(𝑥)=log2(−𝑥)
+Example 1
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+171Sketch the graph of the following logarithmic functions by reflecting the graph of 
+   𝑓(𝑥)=logቀ1
+2ቁ𝑥either along the 𝑥-axis or along the 𝑦-axis. 
+a)   𝑔(𝑥)= −logቀ1
+2ቁ𝑥             
+b)  ℎ(𝑥)=logቀ1
+2ቁ(−𝑥)   
+3.3.3  Natural Logarithms
+Find  the value of each of the following natural logarithms.
+𝐚)ln1                               𝐛)ln𝑒                  c)ln𝑒3            
+d)ln√𝑒3                          e)ln1
+𝑒     
+Solution:
+a)ln1=log𝑒1 = 0                           
+b)ln𝑒=log𝑒𝑒= 1           
+c)ln𝑒3= 3ln𝑒= 3           
+d)ln√e3=ln𝑒1
+3=1
+3ln𝑒=1
+3           
+e)ln1
+e=ln𝑒−1= −ln𝑒= −1              
+The graphs of 𝑦=𝑒𝑥, 𝑦=ln𝑥and the line 𝑦=𝑥are shown in figure 3.14.
+Exercise 3.25
+Definition 3.10
+The logarithm of a number to the base eis called natural logarithm and it is 
+written as
+log𝑒𝑥=ln𝑥.
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+172                Figure 3.14 :Graph of  𝑦=𝑒𝑥,𝑦=𝑥and 𝑦=ln𝑥
+Find the values of: 
+           a)  ln√𝑒5                     b) lnቀ1
+𝑒3ቁ                  c)𝑒ln5             d)   ln√𝑒23
+           e)  ln(𝑒×𝑒2)            f)  ln(𝑒𝑥∙𝑒𝑦)           g)lnቀ𝑒𝑥
+𝑒𝑦ቁ
+3.4 Solving Exponential and Logarithmic Equations
+3.4.1 Solving Exponential Equations
+An equation in which the variable occurs in the exponent is called an exponential 
+equation. For instance, 
+2𝑥=16and 35𝑥=81are exponential equations.
+To solve exponential equations, we follow the following 3step procedure.
+1.Isolate the exponential expression on one side of the equation.
+2.Take the logarithm of both sides, then use the laws of logarithms, (power law
+of logarithms) to “bring down the exponent.”
+3.Solve for the variable. 
+Exercise 3.26
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+173Moreover, we use the following property:
+Solve2(2x−1)= 8.
+Solution:
+Since 8 = 23, we have
+          2(2x−1)= 8 = 23  
+                 2(2x−1)= 23
+2𝑥−1 = 3
+                                       𝑥= 2
+              So, the solution is 𝑥= 2. 
+Geometrically, the solution 𝑥= 2, is the first 
+coordinate of the point of intersection of the 
+graphs 𝑦= 2(2x−1)and𝑦= 8
+as shown in the figure  (Figure 3.15 ).  
+                                                                                              Figure 3.15
+Solve 2𝑥2−3𝑥=16.
+Solution:
+Since 16= 24, we have 2𝑥2−3𝑥= 24
+                                                            𝑥2−3𝑥= 4
+𝑥2−3𝑥−4 = 0
+(𝑥+1)(𝑥−4)= 0
+So, the solutions are 𝑥= −1and𝑥= 4.
+Base -exponent property
+For any real numbers 𝑥, 𝑦, 𝑎> 0,𝑎≠ 1,𝑎𝑥=𝑎𝑦ifandonlyif𝑥=𝑦.
+Example 1
+Example 2
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+174Solve for x.
+a) 5𝑥=125 b)33−𝑥=81 c) 42𝑥−5= 23𝑥+6
+           d)  1
+8=ቀ1
+4ቁ𝑥
+                 e)  2−𝑥=512                      f)3𝑥2−2= 9
+           g)  7𝑥2+𝑥=49            h) 33(𝑥+2)= 9𝑥+2               i)  3ቀ27
+8ቁ2
+3𝑥
+= 2ቀ32
+243ቁ2𝑥
+Using logarithm find 𝑥if2𝑥=20.
+Solution:
+Taking the common logarithm on both sides, we obtain:
+                                   log2𝑥=log20              
+                                 𝑥log2 =log(2×10)powerlaw oflogarithm
+                                𝑥log2 =log2+log10productlaw oflogarithm
+                 𝑥=log2+1
+log2sincelog10= 1anddividingeachside bylog2
+But, from the common logarithm table, log2 ≈ 0.3010 .
+Hence,    𝑥≈0.3010+1
+0.3010
+                   ≈1.3010
+0.3010
+≈ 4.32226
+So, the solution is about 4.32226 . 
+Geometrically, the solution x=4.32226 is the 
+first coordinate of the point of intersection of 
+the graphs 𝑦= 2𝑥and𝑦=20as shown in 
+the figure 3.16.
+                                                                                              Figure 3.16
+Exercise 3.27
+Example 3
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+175Solve for 𝑥by taking the common logarithm of each side.
+a)  3𝑥=15                        b)  10𝑥=13.4                     c)  102𝑥+1=92
+d) (6)3𝑥= 5                      e) 42𝑥=61                          f) (1.05)𝑥= 2
+            g)  105𝑥−2=348               h) 3𝑥= 0.283                       i) 2𝑥= 0.283
+3.4.2  Solving Logarithmic Equations
+A logarithmic equation is an equation that involves the logarithm of an 
+expression containing a variable . For instance, log2(𝑥+3)= 4 is logarithmic 
+equation.
+Since the logarithm of non-positive numbers does not exist, before trying to find the 
+solution of  log2(𝑥+3)= 4, you have to restrict 𝑥such that 𝑥+3 > 0 . That is,
+𝑥> −3 . The set of all numbers greater than −3is called the universal set or simply 
+the univer seof the equation log2(𝑥+3)= 4.
+We use the following property to solve logarithmic equations.
+For any positive real numbers 𝑥, 𝑦,𝑎> 0and𝑎≠ 1
+log𝑎𝑥=log𝑎𝑦if and only if 𝑥=𝑦.
+We use the following proceduresto solve logarithmic equations.
+1.State the universe. 
+2.Collect the logarithmic term on one side of the equation.
+3.Write the equation in exponential form.
+4.Solve for the variable.
+Solve the logarithmic equation log2(𝑥+3)= 4.
+Solution:    
+Exercise 3.28
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+176If𝑥+3 > 0 then the universe is 𝑥> −3 . 
+                    log2(𝑥+3)= 4
+                                                             𝑥+3 = 24               exponential form
+                                          𝑥+3 =16            
+                                          𝑥=13> −3               
+                                          So, the solution is 𝑥=13.
+Geometrically, the solution 𝑥=13, is the first coordinate of the point of intersection 
+of the graphs 𝑦=log2(𝑥+3)and𝑦= 4as shown in the figure 3.17.
+                          Figure 3.17:  Graph of 𝑦=log2(𝑥+3)
+Solve log3(5𝑥−2) = 2− log34.
+Solution :
+   If 5𝑥−2 > 0 then 𝑥>2
+5.
+     log3(5𝑥−2) = 2− log34
+     log3(5𝑥−2)+log34 = 2
+     log34(5𝑥−2) = 2    Product law 
+     log3(20𝑥−8) = 2
+    20𝑥−8 = 32= 9
+          𝑥=17
+20>2
+5
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+177          𝑥=17
+20is the solution.
+State the universe and solve for 𝑥.
+         a)  log2(3𝑥−1)= 5                                          b)   log√2𝑥= 6         
+         c)  log2(𝑥2−3𝑥)= 4                                         d)  log2(𝑥−1)+log23 = 3                       
+         e)  log(𝑥2−121)−log(𝑥+11)= 1                 f)   log𝑥(𝑥+6)=2
+         g)  log𝑥−log3 =log4−log(𝑥+4)                 h)  log2ቀ1+1
+𝑥ቁ= 3        
+         i)  log22+log2(𝑥+2)−log2(3𝑥−5)= 3     
+Using logarithm find 𝑥if3𝑥+4= 2−𝑥.
+Solution:
+Taking the common logarithm on both sides, we obtain:
+log3𝑥+4=log2−𝑥              
+                                      (𝑥+4)log3 = −𝑥log2       
+𝑥log3+4log3 = −𝑥log2
+𝑥log3+𝑥log2 = −4 log3
+                                 𝑥(log3+log2) = −4log3
+                                                          𝑥=−4log3
+log3+log2
+But, from the common logarithm table, we have 
+log2 ≅ 0.3010;log3 ≅ 0.4771 .
+   Hence,    𝑥≅−4(0.4771)
+0.4771+0.3010
+≅−1.9084
+0.7781
+        ≅ −2.45264 .
+Exercise 3.29
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+178So, the solution is about −2.45264 . 
+Geometrically, the solution 𝑥= −2.45264 is the first coordinate of the point of 
+intersection of the graphs 𝑦= 3𝑥+4and𝑦= 2−𝑥as shown in the figure 3.18.
+Figure 3.18
+Using logarithm find 𝑥if,
+a)3𝑥−1= 2𝑥.                   b)   9𝑥= 8𝑥−1.
+3.5 Relation Between Exponential and Logarithmic
+        Functions with the Same Base
+Consider the tables of values that we have constructed in the previous section for the 
+exponential function 𝑦= 2𝑥and logarithmic function 𝑦=log2𝑥having the same 
+base 2.
+𝑥 −3 −2 −1 0 1 2 3
+𝑦= 2𝑥1
+81
+41
+21 2 4 8
+Exercise 3.30
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+179𝑥 1
+81
+41
+21 2 4 8
+𝑦=log2𝑥−3 −2 −1 0 1 2 3
+We see that the values of 𝑥and 𝑦are 
+interchanged in the functions 𝑦= 2𝑥and
+𝑦=log2𝑥. That is, the domain of 𝑦= 2𝑥
+is the range of 𝑦=log2𝑥, the range of 
+𝑦= 2𝑥is the domain of 𝑦=log2𝑥and 
+vice-versa.
+Now let us sketch the graphs of both 
+functions on the same co-ordinate system 
+as shown in the figure 3.19.
+                                                               Figure 3.19: Graph of 𝑦=log2𝑥and 𝑦= 2𝑥
+Observe that the graph of 𝑦=log2𝑥is the 
+reflection of the graph of 𝑦= 2𝑥along the 
+line𝑦=𝑥as shown in figure 3.19.
+Generally, the functions 𝑦=𝑎𝑥and
+𝑦=log𝑎𝑥,𝑎> 1 are inverses of each 
+other. The relation between the functions 
+𝑦=𝑎𝑥and 𝑦=log𝑎𝑥,𝑎> 1 is shown 
+graphically in figure 3.20.
+                                              Figure 3.20: Graph of 𝑦=log𝑎𝑥and 𝑦=𝑎𝑥for 𝑎> 1
+From the graphs above, observe that:
+1.The domain of 𝑦=𝑎𝑥is the set of all real numbers, that is the range of
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+180      𝑦=log𝑎𝑥.
+2.The range of 𝑦=𝑎𝑥is the set of all positive real numbers, that is the domain of 
+𝑦=log𝑎𝑥.
+      a. Domain of 𝑦=𝑎𝑥   =   Range of 𝑦=log𝑎𝑥.
+      b. Range of 𝑦=𝑎𝑥   =   Domain of 𝑦=log𝑎𝑥.
+3.The 𝑥-axis is the horizontal asymptote of the graph of 𝑦=𝑎𝑥;the 𝑦-axis is a 
+vertical asymptote of the graph of 𝑦=log𝑎𝑥.
+4.The point (0,1)is the 𝑦-intercept of the graph of 𝑦=𝑎𝑥; the point (1,0)is the 𝑥-
+intercept of the graph of 𝑦=log𝑎𝑥.
+Figure 3.21 shows graphs of the 
+family of logarithmic functions with 
+bases 2, 3, 4, 5 and 10. These graphs
+can be drawn by reflecting the graphs 
+of 𝑦= 2𝑥,𝑦= 3𝑥,𝑦= 4𝑥,𝑦= 5𝑥
+and 𝑦=10𝑥along the line 𝑦=𝑥.  
+                                             
+                                                 
+                                                                                   Figure 3.21
+For the exponential function 𝑦=ቀ1
+2ቁ𝑥
+and the logarithmic function 𝑦=log1
+2𝑥,
+a.  Complete the table of values below.
+𝑥 −3 −2 −1 0 1 2 3
+𝑓(𝑥) =(1
+2)𝑥
+Example 1
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+181b.Sketch their graphs on the same 𝑥𝑦-plane.
+c.Find the domain and the range of the functions.
+d.State the relation that exists between the domain and the range of the functions.
+Solution:
+a.  
+𝑥 −3 −2 −1 0 1 2 3
+𝑓(𝑥) =(1
+2)𝑥8 4 2 1 1
+21
+41
+8
+                     Figure 3.22: Graph of 𝑦=ቀ1
+2ቁ𝑥
+and 𝑦=log1
+2𝑥
+𝑥1
+81
+41
+21 2 4 8
+𝑔(𝑥) =log1
+2𝑥
+𝑥1
+81
+41
+21 2 4 8
+𝑔(𝑥) =log1
+2𝑥3 2 1 0 −1 −2 −3
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+182c.The domain of 𝑓(𝑥)is the set of all real numbers and its range is the set of positive 
+realnumbers. The domain of 𝑔(𝑥)is the set of positive real numbers and its range 
+is the set of all real numbers.
+d.Domain of 𝑓(𝑥)= Range of 𝑔(𝑥)and Range of 𝑓(𝑥)= Domain of 𝑔(𝑥).
+Let 𝑓(𝑥)=ቀ1
+3ቁ𝑥
+and 𝑔(𝑥)=log1
+3𝑥.
+1.Sketch the graphs of 𝑓(𝑥)and 𝑔(𝑥)on the same 𝑥𝑦-plane.
+2.Find the domain and the range of 𝑓(𝑥).
+3.Find the domain and the range of 𝑔(𝑥).
+4.Compare the domain of 𝑓(𝑥)with the range of 𝑔(𝑥).
+5.Compare the range of 𝑓(𝑥)with the domain of 𝑔(𝑥).
+3.6 Applications
+3.6.1 Compound Interest
+Exponential functions occur in evaluating compound interest. Suppose an amount of 
+money 𝑃, called the principal, is invested at an annual interest rate r, compounded once 
+a year, then after a year the interest is 𝑃𝑟. If the interest is added to the principal at the 
+end of the year, the new amount 𝐴(1)of money is,
+𝐴(1)=𝑃+𝑃𝑟=𝑃(1+𝑟)
+If the interest is reinvested, then the new principal is 𝐴(1)=𝑃(1+𝑟), and after 
+another year the interest is 𝑟𝐴(1), then the amount after the end of the second year,
+𝐴(2)is
+𝐴(2)=𝐴(1)+𝑟𝐴(1)=𝐴(1)(1+𝑟)=𝑃(1+𝑟)(1+𝑟)=𝑃(1+𝑟)2
+Similarly, at the end of the third year, the amount 𝐴(3)is𝐴(3)=𝑃(1+𝑟)3.
+Generally, after the end of 𝑡years, the amount 𝐴(𝑡)is𝐴(𝑡)=𝑃(1+𝑟)𝑡.
+Observe that this is an exponential function with base 1+𝑟.
+Exercise 3.31
+
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+183Let 𝑛be the number of compounding per year and 𝑡be the number of years. Then the 
+product 𝑛𝑡represents the total number of times the interest will be compounded and 
+the interest rate per compounding period is𝑟
+𝑛. This leads to the following formula 
+indicated as in theorem 3.5 for the amount after 𝑡years.
+A total of Birr 20000 is invested at an interest rate of 7% per year. Find the amounts 
+in the account after 5 years if the interest is compounded
+a)annually,
+b)semi-annually,
+c)quarterly,
+d)monthly,
+e)daily.
+Solution:
+a)Here we have 𝑃=100,𝑟=7%= 0.07,𝑛= 1and𝑡= 5.
+            Using the formula for compound interest with 𝑛compounding per year, we 
+             have 𝐴(𝑡)=𝑃ቀ1+𝑟
+𝑛ቁ𝑛𝑡
+.  .  .  Formula for compound interest
+                                 =20000ቀ1+0.07
+1ቁ1(5)
+.  .  . Substitute for 𝑃,𝑟,𝑛and𝑡
+Theorem 3.5   Compound interest 
+Compound interest is calculated by the formula
+𝐴(𝑡)=𝑃ቀ1+𝑟
+𝑛ቁ𝑛𝑡
+where 𝐴(𝑡)= amount after 𝑡years,
+𝑃= principal,
+𝑟= interest rate per year,
+𝑛= number of times interest is compounded per year and 
+𝑡= number of years.
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+184                                =20000(1.07)5      .  .  . Simplifying
+                                 ≅28051.03.  .  . use a calculator
+            Therefore, the amount in the account after 5 years will be about Birr 28051.03.
+b)For semi-annually compounding, 𝑛= 2. Hence, after 5 years at 7% rate, the 
+amount in the account is
+   𝐴(5)=20000ቀ1+0.07
+2ቁ2(5)
+=20000(1.035)10≅28211.98.
+Therefore, the amount in the account after 5 years will be about Birr 28211.98.
+c)For quarterly compounding, 𝑛= 4. Thus, after 5years at 7%rate, the amount 
+in the account is
+   𝐴(5)=20000ቀ1+0.07
+4ቁ4(5)
+=20000(1.0175)20≅28295.56.
+Therefore, the amount in the account after 5 years will be about Birr 28295.56.
+d)For monthly compounding, 𝑛=12. So, after 5years at 7%rate, the amount 
+in the account is
+   𝐴(5)=20000ቀ1+0.07
+12ቁ12(5)
+=20000(1.00583)60≅28352.51.
+Therefore, the amount in the account after 5 years will be about Birr 28352.51.
+e)For daily compounding, 𝑛= 365. Therefore, after 5 years at 7% rate, the 
+amount in the account is
+𝐴(5)=20000ቀ1+0.07
+365ቁ365(5)
+=20000(1.00019)1825≅28380.40.
+Therefore, the amount in the account after 5 years will be about Birr 28380.40.
+Suppose that Birr 10,000 is invested at 7% interest compounded annually.
+a.Find the function (formula) for the amount to which the investement grows
+The interest paid increases as the number of compounding period 𝑛increases.
+Note
+Exercise 3.32
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+185after tyears.
+b.Find the amount of money in the account at 𝑡= 1,5,10,15and20years.
+c.Find the time 𝑡at which the investement is double.
+Let us see what happens as ngets larger and larger without bound. 
+If we let 𝑚=𝑛
+𝑟, then
+𝐴(𝑡)=𝑃ቀ1+𝑟
+𝑛ቁ𝑛𝑡
+=𝑃(1+1
+𝑚)𝑚𝑟𝑡
+=𝑝[[(1+1
+𝑚)𝑚
+]]𝑟𝑡
+But, as 𝑚becomes larger and larger, the quantity ቀ1+1
+𝑚ቁ𝑚
+approaches the 
+irrational number 𝑒.
+Therefore, the amount Aapproaches 
+𝐴=𝑃𝑒𝑟𝑡
+This expression gives the amount when the interest is continuous lycompounded.
+A total of Birr 100 is invested at an interest rate of 7%per year. Find the amount in 
+the account after 5years if the interest is compounded continuously.
+Solution:     
+For countinuous compounding, the amount in the account after 5years at 7%rate is
+𝐴(5)=100(𝑒0.07(5)) =100(𝑒0.35)=100(1.41906)≅141.91.
+The amount in the account after 5years is Birr 141.91.
+Continuously compound interest is calculated by the formula 
+                          𝐴(𝑡)=𝑃𝑒𝑟𝑡
+where 𝐴(𝑡)= amount after 𝑡years,  𝑃= principal, 𝑟= interest rate per year and                      
+𝑡= number of years.
+Example 2
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+186                                             Figure 3.23
+1)If Birr 40,000 is invested in an account for which interest is compounded 
+continuously, find the amount of the investement at the end of 10 years for the 
+following interest rates.
+a.  6%                                                       b.  7%     
+c.  6.5%                                                   d.  7.5%
+2)Suppose you are offered a job that lasts one month, and you are to be very well 
+paid. Which of  the following methods of payment is more profitable for you?
+a)Birr one million at the end of the month.
+b)Two cents on the first day of the month, four cents on the second day, eight 
+cents on the third day, and, in general, 2𝑛cents on the 𝑛𝑡ℎday.
+3.6.2 Population Growth
+Exercise 3.33
+The exponential function
+𝑃(𝑡)=𝑃0𝑒𝑘𝑡,𝑘> 0is a mathematical model of many kinds of population growth. 
+In this function, 𝑃0is the population at initial time 𝑡0, 𝑃(𝑡)is the population after 
+time 𝑡, and 𝑘is called the exponential growth rate. The graph of such an equation 
+is shown in the figure 3.24.
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+187                                                 
+                                                        Figure 3.24
+In 2013 E.C, the population of a country was 110 million, and the exponential growth 
+rate was 2.3 % per year.
+a)Find the exponential growth function.
+b)Estimate the population in 2018 E.C.
+c)How many years will it take for the population to be doubled?
+Solution: 
+a)Here𝑃0=110million, the population in the year 2013 (𝑡= 0)and the growth 
+rate𝑘= 2.3%= 0.023. So, the exponential growth function is: 
+𝑃(𝑡) =(110,000,000)𝑒0.023𝑡.
+b)In the year 2018, 𝑡= 5. To find the population in 2018, we substitute 5 for 𝑡,
+i.e.,
+𝑃(5)=(110,000,000)𝑒0.023(5)=(110,000,000)𝑒0.115≅123,406,078.
+Therefore, the population will be 123,406,078in 2018.
+c)We find 𝑡for which 𝑃(𝑡)= 2𝑃0= 2(110,000,000)=220,000,000.
+To find the time, we solve the equation:
+        𝑃(𝑡)=(110,000,000)𝑒0.023𝑡
+     220,000,000=(110,000,000)𝑒0.023𝑡
+Example 3
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+188                         2 =𝑒0.023𝑡   .  .  .   dividing each side by 100,000,000
+                   ln2 =ln𝑒0.023𝑡   .  .  . taking the natural logarithm of both sides
+ln2 = 0.023𝑡ln𝑒⏟
+=1  .  .  .   power law of logarithm
+ln2 = 0.023𝑡
+𝑡=ln2
+0.023    .  .  .  dividing each side by 0.023
+𝑡≅0.69315
+0.023      because ln2 ≅ 0.69315
+𝑡≅30.14
+Hence, it takes approximately 30 years for the population of the country to be 
+doubled.
+            Figure 3.25
+From the graphs of 𝑦=110,000,000𝑒0.023𝑡and 𝑦=220,000,000 above, we see 
+that the first coordinate of the point of intersection of the graphs is about 30.14.
+A culture contains 10,000 bacteria initially. After an hour, the bacteria count is 25,000.
+a.Find the doubling period.
+Exercise 3.34
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+189b.Find the number of bacteria after 5 hours
+3.6.3 The pH Scale
+Chemists measured the acidity of a solution by giving its hydrogen ion concentration 
+until Soren Peter Lauritz Sorensen, in 1909, proposed a more convenient measure. He 
+defined
+𝑝𝐻= −log[𝐻+]
+where [𝐻+]is the concentration of hydrogen ions measured in moles per liter (M).
+Solutions with a 𝑝𝐻= 7are defined neutral , those with 𝑝𝐻< 7are acidic , and those 
+with 𝑝𝐻> 7are basic .
+The hydrogen ion concentration of a sample of human blood was measured to be 
+[H+]= 4.53×10−8M. Find the 𝑝𝐻and determine whether the blood is acidic or 
+basic.
+Solution:
+                    We have    𝑝𝐻= −log[H+]= −log[4.53×10−8]
+                               = −[log(4.53)+log10−8]  .  .  .  product law of logarithm
+                                             = −[0.6561−8]    (fromlogtablelog(4.53)= 0.6561)
+                                              = 7.344
+                        Since 𝑝𝐻= 7.344> 7, the blood is basic.
+The most acidic rainfall ever measured occurred in Scotland in 1974 and its pHwas 
+2.4. Find the hydrogen ion concentration.
+Solution:
+            𝑝𝐻= −log[𝐻+]
+             2.4 = −log[𝐻+]       log[𝐻+]= −2.4 … multiply both sides by -1.
+   log[𝐻+]=(3−2.4)−3      (3−3 = 0ading0 toanumbermake nochange)
+Example 4
+Example 5
+
+--- [PAGE BREAK] ---
+
+Unit 3 :Exponential and Logarithmic Functions
+190    log[𝐻+]= 0.6+(−3)
+     antilog(log[𝐻+]) = antilog(0.6+ (−3))
+        [𝐻+]= 3.981×10−3
+So, the hydrogen ion concentration of the rainfall was about 3.98×10−3𝑀.
+1.The hydrogen ion concentration of a sample of each substance is given. Calculate 
+the pH of the substance and determine whether it is acidic or basic.
+a.Lemon juice: [𝐻+]= 5×10−3𝑀
+b.Tomato juice: [𝐻+]= 3.2×10−4𝑀
+c.Seawater: [𝐻+]= 5×10−9𝑀
+2.The pHreading of a sample of each substance is given. Calculate the hydrogen 
+ion concentration of the substance.
+a)Vinegar : 𝑝𝐻= 3
+b)Milk: 𝑝𝐻= 6.5
+Exercise 3.35
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+1911.For a natural number nand a real number 𝑎, the power 𝑎𝑛, read “the thnpower 
+of a” or “𝑎raised to 𝑛”, is defined as follows:
+                            𝑎𝑛=𝑎×𝑎×𝑎× ⋯ × 𝑎 ⏟            
+𝑛𝑓𝑎𝑐𝑡𝑜𝑟𝑠
+In the symbol 𝑎𝑛, 𝑎is called the base and 𝑛is called the exponent .
+2.Laws of exponenets: For a real number 𝑎and natural numbers 𝑚and 𝑛,
+a)𝑎𝑚×𝑎𝑛=𝑎𝑚+𝑛.
+b)𝑎𝑚
+𝑎𝑛=𝑎𝑚−𝑛, 𝑎≠ 0.
+c)(𝑎𝑚)𝑛=𝑎𝑚𝑛.
+d)(𝑎×𝑏)𝑛=𝑎𝑛×𝑏𝑛.
+e)ቀ𝑎
+𝑏ቁ𝑛
+=𝑎𝑛
+𝑏𝑛, 𝑏≠ 0.
+3.𝑎0= 1,𝑎≠ 0.
+4.Laws/properties of logarithms : For any positive numbers 𝑥and 𝑦and           
+𝑎> 0and𝑎≠ 1,
+a)log𝑎𝑥𝑦=log𝑎𝑥+log𝑎𝑦.
+b)log𝑎ቀ𝑥
+𝑦ቁ=log𝑎𝑥−log𝑎𝑦.
+c)log𝑎𝑥𝑟=𝑟log𝑎𝑥.
+d)log𝑎𝑥=log𝑏𝑥
+log𝑏𝑎.
+e)log𝑎𝑎= 1.
+f)log𝑎1 = 0 .
+g)𝑎log𝑎𝑥=𝑥.
+5.The exponential function 𝑓with base 𝑎is denoted by 𝑓(𝑥)=𝑎𝑥, where       
+𝑎> 0,𝑎≠ 1, and 𝑥is any real number.
+Summary
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+1926.The natural exponential function is 𝑓(𝑥)=𝑒𝑥, where 𝑒is the constant 
+2.718281828…. Its graph has the same basic characteristics as the graph of 
+𝑓(𝑥)=𝑎𝑥.
+7.The graphs of the exponential functions 𝑓(𝑥)=𝑎𝑥and 𝑓(𝑥)=𝑎−𝑥have one 
+𝑦-intercept (0,1), one horizontal asymptote (the 𝑥-axis), and are continuos.
+8.For 𝑥> 0,𝑎> 0,𝑎𝑛𝑑𝑎≠ 1,𝑦=log𝑎𝑥if and only if 𝑥=𝑎𝑦.The function 
+𝑓(𝑥)=log𝑎𝑥is called the logarithmic function with base 𝑎.
+9.The graph of the logarithmic function 𝑓(𝑥)=log𝑎𝑥where 𝑎> 1, is the 
+graph of the inverse of 𝑓(𝑥)=𝑎𝑥. 
+10.For𝑥> 0,𝑦=ln𝑥if and only if 𝑥=𝑒𝑦. The function given by             
+𝑓(𝑥)=log𝑒𝑥=ln𝑥is called the natural logarithmic function. Its graph has 
+the same basic characterstics as the graph of 𝑓(𝑥)=log𝑎𝑥. They have the 
+same 𝑥-intercept (1,0), the same verticall asymptote (the 𝑦-axis), and are 
+continuos.
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+1931.53=125,solog = .
+2.Log525= 2,so =.
+3.Let 𝑓(𝑥)=log4𝑥. Then find 𝑓(4),𝑓(1),𝑓ቀ1
+4ቁ,𝑓(16)and𝑓(2).
+4.Find the values of the given logarithms.
+  a)log33                            b)log31                           c)log334
+   d)logቀ1
+27ቁ3                       e)log√216                        f)log4ቀ1
+4ቁ                            
+   g)logቀ1
+5ቁ5                          h)logቀ1
+16ቁ64                    i) logቀ1
+3ቁ9
+    j)log50.2                         k) log0.0010.1                    l)log10√10
+  m)log520+log5ቀ125
+4ቁ−log5ቀ1
+25ቁ
+For question numbers 5 and 6, fill in the table by finding the appropriate 
+logarithmic or exponential form of the equation.
+5.
+Logarithmic 
+formExponential 
+form
+log77 = 1
+log864= 2
+82
+3= 4
+83=512
+log8(1
+8)= −1
+8−2=1
+64
+Review Exercise
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+1946.
+7.Express the logarithmic statement in to exponential statement. 
+a)log5125= 3                             b) log51 = 0            
+c) log100.1 = −1                           d)log8512= 3           
+e)log82 =1
+3                                  f)log93 =1
+2           
+g)log381= 4                               h)log21
+8= −3            
+8.Express the exponential statement in to logarithmic statement.
+a)33=27 b)10−3= 0.001           
+c) 103=1000 d)811
+2= 9           
+e)8−1=1
+8f)2−3=1
+8           
+g)4−3
+2= 0.125 h)10−3= 0.001           
+9.Use the definition of logarithmic function to find 𝑥.
+a)log√2𝑥= 6                                   b)log232=𝑥           
+c)log5𝑥= 4                                     d)log100.1 =𝑥           
+e)logቀ1
+2ቁ2 =𝑥                                   f)log4𝑥= 2           Logarithmic 
+formExponential 
+form
+43=64
+log42 =1
+2
+43
+2= 8
+log4(1
+16)= −2
+log4(1
+2)= −1
+2
+4−5
+2=1
+32
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+195g)log𝑥6 =1
+2                                      h)log𝑥3 =1
+3           
+10.Given log102 = 0.3010 and log103 = 0.4771 . Then find the following 
+logarithms.
+a)log2√3                                                b)log20.3                                                  
+c)   log30.6                                              d)   log2108
+e)log35 f)log475                                                  
+11.Match the function with its graph.
+a)𝑓(𝑥)= 4𝑥                                           b)  𝑓(𝑥)=ቀ1
+4ቁ𝑥
+                                                                                         
+c)𝑔(𝑥)=log4𝑥                                       d)𝑓(𝑥)=log1
+4𝑥                   
+I)
+                                                            
+                                               
+                     
+                       Figure 3.26
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+196II)
+                                                                                    Figure 3.27
+III)
+                                                                                               
+                                            Figure 3.28
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+197IV)
+                                                                              Figure 3.29
+12.In each of the following, tell which is greater.
+a)  √58or √24                                         b)  ቀ1
+3ቁ√3
+or ቀ1
+3ቁ3
+     
+c)  (√0.2)−3.5or 1                               d)logቀ1
+2ቁ20or logቀ1
+2ቁ50     
+      e)log(5+√7)or log5+log√7        f) (2√23)−6or 2−11
+13.Solve each of the following equations.
+a)  ቀ1
+4ቁ𝑥−1
+= 42−3𝑥                    b)2𝑥×5𝑥= 0.1×( 10(𝑥−1))5
+    c)  ቀ1
+4ቁ3𝑥
+−ቀ1
+8ቁ𝑥−1
+=128         d)22𝑥+2= 9(2𝑥)−2
+     e)  9𝑥+1+3𝑥+2−18= 0         f)  28−2𝑙𝑜𝑔2√2= 4×32𝑥+5−34𝑥+8
+g)  815−2𝑥×243𝑥−2
+95𝑥−1=1
+3                h)   91+log3𝑥−31+log3𝑥−210= 0
+14.State the universe and solve each of the following equations.
+    a)log2(𝑥+2)+log2(𝑥−1)= 2      b)log3(𝑥2−8𝑥)= 2
+     c)log𝑥
+log(5𝑥−3)= 1                                     d) 2+log𝑥
+3−log𝑥= 5
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+198     e)log(3𝑥2+1)−log(3+𝑥)=log(3𝑥−2)    f)  log(𝑥2+13)
+log(𝑥+5)= 2
+     g)log(3𝑥−1)−log(3𝑥+1)=log16     h) log3[1+log3(2𝑥−7)] = 1
+      i)3√log𝑥+2log√𝑥−1= 2                         j)   log4(𝑥+12)∙log𝑥2 = 1
+15.For the function given below, find the 𝑥-intercept, the 𝑦-intercept, the asymptot, 
+the domain, the range and sketch its graph. 
+a)  𝑓(𝑥)= −2+2𝑥                      b)    ℎ(𝑥)= −2+2−𝑥
+c)   𝑓(𝑥)=log2(𝑥+2)                  d)    𝑔(𝑥)=logቀ1
+2ቁ(𝑥−1)                    
+16.The initial size of a culture of bacteria is 1,000. After an hour, the bacteria count 
+is 8,000.
+a)Find a function that models the population after 𝑡hours.
+b)Find the population after 1.5 hours.
+c)When will the population reach 15,000?
+d)Sketch the graph of the population function.
+17.Suppose that Birr 10,000 is invested in a saving account paying 7% interest per 
+year.
+a)Write the formula for the amount in the account after 𝑡years if interest is 
+compounded monthly.
+b)Find the amount in the account after 5 years if interest is compounded daily.
+c)How long will it take for the amount in the account to grow to 25,000 if 
+interest is compounded semiannually?

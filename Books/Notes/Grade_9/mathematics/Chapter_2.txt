@@ -1,0 +1,3053 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 2: THE NUMBER SYSTEM………………………
+Pages: 38 to 115
+=================================================================
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE NUMBER SYSTEM  
+ 
+ 
+ 
+ 
+Unit Outcomes  
+Describe rational numbers . 
+Locate rational numbers on number line . 
+Describe irrational numbers . 
+Locate some irrational numbers on a number line . 
+Define real numbers . 
+Classify real numbers as rational and irrational . 
+Solve mathematical problems involving real numbers.  
+Unit Contents  
+2.1  Revision on Natural Numbers and Integers  
+2.2  Rational Numbers  
+2.3  Irrational Numbers  
+2.4  Real Numbers  
+2.5  Applications  
+ Summary  
+       Review Exercise  
+ 
+  
+         
+ 
+ 
+  UNIT  
+2 
+27
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 
+ • perfect square  • significant digits  
+• greatest common 
+factor  • significant figures  
+• division algorithm  • principal nth root • terminating decimal  
+• fundamental theorem of 
+arithmetic  • prime factorization  • least common 
+multiple (LCM)  
+• rationalizing factor  • repeating decimal  • real number   
+• irrational number                       • scientific notation                                 • radicand  
+• rationalization  • bar notation  • composite number  
+Introduction  
+In the previous grades, you learned number systems about natural numbers, integers 
+and rational numbers. You have discussed meaning of  natural numbers, integers and 
+rational numbers, the basic properties and operations on the above number systems. In 
+this unit, after revising those properties of natural numbers, integers and rational 
+numbers, you will continue to learn about irrational and real numbers.  
+2.1  Revision on Natural Numbers and Integers  
+ 
+ 
+1.List five members of : -  
+a.Natural numbers                            
+b.Integers  
+2.Select natural numbers and integers from the following.  
+a.6              b.   0            c.   −25 
+3.What  is the relationship between  natural numbers and integers?  
+ 
+Activity 2.1 
+28
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+The collection of well -defined distinct objects is known as a set. The word well -defined 
+refers to a specific property which makes it easy to identify whether the given object 
+belongs to the set or not. The word ‘distinct’ means that the objects of a set must be all 
+different .  
+From your grade 7 mathematics lessons, you recall that  
+• The set of natural numbers , which is denoted by ℕ expressed as  
+ ℕ={1,2,3,…}. 
+• The set of integers , which is denoted by ℤ is expressed as  
+ ℤ={…,−2,−1,0,1,2,3,…}. 
+ 
+Categorize each of the following as natural numbers and integers.  
+3,−2,11,0,−18,15,7 
+Solution:  
+All the given numbers are integers and 3, 11, 15 and 7 are natural numbers.  
+ 
+1. Categorize each of the following as natural numbers and integers . 
+8,−11 ,23,534 ,0,−46,−19,100 
+2. What is the last integer before one thousand?  4. Decide if the following statements are always true, sometimes true or never 
+true and provide your  justification . 
+a. Natural numbers are integers  
+b. Integers are natural numbers  
+c. -7 is a natural number  
+5. Draw diagram which shows  the relationship of Natural n umber s and Integer s. 
+ 
+ 
+ 
+ 
+ 
+ 
+Example  
+  
+Exercise 2.1 
+29
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 3. Consider any two natural numbers 𝑛1 and 𝑛2.  
+a. Is 𝑛1 +𝑛2 a natural number? Explain using example.  
+b. Is 𝑛1 −𝑛2 a natural number? Explain using example.  
+c. What can you conclude from (a) and (b)?  
+4. If the perimeter of a triangle is 10 and lengths of the sides are natural 
+numbers, find all the possible lengths of sides of the triangle.  
+5. Assume 𝑚 and 𝑛 are two positive integers and 𝑚+𝑛<10. How many different 
+values can the product 𝑚𝑛 (𝑚 multiplied by 𝑛) have?  
+ 
+2.1.1  Euclid’s Division lemma   
+ 
+From your activity, using the process of dividing one positive integer by another, you 
+will get remainder and quotient as described in the following theorem.  
+ 
+In theorem  2.1, 𝑎 is called the dividend , 𝑞 is called the quotient , 𝑏 is called the  divisor , 
+and 𝑟 is called the remainder . 
+ 
+1.In a book store there are 115 different books to be distributed  to 8 students. If 
+the book store shares  these books equally, how many books will each student 
+receive  and how many books will be left ?  
+2.Divide a natural number 128  by 6. What is the quotient and remainder of this 
+process? Can you guess a remainder before performing the division process?  
+Activity 2.2 
+Theorem  2.1  Euclid’s Division lemma  
+Given a non -negative integer 𝑎 and a positive integer 𝑏, there exist unique non-
+negative integers  𝑞 and 𝑟 satisfying  
+               𝑎=𝑏×𝑞+𝑟  with 0≤𝑟<𝑏. 
+30
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Find the unique quotient and remainder when  a positive integer.  
+ a.  38 is divided by 4       b.   5 is divided by 14       
+ c.  12 is divided by 3       d.    2,574 is divided by  8 
+Solution:  
+a. Here, it is given that the dividend is 𝑎=38 and 
+the divisor is  =4 . So that we need to determine 
+the unique numbers  𝑞 and 𝑟.When we divide 38 
+by 4, we get a quotient  𝑞=9 and a remainder 
+𝑟=2. Hence, we can write this as  38=4×9+2.  
+b. The number 5 is less than the divisor 14.  So, the 
+quotient is 0 and the  remainder is  5. 
+      That is, 5=14×0+5.  
+ 
+c. When we divide 12 by 3, we obtain 4  as a 
+quotient and the remainder is 0. That is  
+12=3×4+0. 
+ 
+d. Using long division  if 2,574 is divided by 8,  
+we get 321 as a quotient and 6 as a remainder. 
+We can write 2,574=8×321+6. 
+ 
+ 
+Example  
+  
+31
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+In the above example (c), 12 is divisible by 3 since the remainder is 0.  
+ 
+1. For each of the following pairs of numbers, let 𝑎 be the first number of the pair and 
+𝑏 be the second number. Find 𝑞 and 𝑟 for each pair such that 𝑎=𝑏×𝑞+𝑟, where 
+0≤𝑟<𝑏.  
+      a.   14,3            b.  116,7   c. 570,6         d. 25,36         e. 987,16             
+2. Find the unique quotient and remainder when 31 is divided by 6.  
+3. Find four positive integers when divided by 4 leaves remainder 3. 
+4.  A man has Birr 68. He plans to buy items such that each costs Birr 7. If he needs  
+Birr 5 to remain in his pocket, what is the maximum number of items he can buy?  
+5. Find the remainder of (5m+1)(5m+3)(5m+6)
+5 for m  is non -negative integer . 
+ 
+2.1.2  Prime numbers and composite numbers  
+In this subsection, you will confirm important facts about prime and composite 
+numbers. Th e following activity (activity 2 .3) will help you to refresh your memory.  
+ 
+ 
+For two positive integers 𝑎 and 𝑏 in the division lemma , we say 𝑎 is divisible by 
+𝑏 if the remainder 𝑟 is zero.  
+Note  
+ 
+Exercise 2.2 
+ 
+1.Fill in the blanks to make the statements correct using the numbers 3 and 12.         
+       a.  ____________is a factor of _____________ . 
+ b.  ____________is divisible by ____________ . 
+ c. ____________is a multiple of _____________ . 
+ 
+Activity 2.3 
+32
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Observations  
+Given two natural numbers  ℎ and 𝑝, ℎ is called a multiple of 𝑝 if there is a natural 
+number 𝑞 such that ℎ=𝑝×𝑞 . In this way we can say: 
+▪  𝑝 is called a factor  or a divisor  of ℎ. 
+▪ ℎ is divisible by 𝑝. 
+▪ 𝑞 is also a factor or divisor of ℎ. 
+▪ ℎ is divisible by 𝑞. 
+Hence, for any two natural numbers ℎ and 𝑝, ℎ is divisible by 𝑝 if there exists a 
+natural number 𝑞 such that ℎ=𝑝×𝑞. 
+ 2. For each of the following statements write ‘true’ if the statement is correct and 
+‘false’ otherwise. If your answer is false give justification why it is false.  
+a. 1 is a factor of all natural numbers.  
+b. There is no even prime number.  
+c. 23 is a prime number.  
+d. If a number is natural number, it is either prime or composite . 
+e. 351 is divisible by 3. 
+f. 22×3×7 is the prime factorization  of  84. 
+g. 63 is a multiple of 21.  
+3. Write  factors of :  
+ a. 7  b. 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Definition 2.1   Prime and composite numbers  
+ 
+A natural number that has exactly two di stinct factors, namely 1 (one) and itself 
+is called a prime number  whereas a nat ural number that has more tha n two factors 
+is called a composite number . 
+33
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Is 18 a prime number or a composite number ? Why?  
+Solution:  
+Observe that, 18=1×18 , 18=2×9 or  18=3×6 .This indicates 1,2,3,6,9 
+and 18 are factors of 18. Hence, 18 is a composite number.  
+ 
+Find a prime number(s) greater than  50 and less than  55. 
+Solution:  
+The natural numbers greater than 50 and less than  55 are 51,52,53 and 54.  
+ 51=3×17, so that 3 and 17 are factors of 51 . 
+ 52=2×26, so that 2 and 26  are factors of 52, and  
+ 54=2×27, hence 2 and 27 are factors of 54. Therefore, these three numbers are 
+composite numbers. But 53=1×53. Hence, 1 and 53 are the only factors of 53 so 
+that 53 is a prime number. Therefore , 53 is a prime numb er greater than 50 and less 
+than 55. 
+ 
+1. Is 21 a prime number or a composite number? Why?  
+2. Write true if the statement is correct and false otherwise  
+a. There are 7 prime numbers between 1 and 20. 
+b. 4,6,15 and 21 are composite numbers.  
+c. The smallest composite number is  2. 
+d. 101 is the prime number nearest to 100. 
+e. No prime number greater than 5 ends with 5. 
+3. Is 28 a composite number? If so, list all of its factors.  
+4. Can we generalize that ‘if a number is odd, then it is prime’? Why?  
+Example 1  
+  
+Example 2  
+  
+Exercise 2.3 
+34
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 5.  Which one of the following is true about composite numbers?  
+A. They have 3 pairs of factors          B.  They are always prime numbers  
+C. They do not have factors                   D.  They have more than two factors  
+ 
+ 
+2.1.3  Divisibility test  
+In the previous lesson, you practiced how to get the quotient and remainder while you 
+divide a positive integer by another positive integer. Now you will revise the 
+divisibility test to check whether 𝑎 is divisible by  𝑏 or not without performing division  
+algorithm.  
+From your activity, you may check this either by using division algorithm or by 
+applying rules without division.  
+Every number is divisible by 1. You need to perform the division procedure to check 
+divisibility of one natural number by another. The followi ng rules can help you to 
+determine whether a number is divisible by 2,3,4,5,6,8,9 and 10. Divisibility test by 
+7 will not be discussed now because it is beyond the scope of this level.  
+Divisibility test :- It is an easy way to check whether a given number is divisible by 
+2,3,4,5,6,8,9 or 10 without actually performing the division process.  
+ 
+❖1 is neither prime nor composite.  
+❖ 2 is the only even prime number.  
+❖ Factors of a number are always l ess than or equal to the number.  
+Note  
+ 
+ 
+Check whether the first integer is divisible by the second or not without using 
+division algorithm.  
+a.2584,2     b.  765,9   c.  63885,6  d. 7964,4 e.  65475,5 
+Activity 2.4 
+35
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ A number is divisible by  
+• 2, if its unit digit  is divisible by 2.  
+• 3, if the sum of its digits is divisible by  3.  
+• 4, if the number formed by its last two digits is divisible by 4.  
+• 5, if its unit digit  is either 0 or 5.  
+• 6, if it is divisible by  2 and 3.  
+• 8, if the number formed by its last three digits is divisible by 8.  
+• 9, if the sum of its digits is divisible by 9.  
+• 10, if its unit digit  is 0.  
+ 
+Using divisibility test check whether 2,334 is divisible by 2,3,4,5,6,8,9 and 10. 
+Solution:  
+• 2,334 is divisible by 2 since its unit digit 4 is divisible by 2. 
+• 2,334 is divisible by 3 since the sum of the digits (2+3+3+4) is 12 and it 
+is divisible by 3.  
+• 2,334 is not divisible by 4 since its last two digits , that is 34 is not divisible 
+by 4. 
+• 2,334 is not divisible by 5 since its unit digit is not either 0 or 5. 
+• 2,334 is divisible by 6 since it is divisible by 2 and 3. 
+• 2,334 is not divisible by 8 since its last three digits 334 is not divisible by 8. 
+• 2,334 is not divisible by 9 since the sum of the digits ( 2+3+3+4=12 ) 
+is not divisible by 9. 
+• 2,334 is not divisible by 10 since its unit digit is not zero.  
+ 
+1. Using divisibility test, check whether the following numbers are divisible by  
+Example  
+  
+Exercise 2.4 
+36
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 2,3,4,5,6,8,9 and 10:  
+a. 384            b.  3,186                        c.  42,435 
+2. Given that 74,3𝑥2 is a number where 𝑥 is its tens place. If this number is 
+divisible by 8, what is (are) the possible value(s) of 𝑥? 
+3. Find the least possible value of the blank space so that the number 3457 __40 is 
+divisible by 4. 
+4. Fill the blank space with the smallest possible digit that makes the given number 
+81231 _37 is divisible by  9. 
+ 
+ 
+Consider a composite number which we need to write it in prime factorized form . 
+Recall that a composite number has more than two factors. The factors could be prime 
+or still composite. If both of the factors are prime, we stop the process by writing the 
+given number as a product of these  prime numbers.  If one of the factors is a composite 
+number, we will continue to get factors of this composite number till all the factors 
+become primes. Finally, express the number as a product of all primes which are part 
+of the process . 
+ 
+Express each of the following numbers as prime factorization form . 
+a. 6        b.  30           c.  72 
+Solution:  
+a.  6=2×3, since both 2 and 3 are prime , we stop the process.  
+b. 30=2×15 and 15=3×5 .  
+Definition 2.2  Prime factorization  
+ 
+The expression of a composite number as a product of  prime numbers is called 
+prime factorization . 
+ 
+Example 1  
+  
+37
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ So that, 30=2×3×5. The right hand side of this equation is the prime 
+factorization of 30. 
+The process of prime factorization can be easily visualized  by using a factor tree as 
+shown below.  
+c.  By divisibility test, 72 is divisible by 2. So that 2 is one of its factors and it will  
+be written as 2×36 as shown in the right side. Again 36 is divi sible by 2. Hence, 
+36=2×18 and this process will continue till we get the 
+factors as primes. Hence, the prime factorization of 72 is 
+given as  
+72=2×2×2×3×3=23×32. Also we can observe  
+72=8×9=2×2×2×3×3=23×32 
+72=4×18=2×2×2×3×3=23×32 
+72=3×24=3×3×2×2×2=23×32. 
+The following theorem is stated without proof to generalize factors of composite 
+numbers.  
+ 
+ 
+Express  456 as prime factorization form.  
+Solution:  
+To determine the prime factors, we will divide 456 by 2. If the quotient is also a 
+composite  number, again using a divisibility test we will search the prime number 
+which divides the given composite number. Repeat this process till the quotient is 
+prime.  
+Theorem  2.2   Fundamental theorem of arithmetic  
+Every composite number can be expressed (fa ctored) as a product of primes and 
+this factorization is unique . 
+ 
+Example 2  
+  
+38
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+      That is,    456
+ 2=228  
+          228
+ 2=114  
+          114
+ 2=57 
+            57
+ 3=19, we stop the process since 19 is prime . 
+Hence, 456 =23×3×19. 
+ 
+1. Express each of the following numbers as prime factorization form . 
+a. 21                b. 70               c. 105  
+      d.  252                e.  360   f. 1,848    
+2. 180  can be written as 2𝑎×3𝑏×5𝑐. Then, find the value of 𝑎,𝑏 and  𝑐. 
+3. Find the four prime numbers whose product is 462. 
+ 
+2.1.4  Greatest common factor and least common   
+         multiple  
+In this subsection, you will revise the basic concepts about greatest common factors 
+and least common multiples of two or more natural numbers.  
+Greates t common  factor  
+ 
+Exercise 2.5 
+ 
+1.    Given the numbers 12 and 16: 
+a.Find the common factors of the two numbers . 
+b.Find the greatest common factor of the two numbers . 
+2. Given the following three numbers 24,42 and 56: 
+a.Find the common factors of the three numbers.  
+b.Find the greatest common factor of the three numbers.  
+Activity 2.5 
+39
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+ 
+Find the greatest common factors of 36 and 56.  
+Solution:  
+Factors  of 36 are 1,2,3,4,6,9,12,18,36 and 
+factors of 56 are1,2,4,7,8,14,28,56. Here 
+1,2 and 4 are the common factors of both 36 
+and 56. The greatest one from these common 
+factors is 4. Hence GCF(36,56)=4.  You 
+can also observe this from the following Venn      Figure 2.1   Factors of 36 and 56 
+diagram.  
+ 
+Definition 2.3 
+ 
+i) Given two or more natural numbers, a number which is a factor of these 
+natural numbers is called a common factor . 
+ii) The Greatest Common Factor (GCF) or Highest Common Factor (HCF) of 
+two or more natural numbers is the greatest natural number of the common 
+factors.  GCF(𝑎,𝑏) is to mean the Greatest Common Factor of 𝑎 and 𝑏. 
+ 
+Example 1  
+  
+ 
+Let 𝑝=36,𝑞=56. Then, write  
+a. The prime factorization of 𝑝 and  𝑞.  
+b. Write  common prime factors of  𝑝 and  𝑞 with the least power . 
+c. Take the product of the common prime factors you found in the above ( 𝑏) 
+     if they are two or more.  
+d. Compare your result in ( 𝑐) with GCF(36,56) you got in example 1 above.  
+ 
+Activity 2.6 
+40
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ The above activity leads you to use another alternate approach of determining GCF of 
+two or more natural numbers using prime factorization. Using this method, the GCF 
+of two or more natural numbers is the product of their common prime factors and the 
+smallest number of times each power appears in th e prime factorization of the given 
+numbers.  
+ 
+Use prime factorization to find GCF (12,18,36). 
+Solution:   
+Let us write each of the given three numbers as prime factorization form.  
+12=22×31
+18=21×32
+36=22×32 
+In the above factorizations, 2 and 3 are common prime factors of the numbers 
+(12,18 and 36). Further the least power of 2 is 1 and least power of 3 is also 1. So that 
+the product of these two common prime numbers with least power of each is 2×3=
+6. Hence,  GCF(12,18,36)=6.   
+ 
+   Find the greatest common factors (GCF) of the following numbers . 
+1. Using Venn diagram method  
+a. 12,18  
+b. 24,64 
+c. 45,63,99 
+2. Using prime factorization method  
+a. 24,54 
+b. 108 ,104  
+c. 180 ,270 ,1,080  
+ 
+Example 2  
+  
+Exercise 2.6 
+41
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Least  commo n multiple  
+ 
+ 
+Intersectio n Method  
+ 
+Find Least Common Multiple of 2 and 3, that is, LCM(2,3). 
+Solution:  
+2,4,𝟔,8,10,𝟏𝟐,14,16,... are multiples of 2 and 3,𝟔,9,𝟏𝟐,15,𝟏𝟖,… are 
+multiples of 3. Hence, 𝟔,𝟏𝟐,𝟏𝟖,… are common multiples of 2 and 3. The least  
+number from the common multiples is 6. 
+Therefore, LCM(2,3) is 6. 
+Find Least Common Multiple of 6 and 9, that is, LCM(6,9). 
+ 
+For this activity, you need to use pen and pencil.  
+➢Write the natural numbers from 1 to 60 using your pen.  
+➢Encircle the number from the list which is a multiple of 6 using pencil.  
+➢Underline the number on the list which is a multiple of 8 using pencil.  
+Using the  above task:  
+a.Collect the numbers from the list which are both encircled and underlined 
+in a set.  
+b.What is the least common number from the set you found in (a)?  
+c.What do you call the number you get in (b) above for the two numbers 6 
+Activity 2.7 
+Definition 2.4 
+ 
+For any two natural numbers 𝑎 and 𝑏, the Least Common Multiple of 
+𝑎 and 𝑏 denoted by LCM(𝑎,𝑏) is the smallest multiple of both 𝑎 and 𝑏. 
+ 
+Example 1  
+  
+Example 2  
+  
+42
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Solution:  
+6,12,𝟏𝟖,24,30,𝟑𝟔... are multiples of 6 and 9,𝟏𝟖,27,𝟑𝟔,45,… are multiples 
+of 9. Hence, 𝟏𝟖,𝟑𝟔,𝟓𝟒,… are common multiples of 6 and 9. The least number 
+from the common multiples is 18. 
+Therefore, LCM(6,9) is 18. 
+Factorizatio n Method  
+Find the Least Common Multiple of 2,3 and 5, that is, LCM(2,3,5) using 
+factorization method.  
+Solution:  
+2,3 and 5 are prime numbers. Taking the product of these prime numbers gives us 
+LCM(2,3,5)=2×3×5=30.  
+Find the Least Common Multiple of 6,10 and 16, that is, LCM(6,10,16) using 
+factorization method.  
+Solution:  
+Writing each by prime factorization, we have  
+      6=2×3
+    10=2×5
+16=24}  The prime factors that appear in these factorization  are 2,3 and 5. 
+Taking the product of the highest powers gives us  
+LCM(6,10,16)=24×3×5=240.  
+ 
+Example 3  
+  
+Example 4  
+  
+ 
+Consider two natural  numbers 15 and 42. Then, find  
+a.    LCM(15,42) and GCF(15,42). 
+b.   15×42 
+ 
+Activity 2.8 
+43
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ From the above activity you can deduce that  
+➢ For any two natural numbers  𝑎 and 𝑏, GCF (𝑎,𝑏)× LCM (𝑎,𝑏)=𝑎𝑏.    
+Find GCF (12,18)×LCM (12,18). 
+Solution:  
+The product of GCF (𝑎,𝑏) and LCM (𝑎,𝑏) is the product of the two numbers 𝑎 
+and 𝑏 for any two natural numbers 𝑎 and 𝑏. Hence  
+GCF (12,18)×LCM (12,18)=12×18=216. 
+ 
+1. Find the least common multiples (LCM) of the following list of numbers using  
+both intersection method and prime factorization method.  
+      a. 6,15      b.  14,21  c.  4,15,21     d.  6,10,15,18 
+2. Find GCF and LCM of each of the following numbers  
+       a.  4 and 9                              b.  7 and 48                   c.   12  and 32   
+       d.  16 and 39                         e.  12,16 and 24           f.   4,18 and 30     
+ 3.   Find GCF (16,24)× LCM  (16,24). 
+ 4.  In a school, the number of participants in Sport, Mini media and Anti Aids club are 
+60,84 and 108 respectively. Find the minimum number of rooms required. In each 
+room the same number of participants are to be seated and all of them being in the 
+same club.  
+ c.   What is the product of GCF (15,42) and LCM (15,42)? 
+d.   Compare your results of (b) and (c).  
+e.    What do you generalize from (d)?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 5  
+  
+Exercise 2.7 
+44
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 2.2   Rational Numbers  
+In section 2 .1, you have learnt about natural numbers and integers. In this section you 
+will extend the set of integers to the set of rational numbers. You will also discuss how 
+to represent rational numbers as decimals and locate them on the number line.  
+Now let us discuss about rational numbers  
+ 
+The numbers  3
+4,−6,0,−13
+  10 are rational numbers. 
+Here, −6 and 0 can be written as −6
+ 1 and 0
+1, 
+respectively. So we can conclude every natural 
+number and integer is a rational number. You can 
+see this relation using figure  2.2.   
+                                                                                                                                   
+                                                                                                     Figure 2.2                                                                                  
+ 
+Given integers 7,−2,6,0 and−3. 
+a.Divide one number by another (except division by 0).  
+b.From the result obtained in (a) which of them are integers?  
+c.What can you conclude from the above (a) and (b)? 
+Activity 2.9 
+Definition 2.5  Rational Numbers  
+ 
+Any number  that can be written in the form 𝑎
+𝑏, where 𝑎 and 𝑏 are integers and 𝑏≠
+0 is called a rational number. The set of rational numbers is denoted by ℚ and is 
+described as  
+        ℚ=ቄ𝑎
+𝑏:𝑎,𝑏∈ℤ 𝑎𝑛𝑑 𝑏≠0ቅ. 
+ 
+Example 1  
+  
+45
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Categorize each of the following as  proper , improper  or mixed fraction  
+ 7
+8,2
+9,51
+4,7
+3 and 6. 
+Solution:  7
+8 and 2
+9  are proper fraction s, 
+ 7
+3 and 6 are improper fraction  (since 6=6
+1 ) and  
+ 51
+4  is a mixed fraction . 
+Express  31
+4  as improper fraction . 
+Solution:  For three integers 𝑙,𝑚,𝑛 where 𝑛≠0: 𝑙𝑚
+𝑛=𝑙+𝑚
+𝑛=(𝑙×𝑛)+𝑚
+𝑛 .  
+                  So that 31
+4=(3×4)+1
+4=13
+4. 
+ 
+1. Express each of the following integer s as fraction . 
+a. 5       b. −3        c. 13 
+2. Write true if the s tatement is correct and false otherwise. Give j ustification if the  
+       answer is false . 
+Suppose  𝑥=𝑎
+𝑏𝜖 ℚ,  𝑥 is a fraction with numerat or 𝑎 and denominator 𝑏,  
+i)If  𝑎<𝑏, then 𝑥 is called proper fraction . 
+ii)If 𝑎≥𝑏, then  𝑥 is called improper fraction . 
+iii)If  𝑦=𝑐𝑎
+𝑏, where 𝑐 𝜖 ℤ and 𝑎
+𝑏 is a proper fraction, then 𝑦 is called a mixed 
+fraction  (mixed number) . 
+iv)𝑥 is said to be in simplest (lowest form) if 𝑎 and 𝑏 are relatively prime or 
+GCF (𝑎,𝑏)=1. 
+Note  
+ 
+Example 2  
+  
+Example 3  
+  
+Exercise 2.8 
+46
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ a. Any integer is a rational number .      b. The simplest form of  35
+45 is 9
+7. 
+c. For 𝑎,𝑏∈ℤ,𝑎
+ 𝑏 is a rational number.  d. The simplest form of  52
+4 is 11
+2. 
+3.   If  𝑎
+𝑏 and  𝑐
+𝑑  are two rational numbers, show that 𝑎
+𝑏×𝑐
+𝑑 is also  a rational number.  
+4.   Zebiba  measures the length of a table and she reads 54 cm and 4 mm. Express  
+      this measurement in terms of cm in lowest form of  𝑎
+𝑏. 
+5.  A rope of 51
+3 meters is to be cut into 4 pieces of equal length. What will be the 
+length of each piece?  
+ 
+2.2.1  Representation of rational numbers by decimals  
+In this subsection, you will learn how to represent rational numbers by decimals and 
+locate the  rational number on the number line.  
+ 
+From the above activity  2.10, you may observe the following:  
+➢  Any rational number  𝑎
+𝑏  can be written as decimal  form  by dividing the 
+numerator 𝑎 by the denominator 𝑏. 
+➢ When we change a rational number  𝑎
+𝑏  into decimal  form , one of the following 
+cases will occur  
+• The division process ends when a remainder of zero is obtained. Here, the  
+decimal is called a terminating decimal . 
+• The division process does not terminate  but repeats  as the remainder  never 
+become zero. In this case the decimal is called repeating decimal . 
+ 
+1. Perform  each of the following division s. 
+          a.  3
+5      b.  5
+9                       c.− 14
+15                 d.  −2
+7 
+2. Write the numbers 0.2 and 3.31 as a fraction form.  
+Activity 2.10 
+47
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ In the above activity 2.10 (1), when you perform the division 3
+5 , you obta in a 
+decimal 0.6 which terminates,  5
+9=0.555… and −14
+15=−0.933… are repeating.    
+Notation  
+ To represent repe tition of digit/digits we put a bar notation  above the 
+repeating digit/digits.  
+Write the following fractions using the notation of repeating decimals.  
+a. 1
+3                b.  23
+99 
+Solution:  
+a. 1
+3=0.333…=0.3̅  b. 23
+99=0.232323…=0.23̅̅̅̅. 
+Converting  terminating  decimal s to fractions  
+Every terminating decimal can be written as a fraction form with a denominator of a 
+power of 10 which could be 10,100,1000  and so on depending on the number of 
+digits after a decimal point . 
+ 
+Convert  each of the following decimals to fracti on form . 
+a. 7.3                          b. −0.18 
+Solution:  
+a. The smallest place value of the digits in the number 7.3 is in the tenths column 
+so we write this as a number of tenths. So that,  7.3=7.3×10
+10=73
+10 (since it has 1 
+digit after a decimal point, multiply both the numerator and  the denominator by 
+10). 
+b. The smallest place value of the digits in the number −0.18 is in the hundredths 
+column so we write this as a number of hundredths.  
+Example 1  
+  
+Example 2  
+  
+48
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  Hence,   −0.18=−0.18×100
+100=−18
+100  and  after simplification , we obtain   −9
+50 . 
+ 
+1. Write the following fractions using the notation of repeating decimals.  
+a.     8
+9       b.   1
+11 c.     5
+6      d.    14
+9 
+   2. Convert each of the following as a fraction form . 
+a.  0.3 b. 3.7 c. 0.77 d. −12.369 
+e.  0.6 f. 9.5 g. −0.48 h. −32.125 
+3. Using long division, we get that 1
+7=0.142857̅̅̅̅̅̅̅̅̅̅. Can you predict the decimal 
+expression of  2
+7,3
+7,4
+7,5
+7 and 6
+7 without doing long division? If so, how?  
+4. What can you conclude from question no. 3 above?  
+ 
+Representing  rational  numbers  on the numb er line 
+ 
+Locate the rational numbers −5,3, 4
+3 and −5
+2 on the number line.  
+Solution:  
+You can ea sily locate the given integers −5 and 3 on a number line. But to locate a 
+fraction, change the fraction into decimal. That is , 4
+3=1.3̅
+ and −5
+   2=−2.5. Now locate 
+each of these by bold mark on the number line as shown  in figure 2 .3. 
+ 
+Figure 2.3  
+ 
+Exercise 2.9 
+Example 1  
+  
+49
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 2.2.2  Conversion of repeating decimals into fractions  
+In section 2 .2.1, you have discussed how to convert the terminating decimals into 
+fractions. In this subsectio n, you will learn how repeating decimals can  be converted 
+to fractions.  
+ 
+Represent each of the following decimals  as a simplest fraction  form ( ratio of  two 
+integers) . 
+a. 0.5̅                   b.  2.12̅̅̅̅ 
+Solution:   
+a.  We need to write  0.5̅  as 𝑎
+𝑏 form.  Now let 𝑑=0.5̅. Then , 
+     10𝑑=5.5̅       (multiplying both side s of  𝑑=0.5̅ by 10) 
+   −    𝑑=0.5̅        (we use subtraction to eliminate the repeating part)  
+       9𝑑=5 .           
+  Now dividing both sides by 9, we have  𝑑=5
+9. Hence, the fraction form of 0.5̅ is  5
+9. 
+b. We need to write 2.12̅̅̅̅ as 𝑎
+𝑏 form. Now let  𝑑=2.12̅̅̅̅. Then , 
+      100𝑑=212.12̅̅̅̅   (multiplying both side s of  𝑑=2.12̅̅̅̅ by 10 ) 
+        − 𝑑=      2.12̅̅̅̅    (we use subtraction to eliminate the repeating  part)  
+       99𝑑=210.       
+      Now , dividing both sides by 99 results 𝑑=210
+99=70
+33. Hence, the fraction form of   
+      2.12̅̅̅̅ is 70
+33 . 
+ 
+Represent each of the following in fraction form . 
+  𝐚.  0.12̅                      b. 1.216̅̅̅̅ 
+Solution:  
+Example 2  
+  
+Example 3  
+  
+50
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ a. Let 𝑑=0.12̅, now  
+   100𝑑=12.2̅   ( multiplying both sides of 𝑑=0.12̅  by 100) 
+               −10𝑑= 1.2̅     (multiplying both sides of 𝑑=0.12̅  by 10) 
+                  90𝑑=11. 
+   Solving for 𝑑, that is dividing both sides by 90 we obtain  𝑑=11
+90. Hence, the  
+   fraction form of 0.12̅ is 11
+90 . 
+b. Using similar procedure of (a), let 𝑑=1.216 ̅̅̅̅. Now    
+                  1000𝑑=1216 .16̅̅̅̅  (multiplying both sides of 𝑑=1216 .16̅̅̅̅  by 1000 ) 
+                    −10𝑑=    12.16̅̅̅̅  (multiplying both sides of 𝑑=12.16̅̅̅̅  by 10) 
+                     990𝑑=1204 . 
+   Dividing both sides by 990, we obtain  𝑑=1204
+990=602
+495 .  Hence, the fraction form  
+   of 1.216̅̅̅̅ is 602
+495 . 
+ 
+1. Locate the rational numbers 3,4,4
+5,0.4̅ and 21
+3 on the number line.  
+2. Represent each of the following decimals as simplest fraction form.  
+a. 2.6̅       b. 0.14̅̅̅̅     c. 0.716̅̅̅̅        d.  1.3212̅̅̅̅   e. −0.532 13̅̅̅̅ 
+ 
+  2.3   Irrational Numbers                                  
+Recall that terminating and repeating decimals are rational numbers. In this subsection, 
+you will learn about decimals which are neither terminating nor repeating  
+2.3.1 Neither repeating nor terminating numbers  
+ Do you recal l a perfect square?  
+A perfect square  is a number that can be expressed as a product of two equal integers . 
+For instance, 1,4,9  are perfect squares since 1=12,4=22,9=32. 
+Exercise 2.10 
+51
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ A square root  of a number 𝑥 is a number 𝑦 such that 𝑦2=𝑥. For instance, 5 and −5 
+are square roots of 25 because 52=(−5)2=25.  
+Consider the following situation.  
+There is a square whose area is 2 cm2. What is the length of a side of this square?  
+The length of a side is supposed to  be 𝑠 cm. 
+Since 12=1, area of the square which side is 1 cm is 1 cm2. 
+Likewise, 22=4, area of the square whose  side is 2 cm is 
+4 cm2. From the above, 1<𝑠<2. 
+In a similar way,  
+    1.42<2<1.52⇒1.4<𝑠<1.5 
+    1.412<2<1.422⇒1.41<𝑠<1.42 
+    1.4142<2<1.4152⇒1.414 <𝑠<1.415 
+Repeati ng the above method, we find    𝑠=1.414 …. This number is expressed as  
+    𝑠=√2, and √2=1.414 …. The sign √ is called a radical sign.  
+ 
+Find the number without radical sign.  
+a. √4           b. √9             c. −√9             d. √0.0016  
+Solution:   
+   a.  √4=2 since 22=4    b. √9=√32=3=3
+1 
+   c. −√9=−√32=−3    d. √0.0016 =√(0.04)2=0.04=4
+100= 1
+25 
+Consider the magnitude of √5 and √7. Which one is greater?        
+The area of square with side length √5 cm is 5 cm2. 
+The area of square with side length √7 cm is 7 cm2. From 
+the figure, when the side length becomes greater, the area 
+becomes greater, too.  
+Example 1  
+  
+52
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Hence, √5<√7 since  5<7.  This leads to the following conclusion . 
+ 
+Compare √5 and √6. 
+Solution:  
+Since 5<6 then √5<√6 . 
+ 
+1.  Find the numbers without radical sign.  
+      a. √25                  b. −√36      c. √0.04                       d. −√0.0081  
+2.  Compare the following pairs of numbers.  
+a.  √7,√8 ̅          b.   √3,√9      c.  √0.04,√0.01        d.   −√3 ,−√4 
+ 
+What can you say about the square root of a number which is not a perfect  
+         square?   
+To understand the nature of such numbers, you can use a scienti fic calculator and 
+practice the following . 
+Let us try to determine √2 using a  calculator. Press 2 and 
+then the square root button.  
+A value for  √2  will be displayed on the screen of the 
+calculator as √2≈1.4142135624 . 
+The calculator provide s a terminated result due to its 
+capacity  (the number of digit you get may be different for 
+different calculators). But this result is not a terminating or 
+When 𝑎>0,𝑏>0,if 𝑎<𝑏, then √𝑎<√𝑏 . 
+ 
+Example 2  
+  
+Exercise 2.11 
+Figure 2.4 Scientific calculator  
+53
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ repeating  decimal . Hence  √2 is not rational  number . Similarly, check  √3 and √7 are 
+not terminating  
+and repeating.  Such  types of numbers are called irrational numbers . 
+ 
+ 
+ 
+Determine whether each of the following numbers is rational or irrational.  
+a. √25  b. √0.09       c. 0.12345… d.  0.010110111 …   e.  22
+7           f.  𝜋 
+Solution:   
+a. √25=√52=5 which is rational . 
+b. √0.09=√0.32=0.3 which is rational number.  
+c. 0.12345… is neither terminating nor repeating , so it is irrational.  
+d. 0.010110111… is also neither repeating nor terminating, so it is irrational 
+number.  
+e. 22
+7  is a fraction f orm so that it is rational.  
+f. 𝜋 which is neither terminating nor repeating, so that it is irrational.  
+This example ( c & d) leads you to the fact  that, there are decimals which are neither 
+repeating  nor terminating.   
+Definition   2.6 
+ 
+A decimal number that is neither terminating nor repeating is an irrational 
+number . 
+ 
+ 
+In general, if 𝑎 is natural number that is not perfect square, then √𝑎 is an 
+irrational number.   
+Remark  
+ 
+Example  
+  
+54
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Determine whether each of the following numbers is rational or irrational . 
+a. √36               b. √7                 c.  6
+5          d. √0.01  
+e. −√13           f. √11  g. √18 
+ 
+Locatin g irrational  numbe r on the numbe r line 
+Given an irrational number of the form  √𝑎 where 𝑎 is not perfect square.  Can 
+you locate such a number on the number line?  
+ 
+Locate √2 on the number line.  
+Solution:  
+We know that  2 is a number between perfect squares 1 and 4. That is 1<2<4. 
+Take a square root of all these three numbers, that is , √1<√2<√4 . Therefore  
+1<√2<2. Hence, √2 is a number between 1 and 2 on the number line.  
+(You can also show √2≈1.4142…  using a calculator) . 
+To locate √2 on the number line, you need a compass and straightedge ruler to 
+perform the following . 
+• Draw a number line. Label an initial point 0 and points 1 unit long to the right 
+and left of 0. Construct a perpendicular line segment 1 unit long at 1. 
+ 
+           Figure 2.5  Location of √2 on the number line  
+Exercise 2.12 
+Example  
+  
+55
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ • Draw a line segment from the point  corresponding to 0 to the top of the 1unit 
+segment and label it s length  as 𝑐. 
+• Using  Pythagorean Theorem , 12+12=𝑐2 so that 𝑐=√2 unit long.  
+• Open the compass to the length of 𝑐. With the tip of the compass at the point 
+corresponding to 0, draw an arc that intersects the number line at 𝐵. The 
+distance from the point corresponding to 0 to 𝐵 is √2 unit.  
+The following figure 2.6 could indicate how other irrational numbers are 
+constructed on the number line using √2. 
+ 
+                         Figure  2.6 
+ 
+1. Locate the following on the number line . 
+a. √3  b. √5  c.−√3 
+2. Between which natural numbers are the following numbers?  
+a. √3  b. √5  c. √6 
+3. Write ‘True’ if the statement is correct and ‘False’ otherwise . 
+a. Every point on the number line is of the form √𝑛 , where 𝑛 is a natural 
+number.  
+b. The square root of all positive integers is irrational.  
+ 
+ 
+Exercise 2.13 
+56
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 2.3.2 Operations on irrational numbers  
+In section 2.3.1, you have seen what an irrational number is and how you represent it 
+on the number line. In this section, we will discuss addition, subtraction, multiplication 
+and division of irrational numbers.       
+ 
+ 
+ 
+Calculate each of the following.  
+a. √2×√3      b.  2
+√3×1
+√3        c.  (2+√2)×(1+√5)           d.  (√5+√3)2 
+  Solutions:  
+   a. √2×√3=√2×3=√6  
+b. 1
+√3×2
+√3=1×2
+√3×√3=2
+√3×3=2
+3 
+c. Using distribution of addition over multiplication  
+       (2+√2)×(1+√5)=(2×1)+(2×√5)+(√2×1)+(√2×√5) 
+                                            =2+2√5+√2+√10 
+d. (√5+√3)2=(√5+√3)(√5+√3)=(√5)2+2∙√5√3+(√3)2 
+=8+2√15 
+ 
+1.Identify whether  1+√2 is rational or irrational.  
+2.Is the product of two irr ational numbers irrational? Justify your answer 
+with examples.  
+ 
+Activity 2.11 
+When 𝑎>0,𝑏>0, then √𝑎×√𝑏=√𝑎𝑏. 
+Example  
+  
+57
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+1. Calculate  each of the following . 
+a. √3×√5 b. 2√5×√7 
+c. −√2×√6 d. 1
+√5×10
+√5 
+e. (2+√3)×(−2+√3) f. (√3+√2)2 
+g. (√7+√3)(√7−√3) h.    (√6−√10)2 
+2. Decide whether  the following statements are always true, sometimes true or 
+never true and give your justification . 
+a. The product of two irrational numbers is rational.  
+b. The product of two irrational numbers is irrational.  
+c. Any irrational number can be written as a product of two irrational numbers.  
+d. Irrational numbers are closed with respect to multiplication.  
+ 
+ 
+ 
+ 
+Calculate    
+a. √2
+√3                         b.  −√18
+√2  
+Exercise 2.14 
+ 
+1.Consider irrational numbers √2,√3,√5 and √8.  Divide each of these 
+numbers by √2. 
+2. What do you conclude from the result you obtained in (1) above.  
+ 
+Activity 2.12 
+When 𝑎>0,𝑏>0, then √𝑎
+√𝑏=ට𝑎
+𝑏. 
+Example 1  
+  
+58
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Solutions:  
+a. √2
+√3=ට2
+3   b. −√18
+√2=−ට18
+2=−√9=−3 
+ 
+ 
+Convert  each of the following in  √𝑎 form . 
+a. 3√2                           b.  5√5 
+Solutions:  
+a. 3√2=√32×2=√18 b.  5√5=√52×5=√125 
+ 
+1. Calculate.  
+a.  √27
+√3            b.  √12
+√3            c.  √14
+√7           d.  −√15
+√3   
+2. Convert  each of the following in  √𝑎  form.  
+a. 4√2  b. 5√3  c. −3√7 d. 7√6 
+ 
+ 
+When 𝑎>0,𝑏>0, then 𝑎√𝑏=√𝑎2𝑏,  √𝑎2𝑏=𝑎√𝑏 . 
+Example 2  
+  
+Exercise 2.15 
+ 
+Give an example which satisfies:  
+a.Two neither repeating nor terminating decimals whose sum is rational . 
+b.Two neither repeatin g nor terminating decimals whose sum is irrational . 
+c.Any two irrational numbers whose difference is rational . 
+d.Any two irrational numbers whose difference is irrational . 
+Activity 2.13 
+59
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Simplify each of the following.  
+a. 0.131331333 …+0.535335333 …       
+b.  0.4747747774 …− 0.252552555 … 
+Solutions:  
+a. 0.131331333 …+0.535335333 …=0.666 … 
+b. 0.4747747774 …− 0.252552555 ….=0.222 … 
+ 
+Simplify each of the following.  
+a. 2√3+4√3                   𝐛.  3√5−2√5 
+Solutions:  
+a. 2√3+4√3=(2+4)√3=6√3 
+b. 3√5−2√5=(3−2)√5=√5 
+ 
+Simplify each of the following.  
+a. √8+√2                             b.  √12−5√3 
+      c. √18+√50                                   d. √72−√8 
+Solutions:   
+First, convert √𝑎2𝑏 into 𝑎√𝑏 form.  
+a. √8+√2=√4×2+√2=√22×2+√2=2√2+√2=3√2 
+b. √12−5√3=√22×3−5√3=2√3−5√3=−3√3 
+c. √18+√50= √32×2+√52×2=3√2+5√2=8√2 
+d. √72−√8= √22×32×2−√22×2 
+=√(2×3)2×2−√22×2=6√2−2√2=4√2 
+Example 1  
+  
+Example 2  
+  
+Example 3  
+  
+60
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+   
+Simplify each of the following.  
+a. 0.56456445644456 …−0.111… b.2.1010010001 …+1.0101101110 … 
+c. 2√5−4√5  d. √18+2√2 
+e. √3+4√3  f. √80−√20 
+g. 5√8+6√32 h. √8+√72 
+ i. √12−√48+ට3
+4 j. √5−√45 
+ 
+2.4   Real Numbers  
+In the previous two sections , you have  learnt about rational  numbers  and irrational 
+numbers. Rational  numbers are either terminating or repeating. You can locate these 
+numbers on the number line. You have also discussed that it is possible to locate 
+irrational numbers which are neither repeating nor terminating on the number line.  
+ 
+Based on the reply for the above questions and recalling the previous lessons, you can 
+observe that every decimal number (rational or irrational) corresponds to  a point on 
+the number line. So that there should be a set which consists both rational and irrational 
+numbers. This leads to the following definition.  
+Exercise 2.16 
+ 
+1. Can you think of a set which consist s both rational  numbers  and irrational  
+ numbers?   
+2.What can you say about the correspondence between the points on the number 
+line with rational and irrational numbers?  
+Activity 2.14 
+61
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+The following diagram indicates the set of real number, ℝ, is the union of rational  and 
+irrational numbers  
+ 
+             
+Comparing real numbers  
+You have seen that there is a  one to one correspondence between a point on the 
+number line and  a real number.  
+▪ Suppose two real numbers 𝑎 and 𝑏 are given . Then one of the following is true  
+𝑎<𝑏 or 𝑎=𝑏 or 𝑎>𝑏 (This is  called  trichotomy  property) . 
+▪ For any thre e real numbers  𝑎,𝑏 and 𝑐, if 𝑎<𝑏 and 𝑏<𝑐, then 𝑎<𝑐 (called  
+     transitive  property order)  
+Applying the above properties we have  
+▪ For any two non -negative real numbers 𝑎 and 𝑏 if 𝑎2<𝑏2, then 𝑎<𝑏. 
+Definition  2.7     Real numbers  
+ 
+A number is called a real number if and only if it is either a rational number o r an 
+irrational number. The set of real number s is denoted by  ℝ, and is described as  the 
+union  of the sets of  rational and irrational numbers. We write this mathematically 
+as 
+         ℝ={𝑥:𝑥 is a rational number or irrational number} .  
+Figure 2. 7: Real numbers    
+62
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Compare each pair (you can use Scientific calculator whenever it is necessary).  
+a. −2,−8                           b.     𝟓
+𝟖,0.8     
+c.         √2
+3,0.34                                      d.     √3
+ 6,2
+3 
+Solution:  
+a. The location of these two numbers on the number line help us to compare the 
+given numbers.  Here, −8 is located at the left of −2 so that  −8<−2. 
+b. Find the decimal representation of   5
+8 , that is  5
+8=0.625.  
+Hence,  5
+8<0.8. 
+c. Using a scientific calculator we appr oximate   √2
+3≈0.4714 . Then,  √2
+3>0.34. 
+d. Here use the third property given above. Square the two numbers  
+ (√3
+6)2
+=3
+36 and (2
+3)2
+=4
+9=16
+36.  
+ Hence, it follows √3
+6<2
+3. 
+ 
+Compare each of the following pairs  (using > or <,  or = ). 
+a. −7,−3  b. 2
+5,0.6 
+c. √5
+2,0.123 d. √2
+3,4
+9 
+e. 0.236,0.256 f. −7√145 , √7 
+g. −0.135,−0.1351  h. 6√5 , 5√7 
+i. √5
+3,0.234       
+                           j. 2+√3, 4 
+k. 22
+7,𝜋  
+ 
+Example  
+  
+Exercise 2.17 
+63
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Determining real numbers between two numbers  
+ 
+Find a real number between 2 and 4.2. 
+Solution:  
+Take the average of the two numbers, that is,  2+4.2
+2=6.2
+2=3.1. 
+This number is between 2 and 4.2. That is,  2<3.1<4.2. Also take the average of  2 
+and 3.1. That is 2+3.1
+2=2.55. Again take the average of 3.1 and 4.2, that is  
+ 3.1+4.2
+2=3.65. These numbers 2.55 and 3.65 are also between  2 and 4.2. 
+Therefore , we conclude that there are infinitely many real numbers between two real 
+numbers.  
+ 
+1. Find at least two real numbers between:  
+a. −0.24 and  −0.246   
+b.  3
+5 and  2
+7  
+         
+c.  √2  and √3 
+2. How many real numbers are there  between two real numbers?  
+ 
+ 
+2.4.1  Intervals  
+ 
+Example  
+  
+Exercise 2.18 
+ 
+1.List some of the real numbers between 2 and 6 including 2.  
+2.List some of the real numbers between  √2  and 3 excluding the two numbers.  
+3.Can you denote real numbers in (1) and (2) symb olically?  
+Activity 2.15 
+64
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ From activity 2.15 above, you observed that there should be a notation to describe 
+such real numbers.  
+Case I ( Representing real numbers between two points)  
+A real interval is a set which contains all real numbers between two numbers. We 
+have the following.   
+Consider a real number 𝑥 between two real numbers 𝑎 and 𝑏 such that 𝑎≤𝑥≤𝑏. 
+Types of intervals are shown in the table 2.1 below.  
+                                                                  Table 2 .1     
+ 
+Case II  (Representing real numbers in numbers with one end point)  
+Notation:  
+The symbol ‘
+’ read as ‘infinity’ means endlessness or absence of end to the right  
+and   ‘−
+’ read as ‘negative infinity’ means endlessness or absence of end to the 
+left. 
+Using a point 𝑎 or 𝑏, ∞ and−∞, the intervals contain real numbers as shown below   
+in table 2.2.  
+           
+65
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+                                                  Table 2.2  
+ 
+Represent each of the following using interval notation.  
+a. Real numbers between  3 and 5 including both points.  
+b. Real numbers between −2 and 3
+2 including −2 and excluding 3
+2. 
+c. Real numbers on the left of 2 excluding  2. 
+d. Real numbers on the right of 0 including 0. 
+Solution:  
+a. The interval [3,5] represents a set which contains infinitely many real numbers 
+between 3 and 5 including both end points. This is shown belo w on the number 
+line in figure 2 .7(a), where  
+▪ the filled circle    on the number line is to me an included  and the empty 
+circle   is not included  in the interval  
+▪ [] indicates the interval include the end points and (  ) indicates the interval 
+do not include the end point s.  
+ 
+                                                    Figure 2 .8(a) 
+Example  
+  
+66
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ b. An interval [−2,3
+2) represent a set which contain infinitely many real numbers  
+    between −2 and 3
+2 including −2 in figure 2 .8(b) below . 
+ 
+     Figure 2 .8(b) 
+c. The real numbers on the left of 2 excluding  2 is denoted by (−∞,2) as shown in  
+     figure 2. 8 (c) below .   
+                                                                                         
+                                                            Figure 2. 8(c) 
+d. The real numbers on the right of 0  including  0 is denoted by [0,∞) as shown in  
+     figure 2. 8 (d) below .  
+       
+                                          Figure 2. 8(d) 
+ 
+1. Represent each of the following using interval notations . 
+a. Real numbers between −3 and 8 including both end points.  
+b. Real numbers between 4 and 6 excluding the end points.  
+c. Real numbers on the right of −1 including −1. 
+2. Represent each of the following intervals on the number line.  
+a. [1,3)                       b. (−∞,−5]    
+c. (1
+2,3) d. (−2,4)∪[5,∞) 
+ 
+Exercise 2.19 
+67
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 2.4.2 Absolute values  
+ 
+Find the absolute value of each of the following  real numbers.  
+a. 4                         b. −2                     c.  1
+2 
+      d.−0.4                      e.−√2                   f. 2−√8 
+Solution:  
+a. So using the definition,  
+|4|=4 , since 4 is a positive number and its absolute value is the number 
+itself.  
+b. The given number is −2 which is less than zero. But its distance from zero is 
+2 units.  Hence, |−2|=2. 
+c. Following similar procedure as that of (a) and (b), |1
+2|=1
+2 (since 1
+2 is a 
+positive number).  
+d. |−0.4|=0.4 (its distance from zero is 0.4). 
+e. |−√2|=√2. (its distance from zero is √2). 
+f. | 2−√8|=√8−2 (√8=√23=2√2  , also √2≈1.414 so that 2√2>2. 
+Hence,  2−√8<0 and √8−2>0). 
+ 
+Definition 2.8 
+ 
+The a bsolute value of a real number , denoted by |𝑥|, is defined as  
+               |𝑥|=ቄ𝑥 if  𝑥≥0,
+−𝑥 if  𝑥<0 . 
+ 
+Example  
+  
+ 
+Consider two numbers 𝑎=−3 and 𝑏=4, then  
+i.Find the number  of units between 𝑎 and 𝑏 by counting on the number line.  
+ 
+Activity 2.16 
+68
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+You will learn more applications of absolute value in unit three .  
+ 
+1. Find the absolute value of each of the following . 
+a. 8 b. -5 c. −2
+3 d. 0.7 
+e. √3 f. 1−√2         g. 3−√5    h. −0.12̅̅̅̅ 
+2. Find the distance between the given numbers on the number line . 
+a. 2 and 10   b. 7 and −9     c. −49 and −100    d. −50 and 50 
+3.   Determine the unknown ‘ 𝑥’   for each.  
+a. |𝑥|=8 b. |𝑥|=0 c. |𝑥|=−4  
+d. |𝑥|+3=4 e. |𝑥|−3=−2  
+4. The coldest temperature on the Earth,  −89℃ , was recorded in 1983  at Vostok 
+station, Antarctica. The hottest temperature on the Earth,  58℃ , was recorded at 
+Al’Aziziyah, Libya. Calculate the temperature range on the Earth.  
+2.4.3 Exponents and radicals
+ 
+You have learnt about multiplication of two or more real numbers in lower grades. 
+So that you can easily write  
+3×3×3=27.
+4×4×4=64.
+              2×2×2×2×2=32. 
+Think of the situation when 14 is multiplied 20 times. It takes more time and space to 
+write.   
+ii. Find |𝑎−𝑏| 
+iii. Find |𝑏−𝑎|. 
+iv. What do you conclude from ii and iii.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exercise 2.20 
+69
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 14×14×14×.  .  .  ×14 ⏟                
+20 𝑡𝑖𝑚𝑒𝑠 
+This difficulty c an be overcome  by introduction of exponential notations. In this 
+subsection, you shall learn the meaning of such notations, laws of exponents, radicals, 
+simplification of expressions using the laws of exponents and radicals.  
+ 
+For instance:       a) 23 means  2×2×2=8  
+                           b) (−3)4 means (−3)×(−3)×(−3)×(−3)=81 
+                           c) −23 means −(2×2×2)=−8. 
+ 
+Definition 2.9 
+ 
+If  𝑎 is a real number and 𝑛 is a positive integer, then  
+𝑎×𝑎×𝑎×𝑎×𝑎×…×𝑎 ⏟                
+𝑛 𝑡𝑖𝑚𝑒𝑠=𝑎𝑛 is an exponential expression, where 𝑎 is the 
+base and 𝑛 is the exponent  or power . 
+ 
+ 
+1.Complete the following table . 
+Power form 
+of a number   
+24  
+23  
+22  
+21  
+20  
+2−1  
+2−2  
+2−3  
+2−4 
+A number   
+16    
+8    
+4  
+        
+Hint: - To fill the incomplete boxes of the table, observe that the first row of the 
+table is moving to the right by decreasing the power by 1. So that, the boxes on the 
+second row will be determined by dividing the previous number by 2. 
+2.From the above pattern, fi nd the relationship between 2𝑛 and 2−𝑛. 
+3.What can you generalize about the relationship between 𝑎𝑛 and 𝑎−𝑛 for a 
+real number 𝑎≠0 and positive integer  𝑛. 
+Activity 2.17 
+70
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+The above activity leads to the following definition.  
+ 
+ 
+Notations  
+• √𝑏𝑛  called  radical  expression where  √  is radical sign , 𝑛 is index and 𝑏 is 
+radicand . When the index is not written,  the radical sign indicates the principal 
+square root . 
+ 
+ 
+1.Zero exponent: If 𝑎≠0,  then  𝑎0=1. 
+2.Negative exponent: If 𝑎≠0 and 𝑛 is positive integer, then 𝑎−𝑛=1
+𝑎𝑛. 
+Note  
+ 
+Definition 2.10 
+ 
+If 𝑎2=𝑏, then 𝑎 is a square root of 𝑏. If 𝑎3=𝑏, then 𝑎 is a cube root of 𝑏. If  𝑛 
+is a positive integer and 𝑎𝑛=𝑏, then 𝑎 is called the nth root of 𝑏.  
+Definition 2.11    Principal 𝒏𝒕𝒉  root 
+ 
+If 𝑏 is any real number and 𝑛 is a positiv e integer greater than 1, then the 
+principal 𝑛𝑡ℎ root of  𝑏 is denoted by   √𝑏𝑛  is defined as  
+           √𝑏𝑛=ቐthe positive 𝑛𝑡ℎ root of 𝑏 ,if 𝑏>0,                           
+the negative 𝑛𝑡ℎ root of 𝑏 ,𝑖𝑓 𝑏<0 and 𝑛 is odd,
+    0,if 𝑏=0.                                                                                
+ 
+Definition 2.12     The (𝟏𝒏ൗ)𝒕𝒉 power  
+ 
+i) If 𝑏∈ℝ and n is an odd positive integer greater than 1, then 𝑏1
+𝑛=√𝑏𝑛. 
+ii)If 𝑏≥0 and n is an even positive integer greater than 1, then 𝑏1
+𝑛=√𝑏𝑛. 
+71
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Find       a. √9                b. √0.01               
+              c. √814               d. √−100,0005.   
+Solution:  
+a. 3 
+b. √0.01=0.1 because (0.1)2=0.01. 
+c. √814=3 because 34=81. 
+d. √−100,0005=−10 because (−10)5=−100,000. 
+ 
+Express each of the following in exponential form . 
+a.     √3    b.  √63        c.  1
+√104 
+Solution:  
+ a.   √3=31
+2    b.  √63=61
+3                    c.   1
+√104=10−1
+4  
+ 
+1. Find  
+     a. √36  b. √0.016        c. √164  d. √−10003. 
+2. Express each of the following in exponential form  
+a. √5 b.  √77    c. 1
+√343  
+d. (√814)2 e.   ට2
+53     
+3. Simplify each of the following  
+a. (−27)1
+3 b. 321
+5                     c. √1253
+√625       
+   d.  √0.09        e.  √(−5)44   
+ 
+Example 1  
+  
+Example 2  
+  
+Exercise 2.21 
+72
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Law of exponent s 
+ 
+ 
+The above activity  2.17 leads you to have the following  laws of exponents . 
+ 
+Note that  these rules also applied for (1
+𝑛)𝑡ℎ
+power and rational power of the form   
+𝑎𝑚
+𝑛=(𝑎1
+𝑛)𝑚. 
+ 
+For the given table below,  
+i) Determine the simplified form of each term.  
+ii) Compare the value you obtained for (I) and (II) for each row.  
+No I II 
+1 23×33 (2×3)3 
+2 25
+23 25−3 
+3 (32)3 (33)2 
+4 (3×4)2 32×42 
+5 22×23 22+3 
+ 
+Activity 2.18 
+For any 𝑎,𝑏∈ℝ and 𝑛,𝑚∈ℕ , the following holds:  
+✓𝑎𝑛×𝑎𝑚=𝑎𝑛+𝑚 
+✓𝑎𝑛
+𝑎𝑚=𝑎(𝑛−𝑚),where 𝑎≠0 
+✓(𝑎𝑛)𝑚=(𝑎𝑚)𝑛=𝑎𝑛𝑚 
+✓(𝑎×𝑏)𝑛=𝑎𝑛×𝑏𝑛 
+✓𝑎𝑛
+𝑏𝑛=(𝑎
+𝑏)𝑛
+,for  𝑏≠0. 
+ 
+73
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Use the above rules and simplify each of the following . 
+a. 71
+2×73
+2    b. (25×9)1
+2       c. 35
+2
+31
+2 d. (8
+27)1
+3 e. (81)1
+4 
+Solution:  
+a. Using 𝑎𝑛×𝑎𝑚=𝑎𝑛+𝑚, 71
+2×73
+2=7(1
+2+3
+2)=72=49. 
+b. Using (𝑎×𝑏)𝑛=𝑎𝑛×𝑏𝑛, 
+(25×9)1
+2=251
+2×91
+2=(52)1
+2×(32)1
+2=5×3=15. 
+c. Using 𝑎𝑛
+𝑎𝑚=𝑎(𝑛−𝑚), 35
+2
+31
+2=3(5
+2−1
+2)=32=9. 
+d. Using 𝑎𝑛
+𝑏𝑛=(𝑎
+𝑏)𝑛
+,for  𝑏≠0 ,(8
+27)1
+3=81
+3
+271
+3=(23)1
+3
+(33)1
+3=2
+3 . 
+e.  Using (𝑎𝑛)𝑚=(𝑎𝑚)𝑛=𝑎𝑛𝑚, (81)1
+4=(34)1
+4=3. 
+ 
+Simplify each of the following . 
+a. √50  b. 321
+4
+1621
+4  c.√163×√43  d. (8+√273)1
+3 
+Solution:  
+a. To simplify this , we use different rules of radicals and exponent. 50 can be 
+written as a product of a square number 25 and another number 2.  
+That is , √50=√25×2=√25×√2=√52×√2=5√2 
+b. Both numbers 32 and 162 are multiples of 2 so that we can express these 
+numbers as a power of 2, that is  321
+4
+1621
+4=(2×16)1
+4
+(2×81)1
+4=21
+4×161
+4
+21
+4×811
+4=161
+4
+811
+4=(24)1
+4
+(34)1
+4=2
+3. 
+c. Express 16 as a product of 4, so t hat √163×√43=√16×43=√4×4×43=
+(43)1
+3=4. 
+Example 1  
+  
+Example 2  
+  
+74
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ d. First express 27 as a multiple of 3 and apply the rule of exponents. This 
+results,  
+(8+√273)1
+3=(8+√333)1
+3=(8+33
+3)1
+3=(8+3)1
+3=111
+3=√113. 
+ 
+1. Use the laws of exponents and simplify each of the following.  
+a. 51
+3×52
+3 b. (16×49)1
+2 c. 210
+3
+21
+3  d. 322
+5 
+2. Simplify each of the following . 
+a. √125                       b.  91
+3
+2431
+3                          c. √0.000325      
+d.  23
+2×√2                  e.  5√24÷2√50
+3√3                 f. √0.0013+√0.00814   
+g. (5−1)3×55
+4×√25×(√1253)3                    h. ( √0.64)×(ට1
+643)2
+×321
+5  
+i. 31
+4×271
+4 j. √5+2√6+√8−2√15 
+ 
+Addition and subtraction of radicals  
+ 
+ 
+Exercise 2.22 
+ 
+What do you say about these statements? Which one is correct?  
+a.  √2−√2=0                      b.    √16−√4=√12 
+c. √2+√3=√5                                 d.   4√2−√2=3√2 
+Activity 2.19 
+Definition 2.13 
+ 
+Radicals that have the same index and the same radicand are said to be like 
+radicals.  
+ 
+75
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ For instance: -  i)  2√5,−2
+3√5 and  √5  are like radicals  
+                        ii) √2 and √3  are not like radicals  
+                       iii)  √3 and √33 are not like radicals  
+By following the same procedure of addition and subtraction of similar terms, we can 
+add or subtract like radicals. In some cases we got like radicals after simplification.  
+ 
+Simplify each of the following.  
+a.  √3+√12                   b.   2√18−√2+√8 
+Solution:  
+a.   √3+√12=√3+√4×3=√3+2√3=(1+2)√3=3√3. 
+b.   2√18−√2+√8=2√9×2−√2+√4×2 
+                                                   =6√2−√2+2√2    
+                                               =(6−1+2)√2 (taking common term)  
+ =7√2 
+ 
+Simplify each of the following.  
+a. √12−√3                  b.   √543−√23             c.  3√273−√1253+√169 
+ 
+Operations  on real numbers 
+ You discussed the rules of exponents, operations on radicals and how to simplify 
+numbers  related to radicals. Recall that a real number system is a collection of rational 
+and irrational numbers. You studied operations on rational numbers on section 2.2  
+and operations on irrational numbers on section 2.3.2 . We can summarize operations 
+on ration al and irrational numbers as follows:  
+Example  
+  
+Exercise 2.23 
+76
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ ➢ The rational numbers satisfy the commutative, associative and distributive laws 
+for addition and multiplication. Moreover, if we add, subtract, multiply or 
+divide (except by zero) two rational numbers, we still get a r ational number 
+(that is, rational numbers are ‘closed’ with respect to addition, subtraction, 
+multiplication and division) . 
+➢ Irrational numbers also satisfy the commutative, associative and distributive 
+laws for addition and multiplication. However, the sum, difference, quotients 
+and products of irrational numbers are not always irrational. 
+ 
+Now the above activity leads to draw the following conclusion s. 
+➢ The sum and difference of rational and irrational numbers is irrational.  
+➢ The product, quotient of non -zero rational number and an irrational number is 
+an irrational number.  
+ Let us see some examples of four operations on  the set of real numbers.  
+ 
+If 𝑥=5√3+2√2  and 𝑦=√2−4√3, then find  
+a. the sum of 𝑥 and 𝑦.          b. the difference between 𝑦 and 𝑥 
+ 
+1.Identify whether each of the following is rational or irrational.  
+a.𝜋+2  b. √2−1  c.(1−√3)×(1+√3)     d. √5
+2 
+e.22
+7×22
+7  f. √7(4−√7)  g. 0.2323…+ 0.3232…    h. 8
+√2 
+2.Give an example for each ( if possible) . 
+a.Two irrational numbers where their product is rational.  
+b.A rational and irrational number s and their sum is rational.  
+c.A rational and irrational number s and their difference is rational.  
+d.A rational and irrational number s and their quotient is irrational.  
+Activity 2.20 
+Example 1  
+  
+77
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Solution:  
+a. 𝑥+𝑦=5√3+2√2+√2−4√3 
+           =5√3−4√3+2√2+√2 (rearranging terms)  
+           =(5−4)√3+(2+1)√2 (taking out common factor)  
+           =√3+3√2 
+b.  𝑥−𝑦=5√3+2√2−(√2−4√3) 
+           =5√3+4√3+2√2−√2 
+           =(5+4)√3+(2−1)√2 
+           =9√3+√2 
+ 
+Find the product of  
+a. 3√3  and 2√2                               b.   5√2  and   √2
+5. 
+Solution:  
+a.  3√3×2√2=6×√3×√2=6√6                 b. 5√2×√2
+5=5×√2×√2
+5=2 
+ 
+Divide  
+a. 6√8 by 3√2                      
+b.  √3  by (2√2×3√3). 
+Solution:  
+a. 6√8  ÷3√2=6√8
+3√2=2ට8
+2=2×2=4  
+b. √3÷(2√2×3√3)=√3
+(2√2×3√3)=√3
+6√6=1
+6×ට3
+6=1
+6√2 
+Since a real number is a union of rational and irrational numbers, it is closed under 
+addition, subtraction, multiplication and division (excluding  division by zero).  
+Example 2  
+  
+Example 3  
+  
+78
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+1. If  𝑥=4√2+7√5  and  𝑦=√2−3√5, then find  
+a. the sum of 𝑥 and 𝑦.          b. the difference between  𝑦 and 𝑥 
+2. Find the product of  
+a. 2√5 and 4√3       b. 3√3  and √3
+3             c. √3−√2  and 3√3−4√2 
+3. Divide  
+a. 4√6  by 2√2         b. 10√2  by  5√18  c. √5  by ( 3√2×4√5 ) 
+4. Compute each of the following.  
+a. 5√2+2√3+3√3−√2  b. √145 −√232 +√261 
+ 
+ 
+From the above examples and activities, we have the following basic properties with 
+addition and multiplication of real numbers . 
+Closure property:  
+The set of real numbers ℝ is closed under addition and multiplication. This means 
+that the sum and product of any two real numbers is always  a real number. In other 
+words, for all   𝑎,𝑏∈ℝ,  𝑎+𝑏∈ℝ  and 𝑎𝑏 or 𝑎×𝑏∈ℝ. 
+Commutative property  
+Exercise 2.24 
+ 
+1. Determine the opposite  of each of the following real numbers  
+a.√3          b. –𝜋                   c. 0.61̅̅̅̅   
+d. 1
+2√5           e. 0                   f. √3−√2 
+2. Determine the reciprocal  of each of the following real numbers . 
+a.−√3
+2          b. 3.1434̅̅̅̅      c. 3√3−1        
+d. √43
+1−√6          e. 32
+3  
+Activity 2.21 
+79
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Addition and multiplication are commut ative in  ℝ: That is, for all 𝑎,𝑏∈ℝ, 
+     i)  𝑎+𝑏=𝑏+𝑎   
+    ii)  𝑎𝑏=𝑏𝑎 
+Associative property  
+Addition and multiplication are associative in ℝ: That is, for all 𝑎,𝑏,𝑐∈ℝ, 
+     i)  (𝑎+𝑏)+𝑐=𝑎+(𝑏+𝑐) 
+     ii)  (𝑎𝑏)𝑐=𝑎(𝑏𝑐). 
+Existence of additive and multiplicative identities:  
+There are real numbers 0 and 1 such that:  
+   i) 𝑎+0=0+𝑎=𝑎 for all 𝑎∈ℝ.  
+   ii) 𝑎×1=1×𝑎=𝑎 for all 𝑎∈ℝ . 
+Existence of additive and multiplicative inverses:  
+i. For each 𝑎∈ℝ there exists −𝑎∈ℝ such that  𝑎+(−𝑎)=0=(−𝑎)+𝑎, and −𝑎 
+is called the additive inverse of  𝑎. 
+ii. For each non -zero 𝑎∈ℝ, there exists1
+𝑎∈ℝ such that 1
+𝑎×𝑎=1=𝑎×1
+𝑎 and 1
+𝑎 is   
+called the multiplicative inverse or reciprocal of  𝑎. 
+Distributive property:  
+Multiplication is distributive over addition; that is, if  𝑎,𝑏,𝑐∈ℝ, 
+i) 𝑎(𝑏+𝑐)=𝑎𝑏+𝑎𝑐. 
+ii)  (𝑏+𝑐)𝑎=𝑏𝑎+𝑐𝑎. 
+ 
+Find the additive and multiplicative inverse for each of the following:  
+a. √2  b. 3
+4  c. 0.5 
+Solution:  
+a. Additive inverse of √2 is −√2 and multiplicative inverse of √2 is 1
+√2. 
+b. Additive inverse of 3
+4 is −3
+4 and multiplicative inverse of 3
+4 is 4
+3. 
+Example  
+  
+80
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ c. Additive inverse of 0.5 is −0.5 and multiplicative inverse of 0.5 is 
+2 (since 0.5=1
+2). 
+ 
+1. Find the additive and multiplicative inverse of each of the following . 
+      a.  √3                       b.  −2
+5  
+      c.  1.3             d.   0.1̅ 
+2. Identify the property of real numbers that is applied in the following statements.  
+a. √3(√3−2)=3−2√3               
+b. 5+(−8+2)=(5−8)+2    
+c. 6×4×1
+6=6×1
+6×4 
+3. Does every real number have a multiplicative inverse? Explain.  
+4. You define a new mathematical operation using the symbol (*). This operation is 
+defined as 𝑎∗𝑏=2𝑎+𝑏. 
+     a.  Is this operation commutative? Explain.  
+     b.  Is this operation associative? Explain.   
+ 
+2.4.4  Limit of accuracy  
+Measurements play an important role in daily life because they are useful to do basic 
+tasks, such as take a child's temperature with a thermometer, make time estimations, 
+measure out medicine and find weights, areas and volumes of different materials or 
+substances.  In the process of measurement, exact value may not be obtained so that 
+you will be forced to take approximate value.  
+In this subtopic you will learn certain mathematical co ncepts related to approximation 
+like rounding of numbers, significant figures (s.f.), decimal place  (d.p.) and accuracy . 
+Exercise 2.25 
+81
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Rounding  
+Rounding off is a type of estimation. Estimation is used in everyday life and also in 
+subjects like Mathematics and Physics. Many physical quantities like the amount of 
+money, distance covered, length measured, etc., are estimated by rounding off the 
+actual number to the nearest possible whole number and for decimals at various places 
+of hundreds, tens, tenths, etc.  
+Rule for rounding  whole numbers  
+When rounding numbers, you need to know the term "rounding digit". When working 
+with whole numbers and rounding to the closest 10, the rounding digit is the second 
+number from the right or the tens place. When rounding to the nearest hundred , the 
+third place from the right is the rounding digit or hundreds place. To perform 
+rounding: - 
+First, determine what your rounding digit is and then look for the digit at the right side.  
+▪ If the digit is 0,1,2,3, or 4, do not change the rounding digit. All digits that are 
+in the right hand side of the requested rounding digit become zero.  
+▪ If the digit is 5,6,7,8, or 9 the rounding digit rounds up by one number . All 
+digits that are on the right hand side of the requested rounding digit become 
+zero.  
+ 
+1.Round off the number 45,676 to the nearest . 
+a. 100                         b. 1000  
+2.Write the number   8.426  
+a. to one decimal place    
+b. to two decimal place s. 
+3.Write the number 28.79 to three significant figures.  
+ 
+Activity 2.22 
+82
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+38,721 people live in a town. Round this number to various level of accuracy . 
+a.  Nearest 100     
+b.  Nearest 1,000        
+c.  Nearest 10,000. 
+Solution:  
+a. To the nearest 100  the number of people would be rounded up to 38,700, since the 
+rounding digit is 7, 2 is the number at the right side of it and keep the rounding digit 
+as it is and all digits at the right hand side of it become zero.  
+b. To the nearest 1,000 this number would be rounded up to 39,000. The fourth 
+number from   the right, that is 8 is the roundi ng digit. 7 is the number at the right 
+of this rounding digit, so that the rounding digit rounds up by  one number so that it 
+would be  9. All digits at the right hand side of this rounding digit become zero.  
+c. Similarly to the nearest 10,000  this number would  be rounded up to 40,000, since 
+8 is at the right of the rounding digit (3), the rounding digit rounds up by one number 
+so that it would be 4. All digits at the right hand side of this rounding digit become 
+zero.  
+In this type of situation, it is unlikely that the exact number would be reported.  In other  
+words, the result is less accurate  but easier to use.  
+Decimal place  
+A number can also be approximated to a given number of decimal places (d.p .). This 
+refers to the number of figures written after a decimal point.  
+ 
+a.  Write 10.673 to 1 d.p.                b. Write 3.173 to 2 d.p.  
+Solution:  
+Example 1  
+  
+Example 2  
+  
+83
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ a. The answer needs to be written with one number after the decimal point. However, 
+to do this, the second number after the decimal point also needs to be considered. 
+If it is 5 or more, then the first number is rounded up.  
+ That is,10.673 is written as 10.7 to 1 d.p.  
+b. The answer here is to be given with two numbers after the decimal point. In  this 
+case, the third number after the decimal point needs to be considered.  As the third 
+number after the decimal point is less than 5, the second number is not rounded u p. 
+That is , 3.173 is written as 3.17 to 2 d.p. 
+ 
+Significant figures  
+Numbers can also be approximated to a given number of significant figures (s.f .). In 
+the number  43.25, the 4 is the most significant figure as it has a value of 40. In 
+contrast, the 5 is the least  significant as it only has a value of 5 hundredths. When we 
+desire to use significant figures to indicate the accuracy of approximation, we count 
+the number of digits in the number from left to right, beginning at the first non -zero 
+digit. This is known a s the number of significant figures.  
+ 
+a. Write  2.364 to 2 s.f. b. Write  0.0062  to 1 s.f.   c. Write 0.3041  to 2 s.f. 
+Solution:  
+a. We want to write only the t wo most significant digits. T he third digit (6) needs to 
+be considered to see whether the second  digit (3) is to be rounded up or not.  That 
+is, 2.364 is written as 2.4 to 2 s.f.  
+b. Notice that in this case 6 and 2 are the only significant digits. The number 6 is 
+ 
+To approximate a number to 1 decimal place  means to approximate the number to 
+the nearest  tenth. Similarly approximating a numb er to 2 decimal places means to 
+approximate to the nearest hundredth.  
+ 
+Note  
+ 
+Example 3  
+  
+84
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ the most significant digit and we will consider 2 to be rounded up or not.  That 
+is,0.0062  is written as 0.006 to 1 s.f. (since 2 is less than 5 we ignore its effect).  
+c.  Here all digits after the decimal point are significant. So moving two steps from 
+a decimal point  to the right we will consider 4 to be rounded up or not. That is , 
+0.3041 is written as 0.30 to 2 s.f. ( since 4 is less than 5 we ignore its effect).  
+ 
+1. Round 86,343 to various level of accuracy  
+a.  Nearest 100  b. Nearest 1,000 c. Nearest 10,000. 
+2. Round each of the following to the nearest whole number.  
+a. 35.946        b. 45.1999              c. 7
+8   d. √5  
+3. Express the following decimals to 1 d.p. and 2 d.p.  
+   a.  1.936     b. 4.752      c. 12.998 
+4. Write each of the following to th e number of significant figures indicated in  
+     brackets.  
+a. 28,645 (1 s.f.)   b. 41,909 (3 s.f.)    c. 4.5568 (3 s.f.)  
+ 
+Accuracy  
+In this lesson you will learn how to approximate upper and lower bounds for data to a 
+specified accuracy (for example, numbers rounded off or numbers expressed to a given 
+number of significant figures) . 
+ 
+The above activity leads us to define upper and lower bound of a number.  
+Exercise 2.26 
+ 
+1.Round each of the following to 1 d.p . 
+3.51,3.48,3.53,3.4999,3.49,3.45,3.47,3.42,3.57,3.41,3.59,3.54. 
+2.Collect the numbers in (1) above which gives 3.5 after rounding and 
+determine the maximum and minimum value from the list.  
+Activity 2.23 
+85
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Consider numbers 1.5,1.50 and 1.500. They may appea r to represent the same number 
+but they actually do not. This is because they are written to  different degrees of 
+accuracy. 1.5 is rounded to one decimal place (or to the nearest tenths) and therefore 
+any numb er from 1.45 up to but not including 1.55 would be rounded to 1.5. On the 
+number line this would be represented as  
+ 
+                                                      Figure 2.9  
+As an inequality, it would  be expressed as 1.45≤1.5<1.55. 
+Here,  1.45 is known as the lower bound of 1.5, while 1.55 is known as the upper 
+bound.  
+In order to find the lower and upper bounds of a rounded number, follow the 
+following steps:  
+1) Identify the place value of the degree of accuracy stated . 
+2) Divide this place value by 2 . 
+3) Add this amount (value in step2) to the given value to obtain the upper bound 
+and subtract this value (value in step2) from the given value to obtain the 
+lower bound . 
+ 
+The weight of the tree is 872 kilogram s to the nearest kilogram.  
+a. Find the upper and lower bound s where the weight of the tree lies.  
+b. If the tree’s weight is 𝑤𝑡 kilograms, describe this range as inequality.  
+Definition 2.14   Lower and upper bound  
+ 
+The upper and lower bounds are the maximum and minimum values that a 
+number could have been before it was rounded.  
+Example 1  
+  
+86
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Solution:  
+a. 872 kg is rounded to the nearest kilogram ,  
+Step 1. The place value is 1.  
+Step 2. Divide 1 by 2 and we get 0.5.  
+Step 3. Lower bound is 872−0.5=871.5 and the upper bound is  
+ 872+0.5=872.5. 
+Therefore, the lower bound is  871.5 kg and the upper bound is  872.5. 
+b. When the tree’s weight is kg, using the answer we got in (a),  it could be 
+expressed using inequality as 871.5≤𝑤𝑡<872.5. 
+A number was given as 10.7 to 1 d.p.  Find the lower and upper bounds of a number.  
+Solution:  
+Step 1. Place value of the degree of accuracy is 1
+10 or 0.1. 
+Step 2. Dividing 0.1 by 2 results 0.05. 
+Step 3. The lower bound is 10.7−0.05=10.65 and upper bound is  
+            10.7+0.05=10.75. 
+ 
+1. The speed of a car is given as  45 m/s to the nearest integer.  
+a. Find the lower and upper bounds within which the car speed can lie.  
+b. If the car’s speed is v m/s, express this range as inequality.  
+2. Find the lower and upper bounds of :  
+a. 45 rounded to the nearest integer.  
+b.  12.6 rounded to 1 d.p.   
+c.  4.23 rounded to 2 d.p.   
+3. Express each of the following in between the upper and lower bounds.  
+a. 𝑥=34.7       b.  𝑦=21.36       c.  𝑧=154.134 
+ 
+Example 2  
+  
+Exercise 2.27 
+87
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Effect of operation on accuracy  
+ 
+When approximated numbers are added, subtracted and multiplied , their sum, 
+difference and product give a range of possible answers.  
+ 
+Given that a rectangular farmland has length 12 meters and width 6 meters.  
+a. Find the upper and lower bounds of the sum of length and width of the farmland.  
+b. Find the range of the area of the farmland (upper and lower bound s of the  area).  
+ 
+1.Given 𝑎=5 and 𝑏=2, then write: - 
+i.lower bound of 𝑎 + lower bound of 𝑏 
+ii.lower bound of 𝑎 + upper bound of 𝑏 
+iii. upper bound of 𝑎 + lower bound of 𝑏 
+iv. upper bound of 𝑎 + upper bound of 𝑏 
+Which of these  gives the lowest value? Is  this lowest value the sum of the  
+lowest numbers?  
+Which of these give s the highest value? Is this  highest value the sum of the  
+highest numbers ? 
+2.Given 𝑎=9 and 𝑏=6, then write: - 
+i.lower bound of 𝑎 − lower bound of 𝑏 
+ii.lower bound of 𝑎 − upper bound of 𝑏 
+iii.upper bound of 𝑎 − lower bound of 𝑏 
+iv.upper bound of 𝑎 − upper bound of 𝑏 
+Which of these gives the lowest value? Is this lowest value the difference of 
+the lowest numbers?  
+Which of these gives the highest value? Is this highest value the difference of 
+the highest numbers?  
+ 
+Activity 2.24 
+Example  
+  
+88
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Solution:  
+a.  Let 𝑙 be the length and 𝑤 be the width of the farmland.  That is,  𝑙=12 meter s 
+and  𝑤=6 meters. Then, 11.5≤𝑙<12.5 and 5.5≤𝑤<6.5. 
+The lower bound of the sum is obtained by adding the two lower bounds.  
+Therefore, the minimum sum is 11.5 + 5.5=17.0 
+The upper bound of the sum is obtained by adding the two upper bounds.  
+       Therefore, the maximum sum is 12.5 + 6.5=19.0. 
+       So, the sum lies between  17.0 meter s and 19.0 meter s. 
+b. The area of a rectangle  𝐴 is determined by  𝐴=𝑙×𝑤. So, let us determine the 
+upper and  lower bounds of the product of  𝑙 and 𝑤. The lower bound of the 
+product  is obtained by multiplying the two lower  bounds.  Therefore, the 
+minimum product is 11.5×5.5=63.25. 
+The upper bound of the product is obtained by multiplying  the two upper bo unds.  
+Therefore, the maximum product is 12.5×6.5=81.25. 
+       So, the product lies between 63.25  and 81.25. Hence the area of the  farmland   
+       ranges between 63.25 m2and 81.25 m2.  
+ 
+1. Consider two numbers, 15 and 7. 
+a. Find the upper and lower bound s of the sum of the two numbers.  
+b. Find the range of the product of the two numbers.  
+2. Calculate the upper and lower bounds for the following calculations if each of the   
+      numbers is given to 1 decimal place.  
+       a. 5.4+6.2               b. 4.6×2.7    c. 14.3−5.7          d. 10.8
+3.1  
+3.  Calculate upper and lower bounds for the area of a school football field shown  
+     below  if its dimensions are correct to 1 decimal place.  
+Exercise 2.28 
+89
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+                      Figure 2.10  
+ 
+2.4.5 Standard notation (Scientific notation)  
+In science and technology, it is usual to see very large and very small numbers. For 
+instance:  
+• Abay River travels 1,450,000 meter s through Ethiopia and Sudan.  
+• The average distance from the earth to the moon is  382,500 kilomet ers. 
+• The mass of the hydrogen atom is 0.00000000000000000000000000167  
+kilograms.  
+Very large numbers and very small numbers may sometimes be difficult to work with 
+or write. Hence you often write very large or very small numbers in scientific notati on, 
+also called standard notation . 
+ 
+As you have seen from the above activity, you might give different answer for the same 
+question. This will lead us to have the following definition.  
+ 
+Express each of the following as a multiple of 10. 
+i)  486.00017                 ii) 14580,000,000,000      
+iii) 0.0006504               iv) 0.00000000000078436  
+ 
+Activity 2.25 
+90
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+To convert  numbers into scientific notation, we follow the following steps.  
+1. Move decimal point until there is one (non -zero) number in front of the decimal 
+point.  
+2. The exponent of the power of 10 is determined by the number of places you 
+moved the decimal point.  
+a. If the original number is large, you moved the decimal point to the left and 
+the number  
+of places you moved the decimal point is exponent of the power of 10. 
+b. If the original number is small, you moved the decimal point to the right, 
+and the  
+exponent of t he power of 10 is negative integer of the number of places 
+you moved the decimal point.  
+3. Put the number in the correct pattern for scientific notation.  
+ 
+Express each of the following numbers into scientific notation  
+a. 1,856,700,000      b. 0.000000314  
+ Solution:   
+a.  
+1. First let us find a number between 1 and 10, that is a number which has 1 
+digit in front of the decimal point from the given number. The number is 
+1.8567 . 
+Definition 2.15 
+ 
+A number is said to be in scientific notation (or standard notation) if it is  written 
+as a product of the form  𝑎×10𝑛 where 1≤𝑎<10 and 𝑛 is an integer . 
+ 
+Example 1  
+  
+91
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 2. The decimal point has been moved 9 places to the left so the exponent of 
+the power of 10 is 9.  
+3. Here, the decimal points will move to the left and we will count the 
+number to find  𝑛. That is,  1.8567 ×109. 
+       b.   
+ 1.   First let us find a number between 1 and 10, that is a number which has 1 
+digit in  front of the decimal point from the given number. The number  is 
+3.14.  
+2. The decimal point has been moved 7 places to the right  so the exponent of 
+the power of 10 is −7. 
+3. Here,  the decimal points will move to the right and we will count the 
+number to find  𝑛. That is,  3.14×10−7. 
+ 
+Express each of the following in decimal notation . 
+       𝐚.  5.37×106                     b. 1.7×10−7  
+Solution:  
+a. To change the given number in to ordinary decimal, the decimal point moves  
+to the right 6 units. That is, 5.37×1000000 =5,370 ,000. 
+b. Similarly, 1.7×10−7=0.00000017 .          
+ 
+1. Express each of the following in standard notation . 
+      a. 426 ,000           b. 158 .762             c. 0.000089         d.56,897 .00547  
+2. Write each of the following in ordinary decimal notation  
+       a.1.34×106                   b.  3.3×10−3                    c.  2
+5×10−7 
+Example 2  
+  
+Exercise 2.29 
+92
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ 3. Find the simplified expression in standard notation form . 
+a.  (4.2×103)+(1.6×103) b. (2.1×103)(1.3×104)                        
+c. (1.5×10−3)(3.1×103) d. (5.0×105)
+(2×10−2) 
+ 
+2.4.6  Rationalization  
+Whenever we have a ratio of numbers where the denominator is irrational, determining 
+the quotient might be difficult. So, there is an intention of changing the denominator 
+as rational.  
+For instance: 1
+√3 has an irrational denominator , √3. Here, our aim is changing the 
+number 1
+√3  to an equivalent number with a rational denominator. What shall we do?  
+The technique of transferring the radical expression from the denominator to the 
+numerator is called rationalizing the denominator  (changing the denominator into a 
+rational number).  
+Do you recall the existence of multiplicative identity 1  for the set of real 
+numbers?  
+The number that can be used as a multiplier to rationalize the denominator is called the 
+rationalizing factor which is equivalent to 1.  
+For example: If you have an irrational number  √𝑎 and if you need to rationalize  the 
+denominator of  1
+√𝑎, the rationalizin g factor will be √𝑎
+√𝑎=1. 
+ 
+Rationalize the denominator for each of the following.  
+  a.  2
+√3                      b.  √2
+√5              c.  1
+√23  (to change in to 2 as its denominator)    
+Solution:  
+a. The rationalizing factor for this number is √3
+√3. So that2
+√3=2
+√3×√3
+√3=2√3
+3 . (why?)  
+Example  
+  
+93
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ b. The rationalizing factor is  √5
+√5 . So, √2
+√5×√5
+√5=√10
+5 . (why?)  
+c. We can take  (√223/√223) as rationalizing factor, 1
+√23=√223
+√23×√223=√223
+2=√43
+2. 
+ 
+Rationalize the denominator of each of the following and write in simplest form . 
+a. 3
+√5                          b. 2√2
+√7                           c. 5ට1
+3 
+ 
+More on rationalizations of denominators    
+ 
+You might have got a rational number as a product for the above expressions.  
+This will lead  you to have the following conclusion .                 
+                                                 Table 2 .3  
+No Given number  Rationalizing factor  
+1 1
+√𝑎−√𝑏 √𝑎+√𝑏
+√𝑎+√𝑏 
+2 1
+𝑎+√𝑏 𝑎−√𝑏
+𝑎−√𝑏 
+3 1
+√𝑎−𝑏 √𝑎+𝑏
+√𝑎+𝑏 
+4 1
+√𝑎+√𝑏 √𝑎−√𝑏
+√𝑎−√𝑏 
+Exercise 2.30 
+ 
+1.What is the product of (√𝑎−√𝑏)  and (√𝑎+√𝑏)? 
+2.What is the product of (𝑎+√𝑏) and (𝑎−√𝑏)? 
+3.What is the product of (√𝑎−𝑏) and (√𝑎+𝑏) ? 
+Activity 2.26 
+94
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+Rationalize the denominator of  
+            a.  1
+√2+1   b.  3
+√5−√3  c. 1
+√3−√2+1. 
+Solution:   
+     a. The rationalizing factor is √2−1
+√2−1, so that  1
+√2+1=1
+√2−1×√2−1
+√2−1=√2−1
+2−1=√2−1 . 
+            b. The rationalizing factor is √5+√3
+√5+√3, so that  3
+√5−√3=3
+√5−√3×√5+√3
+√5+√3=3(√5+√3 )
+2. 
+            c. Consider a rationalizing factor √3−√2−1
+√3−√2−1. Now multiply both the numerator and  
+                 denominator by this rationalizing factor.  
+                1
+√3−√2+1×√3−√2−1
+√3−√2−1=√3−√2−1
+2(2−√6) (using multiplication and collecting like terms).   
+                 The denominator is still not rational. Hence, again we will take 2+√6
+2+√6 as  
+                 a rationalizing factor.  Multiplying both the numerator and the denominator by  
+                 2+√6
+2+√6 , we obtain  √3−√2−1
+2 (2−√6)×(2+√6)
+(2+√6) =√2−√6−2
+−4. 
+ 
+Rationalize each of the following numbers . 
+a.  3
+2+√5           b. 1+√2
+√3−1                     c.   2
+√3−√2              d. 2
+√2+√3+1 
+ 
+2.5   Applications  
+In the last 4 subsections, you have discussed number systems. In this subsection you 
+will learn some application problems based on the covered topics.  
+ 
+A small town has 530 flower pots. The gardener  wants to arrange them in rows such 
+that each row  contains 21 flower pots. Find the number of completed rows and how 
+many flower  pots are left over . 
+Example  
+  
+Exercise 2.31 
+Example 1  
+  
+95
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ Solution:   
+Total number of flower pots  is 530. Number of flowe r pots in each row  is 21. 
+Now, we have to  find how many groups of 21 in 530. So, we use Euclid’s 
+Division Lemma, that is dividing 530 by 21 as shown in the right.   
+The result indicates, the gardener can arrange the flower pots i n 25 rows 
+with each row consisting  of 21 pots.  Also t he rem aining number of flower 
+pots is 5. 
+ 
+The teacher wants to paste  a square pieces of equal size colored papers on a white 
+board measuring 20 cm by 50 cm. If only squares of length with natural number be 
+considered, and the board is to be completely covered, find the largest possible length 
+of the side of each square  pieces.  
+Solution:   
+The dimension of the white board is 50 cm by 20 cm. There are differ ent alternatives 
+to construct the square pieces, in figure 2.11(a), we have 1 cm by 1 cm square pieces.  
+  
+                                                   Figure 2.11 (a)  
+The following figure 2.11(b) is a 5 cm by 5 cm square pieces.            
+Example 2  
+  
+96
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+  
+                                        Figure 2. 11 (b)   
+And figure 2.11 (c) below, we have 10 cm by 10 cm.  
+ 
+                                              Figure 2.11 (c)  
+There are also other options to construct such square pieces with different lengths. 
+Since we need only natural number length, we will try to find the  GCF of 50 and 20. 
+Using prime factorization  50=2×52 and 20=22×5. So, GCF(50,20)=10. 
+Hence, the largest possible length of the side of each square piece is 10 cm. 
+ 
+1. Assume thr ee strings of different lengths 78 cm, 117 cm and 351 cm cut into 
+equal lengths. Find the greatest possible length of each piece.  
+2. Two 9th grade students A and B start running around th e sport field together. 
+Student A completes one round in 6 minutes while B takes 14 minutes to 
+Exercise 2.32 
+97
+
+--- [PAGE BREAK] ---
+
+Unit  2: The Number Syst em 
+ 
+ 
+ complete the same round. After how many minutes will they meet again at the 
+starting point for the second time?  
+3. There are 340 notebooks. A teacher is thinking to distribute them to 24 students 
+equally as much as possible. Find number of notebooks each student gets and 
+how many notebooks are left.  
+ 
+98
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+  
+1. The set of Natural numbers, Integers and Rational numbers are denoted by 
+ℕ,ℤ  and ℚ, respectively and described as  
+ ℕ={1,2,3,...}, 
+ ℤ={  ...,−3,−2,−1,0,1,2,3,...} and               
+ ℚ=ቄ𝑎
+𝑏:a,b∈ℤ and 𝑏≠0ቅ. 
+2. Euclid’s Division algorithm   
+Given non -negative integer 𝑎 and a positive integer 𝑏, there exist unique non -
+negative  integers  𝑞 and 𝑟 satisfying :  
+       𝑎=(𝑏×𝑞)+𝑟 with 0≤𝑟<𝑏. 
+       From the  above  equation, 𝑎 is called the dividend , 𝑞 is called the quotient , 𝑏 is  
+       called the  divisor , and 𝑟 is called the remainder.  
+3.    a.  A natural number that has exactly two distinct factors, namely 1 and itself is 
+called a prime  number.  
+b. A natural number that has more than two factors is called a composite 
+number.  
+c. Prime factorization is a process of expressing a natural number as a product 
+of prime numbers.  
+d. Fundamental theorem of arithmetic  states that every co mposite number 
+can be expressed (factorized) as a product of primes, and this factorization 
+is unique, apart from the order in which the prime factors occur.  
+4.  a. Given two o r more natural numbers, a number which is a factor of all of  
+     them is called a common factor . 
+Summary  
+99
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+ a. The Greatest Common Factor (GCF) or Highest Common Factor (HCF) of 
+two or more natural numbers is the greatest natural number of the common  
+factors.  
+b. Two or more natural numbers where their GCF is 1 are called relatively 
+prime.  
+c. For any two natural numbers 𝑎 and 𝑏, the Least Common Multiple of  
+𝑎 and 𝑏 denoted by LCM(𝑎,𝑏), is the smallest multiple of both 𝑎 and 𝑏. 
+d. For any two natural numbers  𝑎 and 𝑏, LCM(𝑎,𝑏)×GCF(𝑎,𝑏)=𝑎×𝑏. 
+5.  a.  Any rational number can be expressed as decimal by dividing the numerator  
+          𝑎 by the denominator  𝑏. 
+a. To change a rational number 𝑎𝑏ൗ in to decimal  form , one of the following  
+ cases will occur . 
+• The division process ends when a remainder of zero is obtained. 
+Here, the decimal is called a terminating decimal.  
+• The division process does not terminate but repeats as the remainder 
+never becomes zero. In this case the decimal is called a repeating 
+decimal . 
+      c. A repeating decimal also can be converted in to fractions.   
+6. Any terminating decimal or repeating d ecimal is a rational number where as a  
+    decimal number that is neither terminating nor repeating is an irrational number . 
+7. The sum of an irrational and a rational number is always an irrational number . 
+8. The set of irrational numbers is not closed w ith respect to addition, subtraction,  
+    multiplication and division.  
+9. A number is called a real number , if and only if it is either a rational number o r  
+    an irrational number, that is ℝ={𝑥:𝑥 is rational or 𝑥 is irrational} . 
+100
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+ 10. The absolute value of a real number  𝑥, denoted by  |𝑥|, is defined as  
+        |𝑥|=ቄ𝑥 if 𝑥≥0,
+−𝑥 if 𝑥<0. 
+11. For any real number 𝑏 and positive integer  >1, 𝑏1
+𝑛=√𝑏𝑛 (whenever  √𝑏𝑛 is a 
+       real number) . 
+12. For all real numbers  𝑎 and 𝑏≠0 for which the radicals are defined and for all  
+      integers 𝑛≥2. 
+       i. √𝑎𝑛√𝑏𝑛=√𝑎𝑏𝑛           ii. ට𝑎
+𝑏𝑛=√𝑎𝑛
+√𝑏𝑛  
+13. A number is said to be in scientific notation (or sta ndard form) if it is written as  
+      the form  𝑎×10𝑛 where 1≤𝑎<10 for an integer  𝑛. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+101
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+  
+1. Identify whether each of the following numbers is divisible by  
+2,3,4,5,6,8,9 or 10. 
+a.  657   b. 10,222  c. 64,916 
+2. A four digit number has digit form ‘ 𝑎4𝑏2’. If it is divisible by 3, what are the 
+possible values of 𝑎+𝑏? 
+3. Fill in the blank space.  
+a. ________is the sum of the smallest prime number and the smallest 
+composite number.  
+b. ________ is the smallest composite number.  
+4. Write each as prime factorization form . 
+a.  57  b.  168                   c.  536 
+5. Find the GCF and LCM of the numbers given below.  
+a.  36 ,60            b.  84,224        c. 15,39,105  d. 16,20,48 
+6. The GCF of two numbers is 9 and the LCM of these two numbers is 54. If 
+one of the numbers is 27, what is the other number?  
+7. Express each of the following rational numbers as decimals.  
+a.  −21
+5   b. 11
+7          c. 17
+33  
+8. Express each of the following decimals as a fraction in simplest form.  
+a.  0.38 b. 2.12̅          c. −0.123̅̅̅̅̅ 
+9. Prove that there exists a real number between any two real numbers.  
+10. If  𝑎
+𝑏 and 𝑐
+𝑑  are two rational numbers, show that 𝑎
+𝑏×𝑐
+𝑑 is also rational number.  
+11. Find the absolute value of each of the following.  
+      a. −10.1418̅̅̅̅         b. √63−2      c. 𝑎
+𝑏 , where  𝑎,𝑏∈ℝ and 𝑎≥0 and 𝑏<0. 
+Review Exercise  
+102
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+ 12. Give equivalent expression, containing fractional exponents, for each of the 
+following  
+a. √14              b.√𝑥+𝑦  c.√75    d. ට5
+63 
+13. Describe the following numbers as fractions with rational denominators.  
+a. −2
+√5         b. 4
+3−√2            c. √2
+√3+√2   d. 1
+√2+√5+1  
+14. Find an irrational number between 1
+7 and 2
+7. 
+15. Given  √2+√3
+4+√3=𝑎√2+𝑏√3+𝑐√6+𝑑. Then, find 𝑎,𝑏,𝑐 and 𝑑. 
+16. Simplify each of the following . 
+a. 7√2+√8−√18  b. 1
+3×(√5−√2)×(√5+√2)     c.  3√28÷8√7  
+d. √𝑏2×√𝑏23 4 , for 𝑏≥0        e. √72−3√24
+√2  f. 2√72
+3−3√128
+4+5ට1
+2 
+17. Each of the following numbers is correct to one decimal place.  
+• Give the upper and lower bounds of each.  
+• Using 𝑥 as the number, express the range in which the number lies as an 
+inequality.  
+a. 2.4  b. 10.6  c. 2.0  d. −0.5 
+18. Express each of the following numbers in scientific notation.  
+a. 567 ,200 ,000              b. 0.00000774                 c. 154 .6×105 
+19. On the number line which one of the following real numbers is found farthest 
+from the origin?  
+      𝐀.  √1.44       B. −√3     C.  √5
+7            D. −√0.0001  
+20. According to the division algorithm, what should be the value of 𝑞 and 
+𝑟 respectively so that 736 =12𝑞+𝑟? 
+103
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+ A. 60 and −4  B. 54 and 8    C. 60 and 4        D. 61 and 4 
+21. Suppose 𝑥 is a rational number and 𝑦 is an irrational number, then which one of 
+the following is necessarily true?  
+A. 𝑥𝑦 is rational . B. 𝑥
+𝑦 is irrational number.  
+C. 𝑦
+𝑥 is real number . D. 𝑥−𝑦 is irrational for any  𝑥. 
+22. Which one of the following statements is true about the set of real numbers ℝ? 
+A. Every real number has a multiplicative inverse.  
+B. Subtraction is associative over ℝ. 
+C. −𝑎 is the additive inverse of  𝑎 for every 𝑎ϵℝ. 
+D. Division is commutative over ℝ. 
+23. When the positive integers  𝑎,𝑏 and 𝑐 are divided by 13, the respective 
+remainders are 9,7 and 10, respectively. Show that  𝑎+𝑏+𝑐 is divisible by 13. 
+24. There are 14 girls and 21 boys in a school. These students  want to g ive a 
+voluntary traffic safety service. The ir school director assigned a task  to be done 
+in a team . Each  team must have an equal number of boys and girls on it. What is 
+the greatest number of teams the director can make if every student should be in 
+a team? How many boys and girls will be in each team?  
+25. Floor of an ICT room of your school is to be fitted wit h a square marble of the 
+largest possible size. The size of the room is 10 m by 7 m. What should be the 
+size of the tiles required that has to be cut and how many such tiles are required?  
+ 
+  
+104

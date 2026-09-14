@@ -1,0 +1,1213 @@
+=================================================================
+Book: geography.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+11
+
+
+--- [PAGE BREAK] ---
+
+ 
+ 
+  Ermias Debie(PhD) 
+Mehretie Belay(PhD)Professor Aklilu Dalelo Fekede Menuta (PhD)Abera Husen (PhD)Mesfin Anteneh (PhD) Andargachew Abeje (MSc)
+Teferi Makonnen (PhD)Abebe Yibeltie (MA)Hussien Seid (MA)Evaluators:
+
+
+--- [PAGE BREAK] ---
+
+First Published by the Federal Democratic Republic of Ethiopia, Ministry of Education, under 
+the General Education Quality Improvement Program for Equity (GEQIP-E) supported by the World Bank, UK’s Department for International Development/DFID-now merged with the For -
+eign, Common wealth and Development Office/FCDO, Finland Ministry for Foreign Affairs, the Royal Norwegian Embassy, United Nations Children’s Fund/UNICEF), the Global Partnership for Education (GPE), and Danish Ministry of Foreign Affairs, through a Multi Donor Trust Fund.
+© 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education. All rights
+reserved. The moral rights of the author have been asserted. No part of this textbook repro -
+duced, copied in a retrieval system or transmitted in any form or by any means including elec -
+tronic, mechanical, magnetic, photocopying, recording or otherwise, without the prior writtenpermission of the Ministry of Education or licensing in accordance with the Federal DemocraticRepublic of Ethiopia as expressed in the Federal Negarit Gazeta, Proclamation No. 410/2004 
+Copyright and Neighboring Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups and other bodiesinvolved – directly or indirectly – in publishing this Textbook. Special thanks are due to Ha -
+wassa University for their huge contribution in the development of this textbook in collabora-tion with Addis Ababa University, Bahir Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the owner of copyrighted
+material not cited or improperly cited, please contact the Ministry of Education, Head Office,Arat Kilo, (P.O.Box 1367), Addis Ababa Ethiopia.
+
+--- [PAGE BREAK] ---
+
+TABLE OF CONTENTS
+Climate Classification and Climate Regions of Our World.......................................................27
+2.1. Criteria for climate classification ...............................................................................................................................28
+2.2. K ppen’s climate classification..........................................................................................................................................30
+2.3. World climatic regions................................................................................................................................................................39
+2.4. Factors influencing the world climatic regions.....................................................................................................452.5. Local/indigenous climate classification of Ethiopia.........................................................................................52
+Unit Summary.................................................................................................................................................................55
+Review Exercise..............................................................................................................................................................56
+UNIT ONE
+Formation of the Continents ..........................................................................................................................................1
+1.1. Formation of the continents and oceans ............. ..................................................................................................2
+1.2. Geological timescale .............................................................................................................................................................7
+1.3. Distribution of the continents and oceans ..........................................................................................................16
+1.4. Changing position of the continents and oceans ..........................................................................................21
+Unit Summary  ......................................................................................................................................................24
+Review Exercise .....................................................................................................................................................25FORMATION OF 
+THE CONTINENTS
+UNIT TWO
+
+--- [PAGE BREAK] ---
+
+TABLE OF CONTENTS
+Natural Resources and Conflicts Over Resources. .................................................................................58
+3.1. The functions and management of land....................................................................................................................59
+3.2. Resources under pressure........................................................................................................................................................633.3. Land resource depletion and degradation...............................................................................................................693.4. Transboundary rivers.....................................................................................................................................................................743.5. Regional cooperation for sustainable use of transboundary rivers.....................................................793.6. Potential and actual use of water in Ethiopia, Sudan and Egypt...........................................................823.7 . Conflicts over resources............................................................................................................................................................86
+Unit Summary.................................................................................................................................................................9
+Review Exercise.............................................................................................................................................................
+UNIT THREE
+NATURAL RESOURCES AND 
+CONFLICTS OVER RESOURCES
+Global Population Dynamics and Challenges.............................................................................................9
+4.1. The growth of world population..... ...................................................................................................................... .
+4.2. Factors responsible for accelerated population growth ........................................................................10
+4.3. International migrations  .............................................................................................................................................1 1
+4.4. Population policies....................................................................................................................................................................1
+Unit Summary ............................................................................................................................................................12
+Review Exercise...........................................................................................................................................................12
+UNIT FOUR
+GLOBAL POPULATION 
+DYNAMICS AND CHALLENGES
+
+--- [PAGE BREAK] ---
+
+Major Global Environmental Changes.............................................................................................................. 1
+6.1. Persistent environmental problems .......................................................................................................................... 16
+6.2. Poverty–environment nexus ......................................................................................................................................... 1
+6.3. Environmental degradation and sustainable development ...................................................................1
+Unit Summary ............................................................................................................................................................1
+Review Exercise .........................................................................................................................................................1
+UNIT FIVE
+GEOGRAPHY AND ECONOMIC 
+DEVELOPMENT
+Geography and Economic Development......................................................................................................12
+5.1. Effects of geographic location on development...............................................................................................
+5.2. Climate extremes and poverty ..................................................................................................................................
+5.3. Disadvantages of landlocked countries .............................................................................................................
+5.4. Intraregional trade in Africa .......................................................................................................................................
+Unit Summary ............................................................................................................................................................................
+Review Exercise............................................................................................................................................................................
+UNIT SIX
+MAJOR GLOBAL 
+ENVIRONMENTAL CHANGES16
+
+--- [PAGE BREAK] ---
+
+Geo-spatial Information and Data Processing..........................................................................................21
+8.1. Representations of relief features on topographic maps......................................................................................2
+8.2. Basic concepts of Geographical Information System (GIS) ............................................................................2
+8.3. Arcmap and main tools..........................................................................................................................................................................23
+Unit Summary .............................................................................................................................................................................24
+Review Exercise ..........................................................................................................................................................................24
+UNIT SEVEN
+GEOGRAPHIC ISSUES AND 
+PUBLIC CONCERNS
+Geographic Issues and Public Concerns.......................................................................................................1
+7 .1. Population related concerns of our contemporary world ............................................................1
+7 .2. Land degradation and desertification.........................................................................................................................
+7 .3. Recurrent drought and famine .....................................................................................................................2
+7 .4. Deforestation .......................................................................................................................................................2
+7 .5. Worldwide Digital Divide ................................................................................................................................2
+Unit Summary ...................................................................................................................................................... 2 1
+Review Exercise  ................................................................................................................................................. 21
+UNIT EIGHT
+GEO-SPATIAL INFORMATION 
+AND DATA PROCESSING
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+UNIT ONE
+Main Contents :
+1.1. Formation of the continents and oceans
+1.2. Geological timescale1.3. Distribution of the continents and cceans1.4. Changing positions of the continents and oceans
+  
+Introduction
+Students, do you remember the lessons on ‘Geological History of Ethiopia’ and ‘Landforms of Africa’ in your Grade Nine and Ten Geography, respectively? If yes, can you tell us what geological history is and how the landforms of Africa have been developing? In unit one of Grade 1 1 Geography you are going to learn about the timescale of the Earth’s geological processes; the development stages of the earth’s continents; and the relative position (distribution) of the Earth’s oceans and continental landmasses. With these basic contents you are; therefore, expected to be aware of and appreciate the Earth’s geologic timescales, formation of the continents, and relative position/distribution of the Earth’s oceans and continental landmasses.recognize the Earth’s geological history;
+describe the formation of the Earth’s Continents;
+explain the relative distribution of Continents and Oceans overthe Globe; and
+appreciate the changing positions of the Earth’s Continents and
+Oceans over geological times.
+At the end of this unit, you will be able to: 
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+1.1. FORMATION OF CONTINENTS
+This section presents how the Earth and continents evolved. The topic takes you to the wider 
+scientific wisdom of the origin of the Earth and its Continents. 
+At the end of this section, you will be able to:
+examine how the Earth was created; and
+describe how the Earth’s continents evolved. 
+Big bang
+Continents
+Continental drift
+mid-oceanic Pangaea
+Rodinia
+Sea-floor spreading
+Solar systemKeywords:
+Brainstorming Activity 1.1 
+1. Do you know how the Earth was formed or 
+created? 
+2. What do you imagine about the formation of the Earth and Continents?
+        Please attempt the following questions first individually 
+and then in groups:
+The Earth, together with other planets and their moons, form the planetary system. The Sun and 
+the planets together again form the Solar System (Sun System; see Figure 1.1). The formation of the Earth is thus attributed similar to the creation of other companion planets and the entire development of the Solar System. Therefore, it is necessary to comprehend the origin of the Solar System to understand the foundation of the Earth.
+As can be learned from Earth Science literature, there are different views and theories on 
+the formation of the Earth and that of the Solar System. However, most of the theories depend on speculation and ambiguous assumptions. None of them are capable of acceptably demonstrating all the ultimate features of the Earth and the Solar System. 
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Among the various assumptions and theories proposed about the formation of the Universe 
+and Earth, the “Big Bang” is most widely supported by scientists. According to this theory, the Universe originated sometime 10–20 billion years ago by an abrupt cosmic explosion initiated by the expansion of a small volume of matter at an exceedingly high density and temperature.  This space explosion was then followed by the formation of numerous space objects like the Sun, planets (Figure 1.1), stars, meteors, asteroids, and comets through material collision, cooling, and gravitational attraction. Our Earth was thus created from the mixture of gas and dust particles moving in space around the Sun about 4.5 billion years ago.
+Figure 1.1 The Solar System (Sun & Planets) [Wicander & Monroe, 2010]
+Brainstorming Activity  1.2
+Discuss the questions below with your classmates and 
+teacher:
+1. How were the continents formed/created? 
+2. How did the present-day continents come into being?  3. How were they separated from the Pangaea?4. What is continental drift? How does it happen?
+The first cosmic rocks solidified and created the first Earth at about 4600 to 3900 Ma. Fol -
+lowing that, initial land masses gathered to form the early continent called ‘Rodinia’ (Figure 
+1.2). 
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+Figure 1.2 Neoproterozoic Supercontinent; Rodinia at about 750 Ma
+(Wicander & Monroe, 2010)
+During the late Cambrian period (5 1 4 Ma) the Gondwana Supercontinent had evolved around 
+the South Pole. Next to this four major continents (Gondwana, Baltica, Siberia & Laurasia) came into being during 458 Ma (in the mid-Ordovician Period). Then the Laurasia continent collided with the Baltica and closed the Iapetus Sea during the mid-Silurian (425 Ma). 
+The continual collision had then produced the pre-Pangaea continent during the early 
+Devonian period, at about 390 Ma. At about 306 Ma (in the late Carboniferous period) the North American continent started to develop from the assemblage of rocks. By then, the Supercontinent (Pangaea) had come into being at about 255 -210 Ma. From 210 -180 Ma (in the Triassic period) this Supercontinent started to break apart. The break-up had continued until the late Cretaceous. In the meantime, North America had moved away from the African continent. During the late Cretaceous, the breaking-apart of Pangaea widened and bigger water masses (Oceans) were created along the continental cracks. Finally, continental break-up progressively continued during the Tertiary period; the Earth’s continents have then retained their present position during the Quaternary (Figure 1.3).
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Figure 1.3 Continents at different Geological times (Gabler et al., 2007)
+Tip: An additional information is available online for you at:
+https://www.youtube.com/watch?v=6-vHe4599NE
+From the preceding section, it is possible to note that the present-day continents were joined 
+together by forming Pangaea until about 200 Ma.  At about 160 Ma, Pangaea divided into two bigger landmasses called Gondwanaland and Laurasia by the process of continental drift. The landmass that developed into sub-continent India moved northwards and separated from the Gondwana continent at about 1 40 Ma. This occasion caused the collision of the Indian sub-continent with Eurasia and initiated the formation of the Himalayas ranges. Some 100 Ma, Australia had separated from Antarctica and this has pronounced the break-up of the Gondwana continent. The two giant continents (Gondwanaland & Laurasia), then moved-apart east and west thereby resulting in the opening of the Atlantic Ocean.
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+Continental drift refers to the moving apart of conti-
+nents initiated by Sea-floor Spreading at mid-Ocean-ridge locations. The event makes the Pacific Ocean narrower, the Atlantic Ocean wider, the Mediterra-nean Sea narrower, and the Himalayan Mountains higher. The drift makes Australia reach the equator in 60 million years.NOTE
+     
+1. Explain how the Earth’s continents 
+were created?
+2. Name the two Supercontinents that evolved at about 200 Ma.   
+3. What is Pangaea?
+Please answer the following questions:
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Please organize yourself into groups and attempt the following ques-
+tions:
+1. Have you ever heard about the geological history of the Earth?
+2. What is the geological timescale?3. How was the age of the Earth established?4. How do scientists determine the age of the Earth and its products?
+1.2.1 Meaning of Geologic TimescaleGeological timescale is the time-frame (timetable) showing the possible age of the Earth andits associated life-forms. It provides a review of Earth’s history and the major changes that occurred over time. It is developed by Earth scientists through the study of Earth’s rocks. Throughthe study of rocks, scientists determine the Relative and Absolute ages of rocks.
+This topic focuses on the geological history of the Earth as condensed in the geological time -
+cale, mainly on the major Earth forming processes, resultant landforms, and the successions
+of interrelated life-forms.At the end of this unit, you will be able to:
+use the geological timescale for the explanation of the geological processes, re -
+sultant features, and associated life-forms;
+describe the difference between relative and absolute ages of the Earth’s rocks;
+examine the geological eras of the earth.
+Examine the Geological Eras of the Earth.
+Brainstorming Activity 1.3 Absolute age
+Epoch
+Geological era
+Geological timescale
+IsotopeHalf-life
+Period
+Radioactive decay
+Relative ageKeywords:
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+1.2.2. Relative and Absolute Age of Rocks
+Relative age mainly depends on the analysis of the sequence of geological occurrences without 
+giving due regard to the exact time of origin. It focuses only on determining the sequence of formation of events (whether the event had occurred before or later than the other related one). This method principally depends on the study of sedimentary rocks and often applies to local conditions interpretations. Geologists employ three basic principles (rules) during the study of the relative age of rocks:
+The principle of original horizontality indicates that layers of sediments are originally placed horizontally under the action of gravity. This means that except for the disturbed sequences, sedimentary rocks are always deposited in nearly horizontal beds. In the hypothetical Figure 1.4a,the rock-layers A, B & C must have been developed in horizontal beds because they have thesame orientation. If the beds are no longer horizontal, they must have undergone deformationafter formation. The principle of superposition asserts that in an undisturbed sequence of sedimentary rock layers (beds) or lava flows, the overlying bed is younger than the underlyingrock. For instance, in Figure 1.4b, the rock layers are placed from earliest (1) to latest (4).
+Figure 1.4: Sample sedimentary rock-layers
+The principle of cross-cutting relationships indicates that a rock-layer that cross-cuts anotherrock-layer is said to be younger than the rocks it cross-cuts. This is a condition where olderrocks are cut by younger geologic features or igneous intrusions. In Figure 1.4c, layer 3 is anigneous intrusion created after the formation of the sedimentary layers 1 and 2.
+A) Original Horizontality          B) Superposition                 C) Cross-Cutting Source: www.kean.
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+The time taken to convert from parent element to Daughter element is commonly measured in
+half-lives. The half-life of an isotope is the time taken for half of the parent isotope to changeto its product atoms. The relative proportions of the Parent and Daughter isotopes are usedto determine the number of half-lives. Before conversion, 100% of the Parent prevails and nodaughter product is formed. After one half-life, 50% of the Parent remains while 50% of theatoms are changed to Daughter atoms. After two half-lives, the number of Parent isotopes isagain halved (25%) whilst the number of Daughter atoms increases by the same amount (to75%). For more clarity please see Table 1.2.No Parent isotope Daughter isotope Half-life
+1 Uranium - 238 (238U) Lead – 206 (206Pb) 4.5 billion years
+2 Rubidium – 87 (87Rb) Strontium – 87 
+(87Sr)48.8 billion years
+3 Potassium-40 (40K) Argon – 40 (40Ar) 1.25 billion years
+4 Uranium - 235 (235U) Lead – 207 (207Pb) 704 million years
+5 Carbon-1 4 (14C) Nitrogen – 1 4 (14N) 5,730 yearsTable 1.1 Parent and Daughter isotopes and time-taken (half-life) for conversionAbsolute age refers to the actual age of rocks given in numerical values through the analysisof the spontaneous decay of radioactive isotopes. The term isotope refers to the presence ofan element in different forms.
+Radioactive decay stands for the conversion of unstable (Parent) elements into daughter (Stable) 
+elements through the gaining or losing of particles in their nucleus. For instance, Potassium-40 (
+40K) decays into Argon-40 (40Ar). Similarly, Carbon-1 4 (14C) changes to Nitrogen
+(14N). Rubidium-87 (87Rb) converts also to Strontium-87 (87St). Likewise, Uranium-235 (235U) 
+change to and Lead-207(207Pb) (Table1.1).
+No No of half-lives Proportion (% of total isotopes)
+Parent isotope Daughter isotope
+1 0 100 0
+2 1 50 50
+3 2 25 75
+4 3 12.5 87 .5Table 1.2 Proportion of Parent and Daughter isotopes during radioactive decay
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+As mentioned earlier, the geological timescale forms a division of geological processes and 
+life-forms based on standard time units through the study of fossil remains imprinted in rock layers. The scale divides the age of the Earth into Eons, Eras, Periods, and Epochs (Table 1.3).
+When the geological timescale was initially developed, the earliest fossils were found not 
+exceeding 600 million years (Ma) from the present (the Cambrian Period) in age. Based on that, the part of the geological history of the earth before the Cambrian Period (the time from 600-4500 Ma) is classified as Precambrian. Precambrian, thus, means the time before Cambrian.
+Figure 1.6  Radiocarbon 
+Uraninite Zircon Hornblende Glauconite
+a) Sample rocks used in radiometric 
+b) Some index fossils used in geological Trilobite fossil
+(Cambrian)Ammonite fossil 
+(Jurassic)Crinoid fossil 
+(Carboniferous)
+Figure 1.5 Sample rocks and index fossils used for 
+geological dating purposes (a,b)Radioactive decay occurs when elements recombine to form 
+new minerals during the processes of metamorphism or when magma cools. Radioactive elements found in igneous and metamorphic rocks are commonly used in rock-dating studies. For instance, see some of the rocks used for dating purposes in Figures 1.5 & 1.6.
+
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+EON PERIOD EPOCH AGE 
+(Ma)*MAJOR 
+EVENTS
+P
+H
+A
+N
+E
+R
+O
+Z
+O
+I
+CC
+ENOZOICQUATERNARY Holocene
+Present – 0.01 Modern Humans
+Pleisto-cene0.01 – 1.6 Ice Age
+T
+E
+R
+T
+I
+A
+R
+YNEOGENE Pliocene 1.6 – 5.3 Early Whominids
+Miocene 5.3 – 23.7
+PALEOGENE Oligo-
+cene23.7 – 36.6
+Eocene 36.6 – 
+57 .8Extinction of Dinosaurs
+Paleo-cene57 .8 – 70
+MESOZOICCRETACEOUS 70 - 1 44 First birds
+JURASSIC 1 44 - 208
+TRIASSIC 208 - 250 Start of Pangaea break-up; First mammals; First Dinosaurs
+PALEOZOICPERMIAN 250 - 286
+PENNSYLVA-NIAN286 - 320 Coal deposits, 
+First Reptiles
+MISSISSIPPIAN 320 -360
+DEVONIAN 360 - 408 First Amphibians
+SILURIAN 408 - 438 First land animals; First land plants; First FishORDOVICIAN 438 - 505
+CAMBRIAN 505 - 600 First shelled 
+animals
+PROTERO-ZOICPRECAMBRIAN
+600 - 2500Formation of the oldest known rocks and solid -
+ification of the earth
+ARCHEAN
+2500 - 3900
+HADEAN 3900 - 4500Table 1.3 Geological timescale
+*Ma: Million years  Crawford (1998); Wicander & Monroe (2010); www.kean.edu
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+Based on the geological timescale, the history of the formation of the Earth is classified into 
+four longer geological periods named Eons. Hadean, Archean, Proterozoic, and Phanerozoic are four major sub-divisions of the known Eons. The Hadean, Archean and Proterozoic Eons are often called Precambrian by scientists to refer to the geological time before the emergence of life on Earth. The Phanerozoic is the most recent Eon. It is further sub-broken into three Geological Eras named Paleozoic, Mesozoic, and Cenozoic (see Table 1.3). 
+1.2. 3.Geologic Eras
+As can be learned from Table 1.3, four known Geological eras are identified in the history of 
+the Earth. They are the Precambrian, Paleozoic, Mesozoic, and Cenozoic. The Precambrian is the oldest of all the geological eras. It covers the time from 600 million to 4.5 billion years (about 85% of the geological time of the Earth). It was the time of solidification of the Earth and the formation of the oldest rocks. Rocks created during that time are rich in base metallic minerals and are often called crystalline basement complex rocks. Figure 1.7 indcate that they are often found along with the continental Shields or Cratons (landscapes resisted long period of erosion)  The Hadean Eon of the Precambrian covers the time 4600 – 3900 Ma and not much is known about it. Archean is the other Eon covering some 1 400 (3900 – 2500 Ma). The latest of the three Eons is the Proterozoic lasting from 2500–570 Ma.
+Figure 1.7 Distribution of Precambrian rocks (shields) [Wicander & Mon-
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Figure1.8: Life forms evolved during the different geological eras (Crawford, 1998)
+
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+The Paleozoic era covered the time from 600 to 250 Ma from the present. It is believed that 
+it marked the beginning of life and is commonly referred to as the age of ancient life. Trilobites and shelled animals (see Figure 1.8) were the common species of the time. The Devonian, the fourth period of the Paleozoic, was rich in fish species and referred to as the age of fish. By the end of the Paleozoic, all continents of the Earth had joined together and created the Supercontinent named Pangaea (Figure 1.9). The creation of Pangaea led to extreme seasonal weather changes that caused the great extinction of Earth species. Due to that, around 75% of the Amphibian species have perished.
+Figure 1.9 The Supercontinent (Pangaea) (Gabler et al., 2007)
+The Mesozoic era marked the time from 250-70 Ma. It is often referred to as the era of middle 
+life and the age of Dinosaurs owing to their relative dominance. Turtles, snakes, crocodiles, and lizards were among the life forms of the time.  Low-lying areas were occasionally flooded by shallow marine transgressions followed by depositions of red sandstones and mudstones. Tropical areas were dominated by extensive swamps which later became rich coal deposits. The mid-Mesozoic era was experiencing the splitting of Pangaea into Laurasia and Gondwanaland (Figure 1.9). Igneous activities had initiated also the development of volcanic mountain ranges in western North America. The end of the Mesozoic era saw the emergence of land mammals but marked the mass extinction of Dinosaurs (see Figure 1.8).
+The Cenozoic era is the recent one covering the time since 70 Ma.  As it forms the recent 
+geologic time, it is well known compared to the other Geological eras. Birds, mammals, and flowering plants dominante succeeded on Earth. It is commonly named an era of recent life and the age of mammals.
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+During the beginning of the Cenozoic era the the rifting of Pangaea has been fully achieved 
+and the continents retained their present form. Great volcanism and orogenic folding caused the formation of numerous volcanic, fault-block, and fold mountains in the different parts of the Earth’s continents. Glaciations were experienced in some high-latitude areas while heavy rainfall occurred in other localities. Extinction of some mammals happened in some localities.
+     
+1. How is the geological timescale es-
+tablished?
+2. What are geological eras?3. Could you please name some of the life forms that evolved in the differ -
+ent geological eras?   
+4. Prepare a geologic timescale chart 
+using graph paper.
+Please organize yourself into groups and 
+answer the following questions:Orogenic is the formation of mountains, espe -
+cially through the folding of the earth’s crust 
+
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+The surface area of the Earth is estimated to be 5 10,072,000 km2 and the area of the Oceans 
+is about 363, 000,000 km2. All water (hydrosphere) in total covers greater than 7 1% of Earth’s 
+surface. The largest of these are the Oceans, which account for over 97% of all the water on 
+Earth. Glaciers and polar ice caps contain just greater than 2% of the Earth’s water in the form of solid ice. Only about 0.6% is found under the surface as groundwater. Nevertheless, groundwater is 36 times more plentiful than water found in lakes, inland Seas, rivers, and in the atmosphere as water vapor.
+The distribution of Ocean basins and Continents is unevenly arranged over the Earth’s surface 
+(see Figure 1.10). In the Northern Hemisphere, the ratio of land to ocean is about 1:1.5. But it is 1:4 in the Southern Hemisphere. The greater abundance of water in the Southern Hemisphere has some interesting effects on the environment of that area. For example, the climate tends to be more moderate in the Southern Hemisphere because of the ocean’s ability to release large amounts of stored heat energy.
+The Continents
+A continent is a huge area of land mostly separate by a water body. There are seven known continents on the earth today. They are: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. A brief description of the continents is presented as follows:This topic of unit one is about the relative size and distribution of the Continental landmasses and Oceanic basins over the Globe. At the end of this section, you will be able to:
+compare the sizes of landmasses and oceanic basins over the globe; and
+locate the current positions of Continents and Oceanic basins.
+Brainstorming Activity 1.4
+1.How do you explain the distribution of Con -
+tinents and Oceans over the Globe?
+2.Show the location of the world’s Continents 
+and Oceans using sketch maps?  Please study the maps from your textbook and tell the an -
+swer to your teacher.
+
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Africa
+Africa is the second largest continent in the world next to Asia. The equator divides Africa into two parts. But the largest part of the continent is found north of the equator. Africa is the only continent in the world crossed by the equator, Tropic of Cancer, and Tropic of Capricorn. The world’s largest hot desert (Sahara), and the world’s longest river (River Nile),are found in Africa. Africa has 54 countries.
+Antarctica 
+Antarctica is a permanently ice covered continent located around the South-Pole. The climate is very cold and there are no permanent human settlements in Antarctica. But, many countries have research stations in Antarctica. It is the third smallest continent on the earth.
+Asia
+Asia is the largest continent in the world. It lies in the eastern hemisphere covering one-third of the total land area of the earth. It is crossed by the Tropic of Cancer and separated by the Ural Mountains from Europe. It is part of the Eurasia and crossed by the Arctic Circle at its northern margin. It is bounded by water bodies on three sides and by the Pacific Ocean in the east and southern part. Asia has 48 countries and accommodates two-third of the world population. It has the highest mountains (Himalayas), the deepest depressions (Dead Sea), the driest desert (Lut desert), highest precipitation (Assam) and long tradition of civilization (Mesopotamia).
+Australia
+Australia is the smallest continent in the world. It is surrounded by water in all of its sides and often called an Island continent or Oceania; and has the largest area of ocean jurisdiction of any country on Earth. It is the driest inhabited continent in the world with 70 percent of it either arid or semi-arid. The vast majority of its population is concentrated along the eastern and south-eastern coasts.  Australia entirely lies in the southern hemisphere. 
+Europe
+Europe is the second smallest continent in the world, and home of the industrial revolution. It has 44 countries. It lies to the west of Asia and north of Africa. Europe is crossed by the Arctic Circle. It is bounded by the Atlantic and Arctic oceans and by the Mediterranean Sea in the south. 
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+North America
+North America is located to the west of the Atlantic Ocean and linked to South America by the narrow strip of land called the Isthmus of Panama. It is the third largest continent of the earth. It lies north of the equator in the western hemisphere and surrounded by the Atlantic, Pacific and Arctic Oceans. The main countries are three (USA, Canada & Mexico).
+South America
+South America is also located in the western hemisphere, but most of its area lies south of the equator. It is bounded in the east by the Atlantic Ocean and in the west by the Pacific Ocean. The world’s largest River (Amazon River), largest and most bio-diverse rainforest, tallest uninterrupted waterfall (Angel Falls) and the north-south extending longest mountain (Andes Mt.) are found in South America. South America has 12 countries.
+The Arctic Ocean is the world’s smallest Ocean with an area of 1 4,056,000 km2. It lies in 
+the area between Europe, Asia, and North America. Most of its waters are north of the Arctic Circle. Its average depth is 1,205 m. The deepest point lies at the Nansen Basin or Central Basin and it is –4,665 m deep. Throughout most of the year, much of the Arctic Ocean is covered by a drifting polar icepack that is an average of 3 m thick. However, as the Earth’s climate changes, the Polar Regions are warming and much of the icepack melts during the summer months. The Northwest Passage and the Northern Sea route have historically been important areas of trade and exploration.
+The Atlantic Ocean is the world’s second-largest Ocean with an area of 7 6,7 62,000 km2. 
+It is located between Africa, Europe, and the Southern Ocean in the Western Hemisphere. It contains the majority of the Earth’s shallow Seas, but relatively few islands. 
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Figure 1.10 Continents and Oceans of the WorldThe shallow Seas found in the Atlantic Ocean basin are the: Baltic Sea, Black Sea, Caribbean 
+Sea, Gulf of Mexico, North Sea, and the Mediterranean Sea. The average depth of the Atlantic Ocean is 3,926 m.  Its deepest point is the Puerto Rico Trench which is some 8,605 m deep (Figure 1.1 1). Many streams and rivers discharge their water into the Atlantic Ocean. This basin also drains some of the world’s largest rivers including the Amazon, Mississippi, St. Lawrence, and Congo. It receives more freshwater from continental runoff than any other Ocean basin. The Atlantic Ocean is important to the world’s weather (as are all oceans) because strong Atlantic hurricanes often develop off the coast of Cape Verde, Africa, and move toward the Caribbean Sea from August to November.
+The Indian Ocean is the world’s third-largest ocean and it has an area of 68,566,000 Km2. 
+It is located in the area between Africa, the Southern Ocean, Asia, and Australia. The Indian Ocean has an average depth of 3,963 m. Its deepest point is at the  Java Trench  or Sunda 
+Double Trench (Figure 1.1 1). The maximum depth reaches some 7 ,258 m. The waters of the Indian Ocean also include parts of the adjacent water bodies such as the Andaman, Arabian, Flores, Java, and the Red Sea as well as the Bay of Bengal, Great Australian Bight, Gulf of Aden, Gulf of Oman, Mozambique Channel and the Persian Gulf. 
+The Indian Ocean is known for causing the monsoon weather patterns that dominate much 
+of Southeast Asia and for having waters that have been historical checkpoints (narrow international waterways). Because of its proximity to the equator, this basin has the warmest surface Ocean temperatures.
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+Figure 1.1 1: Trenches (deepest parts of the Oceans)
+Source: www.trenchesandtrenches.weebly.com
+The Pacific Ocean is by far the world’s largest ocean basin with about 155,557 ,000 km2. 
+It covers 28% of the Earth and is equal in size to nearly all of the land area on the Earth 
+combined. It is located between the Southern Ocean, Asia, and Australia in the Western Hemisphere. It has an average depth of 4,028 meters, but its deepest point is the Challenger Deep within the Mariana Trench (Figure 1.1 1), about 10,924 m deep. This area is also the deepest point in the world. The Pacific Ocean has few marginal Seas but many islands. It is an important Ocean basin from the geographers’ perspective not only because of its size but also because it has been a major historical route of exploration and migration.
+The Southern Ocean is the world’s newest and fourth-largest Ocean. In the spring of 2000, the International Hydrographic Organization decided to delimit it as the fifth Ocean. 
+In doing so, boundaries were taken from the Pacific, Atlantic, and Indian Oceans. The Southern 
+Ocean extends from the coast of Antarctica to 60 degrees south latitude. It has a total area of 20,327 ,000 km
+2 and an average depth ranging from 4,000 to 5,000 m. The deepest point 
+in the Southern Ocean is unnamed, but it is in the south end of the South Sandwich Trench (Figure 1.1 1) and has a depth of 7 ,235m.
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+This specific section acquaints you with the changing positions of Continents and the Ocean 
+basins over the geologic times. At the end of this section, you will be able to:
+appreciate the changing positions of the Continents and Oceanic basins over the geologic time; and
+produce sketch maps showing the changing location of the Oceans and Conti -
+nents
+1.4. CHANGING POSITION OF CONTINENTS AND 
+           OCEANS OVER GEOLOGICAL TIMES 
+Continental drift
+Continents
+Oceans
+Plate tectonics
+Rodinia 
+     
+1. Locate the present-day Oceans and 
+Continents on a sketch map and then show it to your teacher?   
+Please answer the following question:
+Keywords
+Brainstorming Activity 1.5  
+        What do you know about the changing positions of 
+Continents and Ocean basins? Please think individu -
+ally and then discuss with your classmates.
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+As can be observed from Figure 1.3 (on page 5), the location of the continents and oceans 
+was not fixed. Due to plate movement (tectonics) the position of continents and oceans has been changing several times. For instance, during the Triassic period of the Mesozoic era (
+210 
+Ma), the earth’s continents were joined together forming one big continent called Pangaea (meaning the whole of the earth). Pangaea during this time was surrounded by on big water body named Panthalasu. During this time, Laurasia was located around the equator whereas Gondawana was located around the South-Pole.
+During the second stage, in the late Triassic period (
+180Ma), Pangaea started cracking because 
+of continental drift. Following the rifting of Pangaea, Laurasia moved to the north. Africa, 
+South America, India and Arabia started moving to the north too. Antarctica and Australia positioned around the South-Pole. Following the cracking of Pangaea, the oceans flooded the rifted area between the continents (see Figure 1.3). 
+During the late cretaceous (65 Ma), the separation between Eurasia and North America 
+increased. These two big continents positioned almost north of the tropic of cancer. Africa, South America, Arabia and India separated and positioned around the equator. Antarctica still placed at the South-Pole. Since the cracks between the separating continents widened, all the free areas were occupied by the Pacific, Atlantic, Arctic and southern oceans. 
+After the separation of the Pangaea (see Figures 1.9 &1.12), North America and Eurasia are 
+positioned in the northern hemisphere while India and Arabia joined Eurasia. Africa, South-America, and Australia are positioned around the equator; but Antarctica is still placed at the South-Pole. The Atlantic Ocean covered the area between Africa, Eurasia and the two America’s. The Pacific Ocean occupied the area between the America’s, Eurasia and Australia. The Arctic Ocean covers areas north of the Arctic Circle and areas between North America, Europe and Asia. 
+The Indian Ocean covers the area between Africa, the Southern Ocean, Asia, and Australia. 
+The Southern Ocean covered areas south of the Pacific, Atlantic and Indian Oceans and the coastal lands of Antarctica (see Figure 1.10).
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Figure 1.12: Location of continents and Oceans during the late Cretaceous
+     
+1. Describe how Continents and Oce -
+anic basins had been changing their 
+positions over the geological times?
+2. Please support your descriptions with sketch maps?  
+Please answer the following question:Today, seven continents and five Oceans makes-up the Earth. Most Continents occupy areas 
+north of the equator while oceans dominate the southern hemisphere. The Pacific Ocean is located between Eurasia and the Americas while the Atlantic divides Africa and Eurasia from the Americas. The Indian Ocean also covered the area between Africa, Asia and Australia. The Arctic and Southern Oceans are centered at the North and South-Poles, respectively.
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+The geological timescale is the timeframe showing the estimated age of the Earth and its 
+associated life-forms. It is established by Earth scientists through observation and analysis of rock layers. Two types of rock dating methods (Relative and Absolute dating) are used during rock dating activities. In relative dating, three principles (Original horizontality, Superposition, and Cross-cutting relationships) are in use. Radiometric isotopic dating methods are used for determining the absolute ages of rocks. 
+The Earth is estimated to be 4.5 billion years old. The earliest life-forms assessed from fossilized 
+bacteria are detected to be only about 3.5 billion years old.  Scientists guess that early Earth was very hot and hostile to life. Its history is classified into Eons, Eras, Periods, and Epochs. Eons cover longer time units (billions of years) in the geological timescale. They are the Hadean, Archean, Proterozoic and Phanerozoic. The Phanerozoic Eon is the latest and divided into four Eras. Eras cover larger time units (hundreds of Ma). They include the Precambrian, Paleozoic, Mesozoic, and Cenozoic eras. The eras are further classified into periods that cover millions of years. They are 13 in number and each divided into relatively shorter periods named epochs. Of the eras, the longest and oldest is the Precambrian. It is the time when the earliest rocks solidified and were created. The Paleozoic is known to be the age of ancient life. The Mesozoic marks the age of middle life in the geological history of the Earth. The Cenozoic is the latest and is an era of developed mammals, birds, and modern humans.
+The formation of the Earth is attributed similar to the creation of other companion planets 
+and the entire Solar System. The present-day continents are assumed to be developed by continental drift. At the beginning (during the Paleozoic and Mesozoic eras) all current continents were joined together forming a big landmass (Pangaea) embraced by a big water body named Panthalasu. In the mid of the Mesozoic, Pangaea started to break apart to form two major continents named Gondwanaland and Laurasia. These two supercontinents later split into several smaller landmasses.
+Due to continental drift, the Earth and its continents as well as the ocean basins have been 
+continuously changing their shape, size, and position since the time of their creation. Their distribution has also been changing since time immemorial. For instance, the Supercontinent Pangaea was situated around the South Pole during the late Permian. Eurasia was also centered around the equator during that time. The present-day Oceans were not known by then.  Today a large part of the continental landmass is located north of the equator. On the other hand, Oceanic environments are much more in the southern hemisphere. The proportion of land and water is not also equal over the planet Earth. Large areas (>7 1% of the Earth) are covered by water. Generally, the Earth’s continents and Oceans are not permanent and static. Their shapes, sizes, and locations are continuously changing with changes in time and earth processes.  UNIT SUMMARY
+
+--- [PAGE BREAK] ---
+
+Geo-spatial information and data processingClimate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Climate Classification and Regions of the World 
+Geo-spatial information and data processing
+Formation of Earth’s Continents
+Instruction: Attempt the following questions accordingly.
+I) True/False: For questions 1-5, write ‘True’ if the statement is correct and ‘False’ if wrong.1. Radioactive dating methods are applied to place rock layers in their relative ages.2. The Cenozoic era is well known and divided into a number of periods and epochs.3. The initial creation of the Earth is inseparable from the creation of the entire Solar System.4. The Earth’s continents are immovable and static.5. In continental formation, Pangaea evolved ahead of Rodinia.
+II) Matching: Match items listed in Column ‘A’ with the geological eras under Column ‘B’
+                    Column ‘A’                                                   Column ‘B’1. Modern humans                                    A) Precambrian era2. Not accurately known                           B) Paleozoic era3. Formation of continental shields                 C) Mesozoic era4. Rifting of Pangaea                            D) Cenozoic era5. Trilobites6. Ice age7 . Formation of Pangaea8. Age of Dinosaurs
+Instruction: Attempt the following questions accordingly.
+     REVIEW EXERCISES
+III) Multiple choice: For questions, 1-5 choose the best answer from the given alternatives.
+1. Which relative dating principle applies for conditions where younger rocks cut across older rocks?
+A) Original horizontality                               C) Radioactive decayB) Cross-cutting relationship                          D) Superposition
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+ONE
+4. Mariana trench (challenger deep) forms the lowest part of the Earth in the:
+     A) Atlantic Ocean       B) Arctic Ocean      C) Pacific Ocean      D) the  Indian Ocean5. Which is correct about the distribution of Continents and Ocean basins?
+A) Continents and Oceans account for equal size on EarthB) Continents occupy more area in the southern hemisphereC) There is wider Ocean coverage in the northern hemisphereD) More continental coverage north of the equator compared to the south
+IV) Short answer writing:Give short answers to questions provided below.1. How do scientists assign absolute ages to Earth’s rocks and ancient fossils?2. What is the difference between relative and absolute ages of geological events?3. Study the sketch (figure 1.13) below and then determine the age estimates (in Ma) for the sedimentary beds 1-5; 9 and 10?2. How were the present-day Continents and Oceans created?        A) By the will of God                            C) By the art of cartographers        B) Through space explosion                    D) Through continental drift3. One of the following is correct about the formation of the Earth’s continents
+A. The current continents and oceans have been shaped by the process of plate 
+tectonics
+B. The present-day continents evolved 4.6 billion years agoC. Earth’s continents were formed by rapid chemical precipitation from the world’s 
+oceans 
+D. All of the Earth’s surface features had evolved in less than 6,000 years
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+UNIT TWO
+         Learning Outcomes:  
+       
+       At the end of this unit, you will be able to:
+list the criteria commonly used to classify climates of an area;
+classify climates of an area based on Köppen’s classification 
+methods;
+identify the factors influencing world climatic regions;
+describe climate zones in Ethiopia;
+compare and contrast the local and Köppen’s methods of climate classification; and
+locate world climatic regions on a map.
+MAIN CONTENTS
+2.1. Criteria for climate classification 
+2.2. Köppen’s climate classification 2.3. World climatic regions 2.4. Factors influencing the world climatic regions 2.5. Local/Indigenous climate classification of Ethiopia
+INTRODUCTION 
+This section will guide you about the climatic classification methods and global climatic 
+areas. The unit also includes approaches, climatic region classification criteria, and elements that influence global climatic regions. As a result, you should make an effort to understand the offered contents both independently and jointly. Climate is a multifaceted and abstract notion that contains data on all aspects of the global environment. The climate in two or more locations on our planet may not be the same. Climates vary within a narrow range throughout a limited area of the planet, yet there is some uniformity in the patterns of climatic elements within the climatic zone. Understanding Earth’s climates require climate classification to recognize, clarify, and simplify climatic similarities and variations between geographic regions.Unit Summary
+Review Exercise
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+28There are criteria used for different types of climate classification, including ancient Greeks, 
+genetic, and empirical (including Köppen’s and Trewartha’s). The ancient Greeks divided the earth into latitudinal zones based on their perceptions of habitability in particular zones, such as the Frigid Zone, Temperate Zone, and Torrid Zone. They did so by considering temperature and the distribution of sunlight around the earth. The planet’s Polar Regions, including the Arctic and Antarctic circles, are represented by the Frigid Zone, which has extremely frigid temperatures. The Temperate Zone, which lies between the Torrid and Frigid Zones, is thought to offer the best climate and habitat. At the end of this section, you will be able to:
+ identify the criteria used to classify the climates in different classification schemes; 
+differentiate between the criteria used to classify climates in different classification 
+schemesClimate classification is useful for determining expected weather patterns for a certain region, comparing exceptional and regular daily meteorological variables, and indicating climate vari -
+ability and change through time. Different environmental elements and criteria are used in the classification schemes. Many climate factors have only been collected for brief periods and are not available for significant portions of the globe. Data on soil, vegetation, temperature, and precipitation is widely available and has been collected over long periods. Most classification schemes (such as Köppen’s and Trewartha’s) are intended for global or continental scale use and identify climatic zones based on the criteria.
+Brainstorming Activity 2.1 Keywords
+Climate classification
+Criteria 
+      Note the following questions and try to think independently and 
+share them with your classmate in a group of 5.
+1. How do you understand climate from your courses in grades 9 and 10?
+2. What exactly do you mean when you say “climate classifi -
+cation criteria”?
+3. How did the ancient Greeks categorize the world’s cli -
+mates?
+4. How do you distinguish between genetic and empirical classification methods? 
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+The tropics, or warmer areas south of the Mediterranean Sea, are represented by the Torrid Zone. 
+The Earth-Sun relationship served as the foundation for ancient Greek climate classification. 
+According to the data utilized for classification, climate classification methods can be divided into two types: genetic and empiric. Climates are classified using a genetic classification method based only on the major forcing processes that shape climate. Climate is classified using the genetic method based on the activity and features of air masses, circulation systems, fronts, jet streams, solar radiation, topographic effects, and other factors that contribute to the spatial and temporal patterns of climatic data. Genetic systems, while more scientifically desirable, are more complex to implement and less successful overall since they do not rely on simple observation. The most widely utilized genetic systems are air mass ideas. 
+The empirical classification system is a classification system that uses data input to calculate 
+the climatic type based on specified class boundaries. Köppen and Trewartha’s systems, for example, have the advantage of being simple to deploy in regions with high-quality and abundant climatic data. They also make certain that two places with similar climatic characteristics for the variables in question are grouped. 
+The classical period of climatic analysis began in 1970 with the mathematics and distribution 
+of natural vegetation based on the botanist Vladimir Köppen’s climatic classification system. For world climate classification, the Köppen method typically includes yearly and monthly temperature and precipitation, as well as the seasonality of those variables. Winds, temperature extremes, precipitation intensity, sunshine quantity, cloud cover, and net radiation are not considered in Köppen’s climatic classification system. 
+Trewartha’s classification incorporates the fundamentals of both empirical and genetic 
+classification schemes. The classification structure is based on the most important and basic weather parameters, such as temperature and precipitation. The impacts of water surfaces on a region’s climate are also taken into account.
+     
+1. Compare and contrast the Köppen and Tre-
+wartha’s climatic classification systems’ cri-teria.   
+Please answer the following question:
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+30At the end of this section, students will be able to:2.2. KÖPPEN’S CLIMATE CLASSIFICATION 
+1. Why Köppen climatic classification method is commonly 
+used? 
+2. Using Figure 2.1, identify the climate types of Ethiopia using the simplified Köppen’s climate classification?
+3. Which climate types are determined by temperature, and which are determined by precipitation? In a group of 3-5 people, discuss and share your thoughts on these topics.Brainstorming Activity 2.2 
+Because of its simplicity and strong alignment with climatic areas, natural vegetation, and soil types, the Köppen climate classification system is commonly used for classifying world climate. The Köppen method recognizes that most vegetation types respond immediately to climate in -
+puts, particularly temperature and moisture fluctuations, and is based on dominant vegetation types. Köppen observed and mapped the ecotone (the zone where two biomes meet), then utilized temperature and precipitation data to construct equations that defined the climatic boundary between the two biomes. Köppen published his initial climate classification scheme in 1900 and revised it in 1940.
+Based on the aforementioned criteria, the Köppen system distinguishes between five major 
+terrestrial climatic types: 1. Tropical climate (A): All months have an average temperature above 18
+o C (64oF). There 
+is no real winter season because every month of the year remains warm.2. Dry Climate (B): It has deficient precipitation most of the year.Keywords:
+Climate classification
+Modified Köppen
+Simplified Köppen 
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+Figure 2.1:A simplified overview of the major climate types, according to Köppen
+Copyright 2019 Cengage Learning. 
+The climates A, C, and D stimulate tree growth, whereas the climates B and E are too dry and 
+too cold, respectively, generally do not. The four primary climatic kinds, A, C, D, and E, are characterized by temperature, although type “B” denotes a climate in which dryness, rather than coldness, is the governing element of vegetation. A new group, highlands (H), was later created to account for the significant climate changes in mountainous areas over short dis -
+tances.
+1. How can you tell the difference between a basic Köp -
+pen system and one that has been modified? 
+2. Which climate types are found in Ethiopia, according 
+to modified Köppen’s climatic classification schemes? Brainstorming Activity 2.3 3. Meso-thermal or Mid-latitude Mild (C):  Average temperature of the coldest month is 
+below 180C (640 F) and above -30C (270F).
+4. Micro-thermal or Mid-latitude Cold (D): The average temperature of the warmest month exceeds 10
+0C (500F), and the coldest monthly average drops below -30C (270F).
+5. Polar Climate (E):  It has extremely cold winters and summers. The average temperature 
+of the warmest month is below 100 C (500F). Given that all months are cold, there is no real 
+summer season.
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+32
+Figure-2.2. Improved Köppen-Geiger classifications of our world: 
+Part (a) shows the present-day map (1980–2016) and (b) the future map (207 1–2100).
+Using air temperature (0C) and precipitation (mm y-1) criteria from high-resolution climatic 
+datasets, the present Köppen-Geiger map (Figure 2.2a) was developed. The current Köp -
+pen-Geiger classification didn’t consider the rising levels of greenhouse gases in the at -
+mosphere, which may alter how vegetation relates to various climate classes. Consider the 
+future Köppen-Geiger classification (Figure 2.2b) as providing information on possible spatial changes in regional climatic zones under climate change, which caused by the rising levels of greenhouse gases in the atmosphere.Source - Present and future Köppen-Geiger climate classification maps at 1-km resolution
+@www.gloh20rg/ Köppen
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+Source: Beck et al.: Present and future Köppen-Geiger 
+climate classification maps (2018)
+Rudolf Geiger, a climatologist, altered the Köppen classification system in 1961 to improve 
+the alignment of climate zones and biomes. By merging appropriate first, second, and third-or -
+der subdivisions, modified Köppen–Geiger climatic types are produced. To classify regional climates more precisely, those primary (first) climatic types were subsequently classified into second and third-order subdivisions.
+The average monthly and total annual precipitation for A, C, and D climates is denoted by the 
+second-order subdivision (with “f” denoting a climate that is wet all year, “m” denoting tropical 
+monsoon conditions, “s” denoting dry summer climates, “w” denoting dry winter climates and “m” representing tropical monsoon conditions).The second-order subdivision in the case of B climate is “W” if the dry climate is a true desert, 
+and “S” if the dry climate is only semi-arid. Second-order subdivisions for “E” climate include “T” for Tundra climate, a milder arctic sub-type, and “F” (frozen) for Ice Cap climate.
+The third order subdivisions in the Mesothermal and Microthermal climates  specify the 
+features of summer temperatures, with “a” indicating hot summers, “b” indicating warm sum -
+mers, “c” indicating mild summers, and the rare “d” indicating cool summers. The third-order 
+subdivision of arid climates is “h” for hot and “k” for cold. 
+From the equator to 15
+o to 25o north and south latitudes, the tropical wet climate (A) exists. 
+The average temperature in all monthly records exceeds 18o C (64.4oF). More than 60 inches 
+(>1500mm)of rain falls each year. "Figure 2.3. Köppen-Geiger climate classification map for Ethiopia (1980-2016)"
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+34
+The climate in this category is divided into three minor Köppen climatic types, each of which 
+is named after the seasonal distribution of rainfall.
+1.Tropical wet or equatorial rainforest climate (Af): 
+Af refers to a tropical environment with year-round precipitation. In this environment, monthly 
+temperature differences are fewer than 3oC. Cumulus and cumulonimbus clouds occur prac -
+tically every day early in the afternoon due to severe surface heating and high humidity. The average daily high temperature is 32
+oC, while the average nighttime temperature is 22oC. This 
+climate is found in areas such as Amazon rain forest and Congo basin.
+2.Tropical monsoon climate (Am) 
+Am denotes a climate with yearly rainfall similar to or greater than Af, but with the majority 
+of precipitation falling during the 7 to 9 hottest months to support the rainforest. There is extremely little rain throughout the dry season. This type of climate found in regions such as parts of India and South east Asia.
+3.Tropical wet and dry or savanna (Aw) 
+The third group, tropical wet and dry or savanna (Aw), is characterized by a prolonged dry season in the winter. During the rainy or summer season, precipitation is frequently less than 40 inches. examples inculed the african savanna and the tropical regions of south america.The difference between Aw and Am climates is determined by annual precipitation and the driest 
+month’s precipitation, using the formula below:
+a=3.94-r/25 , where a= precipitation of driest month, and r = annual precipitation. If the 
+precipitation of the driest month of a place is less than the value of “a”, it will be Aw climate, 
+whereas if it is more than the value of “a”, it will be Am climate. 
+If the average annual precipitation of a place is 80 inches, then Am/Aw boundary would be = 3.94-80/25=3.94-3.2=0.74 inches. If the precipitation of the driest month of that place is 2 inches, the climate type would be Am. On the contrary, it would be considered Aw climate if the area’s driest month had precipitation of less than 0.74 inches.
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+During most months, mean evapotranspiration tends to exceed mean precipitation in a dry 
+environment. Type B climates are characterized by a lack of precipitation for the majority of the year, which limits vegetation growth and spread. Aridity is defined by the interaction between precipitation input to the soil where plants grow and evaporative losses. Aridity is defined by Köppen in terms of the temperature-precipitation index, with evaporation thought to be controlled by temperature. The horn of the Africa is an exception to the rule that aridity is typically linked to subsidence. For instance, Somali’s extreme driness can be attributed to  the contininet of Africa’s orientation  concerning atmospheric circulation. Based on yearly tem-perature and the wettest month of the year, the dry climate is classified into two minor classes.Dry climate (B)
+Dry climates are generated by their location: 
+In trade wind belts, 
+On the leeward side of high mountains, and
+In the interior of continents along cool ocean currents.
+If the temperature of a place is 90oF, the annual value of 
+precipitation for dividing boundary between BS and BW 
+climates will be: r=0.44x90-8.5/2=15.5 inches  Evapotranspiration is the term for the combination of  two 
+distinict processes of water loss, one by evaporation from the soil surface and onother by transpiration form a plant.NOTE: 
+Evapotranspiration is the term for the combination of  two 
+distinict processes of water loss, one by evaporation from 
+the soil surface and onother by transpiration form a plant.
+NOTE: 
+Desert (BW): A true arid climate dominated by xerophytes vegetation that covers 12% of the 
+earth’s land surface. It is found between 15 and 300 North and South, where warm, dry air 
+sinks because of subtropical highzones. Vast deserts such as the Sahara or Gobi are included.
+Dry Semiarid or Steppe (BS): A grassland climate that encompasses 1 4% of the planet’s land 
+area. The climate gets more precipitation than the BW from the inter-tropical convergence zone 
+or mid-latitude cyclones. The boundary between BW and BS is established using the formula: r=0.44t-8.5/2, where r represents annual precipitation (inches) and t represents temperature 
+(0
+0 F). If the annual precipitation of a certain location exceeds the value of “ r,” the climate is 
+BS, but if it is less than “r,” the climate is BW. In the United States, the great plains, portions of the Southern California cost and the great basin are semi-arid deserts. 
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+36Dry (B) climates  are further classified based on annual temperature. The climate is represent -
+ed by the letter “h” when the mean annual temperature is greater than 180C (64.40F) and by 
+the letter “k when the mean annual temperature is less than 180C (64.40F). Desert climates 
+are further divided into hot/tropical/desert (BWh) climates, which have an average annual 
+temperature greater than 180C (64.40F), and middle latitude cold desert climates (BWk), which 
+have an average annual temperature less than 180C. Hot dry semiarid or tropical steppe (BSh) 
+climate, with a mean annual temperature above 180C, and cold dry semiarid or middle-lati -
+tude latitude cold steppe climate (BSk), with mean annual temperature below 180C, are two 
+third-order divisions of steppe climates. The BWh climate is found in areas such as the sahara desert while BWk climate is found in colder desert regions, such as the Gobi desert.
+Cloud cover is unusual in most low-latitude deserts (fewer than 30 days per year have clouds 
+in some areas). Although the unreliability of precipitation is more relevant than the modest totals, precipitation quantities are generally in the range of 0–10 inches. These places, on the other hand, have high temperatures, with monthly averages in the range of 21–32
+0C (70–90 
+0F). Furthermore, daily temperature swings are considerable. 
+Mid-latitude Mild or Mesothermal (C)
+Warm and humid summers alternate with mild winters in this region, which is located between 25 and 40
+0 latitudes, primarily on the eastern and western borders of most continents. It is 
+frequently dominated by convective thunderstorms during the summer months. During the winter season, the dominant meteorological feature is the mid-latitude cyclone. The seasonal distribution of precipitation further divides mid-latitude climate into four distinct climatic subgroups.(I) Cf climate: This climate is characterized by precipitation throughout the year, with more than 1.2 inches of precipitation in the driest month of the summer season. This is the most common climate in Western Europe. There are two third-order sub-divisions within this cli -
+matic type: 
+A. Humid subtropical (Cfa), Is found along east costs of continents are charac -
+terized by warm humid summers with frequent thunderstorms; and precipitation coming from mid-latitude cyclones during the mild winter season); and 
+B. Marine west coast (Cfb), is found in the western sides of continents are char-acterized by humidity, short dry summer, and persistent mid-latitude cyclones (causing heavy precipitation during mild winters).
+      (II) Cw Climate:  Characterized by dry winters, and has 10 times more prcipitation in the 
+wettest month of summer season than the driest month of winter season. It is the dominant climatic type in China.
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+(III) Cs (Mediterranean): The primary rainfalls from mid-latitude cyclones during the winter 
+season. Extreme summer aridity is caused by the sinking airs of the subtropical highs. The wet-
+test winter month receives at least three times the amount of rain as the driest summer month.
+Mid-latitude Cold or Microthermal (D) Climate
+This climate type also called continental climate is found on the poleward side of the moder -
+ate (C) mid-latitude climate. Warm to cool summers and cold winters are the most prominent features. Snowstorms, high winds, and brutal cold from polar or arctic air masses characterize the harsh winters. Df climate (humid cold climate with no dry season), Dw climate (humid cold climate with dry winters), and DS climate (humid cold climate with wet winters) are the three sub-classes of this climate type (dry winters and dry summers). 
+Polar Climate (E)
+This climate is characterized by cold temperatures year-round, with the warmest month having a temperature of about than 10
+0C. Geographically, it is found on the landmasses of Green -
+land and Antarctica, as well as the northern coastal portions of North America, Europe, and Asia. The two minor types of polar climate are polar tundra (ET) and polar ice caps (EF). Polar tundra (ET) is defined by permafrost, which is soil that is permanently frozen to depths of hundreds of meters. The warmest month’s average temperature is greater than 0
+0C (320F) but 
+less than 100C. (500F). Mosses, lichens, dwarf trees, and scattered woody shrubs can be found 
+scattered throughout the polar tundra. A polar ice cap (EF) is characterized by a land surface permanently covered with snow and ice. The average temperature of the warmest month is 0
+0
+C (320F) or below.
+Highland Climate
+Due to the effects of height, tundra and polar conditions could be seen in low latitude places.In high latitudes, climate change experienced while climbing 300 meters (1000 feet) in el -
+evation is equivalent to horizontal changes encountered while moving 300 kilometers (186 miles) northward (this distance is equal to about 3
+0 latitude). Over a relatively little vertical 
+shift in elevation, highland climates often show a tremendous lot of diversity in temperature, precipitation, and flora. The presence of glaciers in tropical mountains demonstrates that alti -
+tude has a cooling impact.
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+38
+Figure 2.4: Altitudinal zone of highland climate
+The afro-alpine zones on the highest parts of the Ethiopian plateaus, for example, have a 
+highland climate. The Senate Plateau (Bale Zone), Simien Mountains (north Gonder), Mount Guna (south Gonder), Amara Saint (South Wollo), and the Choke Mountains (Gojam) are examples of small isolated high places where it can be found (Figure 2.4). 
+The Merits and Demerits of Köppen’s System
+Despite many critics, the Köppen system is still the most widely used climatic classification system today. The Köppen system has been criticized by several people, including for reasons.
+Extreme events, such as a periodic drought or a common cold for, are as reasons 
+important in controlling vegetation distribution as the mean conditions on which Köppen’s scheme is based; 
+In addition to precipitation and temperature, sunlight and wind are important to 
+vegetation; 
+Natural vegetation can only respond slowly to environmental change (as a result, 
+the vegetation zones visible today are in part adjusted to past climates);
+It is inconsistent since it based A, C, D, and E zones on mean temperature, whereas 
+zone B is based on a precipitation-evaporation ratio;
+It is insufficiently thorough since it ignores the climate of mountainous regions 
+and fog-affected regions, and 
+The boundaries of Köppen’s climatic classifications are too empirical. 
+The strength of Köppen’s system is its ability to provide a clear, quantifiable, and straightforward 
+method for assigning a given location to a certain climate sub-group based on temperature and precipitation. Furthermore, geographers are drawn to the Köppen method because it acknowledges the link between vegetation kinds and climate.
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+     
+1. Recognize and describe the modified Köppen 
+climatic classification that characterizes the world’s regions.
+2. Discuss the advantages and disadvantages of using the Köppen climate classification system.
+3. Using the modified Köppen climatic classifi -
+cation system, describe and show Ethiopia’s climatic division on a themed map. 
+Take sometime to answer the questions below and 
+discuss your answers with your classmates for a better understanding.
+At the end of this section, students will be able to:
+describe the major world climate regions; and 
+compare and contrast the elements of weather in different regions   2.4. WORLD CLIMATIC REGIONS
+Keywords: 
+Climatic regions
+Highlands
+High-latitude
+Low-latitude
+Mid-latitude   
+       Please attempt the two questions provided below, think individ -
+ually about each, then discuss in a group of 5 and share the 
+outcome with other groups1. What do you think about the major classification schemes used for the identification of the world climate region?
+2. What do you think is the importance of the classification of our world into the different climatic regions?Brainstorming Activity 2.4 
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+402.4.1. Low-latitude Climatic Regions 
+I. Tropical wet regionThis region is found along the equator between 6
+0N and 60S. Throughout the year, maritime 
+tropical air masses dominate the region indicated by the Köppen classification “Af.” The intertropical convergence zone and the equatorial westerlies have an impact on the region all year. It has high daily temperatures ranging from 20 to 30
+0C, and monthly temperatures 
+ranging from 24 to 280C, with consistent precipitation throughout the year (over 80 inches 
+of total rainfall). The region’s vegetation is dominated by rainforests, which are dense, tall, broad-leafed, and evergreen trees. In the afternoons of practically every day, high surface heat, marine humidity, and convergence result in cumulus or cumulonimbus cloud forms and thunderstorms. The sun warms the ground and the air above it. Warm air rises in convection currents as it becomes lighter. The elevated air expands, cools, and condenses into white cumulus or cumulonimbus storm clouds, which ultimately produce conventional rainfall.The world's climatic zones have been divided into three broad climate groups based on the 
+Köppen classification and seasonal dominance of air masses. Low-latitude climate, mid-lati-tude climate, and high-latitude climate are the three types. 
+A cloud is a dense concentration of very fine invisible 
+water droplets or ice crystals, formed by the conden -
+sation of water vapor below the dew point in the at -
+mosphere. Clouds can be categorized based on their height, appearance, and shape.NOTE: 
+A cloud is a dense concentration of very fine invisible 
+water droplets or ice crystals, formed by the conden
+sation of water vapor below the dew point in the at
+NOTE: 
+The Amazon basin, Congo basin of equatorial Africa, East Indies, and the area from Sumatra 
+to New Guinea fall under this region (Figure. 2.5).
+II. Tropical wet and dry region
+The region can be found between 60 and 150 N and S latitude. The tropical wet and dry 
+climatic zone lies halfway between the wet tropics and the subtropical deserts. Maritime tropical air masses, high sun season, continental tropical air masses, and low sun season de -
+scribe it. The seasonal pattern of moisture is influenced by the migration of the inter-tropical convergence zone. The rainy season is produced from the high sun and the existence of the convergence zone, whereas the dry season is formed from the subsidence associated with the presence of the subtropical high zone during the low sun season, resulting in more stable air.
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+Source:https: sites.google.comDuring the rainy season, the climate is comparable to that of a tropical wet climate, with 
+frequent thunderstorms, whereas during the dry season, semi-desert conditions prevail. It is dominated by savanna biomass in terms of vegetation cover. This climatic type can be found in India, Indochina, West Africa, southern Africa, South America, and Australia’s north coast (Figure. 2.5).
+Figure 2.5: World climate region
+III. Dry desert (BWh) and steppe (BSh) regionThe region lies between 15
+0 and 250 North and South latitude. Throughout the year, continental 
+tropical air masses dominate. The largest region of tropical desert climate is located near the tropics of Cancer and Capricorn, usually on the western side of the continents. Low relative humidity and cloud cover, low frequency and amount of precipitation, high mean annual temperature, high monthly and daily temperatures, and strong wind velocity describe the region in general. 
+Because of the presence of the subtropical high-pressure zone, the climate of this region is 
+mostly controlled by upper air stability and subsidence. The region’s vegetation is characterized by the desert biome and steppe plains. The arid climatic zone encompasses the southwestern United States, Northern Mexico, Argentina, North Africa, South Africa, and the central section of Australia (Figure. 2.5).
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+422.4.2. Mid-latitude Climatic Region
+The climate of this region is principally influenced by the continual fight between tropical air masses moving towards the poles and polar air masses moving towards the equator.
+I. Mid-latitude desert (BWK) and Steppe (BSk)
+The climatic zone is located between 30
+0 and 550 N and S latitude. Summer is dominated 
+by continental tropical air masses, whereas winter is dominated by continental polar air masses. Low relative humidity and cloud cover, low frequency and volume of precipitation, and moderate to high average monthly temperature characterize the climate of the region. The main source of precipitation is moisture from maritime sources. Because of the rain shadow effect, the presence of mountains upwind of these climates might further restrict moisture availability. Mountain ranges to the west and south restrict ocean air masses, allowing polar air masses to prevail throughout the winter months.
+The east of the Caspian Sea, the north of the Himalayas, the western United States, and the 
+east of the Andes are the key areas influenced by mid-latitude deserts. When compared to subtropical deserts, summer temperatures in mid-latitude deserts are not as high. There are exceptions, such as Death Valley, California, which is one of the world’s hottest locations. The winter months are usually fairly cold. Mid-latitude temperatures have a wider range of daily annual temperatures than their subtropical counterparts. The climate of the mid-latitude steppe receives somewhat more precipitation than that of the mid-latitude deserts and has similar temperature characteristics. In the desert and steppe zones, the grasses biome and steppe plains, respectively, are prominent vegetation types. This climatic regime covers significant parts of western North America and central Asia (Figure. 2.5).  
+II. Mid-latitude wet region
+The influence of marine tropical air masses on summer weather in this region causes thunderstorms due to rising temperatures. In the winter, the polar climate is dominated by frontal weather linked with a mid-latitude cyclone. Abundant precipitation is evenly spread throughout the year, and total annual precipitation is very variable, depending on the affected localities’ latitude and continental position. During the summer, the equatorial borders experience convectional rainfall. Monthly average temperatures in the region range from 21 to 26
+0C, slightly warmer than in the tropics. The deciduous forest biome is the most common in 
+terms of vegetation. The climatic areas of northern America run from Canada’s Pacific coast at latitudes above 55
+0 eastward to the Atlantic coast, where they dominate the continent’s 
+eastern half. The climate extends to the southeastern tip of South America, New Zealand, and Australia’s southeast coast.
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+III. Mid-latitude winter dry (Cw and Dw)
+The temperature and precipitation patterns in this region have distinct seasonal patterns. Maritime tropical air masses with conditional tropical air masses from nearby deserts arrive in the summer. Summers are hot and humid, with plenty of traditional summer storms, showers, and thunderstorms. In the winter, continental polar air masses associated with dry and cold weather conditions predominate, with maritime polar air emerging on occasion. During the season, a little amount of precipitation was produced by the mid-latitude cyclone’s activities. The major vegetation type is grassland. The arid climate zone is geographically limited to the interiors of North America and Eurasia (Figure 2.5).
+IV. Mid-latitude summer dry (Cs)
+Between 30
+0 and 500 latitude, the region is located on the western borders of the continents. 
+The climate is commonly referred to as a Mediterranean climate, with precipitation falling pri -
+marily in the winter due to a mid-latitude cyclone. The subtropical highs’ sinking air generates exceptionally dry and heated weather in the region during the summer. The chaparral biome, Sclerophyll plants that range in formation from forests to woodland and brush, dominates the region. Central and Southern California, coastal zones bordering the Mediterranean Sea, coastal Western Australia and South Australia, the Chilean coast, and the Cape Town region of South Africa all have Mediterranean climates (Figure. 2.5).
+2.4.3. High-latitude Climate 
+       How do you distinguish polar tundra from Polar IcecapBrainstorming Activity 2.5 
+I. Polar Tundra (ET)
+Cold winters, cool summers, and a summer rainfall regime characterize the climate region. The Arctic coasts of North America, Iceland, coastal Greenland, Europe, Asia’s Arctic coasts, and the Southern Hemisphere islands of Macquarie, Kerguelen, and South Georgia all experience this climate type (Figure. 2.5). During the summer, most places receive less than 10 inches of yearly precipitation. II. Polar Ice Cap (EF)This climatic region encompasses a large portion of the globe, particularly the high latitudes and continental territories like Greenland and Antarctica. The primary climate types are conti-nental arctic and continental air masses. 
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+442.4.4. Highlands Climate
+Highland climates have a wide range of climatic variables spread out over a short area. Lower temperatures are the most well-known climatic effect of increased altitude, but heavier precipitation owing to orographic lifting is also typical. Mountainous regions have a nearly limitless variety of local climatic variables due to variations in atmospheric conditions with height and exposure to the sun’s rays. This type of climate is mostly found in mountains and high plateaus. Because the climate is prevalent throughout the world, the latitude range is not limited.
+     
+1. Distinguish the temperature and precipitation 
+character between subtropical dry desert and steppe region from mid-latitude desert and steppe.
+2. How do you differentiate the climatic charac -
+ter of tropical climate regions from mid-lati -
+tude or temperate climate regions?
+3. Explain the relationship between elevation, precipitation, and temperature in the highland climate.
+Please attempt all questions provided below, think in -
+dividually about each, and discuss in a group of six.  NOTE: 
+NOTE: 
+Albedo is the amount of energy or the fraction of incom-
+ing sunlight reflected by a surface.The location receives no sun energy for half of the year. Because of the long days and relatively transparent atmosphere, available insolation is rather high throughout the summer months. The albedo of a snow-covered surface, on the other hand, reflects up to 90% of the insolation back to space. As a result, monthly average temperatures are typically below 0 degrees Celsius. High-velocity, persistent winds occur in the region most of the time, resulting in blizzard conditions.
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+2.5.1. Latitude (Seasonality)At the end of this section, you will be able to:
+identify the factors responsible for the formation of world climatic regions, and
+visualize the impact of several factors on the formation of global climate zones.2.5. FACTORS INFLUENCING THE WORLD CLIMATIC REGIONS
+The global climate distribution looks to be jumbled, with comparable climatic conditions 
+occurring in widely dispersed locations of the globe. Climate controls are the elements that influence the climate in any given location. The amount of sunlight and its variation with lati -
+tude, the distribution of land and water, ocean currents, prevailing winds, the position of high and low-pressure zones, mountain barriers, and height are all factors that influence a region’s climate.  
+      Why does latitude have anything to do with climate?Brainstorming Activity 2.6 
+On any given day, solar energy insolation strikes the earth at a decreasing angle from 900
+(direct overhead) to 00 (where the sun is on the horizon). Above the horizon, when the sun’s 
+angle is lower, there is less intense insolation (i.e. closer to 00). This is because when solar rays 
+reach a high latitude region, low angle earth, they are attenuated and depleted more efficiently 
+by colliding with more air particles. Solar rays flow through the atmosphere most efficiently when the sun is directly overhead (i.e., at a 90
+0 sun angle) at equatorial locations because they 
+reach the surface perpendicular to it and have fewer opportunities to be attenuated. 
+Every day, 12 hours of bright sunlight will be experienced in the low latitude zone (equatorial 
+locales), providing more time for the surface to heat up and resulting in little seasonal change. On the other side, high latitude regions (arctic/polar locations) have highly distinct seasons, with cool summers and relatively long days. Winters are bitterly cold, and the nights are long. The change in solar declination and day duration is explained by the shifting relationships between the earth’s surface and the sun over the year. Seasonal variations in the sun’s angle and the amount of daylight can thus be considered the most fundamental elements influencing global temperature dispersion.Keywords:
+Atmospheric Circulation
+Continentality
+Centrifugal
+Elevation  Latitude
+Ocean Circulation
+Subtropical High Pressure  
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+462.5.2. Combined Effects of Revolution, Rotation and Tilt of the Earth
+        How do you explain the combined effects of revolution, 
+rotation, and tilt in the area closer to the equator and ar -
+eas closer to the pole by looking at figure 2.7? Brainstorming Activity 2.7 
+The difference in day length from December to June is smaller the closer an area is to the 
+equator, whereas the difference in day length from December to June is bigger the closer it is to the pole or high latitude. In June, for example, the daylight covers more than half of any parallel latitude in the northern hemisphere, whereas darkness covers more than half of any parallel latitude in the southern hemisphere. In December, however, more than half of any latitude in the northern hemisphere is in darkness, while more than half in the southern hemi -
+sphere is in the sunshine (Figure 2.6). 
+a
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+ 2.5.3. Continentality (distance to large water bodies)
+Source: Copyright 2019 Cengage Learning
+        What do you think are the effects of continentality and 
+maritime conditions on climate variation in the local area?Brainstorming Activity 2.8 
+Large bodies of water are capable of storing massive amounts of energy during high-energy 
+times (i.e. hotter in the summer) and slowly releasing this energy to the atmosphere during low-energy times (i.e. colder in winter). These energy flows can have a major impact on the climate of places with negligible continentality along an ocean shoreline and places in the interior of a landmass regarded to be very continental. Inland areas (extremely continental) heat up and cool down more quickly than areas near huge bodies of water. Inland locations have a wider temperature range than coastal locations.
+Seasonal extremes are greatest over the world’s largest landmass (i.e., Asia, the greatest 
+continentality on earth). Coastal places that confront prevailing winds (trade or westerlies) that are heavy with moisture evaporated from the ocean can get more rain. On June 21, the day length in the northern hemisphere increases from 12 hours at the equator 
+to 24 hours at the Arctic Circle. Nights are longer than days in the southern hemisphere from March 21 to September 22 (centered on June 21), since the South Pole is tilted away from the Sun during this time (Figure 2.6).Figure 2.6 Relationships between Earth’s axis and the circle of 
+illumination during the course of the year (a,b)b
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+48 2.5.4. Atmospheric Circulation 
+Two locations may not have the same climate despite they have the same latitude, the same 
+distance to the ocean, and being located in the same hemisphere. This is because the climate of a place is also affected by the location relative to atmospheric circulation. This means one location may be affected by atmospheric circulation from a certain direction more often than another. 
+Figure 2.7: Global atmospheric circulation Lakes, swamps, and marshes, for example, can generate significant temperature variations. 
+Windward (upwind) locations of the lake see more dramatic temperature changes than leeward locations (downwind).Insolation at the water or land surface also adds to temperature variation. Some insolation is required on the lake surface to evaporate water rather than to heat surfaces. Evaporation converts radiant energy into latent energy, which cannot be used to heat air at the same time (sensible energy). During the summer months, water in the form of clouds also plays a considerable influence in daily temperature changes, particularly in most tropical and mid-latitude locales. These clouds are typically formed by convection and are most visible in the late afternoon when warm, humid air near the surface rises and its water vapor condenses into liquid water.
+        How do atmospheric circulations affect climate distribu -
+tion across the world?Brainstorming Activity 2.09 
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+According to the second law of thermodynamics, the job of atmospheric circulation is to 
+balance energy inequities across latitudes. Horizontal inequalities in atmospheric pressure produce the circulations that result in climate differences throughout space. “High pressure” refers to pressure above mean sea level, whereas “low pressure” refers to a pressure below mean sea level. In either the vertical or horizontal directions, atmospheric mass or air travels from additional air, i.e. high-pressure regions, to lower pressure locations.
+ 2.5.5. Seasonal Movement of Subtropical High Pressure
+1. How does climate varies in response to the seasonal move -
+ment of subtropical high pressure ?
+        Think individually and share with your classmates.Brainstorming Activity 2.10
+Because the Subtropical High Pressure (STH) is the source of surface westerlies, the seasonal 
+migration of the STH has climatic implications. The STH about 300 latitude, according to the 
+general circulation model, pulls surface air toward the pole and equator. The intertropical convergence zone (ITCZ) is located in low-pressure zones that receive the most heat from the sun. Rising motions of trigger clouds and precipitation-forming processes connected with thunderstorm weather are triggered by the convergence of winds into a low-pressure center or cyclone.
+thunderstorm weather are triggered by the convergence of winds into a low-pressure center 
+Figure 2.8 Subtropical high belts 
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+50The Coriolis Effect (CE)  is when other factors cause air to shift its trajectory and speed. 
+The apparent outward-directed force on an item traveling along a curved trajectory is known 
+as centrifugal acceleration (CA). It is an example of inertia in action. The other force that influences wind direction and velocity is friction. It is greatest at the surface and diminishes with increasing height until it is negligible in the free atmosphere (friction-free zone). The degree of friction provided to the flowing air is determined by the type of the surface; for example, mountains have a lot of friction, while ocean bodies have less or no friction.
+2.5.7 . Ocean Circulation 
+Figure 2.9: Ocean circulation2.5.6. Coriolis Effect, Centrifugal Acceleration, and Friction 
+        How do ocean circulations affect climate distribution?Brainstorming Activity 2.1 1 
+Ocean circulation, like air circulation, is a process for balancing energy on the surface. The 
+most significant oceanic circulation influences on climate are surface currents, which often follow the winds produced by semi-permanent pressure zones in the atmosphere.
+
+--- [PAGE BREAK] ---
+
+Climate Classification and Regions of the World 
+Because of fast fluctuations in height and hence temperature, as well as the quantity of solar 
+exposure throughout the year, the climate in mountainous areas fluctuates greatly over short distances. High diurnal temperature ranges are prevalent at high elevations due to a decrease in mass and density compared to other areas that are lower in elevation but along the same latitude parallel. 
+How does temperature decrease as height rises?
+In the lower atmosphere or troposphere, the normal temperature decrease with height is 6.4
+0C 
+per kilometer. Radiation, convection, and condensation all affect the normal or ambient lapse rate, which is highly changeable.2.5.8. Topography or elevation 
+If the altitude of Ras Dejene mountain is 4620 m above sea level and assuming that the tem -
+perature at sea level is 30
+0 C. 
+What will be the expected temperature at the top of the mountain? 
+1000 m=6.40C
+4620 m=?Temperature at sea level-([Elevation x normal laps rate or 6.4
+0C]/1000)) =temperature at the 
+top of the mountain. (4620m x 6.40C)/(1000 m)=29.570C . 
+Therefore, the temperature at the top of the mountain= 300C -29.570 C=0.430C. 
+Moreover, the orientation of mountain slopes has a major impact on solar radiation receipt 
+and temperature and also governs exposure to wind. Mountains ranges create barriers that alter wind and precipitation patterns. The orographic rainfall falls on the windward side of the mountains (Figure 2.10).
+Figure 2.10: Orographic rainfall type
+
+--- [PAGE BREAK] ---
+
+UNIT TWO
+UNIT TWO
+UNIT 
+TWO
+52At the end of this section, you will be able to:
+describe  the local climate types of Ethiopia; and 
+compare the methods used in climate classification locally against Köppen.  2.6. LOCAL CLIMATE CLASSIFICATION OF ETHIOPIA
+Keywords: 
+Local
+Climate classification
+Ethiopia     
+1. What do you know about the local climate classification 
+of Ethiopia?Brainstorming Activity 2.12 
+     
+1. Explain the effects of small water bodies, such 
+as lakes, swamps, and marshes on temperature variation in the local environment.
+2. How do you explain the greater difference in day length from December to June as you move from the equator to poleward?
+3. What is the task of atmospheric circulation?4. How do you relate the seasonal movement of subtropical high pressure and overhead of the sun?
+Please attempt all questions provided below, think indi -
+vidually about each, and discuss in a group of six.  
+Ethiopia’s local climate classification is based on height, temperature, and growing season 
+length. The country can be divided into five primary climatic zones: Bereha, Kolla, Woina-Dega, Dega, and Wurch, according to the traditional climatic classification system. 
+: The hot lowlands are referred to as Bereha. It’s the climate of the desert-like 
+lowlands, which are found below 500 meters above sea level and have an average annual rainfall of fewer than 16 inches and a temperature of more than 30
+0C. Because of the harsh 
+environment it is mainly  inhabited by pasoralists. Strong winds, high temperatures, low relative humidity, and limited cloud cover characterize the climatic zone. Examples of such climate are found in Afar lowlands, Somali lowlands, etc.

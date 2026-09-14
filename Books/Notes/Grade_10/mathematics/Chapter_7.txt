@@ -1,0 +1,1154 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 7: Coordinate Geometry ……….……………….
+Pages: 354 to 394
+=================================================================
+
+Unit 7 :Coordinate G eometry
+345COORDINATE GEOMETRY
+Unit Outcomes
+Find the distance between any two given points in the coordinate plane.
+Divide a given line segment into different ratios.
+Describe the equation of a line in different forms.
+Describe the equation of a circle in different forms.
+Relate the slope of parallel and perpendicular lines.
+Unit Contents
+7.1Distance Between Two Points 
+7.2Division of a Line Segment
+7.3Equation of a Line
+7.4Parallel and Perpendicular Lines
+7.5Equation of a Circle
+7.6Applications
+Summary
+      Review Exercise  UNIT
+COORDINATE GEOMETRY
+7
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+346
+✓Point -slope form ✓Slope (gradient)
+✓Inclination of a line ✓Two-point form
+✓Slope -intercept form ✓Mid-point
+✓Equation of a line ✓General Equation of a line ✓Steepness
+✓Horizontal line                                 ✓Non-vertical line ✓Coordinates  
+✓Angle of inclination ✓Coordinate geometry            
+                                                                               
+INTRODUCTION
+Coordinate geometry is one of the most important and exciting ideas of mathematics. 
+Inparticular, it is central to mathematics students. It provides a connection between 
+algebra and geometry through graphs of lines and curves. This enables geometric 
+probl emsto be solved algebraically and provides geometric insights into algebra.
+The number plane (Cartesian plane) is divided into four quadrants by two 
+perpendicular axes called the 𝑥-axis (horizontal line) and the 𝑦-axis (vertical line). 
+These axes intersect at a point called the origin. The position of any point in the plane 
+can be represented by an ordered pair of numbers (𝑥,𝑦). These ordered pairs are called 
+the coordinates of the point. The origin is denoted 
+by the ordered pair (0, 0).
+The point with coordinates (2,3)  has been plotted 
+on the Cartesian coordinate plane asshown in 
+figure 7.1. Once the coordinates of two points are 
+known, the distance between the two points and 
+midpoint of the interval joining them can be found.
+                                                          
+                                                                                      Figure 7.1   
+                                                          
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+3477.1 Distance Between T wo Points 
+In unit one, you have discussed the Cartesian coordinate plane and you have seen that 
+there is one- to-one correspondence between the set of points in the plane and the set 
+of all ordered pairs of real numbers.    
+Distance is always positive, or zero if the points coincide. The distance from point 𝐴
+to 𝐵is the same as the distance from point  𝐵to𝐴(see figure7.2). We first find the 
+distance between two points that are either vertically or horizontally aligned.
+The following activity will help you to review the facts you discussed in Grade 9.
+1.Consider the number line given in figure 7.2.
+                                                           Figure 7.2      
+i.Find the corresponding value of points  𝑃,𝑄,𝐴  and  𝐵.                
+ii.Find the distance between points   a) 𝐴and 𝐵      b)𝑄and 𝐵   
+2.On a number line, the two points 𝑃and 𝑄have coordinates 𝑥1and 𝑥2, then
+a.find the distance between 𝑃and 𝑄. 
+b.find the distance between 𝑄and 𝑃.  
+c.discuss the relationship between your answers in 𝑎and 𝑏above.
+d.find ȁ𝑥1−𝑥2ȁ,and ȁ𝑥2−𝑥1ȁ. What do you observe?
+3.How do you plot the coordinates of points in the coordinate plane?
+4.Let 𝑆(4,5)and 𝑇(4,9)be points on the coordinate plane.
+a.Plot the points 𝑆and 𝑇.
+b.Is the line through points 𝑇and 𝑆vertical or horizontal? Why?
+Activity 7.1
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+3481.Find the distance between the following pairs of points. 
+a. 𝐴(1,2)and 𝐵(4,2)            b. 𝑃(1,−2)and 𝑄(1,3)      
+Solution:
+a.   Since 𝐴𝐵is horizontal line, distance 𝑑=ȁ𝑥2−𝑥1ȁ=ȁ4−1ȁ= 3.
+                                                   Figure 7.3             
+b.Since 𝑃𝑄is vertical line,
+Distance 𝑑=ȁ𝑦2−𝑦1ȁ=ȁ3−(−2)ȁ= 5.                   
+                                                    Figure 7.4
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+349Find the distance between the following points.
+a.𝐴(2,3), 𝐵(5,3)           b.  𝑀(−3,−2), 𝑁(2,−2)                 c.  𝑃(4,1), 𝑄(4,−2)
+The example above considers the special cases when the line interval AB is either 
+horizontal or vertical. Pythagoras Theorem is used to calculate the distance between 
+two points when the line interval between them 
+is neither vertical nor horizontal. The d istance 
+between the points 𝐴(1,2)and 𝐵(4,6)is
+calculated below. 
+𝐴𝐶= 4−1 = 3   and 𝐵𝐶= 6−2 = 4 .
+By Pythagoras Theorem,
+               (𝐴𝐵)2=(𝐴𝐶)2+(𝐵𝐶)2
+                (𝐴𝐵)2= 32+42
+                           =25
+Since 𝐴𝐵> 0, 𝐴𝐵=√25= 5
+So, the distance between 𝐴and 𝐵, 𝐴𝐵= 5units.    
+Now, we can obtain a general formula for the length of any interval.
+Suppose that 𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)aretwo distinct points on the 𝑥𝑦-plane as 
+shown in Figure 7.6.                                                                                            
+To find the distance between the points 
+Pand 𝑄, draw a line passing through 𝑃
+parallel to the 𝑥-axis and draw a line 
+passing through 𝑄parallel to the 𝑦-axis. 
+The vertical line and the horizontal line 
+intersect at 𝑅(x2,y1).
+                                                          Figure 7.6
+Exercise 7.1
+Figure 7.5
+                           
+                                       
+    
+   
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+350The distance PQcan be defined as follows.
+Note that ΔPQR is a right-angled triangle and by the Pythagoras Theorem, we have
+                     (PQ)2=(PR)2+(RQ)2. So,PQ=√(PR)2+(RQ)2.
+Since distance of   PR=ȁ𝑥2−𝑥1ȁanddistance of RQ=ȁ𝑦2−𝑦1ȁ
+Find the distance between the given points.
+a. 𝐴(2,1)and 𝐵(8,9)                 b.  𝑃(9,13)and 𝑄(4,1)
+c.𝑅(0, −1)and 𝑆(−3,3)
+Solution:
+a.  𝑑= √(𝑥2−𝑥1)2+(𝑦2−𝑦1)2=√(8−2)2+(9−1)2
+                                                            =√62+82
+                                                                =√100=10
+Therefore, the distance between points 𝐴and 𝐵is10units.
+b.  Similarly, 𝑑= √(𝑥2−𝑥1)2+(𝑦2−𝑦1)2=√(4−9)2+(1−13)2
+                                                                                 =√(−5)2+(−12)2
+                                                                                 = √169=13
+Therefore, the distance between point 𝑃and 𝑄is13units.
+Definition 7.1
+If𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)are endpoints of a line segment 𝑃𝑄, then the 
+distance of𝑃𝑄തതതതത, denoted by 𝑑, is given by :
+                                     d = √(𝑥2−𝑥1)2+(𝑦2−𝑦1)2.
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+351c.𝑑= √(𝑥2−𝑥1)2+(𝑦2−𝑦1)2=√(−3−0)2+(3−(−1))2
+                                                       =√(−3)2+(4)2
+                                                          = √25= 5
+Therefore, the distance between point 𝑅and 𝑆is 5units.
+In each of the following, find the distance between the two given points.
+a.𝐴(2,5)and 𝐵(4,7)  
+b.𝑃(−3,5)and 𝑄(4,10)
+c.𝑅(9,5)and 𝑆(6, −3)
+d.𝑀(−4,−3)and 𝑁(5,7)
+e.𝑇(−5,−2)and 𝑆(0,−14)
+f.The origin and a point 𝑃(√2,√2).
+7.2 Division of a Line Segment
+A line segment can be divided into ‘ 𝑛’ equal parts, where ‘ 𝑛’ is any natural number.
+For example ; a line segment of length 10 cm is divided into two equal parts by using
+Exercise 7.2
+a.What is a line? 
+b.What is the difference between a line and a line segment?
+c.Can you divide 10 cm thread into two equal parts? 
+d.Discuss the midpoint of a line segment.
+e.Define the ratio of two numbers or line segments .
+Activity 7.2
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+352a ruler as follows:
+Mark a point 5 cm away from one end, 10 cm is divided into two 5 cm line segments.
+Similarly, a line segment of length 15 cm can be divided in the ratio 2:1. Let 𝐴𝐵is the 
+line segment of length 15 cm and 𝐶divides the line in the ratio 2:1 as shown in 
+figure 7.7.
+If 𝐶𝐵=𝑥, then 𝐴𝐶= 2𝑥. So, 𝐴𝐶+𝐶𝐵= 2𝑥+𝑥=15implies 𝑥= 5cm. Then, 
+𝐴𝐶=10cmand 𝐶𝐵= 5cm
+                                                   Figure 7.7
+Given a line segment PQ, let us find the coordinates of R, dividing the line segment 
+PQ internally in the ratio p: q, i.e.𝑃𝑅
+𝑅𝑄=𝑝
+𝑞, 
+where p and q are given positive numbers.
+Let the coordinate of 𝑅be(𝑥0,𝑦0)  and the 
+coordinate of 𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)  
+with    𝑥1≠𝑥2and 𝑦1≠𝑦2.
+                                                                                                                       Figure 7.8
+As shown in figure 7.8, PS=ȁ𝑥0−𝑥1ȁ,RT=ȁ𝑥2−𝑥0ȁ, SR=ȁ𝑦0−𝑦1ȁand
+TQ=ȁ𝑦2−𝑦0ȁ.                                
+Since∆𝑃𝑆𝑅≈ ∆𝑅𝑇𝑄 .
+     PS
+RT=PR
+RQ  andSR
+TQ=PR
+RQ. So,  𝑥0−𝑥1
+𝑥2−𝑥0=𝑝
+𝑞andy0−y1
+y2−y0=𝑝
+𝑞(sincePR
+RQ=𝑝
+𝑞). 
+Now, solve for 𝑥0and 𝑦0
+    x0−x1
+x2−x0=p
+q, i.e.,  𝑞(𝑥0−𝑥1)=𝑝(𝑥2−𝑥0)  and    𝑦0−𝑦1
+𝑦2−𝑦0=𝑝
+𝑞,      
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+353i.e., 𝑞(𝑦0−𝑦1)=𝑝(𝑦2−𝑦0)
+       𝑞𝑥0−𝑞𝑥1=𝑝𝑥2−𝑝𝑥0  and  𝑞𝑦0−𝑞𝑦1=𝑝𝑦2−𝑝𝑦0
+        𝑥0=𝑝𝑥2+𝑞𝑥1
+𝑝+𝑞and  𝑦0=𝑝𝑦2+𝑞𝑦1
+𝑝+𝑞.
+The Section Formula
+A point divides internally the line 
+segment joining the points 𝐴(−7, 4)
+and 𝐵(8,9)in the ratio 3:2. Find the 
+coordinates of the point.
+Solution:
+Given: 𝑝= 3 and 𝑞= 2.
+Let 𝑅(𝑥0,𝑦0)be the point where  
+(𝑥0,𝑦0)are coordinates of the point which 
+divides internally the line-segment joining the given points in the given ratio .
+      Then,   𝑅(𝑥0,𝑦0)= (𝑝𝑥2+𝑞𝑥1
+𝑝+𝑞,𝑝𝑦2+𝑞𝑦1
+𝑝+𝑞)
+= (3×8+2× (−7)
+3+2,3×9+2×4
+3+2) =(2,7)
+Therefore, the coordinates of the required point 𝑅(𝑥0,𝑦0)=(2,7).
+The point 𝑅(𝑥0,𝑦0)dividing the line segment PQinternally in the ratio 𝑝:𝑞is 
+given by:                   
+                𝑅(𝑥0,𝑦0)= (𝑝𝑥2+𝑞𝑥1
+𝑝+𝑞,𝑝𝑦2+𝑞𝑦1
+𝑝+𝑞), 
+where  𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)are the end-points.
+This is called the section formula .
+Example 1
+Figure 7.9      
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+3541.Find the point dividing the line segment 𝐴𝐵internally in the given ratio .
+a. 𝐴(1,2),𝐵(4,5) , 1:2 .
+b. 𝐴(2,−3),𝐵(−1,5) , 3:1.
+2.A line segment has end points 𝑃(−1,5)and Q (5, 2). Find the coordinates of the 
+points that trisect the segment.  
+The Midpoint Formula
+Find the midpoint 𝑀of the line segment joining the origin and the point (4, 0).
+                                                 Figure 7.10
+Solution: 
+It is easy to see that this line is 4units in length and its midpoint is (2,0). This makes 
+it easy to illustrate how the midpoint formula works.
+Exercise 7.3
+Suppose that 𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)are two distinct points on the 𝑥𝑦-plane and 
+point  𝑅(𝑥0,𝑦0)ismidpoint of  𝑃𝑄.തതതതത  Then, 
+                   R(𝑥0,𝑦0)=(𝑥1+𝑥2
+2,𝑦1+𝑦2
+2).     
+Example 1
+𝑀
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+355First, let’s represent the origin, 𝑃(0,0)as (𝑥1,𝑦1)and the point 𝑄(4,0)as (𝑥2,𝑦2). 
+Then if  𝑅(𝑥,𝑦)is the midpoint, then we can substitute them into the midpoint formula 
+as to find this point as 
+                           R(𝑥0,𝑦0)= (𝑥1+𝑥2
+2,𝑦1+𝑦2
+2)  = (0+4
+2,0+0
+2) = (2,0) .                                                                         
+Find the midpoint of the line segment joining the points 𝐴(−1,−2) and 𝐵(3,2).
+Solution:    
+Midpoint of𝐴𝐵തതതത
+(𝑥0,𝑦0) = (−1+3
+2,−2+2
+2) =(1,0).     
+               
+                                                                   
+                                                                                    Figure 7.11
+1.Find the coordinate of the midpoint of the line segments joining the points:
+        a. 𝑃(1,−3)and Q (4, 5)           b.   𝑃(−9,−3)and Q (18, 2)
+2.Find the midpoint of the sides of the triangle with vertices  𝐴(−1,3),𝐵(4,6)and 
+𝐶(3,−1).
+3.If 𝑀(4,6)is the midpoint of the line segment 𝐴𝐵, point  𝐴has the coordinates 
+(−3,−2).Find the coordinates of point 𝐵.
+4.Find the coordinates of point 𝐶(𝑥,𝑦)where it divides the line segment joining 
+(4,– 1) and (4,3) in the ratio 3:1internally .  
+                                                                                                      
+Example 2
+Exercise 7.4
+                                                                   
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+3567.3 Equation of a Line
+In this subtopic, we find the equation of a straight line, when we are given some 
+information about the line. The information could be the value of its gradient, together 
+with the coordinates of a point on the line. Alternatively, the information might be the 
+coordinates of two different points on the line. There are several different ways of 
+expressing the final equation, and some are more general than others.
+7.3.1 Gradient (slope) of a line
+From your everyday experience, you might be familiar with the idea of gradient 
+(slope). A hill may be steep or may rise very slowly. The number that describes the 
+steepness of a hill is called the 
+gradient (slope) of the hill. We 
+measure the gradient of the hill by 
+the ratio of the vertical rise to the 
+horizontal run as shown in 
+figure 7.12.                                    
+Given points 𝐴(−4,2),𝐵(7,5)and  
+𝐶(−3,8)asshown in the Figure 7.13,
+a.Find the value of   𝑦2−𝑦1
+𝑥2−𝑥1   when,
+(i)  𝐴and 𝐵,    (ii)𝐴and 𝐶.  
+b.Are the values obtained in (i)
+and (ii)above equal?
+Activity 7.3
+Figure 7. 13
+Figure 7. 12     
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+357In coordinate geometry, the gradient of a non-
+vertical straight line is the ratio of “change in 
+𝑦-coordinates” to the corresponding “change 
+in 𝑥-coordinates”. 
+That is, the slope of a line through points 
+𝑃and 𝑄is the ratio of the vertical distance 
+from 𝑅to𝑄to the horizontal distance 
+from 𝑃to𝑅.See F igure 7.14.
+If we denote the gradient of a line by the letter 𝑚, then 
+     𝑚=𝑐ℎ𝑎𝑛𝑔𝑒 𝑖𝑛𝑦 𝑐𝑜𝑜𝑟𝑑𝑖𝑛𝑎𝑡𝑒
+𝑐ℎ𝑎𝑛𝑔𝑒 𝑖𝑛𝑥 𝑐𝑜𝑜𝑟𝑑𝑖𝑛𝑎𝑡𝑒=𝑦2−𝑦1
+𝑥2−𝑥1, 𝑥1≠𝑥2.
+1.Find the gradient of the line passing through each of the following pairs of points:
+a.P(2,1)and Q (4, 7)                    b.  𝑃(5,−1)and Q (6, 9)
+c. 𝑃(8,3)and Q (3, 13)                  d.   𝑃(7,3)and Q (-4, 3) 
+     e.  𝑃(2,3)and Q (2, -7) 
+Solution:   
+a.𝑚=𝑦2−𝑦1
+𝑥2−𝑥1=7−1
+4−2=6
+2= 3
+b.𝑚=𝑦2−𝑦1
+𝑥2−𝑥1=9−(−1)
+6−5=10
+c.𝑚=𝑦2−𝑦1
+𝑥2−𝑥1=13−3
+3−8= −2
+Definition 7.2
+If𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)are points on a line with 𝑥1≠𝑥2, then the gradient 
+of the line, denoted by 𝑚, is given by :
+𝑚=𝑦2−𝑦1
+𝑥2−𝑥1.
+Example 1Figure 7.14                                                                                                                                                                     
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+358d.𝑚=𝑦2−𝑦1
+𝑥2−𝑥1=3−3
+−4−7=0
+−11= 0(Since the line is 
+horizontal (parallel to 𝑥-axis) it has zero slope.)
+e.Since the line is a vertical line (parallel to 𝑦-
+axis) it has no slope.                                                                            
+                                                               
+                                                    Figure 7.15
+1.Find the gradient of the line passing through the following points.
+a.𝑃(4,3)and 𝑄(6,7)               b.  𝑃(4,−3)and 𝑄(7,−4)
+c.  𝑃(0,3)and 𝑄(0,−7)             d.  𝑃(−6,−3)and 𝑄(−2,5)
+2.If  𝐴(−4,6),𝐵(−1,12)and 𝐶(−7,0)are points, then show that they are 
+collinear.
+3.If 𝐴(𝑥1,𝑦1)and 𝐵(𝑥2,𝑦2)are distinct points on a line with 𝑥1=𝑥2, then what 
+can be said about the gradient of the line? Is the line vertical or horizontal?
+4.Consider the line with equation 𝑦=𝑥+4. Take three distinct points 𝐴, 𝐵and 𝐶
+on the line 𝑦=𝑥+4.
+a.Find the gradient using 𝐴and 𝐵.
+b.Find the gradient using 𝐴and 𝐶.
+c.What do you observe from 𝑎and 𝑏?
+7.3.2 Slope of a line in terms of angle of inclination
+The angle measured from the positive 𝑥-axis to a line, in the anticlockwise direction 
+is called the inclination of the line or the angle of inclination of the line . This angle is
+Exercise 7.5
+                                                                            
+                                                           
+   
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+359always less than 180°.                                              
+                                                                                                                    
+                                         Figure 7.15     
+                                            
+Consider the right-angled 𝛥𝑂𝑃𝑄 inFigure 7.16.                                                                                                                                     
+a.How long is the hypotenuse?
+b.What is the tangent of ∠𝑃O𝑄?
+c.By finding the coordinates of points  𝑃and 𝑄, calculate the slope of the line.
+d.What relationship do you see between your 
+answers for questions 𝑏and 𝑐?
+Figure 7.16
+Activity 7.4
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+360The above activity will help you to understand the relationship between slope and angle 
+of inclination. For a non-vertical line, the tangent of this angle is the slope of the line. 
+                                                         Figure 7.17        
+In the Figure 7.17 (a), the slope of the straight line 𝐿is 
+              𝑚=𝑅𝑄
+𝑃𝑅=𝑦2−𝑦1
+𝑥2−𝑥1=tan(∠𝑅𝑃𝑄).Therefore , 𝑚=tan𝜃.
+A line making an acute angle of inclination 𝜃with the positive direction of the x-axis 
+has positive slope.
+Similarly, a line with obtuse angle of inclination, (see Figure 7.17b), has negative 
+slope. The slope of the straight line Lis 
+              𝑚=𝑅𝑄
+𝑃𝑅=𝑦2−𝑦1
+𝑥2−𝑥1=tan𝜃.Therefore, 𝑚=tan(1800−𝛼)= −tan𝛼.
+In general, the slope of a line may be expressed in terms of the coordinates of two 
+points 𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)on the line as follows: 
+𝑚=𝑦2−𝑦1
+𝑥2−𝑥1=tan𝜃,𝑥1≠𝑥2, where 𝜃is the anticlockwise angle between the positive 
+𝑥-axis and the line 𝐿.
+Find the slope of a line if its angle of inclination is:
+a.45°                      b.120°
+Example 1𝛼
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+361Solution:
+a.Slope ,𝑚=tan𝜃=tan45°= 1
+b.Since 𝜃=120°, the supplemental angle 𝛼= 60°.
+Thus, 𝑚= −tan𝛼.
+                   = −tan60°     
+                    = −√3.   
+1.Find the slope of a line if its angle of inclination is:
+a.60°                                           b.150°
+7.3.3   Different forms of equation of a line
+The equation for the slope mof a line passing through the point 𝑃(𝑥1,𝑦1)iscalle d 
+point slope form of equation of a straight line andis given by:
+       𝒚−𝒚𝟏=𝒎(𝒙−𝒙𝟏)                                                                                                                                                                                              
+The slope-intercept form of equation of the line is given by:
+Exercise 7.6
+                            
+                 Figure 7.18                                                          Figure 7.19 
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+362       𝒚=𝒎𝒙+𝒃, where 𝑏is the 𝑦-intercept. Observe the properties of the line in 
+relation to the slope: 
+1)  If𝑚∈𝑅where R is the set of real numbers, then
+●𝑚> 0, then the line rises from left to right
+●𝑚< 0, then the line goes downward from left to right
+●𝑚= 0, then the line is horizontal
+2)  A vertical line has no slope.
+Two points form of equation of a line:                                            
+Let 𝑃1(𝑥1,𝑦1)and 𝑃2(𝑥2,𝑦2)be the given points on the line 𝐿and 𝑃(𝑥,𝑦)be any 
+point on the line 𝐿as shown in the figure 7.20.   
+                  Figure 7.20
+From figure 7.20, the three points 𝑃1,𝑃2and 𝑃are collinear . Why?
+slopeof𝑃𝑃1തതതതത= slopeof𝑃𝑃2തതതതത
+                 𝑦−𝑦1
+𝑥−𝑥1=𝑦2−𝑦1
+𝑥2−𝑥1.
+So, 𝑦−𝑦1=𝑦2−𝑦1
+𝑥2−𝑥1(𝑥−𝑥1).
+Thus, equation of the line passing through the points (𝑥1,𝑦1)and(𝑥2,𝑦2)is given 
+by:  𝑦−𝑦1=𝑦2−𝑦1
+𝑥2−𝑥1(𝑥−𝑥1).                                        
+This is called two-point form of equation of a line.
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+363Remark: The general form of the equation of a line is given as𝐴𝑥+𝐵𝑦+𝐶= 0, 
+where 𝐴,𝐵,and 𝐶are real numbers.
+Find the equation of a line when 𝑚= 3, 𝑏= −1.
+Solution:
+𝑦=𝑚𝑥+𝑏.Thus 𝑦= 3𝑥−1
+Find the 𝑦-intercept and the equation of the line with slope 𝑚, passing through the 
+given point 𝑃.
+𝐚.𝑚= 4; 𝑃(−5,0)        
+𝐛.𝑚= −2 ; 𝑃(4,3)
+Solution:
+a.𝑚=𝑦−𝑦1
+𝑥−𝑥1  and so, 4 =𝑦−0
+𝑥−(−5),   y = 4( 𝑥+5) = 4 𝑥+20. 
+Or 𝑦=𝑚𝑥+𝑏.  y = 4 𝑥+𝑏. 
+Since the line passes through 𝑃(−5,0),𝑏= 0−4× (−5)=20. 
+Therefore, 𝑦= 4𝑥+20.
+b.𝑚=𝑦−𝑦1
+𝑥−𝑥1and so,−2 =𝑦−3
+𝑥−4,      𝑦−3 = −2( 𝑥−4) = −2 𝑥+11.  
+Or 𝑦=𝑚𝑥+𝑏.y = −2 𝑥+𝑏. 
+Since the line passes through 𝑃(4,3),𝑏= 3+2×4 = 11.
+Therefore, 𝑦= −2 𝑥+11.      
+If a line passes through the points (1,4)and(2,6), then what is the equation of the 
+line? What is the slope and y-intercept?
+Solution:
+Let 𝑃(𝑥,𝑦)be any point on the line that passes through the points (1,4)and (2,6).
+Example 1
+Example 2
+Example 3
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+364Wehave, 
+𝑦−𝑦1=𝑦2−𝑦1
+𝑥2−𝑥1(𝑥−𝑥1)
+                           𝑦−4 =6−4
+2−1(𝑥−1)
+                            𝑦−4 = 2(𝑥−1)
+Therefore, the equation of the line is 𝑦= 2𝑥+2. The slope is 2 and
+𝑦-intercept is 2.                                                                                    
+Or 
+Let the slope and 𝑦-intercept be mandb. Then, 𝑚=6−4
+2−1= 2.
+The equation becomes  𝑦= 2𝑥+𝑏,  then this line passes one of the two points. 
+So, taking (1,4),  4 = 2∙1+ 𝑏,  then, 𝑏= 2
+Therefore, the equation of the line is 𝑦= 2𝑥+2.
+1.Find the equation of the line with slope 𝑚and 𝑦-intercept b.
+a.𝑚= −6 ;   𝑏=5
+3b.𝑚= 0;   𝑏= −2 .
+          c.𝑚= −3
+4;   𝑏=1
+6  
+2.  Find the equation of the line with slope 𝑚and passing through the given point 𝑃.
+a.𝑚= 3; 𝑃(2,4)  b.   𝑚= −2 ;   𝑃(−3,−1)
+c.   𝑚=4
+5; 𝑃(−5,0) d.  𝑚= 0; 𝑃(7,−4)
+3.Find the equation of the line passing through the given points.
+a.𝑃(1,3)and 𝑄(3,7) b.𝐴(−1,2)and 𝐵(2,−3)
+c. 𝑅(4,3)and 𝑆(5,−4) d.𝑃(1,8)and 𝑄(7,−2)
+e.𝐶(6,3)and 𝐷(5,−5) f.𝑀(−9,4)and 𝑁(−7,−3)
+4.Suppose a line has 𝑥-intercept 𝑝and 𝑦-intercept 𝑞, for 𝑝,𝑞≠ 0  ; 
+      Show that the equation of the line is 𝑥
+𝑝+𝑦
+𝑞= 1.
+5.For each of the following equations, find the slope and 𝑦-intercept:
+Exercise 7.7
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+365a.5𝑥+2𝑦+10= 0                       b.5
+4𝑥−𝑦= 0
+c. 7𝑥−4𝑦−56= 0                      d.1
+3𝑥+5
+12𝑦−1
+4= 0
+e.𝑦−5 = 0
+6.If a line passing through the points 𝑃(2,5)and 𝑄(−4,7), then find
+a.the point-slope form of the equation of the line;
+b.the slope-intercept form of the equation of the line;
+c.the two-point form of equation of the line. What is its general form?
+7.4    Parallel and Perpendicular Lines
+This sub-topic looks at the relationship between the slopes of parallel lines as well as 
+new concept.  You will need to know how to find the slope of a line given an equation 
+and how to write the equation of a line. Do the lines intersect or stay apart? If they 
+intersect, do they create a 900? These are the questions we ask about parallel and 
+perpendicular lines.
+7.4.1 Slopes of parallel and perpendicular lines
+This topic looks at the relationship between the slopes of parallel as well as 
+perpendicular lines. Slopes can be used to see whether two non-vertical lines in a plane 
+are parallel, perpendicular, or neither.
+1.Discuss parallel and perpendicular lines.
+2.In the figure 7.21 (A), 𝑙1and 𝑙2are parallel.
+a.Calculate the slope of each line.
+b.Find the equation of each line.
+c.Discuss how their slopes are related ? 
+Activity 7.5
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+366Proof:
+Suppose you have two non-vertical 𝑙1and 𝑙2with 
+slopesm1and m2andinclination 𝛽and 𝜃, 
+respectively as shown in figure 7.22. If 𝑙1and 𝑙2are 
+parallel, then 𝜃=𝛽. Consequently,
+m1=tan𝛽=tan𝜃= m2
+                                                                                                                 
+                                                                                    Figure 7.21
+3.In figure 7.21 (B), 𝑙1and 𝑙2areperpendicular.
+a.Calculate the slope of each line.
+b.Find the equation of each line.
+c.Discuss how their slopes are related? 
+Theorem 7.1
+If two non -vertical lines 𝑙1and  𝑙2having slope 𝑚1and 𝑚2respectively are 
+parallel to each other, then they have the same slope ( m1=𝑚2).
+                                                                       
+Figure 7.22
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+367Show that the line passing through the points 𝑃(6,4)and 𝑅(7,11)is parallel to the 
+line passing through 𝐴(0,0)and 𝐵(2,14).
+Solution:
+Let slopes of line PR and AB be 𝑚1and 𝑚2respectively.
+𝑚1=11−4
+7−6= 7, 𝑚2=14−0
+2−0= 7.
+The two lines have the same slope. Therefore, they are parallel.        
+Find the equation of the line which is parallel to the line 𝑦= −2 𝑥+6and passing 
+through the point 𝑃(1,10). 
+Solution:
+The slope of the line 𝑦= −2 𝑥+6is𝑚= −2 . Therefore, the line through the point 
+𝑃(1,10)parallel to 𝑦= −2 𝑥+6has equation 𝑦−𝑦1=𝑚(𝑥−𝑥1)
+                                                                                                        𝑦−10= −2(𝑥−1)
+                                                                                                              𝑦= −2 𝑥+12
+1.Show that the line passing through the points 𝐴(7, 5)and 𝐵(6,11)is parallel to 
+the line passing through 𝑃(5,1)and 𝑄(3,13).
+2.Find the equation of a line parallel to :
+a.𝑦= 3 𝑥−4and passing through point (2,8)
+b.3𝑥+4𝑦= 5 and passing through points (1,1)
+Example 1
+Example 2
+Exerci se 7.8
+Theorem 7.2
+Two non-vertical lines having slopes 𝑚1and 𝑚2are perpendicular if and only if
+𝑚1.𝑚2= −1 .
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+368Proof:
+Suppose line 𝑙1is perpendicular to line 𝑙2. Let 𝑚1and 𝑚2be slope of 𝑙1and 𝑙2, 
+respectively. Let 𝑅(𝑥0,𝑦0)be the point of intersection and choose points 𝑃(𝑥1,𝑦1)
+and 𝑄(𝑥2,𝑦2)on𝑙1𝑎𝑛𝑑 𝑙2, respectively. Draw 𝛥𝑄𝑆𝑅 and 𝛥𝑅𝑇𝑃 as shown in the 
+figure 7.23.
+       𝛥𝑄𝑆𝑅≈𝛥𝑅𝑇𝑃                    Why?                                                                                                                                 
+       𝑅𝑆
+𝑄𝑆=𝑃𝑇
+𝑅𝑇                       Why?                                                                          
+𝑦1−𝑦0
+𝑥1−𝑥0=𝑥0−𝑥2
+𝑦2−𝑦0= −𝑥2−𝑥0
+𝑦2−𝑦0      Why?
+      𝑦1−𝑦0
+𝑥1−𝑥0= −1
+𝑦2−𝑦0
+𝑥2−𝑥0                   Why?    
+So, 𝑚1= −1
+𝑚2or𝑚1.𝑚2= −1 .                                                    
+                                                                                       
+                                                                                            Figure 7.23
+Conversely, you could show that if two lines have slopes m1andm2with
+𝑚1.𝑚2= −1 then the lines are perpendicular .
+Show that the line passing through the points 𝐴(6,0)and 𝐵(0,12)is perpendicular 
+to the line through 𝑃(8,10)and 𝑄(4,8).
+Solution:
+Let slopes of line AB and PQ be 𝑚1and 𝑚2respectively.
+𝑚1=12−0
+0−6= −2 and 𝑚2=8−10
+4−8=−2
+−4=1
+2
+Thus, 𝑚1∙𝑚2= −2×1
+2= −1.   
+Therefore, the line that passes through the points 𝐴and 𝐵is perpendicular to the line
+that passes through the points 𝑃and 𝑄.
+Example 1
+Why?                                                                                                                         
+Why?                                                                          
+                                                    
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+369Find the equation of the line passing through the point (5,4)and
+a.parallel to the line 𝑦= 2𝑥+1.
+b.perpendicular to the line 𝑦= 2𝑥+1.
+Solution:
+a.The parallel line needs to have the 
+same slope of  𝑚= 2. We can solve 
+this using the slope intercept form of 
+equation of a line as 
+𝑦−𝑦1=𝑚(𝑥−𝑥1)
+𝑦−4 = 2(𝑥−5)  (Given the point (5,4))
+𝑦−4 = 2 𝑥−10                                                                                     
+            𝑦= 2𝑥−10+4    (Why?)          
+           𝑦= 2𝑥−6        (Why?)                                                 
+Hence, 𝑦= 2𝑥−6   is a line parallel to 𝑦= 2𝑥+1.      
+                                                  Figure 7.25                                   
+b.The two lines are perpendicular. So, 𝑚= −1
+2.      
+Byslope intercept form of equation of a line     𝑦−𝑦1=𝑚(𝑥−𝑥1)
+  𝑦−4 = −1
+2(𝑥−5), Since 𝑚= −1
+2and given the point (5,4)
+Example 2
+Figure 7.24         
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+370𝑦= −1
+2𝑥+5
+2+4 = −1
+2𝑥+13
+2
+Hence, the line 𝑦= −1
+2𝑥+13
+2is perpendicular to𝑦= 2𝑥+1, as shown 
+figure 7.26.
+                                                                                            
+                      Figure 7.26  
+1.Find the slope of a line that is:
+a.parallel to the line :𝑦= −7 𝑥+5
+b.perpendicular to the line :𝑦= −7 𝑥+5
+2.Find the equation of the line that is perpendicular to 
+a.𝑦= −3 𝑥+5and passes through the point (7,2). 
+b. 𝑦= 4𝑥+5and passes through the point (−7,2).
+7.5 Equation of a Circle
+Theequa tion of a circle is different from the formulas that are used to calculate the 
+area or the circumference of a circle. This equation is used across many problems of 
+Exercise 7.9
+Let’s think, what are the set of all points in a plane which are at a distance of 5 
+units from the origin?
+Activity 7.6
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+371circles in coordinate geometry.
+An equation of a circle represents the position of a circle in a Cartesian plane. If we 
+know the coordinates of the center of the circle and the length of its radius, we can 
+write the equation of a circle. The equation of circle represents all the points that lie on 
+the circumference of the circle.
+7.5.1 Different Forms of Equation of Circle
+An equation of circle represents the position of a circle on a Cartesian plane. A circle 
+can be drawn on a piece of paper given its center and the length of its radius. Using the 
+equation of circle, once we find the coordinates of the center of the circle and its radius,
+we will be able to draw the circle on the Cartesian plane. There are different forms to 
+represent the equation of a circle,
+•Standard form 
+•General form
+Standard Equation of a Circle
+A circle is a closed curve that is drawn from the 
+fixed point called the center, in which all the points 
+on the curve are having the same distance from the 
+center point of the center. The equation of a circle 
+with (ℎ,𝑘)center and 𝑟radius is given by: 
+                           (𝒙−𝒉)𝟐+ (𝒚−𝒌)𝟐=𝒓𝟐
+Definition 7.2
+A circle is the set ofallpoints on a plane with a fixed distance from a fixed point. 
+This fixed point is called the center of the circle and the fixed distance is the radius 
+rof the circle.
+Figure 7.27
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+372Find the equation of the circle whose center and radius arefollowing:
+a. 𝐶(3,4),𝑟= 2 b.   𝐶(4,−2),𝑟=5
+Solution:
+a.Given the center (ℎ,𝑘)= (3,4) and 𝑟= 2,  and  (𝑥−ℎ)2+ (𝑦−𝑘)2=
+𝑟2.
+(𝑥−3)2+ (𝑦−4)2= 22
+b.(𝑥−4)2+ (𝑦−(−2))2= 52
+(𝑥−4)2+ (y+2)2= 52
+Equation of a Circle When the Centre is Origin
+                                                     Figure 7.28
+Consider an arbitrary point 𝑃(𝑥,𝑦)on the circle. Let ‘𝑎’be the radius of the circle 
+which is equal to 𝑂𝑃.
+We know that the distance between the point (𝑥,𝑦)and origin (0,0) can be found 
+using the distance formula which is equal to:   √𝑥2+𝑦2=𝑎. 
+Now, squaring on both sides to obtain, 𝑥2+𝑦2=𝑎2. 
+This is the equation of the circle with the center as the origin.
+Consider a circle whose center is at the origin and radius is equal to 6units.
+Example 1
+Example 2𝑂
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+373Solution:
+Given: Centre is (0,0) , radius is 6units.
+We know that the equation of a circle when the center is origin:
+𝑥2+𝑦2=𝑎2. For the given condition, the equation of the circle is given as
+𝑥2+𝑦2= 62
+𝑥2+𝑦2=36, which is the equation of the circle.
+Show the point (6, 8) is on the circle with equation 𝑥2+𝑦2=100.
+Solution:
+Given: 𝑥= 6and 𝑦= 8.  Substitute them into the equation:  𝑥2+𝑦2=100
+(LHS) of the equation:  62+82=100⇒(𝐿𝐻𝑆)= (𝑅𝐻𝑆)  So, point (6, 8) is on the 
+circle.
+1.Find the equation of the circle in standard form for the following circles.
+a. 𝐶(2,−3) , 𝑟= 3.
+b.𝐶(−7,4), 𝑟= 4
+c.𝐶(0,0), 𝑟=√10
+2.Find the center and radius of the following circles.
+a.(𝑥−2)2+ (𝑦−5)2= 72.
+b.𝑥2+𝑦2=100.
+c.(𝑥+1)2+𝑦2= 32.
+3.Show the point (-12, 5) is on the circle with equation 𝑥2+𝑦2=169.
+General Form of Equation of a Circle
+The general form of the equation of a circle is expressed as:
+𝑥2+𝑦2+𝑙𝑥+𝑚𝑦+𝑛= 0
+Example 3
+Exercise 7.10
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+374By using completing square method,
+(𝑥+𝑙
+2)2
++(𝑦+𝑚
+2)2
+=𝑙2+𝑚2−4𝑛
+4
+Since the left side of the equation is always positive, 𝑙2+𝑚2−4𝑛> 0.
+Equation of a circle is𝑥2+𝑦2−12𝑥−16𝑦+19= 0. Find the center and radius of 
+the circle.
+Solution:
+By using completing square method,
+𝑥2−12𝑥+𝑦2−16𝑦+19= 0
+(𝑥−6)2+(𝑦−8)2−36−64+19= 0
+(𝑥−6)2+(𝑦−8)2=81
+(𝑥−6)2+(𝑦−8)2= 92
+Therefore, center of the circle is (6,8) and the radius of the circle is 9units.
+If𝑙2+𝑚2−4𝑛= 0, then the radius of the circle is zero which tells us that the 
+circle is a point that coincides with the center. Such a type of circle is called a point 
+circle.
+If𝑙2+𝑚2−4𝑛< 0, then the radius of the circle become negative and not real 
+(imaginary).
+Note
+Definition 7.3
+General form of equation of a circle is expresse das:
+𝒙𝟐+𝒚𝟐+𝒍𝒙+𝒎𝒚+𝒏=𝟎,   where 𝑙2+𝑚2−4𝑛> 0.
+We need to make sure that the coefficients of 𝑥2and 𝑦2are 1 before applying the 
+formula.
+Note
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+375Write the equation of the circle with center at 𝐶(3,4) and that passes through the 
+point 𝑃(5,6) .
+Solution: 
+Let𝒓be the radius of the circle. Then the equation of the circle is:
+(𝑥−3)2+ (𝑦−4)2=𝑟2
+Since the point 𝑃(5,6) is on the circle, you have 
+(5−3)2+ (6−4)2=𝑟2⇒22+22=𝑟2. Thus, 𝑟2= 8
+Therefore, (𝑥−3)2+ (𝑦−4)2= 8.
+1.Find the center and radius of the circle. 
+a. 𝑥2+𝑦2−10𝑥+14𝑦+38= 0
+b. 𝑥2+𝑦2+6𝑥+8𝑦+9 = 0
+2.Write the equation of the circle described below:
+a.It has center at 𝐶(3,1) and pass through the point 𝑃(7,−3)
+b.It passes through the origin and has center at 𝑃(−3,2)
+c.The end point of its diameter are 𝐴(3,4) and 𝐵(−1,2)
+3.Write the general form of the circle equation with center (−1,6) and radius 3unit.
+4.Write the equation of the circle in standard form 𝑥2+𝑦2+8𝑥−2𝑦−8 = 0 .
+7.6 Applications
+Area of a triangle in a coordinate plane
+Area of a triangle in a coordinate geometry whose vertices are 
+(𝑥1,𝑦1),(𝑥2,𝑦2)and(𝑥3,𝑦3)is:
+     𝑨=𝟏
+𝟐ȁ𝒙𝟏(𝒚𝟐−𝒚𝟑)+𝒙𝟐(𝒚𝟑−𝒚𝟏)+𝒙𝟑(𝒚𝟏−𝒚𝟐)ȁ
+Example 2
+Exercise 7.11
+
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+376Find the area of the triangle having vertices at𝐴, 𝐵, and 𝐶which are at points                        
+(–3, 4),(0,1)and(–3,–2)respectively. Also, mention the type of triangle. 
+Solution:       
+  𝐴=1
+2ȁ𝑥1(𝑦2−𝑦3)+𝑥2(𝑦3−𝑦1)+𝑥3(𝑦1−𝑦2)ȁ
+     =1
+2|(−3)(1−(−2))+0(−2−4)+(−3)(3−0)|  
+=1
+2ȁ(−9)+0+(−9)ȁ= 9Sq. units
+𝑑(𝐴𝐵) =√(−3−0)2+(4−1)2
+      =√18= 3√2
+𝑑(𝐵𝐶) =√(−3−0)2+(−2−1)2                           
+       = 3√2                                                                                             
+         So, 𝐴𝐵തതതത=𝐵𝐶തതതത
+   And slope of 𝐴𝐵തതതത= −1 and slope of 𝐵𝐶തതതത= 1
+   Slope of 𝐴𝐵തതതത∙ slopeof𝐵𝐶തതതത= −1×1 = −1
+              Therefore, itis an isosceles right-angled triangle.                                                                                                                                                      
+A triangle has vertices 𝐴(−1,1), 𝐵(1,3) and 𝐶(3,1) .
+a.Find the equation of the line containing the sides of the triangle.
+b.Is the triangle a right-angled triangle?
+c.What are the intercepts of the line passing through points 𝐵and 𝐶?
+Solution:   
+a.There are three lines of equation, AB, BC and AC. 
+     AB: 𝑚1=3−1
+1−(−1)=2
+2= 1
+     The line passes 𝐵(1,3) , then 𝑦−3 = 𝑥−1implies 𝑦=𝑥+2
+     BC: 𝑚2=1−3
+3−1=−2
+2= −1 .
+Example 1
+Example 2
+                           
+                                                                      
+                      
+   
+Figure 7.29                                                                                             
+
+--- [PAGE BREAK] ---
+
+Unit 7 :Coordinate G eometry
+377The line passes B(1,3), then, 𝑦−3 = −( 𝑥−1)
+       𝑦= − 𝑥+4.
+AC:  𝑚3=1−1
+3−(−1)=0
+4= 0.The line passes 𝐴(−1,1) , then, 
+𝑦−1 = 0∙( 𝑥+1) ,  𝑦= 1
+b.  From a. 𝑚1∙𝑚2= 1∙(−1)= −1
+Thus, AB and BC areperpendicular.
+Therefore, the triangle ABC is a right-angled
+triangle with ∠𝐵=90°.
+c.From a., the equation of line BC: 𝑦= − 𝑥+4
+      Thus, the 𝑦-intercept is 4.
+1.Find the area of the triangle having vertices at 𝐴, 𝐵, and 𝐶which are at points                         
+(3, 3),(−1, 0)and(3,–5),respectively.
+2.Show that the plane figure with vertices: 
+a.  𝐴(5,−1),𝐵(2,3)and 𝐶(1,1)is a right-angled triangle.
+b.   𝐴(2,3),𝐵(6,8)and 𝐶(7,−1)is an isosceles triangle.
+c.   𝐴(−4,3), 𝐵(4,−3)and 𝐶(3√3, 4√3)is an equilateral triangle.
+3.Find the equation of the line containing side of the triangle whose vertices are 
+𝐴(3,4), 𝐵(2,0) and 𝐶(−1,6).
+4.Find the coordinates of a point on the x-axis, which is at a distance of 5units 
+from the point (6,−3).
+5.If end points of the diameter of a circle are (−5,2) and(3,−2) , then find the 
+center and equation of the circle. 
+Exercise 7.12
+Figure 7.30
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+3781.If a point 𝑃has coordinates (𝑎,𝑏),then the number 𝑎is called the 𝒙-coordinate
+or abscissa of 𝑃and 𝑏is called the 𝒚-coordinate or ordinate of 𝑷.
+2.The distance dbetween points 𝑃(𝑥1,𝑦1) and 𝑄(𝑥2,𝑦2) is given by the 
+formula
+𝑑=√(𝑥2−𝑥1)2+(𝑦2−𝑦1)2
+3.The point 𝑅(𝑥0,𝑦0) dividing the line segment 𝑃𝑄, internally, in the ratio 
+𝑝:𝑞is given by:  𝑅(𝑥0,𝑦0)= (𝑝𝑥2+𝑞𝑥1
+𝑝+𝑞,𝑝𝑦2+𝑞𝑦1
+𝑝+𝑞), where 
+𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)are the end-points.
+    This is called the section formula.
+4.The mid -point of a line segment whose end-points are 
+𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)is given by:   𝑀(𝑥0,𝑦0)= (𝑥1+𝑥2
+2,𝑦1+𝑦2
+2)
+5.If 𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)are points on a line with 𝑥1≠𝑥2, then the slope
+       (Gradient) of the line, denoted by 𝑚,is given by    𝑚=𝑦2−𝑦1
+𝑥2−𝑥1.
+6.If  𝜃is the angle between the positive x-axis and the line passing through the 
+points 𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2),with 𝑥1≠𝑥2, then the slope of the line is given 
+by: 
+𝑚=𝑦2−𝑦1
+𝑥2−𝑥1=tan𝜃
+7.The graph of the equation 𝑥=𝑐is the vertical line through 𝑃(𝑐,0)and 
+has no slope.
+8.The equation of the line with slope 𝑚and passing through the point 
+𝑃(𝑥1,𝑦1)is given by:  y− 𝑦1=𝑚(𝑥−𝑥1)
+9.The equation of the line with slope 𝑚and 𝑦-intercept 𝑏is given by:
+𝑦=𝑚𝑥+𝑏
+Summary
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+37910.The equation of the line passing through points 𝑃(𝑥1,𝑦1)and 𝑄(𝑥2,𝑦2)  is 
+given by:
+                           𝑦−𝑦1=𝑦2−𝑦1
+𝑥2−𝑥1(𝑥−𝑥1),𝑥1≠𝑥2
+11.Two non-vertical lines are parallel if and only if they have the same slope.
+12.Let 𝑙1be a line with slope 𝑚1and 𝑙2be a line with slope 𝑚2. Then, 𝑙1and 
+𝑙2are perpendicular lines if and only if 𝑚1×𝑚2  = −1.
+13.The equation of a circle with (ℎ,𝑘)center and 𝑟radius is given by: 
+(𝑥−ℎ)2+ (𝑦−𝑘)2=𝑟2
+When the center of a circle is origin, the equation is given by:  𝑥2+𝑦2=𝑟2
+1.In the figure 7.31 𝐴𝐵𝐶𝐷 is a rectangle and its 
+sides 𝐴𝐵and 𝐶𝐷are parallel to the 𝑥-axis. The 
+coordinate of 𝐴and 𝐶are given in figure 7.31 . 
+Find the coordinates of 𝐵and 𝐷.
+                                
+2.Let the coordinates of the vertices of a 
+parallelogram be 𝑂(0,0), 𝐴(𝑎,0)𝑎𝑛𝑑 𝐶(𝑐,𝑑).
+a.What are the coordinates of 𝐵?
+b.What are the coordinates of midpoints of 𝑂𝐵
+and 𝐴𝐶?
+c.What can you say from 𝑏?                               
+3.In any triangle 𝐴𝐵𝐶 prove that 
+(𝐴𝐵)2+(𝐴𝐶)2= 2((𝐴𝐷)2+(𝐷𝐶)2),
+where 𝐷is the midpoint of 𝐵𝐶. (HINT: Let the 
+coordinates of 𝐵and 𝐶be (−𝑎,0)and (𝑎,0),
+Review Exercise
+Figure 7. 32
+Figure 7. 31
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+380respectively. Let the coordinates of 𝐴be (𝑑,𝑐)).   
+                                                                       
+4.A point 𝐶(−2,3) is equidistant from points 
+𝐴(3, −1) and 𝐵(𝑥, 8). Find the value for 𝑥
+and the distance 𝐵𝐶.
+5.Find the ratio in which the line-segment joining 
+the points (5,−4)and (2,3)is divided by the 𝑥-axis.
+6.Prove that set of points equidistant from two given 
+points is a straight line.
+7.If the gradient of a line is −3and the 𝑦-intercept is −7, then find the equation 
+of the line.
+8.Find the slope of the line passing through the points 𝑃(5,−3)and 𝑄(7,−4).
+9.Find the equation of a line passing through (−2,3)and having a slope of −1. 
+10.Determine the equation of the line that passes through the points 𝐴(−3,2)and
+𝐵(5,4).
+11.Find the equation of the line which passes through the point (−2,5)andis 
+perpendicular to the line whose equation is 2𝑥−𝑦+5 = 0.
+12.If a triangle has vertices 𝐴(−1,1),𝐵(1,3)and 𝐶(3,1),then 
+a.finds the equation of the line containing the sides of the triangle.
+b.determines whether the triangle is a right-angled triangle or not.
+c.What are the intercepts of the line passing through points  𝐵and 𝐶?
+13.Using the 𝑥-intercept and 𝑦-intercept methods, sketch the graph of
+a.𝑦= 4𝑥+1                     b.2𝑥+3𝑦+6 = 0   
+14.Find the area of the triangle having vertices at 𝐴, 𝐵, and 𝐶with coordinates 
+(2,3),(–1,0)and(2,–3),respectively. What type of triangle is it?
+15.If one end of the diameter of a circle is (5,6) and the center of the circle is 
+(-2, 1), then find the other end of the diameter of the circle and equation of the 
+circle. 
+                        
+            
+Figure 7. 32
+
+--- [PAGE BREAK] ---
+
+Logarithm T able
+381
+
+
+--- [PAGE BREAK] ---
+
+Logarithm T able
+382
+
+
+--- [PAGE BREAK] ---
+
+Logarithm T able
+383
+
+
+--- [PAGE BREAK] ---
+
+Logarithm T able
+384
+
+
+--- [PAGE BREAK] ---
+
+Trigonometric Table
+385sin cos tan cot sec csc
+0 010 1 90
+1 0.017452 0.999848 0.017455 57.2900 1.000152 57.29874 89
+2 0.03490 0.999391 0.034921 28.63628 1.00061 28.65373 88
+3 0.052336 0.99863 0.052408 19.08115 1.001372 19.10734 87
+4 0.069756 0.997564 0.069927 14.30068 1.002442 14.3356 86
+5 0.087156 0.996195 0.087489 11.43006 1.00382 11.47372 85
+6 0.104528 0.994522 0.10510 9.514373 1.005508 9.56678 84
+7 0.121869 0.992546 0.122784 8.144353 1.00751 8.205516 83
+8 0.139173 0.990268 0.140541 7.115376 1.009828 7.18530 82
+9 0.156434 0.987688 0.158384 6.313757 1.012465 6.392459 81
+10 0.173648 0.984808 0.176327 5.671287 1.015427 5.758775 80
+11 0.190809 0.981627 0.19438 5.144558 1.018717 5.240847 79
+12 0.207912 0.978148 0.212556 4.704634 1.022341 4.809738 78
+13 0.224951 0.97437 0.230868 4.33148 1.026304 4.445415 77
+14 0.241922 0.97030 0.249328 4.010784 1.030614 4.133569 76
+15 0.258819 0.965926 0.267949 3.732054 1.035276 3.863706 75
+16 0.275637 0.961262 0.286745 3.487418 1.040299 3.627958 74
+17 0.292371 0.95630 0.30573 3.270856 1.045692 3.420306 73
+18 0.309017 0.951057 0.324919 3.077686 1.051462 3.236071 72
+19 0.325568 0.945519 0.344327 2.904214 1.057621 3.071556 71
+20 0.34202 0.939693 0.36397 2.74748 1.064178 2.923807 70
+21 0.358368 0.933581 0.383864 2.605091 1.071145 2.79043 69
+22 0.374606 0.927184 0.404026 2.475089 1.078535 2.669469 68
+23 0.390731 0.920505 0.424474 2.355855 1.08636 2.559307 67
+24 0.406736 0.913546 0.445228 2.246039 1.094636 2.45860 66
+25 0.422618 0.906308 0.466307 2.144509 1.103378 2.36620 65
+26 0.438371 0.898794 0.487732 2.050306 1.112602 2.281174 64
+27 0.45399 0.891007 0.509525 1.962612 1.122326 2.202691 63
+28 0.469471 0.882948 0.531709 1.880728 1.13257 2.130056 62
+29 0.484809 0.87462 0.554308 1.80405 1.143354 2.062667 61
+30 0.5000 0.866026 0.57735 1.732053 1.1547 2.00000 60
+31 0.515038 0.857168 0.60086 1.664281 1.166633 1.941606 59
+32 0.529919 0.848048 0.624869 1.600336 1.179178 1.887081 58
+33 0.544639 0.838671 0.649407 1.539867 1.192363 1.83608 57
+34 0.559192 0.829038 0.674508 1.482563 1.206218 1.788293 56
+35 0.573576 0.819152 0.700207 1.42815 1.220774 1.743448 55
+36 0.587785 0.809017 0.726542 1.376383 1.236068 1.70130 54
+37 0.601815 0.798636 0.753553 1.327046 1.252135 1.661641 53
+38 0.615661 0.788011 0.781285 1.279943 1.269018 1.62427 52
+39 0.62932 0.777146 0.809783 1.23490 1.286759 1.589017 51
+40 0.642787 0.766045 0.83910 1.191755 1.305407 1.555725 50
+41 0.656059 0.75471 0.869286 1.15037 1.325012 1.524254 49
+42 0.66913 0.743145 0.90040 1.110614 1.345632 1.494478 48
+43 0.68200 0.731354 0.932514 1.07237 1.367327 1.46628 47
+44 0.694658 0.71934 0.965688 1.035532 1.390163 1.439558 46
+45 0.707106 0.707107 1.00000 1.00000 1.414213 1.414215 45
+cos sin cot tan csc sec

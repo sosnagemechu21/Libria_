@@ -1,0 +1,1855 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 5: INTRODUCTION TO TRIGONOMETRY ……..
+Pages: 196 to 249
+=================================================================
+
+Unit  5: Introduction to T rigonometry  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION TO 
+TRIGONOMETRY  
+ 
+ 
+ 
+Unit Outcomes  
+Identify the hypotenuse, opposite and adjacent of a right -angled 
+triangle . 
+Describe the basic properties of a right -angled triangle . 
+Define sine, cosine, and tangent ratio . 
+Find trigonometric values of angles from trigonometric table
+  
+Unit Contents  
+5.1   Revision on Right -angled Triangles  
+5.2   Trigonometric Ratios  
+  Summary  
+  Review Exercise  
+  
+ 
+ 
+  UNIT  
+5 
+185
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION  
+You have alrea dy studied about triangles, in particular, right -angled  triangles, in you r 
+earlier classes. In this unit, you will learn the relationship between angles and sides 
+of a right -angle d triangle.  
+5.1 Revision on Right -angled Triangles  
+ 
+ 
+ 
+a. What is the sum of the maximum degree measure of 
+the two interior angles other  than the right angle ? 
+b. If one of the angles of a triangle is 90°and the other 
+two are equal to 45°each, what do you  call such a 
+triangle?  
+ 
+Definition 5.1   Right-angled  triangle  
+ 
+A right -angle d triangle is a type of triangle that has one of its angles equal to 90 
+degrees.  
+1.The opposite side to the right -angle is called  
+ hypotenuse.  
+2.The relationship among the three sides is:  
+𝑏2+𝑝2=ℎ2. 
+ 
+Example 1  
+   
+            Figure 5.1  
+Figure 5.2 
+   
+  • trigonometric table  
+• trigonometric ratio (sine, cosine and 
+tangent)  
+• right -angled triangle  • Pythagoras theorem  
+ 
+ 
+ 
+186
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ 
+Solution:  
+a. As you observed in figure 5.1, one of the angles of a right -angled triangle is 90°. 
+The sum of the measure of the other two angles of this triangle is 90°. So the sum 
+of the maximum degree measure of the two other interior angles of a right -angled 
+triangle  is 90°. 
+b. If one of the angles of a triangle is 90°  and the other two angles measure  
+45° each, then the triangle is called an isosceles right -angled triangle, where the 
+adjacent sides to 90°  are equal in length (figure 5.2).  
+ 
+ 
+Find the length of the missing side.  
+Solution:  
+Using the Pythagoras theorem, 𝑥2+42=62. 
+ 
+For right -angled triangle , we also have the following basic properties:  
+•One angle is always 90° or right angle.  
+•The opposite side  to angle 90° is hypotenuse . 
+•The hypotenuse is always the longest side.  
+•The sum of the other two interior angles is  
+       equal t o 90° (each angle is acute).  
+•The other two sides adjacent to the right angle are called base and 
+perpendicular  side. (𝑏 is the base and 𝑝 is the perpendicular side ).  
+•If one of the angles is 90° and the other two angles are equal to 45° each, 
+then the triangl e is called an isosceles right -angled triangle, where the 
+adjacent sides to 90° are equal in length.  
+•If 𝑏,𝑝 and ℎ are sides of a right -angled triangle as shown in the above figure, 
+we can write a relation  using the Pythagoras theorem , that is  𝑏2+𝑝2=ℎ2. 
+ 
+Note  
+ 
+Example 2  
+   
+187
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ 
+ It results in 𝑥2=20. Since 𝑥>0, 𝑥=2√5. 
+ 
+Find the height of an equilateral triangle ABC with length of 6units.  
+Solution:  
+Consider equilateral triangle as shown at the right. When 
+drawing a line  segment from A and perpendicular to side BC, 
+H is midpoint of BC. BH= 3unit. Using Pythagoras 
+theorem,  let AH=𝑥 (𝑥>0), then   𝐵𝐻2+𝐴𝐻2=𝐴𝐵2 
+                                                                32+𝑥2=62 
+                                                                         𝑥2=27 
+This results in  𝐴𝐻 =𝑥=3√3 units.  
+ 
+1. Find the value of 𝑥. Express your answer in simplest radical form.  
+ 
+2. Find the value of  𝑥. If your answer is not an integer give it in the simplest radical 
+form.  
+ 
+ 
+Example 3  
+  
+Exercise 5.1 
+188
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ 
+Conversion of the Pythagoras theorem  
+ 
+ 
+ 
+Which one of the following can be sides  of a right -angled triangle ( the sides are with 
+the same unit of length) ? 
+a. 5,6,2  b.3,4,5   c.√5,2,3    
+Solution:  
+a. First identify the longest side (hypotenuse). From the property of right -angled 
+triangle, the longest side is the hypotenuse and the other would be the base and 
+perpendicular side. 
+So, we can take 2 and 5 as length of the base and 
+perpendicular side, respectively, and 6 as the hypotenuse , 
+as shown in the figure . Now, check if Pythagoras theorem 
+is satisfied or not, that is  𝑏2+𝑝2=ℎ2 or not.  The left 
+hand side ( LHS) of the equation is 52+22=29 and the 
+right hand side ( RHS) of the e quation is 62=36. Here,  LHS ≠RHS. Hence,  the 
+triangle is not a right -angled triangle.  
+b. Consider  3,4 and 5 as 𝑎,𝑏 and 𝑐 respectively. Check  whether these numbers 
+satisfy the theorem   𝑏2+𝑝2=ℎ2. 
+LHS =32+42=25 and RHS =52=25. Thus , LHS =RHS . Therefore, it is a 
+right -angled triangle.  
+c. As 22<(√5)2<32, then 2<√5<3. Hence, ℎ=3. Using equation  Conversion of the Pythagoras theorem  
+If 𝑏2+𝑝2=ℎ2, then ∠𝐵=90°.  
+Example 1  
+  
+ 
+      Figure  5.3 
+ 
+189
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+  𝑏2+𝑝2=ℎ2,LHS =(√5)2+22=9 and RHS =32=9. Thus LHS =RHS. 
+Therefore, it is a  right -angled triangle.  
+ 
+1. Identify whether the given sides can form a right -angled triangle or not provided 
+that the units for each length is identical . 
+a. 4,6,8       b. √2,√3,√5      c.1,2,√3           d.√6,3,√3 
+2. Is each triangle a right -angled triangle? Explain.  
+ 
+ 
+5.2 Trigonometric Ratios  
+In this subsection , you will learn some  ratios of the sides of a right -angled triangle  
+with respect to its angles, called trigonometric ratios of the angle. We will restrict our 
+discussion to acute angles only. However, these ratios can also be extended to other 
+angles.  
+Could you think some examples from our surroundings where right -angled 
+triangles can be imagined ? 
+• Suppose 9th grade students of your 
+school are  visiting Addis Ababa. 
+Now, if a student  is looking at the 
+top of the building ( head office of 
+the Commercial B ank of Ethiopia)  
+Exercise 5.2 
+Figure 5. 4 
+190
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ a right -angled triangle can be imagined , as shown in  fig 5.4 . Can you find out the 
+height of the building  without  actually  measuring it?   
+In the above situation, the height can be found by using some mathematical 
+techniques, which come under a branch of mathematics called ‘trigonometry’ . 
+Trigonometry i s derived from two Greek words 'trigonon' which means 'triangle' and 
+'metron' meaning 'measure' . Put tog ether, the words mean "triangle measuring ". In 
+fact, trigonometry is the study of relationships between the sides and angles of a 
+triangle. The earliest known work on trigonometry was recorded in Egypt and 
+Babylon. Early astronomers used it to find out the  distances of the stars and planets 
+from the Earth. Even today, most of the technologically advanced methods used in 
+Engineering and Physical Sciences are based on trigonometric  concepts.  
+Now let us define the trigonometric ratio.  
+ 
+Definition 5.2   Trigonometric ratios  
+The trigonometric ratios of a given angle are defined by the ratios of two sides of 
+a right -angled triangle. These trigonometric ratios remain unchanged as long as 
+the angle remains the same, that is, they are independent of the size of the 
+triangle provided the angle remains the same.  
+There are six trigonometric ratios. But here we will define only the first three 
+trigonometric ratios as follows.  
+Consider the following right -angled triangle as shown in the figure 5.5 below.  
+For angle 𝐴, the trigonometric ratios sine, cosine and tangent are defined as  
+sine of  ∠𝐴=side  opposite  to angle  𝐴
+hypotenuse=𝐵𝐶
+𝐴𝐶 
+cosine  of ∠𝐴=side  adjacent  to angle  𝐴
+hypotenuse=𝐴𝐵
+𝐴𝐶 
+tangent  of ∠𝐴=side  opposite  to angle  𝐴
+side  adjacent  to angle  𝐴=𝐵𝐶
+𝐴𝐵 
+  
+    Figure 5.5  
+  
+191
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ The above trigonometric ratios sine 𝑨, cosine 𝑨 and tangent  𝑨 are abbreviated as  
+sin 𝑨, cos 𝑨 and tan 𝑨, respectively.  
+So, the trigonometric ratios of an acute angle in a  right -angled triangle express the 
+relationship between the angle and the length of its sides . 
+ 
+Find the trigonometric ratios (sine, cosine and tangent) for angle 𝐴 in the following 
+figures . 
+ 
+Solution:  
+a. Using definition 5.2, sin𝐴=𝑂𝑝𝑝𝑜𝑠𝑖𝑡𝑒
+𝐻𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒=1
+√2, cos𝐴=𝑎𝑑𝑗𝑎𝑐𝑒𝑛𝑡
+ℎ𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒=1
+√2 and 
+tan𝐴=𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒
+𝑎𝑑𝑗𝑎𝑐𝑒𝑛𝑡=1
+1=1. 
+b. Similar to (a) above, sin𝐴=𝑂𝑝𝑝𝑜𝑠𝑖𝑡𝑒
+𝐻𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒=√3
+2, cos𝐴=𝑎𝑑𝑗𝑎𝑐𝑒𝑛𝑡
+ℎ𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒=1
+2 and 
+tan𝐴=𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒
+𝑎𝑑𝑗𝑎𝑐𝑒𝑛𝑡=√3
+1=√3. 
+ 
+1. Find the trigonometric ratios sine, cosine, and tangent of the angle 𝐴 for each of 
+the following right -angled triangles :  
+Example  
+  
+Exercise 5.3  
+192
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ 
+ 
+                     (a)             (b)                   (c) 
+ 
+If one of the three trigonometric ratios is given, it is possible to determine the other 
+two trigonometric ratios.  
+ 
+Determine the remaining two trigonometric ratios of an acute angle  𝐴 of a right -
+angled triangle if  
+a.sin𝐴=3
+5  b.tan𝐴=1
+√2   
+Solution:  
+a. First draw a right -angled triangle ∆𝐴𝐵𝐶  as it is given  sin𝐴=3
+5  which is 
+equal to 𝐵𝐶
+𝐴𝐶. Hence, we have sin𝐴=𝐵𝐶
+𝐴𝐶=3
+5 and from this we immediately 
+observe the length of side 𝐵𝐶 = 3 units (opposite side) and 𝐴𝐶 = 5 units 
+(hypotenuse). Now, using the Pythagoras Theorem, we have  
+ 𝐴𝐵2+𝐵𝐶2=𝐴𝐶2, we determine the side length 𝐴𝐵 as follows.  
+𝐴𝐵=√𝐴𝐶2−𝐵𝐶2 
+                                            =√25−9 
+                                 =√16 
+                                =4 
+Hence, the remaining trigonometric ratios are 
+tan𝐴=𝐵𝐶
+𝐴𝐵=3
+4 and cos𝐴=𝐴𝐵
+𝐴𝐶=4
+5. 
+Example  
+  
+Figure 5. 6 
+193
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ b. Following similar procedure as (a), first we need to determine  cos𝐴 and sin𝐴 
+from the given ratio of tan𝐴=1
+√2. This is also equal to the ratio 𝐵𝐶
+𝐴𝐵. Hence, 
+tan𝐴=1
+√2=𝐵𝐶
+𝐴𝐵 and if 𝐵𝐶 = 1, then 𝐴𝐵=√2. Now,  using the Pythagoras 
+Theorem, we determine  the length  𝐴𝐶 as 
+        𝐴𝐶=√𝐴𝐵2+𝐵𝐶2=√2+1=√3. 
+Now, the remaining  trigonometric ratios are  cos𝐴=𝐴𝐵
+𝐴𝐶=√2
+√3 and sin𝐴=𝐵𝐶
+𝐴𝐶=1
+√3. 
+ 
+Determine the remaining two trigonometric ratios of an acute angle 𝐴 of a right -
+angled triangle if  
+a. sin𝐴=1
+2  b. cos𝐴=2
+3  c. tan𝐴=1
+2  d. sin𝐴=1
+√5 
+ 
+Trigonometric values of basic angles  
+From lower grade mathematics lessons, you are already familiar with the 
+construction of angles of 0°,30°,45°,60° and 90°. Now you will learn how to find 
+the values of the trigonometric  ratios for these  angles . 
+ 
+Find sin45°,cos45° and tan45°.   
+Solution:   
+Consider a right -angled triangle 𝐴𝐵𝐶  right -angled at 𝐵. 
+If one of the acute  angle s is 45°, then the other acute angle is 
+also 45°, 
+that is ∠𝐴=∠𝐶=45°( see figure 5.7).       Figure 5.7 
+Hence, 𝐵𝐶=𝐴𝐵(because the triangle is isosceles right -angled  triangle ). 
+Suppose  𝐵𝐶=𝐴𝐵=𝑎. Then by Pythagoras T heorem ,  
+Exercise 5.4 
+Example 1  
+  
+194
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+               𝐴𝐶=√𝐴𝐵2+𝐵𝐶2 which implies  
+                     =√𝑎2+𝑎2=√2𝑎2=√2𝑎. 
+Using the definition of trigonometric ratios we have:  
+sin45° =side  opposite  to angle  45°
+hypotenuse=𝐵𝐶
+𝐴𝐶=𝑎
+√2𝑎=1
+√2. 
+cos45° =side  adjacent  to angle  45°
+hypotenuse=𝐴𝐵
+𝐴𝐶=𝑎
+√2𝑎=1
+√2. 
+tan45° =side  opposite  to angle  45°
+side  adjacent  to angle  45°=𝐵𝐶
+𝐴𝐵=𝑎
+𝑎=1. 
+ 
+Find  i)  sin30°,cos30°,and tan30°.
+ 
+        ii)  sin60°,cos60°,and tan60°. 
+Solution:  
+Consider half of an equilateral triangle 𝐴𝐵𝐶  shown 
+as below (Figure 5.8) . The triangle 𝐴𝐵𝐷  is a right -
+angled triangle with angles 30°  and 60° (Fig.5.9).  
+Let the length of side 𝐴𝐵 be 2. The length of the side 
+𝐴𝐷 is half of  the length of side 𝐴𝐶. Thus 𝐴𝐷=1. 
+By applying the Pythagoras Theorem,  
+𝐴𝐷2+𝐵𝐷2=𝐴𝐵2. 
+Then, 12 + 𝐵𝐷2=22 
+𝐵𝐷2=4−1  
+𝐵𝐷2=3  
+𝐵𝐷 =√3   because  𝐵𝐷>0.    
+Therefore,  
+sin30° =side  opposite  to angle  B
+hypotenuse=1
+2.   sin60° =side  opposite  to angle  A
+hypotenuse=√3
+2. 
+cos30° =side  adjacent  to angle  B
+hypotenuse=√3
+2.    cos60° =side  adjacent  to angle  A
+hypotenuse=1
+2. 
+Example 2  
+  
+Figure 5.8 
+Figure 5 .9 
+195
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ tan30° =side  opposite  to angle  B
+side  adjacent  to angle  B=1
+√3.   tan60° =side  opposite  to angle  A
+side  adjacent   to angle  A=√3
+1=√3. 
+ 
+Find the unknown length of the sides of the 
+following in the right -angled triangle.  
+Solution:  
+Applying the trigonometric ratios here,  
+ cos30°=𝑥
+12 ,cos30°=√3
+2.    Then,  𝑥
+12=√3
+2 ,𝑥=√3
+2×12=6√3.  
+Similarly ; sin30°=𝑦
+12,sin30°=1
+2.    Then, 𝑦
+12=1
+2,𝑦=6. 
+ 
+1.Complete the following table column wise using the given triangles  (a), (b) and (c)     
+respectively.  
+ 
+ ∠𝑨=𝟑𝟎° ∠𝑨=𝟒𝟓° ∠𝑨=𝟔𝟎° 
+sin𝐴    
+cos𝐴    
+tan𝐴    
+ 
+2. Find the unknown values of the following figures . If the value is not an 
+integ er, express it in simplest radical form .  
+Example 3  
+  
+Exercise 5.5 
+Figure 5. 10 
+196
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+  
+(a)        (b) 
+ 
+                     (c)                    (d)                (e)
+ 
+              (f)         (g)              (h) 
+ 
+Trigonometric Ratios of 𝟎° to  𝟗𝟎° 
+We discussed how to determine trigonometric ratio of 30°,45° and 60° using 
+examples. To derive the trigonometric ratios of  0° and 90° needs advanced concept 
+of mathematics and will not be treated at this level. The trigonometric ratios of these 
+two angles together with 30°,45° and 60°  are indicated in the following table 5.1. 
+Table 5.1  
+∠𝑨 𝟎° 𝟑𝟎° 𝟒𝟓° 𝟔𝟎° 𝟗𝟎° 
+sin𝐴 0 1
+2 1
+√2 √3
+2 1 
+cos𝐴 1 √3
+2 1
+√2 1
+2 0 
+  tan𝐴 
+0  1
+√3 1 √3 undefined  
+197
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ Remar k: From the above table, you can observe that as ∠𝐴 increases from 0° to 
+90°, sin𝐴 increases from 0 to 1 while cos𝐴 decreases from 1 to 0. On the other 
+hand, the value of tan𝐴 increases from 0, become 1  at 45° and continues to increase 
+until 90°. 
+Trigonometrical values of angles from a table  
+(sin𝜃,cos𝜃 and tan𝜃  𝑓𝑜𝑟 0°≤𝜃≤90°) 
+In the previous discussion we have seen how to det ermine the trigonometric ratios of 
+sin𝜃,cos𝜃 and tan𝜃 when 𝜃 is a special angle  0°,30°,45°,60° and 90°. Following 
+the same procedure of getting the trigonometric ratio of the given special angles, it is 
+possible to determine the trigonometric ratio of any angle.  There are trigonometric 
+tables of approximate values of trigonometric ratios of acute angles that have already 
+been constructed by advanced arithmetical processes . One of such tables is found at 
+the back of this textbook.  
+Follow the next steps to read the trigonometric values from a trigonometric table: - 
+✓ Identify the trigonometric ratio from the first row if the degree you need is 
+between 0° and 45°  and the last row if the degree is between 45°and 90°. 
+✓ Using  the column of the trigonometric ratio you need to find and move down 
+or up till you get the required degree.  
+✓ The intersection of the row and column of the above two steps is the 
+trigonometric value of the required degree . 
+ 
+Using a trigonometric table, find the value of each of the following.  
+a. sin18°                             b.   cos37°                              c.   tan70° 
+Solution:  
+a. We can read the trigonometric ratio from a table. Since the given degree is 
+18, use the first row and take the column of sin then move down till we get  
+Example  
+  
+198
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+ 18°. The number we obtain is a value  for sin18°.  
+            That is sin18° ≈0.309017 . (You can observe the steps from table 5.2)  
+ 
+ 
+b.  In a similar way,  cos37° ≈0.798636 . 
+c.   tan70° ≈2.747480  
+ 
+Find the value of each of the following using trigonometric table.  
+a. sin23°  b. cos9°  c. tan40° 
+      d. sin52°  e. cos68°  f. tan82° 
+ 
+Exercise 5.6 
+Table 5.2  
+199
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+  
+Given cos𝐴=0.819152 . Using the trigonometric table, find the angle 𝐴. 
+Solution:  
+On the column corresponding to ‘cos’, find the given number 0.819152 .  
+Corresponding to this  number is 35, that is 𝐴=35°. (see table 5.3 below).  
+ 
+ 
+Example 1  
+  
+Table 5.3  
+200
+
+--- [PAGE BREAK] ---
+
+Unit  5: Introduction to T rigonometry  
+ 
+  
+Given sin𝐴°=0.7565  find the measure of the acute angle 𝐴, correct to the nearest 
+degree.  
+Solution:  
+In the column of ‘sin’, search the given number. If we get it directly, take the degree 
+which corresponds to the number. Otherwise, take the approximation to the nearest 
+one. In our case, the given number is not directly available on the table. Two values 
+closest to the given value 0.7565  are 0.75471 , the smaller one and 0.766045  the 
+larger one. These values correspond  to 49° and 50°, respectively.  
+The given number is closest to 0.75471 (since |0.7565 −0.75471 |<|0.7565 −
+0.766045 |), and it corresponds to 49°. There fore, 𝐴=49°(to the nearest degree).  
+ 
+1. Find the measure of an acute angle 𝐴, correct to the nearest degree if  
+       a. sin𝐴=0.173648          b. cos𝐴=0.961262                  c. tan𝐴=0.60086  
+       d. sin𝐴=0.798636          e. cos𝐴=0.438371                   f. tan𝐴=2.355855  
+       g. sin𝐴=0.2300    h. cos𝐴=0.9960         i. tan𝐴=1.2000  
+2. Find the angle between the diagonal and the base of a rectangle where the base 
+is 8 cm and the height is 5 cm. (give your answer to the nearest degree)  
+ 
+ 
+ 
+ 
+Example 2  
+  
+Exercise 5.7 
+201
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+  
+1. For a right -angled triangle with hypotenuse ℎ and other sides  𝑏  and  𝑝, the 
+Pythagoras theorem can be written as equation   𝑏2+𝑝2=ℎ2. 
+2. Let ∆𝐴𝐵𝐶  be a right -angled triangle with hypotenuse ( 𝐻) and opposite side (𝑂) 
+and adjacent side  (𝐴), as shown in figure 5.11 . Then, the trigonometric ratios 
+are defined as  
+sin𝐴=opposite
+hypotenuse=𝐵𝐶
+𝐴𝐶
+cos𝐴=adjacent
+hypotenuse=𝐴𝐵
+𝐴𝐶
+tan𝐴=opposite
+adjacent=𝐵𝐶
+𝐴𝐵       
+ 
+Figure 5. 11 
+• For 𝐴 and 𝐶 as acute angle of the same right -angled triangle as shown in 
+figure 5.11, sin𝐴=cos𝐶 and sin𝐶=cos𝐴. 
+3. The trigonometric values of basic angles  (0°,30°,45°,60° and 90° ) are given 
+as: 
+➢ sin0°=0,sin30° =1
+2,sin45° =1
+√2,sin60° =√3
+2and sin90° =1 
+➢ cos0°=1,cos30° =√3
+2,sin45° =1
+√2,cos60° =1
+2and cos90° =0 
+➢ tan0°=0,tan30° =1
+√3,tan 45° =1,tan60° =√3 and tan90° is undefined . 
+Summary  
+202
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 4. The following steps could be taken in order to read values of trigonometric ratio 
+of sine, cosine and tangent from a trigonometric table.  
+➢ Identify the trigonometric ratio from the first row if t he degree you  
+need is between  0° and 45°  and the last row if the degree is between  
+45° and 90°. 
+➢ Using the column of the trigonometric r atio you need to find and move 
+down or up till you get the required degree.  
+➢ The intersection of the row and column of the above two steps is the  
+trigonometric value of the required degree . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+203
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+  
+1. Which one of the following is not correct about a right -angled triangle?  
+A. The angle opposite to the hypotenuse is a right angle  
+B. .If the base, height and hypotenuse of a right -angled triangle has lengths 
+𝑏,𝑝 and ℎ units,respectively, then  𝑏2+𝑝2=ℎ2. 
+C. For an isosceles right -angled triangle, two sides of a triangle are equal in  
+length.  
+D. If 𝜃 is one of the angles of a right -angled t riangle, then cos𝜃 can be 
+greater than 1. 
+2. In ∆𝐴𝐵𝐶 , right -angled at 𝐵, 𝐴𝐵=24 cm ,𝐵𝐶=7cm. Determine  
+a. sin𝐴 ,cos𝐴 
+b. sin𝐶, cos𝐶 
+3. State whether the following are true or false. Justify your answer.  
+a. The value  of tan𝐴 is always less than 1. 
+b.  sin𝜃=4
+3, for some acute angle 𝜃. 
+c.  If sin𝜃=1
+3, then cos𝜃=2√2
+3. 
+d.  When 0°≤𝜃≤90° is an angle of a right -angled triangle, both sin𝜃 
+and cos𝜃 are between 0 and 1. 
+4. Given 0°<𝜃<90°. If tan𝜃=1, then which one of the following is not true?  
+A. cos𝜃=√2
+2              B.  cos𝜃=sin𝜃   
+       C.  𝜃=45°               D. tan𝜃=sin𝜃 
+5. If sin𝜃=2
+3 for an acute angle 𝜃, then which one of the following is correct?  
+A. cos𝜃=√5
+2                         B.  tan𝜃=2
+√5    
+Review Exercise  
+204
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ C. cos(90° −𝜃)=3
+2               D. sin𝜃>cos𝜃 
+6. Find the value of each of the following using trigonometric table.  
+a. sin18°  
+     b.   cos57°  
+           c.   tan71° 
+7. Find the measure of an acute angle 𝐴, correct to the nearest degree if  
+ tan𝐴=12.10. 
+8. The angle formed by the top of the building at a distance of 50 m from its foot 
+on horizontal plane is found to be 60 degree. Find the height of the building. 
+(See figure 5. 12) 
+ 
+                                                      Figure 5.12 
+9. A building wit h its height of 60 m above sea level is located at Bahir Dar city 
+near to Lake Tana. The angle between the line segment from the sailing boa t to 
+the top of the building and surface of the water is 25° as shown in figure 5. 13. 
+a. How far is the boat from the b ase of the building to the nearest meter?  
+b. What is the distance between the man at the top of the building and the 
+boat? (Use fig 5. 13) 
+205
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+  
+                                                           Figure 5.13   
+10. Two women 𝐴 and 𝐵 lie on the leveled ground at opposite sides of 150 m tall 
+tower. If A observes the top of the tower at an angle of 60° and B observes the 
+same point at an angle of  30°, then how far the two women can be away from 
+each other?  
+ A. 100 √3 m                              B. 600 √3 m    
+ C. 200 √3 m                             D. 450 √3 m 
+11. In figure 5.14, if the height of the man is 1.74 m, 𝜃=63° and he is located at 
+100  m away from the building, find the height of the building.  
+ 
+                                                           Figure 5.14  
+206
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+REGULAR POLYGON S 
+ 
+ 
+ 
+Unit Outcomes  
+Identify regular polygons . 
+Solve problems on area and perimeter of regular polygons . 
+Find the measure of each interior or exterior angle of a regular polygon . 
+Explain properties of regular polygons.  
+ 
+Unit Contents  
+6.1  Sum of Interior Angles of a Convex Polygon  
+6.2  Sum of Exterior Angles of a Convex Polygon  
+6.3  Measures of Each Interior Angle and Exterior Angle of a   
+ Regular Polygon  
+6.4  Properties of Regular Polygons: Pentagon, Hexagon, Octagon  and  
+ Decagon  
+      Summary  
+      Review Exercise  
+  
+ 
+  UNIT  
+6 
+207
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  
+      • concave polygon                                                           • area of regular polygon  
+• convex polygon                                                             • perimeter of regular 
+polygon  
+• in circle  • interior angles  • line of symmetry  
+• circumcircle  • exterior angles  • regular polygon  
+• apothem    • central angle                                                                    
+INTRODUCTION  
+In the previous grades, you studied different plane figures like triangles, 
+quadrilaterals (rectangles, squares, and rhombus) and circles. You discussed how to 
+get area and perimeter of such plane figures. In this unit , you will revise some of the 
+basic concepts on polygons and study about regular polygon and their related 
+properties .   
+6.1 Sum of Interior Angles of a Convex Polygon  
+Concave and convex polygons  
+ 
+In the above activity, you discussed some plane figures. Now let us define a polygon.   
+ 
+Answer each of the following.  
+1.How many sides and vertices (corners) does a triangle have?  
+2.How many sides and vertices (corners) does a quadrilateral have?  
+3.Can you draw a plane figure that has 5 sides and corners?  
+ 
+Activity 6.1 
+208
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+   
+For instance: - Triangle  (three sides)  is the simplest polygon.  Other polygons are 
+quadrilaterals (four sides), and pentagons (five sides) , and so on.  
+Common naming of polygon  
+In general, if a polygon has 𝑛 sides, it is named as “ 𝑛-gon”, for instance a polygon 
+with 16 sides is called 16-gon. The following table and figure provide the  name s of 
+some polygons . 
+       Table 6.1 Name of Polygons and Their Number of Sides and Vertices  
+Name of  polygon  Number of sides Number of vertices  
+Triangle  3 3 
+Quadrilateral  4 4 
+Pentagon  5 5 
+Hexagon  6 6 
+Heptagon  7 7 
+Octagon  8 8 
+Nonagon  9 9 
+Decagon  10 10 
+Definition 6.1 
+A polygon  is a simple closed plane figure formed 
+by three or more line segments joined end to end, 
+no two of which in succession are collinear. The 
+line segments forming the polygon are called 
+sides . The common end point of any two sides is 
+called vertex of the pol ygon. The angles formed 
+inside the polygon are called interior angles .   
+  
+209
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+   
+Figure 6.1  Polygons   
+ 
+How many sides and vertices does a hexagon have?  
+Solution:  
+A hexagon is a polygon with 6 sides and 6 vertices . 
+ 
+1. How many sides and vertices does a nonagon have?  
+2. What is the name of a polygon with ten sides?  
+3. Draw an octagon using a ruler.  
+4. When a triangle is cut off from a quadrilateral by a straight line which passes 
+through vertices, write down the names of the possible polygons to be formed.  
+ 
+ 
+Example  
+  
+Exercise 6.1 
+Definition 6.2 
+i.A polygon  is said to be a convex polygon  when the measure of each interior 
+angle is less than 180  degrees. The vertices of a convex polygon are always 
+outwards.  
+ii.A polygon is said to be a concave polygon  when there is at least one interior 
+angle whose measure is more than 180 degrees. The vertic es of a concave 
+polygon present inwards and also outwards.  
+ 
+210
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  Definition 6.2 could be easily observed by the following table 6.2. 
+                                                                          Table 6.2 
+ 
+The following could be another description for the above definitions.  
+ 
+ 
+Is the quadrilateral in figure 6.1 convex or concave?   
+Solution:  
+The quadrilateral in figure 6.1 is convex since the measure of each interior angle is 
+less than 180° . You can check this by measuring each angle using protractor.  
+ 
+1. Is the hexagon in figure 6.1 convex or concave ? 
+2. Name the following polygons  and which of them are convex?    
+ 
+If none of the side  extension s intersect s the polygon, then the polygon is convex; 
+otherwise it is concave.  
+ 
+Note  
+Example  
+  
+Exercise 6.2 
+211
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  
+ 
+ 
+ 
+Sum of inter ior angles of a convex polygon  
+ 
+From your discussion in the activity and your previous 
+grade geometry lessons, you learned that the sum of the 
+measure of interior angles of any triangle  is 180° .  
+ For any triangle 𝐴𝐵𝐶 , note that  
+    𝑎+𝑏+𝑐=180°  . 
+ 
+Determine the measure of interior angles of a quadrilateral .  
+1.What is the sum of interior angles of a triangle?  
+2.What is the sum of interior angles of a quadrilateral?  
+3.Does the sum of interior angles of a polygon depend on the number of 
+sides of the polygon?  
+4.How can you find the sum of interior angles of  𝑛-gon? 
+Activity 6.2 
+Example 1  
+  Figure 6.2  
+212
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  Solution:  
+Consider a quadrilateral 𝐴𝐵𝐶𝐷  as shown below in 
+figure 6.3. Draw a line segment from one vertex , 
+say 𝐴, to its opposite vertex  𝐶 as shown below. Here , 
+the line segment 𝐴𝐶  is one of the diagonal s of the 
+given  quadrilateral.   
+As you see from the figure  6.3 above,  the quadrilateral is divided in to two triangles 
+so that the sum of interior angles of a quadrilateral is two times the sum of interior 
+angles of a triangle . Hence,  the sum of the measure  of interior angles of a 
+quadrilateral is  360° . Note that a quadrilateral can be divided into two triangle s. 
+This is ×180° =2×180° , where  𝑛=2, the number of triang les forming the 
+quadrilateral . 
+ 
+a. In how many triangles can we divide the pentagon?  
+b. What is the sum of the measures of interior angles of a pentagon?  
+Solution:  
+a. Consider a pentagon (a five-sided polygon ). Draw a line segment ( diagonal) from 
+𝐴 to another vertex in  the polygon ( You do 
+not have to draw lines to the adjacent 
+vertices since they are already connected by 
+a side) as shown in figure 6.4.  
+You can easily observe that the pentagon is 
+divided in to three triangles. So that the sum 
+of interior angles of a pentagon is three 
+times the sum of interior angles of a triangle.   
+Note also that a pentagon can be divided into three triangles.  
+Example 2  
+  
+Figure 6.4  Figure 6.3  
+213
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  b. Sum of the measure  of interior angles of a pentagon will be  
+ 𝑛×180° =3×180° =540° , where 𝑛=3 is the number of triangles forming 
+the pentagon.  
+ 
+1. How many triangles can be made for a heptagon ? 
+2. What is the sum of the measure  of interior angles of a heptagon?  
+ 
+Deriving sum of the interior angles of a polygon  
+Can you derive a formula to determine the sum of the interior angles of a   
+          polygon?  
+Can you fill in the blank space of the following table?  
+Number of sides 
+of a polygon  Name of  the 
+Polygon  Number of 
+triangles  Sum of measure 
+of interior angles  
+3 Triangle  1 1×180°  
+4 Quadrilateral  2 2×180°  
+5 Pentagon  3 3×180°  
+6 Hexagon    
+ .   
+ .   
+ .   
+𝑛 𝑛-gon (𝑛−2) __×180°  
+This indicates as the number of sides of a polygon increases , the number of triangles 
+also increases. Furthermore, the sum of measure of interior angles of the polygon 
+increases.  
+To summarize the above procedure , if 𝑛 is the number of sides of a polygon, then 
+𝑛−2  non-overlapping triangles  are formed . Hence,  we conclude the following 
+statement:   
+Exercise 6.3 
+214
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+   
+ 
+Find the sum of the measure of interior angles of  hexagon.  
+Solution : 
+Hexagon is a 6-sided polygon. We  use 𝑛=6 in the above formula.  Hence,  the 
+sum of measure of interior angles of a hexagon  is equal to    
+                                                                             (𝑛−2)×180° =(6−2)×180° =4×180° =720° . 
+ 
+The sum of interior angle of a polygon is 1,080° . How many sides does the  
+ polygon have?        
+Solution:  
+We need the value of 𝑛 which satisfies  (𝑛−2)×180° =1,080° . 
+𝑛−2=1,080°
+180°=6. So, 𝑛=8. The polygon is octagon.  
+ 
+1. Find the s um of the measure of interior angles of : 
+a. Nonagon      b. a 12-sided  polygon   
+2. The sum of interior angles of a polygon is  1,440°  . How many sides does the  
+ polygon  have?  
+3. Find the incomplete measure of interior angle of the given polygons.  
+ 
+Sum of the measure of interior angles of  n-sided polygon is equal to  
+ (𝑛−2)×180° . 
+Example 1  
+  
+Example 2  
+  
+Exercise 6.4 
+215
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  4. An architect design to construct recreation area of a school with  a heptagonal 
+shape with each interior angle are put in increasing order, each differs from 
+the next by 25°. Find the measure of the smallest interior angle of the given 
+heptagon to the near est tenth of degree.  
+ 
+ 
+6.2   Sum of Exterior Angles of a Convex Polygon  
+In the previous section , you have studied about convex polygons and how to 
+determine the sum  of the measure of interior angles of a polygon. In this section , you 
+will learn about exterior angles of convex polygons.   
+ 
+ 
+ 
+Which ones from 𝑎 to 𝑒 are the exterior angles of the hexagon  as shown in figure 
+6.6? 
+ 
+Given triangle 𝐴𝐵𝐶  as shown in the figure 6.5.  
+Construct exterior angles of the triangle at each  
+ vertex.  
+                         
+Activity 6.3 
+Definition 6.3 
+An exterior angle  of a convex polygon is an 
+angle outside the polygon formed by one of 
+its sides and the extension of an adjacent 
+side. 
+ 
+ 
+Example  
+   
+                       Figure 6.5  
+ 
+216
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  
+Solution:  
+By the definition , an exterior angle is an angle formed 
+outside of the polygon which is formed by extending 
+one of the sides with the next side as defined in 
+definition 6.3. Hence, 𝑎 and 𝑑 are exterior angles, 
+whereas 𝑒 is not an exterior angle since it do es not 
+satisfy the definition.  
+ 
+1. Using a ruler, construct a heptagon and show its exterior angles . 
+2. Write true if the statement is correct and false  otherwise . 
+a. For a triangle, there are 6 exterior angles.  
+b. For convex polygon, each exterior angle is less than 180°  . 
+c. Each exterior angle of a rectangle is 90°. 
+d. If the measure of each interior angle of a regular polygon  is 𝑥°, then the 
+measure of each exterior angle o f the given regular polygon is (360 −𝑥 )°. 
+ 
+Sum of the exterior angles of a polygon  
+What can you say about the sum of exterior angles of a polygon?  
+ Does  the sum dep end on the number of sides of the  polygon?  
+Let us see how to find sum of exterior angles of a polygon .  
+ 
+Determine the sum of the exterior angles of a triangle . 
+Solution:  
+Consider a triangle  𝐴𝐵𝐶   as figure  6.7. You 
+will observe  that angles 𝛼 ,𝛽 and  𝛾 are 
+exterior angles , and angles  𝑎,𝑏 and  𝑐 are 
+Exercise 6.5 
+Example 1  
+  Figure 6.6  
+Figure 6.7  
+217
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  
+interior angles of  ∆𝐴𝐵𝐶 .   
+The sum of the interior angles of a   triangle is 180° . 𝑎+𝑏+𝑐=180° . Also,  we 
+note that  (𝑎+𝑏+𝑐)+(𝛼+𝛽+𝛾)=3×180°  (measure of three straight lines ). 
+This leads  to 𝛼+𝛽+𝛾=360° . 
+Hence, the sum of the measure of exterior angles of a triangle is  360° . 
+ 
+Find the sum of the measure of exterior angles of a quadrilateral .  
+Solution:  
+Consider a quadrilateral 𝐴𝐵𝐶𝐷  as shown in the 
+figure 6.8 below with exterior angles  
+𝛼,𝛽,𝛾 and 𝛿 . Its interior angles are  𝑎,𝑏,𝑐 and 𝑑.  
+The sum of interior angles of a quadrilateral is  
+(𝑛−2)×180° =2×180° =360°     
+where 𝑛 is the number  of sides of the  polygon. For 
+our case , we know that 𝑛=4 .   
+Hence, 𝑎+𝑏+𝑐+𝑑=360° . From the figure we conclude  
+that (𝑎+𝑏+𝑐+𝑑 )+(𝛼+𝛽+𝛾+𝛿)=4×180° =720°  and  
+ 𝛼+𝛽+𝛾+𝛿=360° .  
+Hence, the measure of the exterior angles of a quadrilateral is  360° . 
+ 
+1. Find the sum of the measure of exterior angles of a hexagon.  
+2.  The exteriors angles of a pentagon are (𝑛 + 5)°, (2𝑛 + 3)°, (3𝑛 + 2)°, 
+ (4𝑛 + 1)° and (5𝑛+ 4)° respectively. Find the measure of each angle . 
+ 
+ 
+Example 2  
+  
+Exercise 6.6 
+Figure 6.8  
+218
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  Sum of the exterior angles of 𝒏-sided polygon  
+Similarly, if we take an  𝑛-sided  polygon, the sum of the interior angles of a polygon 
+is  (𝑛−2)×180° . 
+For such a polygon , we also have  𝑛 straight lines . Each one is the sum of interior  and 
+exterior  angle. Therefore , we have : 
+ 
+Using this concept, we can derive the sum of exterior angles of a polygon as follows. 
+For an 𝑛-sided  polygon,  
+Sum of interior angles of a  polygon  + sum of exterior angles of a polygon  
+                                                  = 𝑛×180°                                            (i) 
+Using (𝑛−2)×180°   in place of sum of inter ior angles of a polygon , equation (i ) 
+will be  
+(𝑛−2)×180°   + sum of exterior angles of a polygon  = 𝑛×180° .    (ii)                             
+Using distribution on equation (ii) we ge t 
+𝑛×180° −360° + sum of exterior angles of a polygon  = 𝑛×180° .   (iii)                                      
+       Collecting like t erms and rearranging equation (iii) gives us  
+Sum of the measure of exterior angles of a polygon  = 360° .                (iv)                                                 
+Hence, we can conclude that : 
+ 
+ 
+The s um of i nterior and exterior angles of 𝑛-sided  polygon is   𝑛×1800. 
+ 
+For any 𝑛-sided polygon, the sum of the measure of exterior angles of the 
+polygon is 360° . 
+ 
+At each vertex of a polygon, the sum of interior and exterior angles is 180° . 
+ 
+Note  
+219
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  
+ 
+Consider a triangle whose two interior angles 
+are 60° and 40°. Then, find  
+a. the remaining interior  angle  of the 
+triangle . 
+b. the measure of exterior angle at each 
+vertex .   
+Solution : 
+a. Consider a triangle with two of its interior angles are 60° and 40° as shown in 
+figure 6.9 . We know that the sum of the measure of interior angles of a triangle 
+is 180° . Assume the degree measure of the remaining interior angle of the 
+triangle be 𝑥. Since the  sum of the measure of interior angles of a triangle is 
+180° , then 𝑥+60° +40° =180° . 𝑥=180° −(60° +40°)=80°. 
+b. We also know that a straight line measure s 180° , then the exterior angle  
+ 𝛼=140°  ,   𝛽=120°   and   𝛾=100° .  
+Is the sum of these exterior  angles  in Example 1,  360° ? Yes, 
+          100° +120° +140° =360° . 
+ 
+1. Given a pentagon with  four of its interior angles 
+are 120°  ,95°,100°  and 70°. Find  the measure 
+of exterior angle at each vertex.   
+ 
+                  
+ 
+ 
+                                                
+Example  
+  
+Exercise 6.7 
+Figure 6.9  
+ 
+              Figure 6.10  
+220
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  2. Find the measure of angle  𝑥 and 𝑦 from the 
+following figure 6.11. The dashes on each line 
+are to mean the line segments are equal in 
+length.  
+                                                                                                     Figure 6.11 
+ 
+6.3 Measures of Each Interior Angle and Exterior  
+      Angle of  a Regular Polygon  
+In the previous two subsections you learned how to determine the sum of the interior  
+and exterior angles of a polygon. In this section you will see the definition of a  
+regular  polygon, and how to determine each interior and exterior angle  of such 
+polyg on. 
+ 
+A summary of Greek mathematics was given by Euclid in about 300 BCE in his work the 
+Elements. Euclid taught in Alexandria, Egypt, and wrote a number of mathematical 
+treatise s. His Elements consists of thirteen books and includes topics on number theory 
+and irrationals as well as geometry.  
+ 
+ Euclid (325 BCE -265 BCE)  
+Euclid gave constructions and proofs for an 
+equilateral triangle (Proposition 1 in Book I), the 
+square and pentagon (Book IV). He also shows that 
+using the triangle and pentagon a 15 -sided polygon 
+can be constructed; furthermore, by bisecting angles 
+furthe r polygons can be constructed from all these, 
+e.g. 6 -,12-,24-,48-sided 𝑛-gons .  
+ 
+221
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  
+ 
+For a polygon of the above types, we have the following definition:  
+ 
+For example : -Equilateral triangles an d squares 
+are regular polygons.  Students, do you know 
+honeycomb? We also  have such polygons in 
+our day-to-day life . For instance, figure 6 .13 
+shows a honeycomb which is formed by 
+honeybees  as regular hexagons.                                                                                              
+ What is the measure of each interior and exterior angle of 𝑛-sided regular  
+ polygon?  
+For 𝑛-sided polygon, recall that   
+     i. The sum of  the measure of  interior angles is  (𝑛−2)×180° . 
+     ii. The sum of the measure of exterior angles is  360° . 
+Using this and the definition of regular polygon , the measure of each interior angle of   
+𝑛-sided regular polygon is determined by  
+       (𝑛−2)×180°
+𝑛  (Since  a regular polygon is equiangular)  
+ 
+What common property do you observ e for the following in figures 6.12 ? 
+ 
+Figure 6.12  
+Activity 6.4 
+Definition 6.4 
+A polygon is said to be regular  if it is equiangular (having equal angles) and 
+equilateral (having equal sides).  
+Figure 6.13 
+222
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  
+and the measure of each exterior angle is   360°
+𝑛  (since there are 𝑛 exterior angles with 
+same measure) . 
+ 
+Find the measure of each interior and each exterior angle of a regular pentagon.  
+Solution : 
+Given a regular pentagon  which is  five-sided ( 𝑛=5). So each interior angle degree 
+measure is  
+(𝑛−2)×180°
+𝑛=(5−2)×180°
+5=3×180°
+5=108°  
+The measure of each exterior angle is   360°
+5=72°. 
+ 
+1. Find the measure of each interior and exterior angle of  
+      i) a regular hexagon    ii)  a regular octagon  
+2. What is the sum of each interior and its corresponding exterior angle of the above 
+two regular polygons?  
+3. A Mathematics  teacher gave a group work for students to construct a convex 
+regular polygon with one of the interior angle measures 135° . What is the name 
+of this polygon?  
+4. For n -sided regular polygon, the measure of each interior angle is 5 times the 
+measure of each ext erior angle. What is the number of sides of this polygon?  
+5. The diagram shows a regular 
+hexagon and a regular octagon. 
+Calculate the size of the angle 
+marked 𝑥. 
+ 
+ 
+ 
+Example  
+  
+Exercise 6.8 
+223
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  6.4   Properties of Regular Polygons : Pentagon,  
+        Hexagon, Octagon and Decagon  
+In section 6.3, you studied about regular polygon, interior and exterior angles of such 
+polygons. In this section , you will discuss the basic  properties of regular polygons.  
+Line of symmetry for regular polygons   
+You have learned about symmetry of simple p olygons in lower grades. You will 
+apply  the concept of symmetry to do the following activity.    
+ 
+Now, let us discuss symmetry of regular  polygons.                          
+● If two parts of a figure are identical after folding or flipping, then it is said to 
+be symmetric . To be symmetrical, one half must be the mirror image of the 
+other . If the figure is not symmetrical then it is said to be asymmetrical . 
+● Line of symmetry  is a line through which the two halves of the figure match 
+exactly. It is also called mirror line . A figure can have more than one line of 
+symmetry. An asymmetrical figure has no line of symmetry.  
+ 
+On a sheet of paper draw an equilateral triangle  and isosceles triangle . Then 
+cutout the above polygonal re gion and practice the following  (you may need to 
+use ruler, protractor and pencil.)  
+1.For each of the above polygonal region, how many lines of symmetry can 
+you get?  (Fold it in different ways till you obtain the folding line which 
+serves as a mirror or line of symmetry)  
+2.Is there a relation between the number of lines of symmetry and the sides of 
+a polygon?  
+Activity 6.5 
+224
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+   
+The following figure  shows the first four regular polygons with line s of symmetry.  
+  
+                   Figure 6.14: Some regular polygons with line s of symmetry  
+From figure 6.14 above, you can observe that  
+ An equilateral triangle has 3 lines of symmetry.  
+ A square has 4 lines o f symmetry (two horizontal and vertical lines of 
+symmetry, as well as two diagonal lines of symmetry).  
+ A regular pentagon has 5 lines of symmetry.  
+ A regular hexagon has 6 lines of symmetry.  
+ The lines of symmetry meet  at a point inside the polygon called center of the 
+polygon . 
+ If n is the number of sides of a regular polygon:  
+• If n is odd, the line of symmetry connect vertex to side.  
+• If  n is even, the line of symmetry conne ct vertex to vertex and side to  side.  
+      From the above discussion , we can conclude the following : - 
+ 
+ 
+How many line s of symmetry  does a regular  heptagon have?  
+ 
+All regular polygons are symmetrical shapes so that we have line s of symmetry 
+for each.  
+Note  
+The  𝑛 -sided regular polygon has 𝑛 lines of symmetry.  
+Example  
+  
+225
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  Solution:    
+A regular heptagon  has 7 sides so that it has 7 lines of symmetry. It can be observed 
+from the following  figure 6.15.   
+ 
+                                                    Figure 6 .15 
+ 
+1. How many lines of symmetry does a regular octagon have?  
+2. For each of the following statements write ‘true’ if the st atement is correct and 
+‘false’ otherwise. If your answer is false give justification why it is false.  
+a) If a polygon is not regular, then it is asymmetric.  
+b) A right -angled triangle has at most one line of symmetry.  
+c)  A rhombus has 4 lines of symmetry.  
+d) For 𝑛-sided regular polygon, the lines of symmetry divide the polygon into 2𝑛  
+    triangles.  
+ 
+ 
+ 
+Exercise 6.9 
+226
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  Inscribed and circumscribed polygon  
+ 
+In the above activity you observe  facts about circles which could be made in and out 
+of a polygon.  Based on the discussion you had, we can study facts based on regular 
+polygons. Let us consider 𝑛-sided regular polygon where 𝑂 be the center of a circle 
+and a polygon. In the figure  below 𝐴𝐵̅̅̅̅,𝐵𝐶̅̅̅̅,𝐶𝐷,̅̅̅̅̅...are sides of 𝑛-sided regular 
+polygon,  𝐸 is the mid -point of  𝐵𝐶̅̅̅̅ which is one of the 𝑛 sides of the polygon. Then 
+we have:  
+● The 𝑛-sided polygon is inscribed in the 
+bigger circle whose radius is  𝑂𝐵̅̅̅̅. Such 
+a circle is called a circumcircle , and it 
+connects all vertices (corner points) of 
+the polygon.  
+● The line segment from the center 
+perpendicular to the sides of a regular 
+ 
+1.  Construct the following plane figures.  
+a.A right -angled triangle with sides 6 cm and 8 cm that  form the right 
+angle.  
+b.A square of side 10 cm. 
+c.An equilateral triangle of side length 7 cm. 
+2.Using each of the above polygons,  
+a.Try to draw a circle which passes through all vertices of the polygon.  
+b.Try to draw a circle in the polygon where it touches all its sides.  
+3.Is it possible to draw such circles for the above polygons? (Identify the type 
+of polygon for which such types of circles can be made).  
+Activity  6.6 
+66.666.6 6.6 
+Figure  6.16 
+227
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  polygon is called an apothem of a polygon (for instance 𝑎=𝑂𝐸̅̅̅̅  is an 
+apothem which is perpendicular bisector of 𝐵𝐶̅̅̅̅).     
+● The inside circle  (the smaller circle) is called an  in circle  and it just touches 
+each side of the polygon at its midpoint. The radius of the incircle is 
+the apothem  of the polygon.  (Not all polygons have these  properties, but 
+triangles and regular polygons do).                                                                                                       
+● A circ le is inscribed in and circumscribed about any  regular polygon.  
+Measure of central angles  
+The central angle for a regular polygon is an angle formed at the center of a circle by 
+two consecutive rad ii from the vertex of a polygon  (see figure 6.16, ∠𝐵𝑂𝐶   is a 
+central angle). For 𝑛-sided regular polygon, we can obtain 𝑛 isosceles triangles  (see 
+also figure 6.16, ∆𝐵𝑂𝐶  is one of such isosceles triangles). Recall that the sum of 
+measures of angles at a point is  360° . Therefore, the sum of the ce ntral angles is 
+360° . Hence, the measure of each central angle of  𝑛-sided regular polygon is   360°
+𝑛 
+(each interior angle of a regular polygon  has the same measure) . 
+ 
+Find the measure of central angle of a regular polygon  inscribed in a circle  
+which has  the given number of sides :  
+  a.   5            b. 8            
+ 
+Solution : 
+ 
+a. The measure of the central angle depends on the number of sides of a 
+regular polygon. For =5 , the measure of each central angle is  
+ 360°
+5=72°. 
+b. For 𝑛=8, the measure of each central angle is  360°
+8=45°. 
+ 
+Example  
+  
+228
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+   
+1 Determine the measure of each central angle of a regular polygon which is  
+a. 10 sided      b. 15 sided  
+2. Find the number of sides of a regular polygon whose measure of central angle is 
+12° . 
+3. Which of the following measure of central angle s yields  a regular polygon ? 
+a. 6°      b. 14°   c.  80°      d. 40° 
+ 
+Perimeter, area and apothem of regular polygons inscribed in 
+a circle  
+There is a close relationship between the perimeter, area, side  length  and apothem of 
+an 𝑛-sided regular polygon which is inscribed in a circle. We discuss a particular 
+case as an illustrative example and we develop the formula through the process for 
+the general 𝑛-sided regular polygon.  
+ 
+In figure 6.17, the regular hexagon is inscribed in a circle with center 𝑂 and radius  𝑟. 
+Express  the side length 𝑠, perimeter 𝑃, apothem 𝑎, and area 𝐴 of the regular hexagon  
+using 𝑟. 
+Solution:  
+Given that ABCDEF  is a regular hexagon. It has 6 
+sides. Triangle  AOB is one of equilateral triangle as 
+shown in figure 6.17.  
+  (since  ∠AOB =360 °÷6=60°, 
+∠OAB =∠OBA =(180 °−60°)÷2=60°) 
+There are 6 congruent equilateral triangles inside this 
+regular hexagon.  So that 𝑠=𝑟, 𝑃=6𝑠=6𝑟. 
+Exercise 6.10 
+Example  
+  
+Figure 6 .17 
+229
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  Draw  a perpendicular bisector from O to AB̅̅̅̅ = s. It meets   AB̅̅̅̅  at G. OG̅̅̅̅  is the 
+apothem a of the hexagon.  
+Here ∆AOG  ≡∆BOG   (𝑆𝑆𝑆). So that , m (∠AOG )= m (∠BOG )=60° ÷2=30°.  
+Then,  𝑎=𝑟 cos30° =√3
+2𝑟. The area of ∆AOB = 1
+2  AB̅̅̅̅  ×  OG ̅̅̅̅̅  =  1
+2 𝑎𝑟 = √3
+4 𝑟2. 
+The area of the pentagon ABCDEF  = 𝐴 = 6 × ∆AOB  = 6 ×  √3
+4 𝑟2 = 3√3
+2 𝑟2. 
+ 
+1. The figure below shows that a square is inscribed  
+in a circle  with the radius of 4 cm. Find the length  
+of the side, the apothem and the perimeter, and the  
+area of the square.  
+ 
+ 
+ 
+2. The figure below  shows that an equilateral triangle  
+is inscribed in a circle  with the radius of r. Show  
+the length of the side, the apothem, the perimeter,  
+and the area of the triangle  in terms of the radius 𝑟. 
+ 
+ 
+ 
+ 
+ 
+ 
+Suppose a regular polygon ( 𝑛-gon) is inscribed in a circle with center  𝑂 and radius  𝑟. 
+Find the side length  𝑠, perimeter 𝑃, apothem 𝑎, and area A of the regular 𝑛-gon. (In 
+this case, 𝑛-gon is not nec essarily a hexagon, but Fig 6.17 may help our   
+understanding ). 
+Exercise 6.11 
+Example 1  
+   
+ 
+230
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  A regular 𝑛-gon is given in the figure. It has  𝑛  sides. Triangle AOB is one of such 
+isosceles triangle s as shown in figure 6.16. Moreover, there are n congruent isosceles 
+triangles inside this regular 𝑛-gon. Triangle AOB is one of such isosceles triangle s as 
+shown in figure 6.17. 
+Draw a perpendicular bisector from O to AB̅̅̅̅  at G.  
+OG̅̅̅̅  is the apothem a of the 𝑛-gon. Here , ∆AOG  ≡∆BOG   (𝑆𝑆𝑆).  
+And m (∠AOB )= 360° ÷ 𝑛 = 360 °
+𝑛 
+So that, m (∠AOG )= m(∠AOG )= 360 °
+𝑛÷2= 180 °
+𝑛 
+Then, s
+2 = r sin(180 °
+𝑛) which implies   𝑠=2𝑟sin(180 °
+𝑛) . 
+ 𝑃=𝑛× 𝑠 =2𝑛𝑟sin(180 °
+𝑛)    and   𝑎=𝑟cos(180°
+𝑛) . 
+The area of ∆AOG = 1
+2  AB̅̅̅̅  ×  OG ̅̅̅̅̅  =  1
+2 𝑠𝑎 . So, the area of the  𝑛-gon  is 
+𝐴=𝑛× area of isosceles  triangle . This is 𝐴=1
+2𝑛𝑎𝑠, but  𝑃=𝑛𝑠, so that   𝐴=1
+2𝑎𝑃. 
+The above example 1 leads us to state the following theorem.  
+ 
+ 
+  a. Find the length of side of a square  inscribed in a circle of radius 5 cm. 
+  b. Find the apothem of a regular pentagon inscribed in a circle of radius 6 cm. 
+  c. Find the area of a regular nonagon  inscribed in a circle  whose radius is 10 cm. 
+     (Use a calculator or a trigonometric table whenever necessary)  
+Theorem  6.1 
+For 𝑛-sided regular polygon inscribed in a circle of radius 𝑟, length of side 𝑠, 
+apothem 𝑎, perimeter 𝑃 and area 𝐴 are determined by  
+    𝑠=2𝑟sin(180°
+𝑛)     𝑎=𝑟cos(180°
+𝑛) 
+        𝑃=2𝑛𝑟sin(180°
+𝑛)                𝐴=1
+2𝑎𝑃   
+Example 2  
+  
+231
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Regular Polygon s 
+   
+  Solution :  
+a. By the formula in the above theorem 6.1, 𝑠=2𝑟sin(180°
+𝑛). Using 𝑟=5 cm  
+and 𝑛=4, the length of the side  is  
+            𝑠=2𝑟sin(180°
+𝑛)=2(5 cm)sin(180°
+4)     
+=10 cm×sin(45°) 
+            = 10 cm×1
+√2=5√2 cm  (rationalizing the denominator)  
+b. Given 𝑟=6 cm and  𝑛=5 , we can determine the apothem ( 𝑎) by using the 
+formula   𝑎=𝑟cos(180°
+𝑛), 𝑎=6 cm×cos(180°
+5)=6cm×cos(36°). Using 
+scientific calculator or trigonometric table cos(36°)≈0.8090 . 
+Hence, 𝑎≈4.854  cm 
+c. The area of a regular polygon is determined by  
+ 𝑨=1
+2𝑎𝑃=1
+2(𝑟cos(180°
+𝑛))×2𝑛𝑟sin(180°
+𝑛)  
+    Using  𝑛=9 and  𝑟=10 cm, 
+     𝑨=𝑛𝑟2cos(180°
+𝑛)sin(180°
+𝑛)=9(100  cm2)cos(20°)sin(20°) 
+    (Using trigonometric table/Scientific calculator)   
+       cos(20°)≈0.9397   and sin(20°)≈ 0.3420 , hence, 𝐴=289 .240  cm2. 
+ 
+1. Find the perimeter, area and apothem of a decagon which is inscribed in a 
+circle of  radius   𝑟=8 cm. 
+2. Suppose central angle of a regular polygon is 60°. Then find the radius of a 
+circle circumscribing the given polygon if its side is of length 9 cm . 
+3. One student from your class states that ‘ the radius of a regular polygon is never 
+less than its apothem ’. Do you agree? If so provide justification. If not, provide 
+a counter example.  
+ 
+Exercise 6.12 
+232
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+1. A polygon  is a simple closed plane figure formed by three or more line 
+segments joined end to end, no two of which in succession are collinear. The 
+line segments forming the polygon are called sides . The common end point of 
+any two sides is called vertex of the pol ygon. The angles formed inside the 
+polygon are called interior angles.  
+2. i) A polygon  is said to be a convex polygon  when the measure of each interior  
+    angle is less than 180° . 
+  ii) A polygon is said to be a concave polygon  when there is at least one interior  
+       angle whose measure is more than 180 degrees.  
+3. The sum of the measure of interior angles of 𝑛-sided polygon is determined by  
+(𝑛−2)×180° . 
+4. For any 𝑛-sided polygon, the sum of the measure of exterior angles of the 
+polygon is 360° . 
+5. At each vertex of a polygon, the external and internal angle add up to 180°  . 
+6. A regular polygon is a convex polygon with all sides equal and all interior 
+angles equal.  
+7. i) The measure of each interior angle of a regular 𝑛-sided polygon is  
+      (𝑛−2)×180°
+𝑛. 
+ii) The measure of each exterior angle of a regular 𝑛- sided polygon is 360°
+𝑛 . 
+iii) The measure of each central angle of a regular 𝑛-sided polygon is 360°
+𝑛. 
+8. If two parts of a figure are identical after folding through the line of symmetry, 
+then it is said to be symmetric.  A symmetrical figure has at least one line of 
+symmetry. An asymmetrical  figure has no line of symmetry.  
+9. An 𝑛-sided regular polygon has 𝑛 lines of symmetry.  
+Summary  
+233
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+10. An inscribed polygon  is a polygon in which all vertices lie on a circle. The 
+polygon is  inscribed  in the circle and the circle is  circumscribed  about the 
+polygon.  
+11. A circumscribed polygon  is a polygon in which each side touches a circle. The 
+circle is  inscribed  in the polygon and the polygon is  circumscribed  about the 
+circle . 
+12. A circle can always be inscribed in or circumscribed about any regular 
+polygon.  
+13. An apothem  of a regular polygon is a perpendicular segment from a midpoint 
+of a side of a regular polygon to the center of the circle circumscribed about the 
+polygon.  
+14. Formula for the length of side 𝑠, apothem 𝑎, perimeter 𝑃 and area 𝐴 of the 
+regular polyg on with 𝑛-sides and radius  𝑟 are given by  
+       𝑠=2𝑟sin(180°
+𝑛)    𝑎=𝑟cos(180°
+𝑛)  
+               𝑃=2𝑛𝑟sin(180°
+𝑛)                𝐴=1
+2𝑎𝑃  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+234
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+1. Write true if the statement is correct and false otherwise.  
+a. If a polygon is equiangular, then it is equilateral.  
+b. Equiangular hexagons are regular.  
+c. All symmetric plane figures are polygons.  
+d. If a polygon is inscribed in a circle, then the polygon is regular.  
+e. Fixing the radius of a polygon inscribed in a circle, increasing the 
+number of sides of a regular polygon increases the length of the 
+apothem.  
+f. If a regular polygon of 𝑛 sides has every line of symmetry passing 
+through a vertex, then 𝑛 is even.  
+2. Find the s izes of the angles marked by letters.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Review Exercise  
+235
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+3. Find the number of sides of a regular polygon if each exterior angle is equal 
+to 
+i)  its adjacent interior angle.  
+ii) twice its adjacent interior angle.  
+4. Is it possible to construct a polygon whose sum of interior angles is 26 right 
+angles? If yes, find the number of sides of the polygon.  
+5. One of the interior angles  of a polygon is 100°  and each of the other angles 
+is  110°  . Find the number of sides of the polygon.  
+6. The interior angles of a polygon are in the ratio 2:3:5:9:11. Find the measure 
+of each angle. Is the polygon convex or concave? Why?  
+7. Each side of a regular hexagon is 10 units long. What is the area of this 
+hexagon?  
+A. 27 unit2            B.  75 unit2       C.  150 √3 unit2 D.  54√3 unit2 
+8. The area of a regular hexagon is 96√3 cm2. What is its perimeter?  
+A. 48 cm  B. 54 cm        C. 42 cm              D. 60 cm 
+9. Which one of the following statements is correct about a regular octagon?  
+A. From one vertex we can draw 4 diagonals only.  
+B. The sum of the measures of all its interior angles is 1080° . 
+C. The sum of the measures of all its central angles is 180°. 
+D. The measure of each exterior angle is 135°. 
+10. Which one of the following is not correct about 𝑛-sided  regular polygon?  
+A. It has 𝑛 lines of symmetry.  
+B. The measure of each interior angle is (𝑛−2)×180°
+𝑛. 
+C. The measure of each central angle and each exterior angle is 360°
+𝑛. 
+D. The sum of the measure  of exterio r angles is 𝑛×360°. 
+11. If the measure of each exterior angle of a regular polygon is 40°, then how 
+many sides does this polygon have?  
+236
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+A. 7             B. 9     C. 8        D. 10 
+12. The perimeter of regular pentagon  inscribed in a circle  with radius 10 cm is 
+equal to :  
+(use sin36°=0.59 ,cos36°=0.81 ,sin72°=0.95 ,cos72°=0.31) 
+A. 81 cm  B. 50 cm    C. 91 cm       D. 59 cm 
+13. Is it possible to have a regular polygon with each of whose exterior angle is 
+50° ? Give reason to support your answer.  
+14. What is the perimeter of a square with a diagonal of  5√2cm? 
+15. How many sides does a regular polygon have if the measure of an interior 
+angle is 165° ? 
+16. There are two regular polygons with number of sides equal to (𝑛 – 1) and 
+(𝑛 + 2). Their exterior angles differ by 6°. Find the number of sides of the 
+two polygons.  
+17. The figure (fig 6. 18) shows two regular pentagons and an equilateral 
+triangle (∆𝐸𝐷𝐹 ). Determine the measure of ∠𝐴𝐸𝐼.   
+ 
+                Figure 6.18  
+18. A regular polygon has a perimeter 143  unit and the sides are 11 unit long. 
+How many sides does the polygon have?  
+19. Suppose an equilateral triangle is inscribed in a circle of radius 8 cm. Find 
+the area of the region which is in a circle and outside the triangle.  
+( use 𝜋≈3.14 ,√3≈1.73) 
+237
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+20. Find the possible measure of minimum interior angles and maximum 
+exterior angles in a regular polygon. Give a reason  to support your answer.  
+21. The school pedagogical center is making a design of a regular oct agonal stop  
+sign (as shown in fig. 6.19 ) which will be placed at 
+the main gate of the school to prevent car accidents. 
+Each side of the  sign is 40cm long. What is the area 
+of the sign? (to the nearest integer ) 
+                             
+ 
+22. A gardener has enough material for 660 meters of fence. She knows that a 
+circle maximizes the area to perimeterration , but circular fence is difficult to 
+construct. So, she wants to simulate a circle by constructing a fence in a 
+shape of a regular polygon with as many sides as possible but wit h more 
+than 5 and not more than 15 sides. If she wishes to make each side a length 
+of an even meter, and she wishes to have no more than 2 meter left over, 
+which regular polygon would you suggest she build, and how long would 
+each side be?  
+A. Octagon;  83 m   B. 13-gon; 51 m  C. 15-gon; 44 m     D.11-gon; 60 m 
+  
+ Figure 6.19  
+238

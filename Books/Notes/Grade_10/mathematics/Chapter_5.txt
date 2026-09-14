@@ -1,0 +1,2592 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 5: Circles …………………………………………
+Pages: 260 to 353
+=================================================================
+
+Unit 5: Circle
+251.
+CIRCLE
+Unit Outcomes
+Explain the symmetrical properties of circles.
+Use the symmetrical properties of circles to solve related problems.
+Write angle properties of circles in their own words.
+Apply angle properties of circles to solve related problems.
+Find perimeters and areas of segments and sectors.
+Unit Contents
+5.1Symmetrical Properties of Circles
+5.2Angle Properties of Circles
+5.3Arc Length, Perimeters and Areas of Segments and Sectors 
+5.4Theorems on Angles and Arcs Determined by Lines Intersecting 
+inside, on and outside a Circle      
+Summary
+      Review Exercise
+UNIT5
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+252
+✓circumference ✓sector
+✓symmetry ✓segment
+✓perimeter ✓quadrilateral
+✓circle ✓ratio ✓triangle
+✓arc ✓area ✓angle   
+Introduction  
+You have learnt several concepts and principles in your lower grades. In the present 
+unit you will learn more about circles. Perimeter and area of segment and a sector of 
+a circle are the major topics covered in this unit.
+5.1 Symmetrical Properties of Circles 
+A circle is the locus of points (set of points) in a plane each of which is equidistant 
+from a fixed point in the plane. The fixed point is called the center of the circle and the 
+constant distance is called its radius. Thus, the circle is defined by its center O and 
+radius r. 
+A circle is also defined by two of its properties such as area and perimeter.  Recall that 
+area of a circle, 𝐴=𝜋𝑟2and perimeter of the circle, 𝑃= 2𝜋𝑟.
+Observe that in a symmetrical figure the length of any line segment or the size of any 
+angle in one half of the figure is equal to the length of the corresponding line segment
+1.What is a circle?
+2.Draw a circle and indicate its center, radius and diameter.
+3.What is line of symmetry?
+4.How many lines of symmetry does an equilateral triangle have?
+Activity 5.1
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+253or the size of the corresponding angle in the other half of the figure. 
+If infigure 5.1, point 𝑃coincides with point 𝑄  when the figure is about line 𝐴𝐵and 
+if𝑃𝑄̅̅̅̅intersects line 𝐴𝐵at𝑁, then ∠𝑃N𝐴coincides with ∠𝑄N𝐴and therefore each is 
+a right angle with 𝑃𝑁̅̅̅̅≡𝑄𝑁̅̅̅̅.If 𝑃and 𝑄are the corresponding points for a line of 
+symmetry 𝐴𝐵, the perpendicular bisector of𝑃𝑄̅̅̅̅is 𝐴𝐵̅̅̅̅. 
+Conversely, if 𝐴𝐵̅̅̅̅is the perpendicular bisector of 𝑃𝑄̅̅̅̅, then 
+𝑃and 𝑄are corresponding points for the line of symmetry 
+𝐴𝐵and we say that 𝑃is the image of 𝑄and 𝑄is the image of 
+𝑃in line segment 𝐴𝐵.            
+                                                                      
+                                                                                            Figure 5.1               
+If we fold a circle over any of its diameters, then the parts of the circle on each side of 
+the diameter will match up and the parts of the circle on each side of the diameter must 
+have the same area. Thus, any diameter of a circle can be considered as a line of 
+symmetry for the circle. 
+An object can have zero lines of symmetry or it can have infinite lines of symmetry.
+Determine the number of lines of symmetry for the figure 5.2.
+Solution:    
+We know that a circle has infinite lines of symmetry but as 
+per the given Figure 5.2, a circle has been inscribed in a 
+square. A square has 4lines of symmetry. Therefore, the 
+given figure 5.2 has 4lines of symmetry as shown in figure 
+5.3. 
+                                                                                                                                      Example 1
+                                                                      
+Figure 5. 3Figure 5.2
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+254Proof:                                                                                                                                                                                                                                                                            
+Given: A circle with center 𝑂and a chord 𝑃𝑄̅̅̅̅  whose midpoint is 𝑀(see figure 5.4).
+We want to prove that ∠𝑂MPisa right angle.
+Draw the diameter ST̅̅̅through point M. Then, the circle is 
+symmetric about  ST̅̅̅and  PM̅̅̅̅≡QM̅̅̅̅̅. So, ST̅̅̅is 
+perpendicular bisector of PQ̅̅̅̅  and hence ∠𝑂MPis a right 
+angle.    
+                                                                                                                                           
+Figure 5.4
+1.𝛥𝐴𝐵𝐶 is an equilateral triangle and circle O is its circumcircle. How many lines 
+of symmetry does figure 5.5 have?
+                                             Figure 5.5
+2.In figure 5.4 above, show that ∆𝑂𝑃M ≡ ∆ 𝑂𝑄M.
+  
+Theorem 5.1
+The line segment joining the center of a circl e to the midpoint of a chord is 
+perpendicular to the chord.
+Exercise 5.1
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+255Characteristics of Chord (1)
+Proof:
+Given: A circle with center 𝑂and 𝑂𝑁̅̅̅̅is drawn from c enter𝑂perpendicular to the 
+chord 𝐴𝐵as shown in figure 5.6.
+We want to prove that 𝐴𝑁̅̅̅̅≡𝑁𝐵̅̅̅̅.
+Join 𝑂𝐴̅̅̅̅and 𝑂𝐵̅̅̅̅.
+1.𝑂𝐴̅̅̅̅≡𝑂𝐵̅̅̅̅                                radii of circle
+2.m(∠ 𝐴𝑁𝑂) = 𝑚(∠𝐵𝑁𝑂)        both equal to 90°
+3.𝑂𝑁̅̅̅̅≡𝑂𝑁̅̅̅̅                               common side                                                                                 
+4.∆𝐴𝑂𝑁≡ ∆𝐵𝑂𝑁                       by RHS-criteria of
+                                               congruency
+5.𝐴𝑁̅̅̅̅≡𝐵𝑁̅̅̅̅                               by step 4                    Figure 5.6                                                                                                                                                          
+                                                                                                                                                                                                                                                                                             
+Proof:
+Given :Chords 𝐴𝐵and 𝐶𝐷are equal in length.
+Construction: Join points 𝐴and 𝐶with c enter 𝑂and drop 
+perpendiculars from 𝑂to the chords 𝐴𝐵and 𝐶𝐷(see 
+figure 5.7).
+                                                                                                                                                                              
+                                                                                                          Figure 5.7
+We want to prove: OP̅̅̅̅≡OQ̅̅̅̅                                                                                                     
+Theorem 5.2
+The line segment drawn from the center of a circle perpendicular to a chord 
+bisects the chord.
+Theorem 5.3
+Equal chords of a circle are equidistant from the center of the circle.
+                                     
+                                            
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+256Steps Statement Reason
+1 𝐴𝑃=𝐴𝐵
+2,   𝐶𝑄=𝐶𝐷
+2The perpendicular from the center 
+bisects the chord
+2 𝑚(∠𝐶𝑄𝑂)=m(∠𝐴𝑃𝑂)=900𝑂𝑃̅̅̅̅⊥𝐴𝐵̅̅̅̅and 𝑂𝑄̅̅̅̅̅⊥𝐶𝐷̅̅̅̅
+3 𝑂𝐴̅̅̅̅≡𝑂𝐶̅̅̅̅ Radii of the same circle
+4 𝐴𝐵̅̅̅̅≡𝐶𝐷̅̅̅̅ Given
+5 𝛥OPA ≡ 𝛥OQC RHSpostulate of congruency
+6 OP̅̅̅̅≡OQ̅̅̅̅ From statement 5                                                               
+In figure 5.8, a chord of a circle of radius 5 cm is 8 cm long. Find the distance of the 
+chord from the center.
+Solution: 
+  Given: 𝐴𝐵= 8cmand 𝑂𝐵= 5cm
+            𝑂𝑀2+𝑀𝐵2=𝑂𝐵2                                                                
+             𝑂𝑀= √ 𝑂𝐵2−𝑀𝐵2
+                    = √52−42                                                                     
+                    =√25−16                                                                     
+                     =√9cm= 3cm.                                       Figure 5.8             
+In figure 5.9, a chord of a circle of radius 5 cm is 6 cm long. Find the distance of the 
+chord from the center.
+                                                  Figure 5.9
+Example 1
+Exercise 5.2
+                                                                
+                                                                     
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+257Characteristics of Chord (2)
+Proof:
+From figure 5.10, consider ∆AOB and∆POQ.
+                
+                      
+                                                                                            Figure 5.10
+Steps Statement Reason
+1 AÔB≡PÔQ Given
+2 OA̅̅̅̅≡OB̅̅̅̅≡OP̅̅̅̅≡OQ̅̅̅̅ Radii of the same circle
+3 𝛥AOB≡𝛥POQ SAS postulate of congruence
+4 AB̅̅̅̅≡PQ̅̅̅̅ From st ep3
+      
+Proof:
+From figure 5.11, consider ∆AOBand∆POQ
+We want to prove ∠AOB≡ ∠POQ .
+     
+                                                                                                     Figure 5.11                                                                                                               
+Theorem 5.4
+If the angles subtended by the chords of a circle are equal in measure, then the 
+length of the chords are equal.
+Theorem 5.5
+Chords which are equal in length subtend equal angles at the center of the circle.
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2581.A chord of length 20cm is at a distance of 8cm from the center of the circle. Find 
+the radius of the circle.
+2.A chord of a circle of radius 8cm is 10cm long. Find the distance of the chord 
+from the center of the circle.
+3.AB and CD are equal chords in a circle of radius 10 cm. If each chord is 16 cm, 
+find their distance from the center of the circle.
+                           
+5.2 Angle Properties of Circles 
+Central Angles and Inscribed Angles (1)
+•A major arc is anarc connecting two endpoints on a circle 
+and its measure is greater than 180°orπ.        
+           
+                                                                                                           Figure 5.12                                                                                                                                                                                            Statement Reason
+1 AB̅̅̅̅≡PQ̅̅̅̅ Given
+2OA̅̅̅̅≡OB̅̅̅̅≡OP̅̅̅̅≡OQ̅̅̅̅ Radii of the same circle
+3 ∆𝐴𝑂𝐵≡ ∆𝑃𝑂𝑄 SSS postulate of Congruence
+4m(∠AOB) = 𝑚(∠𝑃𝑂𝑄) From st ep3
+Exercise 5.3
+1.Define the following terms: chord, diameter, radius, tangent, secant, arc.
+2.Discuss a major and minor arc.
+Activity 5.2
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+259•Minor arc is anarc connecting two endpoints on a circle 
+and its measure is less than 180°orπ.
+    (See figure 5.13)                                                                    
+                                                                                                                                                                                          
+                                                                                                              Figure 5.13
+•A major arc is usually referred to with three letters and a minor arc is usually 
+referred to with only two letters.
+•A central angle is an angle formed by two radii with vertex 
+at the center of the circle.
+      (See figure 5.14)                             
+      
+                                                                                                             Figure 5.14
+An inscribed angle is an angle with vertex on the circle 
+formed by two intersecting chords.
+(See figure 5.15)
+                                             
+                                                                                                            Figure 5.15
+In figure 5.16, m(∠ 𝐴𝑂𝐵)is a central angle with an 
+intercepted minor arc 𝐴𝐵whose measure is 82°, i.e., 
+𝑥=82°.
+   
+                                                                  
+Example 1
+                                                              
+                                                       
+Figure 5.16   
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+260    
+Proof: 
+Let’s prove 𝜃= 2𝑎for all 𝜃and 𝑎, where 𝜃is the central 
+angle. These three cases account for all possible situations 
+where an inscribed angle and a central angle intercept the same 
+arc.
+                                                                                                             
+Figure 5.18
+Case I. The diameter lies along one ray of an inscribed angle (seefigure5. 19).
+Step 1 Spot the isosceles triangle.
+𝐵𝐶̅̅̅̅and 𝐵𝐷̅̅̅̅  are both radii, so they have the same length. 
+So, ∆𝐷𝐵𝐶 is an isosceles, which also means that its base 
+angles are congruent. Then, 𝑚(∠𝐵𝐶𝐷) = 𝑚(∠𝐵𝐷𝐶) = 𝑎.
+Step 2 Spot the straight angle. So, 𝑚(∠𝐷𝐵𝐶) =180°−𝜃
+Step 3 Write an equation and solve for 𝑎.
+𝑎+𝑎+(180°−𝜃)=180° which implies  2𝑎−𝜃= 0
+which again implies 2𝑎=𝜃. Proved .
+Theorem 5.6
+Ifan inscribed and a central angle intercept the same arc, then the measure of an 
+inscribed angle is half of the measure of a central angle.
+Figure 5.17     
+Figure 5.1 9    
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+261Case II.The diameter is between the rays of the inscribed angle 𝑎(see figure 5.20).
+Step 1 Draw a diameter and using the diameter let’s 
+            break ‘𝑎’into 𝑎1and 𝑎2,and 𝜃into 𝜃1and 𝜃2as
+           shown in figure 5.20.
+Step 2 Use what we learned from case I to establish two
+           equations 
+•𝑎1+𝑎1+(180°−𝜃1)=180°
+      2𝑎1−𝜃1= 0which implies  2𝑎1=𝜃1.                                           
+•𝑎2+𝑎2+(180°−𝜃2)=180° which implies   𝜃2= 2𝑎2.          
+Step 3 Add the above two equations 
+           𝜃1+𝜃2= 2𝑎1+2𝑎2which implies   𝜃= 2( 𝑎1+𝑎2) = 2 𝑎.
+Case III. The diameter is outside the rays of the inscribed angle.
+Step 1 Draw a diameter and using the diameter let’s create two new angles 
+            𝜃2and 𝑎2as shown in figure 5.21.
+Step 2 Use what we learned from case I to establish two
+           equations.
+•𝑎2+𝑎2+(180°−𝜃2)=180°
+2𝑎2−𝜃2= 0which implies 2𝑎2=𝜃2
+•𝑎+𝑎2+𝑎+𝑎2+(180°−𝜃2−𝜃) =180°
+2𝑎+2𝑎2−𝜃2−𝜃= 0  but 2𝑎2=𝜃2
+  ∴  𝜃= 2𝑎.   We prove that 𝜃= 2𝑎.        
+In the figure 5.22, if 𝑂  is the center of a circle 
+with 𝑚(∠𝑃R𝑄) =75°, what is the size of ∠𝑃𝑂𝑄 ?
+Solution:    
+𝑚(∠𝑃𝑂𝑄)= 2× 𝑚(∠𝑃𝑅𝑄)
+          = 2 ×75°=150°.                                                                                      
+                                                                               
+Example 1
+                                                                  
+Figure 5. 20    
+Figure 5. 21   
+Figure 5. 22   
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+262                                                                              
+In figure 5.23, ∠𝐴𝐵𝐶 is an inscribed angle with an intercepted minor arc from A to 
+C.Find the value of 𝑥. 
+Solution:
+∠A𝐵Cis an inscribed angle.
+  So, m(∠ABC) =1
+2m(arcAC)
+                     =1
+2(82°) =41°
+                                                                                                               
+                                                                                          
+1.In the figure 5.24, 𝑂is the center of a circle. Find the measure of ∠𝐴𝐵𝐶.
+                                                     Figure 5.24
+2.In figure 5.25, O is the center of a circle. Find the measure of ∠𝑥.                                                                  
+                                          
+a.                                                                      b.                         
+                                                       Figure 5.25                                               
+  
+Example 2
+Exercise 5.4
+                                                                       
+Figure 5. 23  
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+263Central Angles and Inscribed Angles (2)
+                        
+Proof: 
+In Figure 5.26, m(∠ 𝐴P𝐵) =1
+2m(∠ 𝐴O𝐵)(By theorem 5.6)
+                          m(∠ 𝐴Q𝐵) =1
+2m(∠ 𝐴O𝐵)(By theorem 5.6)
+       Therefore, m(∠𝐴P𝐵)= m(∠𝐴Q𝐵).     
+                                                                                                         Figure5.26                                                                                              
+In the figure 5.27, what is the measure of angle 𝐶𝐵𝑋 ? 
+Solution:
+Given: m(∠ 𝐴D𝐵) = m(∠ 𝐴C𝐵) =32°and ∠𝐴C𝐵≡ ∠ 𝑋C𝐵.
+So, in 𝛥𝐵𝑋𝐶 we have 𝑚(∠𝐵X𝐶) =85°and  
+𝑚(∠𝑋C𝐵) =32°.By angle sum theorem,         
+𝑚(∠𝐶B𝑋)+𝑚(∠𝐵X𝐶)+𝑚(∠𝐵C𝑋)=180°.   
+𝑚(∠𝐶𝐵𝑋)+85°+32°=180°.                       
+𝑚(∠𝐶𝐵𝑋) =180°−1170=63°.                                                       
+                                                                                                          Figure 5.27
+   
+Proof: 
+Theorem 5.7
+Inscribed angles subtended by the same arc have the same measure.
+Example 1
+Theorem 5.8   Angle in a semicircle (Thales' Theorem)
+An angle inscribed in a semicircle is a right angle.
+                                                  
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+264The given angle A𝑃Bis subtended by a semicircle as shown in figure 5.28. The 
+corresponding central angle which is subtended by arc𝐴𝐵is a straight angle, that is,
+the central angle is 180°.Hence, by theorem 5.6,
+m(∠ 𝐴P𝐵) =1
+2m(∠ 𝐴O𝐵)                                                                                                          
+                =1
+2×180°                                                                                           
+                  = 90°
+                                                                                                  Figure 5.28
+If 𝐴𝐵is the diameter of the circle with center 𝑂as shown in the figure 5.29, then find 
+the measure of ∠𝐵AC.
+Solution:
+By Thales ' Theorem   m(∠ 𝐴C𝐵) =90°.
+By angle sum theorem we have,                   
+m(∠𝐵A𝐶)+m(∠𝐴C𝐵)+m(∠𝐴B𝐶)=180°,
+   m(∠ 𝐵A𝐶)+90°+55°=180°.
+   Hence   m(∠ 𝐵𝐴𝐶) =35°.                                                         Figure 5.29                                                                  
+In figure 5.30, O is the center of a circle. Find the measure of ∠𝑥and ∠𝑦.   
+                                 
+    
+a.                                     b.                                            c.
+                                                            Figure 5.30
+Example 1
+Exercise 5.5
+                                                                  
+                                                                                           
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+265Cyclic Quadrilateral
+Proof:
+Given: A cyclic quadrilateral WXYZ is inscribed in a circle with center 𝑂as shown in 
+figure 5.31.
+Construction: Join the vertices 𝑊and 𝑌with center 𝑂.
+We want to show :m(∠WXY)+m(∠WZY) = 180°.
+Consider arc WXY and arc WZY
+1.∠WOY ≡ 2∠WZY (The angle subtended by same 
+arc is half of the angle subtended at the center)
+2.Reflex angle WOY≡ 2arcWXY (the angle 
+subtended by same arc is half of the angle 
+subtended at the center)
+3.m(∠WOY)+Reflexm(∠WOY) ≡ 360°(Using steps 1 and 2 )                                                                                                                        
+4.2m(∠WZY)+ 2m(∠WXY) = 360°(Using steps 1 and 2)
+5.2(m(∠WZY)+m(∠WXY) )=360°(Why?)                                                 
+6.m(∠WZY)+m(∠WXY) = 180°      (Why?)                                                
+If the measures of all four angles of a cyclic quadrilateral are given as (4 𝑦+ 2), 
+(𝑦+ 20), (5 𝑦- 2), and 7 𝑦respectively, find the value of 𝑦.
+Definition 5.1
+A quadrilateral is said to be a cyclic quadrilateral if there is a circle passing 
+through all its four vertices.
+Theorem 5.9
+In a cyclic quadrilateral WXYZ in figure 5.31, the sum of either pair of opposite 
+angles is 180°.
+Example 1
+Figure 5. 31  
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+266Solution:
+The sum of all four angles of a cyclic quadrilateral is 360° . So, to find the value of 𝑦, 
+we need to equate the sum of the given four angles to 360°.
+       (4𝑦+ 2) + ( 𝑦+20) + (5 𝑦− 2) + 7 𝑦=360°
+                                                           17𝑦+20=360°
+                                                                          17𝑦=340° . 
+                                                             Therefore,  𝑦=20.     
+1.In figure 5.32, 𝐴𝐵𝐶𝐷 𝑖𝑠a cyclic quadrilateral drawn
+inside a circle with center 𝑂and m(∠ABC) =108°.
+What is the measure of m(∠ADC)?
+2.In the figure 5.33, 𝑂is the center of a circle. Find the 
+measure of ∠𝑥and ∠𝑦.
+3.Find the value of angle 𝑥and angle 𝑦as shown in figure 
+5.34.
+                           
+                          
+Exercise 5.6
+Figure 5. 32  
+Figure 5. 33  
+Figure 5. 34  Figure 5. 35
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2674.Given circle with center  O, as shown in the figure 5.35, 
+a.Name one minor arc in the circle.
+b.Name one major arc in the circle.
+c.Name the angle subtended by arc BD.
+d.Name the inscribed angle subtended by arc BD.
+e.Name an angle in a semicircle.
+ǤTwo angles subtended by chord 𝐴𝐵.                                
+5.Given: Circle with center 𝑂as shown in the Figure 5.36 
+withm(∠DOB) =86°.                                                         
+        Calculate:
+a.m (∠𝐷𝐴𝐵 )                     b.  m (∠𝐴𝑂𝐵 )                                       
+c.m (∠𝐴𝐵𝐷 )                      d.  m (∠𝑂𝐷𝐵 )   
+e. m (∠𝐴𝐸𝐵 )                                           
+6.Let V, W, Xand Yare points on the circumference of a 
+circle with center 𝑂as shown in figure 5.37. Chords VX
+and WYintersect at a point Z, (∠XVW) =72°and
+m(∠VXY) = 280. What is the measure of (∠VZW)?
+7.In each of the following figures, 𝑂is the center of the 
+circle. Calculate the measure of the angles marked 
+𝑥,𝑦,𝑝and 𝑞.
+                                                            
+a.                                                  b.     
+                   Figure 5.38                       
+
+)                                       
+Figure 5. 36
+Figure 5. 37
+                                                      
+       
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2685.3 Arc Lengths, Perimeters and Areas of Segments
+       and Sectors
+Length of Arc and Chord
+Arc length is an important aspect to understand portions of curved lengths. As you 
+will learn in this lesson, combining our knowledge of circumference and central 
+angle measures, we will find arc length.
+For a circle of radius r subtended by an angle 𝜃, the length 𝑠of 
+the corresponding arc is:      
+𝑠= 2𝜋𝑟×𝜃
+3600  or   𝜋𝑑×𝜃
+3600
+where 𝑑is the diameter of a circle (see figure 5.39).   
+                                                                                                               Figure 5.39                                                                                                                                                                                                                                                                                                                 
+Find the arc length that a central angle of 150° subtends in a circle of radius 6 cm as 
+shown in figure 5.40.
+Solution:
+The length 𝑠of the corresponding arc is 
+                  𝑠= 2𝜋𝑟×𝜃
+3600          
+                                       
+1.Discuss circumference and central angle.
+2.Define a sector.
+Activity 5.3
+Definition 5.2
+Arc length is the length of an arc which is a portion of the circumference of a 
+circle.
+Example 1
+150°
+O
+6𝑐𝑚
+Figure 5. 40
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+269  Given:       𝜃=150°,𝑟= 6cm.
+  arc length =𝑠= 2𝜋𝑟×𝜃
+3600= 2𝜋×6×150°
+360°= 5𝜋cm                                                                                                      
+Length of a chord
+Let the midpoint of 𝐴𝐵be 𝑀, and the length of the chord 𝐴𝐵and 𝐴𝑀be 𝑙and  𝑚
+respectively. Using trigonometric ratios on the right-angled triangle OAM,
+𝑚=𝑟sin(𝜃
+2)
+Then,  𝑙= 2𝑚= 2𝑟sin(𝜃
+2)
+In general, the length of a chord is defined as 𝑙= 2𝑟sin(𝜃
+2), 
+where 𝑟is the radius of the circle and 𝜃is the angle 
+subtended at the center by the chord.
+Find the chord length 𝐴𝐵if𝜃=120° when a central angle subtend edin a circle of 
+radius 8 cmas shown in figure 5.43.
+Solution:
+Chord length = 2𝑟sin(θ
+2) = 2×8cm×sin(120°
+2)
+                                              =16cm×sin(60°)                                                      
+                                              =16cm×√3
+2= 8√3cm
+Example 2Figure 5.41
+Figure 5.42
+O
+A
+B
+120°
+8𝑐𝑚
+O
+A
+B
+𝜃
+𝑟
+M
+O
+A
+B
+𝜃
+𝑟
+𝑙
+Figure 5. 43
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+270Perimeter of a segment                   
+A segmen t is part of a circle bounded in between a chord and an arc of a circle.
+                                                                  Figure 5.44
+Inside a circle, there can be a minor segment and a major segment as shown in figure
+5.44. A segment has an area and perimeter that measures all the way around the edge 
+of the segment.
+•When a segment in a circle is bounded by a chord and an arc, the perimeter of 
+a segment is given by:
+Perimeter ofsegment = Length ofchord +Length ofarc
+Find the perimeter of the segment as shown in figure 5.45. (Use π.)
+Solution: 
+Perimeter of segment = 2𝜋×10×160°
+360°+2×10×sin(160°
+2)
+                                   =20𝜋×4
+9+20×sin(80°)
+                                   =80
+9𝜋+20×0.985
+                                   = (80
+9𝜋+19.7)m                                                Figure 5.45
+Example 1
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2711.Name the parts of circles in figure 5.46.
+2.Find the length of arc AB and arc PQR. (Use π.)
+                                             
+a. b.                  
+3.Find the length of chords AB and CD.   
+                                                 
+DC
+O
+Exercise 5.7
+Figure 5. 46
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2724.Find the perimeter of the shaded segment with radius 8cm. (Use 𝜋.)
+Area and Perimeter of Sector                                                                                               
+The sector is basically a portion of a circle enclosed by two 
+radii and an arc. It divides the circle into two regions, namely 
+major and minor Sector
+(see figure 5.47).
+                                                                                                                                                                                                                                                                                                                        
+Area of a Sector
+Consider a circle of radius 𝑟,centre 𝑂, and  
+m(∠ 𝑃𝑂𝑄) = 𝑥=𝜃                                        
+(in degrees) as shown in figure 5.48. The area of a sector is 
+given by:
+               𝐴𝑠𝑒𝑐𝑡𝑜𝑟=𝜋𝑟2(𝜃
+360°)      
+Perimeter of a Sector
+Perimeter ofsector = 2radius + arclength.
+Therefore, the perimeter of sector = 2𝑟+2𝜋𝑟×𝜃
+360°                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+If the angle of the sector with radius 6cmis 210° , then find the area and perimeter of 
+the sector. ( Use 𝜋.)
+Solution:
+Example 1
+Figure 5. 47
+Figure 5. 48
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+273             Given:  𝑟= 6cm,𝜃=210°
+                          𝐴𝑠𝑒𝑐𝑡𝑜𝑟=𝜋𝑟2(𝜃
+360°)
+                                     =𝜋×(6)2×(210°
+360°)
+                                     =𝜋×36×7
+12
+                                     =21𝜋cm2   
+                        𝑃𝑠𝑒𝑐= 2𝑟+2𝜋𝑟×𝜃
+360°
+                               = 2∙6+2 𝜋∙6×210°
+360°
+                              =12+7𝜋
+Thus, the perimeter of the sector is (12+7𝜋)cm.
+Area of a Segment     
+An arc and two radii of a circle form a sector . These 
+two radii and the chord of the segment together form 
+a triangle. Thus, the area of a segment of a circle is 
+obtained by subtracting the area of the triangle from 
+the area of the sector. i.e., Area of a segment of 
+circle = area of the sector −area of the triangle.
+                             𝐴=𝜋𝑟2×𝜃
+360°−1
+2𝑟2sin𝜃
+Find the area of the shaded region as shown in the figure 5.50.
+Solution:
+Area of segment:    𝐴=𝜋𝑟2×𝜃
+360°−1
+2𝑟2sin𝜃                                   
+=𝜋∙42×60°
+360°−1
+2×42×sin60°
+=16∙1
+6𝜋−1
+2∙16∙√3
+2
+=8
+3𝜋−4√3
+Example 2
+𝑂
+6𝑐𝑚
+210°
+𝑂
+𝐵
+𝐴
+𝜃
+Figure 5 .49
+𝑂
+B
+A
+60°
+4𝑐𝑚
+Figure 5 .50
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+274Hence, the area is  (8
+3𝜋−4√3)m2.
+If the area of a sector is 100m2and the area of the enclosed triangle is 78 𝑚2, what is 
+the area of the segment?
+Solution:   
+Area of the segment =area of the sector −area of the triangle
+=100−78
+                              =22
+Therefore, the area of the segment is 22 m2.
+1.Find the area and perimeter of the shaded sectors (use 𝜋).
+                                                       Figure 5.52
+2.Find the area of the segment (use 𝜋).
+a.                                             b.
+Example 3
+Exercise 5.8
+                                                            
+a.                                                                              b.
+𝑂
+B
+A
+45°
+
+4𝑐𝑚
+𝑂
+B
+A
+120°
+6𝑐𝑚Figure 5 .51
+Figure 5. 53
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2755.4 Theorems on Angles and Arcs Determined by
+      Lines Intersecting inside, on and outside a Circle.
+Angles Formed by Chords
+In the circle, as shown in figure 5.54, the two chords PRandQSintersect inside the 
+circle at point T.
+m(∠ 𝑃T𝑄) =1
+2[m(arc 𝑃𝑄)+m(arc 𝑅𝑆)]
+and m(∠ 𝑄T𝑅) =1
+2[m(arc 𝑄𝑅)+m(arc( 𝑃𝑆)]         
+In the circle shown in figure 5.55 ifm(arc 𝑃𝑄) =68°andm(arc 𝑅𝑆) =128°, then find 
+measure of  ∠𝑅T𝑆, where 𝑃𝑅̅̅̅̅and 𝑄𝑆̅̅̅̅intersects at 𝑇. 
+Solution:
+m(∠𝑅𝑇𝑆)=1
+2[m(arc 𝑃𝑄)+  m(arc 𝑅𝑆)]
+                                       =1
+2(68°+128°)
+                 =1
+2×196°=98°
+Therefore, m(∠𝑅𝑇𝑆)=98°
+                                                                                                                           
+                                                                                                      Figure 5. 55                       
+Theorem 5.10
+If two chords intersect inside a circl e, then the measure of an angle formed 
+between the chords is one half the sum of the measure of the arcs intercepted by 
+the angle and its vertical angle.
+Example 1
+Figure 5. 54
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2761.In figure 5.56, if m(arc 𝐴𝐶) =28°and m(𝑎𝑟𝑐𝐵𝐷) =132° , find 𝑥.
+                                                                                              
+                                                      Figure 5.56
+2.Given a circle with center 𝑂, as shown in figure 5.57. If m(arc𝐻𝑇)= m(arc 𝐽𝐻) 
+and m(∠PTH)=580, calculate the measure of the remaining angles 
+∠PRH,∠THS,∠TSH,∠HTS and minor arc 𝐻𝑇, minor arc 𝑇𝑆. 
+                         
+                                                      Figure 5.57
+3.Prove Theorem: The point of intersection separates 
+the chord into 2 segments. The product of the lengths 
+of the segments for one chord is the same as the 
+product for the other chord,  i.e., 𝐴𝑃̅̅̅̅∙𝑃𝐵̅̅̅̅=𝐶𝑃̅̅̅̅∙𝑃𝐷̅̅̅̅
+(see figure 5.58).
+                         
+                                                                                                           Figure 5.58
+Exercise 5.9
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2774.Let’s prove theorem 5.10 following the steps below.
+Step 1. Draw four radii 𝑂𝑃,𝑂𝑄,𝑂𝑅and 𝑂𝑆and chord 𝑄𝑅.
+                                                                                                                  
+                    
+                      
+                                                                                                                 Figure 5.59     
+Step 2.  Show m(∠𝑄𝑅𝑇)=1
+2m(∠ 𝑄𝑂𝑃). Similarly , show
+              m(∠𝑅𝑄𝑇)=1
+2m(∠ 𝑅𝑂𝑆).                                
+                 
+   
+                                                                                                                 Figure 5.60                                    
+Step 3. Show m(∠𝑄𝑇𝑃)= m(∠ 𝑄𝑅𝑇)+m(∠R𝑄𝑇).
+                                         
+                                        
+                                                                                                                    
+                                                                                                                  Figure 5.61
+Step 4. From step 2 and 3, 
+                   show m(∠𝑄𝑇𝑃)= m(∠ 𝑄𝑅𝑇)+m(∠ 𝑅𝑄𝑇)
+                                                                       =1
+2m(∠ 𝑄𝑂𝑃)+1
+2m(∠ 𝑅𝑂𝑆)
+                                                 =1
+2[m(∠ 𝑄𝑂𝑃)+m(∠ 𝑅𝑂𝑆)]
+                                                 =1
+2m(𝑎𝑟𝑐𝑄𝑃+𝑎𝑟𝑐𝑅𝑆)
+                                                                    
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+278Angles Formed by Secants and Tangents
+In figure 5.62, we illustrate this result for the angle formed by the intersection of two 
+secants, 𝐴𝐶̅̅̅̅and 𝐴𝐸̅̅̅̅.
+                                                              Figure 5.62
+The minor arc intercepted by the two secants is 𝐵𝐷and an arc 𝐶𝐸. Hence, by the 
+theorem of angles between intersecting secants,
+𝑥=1
+2[m(arc 𝐶𝐸)−m(arc 𝐵𝐷)]
+In the same way, we illustrate the result for the intersection of two tangents   𝐴𝐵̅̅̅̅  and 
+𝐴𝐶̅̅̅̅as shown in figure 5.63.                                                     
+Hence, 𝑥=1
+2[m(arc 𝐵𝐷𝐶)−m(arc 𝐵𝐶)]            
+                                                 
+                                                                                                              
+                                                           Figure 5.63
+Theorem 5.11
+The measure of the angle formed by two secants, two tangents, or a secant and a 
+tangent that intersect at a point outside a circle is equal to one-half the positive 
+difference of the measures of the intercepted arcs.
+                                                 
+
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+279                    
+In figure 5.64, if m(arc 𝐵𝐷) =43°andm(arc 𝐶𝐸) =107°,then find m(∠CAE).
+Solution:
+    m(∠CAE) =1
+2(m(arc 𝐶𝐸)−m(arc 𝐵𝐷))
+                         =1
+2(107°−43°)
+                        =1
+2(64°)=320                                                       
+Therefore, m(∠CAE) =320
+                                                                                                        Figure 5.64
+1.In figure 5.65,  𝑅𝑆̅̅̅̅and 𝑅𝑇̅̅̅̅are tangent lines 
+to the circle with center O. If  ∠𝑆R𝑇) =40°,
+what is the m(∠ 𝑇𝑈𝑆)?
+2.Theorem: The measure of an angle 
+inscribed in a circle is half of the measure of 
+the arc subtending. Prove it (see figure 5.66). 
+3.Theorem: An angle inscribed in a semi-circle 
+is a right angle (see figure 5.67). The converse 
+of this corollary is that a circular arc in which 
+a right angle is inscribed must be a semi-
+circle, i.e.,
+m(∠A𝐵C) =1
+2m(arcAXC) = 90°.
+Example 1
+Exercise 5.10
+                                              
+Figure 5.65
+Figure 5.66
+Figure 5.67
+
+--- [PAGE BREAK] ---
+
+Unit 5: Circle
+2804.Discuss a tangent line to a circle and point of tangency.  
+5.Prove that if from one external point, two tangents are drawn to a circle then they 
+have equal tangent segments.
+6.Let’s prove theorem 5.11 following the steps below.
+Step 1. Draw four radii 𝑂𝐵,𝑂𝐶,𝑂𝐸and 𝑂𝐷. 
+Make m(∠𝐶𝑂𝐸)=𝑎and  m(∠𝐵𝑂𝐷)=𝑏
+Step 2. Draw two chords BE and DC.
+Then m(∠𝐶𝐵𝐸)=1
+2m(∠ 𝐶𝑂𝐸) =1
+2𝑎. 
+Similarly , m(∠𝐵𝐸𝐷)=1
+2m(∠ 𝐵𝑂𝐷) =1
+2𝑏. 
+Step 3. Take∆𝐴𝐵𝐸 .m(∠𝐵𝐴𝐸)+m(∠BEA) = m(∠ 𝐶𝐵𝐸)
+Step 4. From step 3, show 𝑥+1
+2𝑏=1
+2𝑎.
+Therefore , 
+𝑥=1
+2𝑎−1
+2𝑏=1
+2(𝑎−𝑏). 
+∴m(∠ 𝐶𝐴𝐸)=1
+2[m(∠ 𝐶𝑂𝐸)−m(∠ 𝐵𝑂𝐷)]  
+=1
+2[m(arc 𝐶𝐸)−m(arc 𝐵𝐷)].
+                                                   
+Figure 5. 68
+Figure 5. 69
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+2811.A circle is the locus of points (set of points) in a plane each of which is 
+equidistant from a fixed point in the plane.
+2.A tangent line to a circle meets the circle in one point and is perpendicular to the 
+radius (and diameter) to that point.
+3.The line segment joining the center of a circle to the midpoint of a chord is 
+perpendicular to the chord.
+4.A central angle is an angle formed by two radii with vertex at the center of the 
+circle. 
+5.An inscribed angle is an angle with its vertex on the circle formed by two 
+intersecting chords. 
+6.A figure has a line of symmetry, if it can be folded so that one half of the figure 
+coincides with the other half. A figure that has one line of symmetry is called a 
+symmetrical figure.
+7.A diameter perpendicular to a chord bisects the chord.
+8.The perpendicular bisector of a chord passes through the center of the circle.
+9.In the same circle, equal chords are equidistant from the center.
+10.Line segments that are tangents to a circle from an outside point are equal.
+11.If an inscribed and a central angle intercept the same arc, then the measure of 
+the inscribed angle is half of the measure of the central angle. 
+12.The angle inscribed in a semicircle is a right angle. 
+13.The length 𝑙of an arc that subtends an angle 𝜃at the center of the circle with 
+radius 𝑟is:
+                                𝑙= 2𝜋𝑟×𝜃
+3600    
+14.The length 𝑚of a chord that subtended an angle 𝜃at the center of the circle 
+with radius 𝑟is:   𝑚= 2𝑟sin(𝜃
+2)
+Summary
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+28215.The area 𝐴of a sector with central angle 𝜃and radius 𝑟is given by:
+                               𝐴=𝜋𝑟2×𝜃
+360°
+16.The area 𝐴of a segment associated with a central angle 𝜃and radius 𝑟is given 
+by:
+                              𝐴=𝜋𝑟2×𝜃
+360°−1
+2𝑟2sin𝜃
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+2831.Two chords, 𝑃𝑄̅̅̅̅and 𝑅𝑆̅̅̅̅, of a circle intersect at right angles at a point inside the 
+circle and if m(∠ 𝑄𝑃𝑅) =25°, find m(∠ 𝑃𝑄𝑆).
+2.In figure 5.70, AB and CD are chords of circle O. Line 
+segment of OP is perpendicular to AB and line 
+segment of OQ is perpendicular to CD. If the lengths 
+of line segment of OP and OQ are equal, prove that 
+the lengths of chords of AB and CD are equal.
+                                                                                               Figure 5.70
+3.Find 𝑥and 𝑦from figure 5.71.
+                                                                                                   
+                                                                                                        Figure 5.71
+4.If m(𝑎𝑟𝑐𝑃𝑋𝑄) =168° and the chord and the tangent 
+intersect at the point of tangency as shown in figure 5.72, 
+then find 𝑦.          
+5.If two chords intersect inside the circle as shown in 
+figure 5.73, then find 𝑥.
+Review Exercise
+                                                     
+Figure 5. 73
+Figure 5 .72
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+2846.If 𝐿,𝑀and 𝑁are points on the circumference 
+of a circle with center 𝑂and m(∠𝑀𝑂𝑁)=
+98°,as shown in figure 5.74, then find
+m(∠ 𝑀𝐿𝑁)                                                                                                        
+7.In the figure 5.75, if m ( arc𝐴𝐶) =m (arc 𝐶𝐹), 
+m (arc𝐴𝐵) =46°,  m(∠ 𝐴𝐺𝐹) =58°,
+m(∠ 𝐵𝐶𝐷) =10°and    m ( ∠𝐺𝐶𝐹) =  35°.                                      
+       Calculate:              a.  m(∠ 𝐴𝐵𝐶)            
+                                    b.  m(𝑎𝑟𝑐𝐷𝐺)        
+                                    c.  m(∠ 𝐷𝐻𝐺)  
+                                                                                                
+8.Theorem: Prove that sum of the opposite angles of a cyclic quadrilateral is 
+180° .
+9.Find the area of the segment shown in figure 5.76 if the 
+central angle is 0.6rad and the radius is 10 m.
+                                                                                                   
+Figure 5 .74
+Figure 5 .75
+Figure 5 .76
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+28510.In figure 5.77, 𝐴𝑃̅̅̅̅is tangent to the circle. Prove that ∠𝐴𝐶𝑃≡ ∠ 𝐵𝐴𝑃    
+11.In figure 5.78, what is the measure of arc ADC If 𝑚(∠𝐴𝐵𝐶) =120° ?  
+12.In figure 5.79, 𝐴𝐵𝐶𝐷 is a cyclic parallelogram. Show that it is a rectangle.
+13.In each of the following figures, Ois the center and 𝐴𝐵̅̅̅̅is the diameter of the 
+circle. Calculate the value of 𝑥in each case.
+Figure 5 .77
+Figure 5 .78
+Figure 5.79
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+286Figure 5.80
+14.In figure 5.81, 𝑂is the Centre of a circle, m(∠ 𝐴𝑂𝐵) =80° and 
+m(∠ 𝑃𝑄𝐵) =70°.Find m(∠ 𝑃𝐵𝑂)   
+                    Figure 5.81
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+287SOLID FIGURES
+Unit Outcomes
+Find surface area and volume of pyramids and cones.
+Calculate volume of frustum of pyramids and cones.
+Unit Contents
+6.1Revision of prisms and cylinders 
+6.2Pyramids, cones and spheres
+6.3Frustum of pyramids and cones
+6.4Surface area and volume of composed solids
+6.5Applications
+Summary
+Review Exercise  UNIT
+SOLID FIGURES
+6
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+288
+✓Lateral surface ✓Slant height
+✓Prism ✓Sphere
+✓Pyramid ✓Total surface Area
+✓Frustum ✓Regular pyramid ✓Volume
+✓Cone ✓Cross -section ✓Cylinder
+INTRODUCTION
+Recall that solid figures are three-dimensional objects, meaning they have length, 
+width and height. Because they have three dimensions, they have depth and take up 
+space in our universe. Based on your lower grade lessons, you are familiar with solid 
+figures like cylinders, prisms, pyramids and cones. You have also seen the formulas 
+to find the surface areas and volumes of these solid figures. In this unit, you will 
+learn more about these solid figures. You will study surface areas and volumes of 
+spheres, frustum of pyramids, frustum of cones and composite solids.
+6.1 Revision of Prisms and Cylinders 
+From previous grades you learned about prisms and cylinders. You also studied the 
+formulas for finding their surface areas and volumes. 
+1. Complete the blank space for the triangular prism shown in Figure 6.1.
+      a.  Indicate the bases of the prism.
+      b.  The region ABED is called ___________.
+      c.   ADതതതത, BEതതതതandCFതതതതare called ____________.
+      d.   ________ is the altitude of the prism.
+      
+Activity 6.1
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+289Find the total surface area and the volume of the right 
+triangular prism shown in figure 6.2.
+Solution:                                               
+LSA = 𝑝ℎ =(4+3+5 )×6 =72cm2.
+Since the triangle has sides of lengths 3 cm, 4 cm and 
+5 cm it is a right-angled triangle with legs 3 cm and 4 
+cm and hypotenuse 5 cm.
+Observe also that 32+42= 52.   e.  IfCFതതതതwere perpendicular to the plane of the
+        triangle DEF then the prism 
+        would be called ___________.
+   f.  The perimeter of the region DEF is the sum
+of _________________.
+2. Sketch a right rectangular prism.     
+If LSA denote sthe lateral surface area, BA denotes the base area and TSA 
+denotes the total surface area of a right prism, then
+LSA =  𝑝ℎ, where 𝑝represents the perimeter of the base region and h 
+                               represents the altitude of the prism,
+TSA = LSA+2BA.
+The volume 𝑉of any prism equals the product of its base area BA and altitude ℎ. 
+That is,  V= BA∙h
+Example 1
+Figure 6.2                                                                                                                              Figure 6.1  
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+290Therefore,
+BA = 1
+2𝑎𝑏=1
+2×3×4 = 6cm2,
+TSA = LSA+2BA=84cm2.
+Volume V =BA∙ℎ = 6×6 = 36cm3.  
+                                                                                              
+Find the total surface area and volume of the rectangular prism shown in figure 6.3.
+Solution:
+LSA = 𝑝ℎ =(2×2+2×3 )×4 =40cm2,
+BA = 𝑙𝑤= 3×2 = 6cm2,
+TSA =LSA+2BA=52cm2.
+Volume 𝑉=BA∙ℎ = 6×4 = 24cm3.    
+                                                                                                                       Figure 6.3
+Find the total surface area and volume of the prism shown in figure 6.4.
+                                          Figure 6.4
+Solution:
+The solid in Figure 6.4 is a prism with base as shown by the shaded region in 
+figur e 6.5.Base area is the sum of areas of the rectangle and the trapezium.                                                
+BA = (7×6)+1
+2(7+1)(8)=74,
+Example 2
+Example 3
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+291SinceBDതതതതis the hypotenuse of the right-
+angle triangle ∆BCD, the length of
+BDതതതത=√62+82=10,
+LSA = 𝑝ℎ =(7+14+1+10+6)×6
+=228,
+TSA = LSA + 2BA = 376.                                              
+V = BA∙ℎ=74×6=444.                                                        
+1.Find the total surface area and volume of the following solid figures.
+a.                                                          b.  
+                         
+c. 
+                                                                 
+                                                              Figure 6.6
+2.The base of a right prism is an equilateral triangle with a side of 4 cm and its 
+height is 10 cm. Find its total surface area and volume.
+3.Find the perimeter of the base of a right prism for which the area of the lateral 
+surface is 120 cm2and for which the altitude is 5 cm.
+Exercise 6.1
+Figure 6.5                                                                                                                   
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+2924.Find the total surface area and volume of a cube of edge 𝑠in length.
+Complete the blank space for the circular cylinder shown in Figure 6.7.
+      a.  The region C is called ______________________.
+      b. The regions 𝐴1and 𝐴2are called ___________________.
+      c.  Are the regions 𝐴1and 𝐴2congruent and parallel?
+      d.  The altitude of the cylinder is ________.
+      e.  If 𝐿𝑀തതതതwere perpendicular to the plane of the region 𝐴1then the cylinder
+           would be called ___________.
+                                                    Figure 6.7
+Activity 6.2
+The lateral surface area of a right circular cylinder is the product of the 
+circumference of the base and altitude of the cylinder. That is,
+         LSA = 2𝜋𝑟ℎwhere 𝑟is the radius of th e base and ℎis the altitude of the
+                    cylinder.
+The total surface area is the sum of the areas of the bases and the lateral surface 
+area. That is,
+      TSA =LSA+2BA                                                                           
+      TSA = 2 𝜋𝑟ℎ+2 𝜋𝑟2= 2𝜋𝑟(ℎ+ 𝑟)                                                  
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+293Find the total surface area and volume of a right circular cylinder whose radius is 3 
+cm and whose altitude is 5 cm.
+Solution:                                               
+TSA=LSA+2BA= 2𝜋𝑟(ℎ+𝑟)=(2𝜋×3)(5+3)=48𝜋cm2.
+                V = 𝜋𝑟2ℎ =45𝜋cm3.
+Find the total surface area and volume of the solid figure in figure 6.9.
+Solution:                                               
+The bases are annulus regions with inner radius 1cm and outer radius 4cm. Let the 
+inner radius be 𝑟and the outer radius be R. Then,
+BA = Annulus area =𝜋𝑅2−𝜋𝑟2=𝜋(𝑅2−𝑟2)
+                                 =𝜋(42−12) =15𝜋cm2.
+Outer LSA = 2𝜋𝑅ℎ = 2 𝜋×4×6 = 48𝜋cm2.                                                         
+Inner LSA = 2𝜋𝑟ℎ = 2 𝜋×1×6 = 12𝜋cm2.
+TSA = LSA + 2BA = 60𝜋+30𝜋=90𝜋cm2.
+Volume = BA∙ℎ =15𝜋×6 =90𝜋cm3.                                                    
+The volume Vof a circular cylinder is the product of its base area BA and 
+altitude h. That is,
+V =BA∙h
+     V = 𝜋𝑟2ℎ, where 𝑟is the radius of the base.
+Example 4
+Example 5
+                 Figure 6.8
+Figure 6. 9                                                                                                                   
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+2941.The radius of the base of a right circular cylinder is 4 cm and its altitude is 10 cm. 
+Find the lateral surface area, the total surface area and the volume of the cylinder.
+2.The diameter of the base of a right circular cylinder is 6 cm and its altitude is 8
+cm. Find the lateral surface area, the total surface area and the volume of the 
+cylinder.
+3.A circular hole of radius 5 cm is drilled through the center of a right circular 
+cylinder whose base has radius 7 cm and whose altitude is 8 cm. Find the total 
+surface area and volume of the resulting solid.
+6.2 Pyramids, Cones and Spheres
+In your former grades, you learnt about the solid figures, pyramids and cones. C an 
+you mention their shapes and names? You have learnt that based on the shape of their 
+base; pyramids are classified into different types.
+Exercise 6.2
+1.Give answer for the following questions.
+                                                     Figure 6.10
+Activity 6.3
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+295a.Name the pyramids in Figure 6.10
+b.What is a tetrahedron? 
+c.What is a regular tetrahedron?
+d.If the base of figure 6.10B is a rectangle, then the figure is called 
+_________.    
+e.The region FGHIJ in figure 6.10C is called ___________ of the pyramid.
+f.In Figure 6.10C the region KGH is called _________________.
+g.KGതതതതand KHതതതതare called __________________.
+h.FGതതതതand GHതതതതare called __________________.    
+2.What is altitude of a pyramid?
+3.In Figure 6.10C, if FGHIJ were a circle then the solid would be called
+______________.
+4.Give two examples of solid figures that have the shape of a circular cone.
+5.   What is the shape of the lateral faces of a pyramid?
+6.   If the base of a pyramid is octagon, find the number of its lateral faces.
+7.   If the base of a pyramid is a decagon, find the number of its lateral faces.
+8.   In general , if the base of a pyramid has 𝑛sides, find the number of its lateral 
+      faces.
+Definition 6.1
+A pyramid is a solid figure defined by a polygonal base and a point called an 
+apex (vertex) not on the base. It is formed when each point of the polygonal base 
+is joined with the vertex.
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+296                                                     Figure 6.11
+Figure 6.11 is a pyramid. The quadrilateral ABCD is the base and point V is the a pex 
+(vertex). For all points R on the base region, the collection of all line segments VR 
+form the solid called a pyramid . The perpendicular line segment from the vertex to 
+the plane containing the base is called the height or altitude of a pyramid . In Figure 
+6.11, VEis the height or altitude of the pyramid. If E is the center of the base region, 
+then the pyramid is called right pyramid, that is, when the altitude meets the base at 
+the center. Otherwise, it is called anoblique pyramid . The pyramid infigure 6.11 is 
+oblique.
+A regular pyramid is a pyramid whose base is 
+a regular polygon and whose lateral edges are 
+all equal in length.
+Figure 6.12 is a regular pyramid, because its 
+base is a square and the foot O of the altitude 
+NOതതതതof the pyramid is the center of the base. 
+The altitude NR of △NKL is called slant 
+height of the Pyramid.      
+ Figure 6. 12                                                                                                                  
+ Figure 6.
+ 12
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+297  
+                                       a                                                             b
+Figure 6.13
+A right circular cone is a cone with a foot of its altitude at the center of the base 
+circle. Figure 6.13b is a right circular cone while Figure 6.13a is an oblique cone.
+The line segment from the vertex to a point on the boundary of the base circle is 
+called the slant height of the cone .
+In figure 6.13b, 𝐵𝐶തതതതis the slant height of the cone. The collection of all line segments 
+BC where C is any point on the base circle makes the lateral surface of the cone (See 
+figure 6.13b)
+1.Name the following pyramids.
+Definition 6.2
+A pyramid whose base is a circular region is called a circular cone.
+Exercise 6.3
+Figure 6. 14                                                                                                                 
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+2982.  Figure 6.15 shows a circular cone whose base is a circle.
+a. What is PQ called?
+b. What is PR called?
+c. If PQ =4 cm and RQ=3 cm, find the length of PR.
+         Figure 6.15     
+3.Determine whether each of the following statements is true or false.
+a.All lateral edges of a pyramid are equal in length.
+b.All lateral edges of a regular pyramid are equal in length.
+c.The length of the slant height of a right circular cone is greater than the length 
+of its altitude.
+d.We can take any face of a triangular pyramid as its base.
+e.All faces of a regular pyramid are congruent.
+f.All lateral faces of a regular pyramid are congruent.
+6.2.1 Surface Area of Pyramids and Cones
+The surface area of any given object is the area or region occupied by the surface 
+of the object , whereas volume is the amount of space available in an object. In 
+geometry, there are different shapes and sizes such as sphere, cube, cuboid, cone, 
+cylinder, etc. and each shape has its surface area as well as volume.
+In general, the lateral surface area of a pyramid is the sum of the areas of its lateral 
+faces and its total surface area is the sum of the areas of its lateral surface and its 
+base.
+If LSA denotes lateral surface area, TSA denotes total surface area and BA
+denotes base area then
+                     LSA= sumofareasofthelateralfaces
+                     TSA =LSA+BA
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+299To find the formula for the lateral surface area of a regular pyramid in terms of its 
+base perimeter and its slant height , consider the regular pentagonal pyramid and its 
+net.
+a. Regular pentagonal Pyramid                              b.  Net of Figure a
+                                                       Figure 6.16
+In figure 6.16b, ABCDE is a regular pentagon and it is the base of the pyramid in 
+figure 6.16a. Point O is the center, 𝑎is the apothem, 𝑠is the length of one side, 𝑟is 
+the radius of the base, ΔVED is one lateral face and 𝑙is the slant height. All the five 
+lateral faces are isosceles triangles and are congruent. 
+         area(△VED)=1
+2𝑠𝑙
+         LSA= 5×area(△ VED)
+                 = 5(1
+2𝑠𝑙)  =1
+2(5𝑠)𝑙
+                                   =1
+2𝑝𝑙where 𝑝= 5𝑠is the perimeter of ABCDE.
+Definition 6.3
+A geometry net is a two -dimensional shape that can be folded to form a three -
+dimensional shape or a solid. When the surface of a three-dimensional figure is 
+laid out flat showing each face of the figure, the pattern obtained is called the 
+net of the figure.
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+300We can extend this idea for a regular polygon whose base has nsides and generalize 
+the surface area of a regular pyramid as follows.
+The lateral surface area LSA of a regular pyramid is equal to half the product of its 
+slant height and the perimeter of the base. That is, 
+LSA=1
+2𝑝𝑙,
+where 𝑝=𝑛𝑠denotes the perimeter of the base, and 𝑙denotes the slant height.
+The total surface area TSA of a regular pyramid is given by 
+TSA =BA+LSA=BA+1
+2𝑝𝑙
+A regular square pyramid has a base edge of length 4 cm and slant height 5 cm. 
+a.Sketch the pyramid and its net.
+b.Find its lateral and total surface area.
+Solution:
+a. 
+Figure 6.17
+b.The base has 4 sides therefore, 𝑛= 4and base perimeter
+𝑝=𝑛𝑠= 4×4 = 16.
+            LSA=1
+2𝑝𝑙=1
+2×16×5 =40cm2.
+Example 1
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+301          The base is a square. Therefore BA=𝑠2= 42=16cm2.
+          TSA =LSA+BA=40+16=56cm2.
+A regular square pyramid has a base edge 6 cm and lateral edge 7 cm. Find its lateral 
+and total surface areas.
+Solution: 
+                  
+                               (a)                                                                     (b)
+                      Figure 6.18
+∆NKL in figure 6.18b is one lateral face of the pyramid in Figure 6.18 a.
+The lateral edge NKതതതത= 7 cm, base edge 𝑠=KLതതതത= 6cmand KRതതതത= 3cm. The slant 
+height 𝑙=NRതതതതof the pyramid is the altitude of  ΔNKL.
+SinceΔNRK is a right-angled triangle,
+𝑙2+(𝐾𝑅)2=(𝑁𝐾)2
+𝑙2+32= 72
+𝑙2= 72−32=40
+                                      𝑙= 2√10
+LSA=1
+2𝑝𝑙=1
+2×24×2√10=24√10cm2
+   BA=𝑠2= 62=36cm2
+  TSA =LSA+BA=24√10+36=12(2√10+3) cm2
+Example 2
+Solution: 
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+302A right pyramid with a rectangular base of length 4 cm and width 2 cm has altitude
+3 cm. 
+a.Sketch the pyramid and its net.
+b.Find its lateral and total surface areas. 
+Solution:
+a.
+                                                         Figure 6.19                                                                     
+In figure 6.19, ℎ=VOതതതതis the height (altitude) of the pyramid, ΔVBC, ΔVAD,
+ΔVABandΔVDC are lateral faces, 𝑙1=𝑉𝑄തതതതand 𝑙2=𝑉𝑃തതതതare slant heights and they 
+are altitudes of ΔVBC andΔVAB respectively, and ABCD is the base of the pyramid.
+b.   ℎ=𝑉𝑂തതതത= 3cm, 𝑂𝑄തതതത= 2cm𝑎𝑛𝑑 𝑂𝑃തതതത= 1cm. 
+      𝑙1=VQതതതത  and  (VO)2+(OQ)2=(VQ)2  
+    32+22=𝑙12          
+            𝑙12=13    
+                                      𝑙1=√13                   
+       𝑙2=𝑉𝑃തതതതand (𝑉𝑂)2+(𝑂𝑃)2=(𝑉𝑃)2
+Example 3
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+303                        32+12=𝑙22
+                               𝑙22=10
+                                𝑙2=√10
+𝐵𝐶തതതത=𝐴𝐷തതതത=𝑤= 2cmand  𝐴𝐵തതതത=𝐷𝐶തതതത=𝑙= 4cm, where 𝑤and 𝑙are width and 
+length of the base rectangle ABCD
+area of△VBC=1
+2𝑏𝑙1=1
+2×2×√13=√13
+area of△VAB=1
+2𝑙𝑙2=1
+2×4×√10= 2√10
+△VBC≡△VAD and△VAB≡△VAC
+    LSA= 2×area(△VBC)+2×area(△VAB)
+= 2×√13+2×2√10
+    = 2(√13+2√10) cm2,
+   BA=𝑏×𝑙= 2×4= 8cm2, and
+TSA=LSA+BA= 2(√13+2√10) cm2+8cm2
+                             = 2(√13+2√10+4) cm2.
+1.A regular square pyramid has a base edge of length 6 cm and slant height 8 cm. 
+a.Sketch the pyramid and its net.
+b.Find its lateral and total surface area.
+2.A right pyramid of 3 m height has a square base whose diagonal is 6 m. Find its 
+lateral and total surface areas.
+3.Find the lateral and the total surface areas of the regular hexagonal pyramid of 6
+cm height and a length of 4 cmon one side of the base.
+Exercise 6.4
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+304To find the lateral surface area of a right circular cone, cut a right circular cone 
+(Figure 6.21a) along the slant height 𝑙, open up and flatten it. The resulting surface 
+looks like a sector as shown in Figure 6.21 c.
+             Figure 6.21
+Infigure 6.21c, length of arc(𝐴𝐵)=𝜃
+360(2𝜋𝑙)
+Length of arc(𝐴𝐵)= circumference ofthebasecircle offigure6.21a= 2𝜋𝑟
+                𝜃
+360(2𝜋𝑙)= 2𝜋𝑟
+1.A sector of a circle has radius 𝑟and central angle 𝜃as shown 
+      by Figure 6.20.
+         a.   Find the length of the arc.
+         b.   Find the area of the sector.
+2.    Find the arc length and area of the sector
+if 𝑟= 6cmand 𝜃=300.
+Activity 6.4
+        Figure 6.20
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+305                        𝜃
+360𝑙=𝑟
+LSAoftherightcircularcone = area ofsectorAVB=𝜃
+360𝜋𝑙2=𝜋(𝜃
+360𝑙)𝑙=𝜋𝑟𝑙.
+LSA=𝜋𝑟𝑙=1
+2(2𝜋𝑟)𝑙=1
+2𝑝𝑙, where 𝑝= 2𝜋𝑟is perimeter or circumference of the 
+base circle.
+A right circular cone has a base diameter 8 cm and height 3 cm, see Figure 6.22. Find 
+its LSA and TSA.
+Solution:
+𝑙=√ℎ2+𝑟2=√32+42=√25= 5cm,
+𝐿𝑆𝐴=𝜋𝑟𝑙=𝜋(4)(5)=20𝜋cm2,
+𝐵𝐴=𝜋𝑟2=16𝜋cm2,
+𝑇𝑆𝐴=𝐿𝑆𝐴+𝐵𝐴=36𝜋cm2.                                           Figure 6.22                                                                                            
+1. Find the total surface area of a right circular cone of radius 6 cm and height 12 cm.
+2.The area of the total surface of a right circular cone is 64m2and itsslant height is
+  5 times the radius of the base. Find the radius of the base.
+The lateral surface area of a right circular cone is :
+             LSA=𝜋𝑟𝑙or LSA=1
+2𝑝𝑙, where 𝑝= 2𝜋𝑟
+                 𝑙=√ℎ2+𝑟2, where 𝑙is the slant height, ℎis the height (altitude), 𝑟
+is the base radius and pis perimeter or circumference.
+The total surface area is the sum of the area of the base and the lateral surface 
+area. That is,
+                    TSA = LSA + BA = 𝜋𝑟𝑙+𝜋𝑟2=𝜋𝑟(𝑙+𝑟).
+Example 4
+Exercise 6.5
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3063.  A conical tent is 6 m high and the radius of its base is 8 m. Find
+       a. slant height of the tent.
+       b.  cost required to make the tent, if the cost of 1 m2canvas is Birr 250.
+            Use 𝜋= 3.14
+6.2.2 Horizontal cross-section of pyramids and cones
+Figure 6.23
+In figure 6.23, E is the plane containing the bases of the cone and the pyramid. E’ is 
+the plane parallel to E and intersects the cone and the pyramid along the regions R
+and R′, respectively. The regions Rand R′are called horizontal cross- sections .
+Definition 6.4
+If a pyramid or a cone is cut by a plane parallel to the p lane containing the base, 
+the intersection of the plane and the pyramid (or the cone) is called a horizontal 
+cross-section of the pyramid (or the cone).
+Theorem 6.1
+Every horizontal cross -section of a triangular pyramid is a triangular region 
+similar to the base.
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+307Proof:
+Let the region of △ABC be the base of the pyramid lying in the plane E, ℎbe the 
+altitude of the pyramid and △A′B′C′be the cross section at a distance 𝑘from the 
+vertex. Let Dand D′be the points in which the perpendicular line from Vto Emeets
+Eand E’, respectively.
+To show that △A′B′C′∼△ABC,
+∠D′VA′≡ ∠DVA (Common angles)
+∠VD′A′≡∠VDA (∠VD′A′=∠VDA=900)
+△VA′D′∼△VAD by AA similarity. 
+Thus, corresponding sides are proportional, that is,                     
+             
+                                              Figure 6.24
+(1)     VA′
+VA=VD′
+VD=𝑘
+ℎ
+          Similarly, △VD′B′∼△VDB and hence
+(2)      VB′
+VB=VD′
+VD=𝑘
+ℎ
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+308(3)     ∠A′VB′= ∠AVB (Common angle)
+Hence, from (1), (2) and (3) we have
+△VA′B′∼△VAB by the SASsimilarity.                                
+            Thus, corresponding sides are proportional, that is,
+(4)    A′B′
+AB=VA′
+VA=𝑘
+ℎ
+          By using the same argument that leads to (4), we can also show that
+         𝛥𝑉𝐵′𝐶′∼𝛥𝑉𝐵𝐶 to get (5)
+(5)    B′C′
+BC=𝑘
+ℎ
+         By showing ΔVA′C′∼ ΔVAC we can get (6)
+(6)   A′C′
+AC=𝑘
+ℎ
+    Hence, from (4), (5) and (6) and by the 𝑆𝑆𝑆similarity theorem △A′B′C′∼△ABC.
+Proof:
+Let △ABC be the base, ℎthe altitude of the pyramid and △A′B′C′be the horizontal 
+cross-section at a distance 𝑘from the vertex (see Figure 6.24).
+                                                     Figure 6.25        
+Theorem 6.2
+Let ℎbe the altitude of a triangular pyramid and let 𝑘be the distance from the 
+vertex to a horizontal cross -section. Then the ratio of the area of the cross section 
+to the area of the base is𝑘2
+ℎ2.
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+309By theorem 6.1, △ABC∼△A′B′C′
+Note that the ratio between the altitudes of two similar triangles is the same as the 
+ratio of their sides. So,
+                        𝑏′
+𝑏=𝑎′
+𝑎  --- (1)
+where 𝑎′and 𝑎are altitudes and  𝑏and 𝑏′are bases in Figure 6.25.
+On the other hand, in Figure 6.24, 
+                         𝐁′𝐂′
+𝐁𝐂(=𝑏′
+𝑏) =VC′
+VC=VD′
+VD=𝑘
+ℎ---(2)
+Hence,
+                    areaof△A′B′C′
+areaof△ABC=1
+2(𝑏′𝑎′)
+1
+2(𝑏𝑎)=𝑏′
+𝑏×𝑎′
+𝑎=𝑏′2
+𝑏2 (According to (1))
+                                                                         =𝑘2
+ℎ2     (According to (2))       
+Thus, area ofcross−section
+areaofbase=𝑘2
+ℎ2.
+The area of the base of a triangular pyramid is 270 cm2. The altitude of the pyramid 
+is 6 cm. Find the area of the horizontal cross-section of the pyramid 4 cmfrom the 
+vertex.
+Solution:
+ℎ = 6 𝑐𝑚,𝑘= 4 𝑐𝑚andbasearea ofthepyramid = 270cm2
+areaofcrosssection
+basearea=𝑘2
+ℎ2
+areaofcrosssection
+270=42
+62=(2
+3)2
+=4
+9
+Areaofthecrosssection = 270×4
+9=120cm2.
+Example 1
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3101.In the triangular pyramid shown in Figure 6.26 , ∆A′B′C′ is a horizontal cross-
+section. Find the values of 𝑥and 𝑘
+ℎ.
+2.The area of the base of a triangular pyramid is 
+100cm2. The altitude of the pyramid is 5 cm. 
+Find the area of the horizontal cross-section 
+of the pyramid 2 cmfrom the vertex.
+                                       Figure 6.26
+Figure 6.27
+Exercise 6.6
+Theorem 6.3
+In any pyramid the ratio of a cross-section to the area of the base is 𝑘2
+ℎ2where ℎis 
+the altitude of the pyramid and 𝑘is the distance from the vertex to the plane of 
+the cross section.
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+311The altitude of a square pyramid is 10 cm and a side of the base is 5 cm long. Find 
+the area of the horizontal cross section of the pyramid 3 cm from the vertex.
+Solution:
+The base is a square of side  𝑠= 5 𝑐𝑚, its 
+area is 𝐴=𝑠2=25cm2, 
+areaofcrosssection
+basearea=𝑘2
+ℎ2
+areaofcrosssection
+25=32
+102
+                    areaofthecrosssection =9
+4cm2    
+                                                                                       Figure 6.28
+The area of the cross-section of a pyramid at a distance 5 cm from the base is 
+36cm2. If the area of the base of the pyramid is 81 cm2, find the altitude of the 
+pyramid.
+Solution:
+cross−section area
+base area=𝑘2
+ℎ2=𝑘2
+(5+𝑘)2and from this we have,   
+36
+81=𝑘2
+(5+𝑘)2, where 𝑘is the distance from the vertex of the pyramid to the cross 
+section,
+6
+9=𝑘
+5+𝑘and solving for 𝑘gives 𝑘= 10 cm.
+Therefore, the altitude of the pyramid is 5cm+10cm=15cm.
+Example 2
+Example 3
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+312Proof :
+Let the two pyramids in figure 6.27 have the same base area 𝐴and the same altitude 
+ℎ. Let A′andA′′be the area of the cross sections A′B′C′D′andA′B′C′D′E′,
+respectively.  Let the distance from the vertices to the cross-sections be 𝑘. 
+By Theorem 6.3, A′
+A=k2
+h2=A′′
+A
+                          A′
+A=A′′
+A  
+                           A′=A′′
+1.The base of a pyramid is a rectangle with sides 6 cm and 4 cm. If the altitude of 
+the pyramid is 12 cm, find the area of the horizontal cross-section of the pyramid 
+4 cm from the vertex.
+2.The area of the horizontal cross-section of a pyramid at a distance 6 cm from the 
+base is 90 cm2. If the area of the base of the pyramid is 160 cm2, find its altitude.
+3.The radius of a horizontal cross-section of a cone at a distance 6 cm from the base 
+is 2 cm. If the radius of the base of the cone is 3 cm, find its altitude.
+4.The altitude of a regular hexagonal pyramid is 9 cm and the side of the base is 3
+cm. What is the area of a horizontal cross-section at a distance of 5 cm from the 
+base?
+5.Prove Theorem 6.3
+Theorem 6.4
+If two pyramids have the same base area and the same altitude then cross-
+sections equidistant from the vertices have the same area.
+Exercise 6.7
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3136.2.3 Volume of Pyramids and Cones
+Figure 6.29
+Proof:
+By theorem 6.4, the two pyramids have equal cross-sectional area at every level 
+parallel to the respective bases, then by the Cavalieri’s Principle they have equal 
+volume.
+CAVALIERI’S PRINCIPLE :If two solids of equal height have equal 
+cross-sectional areas at every level parallel to the respective bases, then the two 
+solids have equal volume.
+Theorem 6.5
+If two pyramids have equal altitudes and equal base areas, then their volumes are 
+equal.
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+314You know that the volume of a triangular prism is the product of its height and base 
+area.
+                           
+                                                        Figure 6.31
+Figure 6.31b is a triangular prism. Let the height of the prism be ℎ. Its volume is 
+given by
+                                                    V =(BA)ℎ
+where, BA is the base area, that is the area of ΔABC.
+Let the triangular pyramid in figure 6.31a have the same base area and height as the
+prism.
+We will show that the triangular prism is the union of three triangular pyramids, each
+Theorem 6.6
+The volume of a triangular pyramid is one -third of the product of the height and 
+the base area, that is, V =1
+3ℎB.
+       Figure 6.30
+                                                     
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+315having the same volume as the triangular pyramid in figure 6.31a. For this, we divide 
+the triangular prism into three triangular pyramids as shown in figure 6.32.
+Figure 6.32
+Consider triangular pyramids ADEF and ACEF with base ADF and ACF,
+respectively. 
+     (1)  AF is the diagonal of the parallelogram ADFC,  △ADF≡△ACF.
+     (2)  The pyramids have the same base area by (1).
+     (3)  The pyramids have the same common vertex E.
+     (4)  They have the same altitude. The altitude is the perpendicular distance from E
+           to the parallelogram ADFC .
+            Hence by Theorem 6.5 they have the same volume. That is,
+     (5) Volume of the triangular pyramid ADEF = volume of triangular pyramid
+           ACEF.
+Consider the triangular pyramids ABCE and ACEF with base BCE and CFE 
+respectively. 
+     (6)   CE is the diagonal of the parallelogram BCFE, ΔBCE≡△FCE.
+     (7)   The triangles have the same base area by (6).
+     (8)   The pyramids have the same common vertex A. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+316     (9)   They have the same altitude. The altitude is the perpendicular distance from
+            A to the parallelogram BCFE.
+             Hence by Theorem 6.5 they have the same volume. That is,
+     (10) Volume of the triangular pyramid ABCE = Volume of the triangular pyramid
+             ACEF. 
+     (11) Volume of ABCE = Volume of ACEF = Volume of ADEF by (5) and (10).
+Thus, all the three pyramids have the same volume. Since the volume of the prism is, 
+(BA)ℎ, the volume of each of the pyramid becomes 1
+3(BA)ℎ.
+Therefore, the volume of the pyramid in figure 6.31a. is 1
+3(BA)ℎand this proves 
+Theorem 6.6.
+Proof :
+Consider any pyramid with base area Band altitude h. Since the base is a polygonal 
+region, it can be subdivided into a finite number of triangular regions with areas 
+Theorem 6.7
+The volume of a pyramid is one third of the product of its altitude and its base 
+area.
+                                                        Figure 6.33
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+317𝑏1,𝑏2,. . ., 𝑏𝑛. Hence the volume of the given pyramid is the sum of the volumes of 
+triangular pyramids which have the same altitude ℎ.
+Hence the volume is, `       
+V = 1
+3𝑏1ℎ+1
+3𝑏2ℎ+...+1
+3𝑏𝑛ℎ
+    = 1
+3(𝑏1+𝑏2+...+ 𝑏𝑛)ℎ =1
+3(BA)ℎ
+A regular square pyramid has a base edge of length 4 cm and altitude 7 cm. Find its 
+volume.
+Solution:
+The base of the pyramid is a square 
+with base edge of length 4 cm. 
+BA = 4×4=16cm2
+V =1
+3(BA)ℎ =1
+3×16×7
+=112
+3cm3.
+                                                                    
+        Figure 6.34
+A circular cone has a base radius 5 cm and altitude 6 cm. What is its volume?
+Theorem 6.8
+The volume V of a circular cone with altitude ℎand base radius 𝑟is,
+                                                      V =1
+3𝜋𝑟2ℎ.
+Example 1
+Example 2
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+318Solution:
+V =1
+3𝜋𝑟2ℎ
+    =1
+3𝜋(52)(6)
+               =50𝜋cm3                                                      
+                                                                                                                                                                                                                       
+Figure 6.35
+1.The altitude of a regular square pyramid is 6 cm. If one edge of the base has 
+length 4 cm then find its volume. 
+2.A circular cone has analtitude 12 cm and a base radius 10 cm. What is its 
+volume?
+3.A right circular cone has height 10 cmand circumference of the base is 12𝜋cm.
+Find its volume.
+4.The lateral edge of a regular tetrahedron is 6 cm. Find its total surface area and its 
+volume.
+5.A right circular conical vessel of altitude 20 cm and base radius 10 cm is kept 
+with its vertex downwards. If one liter of water is poured into it, how high above 
+the vertex will the level of the water be? Use 𝜋= 3.14
+6.2.4 Surface Area and Volume of Sphere
+Exercise 6.8
+Definition 6.5
+A sphere is a solid bounded by a closed surface every point of which is 
+equidistant from a fixed point called the center.  
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+319Radius of a sphere is a line segment connecting its center with any point on the 
+sphere.
+Diameter of the sphere is a line segment from the surface of the sphere passing 
+through the center and ending at the surface. 
+In Figure 6.36, O is the center, OP is the radius and AB is the diameter of the sphere. 
+Moreover, OA and OB are also the radius of the sphere.
+                                                            Figure 6.37
+Great and Small Circles
+Every cross-section made by a plane passed through a sphere is a circle.
+If the plane passes through the center of a sphere, the cross-section formed is a great 
+circle ; otherwise, the cross-section is a small circle .  Clearly any plane through the 
+center of the sphere contains a diameter. Hence all great circles of a sphere are equal 
+and have for their common center, the center of the sphere and have for their radius, 
+Figure 6.36
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+320the radius of the sphere. In Figure 6.37, C′is a small circle and Cis a great circle of 
+the sphere.
+Hemisphere
+A great circle bisects the surface of a sphere. One of the two equal parts into which 
+the sphere is divided by a great circle is called a hemisphere . Figure 6.38 is a 
+hemisphere.
+                                    
+Figure 6.38
+1.The radius of a sphere is 10 cm. Find its surface area and volume.
+2.The diameter of an iron ball is 6 cm. Find its surface area and volume                     
+(use π = 3.14).
+3.Find the formula for the surface area and volume of a sphere in terms of its 
+diameter 𝑑.
+1.Give examples of objects from your surroundings that have spherical shapes.
+2.Give two examples of hemispheres.
+Activity 6.5
+If 𝑟is the radius , SA surface area and V volume of a sphere, then 
+SA= 4𝜋𝑟2,
+V= 4
+3𝜋𝑟3.
+Exercise 6.9
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3216.3 Frustum of Pyramids and Cones
+When a pyramid is cut by a plane parallel to the base, the part of the pyramid 
+between the vertex and the cross-section is again a pyramid whereas the other part is 
+not a pyramid. 
+1.What is a trapezium?
+2.Find the area of a trapezium whose parallel sides are 10 cm and 14 cm and the 
+distance between them is 8 cm.
+3.The area of a trapezium is 150cm2and the distance between its parallel sides 
+is 16 cm. If one of the parallel sides is 8 cm, 
+find the other. 
+4.In Figure 6.39, sector of two concentric 
+circles of radii 9 cm and 11 cm are shown. 
+Find the area of the shaded region in terms of 𝜋.
+                
+Activity 6.6
+Definition 6.6
+A frustum of a pyramid is part of the pyramid between the base and the vertex 
+formed when the original pyramid is cut off by a plane parallel to the plane of 
+the base. That is, the frustum of a pyramid is part of the pyramid between the 
+base and a cross -section of the pyramid.          Figure 6.39
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+322                                                        Figure 6.40        
+Figure 6.40c is the frustum of a pyramid. The base of the pyramid and the cross-
+section are called the bases of the frustum. The other faces are called lateral faces. 
+The lateral surface of the frustum is the sum of the lateral faces. The total surface is 
+the sum of the lateral surface and the bases.
+The altitude of a frustum of a pyramid is the perpendicular distance between the 
+bases.
+       Observations:
+1.The lateral faces of a frustum of a pyramid are trapezium.
+2.The lateral faces of a frustum of a regular pyramid are congruent isosceles 
+trapeziums.
+3.The slant height of a frustum of a regular pyramid is the altitude of any one of the 
+lateral faces.
+4.The lateral surface area of a frustum of a pyramid is the sum of the areas of the 
+lateral faces.
+The slant height of a frustum of a right circular cone is the part of the slant height of 
+the cone which is included between the bases.
+Definition 6.7
+A frustum of a cone is a part of the cone between the base and the vertex formed 
+when the original cone is cut off by a plane parallel to the plane of the base.
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+323                 
+                                               Figure 6.41
+The lower base of the frustum of a regular pyramid is a square of side of length 𝑠  
+unit and the upper base has a side of length 𝑠′unit. If the slant height is 𝑙unit long 
+then find,
+a.the lateral surface area of the frustum.
+b.the total surface area of the frustum.
+c.Find the values of the lateral surface area and 
+the total surface area, when 𝑠= 5cm,  
+𝑠′= 3cmand 𝑙= 4cm.             
+Solution:
+The four faces are congruent isosceles trapeziums.
+a.LSA =area(A′ABB′)+area(B′BCC′)+area(C′CDD′)+area(D′DAA′)
+                     = 4×1
+2𝑙(𝑠+𝑠′)
+                     =1
+2𝑙(4𝑠+4𝑠′)  ( Note here that 4𝑠𝑎𝑛𝑑4𝑠′are the perimeters of the 
+                                                  lower and the upper bases, respectively)
+Give at least two examples of objects from your surroundings that have the shape 
+of frustum of a right circular cone.
+Activity 6.7
+Example 1
+Figure 6.42
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+324                     = 2𝑙(𝑠+𝑠′).
+b.TSA = LSA + BA= 2𝑙(𝑠+𝑠′)+𝑠2+𝑠′2.
+c.LSA= 2(4)(5+3)=64cm2,and
+     TSA =64+(52+32)=98cm2.
+The lower base of the frustum of a regular pyramid is an 
+equilateral triangle of side of length 8 cm and the upper base has a 
+side of length 4 cm. If the slant height is 5 cm, then find
+a.the lateral surface area of the frustum
+b.the total surface area of the frustum
+                                                                                                             Figure 6.43
+The lateral surface area (LSA) of a frustum of a regular pyramid is equal to half 
+the product of the slant height 𝑙and the sum of the perimeter 𝑝of the lower base 
+and perimeter 𝑝′of the upper base. That is, LSA=1
+2𝑙(𝑝+𝑝′).
+Exercise 6.10
+Consider figure 6.44 and find  
+a.LSA of the bigger cone.
+b.LSA of the smaller cone.
+c.LSA of the frustum.
+d.The volume of the bigger cone.
+e.The volume of the smaller cone. 
+f.The volume of the frustum.
+Activity 6.8
+        Figure 6.44
+The lower base of the frustum of a regular pyramid is an 
+cm and the upper base has a 
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+325From a right circular cone of altitude 8 cm and 
+base radius 6 cm a frustum of height 4 cm is 
+formed. What is the lateral surface area of the 
+frustum?
+                                                          
+Figure 6.45
+Solution: 
+In Figure 6.45, let CA denote the cross- section area ,𝑘and ℎare altitudes of the 
+smaller cone and the bigger cone, respectively. Assume also that 𝑙′and 𝑙are slant 
+heights of the smaller and the bigger cones, respectively. Then,
+areaofthecross−section
+basearea=CA
+BA=(𝑘
+ℎ)2
+,  𝑘= ℎ−4 = 4 cm
+𝐶𝐴
+36𝜋=1
+4, since BA = 𝜋𝑟2=36𝜋
+CA=36𝜋
+4= 9𝜋cm2...(∗)
+CA=𝜋(𝑟′)2, where 𝑟′is the radius of the cross section
+9𝜋=𝜋(𝑟′)2, using CA= 9𝜋from (*)
+𝑟′= 3cm
+𝑙=√𝑟2+ℎ2=√62+82=10cmand
+𝑙′=√𝑟′2+𝑘2=√32+42= 5cm
+LSA of the smaller cone = 𝜋𝑟′𝑙′= 3×5× 𝜋=15𝜋cm2.
+LSA of the bigger cone = 𝜋𝑟𝑙= 6×10×𝜋=60𝜋cm2.
+Hence, lateral surface area of the frustum 
+                                       = (LSA of the bigger cone) - (LSA the smaller cone)
+               = 60𝜋cm2−15𝜋cm2=45𝜋cm2.
+Example 2
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+326For the right circular cone in Figure 6.46,
+a. Find the height of the smaller cone.
+b. Find the Lateral Surface Area (LSA) of the frustum using
+   LSA = (LSA of the larger cone) 
+                – (LSA of the smaller cone).
+Figure 6.46
+To find the formula for the lateral surface area of a frustum of a right circular cone, in 
+terms of its base radii 𝑟and 𝑟′and its slant height 𝑙, let us consider a right circular 
+cone and its net as shown by Figure 6.47.
+      Figure 6.47
+From Figure 6.47 a, as△VO′A ∼△VOB we have
+𝑙′
+𝐿=𝑟′
+𝑟. . .(1)
+𝑙′=𝐿−𝑙. . .(2)
+Substituting the value of 𝑙′of (2) to the value of 𝑙′in (1) and solving for L gives,
+Exercise 6.11
+using
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+327𝐿=𝑙(𝑟
+𝑟−𝑟′) . . .(3)
+Frustum area = (area of the bigger cone) - (area of the smaller cone)
+          = 𝜋𝑟𝐿−𝜋𝑟′𝑙′. . .(4)
+        = 𝜋𝑟𝐿−𝜋𝑟′(𝐿−𝑙)(Substituting the values of 𝑙′from equation (2) to 
+                                                         equation (4))
+        =𝜋(𝑟−𝑟′)𝐿+𝜋𝑟′𝑙. . .(5)
+         = 𝜋(𝑟−𝑟′)𝑙(𝑟
+𝑟−𝑟′) + 𝜋𝑟′𝑙=𝜋𝑟𝑙+𝜋𝑟′𝑙  (Substituting the values of 𝐿
+                                                                                 from equation (3) to equation (5) )                                                          
+                      =𝜋𝑙(𝑟+𝑟′).
+Find the lateral and total surface area of the frustum of a right circular cone of height
+24 cm, base radius 22 cm, and slant height 26 cm. Use 𝜋= 3.14.
+Solution:
+Let the larger base radius of the frustum be 𝑟=22cmand assume that its small 
+radius is 𝑟′.
+The height of the frustum of the cone is ℎ=24cmand its slant height is 𝑙=26cm.
+Also consider Figure 6.48,
+𝑟=OBതതതത,ℎ =POതതതത=ARതതതത,𝑟′=PAതതതത𝑎𝑛𝑑 𝑙=ABതതതത. 
+OPAR is a rectangle and PAതതതത=ORതതതത=𝑟′.
+∆ARB is right-angled triangle and ABതതതത2=ARതതതത2+RBതതതത2                                      
+                                                          ABതതതത2=ARതതതത2+(𝑂𝐵തതതത−𝑂𝑅തതതത)2                          
+For a frustum of a right circular cone with slant height 𝑙, if the radii of the bases 
+are 𝑟and 𝑟′, then the lateral surface area of the frustum is given by
+LSA=𝑙𝜋(𝑟+𝑟′).
+Example 3
+                                      
+ത
+ത
+ത
+ത
+ത
+ത
+ത
+ത
+ത
+ 2
+Figure 6.48
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+328𝑙2=ℎ2+(𝑟−𝑟′)2
+262=242+(22−𝑟′)2, solving for r’from this equation 𝑟′=12cm.
+LSA=𝑙𝜋(𝑟+𝑟′)=26𝜋(22+12)=884 𝜋cm2.
+BA= thearea ofthetwobases =𝜋(𝑟2+𝑟′2)=𝜋(222+122)=628 𝜋cm2.
+TSA = LSA + BA = 884 𝜋+628 𝜋=1512 𝜋cm2
+                                                          =1512×3.14=4747.68cm2
+1.Find the lateral and total surface area of the frustum of a right circular cone of 
+height 9 cmand base radii 4 cm and 1 cm.
+2.A right circular cone is cut by a plane parallel to the base at a distance 9 cm from 
+the vertex to form a frustum of a cone. If the radii of the bases of the frustum 
+formed are 3 cm and 5 cm, then find the altitude and the lateral surface area of the 
+frustum.
+To find the volume formula for a frustum of a right circular 
+cone in terms of its base radius 𝑟and 𝑟′andits height ℎ,
+consider Figure 6.49.
+H= ℎ+ℎ′...(1)
+ℎ′
+H=𝑟′
+𝑟...(2)
+Substituting the value of H in (1) to the value of H in (2)                                                                                 
+ℎ′
+ℎ+ℎ′=𝑟′
+𝑟...(3)
+Solving for ℎ′
+ℎ′=ℎ𝑟′
+𝑟−𝑟′...(4)
+Volume of the frustum = (volume of the bigger cone) - (volume of the smaller cone)
+= 1
+3𝜋𝑟2H−1
+3𝜋𝑟′2ℎ′= 1
+3𝜋𝑟2(ℎ+ℎ′)−1
+3𝜋𝑟′2ℎ′
+Exercise 6.12
+Figure 6.49
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+329=  1
+3𝜋𝑟2ℎ+1
+3𝜋𝑟2ℎ′−1
+3𝜋𝑟′2ℎ′
+=  1
+3𝜋(r2ℎ+(𝑟2−𝑟′2)ℎ′)
+=1
+3𝜋(𝑟2ℎ+(𝑟2−𝑟′2)ℎ𝑟′
+𝑟−𝑟′)     by (4)
+                                   = 1
+3𝜋(𝑟2ℎ+(𝑟+𝑟′)(𝑟−𝑟′)ℎ𝑟′
+𝑟−𝑟′)
+=1
+3𝜋(𝑟2ℎ+(𝑟+𝑟′)ℎ𝑟′)
+= 1
+3𝜋ℎ(𝑟2+𝑟′2+𝑟𝑟′)
+Find the volume of the frustum of a cone whose top and bottom diameters are 6 m 
+and 10 m and the height is 12 m. (Use 𝜋=3.14)
+Solution:
+Since the diameter of the upper base is 6 m the radius of the upper base becomes 3 m 
+and since the diameter of the lower base is 10 m, its radius becomes 5 m. The height 
+is 12 m, so
+Volume =1
+3𝜋ℎ(𝑟2+𝑟′2+𝑟𝑟′)
+               =1
+3𝜋(12)(32+52+(3)(5))
+   =196 𝜋=196×3.14=615.44m3.
+                                                                            Figure 6.50
+The volume of a frustum of a right circular cone is
+V = 1
+3𝜋ℎ(𝑟2+𝑟′2+𝑟𝑟′),
+where 𝑟is the radius of the bigger circle, 𝑟′is the radius of the smaller circle and 
+his the altitude of the frustum.
+Example 4
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3301.Given the same right circular cone as in Figure 6. 46above,
+a.Calculate the volume of the larger cone.
+b.Calculate the volume of the smaller cone.
+c.Find the volume of the frustum by 
+V = (volume of the larger cone) – (volume of 
+the smaller cone).
+d.Find the volume by using the formula, 
+V = 1
+3𝜋ℎ(𝑟2+𝑟′2+𝑟𝑟′)andcompare the results.
+2.   A right circular cone of altitude 16 m is cut by a plane parallel to the base 4 m 
+      from the vertex to form a frustum of the cone. If the radius of the base of the right
+     circular cone is 12 m, then find 
+a.the radius of the other base of the frustum.
+b.the volume of the frustum?
+The volume formula, V =  1
+3𝜋ℎ(𝑟2+𝑟′2+𝑟𝑟′), can be rewritten as
+  =1
+3ℎ(𝜋𝑟2+𝜋𝑟′2+√(𝜋𝑟2)(𝜋𝑟′2))
+  =1
+3ℎ(A+A′+√AA′)
+where Aand A′are base areas and his the altitude of the frustum. 
+Exercise 6.13
+The volume of a frustum of a right circular cone is
+V  =1
+3ℎ(A+A′+√AA′),
+where A and A′are base areas and his the altitude of the cone.
+The volume of a frustum of a pyramid is also, V  =1
+3ℎ(A+A′+√AA′), where
+Aand A′are   base areas and ℎis the altitude of the frustum.
+(Fig. 6.46 reproduced)
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3311.A right circular cone of altitude 9 cm is cut by a plane parallel to the base 7 cm 
+from the vertex. If the area of the base of the frustum formed are 81cm2and 
+49cm2then find the volume of the frustum.
+2.The lower base of a frustum of a regular pyramid is a square of side of length 6
+cm, and the upper base has side length 4 cm. If the slant height is 8 cm, find
+a. its lateral surface area      b.  its total surface area         c. its volume
+3.What is the lateral area of a regular pyramid whose base is a square 12 cm on a 
+side and whose slant height is 10 cm? If a plane is passed parallel to the base and 
+4 cm from the vertex, what is the lateral surface area and volume of the frustum?
+4.A frustum of a regular square pyramid has a height of 2 cm. The lateral faces of 
+the pyramid are equilateral triangles of side 3√2cm. Find the volume of the 
+frustum.
+5.A cone 12 cm high is cut 8 cm from the vertex to form a frustum with a volume 
+of 156cm3. Find the radius of the bases of the cone.
+6.Show that the volume of a frustum of a pyramid is V  =1
+3ℎ(A+A′+√AA′), 
+where Aand A′are base areas and ℎis the altitude of the frustum.
+6.4 Surface Area and Volume of Composed Solids
+A composed solid is a solid that is made up of two or more solids. In order to find the 
+volume and surface area of a compos edsolid, one needs to identify the different parts 
+it is made of. This decomposition allows working out the volume and surface area of 
+each part independently. The volume of the composed solid is simply the sum of the 
+volumes of its parts.
+To find the surface area and volume of a composed solid, you need to know how to 
+find the surface area and volume of prisms, pyramids, cones, cylinders, and spheres. 
+Exercise 6.14
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+332In the preceding sections you learnt how to calculate the surface area and volumes of 
+these solids. 
+Find the total surface area and volume of the flask shown in figure 6.51.
+Solution:
+The total surface area of the flask is the lateral surface area of 
+the frustum of the cone, lower base area of the frustum of the 
+cone and lateral surface area of the cylinder. 
+Slant height 𝑙of the frustum of the cone is:
+                  𝑙=√42+162=√272= 4√17cm,
+Lateral surface area of the frustum = 𝑙𝜋(𝑟+𝑟′)
+                                                        =48√17𝜋cm2,
+Lower base area of the frustum = 𝜋𝑟2=64𝜋cm2,
+Lateral surface area of the cylinder = 2𝜋𝑟ℎ=112 𝜋cm2.
+Total surface area = 48√17𝜋cm2+64𝜋cm2+112 𝜋cm2=16𝜋(3√17+11) cm2.
+Total volume of the flask = Volume of the frustum of the cone + volume of the 
+cylinder
+     = 𝜋
+3ℎ′(𝑟2+𝑟′2+𝑟𝑟′)+𝜋𝑟2ℎ
+     =16𝜋
+3(82+42+8(4))+𝜋82(14)
+     =1792
+3𝜋+896 𝜋=4480
+3𝜋cm3.
+A solid figure is made of a circular cylinder of radius 4 cm at bottom and a right 
+circular cone of altitude 3 cm, as shown in Figure 6.52. If the overall height is 10 cm, 
+find the total surface area and the volume of the solid.
+Solution:
+Example 1
+Example 2
+Figure 6.51
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+333Figure 6.52 is a composed solid because it is made up of two solids, a cone and a 
+cylinder. The total surface area of the solid is the sum of the area of three surfaces. 
+These are the lateral surface of the cone, the lateral surface of the cylinder and the 
+lower base of the cylinder.
+Slant height 𝑙of the cone
+𝑙=√ℎ2+𝑟2=√42+32= 5cm,
+LSA of the cone = 𝜋𝑟𝑙= 4×5×𝜋=20𝜋cm2,                                             
+Height of the cylinder is 7cm,
+LSA of the cylinder = 2𝜋𝑟ℎ= 2𝜋×4×7=56𝜋cm2,                   
+Lower base area of the cylinder = 𝜋𝑟2=16𝜋cm2,
+Total surface area of the solid = 20𝜋+56𝜋+16𝜋=92𝜋cm2.                       
+Total volume of the solid = Volume of the cylinder + Volume of the cone
+     = 𝜋𝑟2ℎ+1
+3𝜋𝑟2ℎ=𝜋(42)(7)+1
+3𝜋(42)(3)=128 𝜋cm3.
+1.Find the total surface area and volume of the following.
+                                                          Figure 6.53
+Exercise 6.15
+,                                             
+                   
+Figure 6.52
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3342.Hawi bought a new pencil like the one shown in Figure 
+6.54 on the right. She used the pencil every day in her 
+mathematics class for a week, and now her pencil looks 
+like the one shown on the right. How much of the pencil, 
+in terms of volume did she use?
+                                                                  
+                                          
+                                                                                                                     
+Figure 6.54
+A right circular cylinder whose base radius is 10 cmand whose height is 12 cm is 
+drilled a triangular prism hole whose base has edge 3 cm, 4 cm and 5 cm as shown in 
+Figure 6.55. Find the total surface area and volume of the remaining solid. 
+Use 𝜋= 3.14.
+Solution:
+The base of the drilled triangular prism is a right-angled
+triangle. Why? The total surface area is the sum of the lateral 
+surface areas of the cylinder and prism, and the base area of 
+the cylinder minus the base area of the prism.
+TSA= 2𝜋𝑟ℎ+𝑝ℎ+2𝜋𝑟2−2(1
+2𝑎𝑏), where 𝑟is the radius 
+and ℎthe height of the cylinder, 𝑝perimeter of the triangle, 𝑎
+and 𝑏are legs of the triangle.
+TSA = 2𝜋(10)(12)+(3+4+5)(12)+2𝜋(10)2−2(1
+2×3×4) ,                                          
+        =(440𝜋+132)cm2= ((440×3.14)+132)cm2,
+Example 3
+             
+                                                                                                         
+Figure 6.55
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+335        =1513.6cm2.
+The volume of t he resulting solid = (volume of the cylinder) - (volume of the prism)
+                  = 𝜋𝑟2ℎ−1
+2𝑎𝑏h
+      = 1200 𝜋−72= (1200×3.14)−72= 3696cm3.   
+1.A cone is contained in a cylinder as shown in Figure 6.56 
+so that their base diameter and height have the same
+length 𝑥cm. Calculate the volume of the space inside the 
+cylinder but outside the cone.
+                                                                                                            Figure 6.56
+2.From a hemispherical solid of radius 8 cm, a conical part is removed as shown in 
+Figure 6.57a. Find the volume and the total surface area of the resulting figure.
+3.The altitude of a frustum of a right circular cone is 20 cm and the radius of its 
+base is 6 cm. A cylindrical hole of diameter 4 cm is drilled through the cone with 
+the center of the drill following the axis of the cone, leaving a solid as shown in 
+Figure 6.57b. Find the volume and the total surface area of the resulting solid.
+4.Figure 6.57c shows a hemispherical shell. Find the volume and total surface area 
+of the solid.
+                                                       Figure 6.57
+Exercise 6.16
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3365.A cylindrical piece of wood of radius 8 cm and height 
+18 cm has a cone of the same radius. scooped out of it 
+to a depth of 9 cm. Find the ratio of the volume of the 
+wood scooped out to the volume of the wood which is 
+left. (See Figure 6.58)
+                                                                                                          Figure 6.58
+6.5 Applications
+In daily life, volume and surface area could help 
+•With travel, knowing how much your container can hold could help you use 
+your space most efficiently. For example, the volume of the trunk of a car, a 
+bag or a box.
+•Without volume, you can't figure out density, or capacitance and many other 
+things in science.
+•Suppose you’re manufacturing an object whose shape is a cone, for example,
+a funnel. You need to know the surface area to determine how much material 
+goes into each cone which determines your material cost.
+•When you want to rent an apartment/house, y ou need to know how much 
+surface area you are getting for your money. This can be broken down to 
+usable space (kitchen, bedrooms, bathrooms), and even storage or extra space 
+(like basement and balconies).
+•You could use surface area to find out how much cardboard was used to make 
+a box, or how much fabric was used to make a pillow.
+The bottom and top diameters of a backet are 10 cm and 13 cm respectively. If the 
+slant height is 20 cm,
+Example 1
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+337a.How many liters of water canithold?
+b.How many square centimeters of material are used to make this bucket ignoring 
+the thickness of the backet?
+c.If 100cm2of the material costs 50 birr then find the total cost of the material. 
+Use 𝜋= 3.14and put your answer by rounding it to two decimal places.
+Solution:   
+a.The bucket has the shape of frustum of a cone with base radius 𝑟′=10cm,
+𝑟=13cmand slant height 𝑙=20cm. To find the height ℎof the bucket 
+consider Figure 6.59.
+       ℎ2+32=202
+ℎ= √202−32=√391cm
+𝑣=1
+3𝜋ℎ(𝑟2+(𝑟′)2+𝑟𝑟′)
+    =1
+3𝜋√391(132+(10)2+(13)(10))
+    =1
+3𝜋×399√391cm3                            
+      Since 1literisequalto1000cm3, the bucket can 
+      hold   1
+3×399 𝜋√391
+1000= 8.26209liters
+      8.26209 rounded to 2 decimal places would be 8.26.
+     Therefore, the answer is 8.26 liter s.
+b.LSA=𝑙𝜋(𝑟+𝑟′)=20𝜋(13+10)=460 𝜋cm2
+      Since the bucket is closed from bottom BA=𝜋(𝑟′)2=100 𝜋cm2
+      TSA=LSA+BA=560 𝜋cm2=560×3.14=1758.4cm2
+c.If 100cm2of the material costs 50 birr, then 1758.4cm2of material cost          
+         1758.4×50
+100=879.2birr
+Figure 6.60Figure 6.59
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+338A construction company wants to make a water tank in the form of a right circular 
+cylinder that can hold 100,000 liters of water and has height of length 8 m. 
+a.Find the radius of the cylinder that will be constructed.
+b.If the company wants to paint the lateral surface of the cylinder with anti-rust 
+paint with thickness 2 cm, find the cost of the anti-rust paint at the rate of 15 
+birr per liter ignoring the thickness of the material used to make the water 
+tank. 
+c.If the company has to pay for a painter only for the lateral surface, find the 
+amount in birr that the company has to pay for the painter at the rate of 50 birr
+perm2.
+           Use 𝜋= 3.14and put your answer by rounding it to two decimal places.
+Solution: 
+      a.    Volume of the water tank = 100,000liters=100m3
+             Volume of a cylinder = 𝜋𝑟2ℎ= 8𝜋𝑟2
+              100= 8𝜋𝑟2
+               𝑟=√100
+8𝜋m≈ 2m    
+             Therefore, the base radius of the water tank is 2m.
+𝐛.2cm= 0.02m, therefore, the radius of the outer circle is 2.02 m and the
+            radius of the inner circle is 2 m.
+The volume of the paint = 𝜋ℎ(𝑟2−(𝑟′)2)= 8𝜋(2.022−22)
+                = 2.019648m3= 2,019.648liters
+Since the cost of the paint per liter is 15 birr, the total cost of the anti-rust 
+paint is 15×2,019.648=30,294.72birr.
+       c.LSA= 2𝜋𝑟ℎ = 2 𝜋×2.02×8 =101.48m2
+            The company has to pay 101.48×50= 5,074.24birr for the painter. 
+Example 2
+Figure 6.61
+
+--- [PAGE BREAK] ---
+
+Unit 6 :Solid Figures
+3391.A concrete beam is to rest on two concrete pillars. The beam is a cuboid with 
+sides of length 0.6 m, 4 m and 0.5 m. The pillars have diameter 0.5 m and height 
+2.5 m. Calculate the total volume of concrete needed to make the beam and the 
+pillars. Use π = 3.14and put your answer by rounding it to two decimal places.
+                                                    Figure 6.62
+2.The diagram shows the cross-section of a pipe of length 50 m. The inner diameter 
+of the pipe is 20 cm and the outer diameter is 28 cm.
+a.Calculate the volume of metal needed to make the pipe. Use π = 3.14
+b.Calculate the total surface area of the pipe, including the inside surface.
+Use π = 3.14
+Figure 6.63
+3.A lead bar of length 15 cm, width 8 cm and thickness 5 cm is melted down and 
+made infive equal spherical ornaments. Find the radius of each ornament. (Use 
+π = 3.14)
+Exercise 6.17
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+340Prism
+LSA=𝑝ℎ
+TSA=2BA+LSA
+𝑉=(BA)ℎ                                                                                   
+     Figure 6.64
+Right circular cylinder
+LSA= 2𝜋𝑟ℎ
+TSA= 2𝜋𝑟2+2𝜋𝑟ℎ= 2𝜋𝑟(𝑟+ℎ)
+V=𝜋𝑟2ℎ
+                                                                                     Figure 6.65
+Regular Pyramid
+LSA=1
+2𝑝𝑙
+TSA=BA+1
+2𝑝𝑙                                                     
+V=1
+3(BA)ℎ
+                  Figure 6.66
+Summary
+                                                                                   
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+341Right circular cone
+LSA=𝜋𝑟𝑙
+TSA=𝜋𝑟2+𝜋𝑟𝑙=𝜋𝑟(𝑟+𝑙)
+V=1
+3𝜋𝑟2ℎ            
+                                                                                 Figure 6.67
+Sphere
+A= 4𝜋𝑟2
+V=4
+3𝜋𝑟3                                         
+                                       Figure 6.68
+Frustum of a pyramid
+LSA=1
+2𝑙(𝑝+𝑝′)
+TSA=1
+2𝑙(𝑝+𝑝′)+𝐴′+𝐴                     
+V=1
+3ℎ(A+A′+√AA′)
+                                                                               
+             Figure 6.69
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+342Frustum of a cone
+LSA=1
+2𝑙(2𝜋𝑟+2𝜋𝑟′)=𝑙𝜋(𝑟+𝑟′)
+TSA=1
+2𝑙(2𝜋𝑟+2𝜋𝑟′)+𝜋𝑟2+𝜋𝑟′2
+=𝑙𝜋(𝑟+𝑟′)+𝜋(𝑟2+𝑟′2)
+V=1
+3𝜋ℎ(𝑟2+𝑟′2+𝑟𝑟′)
+Figure 6.70
+
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+3431.Find the lateral surface area and volume of the following figures.
+                                Figure 6.71
+2.A lateral edge of a right prism is 6 cm and the perimeter of its base is 36 cm. Find 
+the area of its lateral surface.
+3.The height of a circular cylinder is equal to the radius of its base. Find its total 
+surface area and its volume. G ive your answer in terms of itsradius.
+4.Find the total surface area of a regular hexagonal pyramid, given that an edge of 
+the base is 8 cm and the altitude is 12 cm.
+5.When a lamp of stone is submerged in a rectangular water tank whose base is 20
+cm by 50 cm, the water level rises by 1cm. What is the volume of the stone?
+6.The altitude and base radius of a right circular cone are 5 cm and 8 cm 
+respectively. Find the total surface area and volume of the cone. 
+7.What is the lateral surface area of a regular square pyramid whose base is 12 cm 
+on a side and whose slant height is 10 cm? If a plane is passed parallel to the base 
+and 4 cm from the vertex, what is the lateral area of the frustum?
+8.The radii of the internal and external surfaces of a hollow spherical shell are 3 m 
+and 5 m respectively. If the same amount of material were formed into a cube 
+what would be the length of the edge of the cube?
+Review Exercise
+
+--- [PAGE BREAK] ---
+
+Summary and Review Exercise
+3449.Find the ratio relation between the volumes and the lateral surface areas of the 
+cylinder, sphere and cone, when their heights and diameters are equal.
+10.A solid is made up of a right circular cone, right circular cylinder and 
+hemisphere, as shown in Figure 6.72. Find the surface area of the composed 
+solid.
+                                                              Figure 6.72                                           

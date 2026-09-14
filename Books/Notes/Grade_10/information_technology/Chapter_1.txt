@@ -1,0 +1,1110 @@
+=================================================================
+Book: information_technology.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+INFORMATION TECHNOLOGY                  STUDENT’S TEXTBOOK                    GRADE 10
+INFORMATION
+   TECHNOLOGY
+STUDENT’S TEXTBOOKGrade 10
+Federal Democratic Republic of Ethiopia Ministry of Education Federal Democratic Republic of Ethiopia Ministry of Education
+
+
+--- [PAGE BREAK] ---
+
+Take Good Care of This Textbook
+This textbook is the property of your school. Take good care not to damage or lose 
+it. Here are 10 ideas to help take care of the book:
+1.Cover the book with protective materials, such as plastic ,old newspapers or magazines.
+2. Always keep the book in a clean dry place.
+3. Be sure your hands are clean when you use the book.4. Do not write on the cover or inside pages. 5. Use a piece of paper or cardboard as a bookmark.6. Never tear or cut out any pictures or pages.7. Repair any torn pages with paste or tape.8. Pack the book carefully when you place it in your school bag.9. Handle the book with care when passing it to another person.
+10. When using a new book for the first time, lay it on its back. Open only a few 
+pages at a time. Press lightly along the bound edge as you turn the pages. This will keep the cover in good condition.
+  i
+
+--- [PAGE BREAK] ---
+
+Writers
+Content Editor
+Instructional Design Editor
+Language Editor
+Illustrator
+Book Designer  Abdella Kemal (Assistant Professor)
+  Tegegn Gobana (Assistant Professor)  Wogene Alemayehu (MSc)  Jerusalem Yibeltal (PhD)  Tagesse Daniel (PhD)  Kibrebeal Getinet (MSc)  Efrem Yohannes (PhD)
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONINFORMATION 
+TECHNOLOGY
+Grade 10
+Student’s Textbook
+HAWASSA UNIVERSITY
+iiiiii
+
+
+--- [PAGE BREAK] ---
+
+  iiiFirst Published 2023 by the Federal Democratic Republic of Ethiopia, Ministry 
+of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E) supported by the World Bank, UK’s Department for International Development/DFID-now merged with the Foreign, Common wealth and Development Office/FCDO, Finland Ministry for Foreign Affairs, the Royal Norwegian Embassy, United Nations Children’s Fund/UNICEF), the Global Partnership for Education (GPE), and Danish Ministry of Foreign Affairs, through a Multi Donor Trust Fund.   
+© 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education. 
+All rights reserved. The moral rights of the author have been asserted. No part of this textbook reproduced, copied in a retrieval system or transmitted in any form or by any means including electronic, mechanical, magnetic, photocopying, recording or otherwise, without the prior written permission of the Ministry of Education or licensing in accordance with the Federal Democratic Republic of Ethiopia as expressed in the Federal Negarit Gazeta, Proclamation No. 410/2004 - Copyright and Neighboring Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups and 
+other bodies involved – directly or indirectly – in publishing this Textbook. Special thanks are due to Hawassa University for their huge contribution in the development of this textbook in collaboration with Addis Ababa University, Bahir Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the owner 
+of copyrighted material not cited or improperly cited, please contact the Ministry of Education, Head Office, Arat Kilo, (P.O.Box 1367), Addis Ababa Ethiopia. 
+  iii  iiiPrinted by:
+GRAVITY GROUP IND LLC
+13th Industrial Area,
+Sharjah, UNITED ARAB EMIRATES
+Under Ministry of Education Contract no. : MOE/GEQIP-E/LICB/G-01/23ISBN: 978-99990-0-041-3  
+
+--- [PAGE BREAK] ---
+
+Table of Contents
+UNIT 1 : ORGANIZATION OF FILES
+1.1 Unit Overview 1
+1.2 File Management 1
+1.3 Storage Drives 4
+1.4 File Name Extension 6
+1.5 File Directory Structure 9
+1.6 File Conversion 14
+1.7 File Importing and Exporting 16
+1.8 Saving and Opening Files 18
+1.9 File Backup and Recovery 20
+1.10 File Compression 23
+1.11 Deleting a File 25
+1.12 Restoring Deleted File 27
+1.13 Unit Summary 29
+1.14 Unit Review Exercise 30
+UNIT 2 : COMPUTER NETWORK
+2.1 Unit Overview 36
+2.2 Network Media (Transmission Media) 37
+2.3 Telecommunications Network 53
+2.4 Mobile Communications 58
+2.5 Cellular Networks 62
+2.6 Satellite Networks 66
+2.7 Internet Protocol 72
+2.8 Unit Summary 76
+2.9 Unit Review Exercise 77
+iv
+
+--- [PAGE BREAK] ---
+
+UNIT 3 : APPLICATION SOFTWARE
+3.1 Unit Overview 81
+3.2 Word Processing 82
+3.3 Spreadsheet 102
+3.4 PowerPoint Presentation 125
+3.5 Unit Summary 131
+3.6 Unit Review Exercise 133
+UNIT 4 : IMAGE PROCESSING AND MULTIMEDIA
+4.1 Unit Overview 139
+4.2 Basics of Multimedia 139
+4.3 Multimedia File Formats 148
+4.4 Multimedia Production 149
+4.5 Multimedia Authoring and Authoring Tools 151
+4.6 Multimedia Editing 157
+4.7 Unit Summary 177
+4.8 Unit Review Exercise 178
+UNIT 5 : INFORMATION AND COMPUTER SECURITY
+5.1 Unit Overview 182
+5.2 Information and Computer Security 183
+5.3 Impact of Information and Computer Security on Society 184
+5.4 Privacy and Security 185
+5.5 Computer Security Threats 187
+5.6 Threat Prevention Strategies 188
+5.7 Cyber Security 197
+5.8 Unit Summary 199
+5.9 Unit Review Exercise 200
+  v
+
+--- [PAGE BREAK] ---
+
+UNIT 6 : FUNDAMENTALS OF PROGRAMMING
+6.1 Unit Overview 204
+6.2 Basics of Algorithm 204
+6.3 Definition of Algorithm 206
+6.4 Characteristics of Algorithm 207
+6.5 Algorithm Representation 210
+6.6 Integrated Development Environment(IDE) 218
+6.7 Unit Summary 223
+6.8 Unit Review Exercise 224
+vi
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  11.1 Unit Overview
+Dear student, in grade 9, you learned about file management and related concepts 
+such as files, folders, file drivers, methods of file creation, naming and renaming files and folders, and ways of accessing drives. In this unit, you are going to learn advanced concepts of file management such as file types, extensions, drivers and paths. You will also learn about methods of file conversion, saving and deleting files, file backup and recovery, storage drive and mechanisms of file importing and exporting.
+1.2 File Management
+Before the introduction of automation system, schools and other societies used to manage and organize their sensitive data in traditional file systems such filing cabinets. Such systems are so traditional and complicated to access files. Figure 1.1 shows a filing cabinet.At the end of this unit, learners will be able to:
+Explain the file management system.
+Analyze extensions of file types.
+Organize, delete and restore files and folders.
+Summarize file formats. 
+Convert a file into different formats.UNIT 
+ORGANIZATION OF FILES
+UNIT OUTCOMES1
+ Brainstorming 
+1. How are files handled at your home?
+2. Can you describe ways of managing files in school or other organizations?
+
+--- [PAGE BREAK] ---
+
+2Unit 1 : Organization of Files
+Figure 1.1 Filing cabinet
+Nowadays, to recognize file management , you need to understand how your 
+computer stores information. A file is the common storage unit in a computer, 
+and all programs and data are “written” into and “read” from the file. 
+Computers store information in files that are also organized and grouped 
+in folders and stored on disks, not in big drawers. Computers rely on hard disk drives (HDDs) to store data permanently. They are storage devices used to save and retrieve digital information that will be required for future reference.
+A disk drive is a technology that enables the reading, writing, deleting 
+and modifying of data on a computer storage disk. It is either a built-in or external component of a disk that manages the disk’s input/output (I/O) operations. The most common type of disk drive is a hard disk drive (HDD), and the terms disk drive and hard disk drive are typically 
+used interchangeably. Other types of hard disc include optical drives, storage devices and floppy drives. Figure 1.2 shows a disk drive. Disk drives and other storage devices are discussed in section 1.3. 
+Activity 1.1
+Complete the following activities in a group.
+1. Discuss the major types and functions of file management.
+2.Try to remember what you learned in grade 9, unit one, and explain the 
+types of files, folders and subfolders.
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  3
+Figure 1.2 Disk drives
+A folder holds one or more files, and it can be empty until it is filled. A folder can 
+also contain other folders, and there can be many levels of folders within folders. 
+Files are normally organized into directories in schools and other organizations to easily locate and use them. When multiple users have access to files, it may be desirable to control by whom and in what ways the files may be accessed. Therefore, file management is the process of organizing and keeping track of files and folders, helping you stay organized, so information is easily located.
+KEY CONCEPTS
+File management is the process and act of creating an organized structure in which you store information for easy retrieval.
+Folder (directory) is a virtual storage space used to store and organize computer files.
+A disk drive  is a technology that enables the reading, writing, deleting and 
+modifying of data on a computer storage disk.3. Compare and contrast disks and drives.
+4. Briefly explain why file management is so important.
+
+--- [PAGE BREAK] ---
+
+4Unit 1 : Organization of Files
+1.3 Storage Drives
+A computer drive is a piece of hardware that is used to read and store information 
+on the  computer and that is usually not as easily removed as a disk. For example, 
+in Microsoft windows, users can identify the drives windows has detected by 
+opening file explorer (right-clicking on windows icon on the taskbar), opening 
+This PC icon on the desktop, or pressing the windows key + E.
+Whenever someone saves his/her file on the computer, it simply means that the 
+file is stored on the hard disk. Currently, there are other ways of saving files using cloud-based drives. OneDrive and google drive are examples of cloud-based 
+drives on which files are stored. You should consider the following important points about drives.
+Each drive is assigned a letter to identify it.
+The letter identifies the root of the file where it is originated from (this 
+means, the location where the file was saved in).
+Drives and Drive Letters
+A drive is alternatively referred to as a device letter. A drive letter is a single alphabetic character A through Z that is assigned to a physical computer drive or drive partition. For example, a computer with a 3 1/2” floppy diskette drive has a drive letter of A: assigned to the drive. Computers containing a hard drive always 
+have that default hard drive assigned to C: drive letter, and CD-ROM or another 
+disc drive, which is the last drive letter (For example E:). Figure 1.3 shows devices and drives.
+1. A cloud drive is a web-based service that provides storage space on a remote server. Cloud drives, which are accessed over the Internet with client-side software, are useful for backing up files. Figure 1.4 shows cloud drive icon. Brainstorming 
+1. What do you think a drive is? Why is it used for?
+2. How do you identify a drive on your computer?
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  52.Some people may be confused with “drive” and “driver”. These 
+are separate terms. If you are looking for help with installing or updating the software related to hardware, driver is a group of files that enable one or more hardware devices to communicate with the computer’s operating system. Without drivers, the computer could not send and receive data correctly to hardware devices such as a printer.
+Figure 1.3 Devices and drives
+Figure 1.4 Cloud drive icon
+Activity 1.2
+Perform the following activity and express what you observed.
+1. On the desktop of your computer, perform the following steps:
+   Step 1. Right Click on the Start Menu.   Step 2. Click on Windows Explorer.
+2. What have you observed on the screen? Can you identify the drive letters?
+
+
+--- [PAGE BREAK] ---
+
+6Unit 1 : Organization of Files
+After doing the above activity, you will see the following in the folder list.
+This is known as a hard drive and is found inside your computer. 
+This drive is where all your program software is installed, for example, Microsoft 
+Word, Excel, etc.
+This is another hard drive in your computer into which you can save 
+data.
+This is a CD drive where you can read CD data disks and listen to audio 
+disks. Without a special CD drive (CD burner), you cannot save data to this drive. However, in some computers, the above derive letters and drive names might not appear or have different names or letters based on the partition of the computer disk. 
+If you plug in a USB drive on any operating system, it will recognize the plugged-in or inserted device and automatically gives the plugged-in drive a letter of its own. Usually, the next available letter that is not being used by another drive will be assigned.
+1.4 File Name Extension
+A computer has many different types of files on it, and each one has its own file 
+extension. A file extension is a three- or four-letter identifier found at the end of a file name being followed by a period. The extension tells you about the characteristics of a file and its use. Examples of file extensions are:
+An image uses the .jpg or.jpeg extension (for example, image.jpg ).KEY CONCEPTS
+A computer drive is a piece of hardware that is used to read and store
+information on the computer and it is usually not easily removed as a disk.
+OneDrive and Google drive are cloud-based drives on which files are stored.
+ Brainstorming 
+1. How do you identify a word file from an excel file?
+2. What do you understand by the term filename extension?
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  7A Word document uses the .docx extension, or .doc for older versions 
+(for example, CoverLetter.docx).
+An audio file uses the .mp3 extension (for example, song.mp3).
+An Excel spreadsheet uses the .xlsx extension, or .xlsfor older versions 
+(for example, budget.xls ).
+File extensions are used by an operating system to identify what applications are 
+associated with a particular file type. In other words, a file extension specifies an application that opens the file when you double-click on it. For example, a file named “awesome_picture.jpg” has the “jpg” file extension. When you open that file in Windows, for example, the operating system looks for whatever application is associated with JPG files, opens that application, and loads the file.
+An operating system is a software program required to manage and operate 
+computing devices like smartphones, tablets, computers and supercomputers. The operating system eliminates the need-to-know coding language to interact with computing devices. Table 1.1 shows examples of operating system.
+Table 1.1 Operating systems
+Operating System Description
+WindowsWindows is developed by Microsoft Corporation to run personal computers (PCs). It featured the first graphical user interface (GUI) for IBM-compatible PCs.
+UnixUnix is a multitasking, multiuser computer operating system. A command-based computer operation has been constantly updated since the invention of Unix.
+Linux Linux is an open-source operating system (OS). 
+DOS DOS is the part of a computer operating system that controls and manages files and programs stored on a disk. DOS is an abbreviation for ‘disk operating system’.
+AndroidAndroid is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touch screen mobile devices such as smart phones and tablets.
+
+--- [PAGE BREAK] ---
+
+8Unit 1 : Organization of Files
+Filename extension and length vary according to the type of operating system 
+(OS) we use. For instance, in Unix operating system, which is a command-based OS, a file extension is optional; in Linux and Windows operating systems a file extension is a requirement. However, Disk Operating System (DOS) limits the length of the file extension. For example, DOS uses three characters; Windows uses three or four characters while Unix-based OS uses unlimited characters.
+A filename extension is a suffix added to the name of a computer file to indicate 
+the encoding, convention or file format of its contents. Table 1.2 shows different types of file extension.
+Table 1.2 Different types of file extensions
+File Type 
+Extension Content Application
+.txt Simple text file Any word processing application
+.doc, docx Word processing file Microsoft Word file(doc,docx)
+.rtf Rich Text Format Any word processing application
+.pdf Portable Document Format Document presentation format
+.ppt Presentation file for slide showMicrosoft PowerPoint file
+.xls,xlsx Spreadsheet files Any spreadsheet file
+.mdb A database file Microsoft Access database file
+.zip, .Rar Compression format for PC WinZip, WinRar
+.exe Dos/Windows self-extract-
+ing formatDownloads and launches it in itsown temporary directory
+.mp3 Audio file on Windows Window Media Player
+.wav Audio Files on PC Real Player
+Activity 1.3
+Answer the following accordingly.
+1. Discuss the various types of file extension and their applications.
+2. Discuss file extension types that indicate audio and video formats.3. Mention the operating system that uses three characters for file extension.4. Identify the application file names in Figure 1.5 below.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  9Figure 1.5 Application files
+1.5 File Directory Structure
+ Brainstorming 
+1. Can you define file directory? 
+2. Describe a file directory structure in a computer?3. What is a file path?
+KEY CONCEPTS
+Operating system (OS) is a program that manages a computer’s resources, 
+especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices and network connections.
+A filename extension is a suffix added to the name of a computer file to 
+indicate the encoding convention or file format of its contents.
+In Unix operating system, file extension is optional while in Windows it is mandatory.
+DOS uses three characters, Windows uses three or four characters and Unix
+uses unlimited characters as a file extension. 
+
+--- [PAGE BREAK] ---
+
+10Unit 1 : Organization of Files
+The directory structure is the way an operating system shows its system and other 
+types of files to the computer user. Files are typically displayed in a hierarchical 
+tree structure. When you see the structure, it looks like a tree; hence, the term hierarchical tree structure  is used to describe it. The first or the top folder (directory) 
+in the structure is called the root directory. A directory contained inside another 
+directory is called a subdirectory. The terms parent and child are often used to 
+describe the relationship between the directory and the subdirectory.
+The root directory contains all other folders or files in the drive. For Example, 
+the root directory of the main partition on a computer is usually C:\.  The root 
+folder of a DVD or CD drive might be D:\.
+Afolder is a virtual location where programs, files and other folders can be 
+located. A folder is also called a directory. It is a tool for arranging files on a 
+disk. Files are organized by storing related files in the same directory. Folders 
+which hold files or other folders on the computer are called sub-folders or sub-directories. Figure 1.5 shows simple directory structure.
+Figure 1.6 Simple directory structure
+1.5.1 Directory Path or File Path 
+A path is a list beginning with a drive letter that tells which folders to open so that you can find a file or another folder.  When a file system is organized as a 
+directory tree, someway is needed to specify the filenames. The use of a tree-structured directory minimizes the difficulty of assigning unique names. Any file in the system can be located by following a path from the root or master directory down to various branches until the file is reached. 
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  11The series of directory names, culminating in the file name itself, constitutes a 
+pathname for the file. Figure 1.7 shows a file path from the directory structure in 
+which the file Click.mp3  is shown.
+Figure 1.7 Directory structure of a file
+To access the file Click.mp3, you need to follow the steps stated below.
+1. Open the C:/ drive on your computer.
+2. Select the user folder from the drive. 3. Select the Sarah folder.4. Select the music folder and then you will see the file in the folder.5. Check that the file Click.mp3  exists in the music folder.
+Types of Directory Paths
+The two different methods commonly used to indicate the path of a file are 
+absolute pathname and relative pathname. 
+a. Absolute Pathname
+An absolute pathname represents the complete name of a directory or file from the /(root) directory downward. Regardless of where you are working in the file 
+
+--- [PAGE BREAK] ---
+
+12Unit 1 : Organization of Files
+system, you can always find a directory or file by specifying its absolute path -
+name. Figure 1.8 shows an example of absolute pathname.
+Figure 1.8 Absolute pathname
+The slash (/) is used to delimit names in the sequence. The name of the master 
+directory is implicit because all paths start at that directory. 
+Note that it is perfectly acceptable to have several files with the same file name, 
+as long as they have unique pathnames. That is, the same file name may be used in different directories. Figure 1.9 shows that there is another file in the system with the file name ABC, but the pathname /User_B/Draw/ABC.
+Figure 1.9 Tree structure file directory
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  13b. Relative Pathname 
+Although the path name facilitates the selection of file names, it would be difficult 
+for a user to have to spell out the entire pathname every time a reference is made to a file. Typically, an interactive user or a process associated with a current directory is often referred to as the working directory or current directory. In this case, the files are referenced relative to the working directory.
+Relative pathnames are used to specify the name of a file in the current 
+directory or the pathname of a file or directory above or below the level of the current directory in the file system. If D is the current directory, the relative pathname for accessing 10 is F/10. For example, as you can see in Figure 1.9 above, if the working directory for user B is “Word,” then the pathname Unit_A/ABC is sufficient to identify the file.
+Activity 1.4
+Answer the following accordingly.
+1. State the meaning of the term path name.
+2. Define absolute pathnames and relative pathnames. 3.Look at the directory structure in Figure 1.10 below and answer the 
+following questions. 
+a. Identify the root directory.
+b. Identify the name of the drive.c. Identify the subdirectory of the root directory.d. Write the name of the folders in the ‘home’ directory.e. Identify the parent directory of the user2.f. Identify the child directory of user2.g. Write the path to be used to get to file ‘status report (file)’.h. Describe what would happen if the ‘home’ folder was deleted.
+
+--- [PAGE BREAK] ---
+
+14Unit 1 : Organization of Files
+Figure 1.10 Directory structure
+KEY CONCEPTS
+Directory structure is the way an operating system shows its system and 
+other types of files to the computer user.
+A path is a list beginning with a drive letter that tells which folders or files 
+to open.
+Absolute pathname  is the path given from the root directory to the file.
+Relative pathname is the path referenced relative to the current directory.
+1.6 File Conversion
+ Brainstorming 
+1. How is a file converted?
+2. Why do you think file conversion is so important?
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  15File conversion is the process of taking a file of one format and changing it into 
+another. This is especially handy since you may one day work with files that are not compatible with the different programs you need to use. In Figure 1.11, you will see different types of files. It is possible to convert from one file format to another; for example, you can take a file used in Microsoft Word (.doc) and convert it to the Portable Document Format (PDF) file format.
+Figure 1.11 Types of files
+There are dozens of file formats for word processing documents, graphics and 
+spreadsheets, and so on. If a file was created in one application and you want to use it in another, you can either import the file or use a conversion program.
+File Converter
+A file converter is software that converts a document from one file type to another. These solutions offer simple step-by-step processes to perform conversions so that a user simply needs to upload the original document, select which file type they would like the document to be converted to and convert it. Some common file converter soft wares include FoxitPDFEditor, PDF to Word Converter, PDF Convert Free, EliteCloudConvert, PDFShiftPDF and CandySelectPdf.
+Activity 1.5
+Answer the following items individually.
+1. Define the term file conversion.
+2. Summarize the advantages of file conversion from one format to another.
+3. Describe how image and drawing files are converted. 4.Mention the file formats that cannot be converted into drawing or vector 
+graphics formats.
+
+--- [PAGE BREAK] ---
+
+16Unit 1 : Organization of Files
+KEY CONCEPTS
+File conversion is the process of taking a file of one format and changing it 
+into another. 
+File converter is the software that converts a document from one file type to another.
+If a file was created in one application and you want to use it in another, you can either import the file or use a conversion program.
+1.7 File Importing and Exporting
+What is a File Import?
+File import is the process of moving files or data used in one program to another. As shown in figure 1.12 below, when you import, you are bringing in information from a file into a program. For example, you could import a CSV file you 
+downloaded from the Internet into an Excel spreadsheet. 
+A comma-separated values (CSV) fileis a delimited text filethat uses a comma 
+to separate values. Each line of the file is a record of data.
+What is a File Export?
+A file export is a process of moving information from a program into a file. As seen in figure 1.12, when you are exporting, you are taking information from a program and putting it into a file. For example, you may export a Microsoft 
+Excel spreadsheet to a CSV file.  Brainstorming
+1. What do you think is file importing?
+2. Would you describe what a file export means?3. Can you tell the difference between file import and export?
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  17
+Figure 1.12 File import and export
+In programs, you can export data in a format recognized by another program by 
+opening the file menu in that program and selecting export (the feature may be 
+located in different menus in different programs). Then you can enter what file format you want the file to be exported in. Some commonly used formats are txt, BMP, jpg, gif and more. Figure 1.13 shows the export window in OneNote application. Here, notes are exported as a .doc files, which is commonly used by 
+Microsoft Word and other word processors.
+Figure 1.13 Exporting files
+
+--- [PAGE BREAK] ---
+
+18Unit 1 : Organization of Files
+Activity 1.6
+Work in a small group to answer the following items.
+1. Discuss the terms file import and file export.
+2.Open any word document and try to convert it into a PDF file using the 
+export method.
+3.Open any word document and use save as or export options to convert it into PDF, Plain text, or any other options that appear in the pop-down menu.
+KEY CONCEPTS
+File import is the process of moving a file or data used in one program to another. When you import a file, you are bringing in information from a file
+into a program.
+File export is the process of moving information from a program into a file. 
+When you are exporting, you are taking information from a program and putting it into a file.
+1.8 Saving and Opening Files
+Although it is often a wise decision to save files using the default file format  of 
+a program (since the program is guaranteed to store all the information correctly then), you can also easily change the file format when saving a file. In most programs, you can change the file format using the following path.
+Click on the File Menu 
+ click on Save As option  click on Browse folder 
+select the file and click on the Save as type list in the bottom part of the window 
+that opens and choose the file type you like and then click on the Save button.  Brainstorming 
+1. Why do you think we need to open and save files in a different format?
+2.Can you mention the steps you follow to open and save files in different 
+formats?
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  19The list will display the file formats in which you can save your file. Figure 1.14 
+shows how a tiff image is saved as a jpeg image.
+Figure 1.14 Saving files in different formats
+When you save a file in another file format, some of the original file’s features may not be transferred correctly. Check your new file after saving it and always save the original. To change the format of afileyou are opening, follow the same 
+principle as saving in a different file format.
+When you open a file in Windows, it will usually open in the default 
+application for that type of file. In Microsoft (MS) Word, you can open documents 
+that are in different formats. You can specify a file format to narrow down your 
+search, or choose the All-Files option and let Word do the work for you.  
+Practical Exercise 1.1
+Complete the following activities.
+1. Discuss the importance of saving the files in different formats.
+2. Describe the importance of file export and file import.3.
+Summarize steps to open different file formats in the Microsoft office          
+application.
+
+--- [PAGE BREAK] ---
+
+20Unit 1 : Organization of Files
+KEY CONCEPTS
+When you save a file in any application program, the application saves the 
+files using the default file format of a program. 
+When you open a file in Windows, it will usually open in the default application for that type of file.
+1.9 File Backup and Recovery
+Backup and recovery describe the process of creating and storing copies of data that can be used to protect individuals and organizations against data loss. This is sometimes referred to as operational recovery. 
+A backup is a digital copy of your most important information such as photos, 
+health records, assignments, academic records and other credentials. It can be saved to an external storage device or the cloud. A proper backup copy is stored in a separate system or medium, such as tape, from the primary data to protect against the possibility of data loss due to primary hardware or software failure.
+Backing up is a precautionary measure so that your data is accessible in case 
+it is lost, stolen or damaged. 
+1.9.1 Steps Followed to Take File Backup 
+How to Backup Files
+You will learn how to take backup using MS Windows operating systems. To take back up of a file, follow each of the following steps carefully.4.In Microsoft word, write one page about the Ethiopian renaissance dam and save it with the name ETHIOPIA.  Observe file format.
+5. Covert the file ETHIOPIA into PDF file format.
+ Brainstorming 
+1. How do you understand file backup?
+2. Why do you think it is necessary to take a file backup?
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  21The step of Backing up your files using an external storage device in Windows is 
+shown below:
+1.Ensure your external storage device is plugged in. Click on Start, and then 
+click on the Settings icon, or type settings on  Type here to search the textbo x.
+Figure 1.15 Click on start
+2. Select Update and Security among the options given. 
+Figure 1.16 Select Update and Security
+
+--- [PAGE BREAK] ---
+
+22Unit 1 : Organization of Files
+3. Click Backup in the left column.
+Figure 1.17 Click Backup
+4. Select your backup removable drive from your computer. 
+5. The file will be copied to the specified format.
+1.9.2 File Recovery
+Restoring is the process of copying backed-up data from a secondary location 
+and restoring it to its original device or a new device. The purpose of the backup 
+is to create a copy of data that we use to recover in the event of a primary data failure.  Primary data failures can be the result of hardware or software failure, data corruption or a human-caused event, such as a malicious attack (virus or malware) or accidental deletion of data. Backup copies allow data to be restored from an earlier point in time to help the business recover from an unplanned event.
+KEY CONCEPTS
+Backup and recovery describe the process of creating and storing copies of data that can be used to protect individuals and organizations against data loss.
+Restoring is the process of copying backed-up data from a secondary location and restoring it to its original or a new device. 
+The purpose of the backup is to create a copy of data that we use to recover in the event of a primary data failure.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  23When you want to work on your previous document next time, first you have to 
+open it. To open the existing file, you have already done in practical exercise 1.2 on your computer, follow practical exercise 1.3.
+Practical Exercise 1.3
+Complete the following activities using in a group.
+1.From the application’s file menu, click open or simply click the open () button of the application. 
+2.Click on Browse, choose the drive and folder you want to look in for the file. 
+3. Double-click the filename from the list of files.
+1.10 File Compression
+ Brainstorming 
+1. What does it mean by a file compression?
+2. Why is file compression so important during file management?
+File compression is a data compression method in which the logical size of a file 
+is reduced to save disk space for easier and faster transmission over a network or the Internet. It enables the creation of a version of one or more files with the same Practical Exercise 1.2
+Open MS Word document and write a paragraph on the uses of MS word and do the following activities in a group.
+1.Click the Save icon. If you have never saved the file before, the Save As dialog box appears. 
+2.If you are saving a new file or saving the file under a new location, select the drive and folder you want to save the file in from the Save inbox. 
+3. Type a name for the file in the File name box. 
+4. Click the Save button.
+
+--- [PAGE BREAK] ---
+
+24Unit 1 : Organization of Files
+data at a size substantially smaller than the original file. File compression is also 
+known as file zipping. Figure 1.18 shows the file compression icon.
+Figure 1.18 File compression icon
+Zipped (compressed) files occupy less storage space and can be transferred to other computers more quickly than uncompressed files. In Windows, you work with zipped files and folders in the same way that you work with uncompressed files and folders. You need to combine several files into a single zipped folder to share a group of files more easily.To compress file and folders, we follow the following steps.
+To zip (compress) a file or a folder
+1. Locate the file or the folder that you want to zip.
+2. Press and hold or right-click the file or the folder.3. Select or point to Send to, and then select Compressed (zipped) folder. 
+A new zipped folder with the same name is created in the same location. Figure 
+1.19 shows how to compress a file on the desktop.
+Figure 1.19 Compressing a file
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  25File or Folder Compression Tools
+There are a lot of file or folder compression software packages; among them, the 
+most popular compression tools are WinRAR, WinZip and 7zip. Below are steps to unzip compressed files.
+To Unzip Files
+1. Open File Explorer and find the zipped folder.
+2.To unzip the entire folder, right-click to select Extract All, and then follow 
+the instructions.
+3.To unzip a single file or folder, double-click the zipped folder to open it. Then, drag or copy the item from the zipped folder to a new location.
+Practical Exercise 1.4
+Practice the following in a small group.
+1.Open Microsoft Word and write a paragraph about the Ethiopian Renaissance Dam and save it at any drive you like in the file name AbayDam.
+2. Compress the file in the same location.
+3. Unzip the file on the desktop.4.Insert any file from your computer into the zip folder AbayDam and send 
+it to any external storage device.
+1.11 Deleting a File
+ Brainstorming 
+1. Do you think that it is important to delete a file? Why?
+2. Can you delete a file you have saved into C-drive of your computer?
+File deletion is the removal of a file from a computer’s file system. The Recycle 
+Binis a location where deleted files or folders are temporarily stored in all versions 
+of Windows operating systems. To delete a file, a folder or multiple selected files, 
+you need to right-click on the file and select Delete. Alternatively, you can select 
+
+--- [PAGE BREAK] ---
+
+26Unit 1 : Organization of Files
+the file and hit the Delete key on the keyboard. When you delete a folder, you 
+delete all its contents as well. You may get a dialog prompt that asks if you want 
+to move the file to the recycling bin. In Windows, Recycle Bin icon is located on the desktop as shown in Figure 1.20 below.
+Figure 1.20 Recycle Bin icon
+We may need to delete files or folders for various reasons. Some of the reasons 
+are:
+Freeing the disk space.
+Removing duplicated or unnecessary data to avoid confusion.
+Making sensitive information unavailable to others.
+The following activity will help you to delete unwanted files from folders of your computer.
+Practical Exercise 1.5
+Work in a group. Find and open any folder that contains the file you want to delete and follow the steps below. 
+1.Right-click the file you want to delete. If you need to remove more than one files, select all the files you want to delete. 
+2. Click Delete; then the Delete File dialog box appears. 
+3. Click Yes. 
+Note: Check that the file disappears from its original location.
+Another way to delete a file is to click and drag it to the desktop’s 
+Recycle Bin icon. 
+You can hold down the shift key and hit the Delete key when you 
+want to delete a file to prevent it from going to the Recycle Bin. This 
+will remove the file totally from your computer.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  27KEY CONCEPTS
+File deletion is the removal of a file from a computer’s file system.
+Recycle Bin  is the location where deleted files or folders are temporarily 
+stored in a computer. 
+To delete a file, a folder or multiple selected files, right-click on the file 
+and select Delete.  You can also select the file and hit the Delete key on the 
+keyboard. Deleting a folder deletes all its contents as well.
+1.12 Restoring Deleted File
+ Brainstorming 
+1. Why do you think restoring a file is required?
+2. How could we restore deleted files?
+Files deleted from your computer’s hard drive will not be removed immediately; 
+they will be automatically moved to the Recycle Bin. 
+It is possible to restore the deleted files. Data restoration is the process of 
+copying backup data from secondary storage and returning it to its original or a new location. Restoration is performed to return the lost, stolen or damaged data 
+to their original conditions or to move to new locations. You will practice how 
+to restore a deleted file from your computer in Activity 1.7.
+1.A deleted file cannot be restored by the flowing conditions.
+The file you deleted is not in the Recycle Bin. 
+The Recycle Bin is emptied permanently.
+The file is deleted using the shift key (shift key + Delete) on the 
+keyboard.
+2. To empty the Recycle Bin in Windows:Find the Recycle Bin icon on the desktop.
+Right-click (or press and hold) and select Empty Recycle Bin.
+
+
+--- [PAGE BREAK] ---
+
+28Unit 1 : Organization of Files
+Activity 1.7
+Work in a group to practice restoring deleted files.
+1. Double-click Recycle Bin icon in the desktop.
+2.The Recycle Bin folder appears. The files currently in the Recycle Bin will 
+be displayed. 
+3. Right-Click the file you want to restore.
+4. Click Restore this item, see Figure 1.21.5.Observe that the file disappears from the recycling bin and will be restored 
+to its original location.
+Figure 1.21 File restore
+KEY CONCEPTS
+Data restore is the process of copying backup data from secondary storage and reinstating it to its original or a new location. Restoration is performed to return data that has been lost, stolen or damaged to its original condition or to move data to a new location.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  291.13 Unit Summary
+A file is the basic unit of storage that enables a computer to distinguish one set of 
+information from another file. It is the common storage unit in computers where 
+all programs and data are “written” into and “read” from. A folder holds one or more files, and it can be empty until it is filled. A folder can also contain other folders, so there can be many levels of folders within it.
+Programs, files and folders can be found in a virtual location called folder. 
+Afolder, which is also called a directory, is a tool for arranging files on a disk. 
+Files are organized by storing related data in the same directory. In naming a file, it would have two parts, with a period separating them. The part on the left side of the period character is called the main name while the part on the right side is 
+called the extension. File extension shows the file type and the application that the 
+operating system will use when opening it. Any file in the system can be located by following a path from the root or master directory down to various branches until the file is reached.
+File import is the process of moving files or data from program to program; file 
+export is the process of moving information from program to file; file conversion 
+is the process of changing a file from one format to another. 
+Restoring is the process of copying backed-up data from a secondary location 
+and returning it to its original device or a new device to create a copy of the data.  Backup and recovery describe the process of creating and storing copies of data that can be used to protect individuals and organizations against data loss. This is sometimes referred to as operational recovery.
+File compression is a data compression method in which the logical size of a 
+file is reduced to save disk space for easier and faster transmission over a network or the Internet. It enables the creation of a version of one or more files with the same data at a size substantially smaller than the original file.
+File deletion is the removal of a file from a computer’s file system. The Recycle 
+Bin is the location where deleted files or folders are temporarily stored in all 
+versions of Windows operating systems. Data restoration is the process of 
+copying backup data from secondary storage and returning it to its original or a new location. Restoration is performed to return lost, stolen or damaged data to their original conditions or to move to new locations.
+
+--- [PAGE BREAK] ---
+
+30Unit 1 : Organization of Files
+1.14 Unit Review Exercise
+Part I:  Write whether the following statements are true or false.
+1. A file is a container in a computer system for storing information.
+2. A folder holds one or more files and can be empty until it is filled. 3.The operating system implements the abstract concept of a file by managing 
+mass storage media and the devices.
+4.The purpose of backup is to create a copy of data that we use to recover in the event of a secondary data failure.
+5.File conversion is the process of taking a file of one format and changing it into another.
+6. File compression changes the contents of the original file.
+7.Files can be deleted by clicking and dragging them to the desktop’s Recycle 
+Bin icon.
+Part II: Choose the correct answer among the alternatives provided.
+1.________ is a self-contained piece of information available to the operating system and its programs.
+A. Record
+B. IconC. FileD. Data
+2. What do we call the organization of files and folders on a disk?
+A. Directory or directory treeB. PathC. File managementD. Root directory
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  313. Which one of the following is logical component of a file?
+A. Field
+B. Record C. DatabaseD. All of the above.
+4. What could be possible to do with a folder created and named?
+A. Moving it to another location.B. Renaming it.C. Creating other folders inside it.D. All of the above.
+5.The process of copying backed-up data from a secondary location and 
+returning it to its original or a new device is called ____________.
+A. recording
+B. restoringC. duplicatingD. resizing
+6.Which one of the following is among the fundamental aspects of file 
+management?
+A. OrganizingB.  Labeling C. Classifying D. All of the above.
+7.______ is the way an operating system’s file system and its files are displayed 
+to the computer user.
+A. Directory structure
+B. Directory contentC. Directory NameD. Directory folder
+
+--- [PAGE BREAK] ---
+
+32Unit 1 : Organization of Files
+8. Which of the following always start at the root directory and are unique?
+A. Relative file names
+B. Directory namesC. Absolute file namesD. Directory path names
+9._________ is a collection of files typically created for organizational purposes.
+A. DirectoryB. FileC. DriveD. Folder
+10. What do you call the suffix added to the base name of a computer file?
+A. Operating system identifierB. Program applicationC. Filename pathD. Filename extension
+11. Which one is not an extension for an image file?
+A. BMPB. GIFC. XLSD. JPG
+12._____________ is a software program required to manage and operate 
+computing devices.
+A. Operating system
+B. File recoveryC. File searchD. File import and export
+Part III: Discuss the following questions.
+1. Explain how Operating System differentiates one file from another.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  332. What types of file extensions do the following contents have?
+A. A movie on a video CD
+B. A word-processed fileC. A file in a musical CDD. A scanned imageE. A picture was taken with a digital camera.F. A file sent in compressed format 
+3. Discuss how to name a file and give examples of valid and invalid filenames.
+4.Differentiate between absolute and relative path names with appropriate 
+examples.
+5. Use Figure 1.22 below to answer the following questions.
+Figure 1.22 File directory
+
+--- [PAGE BREAK] ---
+
+34Unit 1 : Organization of Files
+a.Write out the absolute pathname for EXAM.DOC, TEST.TXT, SALARY.
+XLS and ARREARS.REC. 
+b.Write out the relative pathname for DEPT.RTF and ID.MDB using STUDENTS and STAFF as the working directory respectively.
+6.Ethiopia sends a spreadsheet file called Budget2021 via email to his teacher. His teacher attempted to view the file in his web browser online but was unsuccessful. 
+a.What could be a possible cause of the problem Ethiopia’s teacher encountered?
+b.Suggest one solution that either Ethiopia or his teacher could do to rectify the problem?
+c.Show the file name that Ethiopia’s teacher would see when he opens the email. 
+7. What is the definition of the term ‘drive’ as it relates to computing?
+8.List at least four types of drives available to store files on the computer system 
+along with their respective drive letters.
+9.Describe, using a step-by-step process, how to save a file you prepared in Microsoft Word as PDF.
+10. Define the following terms.
+a. File path
+b. Disk drive  c. Folder 
+11.Answer the following questions based on the file path below. C:\Documents\
+School\Maths.Docx
+a. What is shown in the file path above?  b. What does “C:\” refer to?   
+12.Using Figure 1.23 below, provide the file path to get to the file: Communication.
+pdf.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  35Figure 1.23 Determining the file path for the file, communication.pdf
+13.Identify the drive letter, folder, sub-folder, file name and extension in the the 
+following file paths and complete table 1.3. 
+a. c:\Games\Solitaire\Solitaire.exe 
+b. e:\assignment\IT\hardware, Docxc. c:\Program Files (x86) \Calculator.exe
+Table 1.3 Identifying drive letter, folder, subfolder, filename, and extension
+NoDrive Letter Folder Sub-folder File Name Extension
+a
+b
+c
+
+
+--- [PAGE BREAK] ---
+
+36Unit 2 : Computer Network
+2.1 Unit Overview
+As it was defined and discussed in grade 9, unit 2, the computer network is the 
+connection of two or more computers or communication devices connected by transmission media and guided by a set of rules for communication purposes 
+that allow users to communicate with each other and share applications and data. The fundamental components of a network are devices, media, messages and protocols. Figure 2.1 shows representation of network in a given school.
+Figure 2.1 Representation of network in school
+At the end of this unit, learners will be able to:
+Explain transmission media.
+Describe telecommunications network.
+Explain mobile and cellular communications.
+Analyze satellite networks.
+Discuss data communication.
+Conceptualize the use of Internet protocols (IP).UNIT 
+COMPUTER NETWORK
+UNIT OUTCOMES2
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  37In this unit, you are going to learn about network media, telecommunications 
+networks, mobile communications, cellular networks, satellite networks, data 
+communications and internet protocol (IP).
+2.2 Network Media (Transmission Media)
+ Brainstorming 
+1. What do you think is a transmission medium?
+2. How are data transmitted in modern networks?
+For data to be transmitted from one location to another, a physical pathway or 
+medium must be used. These pathways are called transmissions media and can be either physical or wireless. The physical transmission use wire, cable, and other tangible materials; wireless transmission media send communications signalsthrough the air or space. The physical transmission media are generally referred to as cable media (example, twisted pair wire, coaxial cable, and fiber optic cable).Wireless media include cellular radio, microwave transmission, satellite transmission, radio and infrared media.Modern networks primarily use three types of media to interconnect devices and to provide the pathway over which data can be transmitted. These media are:
+Copper cables
+Glass or plastic fibers (fiber optic cable)
+Wireless transmission
+
+
+--- [PAGE BREAK] ---
+
+38Unit 2 : Computer Network
+Figure 2.2 Network media
+The signal encoding that must occur for the message to be transmitted is different 
+for each media type. On metallic wires, the data is encoded into electrical impulses that match specific patterns. Fiber optic transmissions rely on pulses of light, within either infrared or visible light ranges or in wireless transmission, and patterns of electromagnetic waves depict the various bit values. Different types of network media have different features and benefits.  All network media do not have the same characteristics and are appropriate for the same purpose.
+Activity 2.1
+Discuss the following items in a group.
+1.What categories of transmission media could you use to communicate in school and local environment?
+2. Analyze characteristics of the signal in each media.
+3.Bring some physical media to the class and discuss how they are arranged 
+to be used in the network. 
+4. Explain factors to be considered while choosing a transmission medium
+KEY CONCEPTS
+Signal is an electric or electromagnetic form of data that passes over transmission media.
+A wire is a long thin piece of metal that is used to fasten things or to carry electric current. 
+Categories of Network Media (Transmission Media)
+The transmission medium can be divided into two broad categories: wired or guided media and wireless or unguided media, as shown in Figure 2.3.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  39
+Figure 2.3 Classification of transmission media
+2.2.1 Guided (Wired) Media 
+Guided media are those that provide a conduit from one device to another. These 
+include twisted-pair cable, coaxial cable and fiber-optic cable. A signal traveling 
+along any of these media is directed and contained by the physical limits of the medium. Twisted-pair and coaxial cables use metallic (copper) conductors that accept and transport signals in the form of electric current. Optical fiber is a cable that accepts and transports signals in the form of light.
+Twisted-pair Cable
+A twisted pair consists of two conductors (normally copper), each with its plastic insulation, twisted together as shown in Figure 2.4. One of the wires is used to carry signals to the receiver and the other is used only as a ground reference.
+In addition to the signal sent by the sender on one of the wires, interference 
+(noise) and crosstalk may affect both wires and create unwanted signals. 
+Figure 2.4  Twisted-pair cable
+If the two wires are parallel, the effect of these unwanted signals is not the same on both wires because they are at different locations relative to the noise or crosstalk sources (for example, one is closer and the other is farther). This results in a difference at the receiver.
+
+--- [PAGE BREAK] ---
+
+40Unit 2 : Computer Network
+By twisting the pairs, a balance is maintained. For example, suppose in one 
+twist, one wire is closer to the noise source and the other is farther; in the next 
+twist, the reverse is true. The twisting makes it probable that both wires are equally affected by external influences (noise or crosstalk). Fundamentally, twisted pairs are classified as unshielded twisted-pair (UTP) and shielded twisted-pair (STP).
+Unshielded Twisted-Pair (UTP)
+Unshielded twisted-pair (UTP) isthe most common form of network cable. This 
+cable format is used for the Ethernet wiring standards which are managed by the Institute of Electrical and Electronics Engineers (IEEE). These wiring standards 
+are referred by code 802.3. 
+The Ethernet standards include specifications of cable configurations and the 
+types of connectors used to plug cables into devices. 
+Figure 2.5  UTP cable
+What we conventionally know as a network cable is an 802.3 specified cable 
+for Ethernet networks. This type of cable, which is shown in Figure 2.5, can block interference and does not depend on a physical shield for this purpose. In modern networks, UTP cables are considered in different categories starting from cat1 to cat7 and so on.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  41UTP Cable Connectors
+The most common UTP connector is RJ45. RJ stands for registered jack, implying 
+that the connector follows a standard borrowed from the telephone industry, as 
+shown in Figure 2.6. The RJ45 is a keyed connector, meaning the connector can be inserted in only one way. UTP cabling, terminated with RJ45 connectors, is 
+a common copper-based medium for interconnecting network devices such as computers with intermediate devices like routers and network switches.
+Figure 2.6 UTP connector
+UTP cables are wired according to different wiring conventions. The individual 
+wires in the cable have to be connected in different orders to different sets of pins in the RJ45 connectors. 
+Ethernet straight-through and Ethernet crossover are the main cable types 
+that are obtained by using specific wiring conventions (see Figure 2.7).
+Figure 2.7 Ethernet cable color coding a) cross-over  b)Straight-through 
+The straight-through is the most common type and is used to connect 
+computers to hubs or switches (connect different network devices). They are most likely what you will find when you go to your local computer laboratory. Crossover Ethernet cable is more commonly used to connect a computer to a computer (connect similar network devices) and may be a little harder to find since they are not used nearly as much as a straight-through Ethernet cable. 
+
+
+--- [PAGE BREAK] ---
+
+42Unit 2 : Computer Network
+When electromagnetic signals are conducted on copper wires that are 
+nearby (such as inside a cable), some electromagnetic interference occurs. This 
+interference is called crosstalk.  Twisting two wires together as a pair minimizes such interference and also provides some protection against interference from outside sources. 
+Unshielded twisted pair is subject to external electromagnetic interference, 
+including interference from nearby twisted pairs and noise generated in the environment. In an environment with several sources of potential interference (for example, electric motors, wireless devices and radio frequency (RF) transmitters), a shielded twisted-pair (STP) may be a preferred solution.
+Shielded Twisted-Pair (STP)
+This type of cable, as shown in Figure 2.8, consists of a special jacket to block external interference. It is used in fast-data-rate Ethernet and voice and data channels of telephone lines.
+Figure 2.8 Shield twisted-pair
+Shielded twisted-pair (STP) cable combines the techniques of cancellation and 
+twisting of wires with shielding.  Each pair of wires is wrapped in metallic foil to further shield the wires from noise.  The four pairs of wires are then wrapped in an overall metallic braid or foil.  STP reduces electrical noise from the cable (crosstalk) and outside the cable (EMI and RFI).Practical Exercise 2.1
+Do the following exercises in a group.
+1.Practice color code arrangements of straight-through and cross-over cables.
+2. Practice UTP cabling in your school laboratory.
+3. Connect any two computers using UTP cable cat5, cat 6 or cat 7.
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  43Activity 2.2
+Discuss the following points in a group.
+1. Discuss the term signal.
+2.Compare and contrast unshielded twisted-pair (UTP) and shield twisted-
+pair (STP).
+Coaxial Cable
+Coaxial cable (or coax), as shown in Figure 2.9, carries signals of higher frequency ranges than those in twisted pair cable in part because the two media are constructed quite differently. Instead of having two wires, coax has a central core conductor of solid or stranded wire (usually copper) enclosed in an insulating sheath which is, in turn, encased in an outer conductor of metal foil, a combination of the two. The outer metallic wrapping serves both as a shield against noise and the second conductor which completes the circuit. This outer conductor is also enclosed in an insulating sheath and the whole cable is protected by a plastic cover.
+Figure 2.9 Coaxial cableKEY CONCEPTS
+RJ45 stands for Registered Jack 45.
+Electromagnetic (EM) waves are waves that are created as a result of vibrations between electric and magnetic fields. In other words, EM waves are composed of oscillating magnetic and electric fields.
+RF is short for radiofrequency. RF is any frequency within the electromagnetic spectrum which is associated with radio wave propagation. When an RF current is supplied to an antenna, an electromagnetic field is created and then able to travel or propagate through space.
+
+
+--- [PAGE BREAK] ---
+
+44Unit 2 : Computer Network
+Coaxial cables are available in a variety of thicknesses, with two primary 
+physical types: thick coaxial cable and thin coaxial cable, as shown in Figure 2.10. 
+Thick coaxial cable ranges in size from approximately 6 to 18 mm (1/4 to 3/4 inch) in diameter. 
+Figure 2.10  Thick and thin coaxial cables
+The thin coaxial cable is approximately 4 mm (less than 1/4 inch) in diameter. 
+Compared to a thick coaxial cable which typically carries broadband signals, a thin coaxial cable has limited noise isolation and typically carries baseband signals. Thick coaxial cable has better noise immunity and is generally used for the transmission of analog data such as single or multiple video channels.
+Coaxial Cable Connectors
+To connect coaxial cables to devices, we need coaxial connectors. The most common type of connector used today is the Bayonet Neill-Concelman (BNC) 
+connector.  Figure 2.11 shows three popular types of these connectors: the BNC connector, the BNC T connector, and the BNC terminator.
+Figure 2.11 BNC connector
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  45Practical Exercise 2.2
+Answer the following exercises in a group and demonstrate them to class.
+1.Bring some of the coaxial cable and its connector to class and demonstrate 
+their connection.
+2.Telecommunications office provides Internet service at home for Individuals’ use; explain the technologies used to provide Internet services.
+KEY CONCEPTS
+Ethernet is the traditional technology for connecting devices in a wired local area network (LAN) or wide area network (WAN).
+Unshielded twisted-pair (UTP) is a ubiquitous type of copper cabling used in telephone wiring and local area networks (LANs). There are different types of UTP cables - identified with the prefix CAT, as in category - each supporting a different amount of bandwidth.
+Coax, short for coaxial, is a type of cable used to transmit data, the internet, 
+video and voice communications.
+Electromagnetic is used to describe the electrical and magnetic  forces or 
+effects produced by an electric current.
+Fiber-optic Cable
+Fiber-optic cabling uses either glass or plastic fibers to guide light impulses, Figure 2.12, from source to destination. The bits are encoded on the fiber as light impulses .  Fiber optic cabling consists of a center glass core surrounded 
+by several layers of protective materials. It transmits light rather than electronic signals eliminating the problem of electrical interference. This makes it ideal for certain environments that contain a large amount of electrical interference. It has also made it the standard for connecting networks between buildings due to its immunity to the effects of moisture and lighting.
+
+--- [PAGE BREAK] ---
+
+46Unit 2 : Computer Network
+Figure 2.12 Fiber optic cable
+Fiber optic cable can transmit signals over much longer distances than coaxial 
+and twisted pairs. It can also carry information at vastly greater speeds. This 
+capacity broadens communication possibilities to include services such as video conferencing and interactive services. 
+There are two common types of fiber cable: single mode and multimode 
+cables. Multimode cable has a larger diameter; however, both cables provide high bandwidth at high speeds. The single mode cable can provide more distance, but it is more expensive.
+Fiber-optic Cable Connectors
+There are three types of connectors for fiber-optic cables, as shown in Figure 2.13. These are subscriber channel (SC), straight-tip (ST) and Mechanical Transfer Registered Jack (MT-RJ) connectors. The subscriber channel (SC) connectoris used for cable TV. It uses a push/pull locking system. The straight-tip (ST ) 
+connector is used for connecting cables to networking devices. It uses a bayonet locking system and is more reliable than SC . MT-RJ is a connector that is the 
+same size as RJ45.
+Figure 2.13 Fiber-optic cable connectors
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  47Activity 2.3
+Do the following activities in a group.
+1.If an internet service provider (ISP) needs to connect offices from Addis 
+Ababa to Bahir Dar, which types of cable do you think are relevant to this connection?
+2. Explain the importance of the protection of these cables from damage.
+3.Suppose you need to connect 20 computers to a local area network (LAN); 
+which cable do you think is relevant?(Why?)
+4.Explain the advantages and disadvantages of fiber optics cable over other copper cables.
+Practical Exercise 2.3
+Do the following activity in a group.
+Refer to Figure 2.14 and visit the installation of fiber- optics and twisted-pair cables in your school and present what observed to your classmates.
+Figure 2.14 Fiber-optic backbone with CAT 6 twisted pair running to the work -
+stations
+
+
+--- [PAGE BREAK] ---
+
+48Unit 2 : Computer Network
+2.2.2 Unguided (Wireless) Media 
+Unguided media transport electromagnetic waves without using a physical 
+conductor. This type of communication is often referred to as wireless 
+communication. Signals are normally broadcast through free space and thus are available to anyone who has a device capable of receiving them. Figure 2.15 shows categories of wireless transmission.
+Figure 2.15 Categories of wireless transmission waves
+Unguided signals can travel from a given source to its destination in several 
+ways: ground propagation, sky propagation and line-of-sight propagation. Figure 2.16 shows propagation methods.
+In-ground propagation, radio waves travel through the lowest portion of 
+the atmosphere, hugging the earth. These low-frequency signals emanate in all directions from the transmitting antenna and follow the curvature of the planet. Distance depends on the amount of power in the signal. The greater the power, the greater the distance will be.
+Figure 2.16 Propagation methods
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  49In sky propagation , higher-frequency radio waves radiate upward into the 
+ionosphere (the layer of the atmosphere where particles exist as ions) where they 
+are reflected on earth. This type of transmission allows for greater distances with lower output power.
+In line-of-sight propagation, very high-frequency signals are transmitted in 
+straight lines directly from antenna to antenna. Antennas must be directional, facing each other and either tall enough or close enough together not to be affected by the curvature of the earth. Line-of-sight propagation is tricky because radio transmissions cannot be completely focused.
+a. Radio Waves
+Although there is no clear-cut demarcation between radio waves and microwaves, electromagnetic waves ranging in frequencies between 3 kHz and 1 GHz are normally called radio waves; waves ranging in frequencies between 1 and 300 GHz are called microwaves. However, the behavior of the waves, rather than the frequencies, is a better criterion for classification.
+Radio waves, for most parts, are omnidirectional. When an antenna transmits 
+radio waves, they are propagated in all directions. This means that the sending and receiving antennas do not have to be aligned. A sending antenna sends waves that can be received by any receiving antenna. The omnidirectional property has a disadvantage too. The radio waves transmitted by one antenna are susceptible to interference by another antenna that may send signals using the same frequency or band. Radio waves, particularly those that propagate in the sky mode, can 
+travel long distances. This makes radio waves a good candidate for long-distance broadcasting such as AM radio.
+Omnidirectional Antenna
+Radio waves use omnidirectional antennas that send out signals in all directions. Based on the wavelength, strength and purpose of transmission, we can have several types of antennas. Figure 2.17 shows an omnidirectional antenna.
+Figure 2.17 Omnidirectional antenna
+
+
+--- [PAGE BREAK] ---
+
+50Unit 2 : Computer Network
+The omnidirectional characteristics of radio waves make them useful for 
+multicasting, in which there is one sender but many receivers. AM and FM 
+radio, television, maritime radio, cordless phones and paging  are examples of 
+multicasting.
+b. Microwaves
+A microwave is a line-of-sight wireless communication technology that uses 
+high-frequency beams of radio waves to provide high-speed wireless connections 
+that can send and receive voice, video and data information. Microwaves are unidirectional. When an antenna transmits microwaves, it can be narrowly focused. This means that the sending and the receiving antennas need to be aligned. The unidirectional property has an obvious advantage. A pair of antennas can be aligned without interfering with another pair of aligned antennas.
+Activity 2.4
+Discuss the following items in a group.
+1. Explain the term unguided media.
+2. Describe the fundamental characteristics of microwave propagation.3.Summarize the advantages of microwave technology in today’s 
+communication system.
+4. Compare and contrast omnidirectional and unidirectional antennas.
+Unidirectional Antenna
+Microwaves need unidirectional antennas that send out signals in one direction. Two types of antennas are used for microwave communications: parabolic dish and horn (see Figure 2.18).
+Figure 2.18  Unidirectional antenna
+
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  51A parabolic dish antenna is based on the geometry of the parabola where 
+every line is parallel to the line of symmetry (line of sight). Figure 2.18 portrays 
+the curve at angles such that all the lines intersect in a common point called the focus. The parabolic dish works as a funnel, catching a wide range of waves and directing them to a common point. More of the signal is recovered in this way than a single-point receiver.
+Figure 2.19 Microwave antenna
+In microwave communications, line-of-sight devices must be placed in 
+relatively high locations. Information is converted to a microwave signal, sent through the air to a receiver, and recovered.
+A horn antenna  looks like a gigantic scoop. Outgoing transmissions are 
+broadcast up a stem (resembling a handle) and deflected outward in a series of narrow parallel beams by the curved head. Received transmissions are collected by the scooped shape of the horn, like the parabolic dish, and are deflected down into the stem.
+Applications of Microwave Technologies
+Microwaves, due to their unidirectional properties, are very useful when unicast (one-to-one) communication is needed between the sender and the receiver. They are used in cellular phones, satellite networks  and wireless LANs (which will 
+be discussed in the next sections of this unit).
+
+
+--- [PAGE BREAK] ---
+
+52Unit 2 : Computer Network
+Activity 2.5
+Do the following activities in a group.
+1. Explain the application area of radio waves, microwaves and infrared.
+2.Discuss how microwave antennas and their accessories are protected in 
+your local environment.
+3. Explain the difference between omnidirectional and unidirectional waves.
+4. Discuss the advantages of wireless media over wired ones.
+c. Infrared Waves
+Infrared, which is sometimes called infrared light, is electromagnetic radiation 
+with wavelengths longer than those of visible lights. It is therefore invisible to the human eye. For example, you use infrared light waves to change channels on your TV. Figure 2.20 shows the remote control, which is an example of infrared wave device.
+Figure 2.20 Remote control
+KEY CONCEPTS
+Electromagnetic (EM) waves are waves that are created as a result of vibrations between an electric field and a magnetic field. Electromagnetic waves are formed when an electric field comes in contact with a magnetic field. They are, hence, known as electromagnetic waves.
+Omnidirectional means being in or involving all directions, especially receiving or sending radio waves equally well in all directions. 
+Omnidirectional antenna is a wireless transmitting or receiving antenna that radiates or intercepts radio-frequency (RF) electromagnetic fields equally well in all horizontal directions in a flat, two-dimensional (2D) geometric plane.
+
+--- [PAGE BREAK] ---
+
+Grade 10 Information Technology Student’s Textbook 
+  53Radio waves are types of electromagnetic radiation with the longest 
+wavelengths in the electromagnetic spectrum, typically with frequencies of less or equal to 300 gigahertz (GHz). They are used in standard broadcast radio and television, shortwave radio, navigation and air-traffic control, cellular telephony and even remote-controlled toys.
+2.3 Telecommunications Network
+ Brainstorming 
+1. Can you describe the term telecommunication networks?
+2. Can you mention the importance of telecommunication?3. What are services offered by a telecommunication system?
+2.3.1 Telecommunications Concepts
+The term telecommunications generally refer to all types of long-distance 
+communication that use common carriers, telephone, radio, and television. It is the exchange of information in any form (voice, data, text, images, audio, and video) over networks. Data communications is a subset of telecommunications and is achieved through the use of telecommunication technologies.
+In modern organizations, communications technologies are integrated. 
+Businesses are finding electronic communications essential for minimizing time and distance limitations. Telecommunications plays a special role when customers, suppliers, vendors, and regulators are part of a multinational organization in a world that is continuously awake and doing business somewhere 24 hours a day, 7 days a week (“24/7”). Figure 2.21 represents a model of an integrated computer and telecommunications system common in today’s business environment.
+Telecommunications system
+A telecommunications system is a collection of compatible hardware and software arranged to communicate information from one location to another. These systems can transmit text, data, graphics, voice, documents, or video information. A typical telecommunications system is shown in Figure 2.22. Such systems have 

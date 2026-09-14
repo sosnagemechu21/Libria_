@@ -1,0 +1,639 @@
+=================================================================
+Book: information_technology.pdf
+Chapter 1: Organization of Files
+Pages: 11 to 42
+=================================================================
+
+Unit 1 : Organization of Files
+4 Figure 1.3 (a) Cluttered file                      (b) Organized file by folders
+Importance of Folders
+Folders help to keep related files organized together as shown in Figure 1.3 b 
+above. This helps to locate files easily. If you had no folders on your computer, your documents, programs and operating system files would all be located in the same place. Folders allow you to have more than one file with the same file name. For instance, you can have a file called My-letter.doc in your My Documents folder and another file called My-letter.doc in a different folder called ’Letter collection’. If all your files were in a single place, every file would need a unique file name.
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    5KEY CONCEPTS
+ /u270D_1F3FF A folder, which is also called a directory, is a container of files. 
+ /u270D_1F3FFA folder helps us to organize related files together. 
+1.2 Managing Files and Folders
+In Windows operating system, the primary way of interacting with files and 
+folders is through the File Explorer application. There are also other operating 
+systems, but in this textbook we use Windows operating system. 
+1.2.1  Using File Explorer
+A file explorer (which was called Window explorer in applications before Window 10 version) has the following main parts (See Figure 1.4 and Table 1.1).
+Figure 1.4 File Explorer window 
+ Brainstorming 
+1.  How are documents created, named/renamed, copied, moved and deleted 
+in paper-based file systems?
+2. How is a folder/dossier created, named/renamed, copied, moved and deleted in manual filing system? Do you think there is a way to do such things in computers’ files and folders? 
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+6 Table 1.1 File Explorer Parts and Their Descriptions
+Element 
+NumbersFile Explorer 
+Elements Description and Usage
+      1 Navigation 
+paneNavigation pane allows you to view and access your 
+computer’s file and folder structure. On Navigation 
+pane, there is  a Quick Access  area. It allows you to 
+navigate quickly and easily to the folders that you use regularly or frequently. 
+To add or pin
+ a folder to the  Quick access  area, right-
+click on the folder name and then select  Pin to Quick 
+access  from the drop-down menu.
+      2 Forward and 
+Back buttonsEnables you to go to folders you have previously 
+opened. If you go to a different folder, you can 
+choose the  Back button to  return to the last folder 
+you accessed.
+      3 Ribbon Enables you to perform layout, formatting and sharing tasks. It also enables you to change your files’ and folders’ displays. Tasks available to you might differ depending on what folder you select 
+(e.g. Documents  versus  Pictures).
+To display the Ribbon, click on one of the menu items at the top of File Explorer or click on Expand 
+the Ribbon  button (down-pointing arrow) located at 
+the top right-hand side of File Explorer.
+      4 Address bar Enables you to go to a different folder in the same Explorer window. (For more information, 
+see Navigating the Address Bar in section 1.2.6.)
+      5 Column 
+headingsTitles of each of the columns displayed in the 
+file and folder list.   You can choose which columns you want to display by adding a column 
+heading  or removing  a column heading, as well 
+as changing  the order in which those columns are 
+displayed. Click on a column heading to sort your files and folders by that column (e.g. date modified).
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    7      6 Search box Allows you to search for subfolders, documents, 
+images, programs, web pages and bookmarks in the current folder.
+      7 File and fold-
+er listingShows you the files and folders in the current folder 
+(the folder you selected in the Navigation pane).
+      8 Preview/De-
+tails paneEnables you to quickly preview an item, such as a 
+photo, without having to open that item. 
+To open the Preview pane (which is not open by 
+default), click on the  View  menu at the top of File 
+Explorer, then click on the  Preview pane  button 
+located at the left-hand side of the Ribbon in 
+the Navigation pane  area.
+      9 Status bar Displays information about a selected folder and 
+its contents such as the total number of items in the folder, the number of items selected and the total file size. 
+Contains buttons that enable you to quickly switch 
+between thumbnail and detail views for the items displayed in the current folder.
+Opening File Explorer 
+To open File  Explorer,  click  on the  File Explorer  icon located in the taskbar.
+Figure 1.5 Opening File Explorer from task bar
+Alternatively, you can open File Explorer by clicking on the Start button and then clicking on File Explorer.
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+8 
+Figure 1.6 Opening File Explorer from Start menu
+You can use Win key ( 
+  ) + E keyboard shortcut to open file explorer. 
+1.2.2  Creating New File 
+A file is created using a computer software program. For example, to create a 
+plain text file you can use a text editor such as Notepad or Notepad++. You can use word processing software such as WordPad, Microsoft Word and LibreOffice Writer to create a text document file. An image file can be created using image editing software such as Microsoft Paint, Paint 3D, Gimp and Adobe Photoshop.
+Practical Exercise 1.1
+Creating a document file
+1. Work in a group to create a document file entitled Ethiopian Cultural Foods using Word processing software.
+Try to remember how to create documents using Microsoft (MS) word or 
+any other word processing application software from your previous grade (Grade 8). 
+2. Open Word processing software on your computer. 
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    9Figure 1.7 Newly created document
+3. Type the passage
+To insert text in your document, place the cursor at the position where you want 
+to enter the text and start typing a paragraph about the Ethiopian cultural foods by exploring different sources. You can see Figure 1.8 as an example document. 
+Figure 1.8 Article on Ethiopian Cultural Food 
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+10 4. Saving the document 
+Save allows you to update a previously saved file with new content, 
+whereas Save As allows you to save a new file or an existing file to a new location with the same or different name.
+How to create a text file
+The easiest way to create a text file in Windows is to open up the Notepad application software program on your computer. The Notepad is a text editor included with Microsoft Windows.
+A text file is considered as a plaintext file and Notepad is capable of creating and editing plaintext files. Notepad saves any text file with .txt file extension, which means no special formatting or fonts.
+The Windows Notepad program can be opened using the methods below.
+1. Click Start.
+2.  In the Run or Search box, type Notepad and press Enter.
+Viewing, editing, and creating images
+There are many software programs you can use to display, view, edit and create images, logos or arts on your computer. Microsoft Paint is a default image editing application software in window Operating system. We can use it to simply edit our image file.
+Practical Exercise 1.2
+Using Microsoft Paint to create an image Create an image using Paint application following the steps below.
+ Click on Start  Open Paint Application  Create your own image  
+Save your image
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    11Creating presentation file
+Presentation files are created for electronic presentations consisting of a series of 
+separate pages or slides. To create presentation files, there are different application software such as Microsoft PowerPoint and LibreOffice. 
+Practical Exercise 1.3
+Preparing a presentation file for a project Work in a group to create presentation file using Microsoft PowerPoint (say Ethiopian Wild Life) using your previous grade (grade 8) knowledge of using Microsoft PowerPoint. Use the following steps to open it.
+1. Open Microsoft PowerPoint application.
+2. In the left pane, select New.
+3. Select a New Blank Presentation.
+4. Start adding contents in the slide about Ethiopian wild Life. 
+1.2.3  Creating a New Folder
+Creating a new folder can help you store related files in an organized manner. The following steps can be followed to create a new folder. 
+1. Navigate to the location where new folders are created.
+2.  In File Explorer, click on the Home menu item.
+3.  From the Home tab, click on the New folder button (See Figure 1.9).
+Figure 1.9 New folder button on file explorer
+4. Enter the name of your new folder.
+5. After you enter the folder name, click anywhere outside the text area to com -
+plete creation of the folder name.
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+12 1.2.4  Copying a File
+Copying a file is used to put the file in a duplicated manner. To copy computer 
+documents, pictures or other files from one place to another, follow the following instructions.The following steps show how to copy a file or multiple files in Microsoft Windows from one folder to another.
+1. Go to the files or folders you want to copy. 
+2. Highlight the file or files you want to copy by clicking them once with the mouse. If you need to highlight more than one file, you can hold down the Ctrl or Shift keys on your keyboard or drag a box around the files you want to copy.
+3.  Once highlighted, right-click one of the highlighted files and select copy. 
+You may also press the Ctrl + C shortcut key or in File Explorer, click Home at the top of the window and click Copy.
+4.  Open the destination folder, right-click an empty space in the folder, and 
+choose paste. Alternatively, in the File Explorer menu bar at the top, click Home and then click Paste. (See Figure 1.10).
+Figure 1.10 Copying a file using right click option
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    13When copying files, you are going to get more than one copy of the 
+file on your computer. If you want only one copy of the files, move them instead. A file name must be unique; otherwise, a number will be appended to the end of a file name. It may also have “- Copy” appended to the end of the file name, instead of a number. Appending a number to the end of the copied file’s name assures the copied file is unique. For example, if the original file name is StudentMarkList.pdf and a copy is created in the same directory or folder, the copied file name could be StudentMarkList (1).pdf or StudentMarkList - Copy.pdf.
+1.2.5  Renaming File and Folder
+You must have right or permissions to a file, a folder or a directory to rename it. In some cases, you may need administrator privileges in the operating system to rename.
+In Window, to rename files such as text, photo, document, audio and video files and folders, you can use one of the following methods.
+Method one
+1.  Highlight the file or the folder.
+2. Right click the file with your mouse and select Rename from the menu that appears.
+Method two
+1. Highlight the file or the folder.
+2.  Press the F2 key on the keyboard.
+Method three
+1.  Highlight the file or the folder.
+2.  Click File at the top of the window and select Rename from the list of available 
+options.
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+14 Method four
+1. Highlight the file or the folder you want to rename by single-clicking the file.
+2.  Once highlighted, wait a few seconds and click the file name again. A box 
+should appear surrounding the file or folder name, and you can rename the 
+file.
+Figure 1.11 Renaming using right click Rename option
+If you do not wait long enough and click the file or folder too fast, it can open the file or folder rather than allowing you to rename it.
+If we want to rename multiple files of folders at once, we should keep the following steps. 
+1. Open Explorer.
+2.  In Explorer, select all the files you want to rename.
+3.  Once the files are selected, press F2 to edit the file name and type the new 
+name for the files. For example, typing “test” renames the files to test, test (1), test (2), test (3), etc. If you have file extensions shown, make sure that you also typed the name of the file extension you are renaming.
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    15Figure 1.12 Renaming multiple files
+1.2.6  Accessing Files and Folders
+There are a number of ways you can navigate to your files and folders in File 
+Explorer. The methods below will help you to do so. 
+ Using the Address bar (located at the top of File Explorer). The Address bar shows the full path of your current location.
+ Forward and Backward buttons
+ From the Folders/Navigation pane
+ Using the Search function (which searches file names and file and folder contents in the current folder to find items containing your search term)
+Using the address bar
+The address bar, which is located at the top of File Explorer as shown in Figure 1.13 below, displays the path of the currently selected folder or active folder. 
+File Explorer drop-down menus are available for each subfolder in the address 
+bar. Therefore, we can easily go backward or forward in the folder path by clicking on the right-pointing arrow next to the folder and selecting a subfolder from the drop-down menu.
+ 
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+16 
+Figure 1.13 File Explorer address bar
+Viewing previously visited folders in the address bar
+To view folders you have seen previously, you can do any of the following.
+Option 1: Click on the forward ( ) or back buttons ( ) as shown in Figure 1.14. 
+Figure 1.14 Forward and back buttons to view previously visited folders in 
+address bar
+Option 2: Click on a folder name in the address bar as shown in Figure 1.15 below.
+Figure 1.15 Clicking on folder name to view previously visited folders in address 
+bar
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    17Viewing the contents of a folder in the address bar
+To view the contents of a folder in the address bar, click on the right-pointing arrow 
+( > ) next to the folder whose subfolders you want to view. The arrow changes to a downward-pointing arrow ( V ) and a drop-down list of the subfolders will be displayed (See Figure 1.16).
+ 
+Figure 1.16 Viewing the contents of a folder in address bar
+1.2.7  Displaying Subfolders Using Navigation/Folder Pane
+The Folders pane or the Navigation pane is found along the left edge of every folder and displays a directory tree of all the folders on your computer (See Fig -
+ure 1.4 and Table 1.1). You can select one or more folders in the Folders pane to display their contents in the File List pane. The Folder/Navigation pane contains several main sections: Quick Access, OneDrive, This PC and Network (See Figure 1.4).
+If you used previous versions of Windows 10, you know that a folder name 
+would have a plus sign next to it if that folder contains documents or subfolders.
+With Windows 10, if a folder contains subfolders, that folder’s name will have 
+a small right-pointing triangle next to it (>).
+ No triangle next to a folder name (  
+  ) means the folder has 
+no subfolders.
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+18  Right-pointing triangle next to a folder name (  
+  ) means 
+the folder has subfolders.
+ Down-pointing triangle next to a folder name (  
+  ) means the 
+subfolders are currently displayed for that folder.
+To view a folder’s subfolders, click on the right-pointing triangle (>) next to the 
+folder. The right-pointing triangle will turn into a down-pointing triangle and the subfolders will be displayed as shown in Figure. 1.17 below.  
+Figure 1.17 Displaying subfolders
+In the figure above, “This PC” contains subfolders. To display the subfolders, just click on the folder name; to hide a folder’s subfolders, click on the down-pointing triangle of that folder so that the subfolders will no longer be displayed.
+1.2.8  Moving Files and Folders on Computer
+There are several methods available to move computer files and folders (directories) from one source or level to another.
+When moving files or folders, only one copy of the files is moved. If more than one copy of the files are needed, copy the files and instead of move them. See how to copy files in section 1.2.4 above.
+In Windows, you can move files using several methods. These are:
+ Cut and paste
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    19 Drag-and-drop 
+ Use the “Move to Folder” command 
+Below are the steps used in different methods (options) to move files in Windows. 
+Choose the option that works best for you.
+You can also select multiple files and move multiple files at once using any of the steps below.
+Option 1: Cut and paste
+To move files using cut and paste method: 
+1. Select the file you want to move. 
+2.  Right-click the highlighted file 
+3.  Then select Cut. 
+4.  Browse to the folder you want to move the file to. 
+5.  Right-click in the folder, and select Paste.
+Figure 1.18 Moving a file in Windows
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+20 Alternatively, you can click Home from file explorer, select Cut to cut the files, 
+browse to where you want to move the files, then select Home and Paste in the file menu.
+You can also use shortcut keys to cut and paste files. Select the files you want to cut, then press the shortcut key Ctrl+X to cut the files. Cutting the files is like cutting text in a document, i.e. it moves the files to a temporary clipboard until you paste them somewhere. Navigate to the destination folder and press the shortcut key Ctrl+V to paste the files. The files are now in your destination folder.
+Option 2: Drag-and-drop
+To move the files and folders using drag and drop, follow these steps: 
+1. Highlight the files you want to move. 
+2.  Press and hold your right mouse button and drag-and-drop the files to where 
+you want to move them. 
+3.  When you release the mouse button, a menu appears.
+4.  Select the Move here option to move the files.
+For drag-and-drop to work, you will need to be able to see the window of where you are moving the files.
+Option 3: Use “Move to Folder”
+To move the files and folders using Move to Folder command, follow these steps: 
+1. Select the file by clicking the file name. 
+2.  Click the Home menu found on the top-left of the window and select the 
+Move to Folder option. 
+3.  In the new window, browse to the folder you would like to move the file; 
+then click the Move button to move the file to that folder.
+If you are using Windows 7 and below versions, once the files are selected, the Move to option is shown under the File tab.
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    21Figure 1.19 Using Move to Folder command to move files
+1.2.9  Deleting File and Folder
+Now and then, it is a good idea to clean up your drives and delete duplicated 
+files such as photos, documents, temporary files and videos, and other unneeded or unwanted files and folders. The steps to delete a computer file, a directory or a folder vary based on the method you want to use and your operating system. Below are more common methods used for deleting a file or a folder in Microsoft Windows.
+Users not familiar with Windows should realize that if they delete a folder or directory, all files and folders in that folder or directory are deleted. Deleted files or folders can be restored from Recycle Bin if not permanently deleted using shift + Delete key.   
+Use the following Steps to delete file or folders using Delete key method
+1. Locate the item you want to delete. 
+2.  Highlight the file or the folder by left-clicking with your mouse once. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+22 3. Press the Delete key. 
+You can delete multiple files or folders by holding down the Ctrl key 
+and clicking each file or folder before pressing Delete. You can hold down the Shift key while pressing the Delete key (shift + Delete) to delete the files permanently. In this case, restoring from Recycle Bin is not possible since the file will not go to the Recycle Bin when deleted. It will be deleted permanently.
+Use the following steps to delete a file or a folder by right-clicking 
+method.
+1. Open This PC or File Explorer. We recommend you to make sure that the 
+directory or folder is empty before proceeding; otherwise, you intend to delete everything in it. 
+2.  Locate the file or the folder you want to delete and right-click it. 
+3.  Choose the Delete option from the pop-up menu.
+Figure 1.20 Delete file using right click option
+Caution!
+The local disk contains files and folders that are important for your computer 
+to run correctly. Unless you know what you are deleting, please do not delete 
+any file from this section.
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    23Use the following steps to delete a file or a folder using Delete command 
+from the Home menu.
+1. Open This PC or File Explorer. 
+2. Locate and select the file or folder you want to delete.
+3.  Click Home in the top menu bar, and select Delete.
+Figure 1.21 Delete from the Home menu
+Practical Exercise 1.4
+Find an icon of a file that you saved on your desktop before or identify any file 
+that is not important anymore to keep and delete it using one of the methods that you have learnt. Caution: be aware of the danger of deleting system files. Note about a special folder called Recycle Bin where deleted files are kept in. 
+You need to delete the file from the Recycle Bin for a permanent removal.  
+1.2.10   Searching a File on a Computer
+All major operating systems running on computers can find files on the hard drive or other drives connected to the computer. Microsoft Windows has a search feature that helps you find any file such as document, spreadsheet, picture or video on your computer. To find a file, it is not required to know its full name. Some of the methods used to search files are discussed below.
+Option 1: Using Start button
+1. Press the Windows key; then type part or the entire file name you want to find. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+24 2. In the search results, click the file name you want to open.
+Option 2:  Using File Explorer
+1.  Open File Explorer.
+2. In the left navigation pane, click Computer or This PC.
+3.  Near the top-right of File Explorer, click in the Search field and enter part or 
+the entire file name you want to find.
+To find a file on a specific drive, click the drive under Computer or 
+This PC in the left navigation pane. Then enter the file name you want to search for in the Search field.
+Figure 1.22 Search for a file in File Explorer
+Practical Exercise 1.5
+Work in a group of two or three to do the following file and folder management activities.
+1. Creating a folder 
+Create two folders called Test1 and Test2 in Documents folder. 
+2. Creating files
+Create a text file and write the text “I love Ethiopian cultures” and save it 
+as “testfile1.txt” in the Test1 folder created as answer to question number 1 above. Open the Test 1 and Test2 folders. Which of the two folders created above are empty? 
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    25KEY CONCEPTS
+ /u270D_1F3FF File Explorer enables you to create, view, rename, delete and search files and 
+folders in computer. 
+ /u270D_1F3FF File Explorer is also called Window Explorer in earlier versions of Windows 
+10.
+ /u270D_1F3FFYou can use window key + E to open File Explorer.
+1.3 Computer Drives
+A drive is a computer hardware component used to store and retrieve data, files, 
+programs, operating system, etc. All drives store files and programs used by a computer. For example, when you write a letter in a word processor, the program is loaded from the hard drive. When you save the document, it is saved to the Create testfile2.txt in folder Test2 with the name of your school as a text 
+following the above procedures.
+3. Copying a file
+Copy testfile1.txt to Test2 folder using one of the methods you learned in 
+section 1.2.8 above.  What do you observe now in the two folders? Which 
+folder contains two files?
+4. Moving a file 
+Move testfile2.txt from Test2 folder to Test1 folder.  Which method do you 
+use? Is there any difference between copying and moving files? What are 
+the keyboard shortcuts that you use for copying and moving files?
+5. Renaming a file 
+Rename testfile2.txt file in Test1 folder as testfile3.txt. See section 1.2.5 to 
+revise how you can do this.  
+6. Deleting duplicated file
+Notice that we have a file named testfile1.txt both in Test1 and Test2 folders. 
+Thus, the file is a duplicate. What is the problem of keeping duplicate files in 
+your computer? Remove testfile1.txt from Test2 folder. Open the Recycle Bin 
+and search for the testfile1.txt file. Why is it found in the Recycle Bin?
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+26 hard drive or other disk or drive. In window operating system, a drive is often 
+referred to by its letter like C:, D: or F:. However, Linux operating system uses tree structure starting from root represented by forward slash (/). For example, /home in Linux is a directory used to store users files.  A computer drive can be a hard disk drive, CD/DVD drive, removable disk (USB) flash drive, etc. These are called secondary storage devices which you have learnt in Grade 8.
+A hard disk drive (hard disk or fixed disk) is usually designated as the “C: 
+drive”. The hard disk drive is the main data and program storage hardware device that can provide quick access to large amounts of data and program in a computer. A CD/DVD drive, which is also called optical disc drive, allows you to use CD and DVD to listen to music, watch movie or store any files. It is usually designated as the “D: or G: drive”. A USB drive, which is also referred to as a flash drive or memory stick, is a small, portable device that plugs into the USB port on your computer. USB drives are commonly used for storage, data backup and transferring files between devices.The following figure shows examples of common computer drives.
+Figure 1.23 Computer drives 
+Some users may be confused with “drive” and “driver.” These are separate terms. The word drive typically refers to a mechanical hard drive or solid-state hard drive used to store the operating system, data 
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    27and programs. A driver is software code that enables one or more 
+hardware devices to communicate with the computer’s operating system. Without drivers, a computer could not send and receive data correctly to hardware devices such as printer and flash drive.
+Accessing all drives available on a computer
+In Windows 10, it is possible to view all mounted or attached drives in File Explorer. To achieve this, follow the following steps carefully.
+1. Open File Explorer by pressing Windows key + E.
+2.  In the left pane, select This PC.
+3.  All drives are shown on the right. Figure 1.24 shows a typical view of This 
+PC with three mounted drives.
+Figure 1.24 This PC in Windows 10
+
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+28 Practical Exercise 1.6
+Work in a group of two or three to practice accessing removable drive and 
+copying files from it following the instructions given below. Plug a removable drive and copy any file into a folder created in your Documents folder. Note for safe removal of a flash drive.When you have done using a flash drive, do not remove it from the USB port just yet! You will need to make sure that it is disconnected properly to avoid damaging files on the drive. Follow is the steps below to safely remove your flash drive.
+1.  Right-click the flash drive; then select Disconnect (or Eject) disconnecting 
+the flash drive.
+2.  You can now safely remove the flash drive from the USB port.
+If you want to rename a flash drive, follow these steps
+1. Right-click the flash drive; then select Rename.
+In Windows, most of your programs are stored in the Program Files folder, and your documents are frequently saved in the My Documents folder.
+MINI PROJECT: MANAGING FILES, FOLDER AND DRIVES 
+Read and understand each of the following cases carefully and answer the questions that follow them.Case 1Suppose you have just started to work in school as record officer. Your computer uses Windows 10. Your first task is to organize the hard drive on your computer. Record officer create and save several types of files about the students, including words, spreadsheets and pictures. Your supervisor has asked you to present a plan for organizing the student files on the computer. Currently, all of the files are saved in the root directory or folder of the computer. 
+1. Write a plan for naming and organizing the students’ files of the school. Include the following in your plan.
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    29a. Create a visual tool using pen and pencil that explains your plan. 
+b.  Create a list of folders and describe how you will identify each folder 
+and the files that are to be placed in each folder. For example, you might 
+organize files by students’ year or section.
+c.  Create your own naming standard for folders and files. For example, 
+the name can contain student grade; then underscore the section, i.e. Grade_Section.
+2.  Create all the necessary folders and then files according to the above plan.
+3.  Show the new filing system to your teacher. Describe how you will use 
+File Explorer to view the new folder structure and the organized files for students’ registration files. 
+Case 2Suppose you use computer to store all information about the subjects you are currently learning. For example, you may have notes, reference books, assignments and files or folders for each subject. 
+1. Write a plan for naming and organizing the subjects you have been learning in grade 9. Include the points discussed above in case 1 in your plan.
+2. Create all the necessary folders and then files according to the above plan.
+3.  Show the filing system you have created to your teacher. 
+1.4 Unit Summary
+Learning files and folders is important. Organizations, small or large, have file management systems either in a computerized or manual system.  Organization KEY CONCEPTS
+ /u270D_1F3FF Drive is a hardware component of a computer which stores files and folders.
+ /u270D_1F3FFDrive can be fixed and removable.
+ /u270D_1F3FF Fixed drives are found within a computer while removable drives are 
+portable and plugged externally. 
+ /u270D_1F3FF This PC section of Window Explorer navigation part contains all drives 
+mounted on the computer. 
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+30 maintains different files such as human resource data, day-to-day activity data, 
+payroll files, customers’ files, organizational documentation files, plan and schedule. Students must know how to manage files and folders in a computer system so that they can easily locate it, search it, organize similar file together in a folder, delete unwanted file to make a room for important files, and do similar activities on files and folders. The following are key points of files and folders organizations. 
+ A file is a collection of similar data stored in a computer system. 
+ A file in computer is analogous to real world file which is used to store some data, for example, student’s data, teacher’s data, etc.
+ In computer, file can be document, picture, audio, video, application, etc.
+ Each file in a computer has unique icons. 
+ A folder is like manila folder, it is a container of a file and other folder. 
+ Folder helps you organize similar files together so that you can locate files in a computer easily. 
+ File explorer is the best application in order to manage files and folders in window. Managing files and folders includes creating, deleting, renaming, sorting, viewing and similar activities on files and folders.
+ Navigation Pane is part of the File Explorer which is used to view your computer files and folders in tree structure hierarchically. It consists of quick access sections: OneDrive, This PC and Network. 
+ Quick access section is used to navigate to folders quickly. It consists of Desktop, Download, Documents, Pictures and frequently accessed folders.  If you click Desktop, you will get all files found in your desktop. Browsers such as Internet Explorer, Microsoft Edge and Chrome will put all files downloaded from internet by default in Download folder. So, you can access your Download file from Quick access section in navigation pane. Documents contains word documents, letters, memos, etc. and Picture contains photos you have shot or saved from the Internet.
+ To open File Explorer application, you can use: 
+ The shortcut on task bar or on the desktop.
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    31 Start typing ‘File explorer’ after clicking Start button. 
+ Window key + E keyboard shortcut.
+ To navigate to your files and folders using File Explorer in a computer 
+system, you can use either of the following methods. 
+ Using the Address bar (located at the top of File Explorer) 
+ Forward and Backward buttons of File Explorer
+ From the Folders/Navigation pane
+ Using the Search function which is located at the right side of File Explorer 
+ Clicking the right-pointing triangle next to the file on navigation pane, to view the subfolders and/or content of each folder
+ To move files, you can use either of the following methods.
+ Cut and paste
+ Drag-and-drop 
+ Use the “Move to Folder” command
+ You can use F2 shortcut key to rename file or folder after selecting it. 
+ A drive is a computer component used to store the data and it can be: 
+ Static (built in) drive: including internal hard disk, SSD and the like. 
+ Removable drive: including Flash Disk, Removable Hard Disk, CD, etc.
+ To view all mounted or attached drives in window, File Explorer application is used. 
+1.5 Unit Review Exercise
+Part I: Write whether the following statements are true or false.
+1. ‘Copy and paste’ can also be referred to as moving a file.
+2.  A file is an entity in a computer system that contains other files inside.
+3.  Renaming a file removes its content.
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+32 4.  Dragging a file creates multiple copies of files. 
+5.  Deleting a file will completely remove files from the disk.
+6.  We cannot access or open files and folders using address (path) because files 
+and folders do not have address in computer.
+7.  Windows does not allow handling multiple files.
+Part II: Choose the correct answer among the alternatives provided.
+1. To expand a branch of the folder tree, you would _____. 
+A. click on the folder name in the folder tree
+B.  click on the icon Arrow right (>) of the branch 
+C.  click on the icon Arrow – down (V) of the branch
+D.  None of the above.
+2. To remove a file or a folder, you would _____
+A. drag it out of the window
+B.  select it and press the Delete key
+C.  select it and press Ctrl + Delete keys
+D.  right click on the file or the folder and select Cut
+3. What do you do to select an of icon a file?
+A.  Left click
+B.  Right click
+C.  Double click
+D.  Scroll
+4. Which one of the following is true about file explorer?
+A. It was called window explorer previously.
+B.  It is used to view files and folders.
+C.  It is used to view available drives. 
+D.  All of the above. 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    335. What do you do to get a menu when clicking on a folder or file icon?
+A. Left click
+B.  Right click
+C. Double click
+D.  Scroll
+6. Which type of icon can take you to another place quickly?
+A.  File
+B.  Folder
+C.  Application
+D.  Shortcut
+7. What do you do to open a folder?
+A.  Left click
+B.  Right click
+C.  Double click
+D.  Scroll
+8. What do you do to rename a folder?
+A. Left click
+B.  Right click
+C.  Press F2 key
+D.  Scroll
+9. What is drive used for?
+A. To open files from your teacher
+B.  To use applications not on your computer
+C.  To save things on the computer
+D.  To save their work for students
+10. What would you do to see the content of the file using Navigation pane? 
+A. Right click
+B.  Left click
+C. Double click
+D.  Drag
+
+--- [PAGE BREAK] ---
+
+Unit 1 : Organization of Files
+34 11.  _______is used to open a file or a folder.
+A. Right click
+B.  Left click
+C.  Double click
+D.  Drag 
+12. Which one of the following short cut keys is used to save any file?
+A. Ctrl + N
+B.  Ctrl + S
+C.  Alt + Z
+D.  Ctrl + A
+ Part III: Fill in the blanks.
+1. Information is stored in a storage device with a specific name called __________.
+2. Duplication of files from one drive to other is called _______________________.
+3.  The cut and paste option is also called _______________________. 
+4.  ______________________ means locating a file among a set of files.
+5. To delete a file, you have to click the right button of the mouse on the file name 
+and select the _________________ option.
+6.  __________________ is used to manage files and folders in window.
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    35Part IV: Match the following items in column A with column B.
+  A                           B
+1. Collection of data      A. File Explorer
+2. Used to organize similar files     B. Used to draw pictures
+3. Used to manage files and folders    C. Navigation panes
+4. View your computer’s file and folder structure      D.Used to process text files
+5. Formerly called  favorites     E. File
+6. Allows you to see all networked PCs    F. Quick Access
+7. Paint Application      G. Network
+8. Moving files       H. Folder
+9. Fixed drive       I. CD
+        J. Internal hard disk
+        K. This PC
+        L. Copy and Paste
+        M. Cut and Paste
+        N. Internet Explorer  
+ Part IV: Provide clear and precise responses to the following questions. 
+1. What is the difference between a file and a folder?
+2.  Where are files stored?
+3.  Write the steps to create a folder?
+4.  Why do files need to be kept in the proper place in a computer?
+5.  Write the major steps to rename a folder?
+6.  Write the major steps to delete a folder?

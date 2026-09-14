@@ -1,0 +1,617 @@
+=================================================================
+Book: economics.pdf
+Chapter 3: Theories of Production and Cost   �  �  �  �  �  �  �  �  �
+Pages: 56 to 76
+=================================================================
+
+Unit 3:  Theory of Production and Cost48Unit Introduction
+In the previous unit, we have discussed the theory of demand and supply. In this unit, 
+we move to the theory of production and cost, which emphasizes the behavior of firms 
+in the production of goods and services. Firms incur costs when they buy inputs to 
+produce the goods and services that they plan to sell. In this unit, we examine the link 
+between a firm’s production process and its total cost.
+Unit Objectives
+At the end of this unit, students will be able to: 
+6State production and production functions in the short and long run.
+6Derive and draw the various average and marginal functions from the total 
+functions.
+6Calculate the average and marginal cost and productivity values .
+6Draw and explain the relationship between different types of cost curves.
+6Show the relationship between production and cost curves.
+6Discuss the stages of production. 
+6Analyze the concept of returns to scale in production.
+Main Contents
+3.1 Theory of Production
+3.2 Theory of Cost    Theories of Production and Cost  Unit
+3
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost493.1. Theory of Production
+At the end of this section, students will be able to: 
+6Define the function of production.
+6Describe short run and long run production functions.
+6Calculate the average and marginal products.
+6State the law of diminishing marginal productivity and its implications.
+6Explain the concept of returns to scale.
+6Clarify the stages of production.
+6Analyse technology change and the position of production curves.
+Key Concepts
+Production, production function, isoquant, returns to scale
+Startup Activity
+1. How do you define ‘production’? What is needed to undertake production?
+Introduction
+Production is a scientific process that involves the transformation of raw materials 
+(inputs) into desired products or services (outputs) by adding economic value. 
+Production  of goods and services involves transforming resources such as labor power, 
+raw materials, services, and machines into finished products.
+Figure 3.1 Production
+3.1.1 Production Function 
+The production function is a function that shows the highest output that a firm can 
+produce for every specified combination of inputs. In particular, the production 
+function tells us the quantity of output the firm can produce given quantities of the 
+inputs that it might employ. Assuming labor (L) and capital (K) as the only inputs, 
+mathematically, the production function can be written as: Q = f (L,K).The production 
+function allows inputs to be combined in varying proportions so that output can be 
+produced in many ways (using either more capital or less labor or vice versa).
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost503.1.2 Short Run Production Function
+As you may recall from your grade 9th economics class, the term short-run refers to the 
+period of time over which at least one factor of production is fixed. In the real world, 
+land and capital (such as plants and equipment) are usually treated as fixed factors. 
+The long run is the period of time (planning horizon) which is sufficient when all 
+quantities of inputs are variable. Here we are considering a simple production process 
+with only two factors. We treat capital as the fixed factor, and labor as the variable 
+factor.
+Production with one variable input: Production with one variable input (while the 
+others are fixed) is obviously a short run phenomenon. So, let’s now consider a farmer 
+producing wheat.  To the farmer, the only variable input is assumed to be labor, and all 
+other inputs, like land, capital, and technology, are fixed inputs.  
+That is to say:   𝑄𝑄=𝐹𝐹(𝐿𝐿,𝐿𝐿̅𝑎𝑎,𝐾𝐾,̅𝑇𝑇̅)
+Where, Q=Quantity (output), L = Labor, La = Land, K = Capital, T = Technology, and 
+the bar implies constant. So the short run production function tells us only the effect 
+of a change in the farmer’s labor on the production of wheat, while keeping the size of 
+land, capital, and technology constant.
+The following are the three basic concepts of the production function:
+Ö Total physical product (total product) (TP)
+Ö Average physical product (Average product) (AP)
+Ö Marginal physical product (marginal product) (MP)
+Total product (TP):  refers to the total output produced by a given amount of a variable 
+input, keeping the quantity of other (fixed) inputs constant. It is the overall amount of 
+output produced by the factors of production employed over a given period.
+Average Product (AP):  To calculate the average product (AP), the total product is 
+divided by the number of units of that input. Suppose in the production of wheat, 
+the AP of a farmer is obtained by dividing the total output by the number of workers 
+employed. 
+This can be put in the form of:    APL=Total product
+Number of workers=𝑇𝑇𝑇𝑇
+𝐿𝐿
+Where APL denotes Average Product of Labor, TP denotes Total Product, and L denotes 
+Labor. An average product measures the output per worker, which is an indication of 
+the productivity of the input. 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost51Marginal Product (MP) : The marginal product (MP) is the extra or additional output 
+obtained with one extra unit of the variable input while all other variables remain 
+constant. In other words, the MP is the percentage change in total output resulting 
+from a percentage change in variable input, all other things being equal. 
+Mathematically,  MP L=Change intotal product
+Change innumber of workers=∆𝑇𝑇𝑇𝑇
+∆𝐿𝐿
+As a result, the marginal product (MP) is equal to the slope of the total product (TP). 
+Generally, we can say that the three, i.e. total product (TP), marginal product (MP), 
+and average product (AP), are interrelated.
+3.1.2.1. The Law of Diminishing Marginal Productivity 
+In any production function with a fixed level of some of the inputs, it is impossible 
+to expand the level of production indefinitely. Initially, as more of the variable inputs 
+are employed together with the fixed ones, the output level increases dramatically to 
+a certain extent, i.e. the marginal contribution of one more variable input (say, labor) 
+increases sharply. But as the number of labor employed increases with a fixed capital, 
+the production capacity goes to exhaustion and eventually the total output declines, 
+i.e. the additional contribution of extra laborers employed becomes a loss or negative. 
+Therefore, according to the law of diminishing returns, increasing the amount of the 
+variable factor (labor) with the fixed factor (capital) will lead to an eventual decline 
+in the marginal contribution of the additional labor to the total output. This is also 
+accompanied by an eventual decline in total output.
+3.1.2.2 Stages of production 
+Assume capital is fixed. The production function shows different levels of output that 
+the firm can obtain by efficiently utilizing different units of labor. In the short run 
+production function above, the quantity of capital is fixed. Thus, output can change 
+only when the amount of labor used for production changes. Hence, total production 
+(TP) or total quantity (Q ) is a function of labor (L). Now let us take a hypothetical 
+example (table 3.1 ) that explains how a farmer  can produce  wheat on  fixed land (one 
+hectare of land) by changing only the amount of labor.    
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost52Table 3.1 short run productions and stages production
+Fixed input
+(a hectare of 
+land)Variable 
+input 
+(labor)Total Product 
+(TP)
+(In quintals)Average 
+product Marginal 
+ProductStages of 
+production
+1 hectare 0 0 --- ---
+Stage I» 1 5 5 5
+» 2 11                6 5.5
+» 3 19 8 6.33
+» 4 30 11 7.5
+» 5 40 10 8
+» 6 48 8 8
+» 7 54 6 7.71
+Stage II» 8                     57 3 7.12
+» 9 59 2 6.56
+» 10 60 1 6
+» 11 60 0 5.4
+» 12 58 -2 4.80
+Stage III » 13 55 -3 4.23
+» 14 51 -4 3.64
+» 15 45 -6 3
+Stages of Production : as table 3.1 shows, the total product goes through three 
+different stages.
+yStage I (increasing returns stage): this stage includes the range of variable inputs 
+at which the MP L continues to rise, i.e., up to the point of MP L.
+yStage II (the diminishing returns stage): this stage includes the value over which 
+MPL is positive but decreasing.
+yStage III (negative returns stage): defined as a range of negative MP L or 
+decreasing TP.
+yIn this stage of production, since MPL is negative, additional units of variable 
+inputs (L) actually cause a decrease in TP.
+From table 3.1, we can sketch the graph to show the relationships between the variables, 
+and also to explain the law of diminishing marginal returns.
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost53Figure 3.2 Production curves and stages of production
+As you can see from the above graph, as we add more units of labor on the fixed 
+inputs, our total product first increases. It, then reaches its maximum and starts to fall.  
+The same is true for MPL and APL.  TP and MP L are related in the following ways:
+yMPL increases when TP increases at an increasing rate.
+yIt starts to fall but then remain positive when TP increases at a 
+decreasing rate. 
+yMPL reaches zero when TP is maximum and 
+When TP is falling, MP L becomes negative. APL also increases first, reaches its 
+maximum, and starts to fall, but it remains positive whenever TP is positive.
+The Relationship between MPL and APL: As you have seen from the above figure, 
+the MPL curve reaches its maximum before the APL curve.  Also, as long as the APL is 
+rising, the MPL is above it; when the APL is falling, the MPL is below it.  When the APL
+is at its maximum, the MP L is equal to the APL. Thus, 
+yFor the APL to rise the addition to TP (or MPL) must be greater than the previous 
+APL, i.e. APL rises when MPL>APL.
+y For the APL to fall, the addition to TP (or MPL) must be less than the previous 
+average, i.e. APL falls when MPL<APL. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost54yFor the APL to remain unchanged, the addition to total product (or MPL) must be 
+equal to the previous Average. i.e. APL is at its maximum if APL=MPL.
+3.1.3 The Long-Run Production Function
+Assume production with two variable inputs. In our earlier discussion of the short 
+run production function and stages of production, we assumed labor as a variable input 
+and capital as a fixed input. Now we turn to the long–term analysis of production. 
+Remember that, long run is a period of time (planning horizon) which is sufficient for 
+the firm to change the quantity of all inputs. 
+In order to produce an output, a firm may require any number of different inputs. 
+Assume, however, that a firm produces output using only two factors of production: 
+labor and capital. With both factors variable, a firm can usually produce a given level 
+of output by combining different amounts of labor and capital. The output from the 
+various combinations of inputs can be shown by using isoquant.
+Isoquant
+An isoquant is a curve that shows all possible efficient combinations of inputs that can 
+yield equal level of output. If both labor and capital are variable inputs, the production 
+function will have the following form.
+   Q = f (L, K); given this production function, the equation of an isoquant, where 
+output is held constant at    Q is   Q = f (L, K)
+Thus, isoquants show the flexibility that firms have when making production decision: 
+they usually obtain a particular output (Q) by substituting one input for the other. 
+The production isoquant may assume different shapes depending on the degree of 
+substitutability of factors. However, most of the time, the smooth or convex isoquant 
+is used in the traditional economic theory, and we shall consider it in this section.
+An isoquant schedule : is a tabular representation of the various combinations of 
+two variable inputs that give the same level of output. Suppose that a firm seeks to 
+produce 100 units of output by using two variable inputs, L and K (say, labor and 
+capital, respectively). It can do so by employing different combinations of L and K. 
+The hypothetical table 3.2 shows the different combinations the firm could make to 
+produce the given level of output.
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost55Table 3.2: Factor Combinations to Produce a Given Level of Output (Isoquant 
+Schedule)
+Factor Combinations labour (units) Capital (units) Output (units)
+A 1 11 100
+B 2 7 100
+C 3 4 100
+D 4 2 100
+E 5 1 100
+Table 3.2 shows that input combination A, consisting of 1 unit of labor (L) and 11 
+units of capital (K), produces 100 units of output. While combination B consists of 
+2 units of labor and 7 units of capital. Similarly, combination C consists of 3 units of 
+labor and 4 units of capital, and so on. Figure 3.3 is constructed from Table 3.2 by 
+joining the points of different combinations of labor and capital required to produce 
+100 units of output.
+Figure 3.3 Isoquant Curve
+An isoquant map is a graph combining several or a set of isoquants. An isoquant map 
+is another way of describing a production function. The level of output increases as we 
+move upward to the right, while it remains constant along an isoquant.
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost56
+Figure 3.4 Isoquant map
+Properties of isoquants
+I . Isoquants are down ward sloping: implying that if more of one factor is used, 
+less of the other factor is needed for producing the same level of output.
+II . The further an isoquant lays away from the origin, the greater the level of 
+output it denotes. 
+III . Isoquants do not cross each other.
+IV . Isoquants are convex to the origin.
+The slope of an isoquant/ marginal rate of technical substitution (MRTS): The 
+slope of the isoquant (∆K/∆L) defines the degree of substitutability of the factors of 
+production. This slope decreases (in absolute terms) as we move downwards along the 
+isoquant. The slope of the isoquant is called the rate of technical substitution, or the 
+marginal rate of technical substitution (MRTS) of factors. MRTS of labor for capital, 
+denoted as MRTS L, K shows the amount by which the input of capital can be reduced 
+when one extra unit of labor is used so that output remains constant.
+The “steepness” of an isoquant determines the rate at which the firm can substitute 
+between labor and capital in its production process. The MRTSL,K tells us the following:
+• The rate at which the quantity of capital can be decreased for every one unit 
+increase in the quantity of labor, holding the quantity of output constant, or 
+• The rate at which the quantity of capital must be increased for every one unit 
+decrease in the quantity of labor, holding the quantity of output constant
+As we move down along the isoquant, the slope of the isoquant increases (i.e., 
+becomes less negative), which means that the MRTSL,K gets smaller and smaller. This 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost57property is known as diminishing marginal rate of technical substitution. When a 
+production function exhibits diminishing marginal rate of technical substitution (i.e., 
+when the MRTSL,K along an isoquant decreases as the quantity of labor L increases), 
+the isoquants are convex to the origin (i.e., bowed in toward the origin).
+Returns to Scale
+In the previous section, we explored the extent to which inputs could be substituted for 
+each other to produce a given level of output. In this section, we study how increases 
+in all input quantities affect the quantity of output the firm can produce.  When inputs 
+have positive marginal products, a firm’s total output must increase when the quantities 
+of all inputs are increased simultaneously—that is, when a firm’s scale of operations 
+increases. Often, though, we might want to know by how much output will increase 
+when all inputs are increased by a given percentage amount. 
+In the long run, where all inputs are variable, output can be increased by changing all 
+factors by the same proportion. The concept of returns to scale tells us the percentage 
+increase in output when a firm increases all of its input quantities by a given percentage 
+amount. We have three cases of returns to scale: increasing, constant, and decreasing 
+returns to scale.
+yIncrease returns to scale: thisis the case where increasing all factors by the 
+same proportion ‘m’ leads to an increase in output by more than ‘m’ scale.
+yConstant returns to scale : if we increase input by some factor ‘m’ and output is 
+increased by the same proportion as inputs ‘m’ then it is called constant returns to 
+scale. In this case, the size of the firm’s operation doesn’t affect the productivity 
+of its factors.
+yDecreasing returns to scale: When scaling up all inputs by ‘m’ results in a 
+scaling up of output by less than ‘m’, this is referred to as decreasing returns 
+to scale . This is because difficulties in organizing and running a large scale 
+operation may lead to decreased production of both labor and capital.
+3.1.4 Technology Change and the Position of Product ion Curves
+Technological change (progress) makes factors of production more productive or the 
+production system more efficient so that the firm will get higher output from the same 
+combinations of labor and capital than before. Figure 3.5 shows upward  movement of 
+the total product curve indicating higher output level can be achieved from the same 
+input after technological advancement. 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost58
+Figure 3.5 Technology change and the position of production curves
+Technical progress and the production function:  as knowledge of new and more 
+efficient methods of production become available, technology changes. Furthermore 
+new inventions may result in increase of the efficiency of all methods of production. 
+These changes in technology constitute technical progress. 
+Graphically, the effect of technical progress is shown with an upward shift of the 
+production function. This shift shows that the same output may be produced by less 
+factor inputs, or more output may be produced with the same inputs. 
+Technical progress may also change the shape (as well as produce a shift) of the 
+isquant. There are three types of technical progress, depending on its effect on the rate 
+of substitution of the factors of production.
+Capital side technical progress:  a technical progress which increases the MPK by 
+more than the MP L. For this kind of technical progress, along a line on which the K/L 
+ratio is constant, the MRTSL,K decreases in absolute terms (the slope of an isoquant 
+declines). The slope of the shifting isoquants becomes less steep along any given 
+radius. This type of technical progress is also called capital saving or labor using 
+technical progress. 
+Labor side technical progress:  a technical progress which increases the MPL by 
+more than the MPK. Along a line on which the captital labor ratio (K/L) is constant, 
+the MRTSL,K increases(the slope of an isoquant increases in absolute value). It is also 
+called labor saving or capital using technical progress.
+Neutral technical progress:  a technical progress that increases the MPL and MPK by 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost59the same percentage, so that the MRTSL, K (along any radius) remains constant. 
+ĂActivity 3.1
+1. Define the function of production.
+2. Differentiate between short run and long run production functions.
+3. Explain the return to scale.
+4. What stages must a firm follow in its production process?
+5. Explain technology change and the position of production curves.
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost603.2. Theory of Cost
+At the end of this section, students will be able to:
+6Define the cost of production.
+6Explain the difference between short and long run costs.
+6Calculate total, average, and marginal costs.
+6Describe the link between production and costs.
+6Analyze the relationship between product curves and cost curves.
+Key Concepts
+Cost, average costs, cost curves
+Startup activity
+Discuss how the cost function relates to the production function.
+Introduction
+In the production process, the firm needs to employ inputs in order to produce outputs. 
+Thus, the prices of inputs or the expenditures the firm incurs on these inputs are referred 
+to as the “cost of production.” In this section, you will study the types and behaviors of 
+production costs and the relationship between production and costs (i.e. cost function 
+both in the short run and long run).
+Cost functions are derived functions (derived from production functions) that describe 
+the cheapest way to produce each level of output, given the prices of production factors 
+and technology. Both in the short-run and the long-run, total cost is a multi-variable 
+function, i.e. total cost is determined by many factors such as output, technology, 
+prices of variable and fixed factors.
+3.2.1 Short-Run Costs
+Short-run costs are costs over a period during which some factors of production 
+(usually capital equipment and management) are fixed. In short run based fixed and 
+variable inputs, total cost (TC) is divided into two parts:
+Total Fixed Cost (TFC): TFC is a cost that does not vary with the level of output 
+(it does not change with change in quantity of output).Thus, it is independent of 
+output. Fixed costs consists costs such as: salaries of administrative staff, expenses for 
+building depreciation and repairs, etc. 
+Total variable cost (TVC): TVC is a cost that varies as output varies. These costs 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost61vary directly with changes in the volume of output, rising as more is produced and 
+falling as less is produced. The variable costs include: the cost of raw materials, the 
+cost of labor, etc.
+Total Cost (TC): Total cost is the cost incurred on all types of inputs fixed, as well 
+as variable inputs incurred in producing a given amount of output. Total cost of 
+production is the sum of all fixed and variable costs   (TC = TFC+TVC). 
+Table 3.3 Total Fixed Cost, Total Variable Cost, and Total Cost  
+Output (Quantities) TFC (in Birr) TVC(in Birr) TC(in Birr)
+0 100 0 100
+1 100 30 130
+2 100 56 156
+3 100 75 175
+4 100 85 185
+5 100 90 190
+6 100 100 200
+7 100 130 230
+As the total fixed cost (TFC) does not depend on the level of output, it is represented 
+by a horizontal line.
+                 Figure 3.6 Total Fixed Cost, Total Variable Cost, and Total Cost curves
+The total variable cost initially increases at a decreasing rate at the initial stage of 
+production, as more of the variable factors are employed. When the productivity of 
+the variable input falls, larger and larger units of the variable input will be needed to 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost62increase output by the same unit, and thus TVC and TC increase at increasing rates. 
+By adding the TFC and TVC, we can obtain the TC of the firm. From the total-cost 
+curves, we obtain average cost curves.
+yAFC (Average Fixed Cost): AFC is the total fixed cost divided by the amount 
+of output, i.e., AFC=𝑇𝑇𝑇𝑇𝑇𝑇
+𝑄𝑄   .                          
+Since TFC is constant, an increase in output (Q) reduces the ratio and thus the 
+AFC approaches the quantity (output) axis as output rises.
+yAverage Variable Cost (A VC):  The average variable cost is the per-unit cost 
+of the variable factors of production. It is obtained by dividing the total variable 
+cost by the total units of output.  AVC=TVC
+Q
+yATC (Average Total Cost): ATC (Average Total Cost) is the per-unit cost of 
+both fixed and variable factors of production. It is obtained by dividing the total 
+cost by the total units of output.
+    ATC=TC
+Q    or    AT C=TFC +TVC
+Q=𝑇𝑇𝑇𝑇𝑇𝑇
+𝑄𝑄+𝑇𝑇𝑇𝑇𝑇𝑇
+𝑄𝑄
+ATC=AFC+AVC
+•	Marginal Cost (MC): Marginal Cost is the extra or additional total cost that re -
+sults from producing one more unit of output; or it is the change in total cost re -
+sulting from a percentage change in output i.e.
+𝑀𝑀𝑀𝑀 =Δ𝑇𝑇𝑇𝑇
+Δ𝑄𝑄𝑜𝑜𝑜𝑜 𝑀𝑀𝑀𝑀 =Δ𝑇𝑇𝑇𝑇𝑇𝑇
+Δ𝑄𝑄+Δ𝑇𝑇𝑇𝑇𝑇𝑇
+Δ𝑄𝑄or 
+𝑀𝑀𝑀𝑀 =Δ𝑇𝑇𝑇𝑇𝑇𝑇
+Δ𝑄𝑄, when TFC=0 (in the short run) 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost63Table 3.4 Average and Marginal costs
+Output 
+(Q) TFC (in 
+Birr) AFC TVC (in Birr)  AV C TC (in 
+Birr) ATC MC
+0 100 - 0 - 100 - -
+1 100 100 30 30 130 130 30
+2 100 50 56 28 156 78 26
+3 100 30.33 75 25 175 58.33 19
+4 100 25 85 21.25 185 46.25 10
+5 100 20 90 18 190 38 5
+6 100 16.67 100 16.67 200 33.33 10
+7 100 14.28 130 18.57 230 32.86 30
+The Relationship between Average and Marginal Cost Curves: Cost curves show how 
+average and marginal costs vary with output level. Since the TFC is constant, it falls 
+continuously as output increases. The A VC declines first, reaching a minimum level, 
+then starts rising and shows a U- shaped structure. The MC also declines first, reaches 
+its minimum, and then rises. The MC curve passes through the minimum point of both 
+the A VC and ATC curves. Figure 3.7 shows the relationship between the ATC, AFC, 
+A VC, and MC curves.
+                                      Figure 3.7 AC and MC curves
+The behavior of the average variable cost is derived from the behavior of the total 
+variable cost. The A VC curve slopes downward, up to output OQ1 (the optimum 
+capacity level of output), showing decreases in average variable cost, and it slopes 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost64upward beyond output OQ1, indicating increases in average variable cost. In other 
+words, the A VC curve is U-shaped. Point A is at where AC=MC and minimum point 
+of ATC, corresponding to optimum capacity level of output, OQ1.
+The ATC curve can be obtained by adding the AFC and A VC curves. An ATC curve 
+is the summation of the AFC and A VC curves. Therefore, at each level of output, the 
+ATC curve lies above the A VC curve at a distance equal to the value of the AFC curve. 
+The ATC curve slopes downward up to output OQ2, shows a decrease, and slopes 
+upward beyond output OQ2, indicating an increase in average total cost. Point B is the 
+minimum point of ATC and the point where ATC=MC.
+3.2.2 Long-run Costs
+In the long run, the amounts of all the factors of production can be varied so that 
+there are no fixed costs. The time period corresponding to the long run will be such 
+a condition that the producers can make all the necessary changes to the size of the 
+plant. For the analysis of the long-run cost of production, we use only three types of 
+curves: the Long- Run Total Cost Curve (LTC), the Long-Run Average Cost Curve 
+(LAC), and the Long- Run Marginal Cost Curve (LMC). Here also, LAC and LMC 
+curves are U-shaped, but they are flatter than the short-run cost curves.
+If we consider the case, the total cost first increases at a deceasing rate due to increasing 
+returns to scale (which implies economies of scale). With an increasing rate attributed 
+to decreasing returns to scale after the optimum size, the long-run total cost curve will 
+look like the following. The LAC and LMC curves will be U-shaped.
+  
+       Figure 3.8 Long run total cost curve                   Figure 3.9 Long run average cost and mar   ginal cost  curves 
+ The range from the minimum point of LAC to the left is called the “economies of scale 
+range,” which means output can be doubled for less than a doubled cost. The range 
+from the minimum of LAC to the right is called “diseconomies of scale,” because a 
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost65doubling of output requires more than a doubling of cost.
+3.2.3 The Relationship Between Product and Cost Curves
+Cost and production curves are mirror images of each other, i.e. the relationship 
+between cost and production is shown in figure 3.9.
+	when AP(MP) rises, AC(MC) falls;
+	when AP(MP) falls, AC(MC) rises; and
+	When AP (MP) is maximum, AC (MC) is minimum.
+Figure 3.10 the relations hips between Production and Cost curves
+ĂActivity 3.2
+1. Define the cost of production.
+2. What is the difference between short run and long run costs?
+3. Explain the link between production and costs.
+4. Explain the relationship between product and cost curves.
+
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost66Unit Summary
+The production function shows the maximum quantity of a commodity that can be 
+produced per unit of time, with given amounts of inputs, when the best production 
+technique is used. A Total Product (TP) refers to the total amount of a commodity 
+produced during some period of time by combining different factors of production. 
+The average product (AP) of a variable factor refers to the output per unit of the 
+variable factor. The marginal product (MP) of a variable factor may be defined as the 
+change in total product resulting from the additional unit of a variable factor.
+Returns to a factor mean a change in the physical output of a good when the quantity 
+of one factor is increased while the quantity of other factors remains constant. The law 
+of diminishing marginal returns states that in all production processes, adding more of 
+one factor of production while holding one or more of the other inputs constant will at 
+some point yield lower per unit returns.
+Diminishing returns occur in the short run when one factor is fixed. Technological 
+change shifts the production function upward. The cost of production depends on 
+several factors, such as the quantity of production, the level of technology and input 
+prices. In the short run, one or more of a firm’s inputs are fixed. Thus, the total cost of 
+production can be divided into fixed costs and variable costs. Fixed costs are constant 
+regardless of the level of output. A firm cannot avoid fixed costs by producing zero 
+levels of output. Variable costs, on the other hand, vary with the level of output directly. 
+By dividing the total cost and total variable costs for the quantity of production, we 
+obtain an average cost (AC) respectively.
+In the short run, when not all inputs are variable, the AC and A VC curves assume 
+a U- shape due to the law of variable proportions. Marginal costs of production are 
+additional costs incurred to produce one more unit of a commodity. The MC curve 
+has a U-shape due to the law of variable proportions. The short-run marginal and 
+average variable cost curves are a mirror reflection of the marginal product and the 
+average product of the variable input, respectively. In the long run, all the inputs to 
+the production process are variable. As a result, the choice of inputs depends both on 
+the relative costs of a factor of production and on the extent to which the firm can 
+substitute among inputs in its production process.
+In the long run, all the inputs to the production process are variable. As a result, the 
+choice of inputs depends both on the relative costs of a factor of production and on 
+the extent to which a the firm can substitute among inputs in its production process.
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost67Unit Review Exercises
+Part I. Write ‘True’ if the statement is correct or ‘False’ if the statement is 
+incorrect.
+1.When marginal products are rising, the total product curve reaches its maximum.
+2.Isoquants show the flexibility that firms have when making production decisions.
+3.When the marginal product of labor is rising, the average product of labor is also 
+increasing.
+4.Advancement in technology may possibly shift the production function outward.
+5.The gap between successive multiple isoquants is decreasing for a production 
+function with increasing returns to scale.
+6.The law of variable proportions states the marginal product factor will eventually 
+decline.
+7.The magnitude of fixed costs does not depend on the level of output.
+8.All the short run average cost curves are u-shaped because of the law of 
+diminishing returns.
+9.The gap between A VC and AC is continuously narrowing as output increasing.  
+10.The optimal expansion path for a homogenous production function is a straight 
+line from the origin.
+Part II: Multiple-choice items
+Direction: Read the following questions and choose the correct answer from the given 
+alternatives.
+1.Which of the following is a factor of production?
+A . Land.
+B . Labor.
+C . Capital.
+D .  All of the above
+2.In the third stage of production,  
+A . Marginal product is negative.
+B . Marginal product is positive.
+C .  A rational firm prefers to operate.
+D . All of the above
+3.Technological progress, 
+A . shift the isoquants inward.
+B . shift the production function outward
+C . reduce cost of production
+D . All of the above
+
+--- [PAGE BREAK] ---
+
+Unit 3:  Theory of Production and Cost684.Which of the following is true?
+A . Total cost is the sum of total fixed cost and total variable cost.
+B . Total cost is the product of total fixed cost and total variable cost.
+C . Fixed cost increase as output increase.
+D . All of the above
+5.All of the following curves are “U” shaped except:
+A . The A VC curve
+B . The AFC curve
+C . The ATC curve
+D . The MC curve
+Part III: Write detailed answers to the following.
+1.What is the shape of the total product curve? Why?
+A ) What is the relationship between the AP & MP?
+B ) What is the law of diminishing return? How is it reflected in the shape 
+of TP curve? In the shape of MP curve? Its relationship to the stages of 
+production?
+2.What does an isoquant refer to? What are its characteristics? 
+3.Given the following TFC and TVC cost information , complete the following 
+table .
+Output TFC TVC TC AFC AVC ATC MC
+0 100 0
+1 100 7
+2 100 12
+3 100 15
+4 100 17
+5 100 18
+6 100 20
+7 100 25
+4.If the marginal cost of production is greater than the average variable cost, do 
+you know whether the average variable cost is increasing or decreasing? Explain.

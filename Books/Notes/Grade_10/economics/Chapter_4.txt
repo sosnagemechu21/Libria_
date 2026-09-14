@@ -1,0 +1,551 @@
+=================================================================
+Book: economics.pdf
+Chapter 4: Market Structure   �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �
+Pages: 77 to 96
+=================================================================
+
+Unit 4:  Market Structures69Unit Introduction 
+In the previous unit, we discussed the theory of production and cost. There, we studied 
+concepts related to a firm’s production function and cost curves. In this unit, we discuss 
+the types and characteristics of firms under different market models.
+Figure 4.1 Market Structure 
+In economics, markets are characterized based on the competition levels and the nature 
+of their markets, such as the nature of the products, the number of sellers, the number 
+of buyers, etc. The market in which an individual firm operates or sells its product 
+(good or service) to consumers can be categorized broadly into perfect (perfectly 
+competitive) and imperfect markets. A perfect competitive market is a market with a 
+large number of sellers and buyers; whereas a monopoly market (dominated by one 
+firm), an oligopoly market (very few firms), and a monopolistic competition market 
+(relatively large numbers of firms selling closely substitutable products) are the three 
+common types of imperfect markets.
+Unit Objectives
+At the end of this unit, students will be able to:
+6Explain the characteristics of the market structures.
+6Analyze the nature of demand and revenue curves of a firm in each market.
+6Make a list of the sources of monopoly.
+6Calculate total, average, and marginal revenues.Market Structures Unit
+4
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures70Main Contents
+4.1 Perfectly competitive market.
+4.2 Pure monopoly market. 
+4.3 Monopolistically competitive market. 
+4.4 Oligopoly market. 
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures714.1 Perfectly Competitive Markets
+At the end of this section, students will be able to:
+6Define a market that is completely competitive.
+6Review the characteristics of a perfectly competitive market.
+6Explain the nature of demand and revenue curves in a perfectly competitive 
+market.
+6Calculate total, average, and marginal revenues.
+Key Concepts
+perfectly competitive, demand and revenue
+Startup Activity
+1. How do you define a perfectly competitive market?
+In microeconomics, perfect competition describes a market in which a buyer or seller 
+has no market power or where all buyers and sellers are price takers. It is this distinction 
+that differentiates perfectly competitive markets from imperfectly competitive ones. 
+In short, a perfectly competitive market is characterized by the fact that no single firm 
+has any influence on the price of the product it sells. For instance, consider a farmers 
+market where each seller sells the same type of products (such as maize). There is 
+little differentiation between each of their products, and they each sell them at an equal 
+price. At the same time, sellers and buyers free to participate in the market without 
+any barrier. 
+4.1.1 The Characteristics of Perfect Competition
+A perfectly competitive market has several distinguishing characteristics. The main 
+features include:
+The market has a large number of buyers and sellers: a perfect competitive market 
+is composed of a large number of buyers and sellers of a commodity, so that the 
+buying or selling decision of a single buyer or seller cannot affect the price of the 
+commodity. That is, the actions of a single seller or buyer cannot influence the market 
+price of the commodity, since the firm or buyer) is too small in relation to the market.
+Homogeneity of products: products supplied by the different firms are the same or 
+homogenous. For example, salt supplied by two sellers is identical to the extent that 
+buyers are unable to differentiate which firm supplied which product. The assumption 
+of a large number of sellers and product homogeneity together imply that an individual 
+firm operating in a perfectly competitive market is a price taker.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures72For example, in the wheat market, there are thousands of farmers who sell wheat and 
+millions of consumers who use wheat and wheat products. Because no single buyer or 
+seller can influence the price of wheat, each takes the price as given.
+Free entry and exit: i n a perfectly competitive market, a new firm has the freedom 
+to produce and supply a product. In other words, firms have freedom of movement 
+or there is no barrier that restricts firms’ entry into and/or exit out of a perfectly 
+competitive market. If the firm believes that it is not worth staying in the business, it 
+can go out of the market.
+Perfect Information for Both Consumers and Producers: it is assumed that in a 
+perfectly competitive market, both sellers and buyers have complete information and 
+knowledge of the market. Every buyer and seller has full knowledge of the product 
+quality and its nature, current and future prices, input prices, and other attributes that 
+are certainly known.
+Firms Aim to Maximize Profit: the objective of firms in perfect competition is profit 
+maximization. Firms try to increase revenue and reduce (minimize) costs so as to 
+increase profit.
+4.1.2 Perfect competition demand and revenue functions
+a. Demand 
+The assumption of a large number of sellers and product homogeneity together imply 
+that an individual firm operating in a perfectly competitive market is a price taker .
+        
+Figure 4.2: The demand curve faced by a firm in a perfectly competitive market
+yThus, a competitive firm faces a completely horizontal demand curve for its 
+product, indicating that it can sell any amount of output only at the ongoing market 
+price (P). That is, at the market price, the firm can supply whatever quantity it 
+would like to sell. Therefore, once the price of the product is determined in the 
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures73market, the producer takes the price (p* in Figure 4.2) as given. Hence, the 
+demand curve that the firm faces in this market situation is a horizontal line 
+drawn at the equilibrium price, p*.
+b. Revenue Function
+The revenues of a firm are the receipts that it obtains from selling its products. 
+Revenues have three main categories: Total Revenue (TR), Average Revenue (AR), 
+and Marginal Revenue (MR).
+yTotal Revenue (TR): total revenue is the total amount of money received by 
+a company from the sale of a specific quantity of its product. It is obtained by 
+multiplying the unit price of the commodity and the quantity of that product 
+sold.
+TR=P X Q; where P = price of the product
+                                  Q = quantity of the product sold.
+yAverage revenue (AR) : is the revenue per unit of item sold.  It is calculated by 
+dividing the total revenue by the amount of the product sold, i.e.       
+𝐴𝐴𝐴𝐴=𝑇𝑇𝑇𝑇
+𝑄𝑄=𝑃𝑃∗𝑄𝑄
+𝑄𝑄    =>𝐴𝐴𝐴𝐴= P
+Note that average revenue (AR) and the price of the product (P) have the same 
+meaning. Average revenue means the per unit revenue received by the seller from the 
+sale of the commodity. On the other hand, price means the per unit payment made by 
+the purchaser to purchase the commodity. Since the seller receives what the purchaser 
+pays, the per unit revenue and per unit price are the same. That is why the AR curve 
+and demand curve for a firm’s product are also the same. Therefore, from the firm’s 
+viewpoint, the firm’s demand curve is also the average revenue curve.
+yMarginal Revenue: Marginal revenue is the change in total revenue resulting 
+from one unit increase in sales. It is the additional amount of money or revenue 
+the firm receives by selling one more unit of the product. It is calculated as the 
+ratio of the change in total revenue to the change in the sale of the product, i.e. 
+𝑀𝑀𝑀𝑀=∆𝑇𝑇𝑀𝑀
+∆𝑄𝑄=∆(𝑃𝑃∗𝑄𝑄)
+∆𝑄𝑄
+Thus, in a perfectly competitive market, a firm’s average revenue, marginal revenue, 
+and price of the product are equal, i.e. AR = MR = P = Dfirm. Marginal revenue can 
+also be estimated as the change in total revenue with the sale of ‘n’ units of a product 
+instead of (n – 1) units.  Thus,  MR = TRn– TR n – 1
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures74
+Figure 4.3: Determination of equilibrium price under perfect competition
+In a perfect competition, a firm can sell any amount of output at a given market price. 
+It means that a firm’s additional revenue (MR) from the sale of every additional unit of 
+the commodity is just equal to the market price (P) or average rate of the commodity 
+(AR). Hence, average revenue and marginal revenue become equal and constant in 
+the given situation. Consequently, the AR and MR curves are the same and would be 
+horizontal or parallel to the X-axis.
+ĂActivity 4.1
+1. Define a perfectly competitive market.
+2. Explain the characteristics of the perfect competitive market.
+3. Explain the nature of demand and revenue curves in a perfectly competitive 
+market .
+4. A farmer usually sells 100 kg of coffee for Birr 200/kg. Calculate total revenue 
+and average revenue. What will be marginal revenue if he/she decides to make 
+an additional sale at 190?
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures754.2 Pure Monopoly Market
+At the end of this section, students will able to: 
+6Define pure monopoly market 
+6Review the characteristics of the pure monopoly market
+6Describe  the reasons for the existence of pure monopoly
+6Analyze the nature of demand and revenue curves of  pure monopoly market 
+Key Concepts
+Monopoly, Demand and Revenue 
+Startup Activity
+1. What is a “pure monopoly market”? Discuss the topic in pairs. 
+The second market structure in which we analyze the interaction between producers 
+and consumers is that of a pure monopoly. The term “monopoly” is derived from two 
+Greek words, viz., “monos” and “polus.” Monos” means” single,” and “polus” means 
+“a seller.” A monopoly is a market structure in which there is only one supplier in a 
+given market (industry). A monopoly market structure requires that there be a single 
+producer of a particular commodity. For no other commodity to work as a substitute 
+for this commodity, and for this situation to last, sufficient restrictions must be in 
+place to prevent any other firm from entering the market and beginning to sell the 
+commodity.
+When there is only one firm in the market, the firm is the price maker, whereas, 
+consumers are the price takers. For instance, ELPA is one of the firms producing and 
+supplying electric power in Ethiopia can be considered an example of a monopoly 
+firm, (however, ELPA is state owned firm).
+4.2.1 The Characteristic Features of Pure Monopoly
+A pure monopoly exists when a single firm is the only producer of a product for which 
+there are no close substitutes. The main characteristics of this market structure include:
+A single seller and many buyers: A pure or absolute monopoly is a one firm industry 
+that sells the product to many buyers. As a result, the monopoly firm is the only 
+producer of a specific product or the sole seller of the product, and has full control 
+over the supply and price of the product. In this case, the firm and the industry are one 
+and the same (i.e., the firm = the industry).
+No close substitutes : a product produced by a monopolist has a close substitute, 
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures76meaning that consumers have no alternative choices to substitute one product for 
+another. So, the monopoly firm would not face competition from new or existing 
+products. For example, there is no close substitute for the electric services provided 
+by ELPA.
+Price maker: The individual firm exercises considerable control over price because 
+it is responsible for, and therefore controls, the total quantity supplied. As a result, the 
+monopolist becomes a price-maker and fixes its own price. By having a downward-
+sloped demand curve for its product, the monopolist can influence the market price by 
+changing the supply of the product.
+Price Discrimination: Under the conditions of a monopoly, price discrimination is 
+possible. It implies that a monopolist can sell its product at different prices to different 
+customers.
+Restrictions on Entry: In a monopoly, new competitors cannot freely enter the 
+market due to some strict barriers. These barriers may be due to legal restrictions like 
+licencing or patent rights or restrictions created due to economies of scale. There are 
+various reasons for the existence of monopolies that help the monopolists to maintain 
+monopoly power. Some of these factors are the following.
+yAbsence of close substitutes. A firm enjoys a monopoly when it is the sole seller 
+of its product and the product has no close substitutes.
+yEconomies of scale in production are another reason for the emergence of 
+monopolies. A firm is said to have economies of scale if its long-term average 
+cost is declining. Small firms do not have the capacity to do so. In such a situation, 
+when the incumbent firm observes that new firms are entering the market, it will 
+produce a large amount of output to minimize its unit cost of production and will 
+charge a lower price than the new firms to deter entry.
+yOwnership of strategic or key inputs. A company may own or control the entire 
+supply of a raw material needed to manufacture a commodity. Such firms are 
+not willing to sell the raw materials to another firm. For example: Ambo mineral 
+water has monopolized the natural mineral water.
+yPatent rights for products or production processes give legal monopoly rights to 
+firms. Government policies such as those related to granting licences or imposing 
+foreign trade restrictions (like quotas, etc.) result in limiting the number of 
+sellers.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures77yA company may develop or invent a unique product or manufacturing technique 
+and take steps to prevent competitors from copying it by obtaining patent or copy 
+rights. MOHA and Coca Cola soft drink companies have maintained monopoly 
+power over the supply of their products, partly due to exclusive knowledge of 
+the ingredient chemicals required for the production of their products.
+4.2.2 The Demand and Revenue Functions of the Monopoly Firm
+a. Demand
+In the previous section, we have seen that a perfectly competitive firm is small 
+relative to the market in which it operates and, therefore, takes the price of its output 
+as given by market conditions and faces a demand curve that is horizontal. However, 
+as a monopoly is the sole producer in its market, it can alter the price of its goods by 
+adjusting the quantity it supplies to the market.
+Thus, a monopoly firm faces a downward-sloping market demand curve. As a result, the 
+monopoly has to accept a lower price if it wants to sell more output. If the monopolist 
+decides to raise the price of the product, it will reduce the quantity of supply.
+Figure 4.4 Monopolist’s Demand Curve
+Figure 4.4 shows the monopolist firm facing a downward-sloping demand curve, 
+which implies that as the monopolist raises the price of its goods, consumers buy 
+less of it. If the monopolist reduces its price, it will increase the quantity of output 
+it sells. Where possible, a monopolist would prefer to charge a high price and sell 
+a large quantity at that high price. The market demand curve makes that outcome 
+impossible. In particular, the market demand curve describes the combinations of 
+price and quantity that are available to a monopoly firm. The monopolist can choose 
+any point on the downward-sloping demand curve, but it cannot choose a point off the 
+demand curve.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures78Mathematically, assuming that the demand curve is linear, it can be written in the 
+following form:
+                       P = a – bQ
+        Where    P – is the market price
+                      Q – is the quantity of sales (quantity demanded)
+                      ‘a’ and ‘b’  are any positive constants
+b. Revenue Function 
+The revenues of a firm are the receipts that it obtains from selling its products. 
+Revenues have three main categories: Total Revenue (TR), Average Revenue (AR), 
+and Marginal Revenue (MR).
+yTotal Revenue (TR): Total revenue is the total amount of money a company 
+receives from the sale of a given quantity of its product. It is obtained by 
+multiplying the unit price of the commodity and the quantity of that product 
+sold.
+TR=P X Q; where P = price of the product
+                                Q = quantity of the product sold.
+     From demand function P = a – bQ
+     Substituting (a – bQ) for P
+     TR = (a - bQ) Q
+     TR = aQ – b Q2 
+yAverage revenue (AR): is the revenue per unit of item sold.  It is calculated by 
+dividing the total revenue by the amount of the product sold.
+AR = QTR  = bQaQbQ aQ
+QQ P 2.
+=>AR = P
+Note that average revenue (AR) and the price of the product (P) are the same, which 
+means, average revenue per unit received by the seller from the sale of the commodity.
+yMarginal Revenue: Marginal revenue is the change in total revenue resulting 
+from one unit increase in sales. It is the additional amount of money or revenue 
+the monopolist firm receives by selling one more unit of the product. It is 
+calculated as the ratio of the change in total revenue to the change in the sale of 
+the product.
+MR=QTR
+=QQ P
+ )*(
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures79Marginal revenue can also be estimated as the change in total revenue with the sale of 
+n units of a product instead of n – 1 units. As a result, MR = TRn– TRn– 1. Using the 
+following hypostatical table 4.1, we can show a monopoly’s TR, AR, and MR curves 
+with the help of the corresponding diagram figure.
+Table 4.1: TR, AR, and MR under monopoly conditions
+Quantity
+(Q) Price (In 
+Birr)Total Revenue  
+(PQ)Average Revenue
+(PQ/Q) Marginal Revenue 
+Marginal Revenue 
+0 11 0 - 0
+1 10 10 10 10
+2 9 18 9 8
+3 8 24 8 6
+4 7 28 7 4
+5 6 30 6 2
+6 5 30 5 0
+7 4 28 4 -2
+8 3 24 3 -4
+            
+Figure 4.5: TR, AR, MR Curves under Monopoly
+As figure 4.5 shows, the total revenue curve of the monopolist firm has an inverse 
+U-shape. The total revenue of a monopolist firm first increase with the quantity of 
+sales, reaches its maximum, and finally decreases when the quantity of sales increases. 
+A monopolist firm’s AR and MR curves are both downward sloping (decreases with 
+sales quantity).
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures80ĂActivity 4.2
+1. Define a pure monopoly market.
+2. Explain the characteristics of the pure monopoly market.
+3. List at least three reasons for the existence of a pure monopoly.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures814.3 Monopolistically Competitive Market
+At the end of this section, students will able to: 
+6Define monopolistically competitive market 
+6Review the assumptions and characteristics of the monopolistically 
+competitive market.
+6Explain the nature of demand and revenue curves of  monopolistically 
+competitive market 
+Key Concepts
+monopolistically competitive
+Startup Activity
+1. Suppose you walk into a stationary to buy a pen. On the stationer’s shelve, you 
+find different type of pens. When you pick out one and buy it, what kind of 
+market are you participating in? Discuss about this in groups of three.
+A monopolistic competition market refers to a market structure where there are 
+relatively large numbers of sellers and buyers, and there is a free entry and exit of 
+firms producing and selling differentiated (heterogeneous) products. A seller of a 
+differentiated product has limited monopoly power over customers who prefer his/her 
+product to others.
+Monopolistic competition has some features of competition and some features of 
+monopoly. The market is competitive due to the existence of a large number of firms, 
+and there is no barrier to entry or exit. Its monopoly features, however, result from 
+differentiated products that are close substitute products. Thus, this market is more 
+real market, and its actual market situations are somewhere in between a perfect 
+competitive market and a monopoly market.
+4.3.1 Monopolistically competitive market characteristics
+Monopolistic competition describes a market with the following characteristics:
+Product differentiation: e ach firm produces and supplies a product that is at least 
+slightly different from those of other firms. The difference could be in style, brand 
+name, quality, etc. Different firms produce products like pens, biscuits, soap, and 
+include stores that sell different styles of clothing; restaurants that sell different kinds 
+of food; and even products like beer that may be at least similar but different in terms 
+of public perception because of advertising and brand names.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures82Many sellers and buyers: another feature of monopolistic competition is the presence 
+of many sellers and buyers in the market. There are many sellers and buyers of the 
+product, though relatively less than in the perfectly competitive market.
+Free Entry and Exit of Firms: s imilar to the perfect competitive market, there is 
+no barrier to new firms that are willing and able to produce and supply the product in 
+the market if they find it profitable. Similarly, if any firm believes that it is not worth 
+staying in the business, it is free to exit.
+The existence of non-price competition: due to product differentiation, in addition 
+to price competition, there is also non-price competition . Non-price competition is 
+an essential part of monopolistic competition. Non-price competitions take the form 
+of product quality, advertising, brand name, customer service, etc. For example, a 
+firm spends money on advertisements to reach consumers about the relatively unique 
+characteristics of its product, thereby getting new buyers and developing brand loyalty.
+4.3.2 The Demand and Revenue Functions
+ a. Demand
+As a result of product differentiation, characteristic of a monopolistic competition 
+market, firms are price-makers, and each firm faces a downward-sloping demand 
+curve. This implies that, unlike perfect competitive firms, a firm in a monopolistically 
+competitive market has few rivals. A monopoly firm has no rivals. Thus, the demand 
+curve of a firm under monopolistic competition is flatter than that of a monopoly firm, 
+as shown in figure 4.6.
+Figure 4.6 Compaction of demand curves under different markets
+Figure 4.6 shows the demand curve faced by the monopolistic competitive firm is not 
+horizontal as is the case with perfect competition. It is also not the market demand 
+curve, as in the case of monopoly.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures83b. Revenue Function 
+In a perfect competitive market and a monopoly market, the revenues of a firm 
+are the receipts that it obtains from selling its products. In the case of monopolistic 
+competition, the firm expects an increase in demand if it lowers the price. The demand 
+curve of a firm is also its AR curve. This firm, therefore, has a downward sloping AR 
+curve. The marginal revenue is less than the average revenue, and also downward 
+sloping.
+Figure 4.7: AR and MR Curves under Monopoly and Monopolistic Competition.
+ĂActivity 4.3
+1. Define the term “monopolistically competitive market.”
+2.Review the assumptions and characteristics of the monopolistically 
+competitive market.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures844.4 Oligopoly Market
+At the end of this section, students will be able to:
+6Define the oligopoly market perfectly.
+6Review the characteristics of the oligopoly market.
+6Explain the nature of demand and revenue functions of the oligopoly market.
+Key Concepts
+ duopoly, oligopoly demand. 
+Startup Activity
+1. What is an oligopoly market? Discuss this topic in pairs.
+An oligopoly is a market organization in which there are few firms that produce 
+identical or closely substituted products (identical or differentiated). An oligopoly is 
+said to exist when there is more than one seller in the market, but their number is 
+not so large as to make the contribution of each firm negligible. Firms are, therefore, 
+situated mutually interdependently. That is, they behave as if one firm’s actions are 
+directly affected by those of rivals and by the actions of others. One example is the 
+world market for crude oil. A few countries in the Middle East control much of the 
+world’s oil reserves. Cement and sugar factories are examples of oligopoly firms in 
+Ethiopia.
+4.4.1 Characteristics of the Oligopoly market 
+An oligopoly market describes a market with the following characteristics:
+Few dominant firms: the number of firms is small enough that each firm recognizes the 
+actions of other firms, implying that firms are mutually interdependent.
+yEntry barrier: in an oligopoly market, the barrier to entry is difficult or impossible 
+for new firms to enter the market. Barriers to entry may arise as a result of; scale 
+of economics and large capital requirements compared to other markets, except 
+monopoly.
+yPatents or access to technology or raw materials may exclude potential 
+competitors.
+yProducts may be homogenous or differentiated.
+yThere is interdependence among the firms. The decision of one firm affects all 
+firms, and so all firms follow the other firms.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures85A duopoly is the simplest type of oligopoly. A duopoly is a special case of oligopoly in 
+which there are only two firms in the industry, example Ethio-Teleocom and Safaricom 
+Ethiopia 
+4.4.2 The Demand and Revenue Functions 
+a. Demand 
+As a result of product differentiation, characteristic of an oligopoly market, firms are 
+price-makers, and each firm faces a downward-sloping demand curve. Any change in 
+price by one firm may result in price changes by rival firms. As a result, the demand 
+curve faced by an oligopolist firm keeps on shifting.
+b. Revenue Function 
+Like in all other markets, the revenues of a firm in an oligopoly are the receipts that it 
+obtains from selling its products. The AR curve of a firm is also the same as its demand 
+curve. Thus, the firm has a downward sloping AR curve. The marginal revenue curve 
+is less than the average revenue curve.
+ĂActivity 4.4
+1. Define oligopoly market
+2.What are the characteristics of the oligopoly market?
+3. Explain the nature of demand and revenue functions of the oligopoly market.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures86Unit Summary
+The market in which an individual firm operates or sells its product (good or service) 
+to consumers can be categorized broadly into perfect (perfectly competitive) and 
+imperfect markets. The three main criteria are: the number of potential buyers 
+(demanders) and sellers (suppliers); whether the good or service is homogeneous or 
+heterogeneous; and whether there is free entry and free exit from the market. Based on 
+these criteria, markets are classified into the following main categories:
+Types of market Main characteristics
+1.Perfect Competition •large number of buyers and sellers 
+•homogeneous product 
+•free entry/exit 
+•full information transparency
+2.Monopoly •one dominant supplier 
+•homogeneous product 
+•restricted entry/exit 
+3.Monopolistic competition •large number of buyers and sellers 
+•heterogeneous product 
+•free entry/exit 
+4.Oligopoly •limited number of dominant suppliers
+•homogeneous/heterogeneous product
+•restricted entry/exit
+Because a competitive firm is a price taker, its revenue is proportional to the amount 
+of output it produces. The price of the good equals both the firm’s average revenue 
+and its marginal revenue. A monopoly arises when a single firm owns a key resource, 
+when the government gives a firm the exclusive right to produce a good, or when 
+a single firm can supply the entire market at a lower cost than many firms could. 
+Because a monopoly is the sole producer in its market, it faces a downward-sloping 
+demand curve for its product.
+A monopolistically competitive market is characterized by three attributes: many 
+firms, differentiated products, and free entry. The product differentiation inherent 
+in monopolistic competition leads to the use of advertising and brand names. The 
+latter two types of imperfect markets (oligopoly and monopolistic competition) are 
+characterized by rivalry among individual firms.
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures87Unit Review Exercises
+Part I: Write ‘True’ if the statement is correct or ‘False’ if the statement is 
+incorrect. 
+1.Oligopoly market is a market with single buyers.
+2.A pure monopolist is a price-taker. 
+3.Monopolistic competition market has flatter revenue curve than monopoly market. 
+4.Dominating factor of production can be source of monopoly power. 
+5.Product differentiation is feature of monopolistic competition market. 
+Part II: Multiple-choice items
+Direction: Read the following questions and choose the correct answer from the given 
+alternatives. 
+1.A  perfectly competitive market is best characterized by:
+A . Homogenous product.  
+B . Heterogeneous product. 
+C . Existence of blocked entry. 
+D . All of the above.
+2.Which of the following is not the characteristic of monopoly?
+A . Single buyer
+B . Single seller
+C .  Entry barrier
+D . None of the above.
+3.Which of the following is entry and exit relatively difficult? 
+A . perfectly competitive market
+B . monopoly market
+C . Oligopoly market
+D . monopolistic competition market
+4.One of the following markets is NOT price maker.
+A . perfectly competitive market
+B . monopoly market
+C . Oligopoly market
+D . monopolistic competition market
+5.Which of the following market has relatively steeper demand curve?
+A . perfectly competitive market
+B . monopoly market
+C . Oligopoly market
+D . monopolistic competition market
+
+--- [PAGE BREAK] ---
+
+Unit 4:  Market Structures88Part III: Write detail answers to the following.
+1.What are the distinguishing characteristics of a perfectly competitive and pure 
+monopoly market structure?
+2.List as many potential causes/sources of a monopoly as you can.
+3.What factors determine the amount of monopoly power an individual firm is 
+likely to have?
+4.Describe the three attributes of monopolistic competition. How is monopolistic 
+competition like a monopoly? How is it like a perfect competition?

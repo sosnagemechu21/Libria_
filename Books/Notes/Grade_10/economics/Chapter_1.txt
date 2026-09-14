@@ -1,0 +1,510 @@
+=================================================================
+Book: economics.pdf
+Chapter 1: Theory of Consumer Behaviour �  �  �  �  �  �  �  �  �  �  �
+Pages: 9 to 24
+=================================================================
+
+Unit 1: Theory of Consumer Behaviour1Unit Introduction
+A consumer is a decision making unit (an individual or a household) who uses or 
+consumes a commodity or service. The theory of consumer behavior is concerned 
+with how a consumer decides on the basket of goods and services he/she consumes in 
+order to maximize his/her satisfaction. In this unit, we will discuss how the consumer 
+decides to spend his/ her income on different goods. 
+The theory of consumer behavior, set out with the following important assumptions;
+yThe consumer has a limited income.
+yThe consumer is assumed to be rational. Given the consumer’s income and 
+the market prices of the commodities, he/she spends the income on goods 
+and services that give the highest possible satisfaction or utility. 
+The consumer has relevant information to make a decision, is aware of his or her 
+income, and is aware of the commodities available and their prices.
+Unit Objectives
+After completing this unit, students will be able to:
+6Explain  cardinal utility 
+6Discuss the law of diminishing marginal utility
+6Illustrate  the consumer optimum under the cardinal approaches 
+6Mention the assumptions of ordinal utility theory
+Main Contents      
+1.1. The concept of utility 
+1.2. The cardinal utility theory
+1.3. The consumer maximization problem
+1.4. Introduction to the ordinal utility theory     Theory of Consumer BehaviourUnit
+1
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour21.1 The Concept of Utility
+At the end of this section, students will be able to: 
+6  Define the term utility 
+6  Discuss relativity of utility
+Key Concepts
+Commodity, Satisfaction, Utility
+Startup Activity
+1.Why do you buy goods and services?
+In our everyday lives, we buy different goods and services for consumption. Utility is 
+the level of satisfaction or pleasure derived from the consumption of a good or service. 
+Thus, utility is the power of a commodity to satisfy human wants. For example, bread 
+has the power to satisfy hunger, while water quenches our thirst. 
+In defining utility, it is important to bear in mind the following points:
+yRelativity of Utility:  The utility of a commodity is subjective to a person’s 
+needs. It is not absolute (objectively determined).The same commodity provides 
+different utilities to different consumers. For example, non-smokers do not 
+derive any utility from cigarettes. 
+yThe utility of a product can be different at different places and times. For 
+example, the utility that we get from wearing jackets during the cold season is 
+not the same as during the hot season. For the same consumer, utility varies from 
+unit to unit, from time to time, and from place to place. For example, the utility 
+we get from drinking tea early in the morning may be different from the utility 
+we get during lunch time.
+y‘Utility’ and ‘usefulness’ are not synonymous: usefulness is the concern of a 
+product whereas utility is the concern of the consumer.
+Approaches to measuring Utility:Since utility is a qualitative concept, it is difficult 
+to measure quantitatively, but economists try to quantify it in two different ways: 
+cardinal utility and ordinal utility.
+ĂActivity 1.1
+1. Define utility
+2.Why is the level of utility obtained by consuming the same product by 
+different individuals different?
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour31.2. The Cardinal Utility Theory
+At the end of this section, students will be able to:
+6Discuss the cardinal utility and its key assumptions
+6Compute total utility 
+6Calculate  marginal utility
+6State law of diminishing marginal utility 
+6Derive consumer optimum
+Key Concepts
+utils, cardinal utility
+Startup Activity
+1. How do you measure the satisfaction level (utility) that you get from goods 
+and services?
+To get a higher level of satisfaction, the consumer must be able to compare the utility of 
+the various baskets of goods that can be bought with the available income. According 
+to Cardinal Utility theory, utility is measurable like weight, height, and temperature, 
+and they suggested a unit of measurement of satisfaction called ‘utils’ . The Cardinal 
+School postulated that utility can be measured in monetary units (i.e., by the amount 
+of money that the consumer is willing to pay for another unit of a commodity) or by 
+subjective units called ‘utils’. Thus, the school assumes that the level of utility can be 
+expressed in numbers.
+       1.2.1. Assumptions of Cardinal Utility Theory
+I . The consumer is Rational: The main objective of the consumer is to maximize 
+his/her satisfaction given his/her limited budget or income. Thus, in order to 
+maximize his/her satisfaction, the consumer has to be rational.
+II . Cardinal Utility : Utility is a cardinal concept, which means the utility of each 
+commodity is measurable, with the most convenient measure being money.
+III . Constant Marginal Utility of money : the utility that one derives from each 
+successive unit of money income remains constant.
+IV . Diminishing Marginal Utility : The utility gained from the successive units of 
+a commodity diminishes. In other words, the marginal utility of a commodity 
+diminishes as the consumer consumes larger quantities of it. This is the law of 
+diminishing marginal utility.
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour4V . The total utility of a basket of goods depends on the quantities of the individual 
+commodities. If there are n commodities in the bundle with quantities X1 , X 2 
+,...X n , the total utility is given by TU = f ( X1 ,  X 2; …… Xn).
+1.2.2. Measurement of Utility (Total and Marginal Utility) 
+Total Utility (TU):  refers to the total amount of satisfaction a consumer gets from 
+consuming or possessing some specific quantities of a commodity (X) at a particular 
+time. As the consumer consumes more of a good (X) per time period, his/her total 
+utility increases. However, there is a saturation point for that commodity after which 
+the consumer will not be capable of enjoying any greater satisfaction from it. Therefore, 
+TUn refers to the total utility derived from consuming n units of a commodity X.
+Marginal Utility(MU):  refers to the additional utility obtained from consuming an 
+additional unit of a commodity. In other words, marginal utility is the change in total 
+utility resulting from the consumption of one more unit of a product per unit of time. 
+Mathematically, the formula for marginal utility is:
+QTUMU Where,   TU is the change in total utility, and,
+                      Q ischange in the amount of product consumed. 
+Suppose Beka gets 10 utils of total utility by consuming 2 quantities of orange, and 
+his total utility increases to 12 utils as he consumes 3 quantities of orange. Thus, 
+consumption of the 3rd quantity of orange has caused total utility to increase by 2 utils 
+(12 utils minus 10 utils). Therefore,  themarginal utility of the 3rd orange is 2 utils.
+22310 12, utils utils
+QTUMU Thus utils
+Activity 1.2
+Find the missed value of total utility (TU) and marginal utility (MU) in the 
+following table.  
+Table 1.1 Numerical Values of marginal and total utility derived from consumption 
+of hypothetical commodity (X).
+Quantity consumed  (Qb) 0 1 2 3 4 5 6 7 8 9 10
+Total Utility (TU) 0 8 15 20 24 24 22 19 5
+Marginal Utility (MU) - 7 5 3 1 0 -3 -6 -8
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour5Example: Given Table 1.2 Numerical Values of marginal and total utility derived from 
+consumption of hypothetical commodity (banana).
+Quantity consumed  (Qb) 0 1 2 3 4 5 6 7 8 9 10
+Total Utility (TU) 0 12 22 29 34 36 37 37 36 34 30
+Marginal Utility (MU) - 12 10 7 5 2 1 0 -1 -2 -4
+Table 1.2 As a consumer consumes only one quantity of banana, both the marginal 
+utility and total utility are equal, which is 12 utils. When a consumer consumes 2 
+quantities of banana, he/she gets 10 additional utils (marginal utility). The total utility 
+from 2 quantities of banana is 22 utils (12 fromthe  first quantity of banana and 10 
+from the second quantity of banana). Finally, at 7 unit of quantity, the saturation point 
+of total utility, marginal utility becomes zero. After this maximum point of total utility, 
+if he/she consumes more quantity of banana, his/her total utility decreases, which 
+leads to dissatisfaction. Figure 1.1 is the graphical representation of table 1.2, and it 
+shows the relationship between total utility and marginal utility. 
+   
+ Figure 1.1: Relationship between total utility and marginalutility
+Figure 1.1  shows that total utility initially increases, and reaches ‘its pick (saturation) 
+point’. This saturation point indicates that by consuming 7 quantities of banana, the 
+
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour6consumer attains its highest satisfaction level of 37 utils. However, consumption 
+beyond this point results in dissatisfaction, because consuming the 8th and more 
+quantities of banana brings negative additional utility. 
+On the other hand, the marginal utility continuously diminished and became zero 
+when the total utility reached maximum, and then became negative as consumption 
+increased beyond the saturation point of the total utility. 
+ĂActivity 1.3
+Table 1.3 total utility (TU) of hypothetical commodity Y .
+Quantity(Y) consumed 0 1 2 3 4 5 6
+TUY0 10 16 20 22 22 20
+1. From the given table (1.3)
+a. Find marginal utility (MUY)
+b.Find quantity (QY) where total (TUY) reach maximum point and MUY will be 
+zero.
+2. What does it mean that marginal utility of a commodity is diminishing?
+3. Explain the main assumptions of the cardinal utility theory.
+1.2.3 The Law of Diminishing Marginal Utility (LDMU)
+Do you get the same utility from drinking the first glass of water and the second glass 
+of water? The utility that a consumer gets by consuming a commodity for the first time 
+is not the same as the consumption of the good for the second, third, fourth, etc.
+LDMU  is central to the cardinalutility analysis of consumer behavior. This law states 
+that as the quantity consume do facommodity increases over a unit of time,the utility 
+derived by the consumer from the successive units goes on decreasing, provided 
+the consumption of all other goods remains constant.  The above(table 1.2) shows 
+a numerical illustration of the law of diminishing marginal (LDMU). Here, TU 
+increases with a nincrease inconsumption of banana, but at a decreasing rate.It means 
+that MU decreases witha n increase in consumption.
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour71.3. The Consumer Maximization Problem
+At the end of this section, students will be able to:
+6 Drive consumers’ budget equations
+6Compute the  optimum  for the consumer  
+Key Concepts
+Consumer income/budget, Consumer equilibrium
+Startup Activity
+1. Discuss in pairs how you spend your money. How should a consumer spend 
+his/her income on different commodities?
+A consumer that maximizes utility reaches his/her equilibrium position when the 
+allocation of his/her expenditure is such that the last birr spent on each commodity 
+yields the same utility. 
+A consumer budget (income) is the actual purchasing potential with which a consumer 
+can purchase a set of goods or services, provided their prices. A consumer has limited 
+income therefore the consumer’s budget shows the number of goods and services he/
+she can afford.
+Assumptions : Economists have developed the concept of consumer equilibrium 
+based on the following assumptions.
+yThe consumer is rational. She/he aims at the maximisation of her/his utility or 
+satisfaction, 
+yCardinal measurement of utility is possible, 
+yIf utility is measured in terms of money, the marginal utility of money remains 
+constant, 
+yThe law of diminishing marginal utility operates, 
+yThe Consumer income is given and remains constant, 
+yCommodity prices given and remain constant.
+I . Consumer Equilibrium:The Case of one commodity
+Let’s assume that the consumer consumes a single commodity, X. The consumer can 
+either buy x or retain his money income Y . Under these conditions, the consumer is in 
+equilibrium when the marginal utility of X is equated to its market price (px).
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour8Symbolically,
+MUx= Px
+yIf MUx>Px, the consumer can increase his/her welfare by purchasing more units 
+of X, and
+y If the MUx<Px, welfare can be increased by reducing the consumption of X.
+                      Figure 1.2: Consumer equilibrium and derivation of demand curve
+At Q*xthe marginal utility is MU*x which is equal to P*x. Hence, at P*x consumer 
+demands Q*x and this forms the demand curve for commodity X. The demand curve 
+is simply the graphical representation of the relationship between price and quantity 
+demanded.Thus,   the expenditure on a single commodity X is: PX QX =Income/budget 
+of the consumer, which is called consumers’ budget equation.
+II . Consumer  Equilibrium:the case of more than one commodity
+In the case where there are more commodities, the condition for the optimality of the 
+consumer is the equality of the ratios of MU of the individual commodities to their 
+prices, i.e. the utility derived from spending an additional unit of money must be the 
+same for all commodities. For example, if the consumer consumes a bundle of N 
+commodities, i.e A, B, C,… N, he/she would be in equilibrium or utility is maximized 
+if and only if:
+  Where, MUM =marginal utility of money
+              MUA= Marginal utility of commodity A;
+              MUB= Marginal utility of commodity B;
+              MUN= Marginal utility of commodity N,
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour9              PA= Price of commodity A
+              PB = Price of commodity B
+Thus, the consumer’s budget equation will be:
+Consumer’s Income=Expenditure on A + Expenditure on B + Expenditure on C... +
+Expenditure on N. 
+Mathematically:  
+       Consumer’s Income= APA+BPB+CPC  +--------+NPN
+        PN = Price of commodity N.
+Therefore, in the situation of a consumer’s equilibrium, the utility derived from 
+spending an additional unit of money must be the same for all commodities. If the 
+consumer derives greater utility from any one commodity, he/she can increase his/
+her satisfaction by spending more on that commodity and less on the others. It will 
+continue till the above equilibrium condition is reached.
+ Suppose a single commodity (bread) and its price (p) is equal to Birr 2 per unit and 
+consumer equilibrium is computed as in table 1.4 below.
+Table1.4. Utility schedule for a single commodity (bread)
+Quantity of 
+breadTotal utility 
+(TU)Marginal 
+utility (MU) Marginal 
+utility per Birr 
+(price=2 birr)Marginal 
+utility of 
+money
+0 0 - - 1
+1 4 4 2 1
+2 6 2 1 1
+3 7 1 0.5 1
+4 7 0 0 1
+5 6 -1 -0.5 1
+For consumption levels of less than 2 quantities of bread, since the marginal utility of 
+bread is higher than the price, the consumer can increase his/her utility by consuming 
+more quantities of bread. On the other hand, for quantities greater than 2, since the 
+marginal utility of bread is less than the price, the consumer can increase his/her utility 
+by reducing their consumption of bread.   
+       2 bread breadp MU        Money
+breadbreadMUPMU  122 i.eor
+Thus, the consumer will be at equilibrium when he/she consumes 2 quantities of bread 
+at a price where the marginal utility of bread (MUbread) is equal to  the Price of bread 
+(pbread). 
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour10Suppose  that an individual, whose income is Birr 22 consumes two types of goods, 
+bread (X) and injera (Y), whose prices are Px = Birr 2 and Py =Birr 4, spend all his/
+her income on these goods. By using the above information and the utility table for the 
+two goods, determine the following questions.
+1. Indicate how much of X & Y , should the individual purchase to maximize 
+utility.
+2. Show that the condition for utility maximization is achieved.
+3.Determine how much total utility the individual receives when he /she 
+maximizes utility. 
+Table 1.5 Utility schedules for two commodities (bread and injera)
+Quantity (X) TU MU MU/PxQuantity (Y) TU MU MU/Py
+0 0 - - 0 0 - -
+1 6 6 3 1 12 12 3
+2 10 4 2 2 19 7 1.75
+3 12 2 1 3 24 5 1.5
+4 12 0 0 4 28 4 1
+5 11 -1 -0.5 5 28 0 0
+6 9 -3 -1.5 6 26 -2 -0.5
+Solution:
+1.As we have discussed, a consumer maximizes his/her total utility when the 
+marginal utility of one commodity divided by its market price is equal to the 
+marginal utility of the other commodity divided by its market price, i.e .             
+22
+11
+PMU
+PMU                                                                                                                                           
+Thus, the consumer will be in equilibrium when he consumes 3 quantities of 
+commodity X (bread) and 4 quantities of commodity Y (injera) , because:
+144
+22   
+YY
+XX
+PMU
+PMU
+2.At the equilibrium of the consumer, Expenditure on X  (bread) + Expenditure on 
+Y(injera)= Consumer’s Income (I).
+     Thus,   PxX + PyY = I
+Ö 2(3) + 4(4) = 22
+Ö 22 = 22
+3.Maximum total utility obtained from consumption of these commodities is;
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour11     TU = ∑MUs = ∑MUx  + ∑MUy
+ÖTU = (6+4+2)x + (12+7 +5+ 4 )y
+ÖTU = (12)x + ( 28)y
+ÖTU = 40 utils
+ĂActivity 1.4
+Table 1.6 Utility schedule for two commodities (X and Y)
+Qx MUx Qy MUy
+1 10 4 5
+2 6 5 4
+3 4 6 3
+4 2 7 2
+5 0 8 1
+Assume that an individual, whose income is birr 10, consumes two types of goods, X 
+and Y , whose prices are Px = 2 and Py = 1, and that the consumer spends all his/her 
+income on these goods. Usethe information in table 1.6 to determine the following 
+things/ answer the following questions.               
+1.Indicate how much of X & Y the individual should purchase to maximize utility.
+2.Show that the condition for constrained utility maximization is achieved.
+3.Determine how much total utility the individual receives when he /she maximizes 
+utility. 
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour121.4. Introduction to the Ordinal Utility Theory
+At the end of this section, students will be able to:
+6Explain ordinal utility
+6State the assumptions of  ordinal utility theory
+Key Concepts
+Ordinal utility
+Startup Activity
+1. Suppose you have just eaten an orange and a banana. Can you tell how much 
+you are satisfied with each of these items? 
+You can probably tell which item you liked more. But, it is very difficult to express 
+“how much” you liked one over the other. In the ordinal utility approach, utility cannot 
+be measured absolutely, but different consumption bundles are ranked according to 
+preferences. The concept is based on the fact that it may not be possible for consumers 
+to express the utility of various commodities they consume in absolute terms, like, 1 
+util, 2 util, or 3 util, but it is always possible for consumers to express the utility in 
+relative terms. It is practically possible for the consumers to rank commodities in the 
+order of their preference, as 1st, 2nd, 3rd, and so on.
+That is, to make his/her choice, the consumer needs not know the utility of various 
+commoditiesin a specific unit, but be able to rank the various baskets of goods (order 
+of preference) according to the satisfaction that each bundle gives.
+Assumptions
+yRationality: The consumer is assumed to be rational. The main objective of 
+rational consumer is to maximize his/her satisfaction or utility given his/her 
+income and market prices.
+yUtility is ordinal: utility is not absolutely (cardinally) measurable. The consumer 
+can rank his/her preference (order the various baskets of goods) according to the 
+satisfaction of each basket.
+yThe Diminishing marginal rate of substitution (DMRS): The marginal rate of 
+substitution is the rate at which a consumer is willing to substitute one commodity 
+for another commodity so that his/her total satisfaction remains the same. The 
+rate at which one good can be substituted for another in a consumer‘s basket of 
+goods diminishes as the consumer consumes more and more of the good. This 
+means that as the consumer substitutes more and more of one commodity (say 
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour13Y) for another commodity (say X), he/she will be prepared to give up fewer units 
+of the latter (X) for each additional unit of the former (Y).
+yThe total utility of the consumer depends on the quantityof the commodity 
+consumed: The total utility of a consumer is measured by the amount (quantities) 
+of all items he/she consumes from his/her consumption basket .
+yConsistency and transitivity of choices: is assumed that the consumer is consistent 
+in his/her choice, that is, if he/she chooses bundle A over B in one period, he/she 
+will not use B over A in another period if both bundles are available to him/her, 
+under exactly the same conditions.
+ The consistency assumption may be symbolically written as follows:
+               ═> If bundle A>B, then B is not greater than A
+Similarly, it is assumed that consumers’ choices are characterized by transitivity: if 
+bundle A is preferred to B and B is preferred to C, then bundle A is preferred to C.
+Symbolically, we may write the transitivity assumption as follows:
+               ═> If bundle A >B and B>C, then A>C.
+ĂActivity 1.5
+1.What is ordinal utility?
+2.What are the assumptions of ordinal utility theory? 
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour14Unit Summary
+The theory of consumer behavior is concerned with how consumers decide on the 
+basket of goods and services they consume in order to maximize their satisfaction/
+utility. Utility is the power of a commodity to satisfy human wants. There are two 
+approaches for the measurement of utility: the Cardinal Utility and Ordinal utility 
+approaches. 
+The cardinal utility approach argues that utility is measurable and quantifiable with 
+a unit of measurement of ‘utils’ while the ordinal utility approach argues that utility 
+has only ordinal value and could only be ordered and ranked. The law of diminishing 
+marginal utility states that as the amount consumed of a commodity increase, the 
+utility derived by the consumer from the additional units (marginal utility) goes on 
+decreasing. 
+Under the cardinal utility approach, the consumer reaches equilibrium when the 
+marginal utility of the commodity is equal to its price in the case of one commodity 
+(MUx = Px), and when the ratio of the marginal utilities of the commodities to their 
+prices is equal for all commodities.
+In the ordinal utility approach, utility cannot be measured absolutely, but different 
+consumption bundles are ranked according to preferences. The concept is based on 
+the fact that it may not be possible for consumers to express the utility of various 
+commodities they consume in absolute terms, like, 1 util, 2 util, or 3 util, but it is 
+always possible for consumers to express the utility in relative terms. It is practically 
+possible for the consumers to rank commodities in the order of their preference, as 1st, 
+2nd, 3rd, and so on.
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour15Unit Review Exercises
+Part I: Write ‘True’ if the statement is correct or ‘False’ if the statement is 
+incorrect.
+1.Total utility is the sum of all marginal utilities. 
+2.Total utility increases as long as marginal utility is postive.
+3.The law of diminishing marginal utility is an  assumption of ordinal utility theory.
+4.As ordinal utility, the level of satisfaction (utility) obtained from commodities is 
+be measurable in monetary units.
+5.Consistency and transitivity can be applied to a single commodity case.
+6.An ordinal utility attaches figures to utility measurement, but a cardinal utility 
+ranks market baskets.
+Part II: Multiple-choice items.
+Direction: Read the following questions and choose the correct answer from the given 
+alternatives. 
+1.Which of the following is false about utility?
+A . The utility of a product can be different at different places and time.
+B . Utility means usefulness. 
+C . Utility is pleasure derived from the consumption of a good or service.
+D . The same commodity gives different utilities to different consumers. 
+2.When we rank the utility gained from the consumption of different commodities 
+as 1st , 2nd and 3rd, etc, we are measuring utility:
+A . Cardinally
+B . OrdinallyC . both Cardinally and Ordinally
+D . Using Traditional theory
+3.Which of the following assumptions is common in Cardinal and Ordinal 
+approaches?
+A . Constant marginal utility 
+B . Diminishing marginal utility
+C . Considering the consumer as rational
+D . Measuring the utility of each commodity in number.
+4.Which one is true if total utility is increasing at a decreasing rate? 
+A . Marginal utility is increasing.      
+B . Marginal utilityiszero.C . Marginal utility is decreasing.                   
+D. MU will benegative.
+
+--- [PAGE BREAK] ---
+
+Unit 1: Theory of Consumer Behaviour165.Which of the following is true?
+A . The consumer is in equilibrium when the TUX =PX .
+B . If the MUX > PX, the consumer can increase his/her utility by purchasing less 
+units of goods.
+C . If the MUX < PX, the consumer can increase his/her utility by purchasing 
+more units of good.
+D . When the total utility curve reaches its maximum point, marginal utility 
+becomes zero. 
+Part III: Write detail answers to the following.
+1.Mention at least one assumption that is common for both the cardinal and ordinal 
+utility approaches.
+2.What is meant by the marginal rate of substitution? Discuss with examples the 
+principles of the diminishing marginal rate of substitution.
+3.Assume a hypothetical consumer consumes good X and good Y . The price of 
+good X is 1 and price of good Y is 3 and the consumer budget is birr 10 for the 
+two goods. Where: QX is quantity of good X, QY is quantity of good Y and TUX 
+and TUY is total utility from consuming good X and good Y respectively, MUx 
+and MUyare marginal utilities  for  good X and good Y respectively. 
+QXTUXQYTUYMUx MUy
+0 0 0 0
+1 10 1 24
+2 19 2 45
+3 27 3 63
+4 34 4 78
+5 40 5 87
+6 44 6 90
+7 41 7 91
+8 41 8 91
+9 40 9 90
+Based on the given information (from  the above table), answer the following 
+questions.
+A . Calculate the marginal utility of the two goods
+B . Determine the quantities of the two goods that the consumer should buy in 
+order to maximize his total utility.

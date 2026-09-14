@@ -1,0 +1,374 @@
+=================================================================
+Book: economics.pdf
+Chapter 4: Introduction to Demand and SupplyIntroduction
+Pages: 51 to 62
+=================================================================
+
+Unit 4: Introduction to Demand and SupplyIntroduction 
+You may have questions such as next: What does demand mean? What does the law 
+supply say? What does market equilibrium mean? The purpose of this unit is to explain 
+what demand and supply are and show how they determine equilibrium price and 
+quantity. We will also show how the concepts of demand and supply reveal consumers 
+and producers sensitivity to price change. This unit deals with the concept of demand, 
+the concept of supply and market equilibrium. 
+Unit objectives
+At the end of this unit, students will be able to: 
+ 6Define the concepts of demand and supply. 
+ 6Explain the laws governing demand and supply. 
+ 6Describe the equilibrium price and quantity 
+ /u270D_1F3FFStart-up Activities
+1. How do you describe the term demand? 
+2. How do you define the term ‘supply’ in economics?
+3. Can you define the concept of ‘equilibrium’?
+ /u1F449_1F3FFKey Concepts
+Ceteris paribus, demand, demand schedule, demand curve, demand function, law 
+of demand, supply, supply schedule, supply curve, law of supply, equilibrium, 
+market demand, market supply, market equilibrium, equilibrium price, and 
+equilibrium quantity. 
+            Introduction to 
+            Demand and Supply Unit
+4
+43
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supply444�1 Concept of Demand 
+At the end of this section, students will be able to: 
+ 6Define the concept of demand 
+ 6Analyse the law of demand 
+ /u270D_1F3FFStart-up Activity
+How do you describe the term demand? 
+Demand 
+The terms demand, desire and want are frequently used synonymously to express 
+what an individual needs and would like to acquire. Demand states that the consumer 
+must be willing and able to buy a commodity which he or she desires at a given price 
+during a given period of time. 
+Accordingly, demand is distinct from a mere desire to acquire something. Human 
+wants are unlimited and desires are numerous. However, only a desire backed up by 
+the ability to pay the price for the commodity and the willingness to purchase it, is 
+called a demand. We can say demand refers to an effective desire. A desire becomes an 
+effective demand only when it is backed by the following three features: 
+ yability to pay for the good desired, 
+ ywillingness to pay the price of the good desired, and 
+ yavailability of the good itself 
+Furthermore, demand for a good is constantly stated relative to a specific price and 
+certain time. For instance, an individual may be interested to buy a certain jeans at a 
+price of Birr 500, but he or she could not absolutely demand it if its price is Birr 900. 
+Likewise, an individual may be willing to buy a room heater at a price of Birr 1000 
+during a cold season, but he or she may not be interested in buying it at this price 
+during a hot season. 
+Based on the aforementioned considerations, we can define demand as follows: 
+Demand for a commodity is the amount of it that a consumer is willing to 
+buy at various given prices and a given moment of time.
+Quantity Demanded
+Quantity demanded is the amount of commodity a consumer must be willing and able 
+to buy which he/she desires at a given price during a given period of time. 
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and SupplyLaw of Demand
+Law of demand states that, ceteris paribus, price of a commodity and its quantity 
+demanded are inversely related. Ceteris paribus means other thing remain the same. 
+In other words, the higher the price, the lower the quantity demanded. The law of 
+demand is a fundamental principle of economics that states that at a higher price 
+consumers will demand a lower quantity of a good. 
+Demand Schedule 
+A demand schedule is a tabular description, which presents various quantities of a 
+commodity that would be demanded at different prices. Demand schedule refers to 
+a tabular representation of the relationship between price and quantity demanded. 
+It demonstrates the quantity of a product demanded by an individual or a group of 
+individuals at specified price and time. 
+Table 4.1: Individual household demand schedule for Oranges per week
+Price (Birr Per kg) Quantity Demanded/week 
+5 5
+4 7
+3 9
+2 11
+1 13
+The above demand schedule shows the different quantities of oranges demanded by an 
+individual household at different prices. At Birr 5 per kg, the consumer demands 5kg 
+of oranges. However, an individual household’s demand becomes 13 kg of Oranges 
+at Birr 1 per kg.
+Demand Curve 
+A demand curve is a graphical representation of the relationship between different 
+quantities of a commodity demanded by an individual at different prices per time 
+period.
+45
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supply46
+                           Figure 4.1:  Individual household demand curve
+Demand Function 
+It is a mathematical representation of the relationship between price and quantity 
+demanded, ceteris paribus. A typical demand function is given by:
+Qd = f(P) 
+where, Q d is the quantity demanded and P is the commodity’s price,
+Market demand
+Market demand describes the demand for a given product and who wants to purchase 
+it. This is determined by the willingness of consumers to spend a certain price on a 
+particular good or service. As market demand increases, price also increases. When it 
+decreases, price will decrease as well. Market demand is derived by a simple horizontal 
+summation of the quantity demanded for a commodity by all buyers at each price. 
+The market demand curve describes the relationship between various quantities of 
+a commodity that consumers are willing to buy at different prices. Market demand 
+curve is the horizontal summation of individual demand curves at the market price. 
+ ĂActivity 4 �1
+1. Define demand and state the law of demand.
+2. Explain why the demand curve always slopes downwards from left to right.
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supply4�2 Concept of Supply 
+At the end of this section, students will be able to:
+ 6Define the concept of supply.
+ 6Analyse the law of supply
+ /u270D_1F3FF Start-up Activity
+How do you define the term ‘supply’ in economics?
+ Supply 
+In ordinary language the term supply is often misused and confused with the term 
+‘stock’. Stock is the total volume of a commodity produced during a period less the 
+quantity already sold out. Conversely, supply means the quantity which is actually 
+brought to the market. Most of the time, producers do not offer all of their stock for 
+sale in the market. For example, at the time of harvest, a large part of agricultural 
+product is kept back in cold storage and is taken out during the off-season for sale at 
+better prices. Likewise, a part of industrial product is usually kept back in stock and 
+is offered for sale in the market at the time when it can bring higher prices. Thus, we 
+can say that stock is potential supply and supply may be less than or equal to the stock 
+of a commodity. However, in economics, the term supply has a specific meaning and 
+it is described as: 
+Supply of a commodity refers to the various quantities of it which producers are 
+willing and able to offer for sale at a particular time at various corresponding prices.
+Quantity Supplied
+Quantity Supplied indicates various quantities of a commodity that sellers (producers) 
+are willing and able to provide at different prices in a given period of time. In 
+economics, quantity supplied describes the number of goods or services that suppliers 
+will produce and sell at a given market price. The quantity supplied differs from 
+the actual amount of supply as price changes influence how much supply producers 
+actually put on the market. 
+Note that supply shows the relationship between the quantity supplied and price of 
+a commodity, while quantity supplied refers to a specific amount of the commodity, 
+which a producer is willing to sell at a specific price.
+Law of Supply  
+Like the law of demand, the law of supply demonstrates the quantities sold at a specific 
+47
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supply48price. But unlike the law of demand, the supply relationship shows an upward slope. 
+This means that the higher the price, the higher the quantity supplied. The law of 
+supply states that, ceteris paribus, there is a direct or positive relationship between 
+price and the quantity supplied of a commodity. 
+ Supply Schedule 
+A supply schedule is a tabular presentation of different quantities of a commodity 
+offered for sale at different prices per time period. Supply schedule is a chart that 
+shows how much product a supplier will have to produce to meet consumer demand 
+at a specified price based on the supply curve. 
+Table 4.2: Individual seller’s supply schedule for oranges
+Price (Birr Per kg) Quantity Supplied (kg/week
+10 60
+15 70
+20 80
+25 90
+30 100
+The above demand schedule shows the different quantities of Oranges demanded by 
+an individual household at different prices. At Birr 5per kg consumer demands 5kg of 
+Oranges. However, an individual household’s demand becomes 13 kg of Oranges at 
+Birr 1 per kg. 
+Supply curve
+A supply curve shows the information of a seller’s supply schedule graphically rather 
+than in a tabular form.
+ 
+Figure 4.2 Individual seller’s supply curve for oranges
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and SupplySupply Function 
+A supply function is a mathematical representation of the relationship between price 
+and quantity supplied of a commodity, all other things remaining the same. A typical 
+supply function is given by:
+QS = f(P)
+where, QS is quantity supplied and P is the price of the commodity.
+Market supply
+Market supply is the total amount of an item producers are willing and able to sell at 
+different prices, over a given period of time. Market supply is derived by horizontally 
+adding the quantity supplied of the commodity by all sellers at each price. 
+The market supply curve indicates the relationship between various quantities of a 
+commodity that sellers are willing to offer for sale at different prices. Market supply 
+curve is the horizontal summation of individual supply curves at the market price.
+ Ă Activity 4 �2
+1. Define supply and state the law of supply.
+2. Why does the supply curve slope upward to the right?
+ 
+49
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supply504�3 Market Equilibrium 
+At the end of this section, students will be able to:
+ 6Define market equilibrium
+ /u270D_1F3FFStart-up Activity
+Can you define the concept of ‘equilibrium’?
+In the preceding sections, we have discussed both the consumers’ demand for goods 
+in a market and the firms’ supply of goods in a market independently. Demand and 
+supply curves tell us how much consumers demand and how much producers supply 
+at different prices, respectively. However, they do not tell us the actual price of a good 
+in general. We now come to the important question: How do the forces of demand and 
+supply work together in order to determine market prices? We explain how forces of 
+demand and supply help in attaining ‘equilibrium’, and how the ‘equilibrium price’ is 
+determined. 
+The concept of equilibrium 
+The term “equilibrium” refers to a state of balance. In the physical world, when two 
+opposing forces acting on an object are balanced so that the object is held stationary, 
+the object is said to be in equilibrium. In simple terms, when the object under the action 
+of forces working in opposite directions has no tendency to move in any direction, the 
+object is in equilibrium. Similarly, an economic system is said to be in equilibrium 
+when its important variables show no change, and when no forces are acting on them to 
+produce a change in their values. For instance, after attaining equilibrium, a consumer 
+has no intention of re-allocating his or her money or income. Likewise, a firm is said 
+to be in equilibrium when it has no tendency to change its level of output by either 
+increasing or decreasing it. Thus, there is a tendency to move towards the equilibrium 
+price. This tendency is known as the “market mechanism,” and the resulting balance 
+between supply and demand is called “market equilibrium.”
+In real world economic activities, equilibrium may never be actually realised. The 
+central feature of equilibrium analysis in economics is the concept that economies 
+tend towards equilibrium when no external forces are acting on them.
+Market equilibrium 
+In the context of price determination, equilibrium refers to a situation in which the 
+quantity demanded of a commodity equals the quantity supplied of the commodity. In 
+brief, it refers to the balance between opposite forces of demand and supply known as 
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supplymarket equilibrium. 
+ Equilibrium price 
+The price at which the quantity demanded of a commodity equals the quantity supplied 
+is called ‘equilibrium price’. The forces of demand and supply determine the price of 
+a commodity in a given market. At an equilibrium price, the quantity demanded and 
+the quantity supplied are equal.
+Equilibrium quantity 
+Equilibrium quantity refers to the quantity of a good supplied in the marketplace when 
+the quantity supplied by sellers exactly matches the quantity demanded by buyers. In 
+other words, the equilibrium quantity is the amount of a commodity that is bought and 
+sold at an equilibrium price.
+Graphically, we depict market equilibrium as shown in the Figure below.
+                Figure 4.3 Market equilibrium  
+When the demand curve and the supply curve intersect, we have a point where the 
+quantity that consumers are willing to purchase matches the quantity that suppliers are 
+willing to supply at a given price. This point is known as the market equilibrium. From 
+the market equilibrium we can derive market price and market quantity . 
+Note: This market equilibrium is not fixed; it is likely to change over time due to 
+changes in the patterns of demand and supply.
+ Ă Activity 4 �3
+1. What is the meaning of market equilibrium?
+2.  Explain the difference between equilibrium price and equilibrium quantity . 
+51
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supply52 Unit Summary
+Demand for a commodity is the amount that will be purchased at a particular price 
+during a particular period of time. The law of demand states that, other things 
+remaining constant, the quantity demanded of a commodity increases when its price 
+falls and decreases when it rises. The law can be described using a demand schedule, 
+a demand curve, and a demand function. A demand schedule is a table that describes 
+the different quantities of a commodity demanded at different prices. A demand 
+curve is the graphical representation of a demand schedule. Individual demand for a 
+commodity is the amount a single consumer buys at a given price during a particular 
+period of time. Market demand is the total quantity of a commodity that all households 
+are willing to buy at a given price during a given period of time.
+Supply is the quantity of a commodity that producers are willing to produce and offer 
+for sale at a particular price during a given period of time. The law of supply states 
+that, other things remaining the same, the quantity of a commodity that firms will 
+produce and offer for sale rises with a rise in price and falls with a fall in price. A 
+supply schedule is a tabular description that shows various quantities that producers 
+are willing to produce and sell at various prices during a given period. Individual 
+supply is the quantity of a commodity that one firm is willing to produce and offer for 
+sale at a particular price during a given period of time. Market supply is the quantity 
+of a commodity that all the producers are willing to produce and offer for sale at a 
+particular price during a given period of time.
+Market equilibrium is a situation in which the quantity demanded of a commodity 
+equals the quantity supplied of the commodity. An equilibrium price is the price at 
+which quantity demanded equals quantity supplied. An equilibrium quantity is the 
+amount of a commodity bought and sold at an equilibrium price. Graphically, the 
+equilibrium price is determined at the point of intersection of the demand curve and 
+the supply curve.
+ 
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and SupplyReview Questions
+Part I: Write ‘True’ if the statement is correct or ‘False’ if it is not correct for 
+each of the following statements. 
+1. The only factor that can cause a change in the quantity demanded of a commodity 
+is a change in the price of the commodity.
+2. Demand schedule refers to a tabular representation of the relationship between 
+price and quantity demanded.
+3. A change in price of coffee will not affect the quantity demanded of coffee. 
+4. A change in price of wheat will affect the quantity stored of wheat.
+5. Equilibrium price is the price at which quantity demanded equals quantity 
+supplied.
+6. An increase in quantity supplied of a commodity leads to a decrease in its price.     
+7. At equilibrium price, the quantity demanded and quantity supplied are not equal.
+8. Market equilibrium is a situation in which quantity demanded of a commodity 
+equals the quantity supplied of the commodity.
+9. The amount of a commodity that is bought and sold at a lower price is called the    
+equilibrium quantity.
+10. Provided that market demand and supply remain unchanged, the price will neither 
+tend to rise nor fall below this equilibrium price.
+Part II: Choose the correct answer among the alternatives for the following 
+questions � 
+1. Demand reflects the quantity of a commodity that consumers 
+A . want to buy it at a different price,
+B . need to buy at alternative prices.
+C . are willing and able to buy at alternative prices.
+D . can be bought at alternative prices.
+2. A demand schedule shows the relationship between the quantity demanded of a 
+commodity over a given period of time and the _____________
+A . price of the commodity.           C. income of the consumers.
+B . taste of the consumers.            D. price of related commodities.
+3. More of a commodity will be purchased at lower prices because
+A . consumers substitute this commodity for others whose price has not changed.
+B . at lower prices, consumers can buy more of this commodity with a given 
+money income.
+C . more consumers will buy the commodity at lower prices than at higher prices.
+D . all of the above
+53
+
+--- [PAGE BREAK] ---
+
+Unit 4: Introduction to Demand and Supply544. A change in price of a commodity affects 
+A . the quantity demanded of a commodity. 
+B . consumers’ willingness to buy the good. 
+C . consumers’ ability to buy the good.
+D . all of the above. 
+5. Which one of the following is not held constant in defining the demand schedule? 
+A . Number of consumers                     C. Prices of other goods 
+B . Price of the good in question   D. Number of sellers in a market
+6. Which of the following statements is not correct?
+A . Demand curves tell us how much consumers demand at different prices. 
+B . Supply curves tell us how much producers supply at different prices.
+C . Demand and supply curves can tell us the actual price of a good in general.
+D . All of the above. 
+7. An economic system is said to be in equilibrium when.
+A . its important variables show no change  
+B . no forces are acting on them to produce a change in their values   
+C . A and B
+D . all of the above
+8. The intersection of a market demand curve and a market supply curve for a 
+commodity determines the
+A . equilibrium price for the commodity.
+B . equilibrium quantity for the commodity.
+C . point of neither increase nor decrease in price of the commodity .
+D . all of the above
+Part III: Answer the following questions briefly and to the point.
+1. Distinguish between the following pair of concepts:
+a. Individual demand and market demand
+b. Individual supply and market supply
+2. What is the difference between demand and the quantity demanded for a 
+commodity?
+3. To get the market demand curve for a product, why do we add individual demand 
+curves horizontally rather than vertically?
+4. To get the market demand curve for a product, why do we add individual demand 
+curves horizontally rather than vertically?
+5. When is the market said to be in a state of equilibrium?

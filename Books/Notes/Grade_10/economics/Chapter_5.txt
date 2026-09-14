@@ -1,0 +1,1257 @@
+=================================================================
+Book: economics.pdf
+Chapter 5: Banking and Finance   �  �  �  �  �  �  �  �  �  �  �  �  �  �  �
+Pages: 97 to 136
+=================================================================
+
+Unit 5:  Banking and Finance89Introduction
+One of the basic factors of production in economics is capital. Capital is the amount 
+of money the producer pays for the other factors of production (labor, land and 
+entrepreneur) used in the production process. 
+Banks are one of the financial institutions that are used to transfer finance from those 
+who have in excess to those that are in need of it. People with excess money will go to 
+finance and put it in banks, this is called saving. People who faced shortage of money 
+will go to the bank and ask for loans. Banks will give money as a loan according to their 
+lending procedures. This activity of banks is one example of financial intermediation.
+Thus, in this unit the issues that will be discussed concerning banks and other financial 
+intermediaries are introduction to financial Intermediaries, introduction to financial 
+markets, financial Institutions, banking and non-banking financial institutions, 
+historical development of the banking sector in Ethiopia, electronic banking 
+(e-banking), indigenous financial institutions in Ethiopia – “ikub”, “iddir”. Therefore, 
+students are expected to think of banks and other financial intermediaries in their 
+locality and their functions as savers of excess money and as lenders to those who 
+need the money.
+Unit Objectives
+   By the end of this unit, students will able to: 
+6Discuss about the different types of financial intermediaries. 
+6Analyze the role of indigenous financial institutions.
+6Explain the historical development of the financial institutions (Banks, 
+Microfinances and Indigenous institutions) in Ethiopia.
+6Describe the financial institutions (Banks, Microfinances and Indigenous 
+institutions).
+6Identify financial institutions in Ethiopia (Banks, Microfinances and 
+Indigenous institutions). 
+6Evaluate the roles of financial institutions for the socio-economic 
+improvement of the society.Banking and Finance Unit
+5
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance905.1 Introduction to Financial Intermediaries
+By the end of this section, students will be able to:
+6Define financial intermediation,
+6Mention financial intermediaries.
+6List the benefits of financial intermediaries. 
+Key Concepts
+Finance; Financial intermediaries; Saving; Borrowing; Banks; Microfinance 
+Institutions 
+Start Up Activity
+Think of financial institutions (e.g., banks) in your town.  List out their benefits 
+for the people in the town?
+What is a financial intermediary? 
+Financial intermediary is an entity that acts as the middleman between two parties 
+in a financial transaction, for instance- Commercial Bank of Ethiopia. Financial 
+intermediaries offer a number of benefits to the average consumer, such as safety, 
+liquidity, and economies of scale involved in banking and asset management. 
+In other words, financial intermediaries mediate between the providers (with excess 
+money) and users (with shortage of money) of financial capital. The transfer of funds 
+from surplus spending unit to deficit spending unit through financial intermediaries is 
+also called Financial Intermediation.
+What are the benefits of financial intermediaries? 
+For depositors:  Financial intermediaries give safety and interest earning. Safety refers 
+to the fact that the money of the depositors is free from any risk of loss. Banks also pay 
+interest on the money saved at their banks by the depositors. These are the benefits to 
+the depositors by financial intermediaries. 
+For the borrowers:  People borrow money from banks and other financial intermedi -
+aries are known as investors. In the process of production, they may face shortage of 
+finance and go to financial intermediaries (e.g., Banks), to get money or finance for 
+their investment. The financial intermediaries will charge them annual interest on the 
+money they borrow. The more money they borrow, the more investment (production) 
+they undertake which is useful for the country.
+Thus, finance (money) in the economy is like the blood circulating in the body. Any 
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance91economy or country cannot function well without money (finance), just as the body 
+cannot function without blood circulating in it. We use it to buy our day-to-day needs 
+(demand = willingness + Ability; where ability is the money or finance, we have). 
+Ă  Activity 5.1
+1.Discuss in pairs with your friend on the following questions: 
+•What are financial intermediaries?
+•What is financial intermediation?
+2. List out financial intermediaries in your town.
+In the following sub-sections, you will learn different types of financial intermediaries.
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance925.2 Introduction to Financial Markets
+By the end of this section, students will be able to;
+6Describe financial markets,
+6Identify components of financial markets.
+Key Concepts
+Financial Markets; Money Markets; Capital Markets; Investment 
+Start Up Activity
+What comes to your mind when you think of financial markets?
+Financial markets are markets that provide channels for allocation of savings to 
+investment. They provide a variety of assets to savers as well as various forms in 
+which the investors can raise funds and thereby decouple the acts of saving and 
+investment. The savers and investors are constrained not by their individual abilities, 
+but by the economy’s ability, to invest and save respectively. The financial markets, 
+thus, contribute to economic development to the extent that the latter depends on the 
+rates of savings and investment.
+The financial markets have two major components:
+A . Money market
+B . Capital market
+A.Money market:  according to (Drake & Fabozzi, 2010), money market is the 
+sector of the financial market that includes financial instruments with a maturity 
+date of one year or less at the time of issuance. Money market instruments 
+include:
+yTreasury bills, 
+yCommercial papers, 
+yNegotiable certificates of deposit, 
+yRepurchase agreements, and 
+yBankers’ acceptances.
+I .  Treasury Bills:  are financial instruments issued by the governments with 
+maturity dates of three weeks, one month, three months or six months. 
+The holder of a T-Bill realizes a return by buying these securities for less 
+than the maturity value and then receives the maturity value at maturity.
+II .  Commercial papers: are promissory notes written promises to pay issued 
+by a large, creditworthy corporation or a municipality having an original 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance93maturity that ranges from one (1) day to two hundred seventy (270) days. 
+Commercial paper may be either interest bearing or sold on a discounted 
+basis.
+III .  Certificates of deposit (CDs):  are written promises by a bank to pay a 
+depositor. They are issued by large commercial banks with original 
+maturities between one month and one year. On the maturity date, the issuer 
+repays the principal, plus interest.
+B.The Capital market : is the sector of the financial market where long-term 
+financial instruments are issued by corporations and governments.  They have 
+an original maturity greater than a year and perpetual securities (those with no 
+maturity).  There are two types of capital market securities: 
+a.Equity and 
+b.Debt Obligations
+a.Equity : is a capital market financial instrument which includes common 
+stock and preferred stock. Common stock represents ownership of a 
+perpetual corporation, and hence, common stock is a perpetual security . 
+Preferred stock also represents ownership interest in a perpetual corporation 
+but can either have redemption (maturity) date or be perpetual.
+b.Debt Obligation : is capital market financial instrument whereby the 
+borrower promises to repay the maturity value at a specified period of 
+time beyond one year. They include:
+Bank loans and 
+Debt securities . 
+Bank Loans-  One form of such a bank loan is a syndicated bank loan . This is a 
+loan in which a group (or syndicate) of banks provides funds to the borrower. 
+Debt securities : a debt security with a maturity at issuance of 10 years or 
+less(Notes) ; and those with  a maturity greater than 10 years (Bonds).
+ĂActivity 5.2 
+1. What are financial markets?
+2. What are the components of financial markets?
+3. List some examples for each component of financial markets.
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance945.3 Introduction to Financial Institutions   
+By the end of this section, students will be able to;
+6Describe the financial institutions
+6Explain the banking system
+6Elaborate the treasury bills
+6Analyze the roles of banks and treasury bills
+Key Concepts
+Institutions; Financial institutions; Indigenous financial institutions; Microfinance 
+institutions; Formal institutions; Informal institutions
+Start Up Activity
+What comes to your mind when you think of financial institutions? 
+What are institutions?
+Institution are norms that organize social, political and economic relations.  They are 
+‘the underlying rules of the game’ in any society or organization. There are two forms 
+of Institutions:
+yFormal and Informal. 
+Formal institutions include the written constitution, laws, policies, rights and 
+regulations enforced by official authorities . 
+Informal institutions, on the other hand, are the usually unwritten social norms, 
+customs or traditions that shape thought and behavior.
+What are financial Institutions?
+Financial institutions are institutions that serve  as financial intermediaries. 
+There are three  major types of financial institutions: 
+I .  Depositary Institutions:  Deposit-taking institutions that accept and manage 
+deposits and make loans. Example: banks and credit unions .
+II .  Contractual Institutions:  Insurance companies and pension funds; and 
+III .  Investment Institutes:  Investment Banks, underwriters, brokerage firms. 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance955.3.1 The Banking Financial Institution
+A bank is a financial intermediary that gives money (loan) to a borrower. They also 
+accept deposits (savings) from depositors. The banking sector, being an intermediary 
+in any economy, has a major role to play in enhancing development and growth 
+through their activities of:
+(a)Mobilizing saving, 
+(b)Identifying good investment and 
+(c)Exerting through sound corporate control, particularly during the early stages 
+of economic development and weak institutional environment. 
+Accordingly, the banks’ roles in an economy include;
+I .   Acquiring information about firms and managers and thereby improving 
+capital allocation and corporate governance. 
+II .  Managing cross-sectional, inter-temporal and liquidity risk and thereby 
+enhancing investment efficiency and economic growth.
+As an institution, the efficiency of bank depends on following two key factors:
+1)Degree of competition that exists among banks and, 
+2)The nature of the regulation to which banks are subject to. 
+It is believed that a competition among banks in the economy will result in:
+	Greater technical efficiency within deposit institutions, 
+	Lower interest rates for borrowers, 
+	Higher interest rates for depositors and 
+	A greater variety of services  
+5.3.2 The Non- Banking Financial institution
+A non-bank financial institution (NBFI) is a financial institution that does not have 
+a full banking license or is not supervised by a national or international banking 
+regulatory agency. 
+NBFIs facilitate bank-related financial services- such as investment, insurance, risk 
+pooling, contractual savings, and market brokering. 
+Examples: insurance companies, pawn shops, cashier’s check issuers, check cashing 
+locations, payday lending, currency exchanges, and microloan organizations. 
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance96ĂActivity 5.3 
+Discuss in groups of desk mates with your friend;
+1. What are financial Institutions?
+2. What are the components of financial institutions are?
+3.What role do banks play or have in the society?
+4.What are treasury bills?
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance975.4 Historical Development of Banks in Ethiopia   
+By the end of this section, students will be able to:
+6Describe the historical development of banks in Ethiopia
+6Identify the non-banking financial institutions in Ethiopia
+6Explain the roles and functions of banks
+Key Concepts
+Socialist economy System; Financial Liberalization
+Start Up Activity
+How old is the oldest Bank in Ethiopia?
+A Historical Note
+In Ethiopia modern banking started in 1905:  with the establishment of 
+Abyssinian Bank, based on a fifty-year agreement with the Anglo-Egyptian 
+National Bank. 
+In 1908: a new development bank (called Société Nationale d’ Ethiope Pour 
+le Development de l’Agriculture et du Commerce) and two other foreign 
+banks (Banque de l’Indochine and the Compagnie de l’Afrique Orientale) 
+were also established. 
+These banks were criticized for being wholly foreign owned.
+5.4.1 History of Banking in Ethiopia
+I .  1905 - 1931
+It was Emperor Menelik II (King of Ethiopia) that introduced modern banking in 
+Ethiopia. There was an agreement signed between the King and the British owned 
+National Bank of Egypt. The first modern bank, Bank of Abyssinia, was founded in 
+1906 as a result of this agreement. The Bank was totally managed by the Egyptian 
+National Bank, a foreign bank.  (National Bank Of Ethiopia, 2020/21). 
+According to (Mauri, 2003), The Bank was given a 50- years concession and was 
+engaged in issuing notes, collecting deposits and granting loans, but its clients were 
+mostly foreign businessmen and wealthy Ethiopians.
+In the following couple of years after its foundation, Bank of Abyssinia opened 
+branches in different towns of the country. Accordingly, the bank had opened branches 
+in the following towns of the country:
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance98yHarar town (1906)
+yDire Dawa town (1908)
+yGore Town (1912) and 
+yDessie and Djibouti (1920)
+Bank of Abyssinia was liquidated in 1931. (Mauri, 2003). According to (Nwanne, 
+2019), The Bank was a private bank whose shares were sold in Addis Ababa, New 
+York, Paris, London, and Vienna. The Bank financed the Franco-Ethiopian Railway 
+project which reached Addis Ababa in 1917.
+II .  1931 to 1936
+In 1931, Bank of Abyssinia was liquidated and legally replaced by Bank of Ethiopia
+shortly after Emperor Haile Selassie came to power.
+The new bank, the Bank of Ethiopia, was totally under Government control and retained 
+the management, the staff, the premises and the clients of the previous bank, Bank of 
+Abyssinia. (Mauri, 2003). Thus, the bank of Ethiopia became the first independent 
+bank of Ethiopia, which was totally under Ethiopian government control.
+Bank of Ethiopia took over the commercial activities of the Bank of Abyssinia  and was 
+authorized to issue notes and coins . The bank keeping the branches of the previous 
+bank, added;
+•	Agency in Gambella and a transit office in Djibouti .
+ It was, however, short lived and was liquidated during the Italian occupation in      
+1936. (Mauri, 2003).      
+III .  1936-1941
+The following new banks were introduced by the Italians during their invasion of the 
+country (Ethiopia) from 1936 – 1941: 
+yBanca d’Italia , 
+yBanco di Roma, 
+yBanco di Napoli and 
+yBanca Nazionale del lavoro
+These were actually branches of the main Italian banks in Italy. They had branches 
+which operated in the main towns of Ethiopia during the five year occupation period. 
+Only Banco di Roma and Banco di Napoli (which were operating in Asmara) continued 
+their operation after 1941. 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance99IV .  1941 - 1943
+There was another foreign bank introduced in 1941 ( Barclays Bank ) with the coming 
+of the British troops and they organized banking services in Addis Ababa, until its 
+early withdrawal in 1943.
+V .  1943 - 1963
+The State Bank of Ethiopia  was established in 1943 as the central Bank of Ethiopia
+with a power of issuing bank notes and coins as the agent of the Ministry of Finance. 
+The Bank functioned as the principal commercial bank in the country and engaged 
+in all commercial banking activities besides issuing bank notes and coins. (National 
+Bank Of Ethiopia, 2020/21). 
+According to (Mauri, 2003), the establishment of the State Bank of Ethiopia,  marked 
+the rebirth of the Ethiopian independent banking. The bank was doing all the banking 
+activities as the only bank: commercial banking activities (providing loans and taking 
+deposits) and central bank activities (issuing bank notes and coins). Until 1963, the 
+State bank was the Central bank of the country.
+The State Bank of Ethiopia  had established 21 branches including a branch in 
+Khartoum, Sudan and a transit office on Djibouti until it ceased to exist by bank 
+proclamation issued on December, 1963. 
+VI .  1963 – 1974 
+According to (Nwanne, 2019), The National Bank of Ethiopia was established in 
+1963 by Proclamation number 206 of 1963 and began operation in January 1964. This 
+proclamation “The previous State Bank of Ethiopia” into two banks: National Bank of 
+Ethiopia and Commercial Bank of Ethiopia.
+In 1963, the Ethiopian government split the State Bank of Ethiopia (est. 1942) 
+into the National Bank of Ethiopia, the Central Bank, and the Commercial Bank 
+of Ethiopia (CBE). The government later merged Addis Bank into the Commercial 
+Bank of Ethiopia in 1980 to make CBE the sole commercial bank in the country. The 
+government had created Addis Bank from the merger of the newly nationalized Addis 
+Ababa Bank, and the Ethiopian operations of Banco di Roma and Banco di Napoli. 
+Addis Ababa Bank was an affiliate that National and Grindlays bank had established 
+in 1963 and of which it owned 40%.  At the time of nationalization, Addis Ababa Bank 
+had 26 branches.
+VII .  From 1974 to 1991
+Following the declaration of socialism in 1974, the government extended its control 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance100over the whole economy and nationalized all large corporations. Accordingly, the 
+three private owned banks:
+•	Addis Ababa Bank, 
+•	Banco di Roma and 
+•	Banco di Napoli 
+Were combined (Merged) in 1976 and formed the second largest Bank in Ethiopia 
+called:
+1.Addis Bank 
+Then, in 1980, Addis Bank and Commercial Bank of Ethiopia S.C. were merged /
+combined to form the sole Commercial bank in the country till the establishment of 
+private commercial banks in 1994.  
+The Commercial Bank of Ethiopia  commenced/started its operation with a capital of 
+Birr 65 million, 128 branches and 3,633 employees, in the year 1980. 
+The Agricultural and Industrial Bank  was formed in 1970 as a 100 percent state 
+ownership, and which was under the umbrella of the National Bank of Ethiopia. 
+Then after, in 1979, the bank was renamed Agricultural and Industrial Development 
+Bank (AIDB). It was entrusted with the financing of the economic development of the 
+agricultural, industrial and other sectors of the national economy extending credits 
+of medium and long-term nature as well as short-term agricultural production loans 
+(National Bank Of Ethiopia, 2020/21).
+The financial sector constituted only three (3) banks and each enjoyed monopoly 
+power in its respective market. The following was the three dominant banks in the 
+country during 1974 -1991 period (according to the Gregorian calendar). This period 
+was also known as the Socialist period in Ethiopian history.
+•	The National Bank of Ethiopia (NBE)
+•	The Commercial Bank of Ethiopia (CBE)
+•	Agricultural and Industrial Development Bank (AIDB)
+VIII .  From 1991 to ___
+In 1991 the country became a liberal economy system. The National Bank of Ethiopia 
+(NBE) outlined its main functions separated from the previous total government 
+control. The Licensing and supervision of Banking Business was formulated in 1994. 
+(Monetary and Banking Proclamation No. 83/1994). The proclamation laid down the 
+legal basis for investment in the banking sector. 
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance1015.4.2 Roles and Functions of Banks in Ethiopia
+A . National Bank of Ethiopia (NBE)
+National bank of Ethiopia, just like other countries’ national or central banks, control 
+interest rates, manage the amount of credit available, and control the amount of money 
+supply. 
+National Bank of Ethiopia, on behalf of the government, controls and regulates the 
+activities of the financial sector, the commercial banks, insurance companies and 
+microfinance institutions. 
+Commercial banks generate profit by depositing money, borrowing money from the 
+national bank, and lending money to the public. National banks, however, are not 
+profit making banks, rather they control the overall financial sector in the country. 
+The objective of controlling the financial sector is to bring price stability or control 
+inflation.
+The following are the various roles that it plays to control the financial sector and 
+bring price stability in the country:
+•	It prints the currency and mints the coins;
+•	Issues bonds, treasury bills, and promissory notes on behalf of the government;
+•	Maintains low levels of inflation; 
+•	Authorizes and controls micro and other financial institutions;
+•	Deposits government money and provides direct advances to the government;
+•	Lends money to commercial banks;
+•	Regulates the money supply, interest rates and other charges, 
+•	Controls the creation of credit by commercial banks;
+•	Formulates the monetary policy framework for the country;
+•	Manages the international reserve of the country;
+•	Regulates the foreign exchange of the country; 
+B . Commercial Bank of Ethiopia (CBE)
+The Commercial Bank of Ethiopia is the biggest and the leading commercial bank in 
+the country. 
+The current Commercial Bank of Ethiopia (CBE) was the result of the merging of 
+Addis Bank S.C and the former commercial bank of Ethiopia 1980. 
+As a government commercial bank, the bank has the following Roles and Functions 
+mandated to it by the NBE:
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance102•	Saving/deposit for the households/individuals and firms;
+•	Gives loans to households and firms;
+•	Provides safe custody for valuables for households/individuals;
+•	Sell and purchase foreign currencies;
+•	Issue letters of credit (LC), traveler’s cheques, etc.;
+C . Development Bank of Ethiopia (DBE)
+The development bank of Ethiopia (DBE) is one of the financial institutions engaged 
+in providing short, medium and long term development credits/loans. It has a “project” 
+based lending tradition. Project financed by the Bank are carefully selected and 
+prepared through appraised, closely supervised and systematically evaluated.
+Specifically, the Development Bank of Ethiopia (DBE), which took this last name in 
+1994 financial reform is mandated with the following roles in the country:
+1)Provides loans for the development of the agricultural and industrial 
+sectors;
+2)Supervises and controls the activities of projects financed by the bank; 
+ĂActivity 5.4 
+1.In pairs, discuss about the historical development of banks in Ethiopia
+2.What are the economic advantages of having more private commercial banks 
+in Ethiopia? Discuss in groups of four.
+3. List out as many functions of the following banks first individually and 
+discuss with your friend;
+i.National Bank of Ethiopia (NBE)
+ii.Commercial Bank of Ethiopia (CBE)
+iii. Development bank of Ethiopia (DBE)
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance1035.5 Micro-finance Institutions
+By the end of this section, students will be able to;
+6Explain micro-financing
+6List microfinances in their locality
+6Analyze microcredit, clients and mention features of money lenders.
+Key Concepts
+Microfinance; Microcredit; Group collateral; Loan default
+Start Up Activity
+Where do you think the poor go to get credit (loan)?           
+#Hint: Banks ask for collaterals (assets to be held) to give loans!
+State-run banks had already tried to provide loans to poor households  in different 
+countries in the world. But, they only left a legacy of inefficiency, corruption, and 
+millions of dollars of wasted subsidies. Thus, providing loans to the poor with no 
+collateral was an issue for so many years until Mohammed Yunus (Bangladeshi 
+Economist born in 1940) came with a noble winning idea of microfinancing and 
+microcredit, resulting in the establishment of the Grameen Bank. 
+Muhammad Yunus started making small loans to local poor villagers with no collateral 
+and could not get loans from the formal traditional banks. He believed that his poor 
+clients would make profits and be able to pay back the loans reliably. 
+Today microfinance institutions serve millions of poor people in different countries in 
+the world. They provide small/micro loans without collateral, collecting deposits, and, 
+increasingly, selling insurance, all to customers who had been written off by commercial 
+banks as being unprofitable. Advocates see the changes as a revolution in thinking about 
+poverty reduction and social change, and not just a banking movement. (Armendáriz & 
+Morduch, 2010 ).
+ 5.5.1 Microfinance and Microcredit
+Microfinance institutions (MFIs):  are financial institutions that give access to financial 
+services such as savings, credit, insurance and money transfer  to people that otherwise 
+would remain un-served by the traditional banking system that asks for collaterals. 
+What makes microfinance (-ing) different from other anti-poverty tools is the idea 
+that it improves the living conditions of the poor through their own efforts. It gives 
+“micro-credit” to support “microbusinesses” allowing low-income people to respond 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance104to economic opportunities. For them the main constraint is a small investment in 
+working capital, and microcredit allows overcoming this obstacle. The purpose of 
+these organizations is the provision of financial services to those who would otherwise 
+be excluded from the formal financial system.
+A microcredit:  is a small credit given to a client by a microfinance institution. 
+Microcredit is offered, often without collateral,  to an individual through group lending 
+mechanism. Group lending is a mechanism that allows a number of individuals to 
+obtain a loan through a group scheme. The group is taken as collateral in this case. 
+The incentive to repay is based on peer pressure; if one person in the group defaults, 
+the other group members must make up the payment amount. 
+Microcredit has been proven an effective tool against poverty, enabling those without 
+access to the formal financial system to borrow the small amount of funds they need 
+and start or develop small businesses.
+Micro-entrepreneurs, or economically active poor , are business people who through 
+microfinance take advantage of economic opportunities that otherwise would remain 
+unserved due to financial constraints . 
+Microfinance institutions (MFIs) give not only microcredit, however, but also other 
+financial services like saving service, insurance service and money transfer service 
+that improve the well-being of the poor and helps poor people to stabilize income and 
+to protect against risks. 
+5.5.2 Clients of Microfinance
+The clients of microfinance are the “economically active poor” or low-income persons 
+that do not have access to formal financial institutions. This “economically active 
+poor” clients of microfinances must have economic opportunities and entrepreneurial 
+skills as the money they receive must not be used for consumption but for productive 
+purposes.  The “poorest of the poor”, or “the destitute”, are generally excluded from 
+the circle of microfinance and targeted by other development programs, because they 
+don’t have economic opportunities or entrepreneurial skills. 
+Group lending mechanism has been proven to be a good option for lending the money 
+to the economically active poor. In this mechanism, each member of the group is 
+guarantee/collateral for the other. The effectiveness and sustainability of group lending 
+mechanism depends on the strength of social ties and the influence of peer pressure in 
+the society. 
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance1055.5.3 Microfinance and Money Lenders
+Informal moneylenders are the more direct competitors of microfinance institutions 
+(MFIs). The interests charged in informal moneylenders almost always far exceed 
+what is charged by MFIs and borrowers do not have any kind of protection from 
+abusive behaviors, e.g., abusive lending or unfair loan collection practices. The 
+informal moneylenders most of the time lend money to the poor who has no access 
+to MFIs or even where MFIs exist some poor people may prefer the informal money 
+lenders. 
+There are positive features that may make the informal moneylenders more close to 
+the poor people and able to respond to their needs. These features include; 
+ySimple procedures, clear terms, timely disbursement and loans backed by the 
+borrowers’ character rather than group collaterals. Microfinance has actually 
+taken the combination of these positive features of this informal money lending 
+into more formal financial institutions.
+5.5.4 Microfinance institutions in Ethiopia
+By the year 2020/21 (Gregorian calendar), there are Forty One (41) Microfinance 
+Institutions (MFIs) operational in Ethiopia. They altogether mobilized (approximately) 
+Birr 47 billion in saving deposit. They altogether provided loans to the economically 
+active poor Ethiopians (approximately) equal to Birr 64.6 billion. (National Bank Of 
+Ethiopia, 2020/21).
+ĂActivity 5.5 
+Microfinances in general;
+1. What are the reasons for the existence of microfinances? Work individually 
+and list the possible reasons.
+2. Discuss about the reasons that you have listed in a group of three.
+3. Think of microfinance institutions in your area or in Ethiopia, and
+a . List what activities you think they are doing.
+b . Discuss about the activities in a group of three.
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance1065.6 Electronic Banking (e-banking)
+By the end of this section, students will be able to :
+6Describe the role of technological innovations in the banking service sector,
+6Examine how e-banking has increased the convenience of transactions
+Key Concepts      
+E-banking, Mobile banking, ATM cards, Online banking
+Start Up Activity
+1.What is mobile banking? 
+2.What other e-banking services do you know?
+Technology in all sectors of the economy is changing faster than ever and the banking/
+financial sector is not an exception. Banking and money management became 
+increasingly more electronic. 
+Electronic banking, which is also known as electronic fund transfer (EFT), refers to 
+the transfer of funds from one account to another through electronic methods. Mobile 
+phone payment is one good example for this electronic banking. A study in United 
+States of America (USA) found out that more than twenty (20) percent of mobile 
+phone owners used mobile phone payment methods. 
+There are three key aspects of electronic banking: automated teller machines (ATMs), 
+direct deposits and debit card purchases.
+I .  Automated Teller Machines (ATMs)
+Most people are familiar with automated teller machines (ATMs) as a method for 
+withdrawing money/cash quickly and easily. They give you the flexibility to with -
+draw cash from your registered bank account (having credit or debit cards) almost any 
+time given there is electric power and internet (network) connection. Automated teller 
+Machines (ATMs) will also let you transfer funds between your accounts or to other 
+accounts, make deposits, bill payments and also exchange currencies. ATMs allow 
+customers to complete basic transactions without the aid of a branch representative or 
+a teller.  Service fees are commonly charged for cash withdrawals when using ATMs. 
+II .  Direct Deposit
+Suppose you are a worker and you are paid regularly, then your employer can deposit 
+your salary directly into your bank account, this is known as direct deposit and it is 
+one form of electronic banking system. This method is commonly used to transfer an 
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance107employee’s salary, tax refunds, investment redemptions, payments from retirement 
+accounts, and government benefits like Social Security. 
+Direct deposit requires the use of an electronic network that allows deposits to take 
+place between banks. This network is called the automated clearing house (ACH). 
+Because the funds are transferred electronically, recipients’ accounts are credited 
+automatically. 
+III .  Debit Card Purchases
+Debit card purchases are similar to credit card transactions with some differences. 
+You can make debit card purchases in person, online or over the phone. In debit card 
+purchase, the money is taken directly out of your linked account and you can’t spend 
+more than you have. 
+When using a debit card to make a purchase you are paying for the item then and 
+there, drawing on funds in your bank account. When you use a credit card, however, 
+you’re essentially borrowing money from the card company for the item. It pays the 
+merchant, and then bills you for the amount. You repay it when you get your monthly 
+statement. If you don’t pay the whole amount, you pay interest on the remaining 
+portion, as you would with any loan.
+IV .  Mobile Banking
+Mobile banking is the act of making financial transactions on a mobile device. 
+Advantages to mobile banking include the ability to bank anywhere and at any time. 
+Disadvantages include security concerns and a limited range of capabilities when 
+compared to banking in person or on a computer.
+ĂActivity 5.6
+1.Compared going to the bank in person for banking services and electronic 
+banking,
+2. Based on your or your family’s experience, discuss with your desk mate the 
+advantages of using mobile banking
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance1085.7 Indigenous Financial Institutions
+By the end of this section, students will be able to:
+6Distinguish the difference between different types of indigenous financial 
+institutions in Ethiopia,
+6Examine the role of indigenous financial institutions on the improvement of 
+the livelihoods of the community
+Key Concepts
+Indigenous financial institutions; “Iqqub”; “Iddir”; Saving and Credit Cooperatives 
+(SACCs)
+Start Up Activity
+Tell us anything about any indigenous (local) financial institution in your locality.
+Ethiopians have traditional indigenous financial system called ‘iqqub’ and ‘idir/
+mahiber . Depending on their income, Ethiopians save some amount of money in 
+“iqqubs” per week. This ranges from 100 birr to 10, 000 birr based on the capability 
+of the members in that “Iqqub”. While most employees do this on a monthly basis, 
+business people also save on either a weekly or even daily basis. The Iqub money is 
+used mostly in social occasions such as weddings, funerals, sickness , and also to finish 
+some unfinished activities like building a house, etc. and it circulates among members 
+regularly until all the members get their part of the saving. (Lakew & Azadi, 2020).
+Iddir on the other hand is mostly for funeral and associated services. Membership is 
+mostly based on locality and the contributions are monthly. It is based on the wisdom 
+that, death to the family member is sure to come one day. Until that, the member will 
+contribute some amount of money every month in “iddirs”. The Iddirs will give the 
+member some amount of money so that he will undertake the necessaries. 
+These will be discussed briefly in the following sub-sections:
+1.The “iqqub”- or Saving club
+Membership in the “iqqub” is based on pre-established social ties . It consists of 
+homogeneous groups : people from the same work place , same ethnic background , 
+same trade  or business activity, schooling background or neighborhood . 
+People from all walks of life, ranging from the rural poor to the urban rich , from 
+shoe-shine boys to high level government officials , participate in the “iqqub”, and the 
+capital contributions vary according to the purpose  of the “iqqub” and the economic 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance109status of its members . (AREDO, 1993)
+People prefer “iqqub”  to the formal financial sector because of the following reasons 
+as discussed by (AREDO, 1993):
+•	The strengthening of the ties of solidarity and friendship in the group,
+•	The forced savings of a contractual nature,
+•	The flexibility and adaptability of the “iqqub”  to various situations and needs,
+•	The low risk of default,
+•	The low or practically non-existent costs of administration and transactions,
+•	The absence of minimum investment threshold,
+•	Tendency to gamble and the consequent attraction which the lottery holds for 
+them. 
+2.The “iddir”
+“Iddir”  is an indigenous financial and social institution that almost exists everywhere 
+throughout Ethiopia.   “ Iddir”  provides a wide range of services including financial 
+and material assistance and consolations to a member in the event of difficulties as 
+well as entertainment as the case may be. 
+The services provided by “iddirs” include funeral expenses, financial assistance to 
+families of the deceased and, in some cases, coverage of other risks such as medical 
+expenses, losses due to fire or theft, etc . Almost every “ iddir”  has its own by-laws 
+specifying the duties and responsibilities of members, procedures and functions of the 
+officials.
+Social ties are very important in “iddirs”  also like the case of “iqqub” . A member is 
+required to attend meetings, be present at funeral ceremonies, visit the sick, etc.  The 
+by-laws of “ iddirs”  are observed because of powerful social sanctions and fines of 
+deviant behaviors among members of the “ iddirs” .
+Members’ contributions vary from one “iddir”  to another. Most of the common fund 
+is deposited in the bank account purposely opened for the “ iddir”  while only a small 
+sum of money is kept with the officials for emergency purposes. Most “ iddirs”  have 
+their own tents, benches or chairs, utensils, etc.  These materials are used mainly in the 
+event of the death of a participant’s family member. . (AREDO, 1993). 
+3.The Savings and credit co-operatives (SACCs)
+Savings and credit co-operatives (SACCos)  can be designated as semi-formal financial 
+institutions. They are outside the control of the central authorities with respect to 
+ownership of assets and management. 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance110The SACCos  in Ethiopia have recent origins. The oldest ones were established in the 
+late 1960s, and they grew very slowly until 1978. One reason behind such slow growth 
+was the political and social instability which followed the 1974 uprising. SACCos 
+have been growing fast since 1978. However, the rate of growth is not the same for all 
+co-operatives. Some of them are growing at very fast rates. (AREDO, 1993). 
+SACCos are considered to have immense potential in financing short term loans 
+for agricultural production technologies and undertake off-farm income generating 
+activities. (Tesfamariam, 2015). 
+ĂActivity 5.7
+1. Think about the economic and social benefits of Individually think and list the 
+economic and social benefit of the “iqubbs”, “iddirs” and “SACCos”. Work 
+individually and list out the benefits. 
+2. Bring the lists of benefits of “iqubbs”, “iddirs” and “SACCos” in your 
+localities. Then discuss about the benefits in a group of three students. 
+
+--- [PAGE BREAK] ---
+
+Unit 5:   Banking and Finance111Unit Summary
+Financial intermediary is an entity that acts as the middleman between two parties 
+in a financial transaction, for instance- Commercial Bank of Ethiopia. Financial 
+intermediaries offer a number of benefits to the average consumer, such as safety, 
+liquidity, and economies of scale involved in banking and asset management. 
+Financial markets are markets that provide channels for allocation of savings to 
+investment. They provide a variety of assets to savers as well as various forms in which 
+the investors can raise funds and thereby decouple the acts of saving and investment.
+Financial institutions are institutions that serve  as financial intermediaries. 
+In Ethiopia modern banking started in 1905:  with the establishment of Abyssinian 
+Bank,  based on a fifty-year agreement with the Anglo-Egyptian National Bank .
+Microfinance institutions (MFIs):  are financial institutions that give access to financial 
+services such as savings, credit, insurance and money transfer  to people that otherwise 
+would remain un-served by the traditional banking system that asks for collaterals.
+Electronic banking, which is also known as electronic fund transfer (EFT), refers to 
+the transfer of funds from one account to another through electronic methods.
+People from all walks of life, ranging from the rural poor to the urban rich , from 
+shoe-shine boys to high level government officials , participate in the “iqqub”, and the 
+capital contributions vary according to the purpose  of the “iqqub” and the economic 
+status of its members .
+“Iddir”  is an indigenous financial and social institution that almost exists everywhere 
+throughout Ethiopia.  “ Iddir”  provides a wide range of services including financial 
+and material assistance and consolations to a member in the event of difficulties as 
+well as entertainment as the case may be.
+
+--- [PAGE BREAK] ---
+
+Unit 5:  Banking and Finance112Unit Review Exercises
+Part I: Write True if the statement is correct or False if not correct for the 
+questions below
+1.Banks are intermediaries between the depositors and the borrowers. 
+2.The allocation of saving and investment is undertaken in financial markets.
+3.Financial institutions include banks, insurances and microfinances.
+4.In Ethiopia, modern banking started in 1991. 
+Part II: Choose the best answer from the alternatives given
+1.Which of the following statements best describes financial markets?
+A . Financial markets are where savers and investors meet and transact
+B . Financial markets increase the speed of transactions and they also decrease 
+the cost 
+C . Financial markets are not regulated
+D . A and B
+2.Which of the following is NOT likely to be a goal of a National Bank?
+A . Printing currency notes or minting coins
+B . Deposits
+C . Maintaining a low inflation rate
+D . Encouraging economic growth
+E . Maintaining a stable financial system
+3.A bank is an example of:
+A . a financial instrument.
+B . a financial market.C . a financial institution
+D . None of the above is correct.
+4.The process of financial intermediation:
+A . creates a net cost to an economy but is unavoidable.
+B . is used primarily in underdeveloped countries.
+C . is used when a borrower needs to obtain funds.
+D . decreases the economy’s ability to produce.
+Part III: Fill in the blank spaces for each of the following with appropriate words
+1._____________and __________are indigenous financial institutions in Ethiopia.
+2.____________, ____________ and __________ are electronic banking systems. 
+3.Banks take ________________ from the households or individuals and give 
+________ to borrowers. 
+4.The private commercial banks were established in Ethiopia due to the 
+______________________proclamation in ____________ (year).
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 113 Introduction
+The central concern of economics rests on how best we explain what Adam Smith 
+called the ‘wealth of nations. An answer to the question of why some countries are rich 
+and others are poor can only be given by assessing their economic growth. The changes 
+we realize in the types of economic activities undertaken and also the methods used in 
+their performances are best explained by the changes in the level of the economy, i.e., 
+economic growth. The capability that a country has to alleviate poverty and provide 
+its citizens with a reasonable and higher standard of living depends, to a large extent, 
+on how rapidly its economy grows. The majority of modern literature in economics is 
+dedicated to an understanding of the processes of economic growth. 
+In this unit of grade 10th economics text book, we will discuss “macroeconomic 
+variables, definition and measurement of economic growth, sources of economic 
+growth: economic factors and non-economic factors, why growth varies across 
+economies, classification of countries by income levels: Low income, middle income 
+and upper income,   measurement of productivity, the effect of productivity on economic 
+growth, the weaknesses of using  GDP/GDP Per Capita, and the business cycle: its 
+definition and phases” . 
+Thus, students should be thinking about their country’s economic status throughout this 
+unit. They should associate every theoretical discussion with Ethiopia’s perspective.
+Unit Objectives
+After  successfully completing this unit, students will be able to:
+6Identify the major sources of economic growth.
+6Explain the different phases of business cycles.
+6Discuss about alternative ways of measuring economic growthEconomic Growth Unit
+6
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 1146.1 Review of Macroeconomic Variables 
+By the end of this section, students will be able to:
+6Identify the basic macroeconomic variables,
+6Evaluate the desirable and the non-desirable magnitudes of these 
+macroeconomic variables
+Key Concepts
+National Income Accounting (GDP, GNP, etc.), Economic Growth, Economic 
+Development, Inflation, Unemployment 
+Start Up Activity
+What is the difference between macroeconomics and microeconomics?
+Macroeconomic Variables
+Scarcity makes the study of Economics a necessity rather than a choice. Economics is 
+a social science that deals with making decisions of getting the best out of the limited 
+resources that we have. If these decisions are made at individual decision makers 
+level, the analysis will be categorized under microeconomics.  If on the other hand, 
+these decisions are made at a country level, and the analysis will be categorized under 
+macroeconomics.
+Individual decision-making units in economics include individual consumer (buyer) 
+and individual producer (seller) in the economy. Consumers try to maximize their 
+satisfaction from the goods and services they consume. Producers try to maximize 
+their profit from selling the goods and services. Thus, microeconomics  gives a good 
+analysis of how much the consumer should consume (buy) with the available budget. 
+Similarly, the producer decides on the quantity of input used in the production process 
+to maximize profit from the goods and services produced with the limited factors of 
+production available. This is known in economics as optimization. 
+Nations make decisions through their governments or leaders. The endowments of 
+countries such as land, forest, water, population, machineries, capital, etc. are limited. 
+If not used economically, they will be wasted without attaining the macroeconomic 
+goals of: increased economic growth, reduced unemployment, stable price, increased 
+balance of payment, etc. Thus, macroeconomics  is the best tool available in making
+the decision of giving priorities in production and consumption at country level so 
+that we attain the macroeconomic goals mentioned above. These macroeconomic 
+decisions are made through government macroeconomic policies.
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 115The major macroeconomic variables include: Current Account Balance, Inflation, 
+Economic Growth and Unemployment . On the other hand, the major macroeconomic 
+goals pursued by governments of countries are; improved current account balance; 
+stable prices; increased economic growth; and reduced unemployment.   
+I .  Current Account Balance: countries sell their goods and services to other 
+countries (export) and also, they buy goods and services from other countries 
+(import) . Thus, current account balance is the difference between the dollar 
+value of goods a country exports and the dollar value of goods a country 
+imports. 
+•	Therefore, current account or trade balance = Exports (X) – Imports (M).
+There will be two scenarios:
+Scenario 1:  If the value of exports (X) is greater than the value of imports (M), 
+there is a trade surplus. This is a desirable outcome. The country is benefitting 
+from the trade.  This is true for developed countries exporting expensive man -
+ufactured commodities.
+Scenario 2:  If the value of exports (X) is less than the value of imports (M), 
+there is a trade deficit. This is not a desirable outcome. The country is now 
+losing from the trade. Least developed countries face this scenario since they 
+export cheap primary agricultural commodities. 
+II .  Inflation : is an increase in the overall price level of goods and services over a 
+certain period of time. The rise in the general level of prices, often expressed 
+as a percentage, indicates that a unit of currency effectively buys less than 
+it did in prior periods. This implies that, when there is inflation, there will 
+be a fall in purchasing power of currencies over time. High inflation is not 
+desirable in an economy. This would mean that policymakers try and keep 
+inflation low. 
+There are two types (causes) of inflation;
+⇒	Cost-push inflation: when the costs of production is high produc -
+ers increase price to be profitable; and 
+⇒	Demand-pull inflation: when growing demand (being able to pay 
+higher prices) for goods that firms produce, allowing firms to even 
+increase prices to gain more profit.
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 116III .  Economic growth:  is the amount that the level of output within an economy 
+increases over a given time period usually a year. Economic growth is 
+extremely desirable since it means that, the people within an economy are 
+getting richer. Economic growth can be increased in a number of ways, such 
+as technological improvement, an increase in the demand for goods and 
+services, and an increase in the size of the workforce .
+IV .  Unemployment:  refers to the number of people within an economy who are 
+willing and able to work, but do not have a job at the going wage rate. There 
+are a number of different types of unemployment: frictional unemployment ; 
+- caused by the search for a new job or a transition between jobs; structural
+unemployment; - caused by the decline of a specific industry, for example 
+type-writing or coal mining; seasonal unemployment; -  caused by the time 
+of year, drought time for farmers; and cyclical unemployment ; - caused by a 
+recession – a reduction in the level of output within an economy.
+ĂActivity 6.1
+1. What are the sources of economic growth? List them down.
+2. Explain why are poor countries are in current account deficit?
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 1176.2 Definition and Measurement of Economic Growth
+By the end of this section, students will be able to:
+6Define economic growth
+6Measure economic growth
+6Differentiate between economic growth and economic development
+Key Concepts
+Gross Domestic Product (GDP), Gross Domestic Product per Capita (GDP per 
+capita), Population, Real Gross Domestic Product (RGDP), Real Gross Domestic 
+Product Per Capita 
+Start Up Activity
+What is economic growth?
+6.2.1 Definition and measurement of Economic Growth
+ Economic growth in the short run  is when RGDP increases in the short run. Increase 
+in RGDP is given by the following formula: 
+g =RGDP t –RGDP t−1
+RGDP t−1𝑥𝑥100%
+Economic growth in the long run , is when there is a sustained increase in per capita 
+income and associated structural changes in the economy. That means GDP increase 
+for subsequent years and Structural change from agricultural sector to manufacturing 
+sector also takes place. Per capita real GDP, also known as Per Capita Income, is 
+given by the following formula. It is the RGDP of the given year divided by the total 
+population of the year. 
+Per capita RGDP = 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 𝑡𝑡
+𝑅𝑅𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑡𝑡𝑃𝑃𝑃𝑃𝑃𝑃 𝑡𝑡
+Structural changes are usually characterized by industrialization; a fall in the share of 
+agriculture both in GDP and in the workforce , and a corresponding increase in the 
+share of industrial and service sectors .
+Sources of economic growth in an economy
+Economic growth comes when resources are recreated , reorganized  and reallocated 
+in a more efficient manner . Technological improvement brings economic growth since 
+it increases productivity. Imagine using tractors rather than oxen for farming. Tractors 
+can do far more than do the oxen within a short period of time. The others are the 
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 118factors of production; increases in the factors of production like land, labor and capital 
+bring economic growth. 
+Economic growth is characterized by supply of more as well as better goods and 
+services on a sustainable basis with minimum harmful byproducts. Higher growth 
+rate of the GDP (economic growth) is taken as basic for improving living standard, 
+alleviating poverty, creating more employment opportunities and greater social 
+security.
+The level of real GDP is a good indicator of economic prosperity , and the growth of 
+real GDP is a good indicator of economic progress . (9). Growth rate measures how 
+rapidly real GDP per person grew in the typical year.
+6.2.2 Economic growth vs Economic development
+Economic growth and economic development are taken wrongly as synonyms. 
+Growth refers to the rate of increase in GDP or GDP per capita. Development, on 
+the other hand, refers to a much broader concept that applies to a process of overall 
+transformation in different aspects of human life. It deals with progressive changes 
+in social, political, institutional and economic structures .  Economic growth can take 
+place without economic development but for economic development to take place 
+economic growth is a necessary but not a sufficient condition. In this context, we can 
+say that growth is a subset of development.
+ĂActivity 6.2 
+1. Define economic growth in the short run and in the long run.
+2.Calculate the economic growth of Ethiopia by taking the GDP data of the 
+country.
+3. Differentiate between economic growth and economic development.
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 1196.3 Sources of Economic Growth
+By the end of this section, students will be able to:
+6Identify the various sources (reasons) of economic growth
+6Explain why some countries are rich and others are poor
+6Mention the criteria of categorizing the world countries into different groups
+Key Concepts
+Factors of production, Technological progress, Economic growth   
+Start Up Activity
+What do you think are the sources of economic growth in Ethiopia?
+In the world, there is tremendous variation in the standard of living. In richer countries’ 
+(such as; the United States, Japan, or Germany) average income, is more than ten 
+times the average income of poor countries (such as India, Indonesia, or Nigeria). 
+These large differences in income lead to large differences in the quality of life. People 
+in richer countries have better nutrition, safer housing, better healthcare, and longer 
+life expectancy  as well as more automobiles, more telephones, and more televisions .
+In different countries, economic growth rates are substantially different. Recently, some 
+East Asian countries, such as Singapore, South Korea, and Taiwan, have achieved 
+economic growth of about seven percent (7%) per year. At this rate, their average 
+income doubles every ten (10) years. Even more recently, China has enjoyed an even 
+higher rate of growth—about twelve percent (12%) per year. A country experiencing 
+such rapid growth can, in one generation, go from being among the poorest in the 
+world to being among the richest .
+6.3.1 Productivity as cause for differences in living standards among 
+countries
+Explaining the large variation in living standards around the world is in one sense 
+very easy. As we will see, the explanation can be summarized in a single word—
+productivity. But in another sense, the international variation is deeply puzzling. To 
+explain why incomes are so much higher in some countries than in others, we must 
+look at the many factors that determine a nation’s productivity.
+Why productivity is so important: Productivity’s key role in determining living 
+standards is as true for nations as it is for stranded sailors (Robinson Crusoe). An 
+economy’s gross domestic product (GDP) measures two things at once: the total 
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 120income earned by everyone in the economy  and the total expenditure on the economy’ s 
+output of goods and services . GDP can measure these two things simultaneously 
+because, for the economy as a whole, they must be equal. Put simply, an economy’s 
+income is the economy’s output. 
+A nation can enjoy a high standard of living only if it can produce a large quantity 
+of goods and services. Americans live better than Nigerians because American 
+workers are more productive than Nigerian workers. The Japanese have enjoyed more 
+rapid growth in living standards than Argentineans because Japanese workers have 
+experienced more rapid growth in productivity.
+How productivity is determined: Crusoe (in Robinson Crusoe) will be better at 
+catching fish (he will be more productive), for instance, if he has more fishing poles , 
+if he has been trained in the best fishing techniques , if his island has a plentiful fish 
+supply , or if he invents a better fishing lure . Each of these determinants of Crusoe’s 
+productivity—which we can call physical capital, human capital, natural resources, 
+and technological knowledge —has a counterpart in more complex and realistic 
+economies. Let’s consider each factor in turn.
+I .  Physical capital Per worker- Workers are more productive if they have tools 
+with which to work . Physical capital per worker is the amount of tools and 
+machineries available for each worker to work with.
+II .  Human Capital Per Worker-  A second determinant of productivity is human 
+capital. Human capital is the economist’s term for the knowledge and skills 
+that workers acquire through education, training, and experience . Human 
+capital includes the skills accumulated in early childhood programs, grade 
+school, high school, college, and on-the-job training for adults in the labor 
+force.  Producing human capital requires inputs in the form of teachers, 
+libraries, and student time. 
+III .  Natural Resources Per worker - A third determinant of productivity is natural 
+resource. Natural resources are inputs into production that are provided by 
+nature, such as land, rivers, and mineral deposits.  Differences in natural 
+resources are responsible for some of the differences in standards of living 
+around the world. The historical success of the United States  was driven 
+in part by the large supply of land well suited for agriculture . Today, some 
+countries in the Middle East, such as Kuwait and Saudi Arabia , are rich 
+simply because they happen to be on top of some of the largest pools of 
+oil in the world.  Although natural resources can be important, they are not 
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 121necessary for an economy to be highly productive in producing goods and 
+services.  Japan, for instance, is one of the richest countries in the world, 
+despite having few natural resources. International trade makes Japan’s 
+success possible. Japan imports many of the natural resources it needs, 
+such as oil, and exports its manufactured goods to economies rich in natural 
+resources.
+IV .  Technological Knowledge-  A fourth determinant of productivity is 
+technological knowledge—the understanding of the best ways to produce 
+goods and services. A hundred years ago, most Americans worked on farms 
+because farm technology required a high input of labor to feed the entire 
+population. Today, thanks to advances in farming technology, a small fraction 
+of the population can produce enough food to feed the entire country. This 
+technological change made labor available to produce other goods and 
+services .
+6.3.2 Characteristics of Economic Growth
+Simon Kuznets , a renowned Economist and the father of national income accounting, 
+identified five major characteristics of modern economic growth: 
+a)High rates of increase in per capita income: Modern economic growth 
+essentially means high rates of growth of per capita income over a fairly long 
+period of time. 
+b)High rates of increase in factor productivity : Modern economic growth also 
+requires increase in the productivity of all the factors of production. 
+c)High rates of structural transformation: Modern economic growth requires 
+a shift in the economic activities from less productive (agricultural) to more 
+productive (industrial) areas. Growth of the entrepreneurial class, which has 
+the desire and capacity to undertake new economic activities, is an essential 
+prerequisite for structural transformation to take place. 
+d)Increase in the rates of saving and investment : Economic growth takes place 
+when the domestic saving and investment rates rise. The establishment and 
+expansion of modern financial services is necessary for mobilizing domestic 
+resources.
+e)Increasing application of modern scientific knowledge in the production process:
+Application of scientific knowledge in the production process increases the effi -
+ciency of resource utilization and besides provides substitutes for the resources 
+that are scarce. 
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 1226.3.3 Categories of the world countries according to Income
+The most striking feature of the global economy is its extreme contrasts. We have 
+developed countries on the one side and underdeveloped countries on the other. 
+With so much knowledge and with the movement of people, information, and goods 
+and services so rapid and comparatively inexpensive, how have such large gaps 
+managed to persist and even widen? (Todaro & Smith, 2012).
+The most common way to define the world countries is by their per capita income as 
+developed and developing. Several international agencies, including the Organization 
+for Economic Cooperation and Development (OECD) and the United Nations, offer 
+classifications of countries by their economic status measured by their per capita 
+income into the above two groups: developed and developing. 
+In the World Bank’s classification system, 210 economies with a population of at least 
+30,000 are ranked by their levels of gross national income (GNI) per capita. These 
+economies are then classified as;
+1.low-income countries (LICs):- defined as having a per capita gross national 
+income in 2008 of $975 or less,
+2.lower middle- income countries (LMCs):  have incomes between $976 and 
+$3,855,
+3.upper-middle-income countries (UMCs): have incomes between $3,856 and 
+$11,906,
+4.high-income OECD countries, and other high-income countries: have incomes 
+of $11,907 or more.
+(Often, LMCs and UMCs are informally grouped as the middle-income countries.).
+The United Nations, as of 2010, categorize a group of countries with low income, low 
+human capital, and high economic vulnerability  as the Least Developed Countries 
+(LDCs). This classification includes 49 countries of the world; 33 in Africa, 15 in 
+Asia, plus Haiti. 
+ĂActivity 6.3
+1. Calculate the GDP Per capita for Ethiopia taking the data for the past five 
+years, and compare and analyze the differences in the years,
+2. List the factors that make our country’s living standard different from the 
+neighboring Kenya.
+3. Identify the various ways of categorizing the world countries.
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 1236.4 The Weaknesses of Using GDP/GDP Per Capita
+By the end of this section, students will be able to;
+6Calculate and evaluate the economic growth of Ethiopia for the past five 
+years
+6Identify the weaknesses of GDP per capita based Economics growth 
+calculation.
+Key Concepts
+Underground economy; Unpaid contributions
+Start Up Activity
+Recall the definition of the Gross Domestic product (GDP) measurement from 
+your grade 9th economics course.
+GDP measures both the economy’s total income and the economy’s total expenditure 
+on goods and services. Thus, GDP per person tells us the income and expenditure of the 
+average person in the economy. Because most people would prefer to receive higher 
+income and enjoy higher expenditure, GDP per person seems a natural measure of the 
+economic well-being of the average individual. But the following are the limitations 
+of GDP as a measure of economic performance of a nation;
+GDP , however, is not a perfect measure of well-being:  Some things that contribute 
+to a good life are left out of GDP. One is leisure.  Suppose, for instance, that everyone 
+in the economy suddenly started working every day of the week, rather than enjoying 
+leisure on weekends. More goods and services would be produced, and GDP would 
+rise. Yet despite the increase in GDP, we should not conclude that everyone would 
+be better off. The loss from reduced leisure would offset the gain from producing and 
+consuming a greater quantity of goods and services.
+Because GDP uses market prices to value goods and services, it excludes the value 
+of almost all activity that takes place outside markets.  In particular, GDP omits the 
+value of goods and services produced at home.  When a chef prepares a delicious meal 
+and sells it at his restaurant, the value of that meal is part of GDP. But if the chef 
+prepares the same meal for his family, the value he has added to the raw ingredients 
+is left out of GDP. Similarly, child care provided in day-care centers is part of GDP , 
+whereas child care by parents at home is not. Volunteer work also contributes to the 
+well-being of those in society , but GDP does not reflect these contributions.
+Another thing that GDP excludes is the quality of the environment . Imagine that the 
+
+--- [PAGE BREAK] ---
+
+Unit 6:  Economic Growth 124government eliminated all environmental regulations. Firms could then produce goods 
+and services without considering the pollution they create, and GDP might rise. Yet 
+well-being would most likely fall. The deterioration in the quality of air and water 
+would more than offset the gains from greater production.
+GDP also says nothing about the distribution of income. A society in which 100 people 
+have annual incomes of $50,000 has GDP of $5 million and, not surprisingly, GDP 
+per person of $50,000. So does a society in which 10 people earn $500,000 and 90 
+suffer with nothing at all. Few people would look at those two situations and call them 
+equivalent. GDP per person tells us what happens to the average person, but behind 
+the average lies a large variety of personal experiences. (Mankiw, 2012).
+GDP also excludes those transactions that take place in Black markets. Their 
+transactions are valuable to the society’s well-being but since they are illegal, they 
+will not be counted in the GDP. 
+•	In the end, we can conclude that GDP is a good measure of economic wellbeing 
+for most—but not all—purposes. It is important to keep in mind what GDP 
+includes and what it leaves out.
+ĂActivity 6.4 
+1. Evaluate the economic growth of Ethiopia over the past five years and tell us 
+whether it is underestimated or over estimated.
+2. GDP per capita overestimates the individual’s annual incomes. True/False. 
+Explain.
+
+--- [PAGE BREAK] ---
+
+Unit 6:   Economic Growth 1256.5 The Business Cycle and Its Phases
+By the end of this section, students will be able to;
+6Describe the business cycle 
+6Explain the ups and downs in the business cycle
+Key Concepts
+Business cycle; Boom; Recession; Depression; Recovery
+Start Up Activity
+What is a “business cycle”?
+The Business Cycle and its Phases
+The term business cycle is somewhat misleading because it suggests that economic 
+fluctuations follow a regular, predictable pattern. In fact, economic fluctuations are 
+not at all regular, and they are almost impossible to predict with much accuracy . 
+Thus, Business cycle: is the irregular and largely unpredictable fluctuations in economic 
+activity, as measured by the production of goods and services or the number of people 
+employed. (9).
+Phases of the business cycle: Changes in aggregate demand bring about changes 
+in the level of output, employment, income and price. These changes are generally 
+cyclical in nature and follow a cycle of four different phases: 
+1.Prosperity or boom;
+2.Recession;
+3.Depression or slump; and
+4.Recovery.
+Figure 6.1 The Business Cycle
+      (Source: Sketched by the author)
+
+--- [PAGE BREAK] ---
+
+Unit 6:  Economic Growth 126I .  Prosperity or boom or peak :  is a phase of economic activity characterized 
+by rising demand, rising prices, rising investment, rising employment, rising 
+incomes, rising purchasing power and hence rising demand and so on. The 
+investors, therefore, voluntarily undertake risks and go in for investment. 
+These further fuels boom conditions through the working of the multiplier 
+effect.
+II .  Recession: during the boom period, the economy may get over- heated and 
+the monetary authorities, the financial institutions and the business itself may 
+begin to play cautious. There may be cuts in investment, resulting in cuts 
+in employment, fall in incomes, decline in purchasing power and demand. 
+Prices may begin to fall.
+III .  Depression or slump or trough:  if the effective corrective measures cannot 
+be undertaken, the economy may find itself go into depression. It is a stage 
+when the business confidence is at its lowest. Investment, employment, 
+output, income and prices touch the bottom.
+IV .  Recovery or expansion:  as the economy moves out of depression, it enters 
+the phase of recovery. Sustained recovery will find the level of investment, 
+employment, output, income and prices moving upwards. This may finally 
+result in boom conditions in the economy.
+ĂActivity 6.5 
+1. What is the Trend Line in the business cycle diagram?
+2.Which line shows the growth in real GDP
+
+--- [PAGE BREAK] ---
+
+Unit 6:  Economic Growth 127Unit Summary
+The major macroeconomic variables include: Current Account Balance, Inflation, 
+Economic Growth and Unemployment. On the other hand, the major macroeconomic 
+goals pursued by governments of countries are; improved current account balance; 
+stable prices; increased economic growth; and reduced unemployment.  
+ Economic growth is when Real Gross Domestic Product (RGDP) increases in the 
+short run, whereas it refers to a sustained increase in per capita income and associated 
+structural changes in the economy, in the long run. 
+Economic growth comes when resources are recreated, reorganized and reallocated in 
+a more efficient manner. Technological improvement brings economic growth since it 
+increases productivity of factors of production.
+The United Nations, as of 2010, categorize a group of countries with low income, low 
+human capital, and high economic vulnerability as the Least Developed Countries 
+(LDCs). This classification includes 49 countries of the world; 33 in Africa, 15 in 
+Asia, plus Haiti. 
+GDP is not a perfect measure of well-being because it excludes: the well-being that 
+one gets from leisure; it excludes the value of almost all activity that takes place 
+outside markets; it  also excludes the quality of the environment/or its deterioration; 
+it also excludes issues about the distribution of income; it also excludes Black market 
+transactions. 
+The term business cycle is somewhat misleading because it suggests that economic 
+fluctuations follow a regular, predictable pattern. In fact, economic fluctuations are not 
+at all regular, and they are almost impossible to predict with much accuracy. 
+
+--- [PAGE BREAK] ---
+
+Unit 6:  Economic Growth 128Unit Review Exercises 
+Part I: Write True if the statements is correct or False otherwise for each of the 
+following questions
+1. One of the sources of economic growth is discovery of new factor of production. 
+2.There are no productivity differences in their factors of production between 
+countries of the world.
+3.The business cycle is a regular fluctuation in the actual RGDP of the country 
+around the potential RGDP. 
+4.Ethiopia is one of the Developed countries of the world. 
+Part II: Choose the best answer from the given alternatives for each question
+1.One of the following is not a macroeconomic variable, which one?
+A . Export            B. Unemployment          C. Inflation         D. utility 
+2.Goals of governments include all of the following, except one, 
+A . Decreasing unemployment     C. increasing utility   
+B . increasing economic growth   D. controlling inflation
+3.Economic growth is calculated by
+A . RGDP divided by Population
+B . RGDP this year minus RGDP last year divided by RGDP last year times 
+100%
+C . Total population divided by RGDP
+D . None 
+4.The requirements for the long run economic growth are
+A . Continued Increase in RGDP for many years
+B . Increase in Population for many years
+C . Structural transformation from less productive agriculture to more 
+productive industrial sector
+D . A and C
+Part III: Fill in the blank spaces with appropriate words for the following 
+questions
+1.GDP of a country is a _____________ value of all ____________ goods and 
+services produced _________________ in the ______________ year.
+2.Current account surplus is when ____________exceeds __________of a country.
+3.There are _____________ number of LDCs in the world; out of which is _______ 
+in Africa, ____________ in Asia and ______________ according to the 2010 UN 
+classifications of the low income countries. 
+4.A business cycle reaches its ______ during expansion and ______during recession. 

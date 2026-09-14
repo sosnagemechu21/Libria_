@@ -1,0 +1,1780 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 3: SOLVING  EQUATIONS …………… ……… …
+Pages: 116 to 161
+=================================================================
+
+Unit  3: Solving Equations  
+ 
+  
+ 
+ 
+ 
+SOLVING EQUATIONS  
+ 
+ 
+ 
+Unit Outcomes  
+Revise linear equation in one variable . 
+Use different techniques of solving systems of equations in two variables . 
+Solve simple equations involving absolute values . 
+Compute equations involving exponents and radicals . 
+Solve quadratic equations . 
+Apply equations on real life situations . 
+Unit Contents  
+3.1   Revision on Linear Equation in One Variable  
+3.2  Systems  of Linear Equations in Two Variables  
+3.3   Solving Non -linear Equations  
+3.4  Applications of Equations  
+       Summary  
+Review Exercise  
+  
+ 
+ 
+  UNIT  
+3 
+105
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 
+ • exponents  • quadratic equation  
+• completing the 
+square  • quadratic formula  
+• discriminant   • graphical method  • radicals  
+• elimination method  • linear equation  • substitution method  
+• absolute value  • factorization   
+INTRODUCTION  
+Equations are like a balance weighing machine or scale. If you have seen a weighing  
+machine , you might have thought  that an equal amount of weight has to be placed on 
+either side for the scale to be considered “balanced”. If you add some weight to one 
+side, the scale will point on one side and the two sides are no more in balance. 
+Equations abide by the same reasonable  judgment. Whatever is on one side of the 
+equal sign must have exactly the same value on the other side; otherwise , it becomes 
+an inequality.  
+In the earlier grades , you learned about linear equations in one variable and the 
+methods to sol ve them. In the present unit, you  will further discuss systems of linear 
+equations in two variables, equations involving non -linear equations such as absolute 
+values, exponents and radicals  and quadratic  equations .  
+3.1 Revision on linear equation in one variable  
+ 
+ 
+1.Determine  each of the following is a linear equation in one variable or not.  
+a. 10𝑥=20                     b.   22𝑥−11=0       c.  4𝑥+9=−11                    
+d.   7𝑥=0                        e.    𝑥2+𝑥=2            f.   𝑥+2𝑦=1                                                       
+       g.  4𝑦+5=−18           h.  2𝑎+3=4             i.  3ሺ𝑛+5ሻ=2ሺ−6−𝑛ሻ−2𝑛 
+j.   3𝑥+6=0                  k.  𝑦=𝑥                       l.  𝑥2−𝑦=0 
+ 
+Activity 3.1 
+106
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Activity 3 .1 leads you to revise the rules used to solve linear equations that you 
+learned in the previous grades.  
+ 
+For solving a lin ear equati on in one variabl e, the followin g steps are 
+followed:  
+Step 1: Use LCM (Least Common Multiple) to clear the fractions if any.  
+Step 2: Simplify both sides of the equation.  
+Step 3: Isolate the variable.  
+Step 4: Verify your answer.  
+ 
+Solve for  𝑥, if  
+a.  𝑥+2=0                                   b.   3𝑥+4=10 
+Solution:   
+a. Add −2 on both sides  to isolate the variable 𝑥. 
+  𝑥+2+ሺ−2ሻ=0+ሺ−2ሻ  
+                       𝑥=−2. 
+b. Similarly ,   3𝑥+4−4=10−4 
+                                      3𝑥=6 
+                                         𝑥=6
+3=2.  Hence,   𝑥=2 
+ 
+Definition 3.1 
+When an equation in one variable has exponent equal to 1, it is said to be a linear 
+equation in one variable. It is of the form  𝑎𝑥+𝑏=0, where 𝑥 is the variable, 
+and 𝑎 and 𝑏 are real coefficients and 𝑎≠0. This equation has only one solution.  
+Example 1  
+  
+107
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  
+Solve   5
+4𝑥+1
+2=2𝑥−1
+2  
+Solution:  
+ 5
+4𝑥+1
+2=2𝑥−1
+2 
+ 4(5
+4𝑥+1
+2)=4(2𝑥−1
+2) ……….. Using LCM to clear the fraction  
+       5𝑥+2=8𝑥−2  
+       5𝑥+2−8𝑥=8𝑥−2−8𝑥  
+             −3𝑥+2=−2  
+−3𝑥+2+−2=−2+−2  
+             −3𝑥=−4 ……………… After simplifying both sides of the equation  
+                  𝑥=4
+3 ………………….. Isolating the variable  
+(Left hand side: LHS) = 5
+4(4
+3)+1
+2= 5
+3+1
+2=10+3
+6= 13
+6 
+(Right hand side: RHS) =  2(4
+3)−1
+2=8
+3−1
+2=16−3
+6= 13
+6 
+Thus, (LHS) = (RHS)…………...Verifying the answer  
+ 
+The length of the leg  of an isosceles triangle is 6  cm more than its base  length. If the 
+perimeter of the triangle is 54 cm, then find the lengths 
+of the sides of the triangle.  
+Solution:   
+Let us assume the base measure 𝑎 cm.  
+Hence, each of the legs measures  𝑏=ሺ𝑎+6ሻ 𝑐𝑚 
+The perimeter of a triangle is the sum of the legs of the 
+Example 2  
+  
+Example 3  
+  
+Figure 3.1  
+108
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ three sides.  The equations a re formed and solved as follows:  
+                            𝑎+2ሺ𝑎+6ሻ=54 
+                             𝑎+2𝑎+12=54 
+                                               3𝑎=42   
+                                                  𝑎=14 
+                          Then, 𝑏 = 14 + 6 
+                                      𝑏 = 20  
+Hence, the length of the base is 14 cm and that of the two legs  is 20 cm.  
+ 
+1. Solve the following linear equations:  
+a.  𝑥+7=0    b.   𝑥+4=9 
+      c.    2𝑥−7=3    d.   3𝑥−7=−10 
+      e.    5𝑥−8=2𝑥−2   f.   10ሺ𝑥+10ሻ−7=13 
+      g.    7ሺ𝑦−2ሻ+21=ሺ2𝑦ሻሺ3ሻ 
+2. Verify whether 𝑥=−3 is a solution of the linear equation 10𝑥+7=13−5𝑥 or 
+not. 
+3. If the sum of two consecutive numbers is 67, then find the numbers.  
+ 
+3.2 Systems  of linear equations in two variables  
+ 
+A system of linear equations consists of two or more linear equations made up of two 
+or more variables such that all equations in the system are considered simultaneously. 
+Exercise 3.1 
+ 
+Two pencils and one eraser cost Birr 5 and three pencils and two erasers cost Birr 
+8. Let the price of a pencil and an eraser be 𝑥 and 𝑦 Birr, respectively.  Express 
+the statements with 𝑥 and 𝑦. 
+Activity 3.2 
+109
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ To find the unique solution to a system of linear equations, we must find a numerica l 
+value for each variable in the system that will satisfy all equations in the system at 
+the same time. Some linear systems may not have a solution and others may have an 
+infinite number of solutions. In order for a linear system to have a unique solution,  
+there must be at least as many equations as there are variables. This even does not 
+guarantee a unique solution.  
+In this section, we will discuss systems of linear equations in two variables, which 
+consist of two equations that contain two different varia bles.   
+To solve linear equations with two variables, there are three methods. These are 
+solving using tables, solving by substitution method and elimination  method.  
+ 
+3.2.1 Solving sy stems of linear equations in two  
+         variables using tables  
+ 
+ {2𝑥+𝑦=15
+3𝑥−𝑦=5   is a system of linear equations in two variables.  Find the solution.   
+Solution:  
+Solve each equation for y. Then, find the pair of  𝑥 and 𝑦 that satisfies  each equation 
+as follows:  
+    𝑦=−2𝑥+15         
+𝑥 0 1 2 3 4 5 6 
+𝑦 15 13 11 9 7 5 3 
+ 
+Definition 3.2 
+An equation of the type   𝑎𝑥+𝑏𝑦=𝑐 where 𝑎,𝑏 and 𝑐 are arbitrary constants 
+and 𝑎≠0, 𝑏≠ 0, is called a linear equation in two variables.  
+Example 1  
+  
+110
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+   𝑦=3𝑥−5   
+𝑥 0 1 2 3 4 5 6 
+𝑦 -5 -2 1 4 7 10 13 
+Hence, the pair of 𝑥 and 𝑦 that satisfies both equation is ሺ4,7ሻ. This is the solution.  
+The solution to a system of linear equations in two variables is any ordered pair that 
+satisfies each equation independently. In this example, after filling the tables above, 
+the ordered pair ሺ4,7ሻ is the solution to the system of linear equations.  
+ 
+Check whether the ordered pair ሺ5,1ሻ is a solution to the following linear system of 
+equations or not.  
+                                      {𝑥+3𝑦=8
+2𝑥−𝑦=9                              
+Solution:  
+Substitute the ordered pair ሺ5,1ሻ into both equations.  
+      First equation:  ሺ𝐿𝐻𝑆 ሻ=5 + 3ሺ1ሻ = 8,  ሺ𝑅𝐻𝑆 ሻ=8, 
+                                  Thus, ሺ𝐿𝐻𝑆 ሻ=ሺ𝑅𝐻𝑆 ሻ, True  
+      Second equation:  ሺ𝐿𝐻𝑆 ሻ=2ሺ5ሻ−1 = 9,  ሺ𝑅𝐻𝑆 ሻ=9 
+                                      Thus, ሺ𝐿𝐻𝑆 ሻ=ሺ𝑅𝐻𝑆 ሻ, True  
+The ordered pair ሺ5,1ሻ satisfies both equations, so it is the solution to the system.   
+ 
+1. Solve the following linear equation in two variables using table.  
+ { 2𝑥−𝑦=−1
+𝑥+𝑦=4 
+2. Determine whether the ordered pair ሺ8,5ሻ is a solution to  the following l inear 
+equation in two variables or not.  
+                  {  5𝑥−4𝑦=20
+  2𝑥−3𝑦=−1  
+ 
+Exam ple 2  
+  
+Exercise 3.2 
+111
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 3.2.2 Solving systems of linear equations  in two  
+         variables  by substitution  
+One of the  methods of solving a system of linear equations is substitution method. 
+The method involves solving one of the equations in terms of the other variable and 
+then substitute  the result into the other  equation to solve  the second variable.      
+Steps  in solving systems of linea r equati ons in two variables by 
+substitution  
+Step 1. Solve one of the two equations for one of the variables in terms of the other.  
+Step 2. Substitute the expression for this variable into the second equation, then solve  
+            for the remaining  variable.  
+Step 3. Substitute that solution into either of the original equations to find the value  
+            of the first  variable. If possible, write the solution as an ordered pair.  
+Step 4. Check the solution in both equations.  
+ 
+Solve the following system of linear equations by substitution method.  
+                       {−𝑥+𝑦=−5
+2𝑥−5𝑦=1                 
+Solution:   
+First, solve the first equation for y (or solve the second equation for y)  
+                              𝑦=𝑥−5 (Substitute this into the second equation) . 
+                             2𝑥−5ሺ𝑥−5ሻ=1 
+                                      −3𝑥+25=1 
+                                                −3𝑥=−24  
+                                                      𝑥=8               
+Now, we substitute 𝑥=8 into th e first equation or second equation  and solve for y.  
+                               −8+𝑦=−5  
+Example 1  
+  
+112
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+                                            𝑦=−5+8=3.   
+Therefore, the solution of the above system of linear equations is ሺ𝑥,𝑦ሻ=ሺ8,3ሻ.  
+  
+ Solve the following system of linear equation s using substitution method . 
+                            {x−6y=−3
+3x−5y=4 
+Solution:   
+1st equation:  𝑥=6𝑦−3. Substitute  this into the 2nd equation.  
+       3ሺ6𝑦−3ሻ−5𝑦=4 
+           18𝑦−9−5𝑦=4 
+               13𝑦=13  
+                        𝑦=1 
+Then,  𝑥=6𝑦−3=6ሺ1ሻ−3=3 
+ 
+1. Solve the following system of linear equations using substitution method.  
+a.  { 4𝑥+𝑦=23
+𝑦=6𝑥+3                                                  b. { 𝑥=𝑦−6
+5𝑥+2𝑦=−2     
+c.  { 𝑥+5𝑦=72
+𝑥=7𝑦                                                  d. { 2𝑥−7𝑦=2
+3𝑥+𝑦=−20 
+e.  { 4𝑥+𝑦=23
+𝑦=6𝑥+3         f. { 𝑥=𝑦−6
+5𝑥+2𝑦=−2 
+ g. {2𝑥+3𝑦=−13
+4𝑥−10=6𝑦                                              h. { 𝑥+3𝑦=22
+𝑥=4 
+i.  { 𝑥
+3+𝑦
+6=3
+𝑥
+2−𝑦
+4=1          j.  {8𝑥+3𝑦=9
+−𝑥
+6+𝑦
+2=2 
+ 
+ 
+Example 2  
+  
+Exercise 3.3 
+113
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 3.2.3 Solving systems of linear equations in two  
+         variable s by Addition ( Elimination ) method  
+Another  method of solving systems of linear equations is the addition method, also 
+called the elimination method . In this method, we add two terms with the same 
+variable, but opposite coefficients, so that the sum is zero. Of course, not all systems 
+are set up wi th the two terms of one variable having opposite coefficients. Often,  we 
+must adjust by multiplying one or both of the equations so that one of the variable s 
+will be eliminated by addition.  
+The followin g are steps to solve system o f equations using t he addition  
+(eliminati on) method.  
+Step 1. Write both equations with 𝑥 and 𝑦 variables on the left side of the equal sign 
+and    constants on the right.  
+Step 2. Write one equation above the other, lining up corresponding variables. If one 
+of the variables in the top equation has the opposite coefficient of the same 
+variable in the bottom equation, add the equations together, eliminating one 
+variable. If not, use multiplication by a nonzero number so that one of the 
+variables in the top equation ha s the opposite coefficient of the same variable 
+in the bottom equation, and then add the equations to eliminate the variable.  
+Step 3 .  Solve the resulting equation for the remaining variable.  
+Step 4. Substitute that value into one of the original equations  and solve for the 
+second variable.  
+Step 5. Check the solution by substituting the values into the other equation.  
+Solve the following usin g addition (elimination) method.  
+                               {   𝑥+2𝑦=1
+−𝑥+𝑦=5     
+Example 1  
+  
+114
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Solution:   
+Both equations are already set equal to a constant. Notice that the coefficient of 𝑥  in 
+the second equation, −1, is the opposite of the coefficient of 𝑥  in the first equation, 
+1. We can add the two equations to eliminate 𝑥 without needing  to multiply by a 
+constant.  
+                               {   𝑥+2𝑦=1
+−𝑥+𝑦=5 
+                                   0+3𝑦=6  
+                                             𝑦=2 
+Now,  we have  eliminated  𝑥, and we have  solved  for 𝑦. Then,  we substitute  this value  
+for 𝑦 into one of the original  equations  and solve  for 𝑥 as follows:  
+                                  −𝑥+2=5  
+                                            𝑥=−3 
+Therefore,  the solution  is: 𝑥 = −3,𝑦 = 2 
+ Solve the following using addition (elimination) method . 
+                          {  4𝑥+2𝑦=28
+𝑥+2𝑦=13                                               
+Solution:   
+Note that that the coefficient  of y in the first and the second  equation  are the same . 
+           {  4𝑥+2𝑦=28
+−ሺ𝑥+2𝑦=13ሻ 
+           3𝑥=15 
+             𝑥=5 
+Substitute in the second equation of the original, we have  
+             𝑥+2𝑦=13 
+             5+2𝑦=13 
+                    2𝑦=8 
+Example 2  
+  
+115
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+                     𝑦=4 
+Therefore,  the solution  is: 𝑥 = 5,𝑦 = 4 
+ 
+Solve the following system of linear equations using addition (elimination) method.  
+a.  { 𝑥+3𝑦=5
+−𝑥+𝑦=−1       b. { 2𝑥+𝑦=12
+2𝑥−𝑦=12     
+c. { 2𝑥+𝑦=20
+𝑥−𝑦=4       d. { 2𝑥+5y=12
+2𝑥+𝑦=4 
+ 
+Addition  (Elimination)  method  2 
+ 
+Solve the following using substitution (elimination) method . 
+                                               {  3𝑥+4𝑦=2
+     𝑥−2𝑦=  4                                      
+Solution:  
+Adding these equations as presented will not eliminate a variable. However, we see 
+that the first equation has  3𝑥 in it and the second equation has  𝑥. So, if we multiply 
+the second equation by −3, the 𝑥-terms will add to zero.    
+                                       {  3𝑥+4𝑦=2
+ −3ሺ 𝑥−2𝑦ሻ=−3ሺ4ሻ 
+                                         {  3𝑥+4𝑦=2
+ −3𝑥+6𝑦= −12 
+                                                           10𝑦=−10 
+                                                           𝑦=−1                                        
+Substituting in the second equation of the original, we have  
+                                             𝑥−2𝑦=  4  
+                                        𝑥−2ሺ−1ሻ=4  
+                                                        𝑥=4−2 =2 
+Exercise 3.4 
+Example 1  
+  
+116
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  
+Solve the following using substitution (elimination) method.  
+  {2𝑥+3𝑦=−2
+5𝑥+2𝑦=17 
+Solution:  
+Multiply the first equation and second equation by 2 and by −3, respectively.  
+{  2ሺ2𝑥+3𝑦ሻ=2ሺ−2ሻ
+ −3ሺ 5𝑥+2𝑦ሻ=−3ሺ17ሻ 
+ {  4𝑥+6𝑦=−4
+ −15𝑥−6𝑦=−51 
+                        −11𝑥         =−55 
+                                      𝑥=5 
+Substitute in the first equation of the original, we have          
+       2ሺ5ሻ+3𝑦=−2 
+                      3𝑦=−12 
+                         𝑦=−4 
+Therefore,  the solution  is 𝑥= 5,𝑦=−4. 
+ 
+Solve the following using Addition ( elimination ) method.  
+a. {2𝑥−3𝑦=5
+𝑥−2𝑦=6                  
+b. { 2𝑥−7𝑦=2
+ 3𝑥+𝑦=−20   
+c. { 2𝑥+3𝑦=5
+ 3𝑥+5𝑦=7      
+d. { 9𝑥+3𝑦=38
+ 5𝑥+𝑦=22 
+e. {−3𝑥+𝑦=−9
+−7𝑥+4𝑦=6 
+ 
+Example 2  
+  
+Exercise 3.5 
+117
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Word  Problems involving  equation s in two variables  
+ 
+Three pens and two books cost Birr 118 and one pen and two books cost Birr 106. 
+Find the cost of one pen and one book, separately.  
+Solution:   
+If p is the cost of one pen and b is the cost of one book,  then {3p+2b=118
+p+2b=106 
+Solve  the second  equation  for p in terms  of b.  
+p=−2b+106. Substitute  this into the first equation,  3ሺ−2b+106 ሻ+2b=118. 
+Hence,  b=50 and p=6. 
+ 
+1. Two pens and three books cost Birr 170 .00 and five pens and one book cost Birr 
+100 .00. Find the cost of one pen and one book, separately.  
+2. One bread and one injera cost Birr 15 and ten breads and four injera  cost Birr 90. 
+Find the cost of a bread and one injera, separately.  
+3. A jacket and two Ethiopian dresses cost Birr 4000.00 and five jackets and three 
+Ethiopian dresses cost Birr 9500.00. Find the cost of one jacket and one 
+Ethiopian dress , separately.  
+4. If twice  the age of a son is added  to age of a father,  then the sum is 56. If twice  
+the age of the father  is added  to the age of son, then the sum is 82. Find the ages 
+of the father  and the son. 
+5. In a two-digit number,  the sum of the digits  is 13. Twice  the tens digit exceeds  
+the units  digit by two. Find the numbers.  
+6. I am thinki ng of a two-digit number.  If I write  3 to the left of my number,  and 
+double  this three  digit number,  the result  is 27 times  my original  number.  What  is 
+my original  number?  
+ 
+Example  
+  
+Exercise 3.6 
+118
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 3.2.4 Graphical method of solving system of linear   
+         equations  in two variables  
+Graphical method is one of the methods of solving systems of linear equations.  
+Solving a linear system in two variables by graphing works well when the solution 
+consists of integer values, but if our solution contains decimals or fractions, it is not 
+the most precise method.  For a system of linear equations in two variables, we can 
+determine both the type of system and the solution by graphing the system of 
+equat ions on the same set of axes.  
+To solve systems of li nea r equations using gra phs, use the followin g steps:  
+Step 1. Graph the first equation.  
+Step 2. Graph the second equation using the same coordinate system.  
+Step 3. Determine whether the lines intersect, are parallel, or are the same line.  
+Step 4. Identify the solution to the system. If the lines i ntersect, identify the point of  
+             intersection.  
+ 
+Solve the following system of equations graphically.  
+                        {2𝑥+𝑦=−8
+𝑥=𝑦−1    
+Solution:   First, solve the first equation for 𝑦, that is   
+                       2𝑥+𝑦=−8    
+                                𝑦=−2𝑥−8   
+                    Solve the second equation for y, that is,  
+                            𝑥−𝑦=−1        
+                                   𝑦=𝑥+1    
+                    Second, graph both equations on the same  set of axes:  
+Example 1  
+  
+119
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+                                    
+                                                                           
+The graph  above (F ig 3.2) indicates the intersection point of the lines :  𝑦=−2𝑥−8 
+and 𝑦=𝑥+1.  The lines appear to intersect at the point ሺ−3,−2ሻ. This intersection 
+point is the solution of the system.   We can check to make sure that this is the 
+solution to the system by substituting the ordered pair into both equations.  
+First equation:  ሺ𝐿𝐻𝑆 ሻ=2ሺ−3ሻ + ሺ−2ሻ= −8,  ሺ𝑅𝐻𝑆 ሻ=−8, 
+                            Thus, ሺ𝐿𝐻𝑆 ሻ=ሺ𝑅𝐻𝑆 ሻ, True  
+Second equation:  ሺ𝐿𝐻𝑆 ሻ=−3,  ሺ𝑅𝐻𝑆 ሻ=−2−1=−3 
+                            Thus, ሺ𝐿𝐻𝑆 ሻ=ሺ𝑅𝐻𝑆 ሻ, True  
+The solution to the system is the ordered pair  ሺ−3,−2ሻ. 
+ 
+Solve the following system of equations graphically.  
+                        {2𝑥−𝑦=−1
+4𝑥−2𝑦=−8    
+Solution:  
+First, solve the two equations for 𝑦. 
+First equation:  𝑦=2𝑥+1 
+Example 2  
+  Figure 3.2  
+120
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Second equation: 2𝑦=4𝑥+8,  𝑦=2𝑥+4                                                                                      
+Then, draw the graphs of both equations. The 
+graph on right  (Fig 3.3) indicates that the two 
+lines  are parallel and do not intersect each other. 
+This means that there is no solution to the 
+system.           
+                                                                                                                                                          
+ 
+Solve the following system of equations by graphical method.  
+{3𝑥+𝑦=6
+6𝑥+2𝑦=12                      
+Solution:  
+When solving the two equations for y,  we obtain   𝑦=−3𝑥+6 
+Graph the equation on the xy-coordinate  plane .  
+In addition to considering the number of equations and variables, we can categorize 
+systems of linear equations by the number of solutions.   
+Remark : 
+If a system of two equations has different slopes and intersects  at one point in the 
+plane , then the system is said to have exactly one solution . If the equations of the 
+system have the same slope and the same y -intercepts , then the system has infinitely 
+many solutions.  In other words, the lines coincide so the equatio ns represent the same 
+line. Every point on the line represents a coordinate pair that satisfies the system. 
+Thus, there are an infinite number of solutions.    
+Another type of system of linear equations is one in which the equations represent 
+two parallel l ines. The lines have the same slope and different y -intercepts. There are 
+no points common to both lines; hence, there is no solution to the system.  Below is a 
+comparison of graphical representations of each type of system  (fig 3.4). 
+Example 3  
+  
+Figure 3.3  
+121
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+                 
+           
+ 
+1. Solve the following system of linear equations graphically.   
+             a.  {𝑦=2𝑥+1
+𝑦=4𝑥+3                                   b.  {𝑥+𝑦=6
+−𝑥+𝑦=2   
+2. Determine whether each of the following system of equations has one 
+solution, infinite solution or no solution.  
+   a.  {3𝑥+𝑦=6
+6𝑥+2𝑦=2     b.  {3𝑥+𝑦=6
+𝑦=−3𝑥+6            
+        c.  {2𝑥−𝑦=6
+−2𝑥+3𝑦=2     d.  {2𝑥+5𝑦=12
+𝑥−5
+2𝑦=4 
+3.  What must be the value of  so that the system of linear equations  
+{𝑥−𝑦=3
+2𝑥−2𝑦=𝑘        has 
+i. infinitely many solution ?  
+ii. no solution ?  
+iii. unique solution ? 
+4. Under what conditions on 𝑎 and 𝑏 will the following system of linear 
+equation have no solution, one solution or infinitely many solutions?  
+k
+Exercise 3.7 Figure 3.4  
+ 
+122
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+                                {2𝑥−3𝑦=𝑎
+4𝑥−6𝑦=𝑏 
+ 
+3.3 Solving  nonlinear equations  
+3.3.1 Equations  involving absolute value 
+Review of absolute value  
+In the previous sections, you worked with equations having variables  𝑥  or 𝑦 that can 
+assume any value. But sometimes it becomes necessary to consider only non -
+negative values.  
+If you consider distance, it is always non -negative. The distance of a number 𝑥  is 
+located on the real line from the origin is either positive or zero . If 𝑥 is at the origin 
+distance is 0.  
+ 
+From unit two, recall that real numbers can be re presented on a line as follows:  
+The absolute value of 5 is 5. The distance from 5 to 0 is 5 units.  
+ 
+The absolute value of –5 is 5. The distance from −5 to 0 is 5 units.  
+ 
+ 
+Compare each of the following numbers in absolute value.  
+a.2 and -3                      b.  6 and -5                         c. ¼ and -1/2       
+d. −ξ10  and 3                e.   −1
+3 and −0.333 … 
+Activity 3.3 
+123
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ From this, it is possible to determine the distance of each point, representing a 
+number, located far away from the origin or the point representing 0.  
+ 
+Let A and B be points on a number line with coordinates 5 and −5, respectively. 
+How far are the points A and B from the origin? How many points  are there equal 
+distances  from the origin on a number line?   
+Solution:   
+The distance of A and B from the origin is 5 units long o n the real line.  There are 
+infinitely many points that are  equal distances from the origin on a number line . 
+ 
+The points represented by numbers 3 and –3 are located on the number line at an 
+equal distance from the origin. Hence,  |3|=|−3|=3.  
+ 
+Find the absolute value of each of the following real numbers.  
+a.  −6                            b.   7                                           c.  −0.8 
+Solution:  
+a. |−6|=6                    b. |7|=7                                   c. |−0.8|=0.8 
+Example 1  
+  
+ 
+If  is a point on a number line with 
+coordinate a real number  𝑞, then the 
+distance of  𝑄 from the origin is called 
+the absolute value of 𝑞 and is written as  
+|𝑞|. 
+ 
+ 
+Note  
+Example 2  
+  
+Example 3  
+   
+                         Figure 3.5  
+124
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  
+Find the absolute value of the following:  
+a. |−4|   
+b. |−1
+2|     
+c. |0| 
+ 
+Solv ing equations involving absolute value  
+ 
+Solve the equation,  |𝑥|=4 
+Solution:  
+                |𝑥|=4 
+                   x=±4 
+ 
+ 
+Solve the equation, |𝑥+7|=14 
+Solution:   
+For any non - negative number  𝑝, |𝑥|=𝑝  means 𝑥=𝑝  or 𝑥= −𝑝.    
+So, y ou begin by making it into two sep arate equations and then solve  them 
+separately.         
+      |𝑥+7|=14    means:                   
+   𝑥+7=14                𝑜𝑟       𝑥+7=−14      
+              𝑥=14−7               𝑜𝑟        𝑥=−14−7 
+Exercise 3.8 
+Example 1  
+  
+Properties of absolute value .                                                                
+1. For any real number 𝑝, |𝑝|=|−𝑝|. 
+2. For any real number 𝑝, |𝑝| ≥0. 
+3. For any non - negative number  𝑝, |𝑥|=𝑝  means 𝑥=𝑝  or 𝑥= −𝑝. 
+Example 2  
+  
+125
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+               𝑥=7                            𝑜𝑟           𝑥=−21 
+Hence, 𝑥=−21,𝑥= 7 are solutions of the equation . 
+Remark :  An absolute value equation has no solution if the absolute value 
+expression equals a negative number since an absolute value can never be negative.  
+For example , |𝑥|=−1   has no solution. (Why?)   
+ 
+Solve the absolute value equation,  2|2𝑥−1|−1=5    
+Solution:   
+                    2|2𝑥−1|=6  
+                     |2𝑥−1|=3  
+                     2𝑥−1=3 𝑜𝑟  −ሺ2𝑥−1ሻ=3 
+                               𝑥=2 𝑜𝑟 𝑥=−1  
+Hence, 𝑥=−1,   𝑥= 2  are solutions to the equation.  
+ 
+1. Let A and B be points on a number line with coordinates 6 and −6, respectively. 
+How far are the points A and B from the origin? How many points are there equal 
+distances from the origin on a number line?  
+2. Solve the following absolute value equations.  
+a. |𝑥+2|=6          b.  |5−3𝑥|=7    
+c. |𝑥−2|=0           d.  |𝑥+2|=−6  
+e.   |2𝑥−1|+3=6   f.   |−2𝑥+7|=25 
+g.   |−8𝑥−2|−6=10   h.   −4|𝑥+3|=−28 
+i.    |𝑥+9|
+2=7     j.  3|5+3𝑥|+1=7 
+k.  4−6|4+8𝑥|=−116 
+ 
+ 
+Example 3  
+  
+Exercise 3.9 
+126
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 3.3.2 Quadratic  equations  
+ 
+ 
+Solving quadratic e quations  
+There are three basic methods for solving quadratic equations: factorization  (if 
+possible), completing the square  and the quadratic formula method . 
+Factorization method 1  
+ 
+How to solve a qu adrati c equation by factorizati on method?  
+1. Put all terms on one side of the equal sign, leaving zero on the other side.  
+2. Factor ize the equation . 
+ 
+Multiply the left side of each of the following. What do you get? What is the 
+difference between these equations and linear equations?  
+1.ሺ𝑥+3ሻሺ𝑥−2ሻ=0 
+2.ሺ5𝑥+1ሻሺ2𝑥+4ሻ=2 
+3.(1
+2𝑥−3)ሺ𝑥+5ሻ=0 
+ 
+Activity 3.4 
+Definition 3.3 
+An equation of the form 𝑎𝑥2+𝑏𝑥+𝑐=0 where a, b, c, ∈ R and  𝑎≠0 is a 
+quadratic equation.  Here,  𝑎 is called the leading coefficient , 𝑏 is the middle term 
+and 𝑐 is the constant term.  
+ 
+Find two integers such that  
+a.the sum is 5 and the product is 6. 
+b.the sum is 1 and the product is −12. 
+Activity 3.5 
+127
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 3. Set each factor equal to zero.  
+4. Solve each of these equations.  
+5. Check by inserting your answer in the original equatio n. 
+ 
+Solve the quadratic equation 𝑥2+3𝑥=0.  
+                                             𝑥ሺ𝑥+3ሻ=0 
+                                             𝑥=0  𝑜𝑟 𝑥+3=0 
+                                             𝑥=0  𝑜𝑟 𝑥=−3 
+Hence, the solution of the quadratic equation is 𝑥=0,𝑥=−3. 
+ 
+Solve the quadratic equation :  𝑥2−6𝑥−16=0 
+Solution:   
+Factorizing this ( find two numbers whose sum is 
+6−  and product  is
+16− ), we have  
+−8 and 2.  Hence,   ሺ𝑥−8ሻሺ𝑥+2ሻ=0 
+                                 𝑥−8=0  or  𝑥+2=0 
+Recall that  ab=0 if and only  if a=0 or b=0 
+                                  𝑥=8,𝑥=−2 
+Hence, the solution of the quadratic equation is 𝑥=8,𝑥=−2. 
+ 
+Solve the following quadratic equations using factorization method.  
+a. 𝑥2−5𝑥=0        
+b. 𝑥2+7𝑥+10=0 
+c. 𝑥2+𝑥−6=0 
+d. 𝑥2−4𝑥+3=0 
+ 
+Example 1  
+  
+Example 2  
+  
+Exercise 3.10 
+128
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Factorization Method 2  
+ 
+Solve the quadratic equation 𝑥2+6𝑥+9=0  
+Solution:   
+ሺ𝑥+3ሻሺ𝑥+3ሻ=ሺ𝑥+3ሻ2=0 (Factorizing: sum =6  and product  =9). 
+                       𝑥=−3    
+Hence,  𝑥=−3 is the only solution.  
+ 
+Solve the quadratic equation 𝑥2−9=0  
+Solution:   
+ሺ𝑥−3ሻሺ𝑥+3ሻ=0 (Factorizing: sum =0  and product =9) 
+                         𝑥=3  or  𝑥=−3    
+Hence, the solution of the quadratic equation is 𝑥=3,𝑥=−3. 
+ 
+Solve the quadratic equation 4𝑥2+4𝑥+1=0 
+Solution:   
+Re-writing    4𝑥2+2𝑥+2𝑥+1=0 
+           2𝑥ሺ2𝑥+1ሻ+1ሺ2𝑥+1ሻ=0 
+                      ሺ2𝑥+1ሻሺ2𝑥+1ሻ=0 
+                              ሺ2𝑥+1ሻ2=0 
+                                            𝑥=−1
+2 
+Hence, the solution of the quadratic equation is 𝑥=−1
+2. 
+ 
+Example 1  
+  
+Example 2  
+  
+Example 3  
+  
+129
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  
+Solve the following quadratic equations using factorization method.  
+a. 𝑥2+10𝑥+25=0                         b. 𝑥2−8𝑥+16=0 
+c.   𝑥2−4=0                                       d.  9𝑥2−6𝑥+1=0 
+ 
+Completing the square method  
+ 
+Is it possible to solve 𝑥2+6𝑥+4=0 using factorization method?   
+Solution:   
+Since there are no two integers whose sum is equal to 6 and product is equal to 4, this 
+quadratic equation may not be solved using factorization method. Hence, we need 
+another method to solve the equation.  
+ 𝑥2+6𝑥+9+4−9=0 
+              ሺ𝑥+3ሻ2−5=0 
+                     ሺ𝑥+3ሻ2=5 
+                          𝑥+3=±ξ5 
+                                 𝑥=−3±ξ5 
+Completing the square is where we take the quadratic equation  
+ 𝑎𝑥2+𝑏𝑥+𝑐=0,𝑎≠0 and convert it into (𝑥+𝑏
+2𝑎)2
++4𝑎𝑐−𝑏2
+4𝑎2=0 as follows:  
+ 𝑥2+𝑏
+𝑎𝑥+𝑐
+𝑎=0 ሺ 𝑠𝑖𝑛𝑐𝑒  𝑎≠0ሻ 
+ ሺ𝑥2+𝑏
+𝑎𝑥+𝑏2
+4𝑎2ሻ+𝑐
+𝑎−𝑏2
+4𝑎2=0.  Taking half of the coefficient of the middle term  
+and squaring it and adding its opposite). The expression in the bracket is a perfect  
+square. Hence, after simplifying, we have  
+ (𝑥+𝑏
+2𝑎)2
++4𝑎𝑐−𝑏2
+4𝑎2=0…..ሺ∗ሻ 
+       Equivalently, 𝑎𝑥2+𝑏𝑥+𝑐=0 if and only  if (𝑥+𝑏
+2𝑎)2
++4𝑎𝑐−𝑏2
+4𝑎2=0 
+Exercise 3.11 
+Example 1  
+  
+130
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  
+Solve  𝑥2+4𝑥+4=0 using completing the square method.  
+Solution:   
+     ሺ𝑥2+4𝑥+4ሻ+4−4=0 (Adding the square of half of the coefficient of the 
+middle term (4 ) and its opposite.  
+                                ሺ𝑥+2ሻ2−0=0. (Writing as a perfect square)  
+                                      ሺ𝑥+2ሻ2=0  
+                                                  𝑥=−2              
+ 
+Solve  𝑥2+6𝑥+7=0 using completing the square method.  
+    Solution:  
+    𝑥2+6𝑥+9+7−9=0 (Adding  the square of half of the coefficient of the middle  
+term ( 6) and its opposite ) 
+    ሺ𝑥2+6𝑥+9ሻ+7−9=0  (Colleting those terms which sum up as a perfect square)  
+                       ሺ𝑥+3ሻ2−2=0. (Writing as a perfect square)  
+                           ሺ𝑥+3ሻ2=2 
+                                 𝑥+3=±ξ2   (Taking  the square root)  
+                                        𝑥=−3±ξ2 
+    Therefore,  𝑥=−3+ξ2  and 𝑥=−3−ξ2 are the solutions.      
+ 
+Use completing the square  method to solve the following . 
+      a.  𝑥2+4𝑥+1=0                    b.  𝑥2−6𝑥−5=0     
+      c.  2𝑥2+5𝑥+3=0  
+ 
+  
+Example 2  
+  
+Example 3  
+  
+Exercise 3.12 
+131
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ The quadratic formula method  
+There are  quadratic equations that cannot be solved by factori zation method . This is 
+generally true when the roots  are not rational numbers. Consider the quadratic 
+equation 𝑎𝑥2+𝑏𝑥+𝑐=0,where  𝑎≠0.  
+From  the completing the square method , we have  (𝑥+𝑏
+2𝑎)2
++4𝑎𝑐−𝑏2
+4𝑎2=0 
+Solving for x,,(𝑥+𝑏
+2𝑎)2
+=𝑏2−4𝑎𝑐
+4𝑎2  
+                             𝑥+𝑏
+2𝑎=±√𝑏2−4𝑎𝑐
+4𝑎2 
+                                     𝑥=−𝑏
+2𝑎±ξ𝑏2−4𝑎𝑐
+2𝑎 
+                                      𝑥=−𝑏±ξ𝑏2−4𝑎𝑐
+2𝑎 
+ 
+ 
+Solve 𝑥2−6𝑥+3=0 using the quadratic formula.  
+Solution:  
+ 1,−6  and 3 are the values for a, b, and c, respectively  in the quadratic formula. 
+Thus,  
+𝑥=−𝑏±ξ𝑏2−4𝑎𝑐
+2𝑎 
+𝑥=−ሺ−6ሻ±√ሺ−6ሻ2−4ሺ1ሻሺ3ሻ
+2ሺ1ሻ 
+𝑥=6±ξ36−12
+2=6±ξ24
+2=3±ξ6 
+Hence, 3+ξ6  and 3−ξ6   are the solutions. Can you solve this using other  
+Quadratic formula  
+For the quadratic equation 𝑎𝑥2+𝑏𝑥+𝑐=0,𝑎≠0, 𝒙=−𝒃±√𝒃𝟐−𝟒𝒂𝒄
+𝟐𝒂 
+This is the quadratic formula  
+Example  
+  
+132
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ methods?  
+ 
+Use quadratic formula to solve the following . 
+a. 𝑥2+3𝑥+1=0      b.  𝑥2+5𝑥−2=0   c.   2𝑥2−3𝑥−1=0     
+ 
+Discriminant  
+ 
+ 
+Check whether 𝑥2+2𝑥+2=0  has distinct  real roots, one real root or no real 
+roots. If root exists, find it . 
+Solution:  
+Here,   𝑎=1,𝑏=2 and 𝑐=2. 
+Since  𝑏2−4𝑎𝑐=4−8=−4<0 , no need to find the roots . The following is to 
+show that the roots are not real  number.  
+                                                       𝑥=−𝑏±ξ𝑏2−4𝑎𝑐
+2𝑎 
+Exercise 3.13 
+Remark:  When using the quadratic formula, you should be aware of three 
+possibilities. These three possibilities are distinguished by a part of the formula 
+called the discriminant . The discriminant is the value under the radical sign which 
+is . A quadratic equati on with real numbers as coefficients can have the 
+following:  
+The roots of the quadratic equation are 𝑥=−𝑏±ξ𝐷
+2𝑎, where 𝐷=𝑏2−4𝑎𝑐.  
+𝐼𝑓 𝐷>0, then the roots are real and distinct (unequal); the quadratic 
+equation has two distinct roots.  
+𝐼𝑓 𝐷=0, then the roots are real and equal (coincident); the quadratic 
+equation has exactly one real root.  
+𝐼𝑓 𝐷<0, then there are no real roots.  
+Example 1  
+  
+133
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+                                                        𝑥=−ሺ2ሻ±√ሺ2ሻ2−4ሺ1ሻሺ2ሻ
+2ሺ1ሻ 
+                                                              𝑥=−2±ξ4−8
+2=−2±ξ−4
+2  are not real numbers.  
+ 
+Check whether 𝑥2+18𝑥+81=0  has distinct real roots, one real root or no real 
+roots. If root exists, find it.  
+Solution:  
+Here, 𝑎=1,𝑏 = 18 𝑎𝑛𝑑  𝑐 = 81,  
+𝐷=𝑏2−4𝑎𝑐=182−4ሺ1ሻሺ81ሻ=324 −324 =0. Since 𝐷=0, the equation has 
+exactly one root. Solving the equation,  
+          ሺ𝑥+9ሻ2=0  
+           𝑥 = −9 
+ 
+Check whether 𝑥2+4𝑥+3=0  has distinct  real roots, one real root or no real 
+roots. If root exists, find it .    
+Solution:  
+Here,  𝑎=1,𝑏 = 4 and 𝑐 = 3, and then 
+𝐷=𝑏2−4𝑎𝑐=42−4ሺ3ሻ=16−12=4 
+Since 𝐷>0, the equation has two distinct real roots. Solving the equation,  
+ሺ𝑥+1ሻሺ𝑥+3ሻ=0  
+𝑥 = −1  and 𝑥=−3  
+ 
+Check whether the following quadratic equation s have  two real roots, one real root or 
+no real roots. If any real root exists, find it.  
+a. 𝑥2+2𝑥+3=0   b.  𝑥2+12𝑥+36=0    c.   𝑥2+8𝑥+7=0    
+ 
+Example 2  
+  
+Example 3  
+  
+Exercise 3.14 
+134
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Relationships between roots and coeffi cients of a quadratic equation  
+ 
+ 
+Let 𝑎𝑥2+6𝑥+𝑐=0.   If the sum of the roots is −6
+5 and the product is 1
+5, then find 
+the values of 𝑎 and 𝑐. 
+Solution:  
+Let r1 and  r2  be the roots.  From the relationships above, 
+  
+r1+r2=−6
+a=−6
+ 5 , which implies 𝑎=5
+ 
+ 𝑟1∙𝑟2=c
+a=1
+5      Since 𝑎=5,   c
+5=1
+5 ,  which also implies  𝑐=1 
+Therefore, the quadratic equation is
+  5𝑥2+6𝑥+1=0 
+ If the difference between the roots of the equation  𝑥2−13𝑥+𝑘=0 is 7, find the 
+value of  
+k. 
+Solution:  
+Let r1 and r2 be the roots.  From the relationships above,
+ 
+𝑟1+𝑟2=−𝑏
+ 𝑎=−−13
+ 1=13   and   
+ 𝑟1−𝑟2=7 
+ 
+If 𝑟1=−𝑏+ξ𝑏2−4𝑎𝑐
+2𝑎   and  𝑟2=−𝑏−ξ𝑏2−4𝑎𝑐
+2𝑎,  then 
+           𝑟1+𝑟2=−𝑏+ξ𝑏2−4𝑎𝑐
+2𝑎 +−𝑏−ξ𝑏2−4𝑎𝑐
+2𝑎=−𝑏
+   𝑎  and  
+𝑟1∙𝑟2=ሺ−𝑏+ξ𝑏2−4𝑎𝑐
+2𝑎 ሻሺ−𝑏−ξ𝑏2−4𝑎𝑐
+2𝑎ሻ=𝑐
+ 𝑎  
+Example 1  
+  
+Example 2  
+  
+135
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+            {𝑟1+𝑟2=13
+𝑟1−𝑟2=7 
+ 
+Solving this,  𝑟1=10  and  𝑟2=3        
+            𝑟1∙𝑟2=ሺ10ሻሺ3ሻ=30, while   𝑟1∙𝑟2= 𝑐
+𝑎=𝑘
+1 from the above relationship.  
+Therefore, 𝑘=30. 
+ 
+1. Let  𝑥2+𝑏𝑥+𝑐= 0    If the sum of the roots of the quadratic equation is 10 and 
+the product of the roots is 16, find 𝑏 𝑎𝑛𝑑  𝑐. 
+2. Find the quadratic equation: 𝑎𝑥2+3𝑥+𝑐= 0 when the sum of the roots is  −3, 
+the product is 2. 
+3. Solve the following  using quadratic formula and check using any other methods 
+of solving quadratic equation.  
+a. 𝑥2−16=0       b.  𝑥2−9𝑥=0 
+c.   3𝑥2−75=0    d.  𝑥2−6𝑥+5=0 
+      e.  𝑥2+6𝑥+8=0   f.   𝑥2+3𝑥−28=0 
+      g.  2𝑥2+7𝑥+3=0   h.  −𝑥2+2𝑥+15=0 
+i.  𝑥2+10𝑥+7=0      j.  −3𝑥2+10𝑥−7=0   
+k.   3𝑥2=6𝑥−1      l.  5𝑥2+𝑥+2=0 
+      m.  −3𝑥2+8𝑥−5=0   n.  2𝑥2+5𝑥=12 
+o.    8𝑥2−10𝑥=−3   p.  2𝑥2+5𝑥+2=0  
+q.  −3𝑥2+7𝑥−6=0    r.  10𝑥2−9𝑥+6=0   
+s.  3𝑥2=−𝑥+14      t.  9𝑥2−7=9𝑥   
+u.   1
+3𝑥2−𝑥−2=0      w.  −4𝑥ሺ𝑥−2ሻ=6ሺ𝑥+3ሻ−11𝑥2  
+x.  𝑥ሺ𝑥−3ሻ=−7−10𝑥   
+ 
+ 
+Exercise 3.15 
+136
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 3.3.3 Equations  involving exponents and r adicals   
+          Equations involving exponents 1  
+ 
+ 
+ 
+Solve the followings.  
+a. 2𝑥=8     
+b. 3𝑥=1
+27 
+Solution:   
+a. 2𝑥=23 (Making the same base    
+by writing  8=23) 
+𝑥=3  (Equating the exponents 
+because the bases are the same)  
+b. 3𝑥=1
+33 
+      3𝑥=  3−3 
+        𝑥= −3 
+ 
+Consider the following equations and discuss on their solutions:  
+a. 𝑥2=4                      b.    𝑥3=−64     
+How many solution(s) does each equation have? What are they? What can you 
+generalize?  
+Activity 3.6 
+ 
+For a > 0, 𝑎𝑥=𝑎𝑦 if and only if 𝑥 =𝑦. 
+ 
+Note  
+Example 1  
+  
+Some rules of exponential equations.  
+(𝑎, 𝑚, and 𝑛 are real number and 𝑎≠0, 
+and 𝑏≠0) 
+a. 1
+𝑎𝑛=𝑎−𝑛 
+b. 𝑎𝑚𝑎𝑛=𝑎𝑚+𝑛 
+c. ሺ𝑎𝑚ሻ𝑛=𝑎𝑚𝑛 
+d. ሺ𝑎𝑏ሻ𝑛=𝑎𝑛𝑏𝑛 
+e. (𝑎
+𝑏)𝑛
+=𝑎𝑛
+𝑏𝑛 
+f. 𝑎𝑚
+𝑎𝑛=𝑎𝑚−𝑛=1
+𝑎𝑛−𝑚 
+137
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  
+Solve the following  equations . 
+a. 3𝑥=81   b.  5𝑥=125   c.  2𝑥=1
+8      d.  4𝑥=1
+64 
+ 
+ 
+Solve the following equations . 
+a.  8𝑥=16    b.  2𝑥+4=32   c. 9𝑥+4=27 
+Solution:  
+a. 23𝑥=24 
+              3𝑥=4  (Equating the exponents)  
+                 𝑥=4
+3 
+b. 2𝑥+4=32 
+            2𝑥+4=25   
+𝑥 + 4 =5  
+           𝑥= 1 
+c.     9𝑥+4=27 
+              32ሺ𝑥+4ሻ=33  
+            2𝑥 + 8 =3 
+                          𝑥=− 5
+2   
+ 
+Solve the following.  
+a. 4𝑥=32 
+b. 32𝑥−1=243          
+c. 32𝑥=2𝑥+4 
+ 
+Exercise 3.16.1 
+Example 2  
+  
+Exercise 3.16.2 
+138
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Equations involving exponents 2  
+ 
+Solve :  ሺ𝑥2+6𝑥ሻ1
+4=2 
+Solution:   
+Remove the 4th root by raising each side of the equation to the 4th power.  
+            ሺ ሺ𝑥2+6𝑥ሻ1
+4ሻ4=24  
+                      𝑥2+6𝑥=16 
+             𝑥2+6𝑥−16=0 
+  ሺ𝑥+8ሻሺ𝑥−2ሻ=0   
+Therefore,   𝑥=−8,  𝑥=2.  
+These are possible solution. Verify them as follows.  
+If 𝑥=−8, 
+ሺ𝐿𝐻𝑆 ሻ=[ሺ−8ሻ2ሻ+6ሺ−8ሻ]1
+4 =ሺ64−48ሻ1
+4  =ሺ16ሻ1
+4=ሺ24ሻ1
+4=2 
+Thus, ሺ𝐿𝐻𝑆 ሻ=ሺ𝑅𝐻𝑆 ሻ. Therefore  𝑥=−8 is a solution.  
+Similarly, if  𝑥=2, then  
+ሺ𝐿𝐻𝑆 ሻ=[ሺ2ሻ2ሻ+6ሺ2ሻ]1
+4=ሺ4+12ሻ1
+4=ሺ16ሻ1
+4=ሺ24ሻ1
+4=2=ሺ𝑅𝐻𝑆 ሻ 
+Therefore,  𝑥=2  is also a solution.  
+ 
+ 
+Solve for if  5𝑦2
+3+3=23.      
+Solution:   
+Isolate the y-term on the left side of the equation. Subtract 3 from each side of the 
+equation.  
+                    5𝑦2
+3=23−3  
+                     5𝑦2
+3=20 
+                      𝑦2
+3=4. 
+y
+Example 1  
+  
+Example 2  
+  
+139
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ First, raise both sides by 3rd power,   
+    (𝑦2
+3)3
+=43                  
+Then  𝑦2=43=ሺ22ሻ3=ሺ23ሻ2 , 
+             𝑦=±√ሺ23ሻ2=±23=±8 
+ 
+1. Solve the following equations  involving exponents.  
+a. ሺ𝑥2+2𝑥ሻ1
+2=4     b.  (16𝑥1
+2)1
+4=2 
+2. Solve the following equations  involving exponents.  
+a.  2𝑥=2   b.  3𝑥=9   c.  252𝑥−1=1253𝑥+4  
+d.  (1
+2)𝑥
+=16  e.  92𝑥−5=27  f.  (3
+2)𝑥
+=81
+16   
+g. 2𝑥+6=32   h.  𝑥2
+5=4    i.   82𝑥−3=((1
+16)𝑥−2
+)   
+ 
+Equations involving radicals  
+ 
+For example, ξ3𝑥+18=𝑥,  ξ𝑥+3=𝑥−3  and ξ𝑥+5−ξ𝑥−3=2 are 
+radical equations.  
+In solving radica l equations,  the followin g are steps to follow.  
+1. Positive radical number and r adicand (the expression under a radical symbol) 
+should be positive. Thus, at first, specify the domain of 𝑥. That is, ξ𝑎>0,𝑎>0 
+Exercise 3.17 
+Definition 3.4 
+Radical equations are equations that contain variables in the radicand (the 
+expression under a radical symbol).  
+ 
+140
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ 2. Isolate the radical expression on one side of the equal sign. Put all remaining 
+terms on the other side.  
+3. If the radical is a square r oot, then square both sides of the equation.  
+4. Solve the resulting equation.  
+5. If a radical term still remains, repeat steps 1 –2. 
+6.  Check solutions by substituting them into the original equation.  
+ 
+Solve the equation  ξ15−2𝑥=𝑥. 
+Solution:   
+First specify the domain of 𝑥. 
+Since the radicand term ሺ15−2𝑥ሻ should be non-negative , that is  15−2𝑥≥0. 
+Thus, the right side should also be non-negative  too.  𝑥≥0 
+From the 1st inequality, 2𝑥≤15   then  𝑥≤15
+2 
+Hence,  0≤𝑥≤15
+2 
+Squaring both sides of the given equation,  
+ 15−2𝑥=𝑥2  
+                   𝑥2+2𝑥−15=0 
+             ሺ𝑥−3ሻሺ𝑥+5ሻ=0            
+              𝑥−3=0  or  𝑥+5=0   
+              𝑥=3  or  𝑥=−5   
+Observe that  𝑥= −5 cannot be a solution. (Why?  Because 0≤𝑥≤15
+2) 
+ 
+Solve  the equation:  ξ𝑥+3=3𝑥−1  
+Solution:   
+First specify the domain of 𝑥. 
+Example 1  
+  
+Example 2  
+  
+141
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+        𝑥+3≥0      and    3𝑥−1≥0 
+        𝑥≥−3   and 𝑥≥1
+3,      Thus,  𝑥≥1
+3 
+Squaring both sides of the given equation,  
+𝑥+3=9𝑥2−6𝑥+1  
+   9𝑥2−7𝑥−2=0  
+   ሺ𝑥−1ሻሺ9𝑥+2ሻ=0   (after factorizing)  
+𝑥=1  or  𝑥=−2
+9   
+Observe that 𝑥=1 is the only solution, as  𝑥≥1
+3. 
+ 
+Solve  the equation:  ξ2𝑥+3+ξ𝑥−2=4 
+Solution:     
+First specify the domain  of 𝑥. 
+              2𝑥+3≥0     and     𝑥−2≥0     From the two inequalities, 𝑥≥2……(i)  
+In addition, 4−ξ𝑥−2≥0     Then,  ξ𝑥−2≤4……(ii)  
+The equation becomes   ξ2𝑥+3=4−ξ𝑥−2   
+Squaring both sides of the equation,  
+                         2𝑥+3=16−8ξ𝑥−2+𝑥−2 
+                         𝑥−11=−8ξ𝑥−2 
+Squaring both sides of the equation again,  
+ 𝑥2−22𝑥+121 =64ሺ𝑥−2ሻ    
+ 𝑥2−86𝑥+249 =0 
+         ሺ𝑥−3ሻሺ𝑥−83ሻ=0   (After factorizing)  
+𝑥=3  or  𝑥=83   
+Observe that 𝑥=3 is the only solution, while   𝑥= 83 cannot be a solut ion, because 
+𝑥=3 meet both conditions (i) and (ii), however, 𝑥=83 does not.    
+Example 3  
+  
+142
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  
+Solve the following equations involving radicals.  
+a. ξ3𝑥−2=𝑥                                  b.  ξ3𝑥−2=ξ4𝑥+2         
+        c.    ξ3𝑥+7+ξ𝑥+2=1 
+ 
+3.4   Some Applications of Solving Equations   
+Application of the system of linear equations in two variables  
+ 
+ 
+The cost of a ticket to a  circus is Birr 25.00 for children and Birr 50.00 for adults. 
+On a certain day, attendance at the circus is 2,000 and the total gate revenue is Birr 
+70,000. How many children and h ow many adults bought tickets?  
+Solution:  
+Let 𝑐= the number of children and 𝑎= the number of adults in attendance.  
+The total number of people is 2,000. We can use this to write an equation for the 
+number of people at the circus that day.  
+𝑐+𝑎=2,000  
+The money collected from all children can be found by multiplying Birr 25.00 by the 
+number of children,  25𝑐. The money collected from all adults can be found by  
+ multiplying Birr 50.00 by the number of adults, 50𝑎. The total revenue is Birr 
+70,000. We can use this to write an equation for the revenue.  
+Exercise 3.18 
+ 
+Meal tickets at a wedding ceremony cost Birr 4.00 for children and Birr 12.00 
+for adults. If 1,650 meal tickets were bought for a total of Birr 14,200, how 
+many children and how many adults bought meal tickets?  
+ 
+Activity 3.7 
+Example  
+  
+143
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+  25𝑐+50𝑎=70,000 
+We now have a system of linear equations  in two variables.  
+         𝑐+𝑎=2,000 
+ 25𝑐+50𝑎=70,000 
+In the first equation, the coefficient of both variables is 1. We can quickly solve the 
+first equation for either  𝑐 𝑎𝑛𝑑  𝑎. Let us solve for 𝑎. 
+ 𝑎=2,000 −𝑐 
+Substitute the expression 2,000 −𝑐 in the second equation for  and solve for . 
+ 25𝑐+50ሺ2,000 −𝑐ሻ=70,000 
+                           −25𝑐=−30000  
+                                   𝑐=1200  
+Substitute 𝑐=1200  into the first equation to solve for 𝑎. 
+ 1200 +𝑎=2000  
+               𝑎=800 
+We find that  1,200 children and 800 adults bought tickets to the circus that day . 
+ 
+1. The cost of a ticket to a football match i s Birr 50.00 for children and Birr 
+75.00 for adults. On a certain day, attendance at the football match  is 25,000 
+and the total gate revenue is Birr 1,375 ,000. How many children and  adults 
+bought tickets?  
+2. The cost of two tables and three chairs is Birr  705. If the table costs Birr 40 
+more than the chair, find the cost of the table and the chair.   
+3. Abdullah is choosing between two car -rental companies. The first, “Keep on 
+carefully driving”, charges an up -front fee of Birr 15  and 61 cents a kilometer. 
+The second, “Atiften Tidesaleh”, charges an up -front fee of Birr 12  and 65 
+cents a kilometer.  When will “Keep on carefully driving” be better choice for 
+Abdullah?  
+ 
+a
+c
+Exercise 3.19 
+144
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Application of quadratic equations  
+ 
+An object dropped from a height of 600m has a height, ℎ, in meter after 𝑡 seconds 
+have elapsed, such that ℎ=600 −16𝑡2. Find the time taken to reach a height of 
+200 𝑚 by first finding an expression for  𝑡>0.  
+Solution:     
+We are asked two things.  First, we will solve the height equation for  𝑡, and then we 
+will find how long it takes for the object’s he ight above the ground to be 200 𝑚. 
+Solve for  𝑡:  
+  ℎ=600 −16𝑡2  
+ 𝑡2=600 −ℎ
+16  
+   𝑡=√600 −ℎ
+16=ξ600 −ℎ
+4  
+We want time to be only positive since we are talking about a measurable quantity, 
+so we will restrict our answers to just  𝑡=ξ600 −ℎ
+4 
+We want to know at what time the height will be 200 𝑚. So we can substitute 200 
+for ℎ. 
+                𝑡=ξ600 −200
+4=ξ400
+4=20
+4=5 
+Therefore, it takes 5 seconds for the object to be at the height of  200 𝑚. 
+ 
+Suppose a rocket projectile is launched from a tower into the air with an initial 
+velocity of 48 meters per second. Its height, h, in meter  above the ground is modeled 
+by the equation  ℎ=−16𝑡2+𝑣0𝑡+64 where 𝑡>0 is the time  in second, since the 
+projectile was launched and v 0 is the initial velocity. How long was the projectile in 
+the air?  
+Example 1  
+  
+Example 2  
+  
+145
+
+--- [PAGE BREAK] ---
+
+Unit  3: Solving Equations  
+ 
+ Solution:   
+The rocket projectile was in the air till the height ℎ=0, with initial velocity  
+ 𝑣0=48𝑚/𝑠  
+                          0=−16𝑡2+48𝑡+64   
+                          0=16ሺ𝑡2−3𝑡−4ሻ 
+                          0=16ሺ𝑡+1ሻሺ𝑡−4ሻ 
+Hence, 𝑡=4 seconds. , 𝑡=−1 cannot be taken as a solution. Why?  This  
+means that the rocket projectile  hits the ground after 4 seconds.  
+ 
+A ball is shot into the air from  the ground. Its initial velocity is 32 meter per second. 
+The equation ℎ=−16𝑡2+32𝑡+48 can be used to model the height of the ball 
+after 𝑡 seconds. About how long does it take for the ball to hit the ground?  
+ 
+ 
+ 
+Exercise 3.20 
+146
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+1. Equations are expressions involving equality.  
+2. Linear equation in one variable is of the form 𝑎𝑥+𝑏=0, where 𝑥 is the 
+variable and a and b are real coefficients and 𝑎≠0. 
+3. An equation of the type 𝑐𝑥+𝑑𝑦=0, where 𝑐 and 𝑑 are arbitrary constants 
+𝑐≠0 and 𝑑≠0 is said to be a linear equation in two variables and its 
+solutions are infinitely many points and the graph is a straight line.  
+4. A system of linear equation is a set of two or more linear equations, and a 
+system  of two linear equations in two variables are equations that can be 
+represented as  
+{𝑎1𝑥+𝑏1𝑦=𝑐1
+𝑎2𝑥+𝑏2=𝑐2  
+5. Solution to a system of linear equation in two variables is the set of ordered 
+pairs (𝑥,𝑦) that satisfy both linear equations.  
+a. If  𝑎1
+𝑎2=𝑏1
+𝑏2=𝑐1
+𝑐2,  then the system has infinite solutions and is called 
+dependent system.  
+b. If  𝑎1
+𝑎2=𝑏1
+𝑏2≠ 𝑐1
+𝑐2,  the n the system has no solution and is called inconsistent 
+system.  
+c. If  𝑎1
+𝑎2≠ 𝑏1
+𝑏2,  then the system has one solution and is called independent 
+system.  
+6. Geometrically,  
+a.  The system has infinite solution if the two lines coincide (or identical).  
+b. The system is said to have no solution if the lines are parallel, i.e. no 
+intersection point.  
+c. The system is said to have one solution if the lines intersect at one point.  
+Summary  
+147
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+7. A system of linear equation in two variables can be solved by one of the 
+following methods: graphically, or by substitution or by elimination.  
+8. The absolute value of a number 𝑥, denoted by |𝑥|, is defined as the distance 
+|𝑥| from zero on a number line.  
+9. For any  non- negative number  𝑝, |𝑥|=𝑝  means 𝑥=𝑝  or 𝑥= −𝑝. 
+10. An equation of the form 𝑎𝑥2+𝑏𝑥+𝑐=0  where a, b, c,  ∈ R and 𝑎≠0  is a 
+quadratic equation.  
+11. Factorization, completing the square and quadratic formula are methods which 
+can be used to solve a quadratic equation 𝑎𝑥2+𝑏𝑥+𝑐=0   
+12. If the quadratic equation, 𝑎𝑥2+𝑏𝑥+𝑐=0, has roots −𝑏±√𝑏2−4𝑎𝑐
+2𝑎  , then the 
+sum and product of the roots are −𝑏
+𝑎  and 𝑐
+𝑎 , respectively.   
+13. The discriminant of quadratic equations, 𝐷=𝑏2−4𝑎𝑐, 
+𝐼𝑓 𝐷>0, then the quadratic equation has two distinct roots.  
+𝐼𝑓 𝐷=0, then the quadratic equation has exactly one real root.  
+𝐼𝑓 𝐷<0, then there are no real roots.  
+14. Let  𝑥𝑛=𝑘. If n is even,  𝑥=±√𝑘𝑛.    If n is odd,  𝑥=√𝑘𝑛.    
+15. For 𝑎>0,𝑎𝑥=𝑎𝑦 if and only  if 𝑥=𝑦. 
+16. For solving radical equations, specify the domain of 𝑥, as the radicand (the 
+expression under a radical symbol) should be positive.  
+ 
+For questions 1-3, choose the correct answer from the given alternatives.  
+1. Which of the following linear equation passes through the origin?  
+a)  𝑦=3𝑥+0  b) 𝑦=3𝑥+1 c)  𝑦=3𝑥−10         d)  𝑦=3𝑥−1
+2 
+2. Which  of the following is the solution of the linear equation  𝑥+2=−𝑥−4 
+a)  𝑥=3     b)  𝑥=−3    c)  𝑥=−10     d)  𝑥=−1
+2 
+Review Exercise  
+148
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+3. Which  of the following is the solution of −2𝑥+2=𝑥+4−3𝑥 
+a)  𝑥=1    b)  𝑥=0              c)   𝑥=−1   d)  No solution  
+For questions 4-9 use any Method to find the solution to the given system or to 
+determine if the system is inconsistent or dependent  
+4.   {𝑥−7𝑦=−11
+5𝑥+2𝑦=−18     
+5. {−4𝑥+2𝑦=3
+ 2𝑥−𝑦=−12     
+6. {3𝑥+9𝑦=−6
+−4𝑥−12𝑦=8     7. {6𝑥−5𝑦=8
+−12𝑥+2𝑦=0     
+8. {−𝑥+5𝑦=2
+5𝑥−25𝑦=−10     
+9.   {2𝑥+3𝑦=20
+𝑥+3
+2𝑦=10 
+For questions 10 -39, solve each of the following non -linear equations.  
+10. |4𝑥−7|=5 
+11. |3−4𝑥|=5 
+12. |2−4𝑥|=2  
+13. |2
+3𝑥−7|=0 
+14. |𝑥2−1|=3 
+15. |𝑥2+9|=1 
+16. 𝑥2−3𝑥=0 
+17. 𝑥2+9𝑥=0  
+18. 𝑥2+8𝑥+15=0 
+19. 𝑥2−5𝑥+7=0  20. −3𝑥2+𝑥+4=0 
+21. 𝑥2+6𝑥+9=0  
+22. 2𝑥2+5𝑥+3=0 
+23. 2𝑥2−5𝑥+2=0 
+24. 6𝑥2−𝑥−1=0   
+25. −5𝑥2+6𝑥−1=0  
+26. 2𝑥2−11𝑥+14=0  
+27. 2𝑥2−7𝑥−1=0 
+28. 16𝑥−7𝑥2=79     
+29. 42𝑥+5=64 30. 9𝑥+1=81 
+31. 64∙43𝑥=16 
+32. 2−2𝑥+5∙1
+4=2𝑥+2 
+33. 62𝑥−3=6 
+34. (𝑥−4)2/3=25 
+35. (𝑥+5)3/2=8 
+36. (𝑥+12)3/2=8 
+37. √3𝑥+18=𝑥 
+38. √𝑥+3=𝑥−3 
+39. √𝑥+5−√𝑥−3=2 
+For questions 40-54, solve the following word problems.  
+40.  If 𝑥=2 and 𝑦=3 is a solution of the equation   8𝑥−𝑎𝑦+2𝑎=0, find the  
+  value of a. 
+41. If the sum of two numbers is 13 and their product is 42 find the numbers.  
+42. The present age of Gaddisa  is 4 years more than twice the present age of his 
+cousin  Chala . Chala’s present age is  2 years more than 1
+3 of the present age of 
+Gaddisa. Find the difference of their ages.  
+149
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+43. We want to fence a field whose length is three times the width and we have 
+100 me ters of fencing material. If we use all the fencing material, what would 
+the dimensions of the field be?  
+44. Three coffees and two makiatos cost a total of Birr 17. Two coffees and four 
+makiatos cost a total of Birr 18. What is the individual price for a singl e coffee 
+and a single makiato?        
+45. Which of the following is the solution for the system of linear equations  
+     {3𝑥+𝑦=11
+𝑦=𝑥+2  ?  
+      A)  𝑥=3,𝑦=2                        B)  𝑥=3,𝑦=5   
+C)  𝑥=9
+4,𝑦=17
+4                       D)  𝑥=17
+4,𝑦=9
+4     
+46. The solution for the quadratic equation 𝑥2+10𝑥=−25 is: 
+A) 10                     B)   −5                      C)  −10                       D)   5       
+47. The solution for the absolute value equation |−2𝑥+8|=12 is: 
+     A)   𝑥=2,𝑥=10                     B)   𝑥=−2,𝑥=10     
+     C)   𝑥=2,𝑥=−10                  D)  𝑥=−2,𝑥=−10 
+48. Find the values of 𝑘 for which the quadratic expression (𝑥−𝑘)(𝑥−10)+
+1=0 has integral roots.  
+49. Find the values of 𝑘 such that the equation 𝑝
+𝑥+𝑟+𝑞
+𝑥−𝑟=𝑘
+2𝑥 has two equal roots.  
+50. Find the quadratic equation with rational coefficients when one root is 1
+2+√5 . 
+51. If the coefficient of 𝑥 in the quadratic equation  𝑥2+𝑏𝑥+𝑐=0  was taken as 
+17 in place of 13, its roots were found to be −2 and −15. Find the roots of the 
+original quadratic  equation.  
+52. For what value of 𝑘, both the quadratic equations 6𝑥2−17𝑥+12=0 and 
+3𝑥2−2𝑥+𝑘=0 will have a common root.  
+53. Solve |𝑥2+2𝑥−4|=4 
+ 
+150

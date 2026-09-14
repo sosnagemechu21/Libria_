@@ -1,0 +1,922 @@
+=================================================================
+Book: economics.pdf
+Chapter 2: Theories of Demand and Supply   �  �  �  �  �  �  �  �  �
+Pages: 25 to 55
+=================================================================
+
+Unit 2: Theories of Demand and Supply17Unit Introduction
+The tools of demand and supply can take us far in understanding not only specific 
+economic issues but also how the entire economy works. As you recall, the circular 
+flow model in your grade 9 course identified the participants in the product and 
+resource markets. There, we asserted that prices were determined by the “interaction” 
+between demand and supply in these markets.  In this unit we examine that interaction 
+in detail explaining how prices and output quantities are determined, determinates and 
+elasticies of demand and supply. 
+Market is a place, condition, or mechanism, which brings together both buyers 
+(demanders) and sellers (suppliers) in order to exchange their goods and services. 
+All situations which link potential buyers with potential sellers are markets. Thus, the 
+market means the system in which sellers and buyers of a commodity interact to settle 
+its price and the quantity to be bought and sold.
+Unit Objectives
+After completing this unit, students will be able to:
+6Explain the theory of demand.
+6Describe the theory of supply
+6Identify factors that affect demand and supply
+6Distinguish between individual and market demand 
+6Distinguish between individual and market supply 
+6Demonstrate market equilibrium both graphically and mathematically
+6Evaluate the effect of changes in demand and supply on equilibrium price 
+and quantity.
+6Define elasticity
+6Calculate and interpret the different types of elasticity
+Main Contents
+     2.1. Theory of Demand
+2.2. Theory of Supply
+2.3. Market Equilibrium
+2.4. Elasticities of Demand and supply Theories of Demand and Supply Unit
+2
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply182.1. Theory of Demand
+At the end of this section, students will be able to: 
+6Define the concept of demand 
+6State factors affecting demand.
+6Explain demand schedule and demand curve 
+6Interpret demand equations and the slope of a demand curve.
+6Distinguish between chages in  demand and changes in quantity
+6Determine  individual  and market demand
+Key Concepts
+Demand, Demand schedule, Demand curve, Market demand
+Startup Activity
+1.What do we mean by ‘demand’?
+2.Do you think it is synonymous with ‘desire’ or ‘want’? Discuss the similarities 
+and differences in pairs.
+In the previous unit, we studied and derived the consumer’s optimum given income, 
+the price of the goods and preferences. The demand for a commodity is the quantity 
+that consumers are able and willing to buy at various prices during a given period of 
+time.
+Definition: Demand means the ability and willingness to buy a specific quantity of a 
+commodity at the prevailing price in a given period of time. Therefore, demand for a 
+commodity implies a desire to acquire it, along with the willingness and ability to pay 
+for it. Thus, Demand = Willingness to buy + Ability to pay.
+   2.1.1 The Demand Schedule, Demand Function  and the Demand Curve
+Demand could be expressed in the form of schedules, functions, or curves.  Demand 
+Schedule is a table showing different quantities of commodity that consumer is willing 
+to buy at different level of prices, during a given period of time. Demand expresses 
+the nature of functional relationship between the price of a commodity and its quantity 
+demanded.  Qd=f(P)=a-bP ;whereas ‘Qd‘ is quantity demanded, ‘P’ is price, ‘a’ is 
+constant, ‘b’ coefficient of price,  As quantity is function of price, or these variables are 
+expressed in tabular form/ schedules, and can be transformed into curves.  A demand 
+curve is a curve that represents the relationship between the quantity of the good 
+chosen by a consumer and the price of the good. The independent variable (price) is 
+measured along the vertical axis, and dependent variable (quantity) is measured along 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply19the horizontal axis. The demand curve shows the quantity demanded by the consumer 
+at each price.
+Let’s consider the relationship between the price of coffee and the quantity of coffee 
+demanded using a hypostatical example. Table 2.1 shows how many kgs of coffee 
+Amina buys each month at different prices per kg. If coffee is free (assume the price is 
+zero), she buys 9 kg. At birr 5.00, she buys 8kg of coffee. As the price rises further, she 
+buys fewer and fewer kgs of coffee. When the price reaches birr 45.00, Amina doesn’t 
+buy any coffee at all.
+Table 2.1 Amina’s demand. The Demand Sc hedule shows the quantity demanded at 
+each pric e.
+Price of coﬀe in birr (per 
+KG)0 5 10 15 20 25 30 35 40 45
+Quantiy demanded (in KG) 9 8 7 6 5 4 3 2 1 0
+Figure 2.1 Amina’s Demand Curve
+Table 2.1 is a demand schedule , a table that shows the relationship between the price 
+of coffee per kg and the quantity of coffee demanded per kg. It shows how the quantity 
+demanded of the good (coffee) changes as its price varies, ceteris paribus (all other 
+things remain constant).
+The demand curve in figure 2.1 above, which graphs the demand schedule in table 2.1., 
+shows how the quantity demanded of the good changes as its price varies. Because 
+a lower price increases the quantity demanded, the demand curve slopes downward.
+The slope of a demand curve:  the law of demand states (recall from your grade 9) 
+
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply20quantity and price are inversely related: quantity demanded of a good (X) goes up 
+when its price goes down. That is, the function has a negative slope, or the curve 
+slopes downward. This important property is given the name of downward sloping 
+demand. The law of demand can be stated as, all other things remaining constant, the 
+quantity demanded of a commodity increases when its price decreases and decreases 
+when its price increases.
+2.1.2 Factors affecting demand
+Determinants of demand are factors that cause the consumer to increase or decrease 
+their demand for a particular commodity. Demand is a multi-variety function in a sense 
+that it is determined by many factors/variables. There are various factors affecting the 
+demand for a commodity. Some of these are:
+yPrice of the good: the price of a commodity is an important determinant of 
+demand. Price and demand are inversely related. The higher the price, the lower 
+the demand and vice versa.
+yPrice of related goods: the price of related goods like substitutes and 
+complementary goods also affect the demand. 
+	Substitute goods are goods that can be used in place of each other to satisfy 
+a given want. (For example, coffee and tea, pens and pencils, butter and oil, 
+etc.).
+	Complementary goods are goods used together to satisfy a given want. (For 
+example, tea and sugar, phone and sim-card, cars and petrol, gun and bullet 
+etc.)
+In the case of substitutes, rise in the price of one commodity leads to an increase 
+in the demand for its substitute. In the case of complementary goods, a fall in the 
+price of one commodity leads to a rise in demand for both the goods.
+yConsumer income: is directly related to demand. A change in the consumer’s 
+income significantly influences his demand for most commodities. If the 
+consumers’ income increases, demand will be greater.
+yTaste and habits: these are very effective factors affecting demand for a commodity. 
+When there is a change in the consumer’s taste, habits, or preferences, their 
+demand will change.
+yPopulation: if the size of the population is greater, demand for goods will be 
+greater. The market demand for a commodity substantially changes when there 
+is a change in the total population.
+ySeason : The demand for a commodity is also affected by the season. For 
+example, demand for woolen clothes increases in the cold seasons. On the other 
+
+--- [PAGE BREAK] ---
+
+Unit 2:  Theories of D emand and Supply21hand, demand for cotton clothes increases in hot seasons.
+yConsumer’s future price expectation: If a consumer expects prices to rise in the 
+future, he may buy more at the current price, and thus his/her demand rises.
+2.1.3 Changes in quantity demanded and changes in demand
+Change in quantity demanded: Other things being equal, it designates the movement 
+from one point to another point from one price quantity combination to another on a 
+fixed demand schedule or demand curve. The cause of such a change is an increase 
+or decrease in the price of the product being considered. Downward movement along 
+the demand curve is called an extension of demand, while the upward movement is a 
+contraction of demand.
+Figure 2.2: Extension of demand                Figure 2.3: Contraction of Demand                                                           
+Change in Demand: A change in one or more of the determinants of demand (other 
+than their own price) will change the demand data (the demand schedule). A change in 
+the demand schedule, or more graphically, a shift in the location of the demand curve, 
+is called a change in demand. An increase in demand causes the demand curve to shift 
+upward to the right; whereas, a decrease in demand causes the demand curve to shift 
+downward to the left.  In other words, while an increase in demand is explained by an 
+outward shift of the demand curve, a decrease in demand is explained by an inward 
+shift of the demand curve. 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply22
+                       Figure 2.4: Shift in demand curve
+Figure 2.4 shows that when demand increases, demand curve shifts upward (D1) and 
+a decrease in demand shifts the demand curve downwards (D2). The factors affecting 
+demand, except for their own price, are called shifting factors.
+2.1.4 Derivation of market demand
+Based on the number of consumer, demand is classified as individual demand and 
+market demand.
+Individual Demand : Individual demand may be defined as the quantity of a 
+commodity that a person is willing and able to buy at given prices over a specified 
+period of time. Suppose Mr. Adamu purchases a kg of banana w hen the price is Birr 
+25, and he purchases 2 kg for a week when the price drops to Birr 20. And when the 
+price further decreases to Birr 15 per kg, he buys 3 kg banana for a week, but when 
+the price rises to Birr 30 per kg, he buys zero kg of banana. This can be shown in the 
+table 2.2 below.
+Table 2.2: The hypothetical demand schedule for banana
+Price of banana in Birr/kg 10 15 20 25 30
+Quantity demanded in kg 5 3 2 1 0
+Market Demand : Market demand refers to the total quantity that all the users of a 
+commodity are willing and able to buy at  a given price over a specific period of time. 
+The market demand for the commodity is simply the horizontal summation of the 
+demand of all the consumers in the market. In other words, the quantity demanded in 
+the market at each price is the sum of the individual demands of all consumers at that 
+price.
+Assume that there are three consumers (say A, B, and C) in the market for a particular 
+D0
+D1
+
+--- [PAGE BREAK] ---
+
+Unit 2:  Theories of D emand and Supply23commodity X (say wheat). Their demand at each price is given as follows: 
+Table 2.3: The individual and market demand schedule for wheat
+Price per quintal of wheat (Birr) 12 9 6 3 1
+Quantity demanded per 
+year (in quintals) A 2 3 4 6 9
+B 1 2 4 5 6
+C 0 1 2 4 5
+Market (Total) 3 6 10 15 20
+Figure 2.5 summation of demand curves
+Thus, the market demand for a commodity shows the various quantities of the 
+commodity demanded in the market per unit of time at an alternative price for the 
+commodity holding everything else constant. However, if individual demand schedules 
+were expressed as demand curves, the market demand curve would be derived by 
+taking the horizontal summation  of individual demand curves.  
+Numerical Example: Suppose the individual demand function of a product is given 
+by: QI = 50 - 5P   and there are about 100 identical buyers in the market. Then the 
+market demand function is given by:
+⇒	Qm = (50 – 5P) 100 
+⇒	Market Demand (Qm ) = 5000-500P
+ĂActivity 2.1
+1. Define demand.
+2. What factors affect demand?
+3. Explain the demand schedule and demand curve concepts.
+4. What is the difference between changes in quantity demanded and changes 
+in demand?
+5.What do you mean by individual demand and market demand?
++ + =
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply242.2 Theory of Supply
+At the end of this section, students will be able to:
+6Define the concept of supply. 
+6Explain supply function, supply curve, and supply schedule.
+6Interpret the slope of a supply curve. 
+6Differentiate changes in quantity supply and changes in supply.
+6State factors that affect supply. 
+6Derive market supply curve.
+Key Concepts
+Supply, supply schedule, supply curve 
+Start-Up Activity
+1.What comes to your mind when you hear the term “supply”?
+In a market, while buyers of a product constitute the demand side of the market, sellers 
+of that product make up the supply side of the market. Supply may be defined as the 
+various amounts of a product that a producer (firm) is willing and able to produce 
+and make available for sale in the market over  a specific time period, at given prices, 
+ceteris paribus. Holding other factors constant, the quantity supplied of a good or 
+service is the amount offered for sale at a given price. 
+2.2.1. Supply function, Supply schedule, and Supply curve 
+A Supply function: is a statement that states the relationship between the quantity 
+supplied (as a dependent variable) and its determinants (say price, as independent 
+variable). Suppose that a single producer’s supply function for commodity X is given 
+as: QX =F(PX)=a+bP, ceteris paribus.
+The supply schedule : is a tabular presentation of the (law of) supply. By substituting 
+various “relevant” prices of X into the above supply equation, we get the producer’s 
+supply schedule shown in table 2.4 below.
+   Table 2.4 supply schedule
+Price per unit (in Birr/kg) 0 10 15 22 35 43 56 67 78 106
+Quantity supplied (in kg) 0 1 2 3 4 5 6 7 8 9
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply25
+Figure 2.6 supply curve
+The supply curve : is a graphical depiction of the supply schedule. Plotting each pair 
+of values from the supply schedule in the table above on a graph and joining the 
+resulting points we get the producer’s supply curve, figure 2.6 below.
+Table 2.4 illustrates that there is a positive relationship between the quantity supplied 
+and its price. As we can see, the supplier requires a minimum price to start supplying 
+its product, and then increases its quantities as the unit price for its product rises, and 
+vice versa.
+Figure 2.6 is a graphic representation of the supply schedule where, conventionally, 
+the price of the product is shown on the vertical axis and the quantity supplied on the 
+horizontal axis. The curve is, more or less functional in accordance with the law of 
+supply, which states that, in general, the higher the price of a good, the greater the 
+quantity of the good suppliers are willing and able to make available in the market.
+The slope of a supply curve : the Law of supply expresses the direct relationship 
+between the prices of a commodity and its quantity supplied. Price and supply are 
+positively related. Hence, the slope of the supply curve is positive. 
+ 2.2.2 Changes in quantity supplied and changes in supply
+A change in quantity supplied: as we stated earlier, as the price of a goods increases, 
+the quantity supplied increases. We call this kind of movement along the supply curve 
+a “change in quantity supplied.”  Thus, movement along the supply curve is caused by 
+a change in the commodity’s own price. In such a situation, the supply curve remains 
+the same.  Other things being constant, the movement along the (same) supply curve is 
+caused by a change in the price of the good. For example, movement from A to B, B 
+to C, C to A, etc., refers to a change in quantity supplied. 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply26Change in supply: this kind of change refers to a shift in the position of the supply 
+curve caused by a change in something other than the commodity’s own price. A shift 
+in the supply curve may be caused by change in the prices of other goods, a change 
+in the prices of factors of production, a change in production technique or a change in 
+the goals of the producer.
+    
+  Figure 2.7 Movement on supply curve     Figure 2.8 shift of supply curve
+2.2.3 Factors affecting supply
+In constructing a supply curve, the economist’s assumption is that price is the most 
+significant determinant of the quantity supplied of any product. But factors other than 
+the good’s own price can change the relationship between price and quantity supplied. 
+These other factors include:
+yThe cost of factors of production: the cost depends on the price of factors. An 
+increase in factor cost increases the cost of production, and reduces supply.
+yThe state of technology: Using advanced technology increases the productivity 
+of the organization and increases its supply.
+yExternal factors: external factors like this influence the supply. If there is a 
+flood, this reduces the supply of various agricultural products.
+yTax and subsidies:  an increase in government subsidies results in more 
+production and higher supplies.
+yTransport: better transport facilities will increase the supply.
+yThe price of other goods: if the price of other goods is more than the price of 
+commodity ‘X’, then the supply of commodity ‘X’ will be increased.
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply272.2.4 Derivation of the market supply curve
+The derivation of the market supply (schedule and curve) from the individual supply 
+is similar to that of demand. That is, the market supply in a given market is the 
+summation of the individual suppliers in that market. Suppose that there are only four 
+suppliers of a specific type of shirt, and their demand schedule is given below.
+  Table 2.5 Market Supply for shirt four sellers A, B, C, and D
+Unit price ( Birr)1 2 3 4 5 6
+Quantity 
+supplied A 0 0 1 2 4 7
+B 0 1 2 3 4 6
+C 1 2 5 7 10 13
+Total (Market) 1 3 8 12 18 26
+As can be seen from the above supply schedule, the market supply schedule could 
+simply be derived by taking the summation of the individual quantities supplied at all 
+possible prices. 
+Graphically, the market supply is the horizontal summation of the individual supply 
+curves as shown below. Suppose we have only three suppliers in the market for a 
+commodity, say soft drinks, and their supply curves are given as SA, SB, and SC. 
+Figure 2.9:  Summation of the Supply curves
+Note that the market supply curve is flatter than the individual supply curves. We 
+assume that the sellers are identical (perfect competitive market), hence they have the 
+same supply curve. So, we can simply multiply the quantity supplied by a representative 
+supplier by the number of sellers in that market in order to get the market quantity 
+supplied at all possible prices.
+Example:  Suppose there are 120 sellers of potatoes (in tons) in a market and 
+the sellers have a more or less similar supply curve of the form (supply equation)                             
+Qs = 20p - 5. Driven by the  market supply equation. What is the quantity supplied in 
+the market when the price is Birr 4? + + =
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply28Solution:
+ i.   Market supply is Qm = Qs x 120
+                                         = 120 (20p - 5)
+                                    Qm = 2400p – 600 (market supply equation).
+ii. Total quantity (market) supplied at price Birr 4 is;
+     Qm (p=4) = 2400 (4) – 600
+                     =9600 - 600 
+                      = 9000 tons.
+ĂActivity 2.2
+1. Define supply.
+2.What is the market supply of 100 identical wheat suppliers if the supply 
+function of a typical supplier is Qs = 3p - 2?.
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply292.3 Market Equilibrium
+At the end of this section, students will be able to:
+6Define market equilibrium.
+6Define surplus and shortage. 
+6Explain how surpluses and shortages cause the price to move towards 
+equilibrium.
+6Describe how change in demand and supply affect equilibrium.
+Key Concepts
+Market equilibrium, Excess demand, Excess supply
+Startup Activity
+1. Have you ever heard of the term ‘Equilibrium’? What comes to your mind 
+whenever you hear the term ‘Equilibrium’?
+In a general sense, the term ‘equilibrium’ means the “state of rest”. In the context 
+of market analysis, equilibrium refers to the market condition that once achieved, 
+tends to persist. This condition occurs when the quantity demanded of the commodity 
+equals the quantity supplied of the commodity. This equality produces an equilibrium 
+price (market- clearing price).
+2.3.1. The derivation of equilibrium
+Having seen the theory of demand and supply, we can now bring them together to see 
+how the buying decisions of households and the selling decisions of firms interact to 
+determine the price of a product and the quantity actually bought and sold. Market 
+equilibrium explains the balance between demand and supply for a commodity.  That 
+is, equilibrium occurs when the quantity demanded by the buyers equals the quantity 
+supplied by the sellers in a particular market, so that the market clears.  It is a condition 
+that once it is achieved, tends to persist because economic agents have no incentive to 
+change their behavior. 
+The price level at which the market reaches equilibrium is called the ‘market clearing/ 
+equilibrium price’, and the corresponding quantity is called the ‘equilibrium quantity”. 
+The equilibrium price in a free market is determined by the market forces of demand 
+and supply. Suppose that the market demand and supply schedules are given as shown 
+in the table below:
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply30Table 2.6 Monthly demand and supply schedules for shirts
+Price per shirt Demand Supply Market Position
+5(rise) 7 0 shortage (-)
+10 (rise) 5 1 shortage (-)
+15 (rise) 4 2 shortage (-)
+20(stable) 3 3 equilibrium 
+25(fall) 2 4 surplus (+) 
+30(fall) 1 5 surplus (+)
+35(fall) 0 6 surplus (+)
+The above table 2.6 shows how market equilibrium is reached. When the price of a 
+shirt is, say, Birr 15, the quantity demanded is 4 units of shirts, but the quantity supplied 
+is only 2 units of shirts. The result is a shortage of 2 units of shirts. Thus, unsatisfied 
+buyers will bid the price up. Raising the price will reduce the shortage. If, however, 
+the price of shirts rose to, say, Birr 25 per shirt, the quantity supplied is 4 units of shirts 
+while the amount demanded is only 2 units of shirts. The result is a surplus of 2 units 
+of shirts. This surplus will cause the price of shirts to fall as unsatisfied sellers bid 
+the price down. As the price falls, the surplus will diminish. Thus, as the table shows, 
+there is only one price of shirts (Birr 20) at which the market is in equilibrium, i.e. 
+the quantity demanded and quantity supplied are equal at 3 units of shirts. At all other 
+prices, the shirt market is in disequilibrium.
+We have already seen that a surplus causes prices to decline and a shortage causes 
+prices to rise. With neither shortage nor surplus (at Br.20), there is no reason for 
+the actual price of shirts to move away from this price. The economists call this the 
+equilibrium price: ‘ equilibrium’ means “in balance” or “at rest”. Graphically: this is 
+the price at which the quantity demanded and the quantity supplied are equal.
+Figure 2.10 Market equilibrium
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply31The intersections of the downward sloping demand curve and the upward sloping 
+supply curve indicate the equilibrium price and quantity (Birr 20 and 3 shirts). The 
+shortage of shirts that would exist below the equilibrium price and the surplus that 
+occurs above the equilibrium price. In a free market, disequilibrium itself creates the 
+condition for equilibrium.
+2.3.2. The concepts of excess demand and excess supply
+Excess demand occurs when the quantity demanded is greater than the quantity 
+supplied, which leads to a shortage in the market. Excess supply occurs when the 
+quantity supplied exceeds the quantity demanded, resulting in a market surplus.
+Figure 2.11 Excess demand and Excess Supply
+Therefore, graphically, the intersection of the supply and demand curves for a product 
+indicates the market equilibrium (Q*, P*).  Any price above this intersection will lead 
+to a surplus because sellers will be willing to offer more of the commodity in the 
+market while the buyers cut their demand.  On the other hand, any price below the 
+intersection point will discourage the suppliers and reduce the quantity supplied in 
+the market while buyers are willing to buy more, indicating that there is a shortage.  
+However, there is always a tendency for movement towards the equilibrium point.  
+That is, when there is a surplus, there is a tendency for prices to move downward, and 
+when there is a shortage there is a tendency for price to move upward.  
+Example: If the market demand and supply functions of wheat are given as                             
+Qd = 80 – 3P and
+Qs = 9P -40, respectively. Then, what is the market clearing price in Birr/kg and the 
+corresponding quantity in kg? 
+Solution:  Equate   Qd = Qs to get the equilibrium price 
+• Qd = Qs
+•80 – 3p = 9p-40 substitute for Qd and Qs
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply32•120 = 12p rearrange 
+•p* = 10 birr/kg 
+To get the equilibrium quantity (Q*), substitute this price into either of the functions. 
+•Qd = 80 – 3 (10)
+•Q* = 50 kg.  
+Therefore, the market clears when the price is Br.10/kg and both the quantity demand -
+ed and supplied are 50 kilograms.  
+Graphically: 
+                     Figure 2.12 Market equilibrium price and quantity 
+For prices greater than 10, supply is greater than demand, which leads to excess supply 
+(surplus), while prices less than 10 lead to excess demand (shortage).
+  2.3.3 Effects of change in demand and supply on equilibrium quantity 
+and price
+We know that demand might change because of fluctuations in consumer tastes or 
+incomes, changes in consumer expectations, or variations in the prices of related 
+goods. Supply might change in response to changes in resource prices, technology, 
+etc. 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply33
+Figure 2.13: The Effect of a change in Demand on the Equilibrium
+Changes in Demand:  Suppose that supply is constant and increases in demand, 
+leads to a rise in both the equilibrium price and quantity; and also if there is demand 
+fall it leads to decrease in both the equilibrium price and quantity demanded .                                  
+Look at figures 2. 13 (A) and (B) respectively.
+Change in Supply: Let’s suppose demand is constant but supply increases (decreases). 
+This will affect the equilibrium by lowering (rising) the new market- clearing price 
+and raising (lowering) the new equilibrium quantity. Look at the following figure 2.14: 
+Figure 2.14: The Effect of a change in Supply on the Equilibrium
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply34Let’s see the summary of changes in demand, and changes in supply with the help of 
+tables. 
+Table 2.7  Factors Shifting Demand Curve (assume Supply remains constant)
+Factors Changing
+DemandEffect on
+DemandDirection of
+Shift in
+Demand CurveEffect on
+Equilibrium
+PriceEffect on
+Equilibrium
+Quantity
+Increase in income Increase Rightward Increase Increase
+Decrease in income Decrease Leftward Decrease Decrease
+Increase in price of 
+SubstituteIncrease Rightward Increase Increase
+Decrease in price of 
+substituteDecrease Rightward Decrease Decrease
+Increase in price of 
+complementDecrease Leftward Decrease Decrease
+Decrease in price of 
+complementIncrease Rightward Increase Increase
+Increase in taste and
+preference for goodIncrease Rightward Increase Increase
+Decrease in taste and
+preference for goodDecrease Leftward Decrease Decrease
+Increase in number of
+consumersIncrease Rightward Increase Increase
+Decrease in number of
+consumersDecrease Leftward Decrease Decrease
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply35Table 2.8 Factors that shift the Supply Curve (assume demand remains constant)
+Factors Changing 
+SupplyEffect on
+supplyDirection of
+Shift in
+Supply CurveEffect on
+Equilibrium
+PriceEffect on
+Equilibrium
+Quantity
+Increase in resource 
+priceDecrease Leftward Increase Decrease
+Decrease in resource 
+price Increase Rightward Decrease Increase
+Improved technology Increase Rightward Decrease Increase
+Decline in technology Decrease Leftward Increase Decrease
+Expect a price 
+increase Decrease Leftward Increase Decrease
+Expect a price 
+decrease Increase Rightward Decrease Increase
+Increase in number of 
+suppliersIncrease Rightward Decrease Increase
+Decrease in number 
+of suppliersDecrease Leftward Increase Decrease
+ĂActivity 2.3
+1. Explain Excess demand and excess supply.
+2. When supply remains unchanged, what is the effect of a change in demand 
+on price?
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply362.4 Elasticities of Demand and Supply
+At the end of this section, students will be able to:
+6Define elasticity.
+6Explain the types of elasticity. 
+6Describe elasticity of demand
+6Discuss elasticity of supply.
+6Analyse determinants of elasticity. 
+Key Concepts
+Elasticity, Price elasticity, Income elasticity, Cross elasticity
+Elasticity is a measure of the sensitivity of one variable to another. It tells us the 
+percentage change in one variable in response to a one percent change in another 
+variable.
+2.4.1The Elasticity of Demand 
+Elasticity of demand is the measure of the responsiveness of demand for a commodity 
+to changes in any of its determinants, such as the price of the commodity, price of 
+related goods, and consumers’ income. Accordingly, there are three basic elasticities:
+        I.  Price elasticity of demand,
+        II. Cross-price elasticity of demand &
+        III. Income elasticity of demand
+I . Price elasticity of demand
+Price elasticity of demand is a measure of the degree of responsiveness (or sensitiveness) 
+of consumers to changes in the price of the commodity itself. It may be defined as the 
+ratio of the percentage change in quantity demanded to the percentage change in price. 
+In other words, the price elasticity of demand (
+ ) is the percentage change in the 
+quantity demanded divided by the percentage change in price. Economists measure 
+the degree of elasticity or inelasticity by the elasticity coefficient (
+ ), which is given 
+as follows:
+
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply37Price elasticity of demand is of two types: point elasticity and arc elasticity of demand. 
+Point elasticity of demand : measures elasticity at a (given) point or for a very small 
+change in price. Symbolically, we could write:
+Whereas, arc elasticity refers to price elasticity over a distance on the demand curve. In 
+other words, arc elasticity measures the average responsiveness of consumer demand 
+to changes in price over a range of extended prices. Symbolically, we could write:
+                                                                    
+Arc elasticity of demand = 
+   =
+From the down sloping demand curve, we know that price and quantity demanded are 
+inversely related. Thus, the price elasticity coefficient of demand, Ed, will always be a 
+negative number. Therefore, we usually ignore the minus sign and simply present the 
+absolute value of the elasticity coefficient to avoid any ambiguity that might otherwise 
+arise.
+Interpreting Price Elasticity of Demand Values
+a) Price Elastic Demand: demand is said to be relatively elastic if a specific percentage 
+change in price results in a larger percentage change in quantity demanded. Then,
+will be greater than 1.
+b) Price Inelastic Demand: If a given percentage change in price is accompanied by 
+a relatively smaller change in the quantity of the good or service, then demand is said 
+to be relatively price inelastic. 
+For example, if a 10% increase in a product’s price is accompanied by only a 
+2% decrease in the quantity demanded, the price elasticity of demand will be
+= 0.02/0.1 = 0.2< 1
+c) Unitary Elastic: When a percentage change in price and the accompanying 
+percentage change in quantity demand are equal, the case separating elastic and 
+inelastic demands is said to be unitary elastic. For example, if a 6% change in price 
+results in a 6% change in quantity demanded, then    
+ =  
+
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply38d) Perfectly Inelastic: this is a situation in which the quantity demanded of a certain 
+product is invariable relative to the change in the price. The elasticity coefficient is 
+equal to zero (
+  =0).This shows that a change in the price of a good or service does 
+not bring about in any change in the quantity demanded  i.e. 
+e)  Perfectly Elastic:   denotes that a 1% change in price results in an infinite change 
+in quantity demanded. In this regard, the consumer can buy all possible quantities at 
+the given price and nothing else at other prices.
+                    Table 2.9 Summary of Price Elasticity of Demand
+Elasticity Description Implication
+     /
+ / > 1 Elastic  %  
+     /
+ / = 1 Unitary elastic  %   
+     0 </
+  / < 1 Inelastic  %   
+Example : Given table 2.10 demand schedule       
+Points A B C D E
+Price (Birr) 0 2 4 6 8
+Quantity 800 600 400 200 0
+                   Find the price elasticity of demand between two points (B and C).  
+                  Solution:  Using demand arc elasticity.
+Ep =  %  change in Q
+        %  change in P 
+ Q2   –   Q1            X           P1   +   P2  
+                                      Q1   +   Q2                           P1  -   P2  
+By rearranging ,it becomes     %change in Q =  Q2 – Q1      X         P1 + P2
+                                                                             Q1  +  Q2              P1 -  P2                   
+                                                 400 – 600     X     2 + 4                 =     /  - 0.6 / =   0.6 
+        2- 4       600 +  400
+ĂActivity 2.4
+1. From table 2.10 (demand schedule), find the price elasticity of demand 
+between two points (C and E).
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply39The price elasticity of demand depends on the following factors:
+yNature of the commodity: The demand for necessities is inelastic because the 
+demand does not change much with a change in price. But the demand for 
+luxuries is elastic in nature.
+yAvailability of close substitutes : The commodity that has the greatest number of 
+substitutes has relatively elastic demand. A commodity with fewer substitutes 
+has relatively inelastic demand.
+yPeople with high incomes are less affected by price changes than people with 
+low incomes.
+yProportion of income spent on the commodity: When a small part of income is 
+spent on the commodity, the price change does not affect the demand. Therefore, 
+the demand is inelastic in nature.
+yUrgency of demand / postponement of purchase: The demand for certain 
+commodities is highly inelastic because you cannot postpone their purchase. 
+For example, medicines for any sickness should be purchased and consumed 
+immediately.
+yDurability of a commodity: If the commodity is durable, then it will be used for 
+a long period of time. Therefore, the elasticity of demand is high. Price changes 
+highly influence the demand for durables in the market.
+yProduct purchase frequency or recurrence of demand: Demand for frequently 
+purchased    goods is more elastic than demand for rarely purchased goods.
+yTime: In the short run, demand will be less elastic, but in the long run, demand 
+for commodities will be more elastic.
+II . Cross Elasticity of Demand
+The quantity demanded of a particular commodity varies according to the price of other 
+commodities. Cross elasticity measures the responsiveness of the quantity demanded 
+of a commodity due to changes in the price of another commodity. For example, the 
+demand for tea increases when the price of coffee goes up. Here, the cross elasticity 
+of demand for tea is high. If two goods are substitutes, then they will have a positive 
+cross elasticity of demand. In other words,  if two goods are complementary to each 
+other, then negative cross elasticity may arise.
+The responsiveness of the quantity of one commodity demanded to a change in the 
+price of another good is calculated with the following formula. The cross elasticity of 
+demand is defined as the proportionate change in quantity demanded of X resulting 
+
+--- [PAGE BREAK] ---
+
+Unit 2:  Theories of D emand and Supply40from a proportionate change in the price of Y .
+This coefficient tells us whether the two goods (say X and Y) are substitutes, 
+complements, or independent (unrelated).
+Substitute goods : If the cross elasticity of demand is positive, that is, the quantity 
+demanded of X moves in the same direction as a change in the price of Y then X and Y 
+are substitute goods. Example: Coca-Cola (X) and Pepsi (Y). An increase in the price 
+of Pepsi (Y) causes consumers to buy more Coca-Cola (X). In general, the larger the 
+positive cross elasticity coefficient, the greater the substitutability between the two 
+products, cetris paribus. 
+Complementary goods :We know that X and Y “go together” when cross elasticity is   
+negative. An increase in the price of one decreases the demand for the other. So, the 
+two are complementary goods. The larger the negative cross elasticity coefficient, the 
+greater the complementarity between the two goods. 
+Independent goods : A zero cross elasticity suggests that the two products are unrelated 
+or they are independent goods. 
+III . Income Elasticity of Demand 
+Income (I) Elasticity of Demand measures the percentage change in the amount of 
+a commodity purchased per unit time resulting from a given percentage change in a 
+consumer’s income. That is, 
+It is measured by dividing the percentage change in quantity demanded by the 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply41percentage change in income. If the demand for a commodity increases by 10% when 
+income increases by 5%, then the income elasticity of that commodity is said to be 
+positive and relatively high. If the demand for food were unchanged when income 
+increased, the income elasticity would be zero. A fall in demand for a commodity 
+when income rises results in a negative income elasticity of demand. The income 
+(Y) elasticity is defined as the proportionate change in the quantity (Q) demanded 
+resulting from a proportionate change in income. The following are the various types 
+of income elasticity:
+yNegative Income Elasticity: The increase in the income of consumers leads to 
+less purchase of those goods (
+ < 0). This implies the commodity is inferior 
+good. 
+yIncome Elasticity is greater than one: The change in income increases the 
+demand for that commodity more than the change in income (
+> 1). This 
+implies the commodity is normal and lexurious good. 
+yIncome Elasticity is less than one: The change in income increases the 
+demand for the commodity, but at a lesser percentage than the change in income                       
+(
+< 1). Thus, a good is necessity. 
+  Example:  Based on table 2.11 below, answer the following question:
+                Table 2.11 Income schedule
+Income (I) Birr per year 12,000 16,000 20,000 24,000 28,000
+Quantity (Q) unit per 
+year10 15 18 20 19
+Determine income elasticity (
+ ) at Birr16, 000 level of income.
+Solution 
+Recall that, 
+; 
+The change in income increases the demand for that commodity more than the 
+change in income. This implies the commodity is luxury good. 
+ĂActivity 2.5
+1. From table 2.11, compute the income elasticity of demand at an income level 
+of Birr 20,000. 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply422.4.2 Elasticity of supply 
+Price elasticity of supply measures the degree of responsiveness or reaction of 
+producers to price changes. The greater the reaction, the greater the elasticity. T he 
+lesser the reaction, the smaller the elasticity. If the price of coffee rises, for example, 
+producers may be tempted to sell more in the market and keep less in stock.
+Formally, the price elasticity of supply (
+ ) is the percentage change in quantity 
+supplied divided by the percentage change in price of the commodity. That is,
+ ,
+  - Point elasticity of supply
+Whereas,  
+   - Arc elasticity of supply
+The coefficient of 
+  is defined as 
+ except that we substitute “percentage change 
+in quantity supplied” for “percentage change in quantity demanded.”
+The interpretations we used for price elasticity of demand also work for price elasticity 
+of supply. 
+That is, if 
+•
+ >1, supply is elastic; 
+•
+ < 1, then supply is inelastic; and 
+•
+ = 1, then supply is unitary elastic. 
+As the law of supply states, price and quantity supplied of a product are directly 
+related. Hence, price elasticity of supply is positive. 
+     Example:  Given table 2.12 Supply schedule.
+Price in Birr 60 80 100 120
+Quantity supplied 14 16 18 20
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply43            Elasticity of supply when price is Birr 80 is:
+ Recall, 
+   - Point elasticity of supply 
+Determinants of the price elasticity of supply: There are factors which determine 
+the price elasticity of supply. The main factors are:
+yExpectation of future prices: If producers expect a rise in the price of a 
+commodity in the future, they will likely hoard the commodity to take advantage 
+of the rise in future prices. The supply will, therefore, be less elastic. On the 
+other hand, if they expect a fall in future prices, they will release the goods from 
+their stocks. The supply will be more elastic.
+yProduction period: The amount of time available to producers for responding 
+to changes in product price is the main determinant of price elasticity of supply. 
+Generally, supply is relatively elastic to price changes in the long-run and 
+relatively inelastic in the short-run. The reason why supply is elastic for a longer 
+period is that suppliers might produce good substitutes. In other words, time for 
+adjustment is important because most production activities cannot be changed 
+in scale overnight.
+yFactor substitution:  If there are greater substitutes for factors of production, 
+supply is more elastic. Whenever there is a slight change in the price of a factor 
+input, it can be substituted for others, making supply quite elastic. With no 
+substitutes, supply becomes inelastic.
+yNumber of sellers: The market’s supply will be more elastic when there are 
+large numbers of firms serving the market. With a smaller number of firms/
+sellers, supply becomes inelastic.
+ĂActivity 2.6
+1. Explain the meaning and types of elasticity
+2.When is the market said to be in a state of equilibrium?
+3. What will be the effect on the demand for tea if the price of coffee rises?
+4.What factors determine price elasticity of demand? 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply44Unit Summary
+Demand for a commodity refers to the amount that will be purchased at a particular 
+price during a particular period of time. The demand curve shows how the quantity of 
+a good demanded depends on the price. According to the law of demand, as the price 
+of a good falls, the quantity demanded also rises. Therefore, the demand curve slopes 
+downward.
+In addition to price, other determinants of the quantity demanded included the income 
+of the consumer, the prices of substitutes and complements, consumer tastes and 
+preferences, consumer expectation, the number of consumers in the market, etc. If 
+one of these other determinants changes, it leads to demand curve shifts. Individual 
+demand for a commodity is the amount purchased by a single consumer at a given price 
+during a particular period of time; while market demand is the horizontal summation 
+of individual demand.
+In a market, while buyers of a product constitute the demand side of the market, 
+sellers of that product make up the supply side of the market. Supply may be defined 
+as a schedule, equation or a curve that shows the various amounts of a product that 
+a producer (firm) is willing and able to produce and make available for sale in the 
+market over a specific time period, at given prices, ceteris paribus. Holding other 
+factors constant, the quantity supplied of a good or service is the amount offered for 
+sale at a given price. 
+The supply curve shows how the quantity of a good supplied depends on the price. 
+According to the law of supply, as the price of a good rises, the quantity supplied also 
+rises. Therefore, the supply curve slopes upward. In addition to price, other determinants 
+of the quantity supplied include input prices, technology, and expectations. If one of 
+these other determinants changes, it causes the supply curve to shift. 
+The intersection of the supply and demand curves determines the market equilibrium. 
+At the equilibrium price, the quantity demanded equals the quantity supplied. The 
+behavior of buyers and sellers naturally drives markets toward equilibrium. When 
+the market price is above the equilibrium price, there is a surplus of the good, which 
+causes the market price to fall. When the market price is below the equilibrium price, 
+there is a shortage, which causes the market price to rise.
+Elasticity of demand refers to the degree of responsiveness of the quantity demanded 
+of a commodity to changes in any of its determinants. Price elasticity of demand 
+is the ratio of a percentage change in a commodity’s quantity demanded to a given 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply45percentage change in its price.
+The numerical value of the price elasticity of demand ranges from zero to infinity.
+Price elasticity of supply measures the degree of responsiveness/ reaction of producers 
+to price changes. The greater the reaction is the greater he elasticity; and the lesser the 
+reaction, the smaller the elasticity.  Like the elasticity of demand, the numerical value 
+of  the price elasticity of supply ranges from zero to infinity.
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply46     Unit Review Exercises
+Part I: Write ‘True’ if the statement is correct or ‘False’ if the statement is 
+incorrect.
+1.Demand is different from want.
+2.An increase in market demand and a decrease in market supply lead to raising the 
+equilibrium price. 
+3. If the income elasticity of demand for a good is 3, then the demand is elastic.
+4.The cross-price elasticity between coffee and tea is likely to be negative.
+Part II: Multiple-choice items.
+Direction: Read the following questions and choose the correct answer from the given 
+alternatives. 
+1.Which one is the correct definition of demand,  ceteris paribus? 
+A . It is a  willingness and ability to buy goods and services. 
+B . It is an individual’s willingness to buy goods and services. 
+C . It i s  the amount of a product which a producer is willing to sell. 
+D . All 
+2.__________ is a place, condition, or mechanism, that brings together both 
+buyers and sellers in order to exchange their goods and services.
+A. Demand             B . Supply        C . Market       D . Elasticity 
+3.Which of the following statements is true?
+A . Individual demand and market demand are both the same.
+B . The price and quantity demanded of a commodity are positively related. 
+C . At equilibrium, the market demand and supply curves intersect.
+D . All of the above.
+4.Which of the following is incorrect statement?
+A . The demand curve is downward sloping. 
+B . The market demand curve is flatter than the individual demand curves. 
+C . The law of demand states the inverse relationship between price of the 
+commodity and quantity demanded. 
+D . None of the above.
+5.Which of these statements is false?
+A . The value of the price elasticity of demand is negative.
+B . The value of the cross elasticity of demand between coca-cola and Pepsi-
+cola is positive. 
+C . The price elasticity of demand is inelastic for all commodities. 
+D . None of the above 
+
+--- [PAGE BREAK] ---
+
+Unit 2: Theories of Demand and Supply476.Which one of the following factors determines demand?
+A . Price of the product itself.
+B . Consumer’s income.
+C . Size of population. 
+D . All of the above
+7.Suppose the demand for good Z goes up when the price of good Y goes down. We 
+can say that goods Z and Y are:
+A . Substitutes.
+B . Complements.
+C . Unrelated goods.
+D . Perfect substitutes.
+8.Which of the is incorrect statement?
+A . When the price elasticity of a good is 1 then demand is unitary elastic.
+B . When income elasticity of demand is negative, the commodity is luxury 
+good.
+C . When the cross elasticity of demand between two goods is 0 the two goods 
+are unrelated.
+D . All of the above
+Part III: Write detail answers to the following.
+1.What does the law of supply state?
+2.What is the difference between the causes behind movement along the demand 
+curve and the shift of the demand curve?
+3.If the demand and supply functions of a good are given as Q = 250-3P and                
+Q = 2P – 50, respectively; determine 
+A . Equilibrium price.
+B . Equilibrium quantity.
+C . From the above information, would there be a shortage or surplus if the  
+government decided the market price to be 75 units? 

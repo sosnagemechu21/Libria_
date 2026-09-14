@@ -1,0 +1,338 @@
+=================================================================
+Book: economics.pdf
+Chapter 1: Introducing Economics yHuman needs are unlimited.
+Pages: 11 to 20
+=================================================================
+
+Unit 1:  Introducing Economics yHuman needs are unlimited.
+The objective of economics is to study how to satisfy the unlimited human needs up 
+to the maximum possible degree through allocating the scarce resources efficiently .
+The Nature of Economics 
+The lack of uniformity in defining economics emanates from the shifting views about 
+the subject matter over time. Some economists consider economics a ‘science’ while 
+others consider it an “art.”
+Economics as a Science 
+Science produces a systematic and organised body of knowledge that links causes and 
+effects. This knowledge can be regarded as the knowledge of “what is”. In economics, 
+several facts are systematically collected, classified, analysed, and interpreted to make 
+predictions about the future. In this sense, economics could be considered a science.
+Economics as an Art 
+One of the important definitions of art is a technique or a way of doing or achieving 
+something. When dealing with problems such as unemployment, poverty, and inflation, 
+economics provides principles and methods through which these problems can be 
+solved. Hence, economics extensively examines the nature and causes of economic 
+problems and sets the procedures for finding their solutions. From this perspective, we 
+can consider economics as an art.
+ ĂActivity 1 �1
+1. What is meant by the term economics? 
+2. Describe the nature of economics. Is economics a science or an art or both? 
+Why?
+3
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing Economics41�2 Branches of Economics
+At the end of this section, students will be able to:
+ 6Distinguish between microeconomics and macroeconomics.
+ 6Describe the fundamental problem of microeconomics and macroeconomics.
+ /u270D_1F3FFStart-up Activity
+The foundation of modern economics rests on its two major branches. In pairs, 
+discuss what the two branches are.
+The field and scope of economics is growing rapidly and has come to encompass a wide 
+range of themes. Accordingly, different new branches of the subject have emerged over 
+time. Some of these branches are: development economics, environmental economics, 
+industrial economics, international economics, labor economics, mathematical 
+economics, monetary economics, welfare economics, resource economics, behavioural 
+economics, experimental economics, health economics, etc. However, the foundation 
+of modern economics rests on two of its major branches, namely, microeconomics and 
+macroeconomics.
+ Microeconomics
+Microeconomics is concerned with the economic behavior of individual decision 
+making units such as households, firms, and governments and their interactions 
+and organizations through markets and industries. In other words, it deals with how 
+households and firms make decisions and how they interact in specific markets. For 
+example, the economic activities of a consumer, a producer, a firm or an industry, the 
+income of individuals, the determination of prices of various products and factors of 
+production, etc. fall under the scope of microeconomics. The fundamental problem 
+of microeconomics is associated with resource allocation or the problem of price-
+determination. 
+Macroeconomics 
+Macroeconomics is a branch of economics that deals with the effects and consequences 
+of the aggregate behaviour of all decision-making units in an economy. In other words, it 
+examines the interrelations among various aggregate economic variables. For example, 
+total employment, total output, national income, total investment, total consumption, 
+etc. in an economy. In general, macroeconomics investigates the interrelationships 
+of numerous aggregate economic variables, as well as their determination and the 
+causes of their fluctuations over time. The fundamental problem of macroeconomics 
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing Economicsis associated with full employment of economyic resources.
+Difference Between Microeconomics and Macroeconomics
+Microeconomics is the study of individual decision-making units of an economy, like 
+individual households and business firms. In contrast, macroeconomics is the study of 
+an economy as a whole, and its focus is the study of broad, economy-wide aggregates. 
+For example, when we study the price determination of a commodity in a market, our 
+study is micro-analysis and is treated by microeconomics, but if we study the trend 
+of the general price level of commodities over time in a country, our study is macro-
+analysis and is treated by macroeconomics. Note that both microeconomics and 
+macroeconomics are complementary to each other. In other words, macroeconomics 
+cannot be studied independently of microeconomics. Table 1.1 summarises the main 
+differences between microeconomics and macroeconomics.
+Table 1.1 Main differences between microeconomics and macroeconomics
+Microeconomics Macroeconomics 
+1. Studies individual economic units in 
+an economy.1. Studies an economy as a whole and 
+its aggregates.
+2. Deals with income, prices, outputs, 
+etc.2. Deals with national income and 
+output and general price level.
+3. Its central problem is price 
+determination    and allocation of 
+resources.3. Its central problem is determination 
+of level of income and employment.
+4. Its main tools are the demand and 
+supply of particular commodities 
+and factors.4. Its main tools are aggregate demand 
+and aggregate supply of an economy 
+as a whole.
+5. It helps to solve the central 
+problems of what, how and for 
+whom to produce.5. Helps to solve the central problem of 
+full employment of resources in the 
+economy.
+6. Discusses how equilibrium of 
+a consumer,   a producer or an 
+industry is attained.6. Deals with the determination 
+of equilibrium income and 
+employment at aggregate level.
+Examples: Price of Teff, price of 
+Orange, income of Aberash, saving of 
+Chala, etc.Examples: GDP of Ethiopia, general 
+price level in Ethiopia, etc.
+ ĂActivity 1 �2
+1. Make a distinction between microeconomics and macroeconomics.
+2. Explain the fundamental problems of microeconomics and macroeconomics.
+5
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing Economics61�3 Methods and Approaches of Studying Economics
+ At the end of this section, students will be able to:
+ 6Explain the methods of studying economics; and
+ 6Distinguish between positive and normative economics.
+ /u270D_1F3FF Start-up Activity
+Is economics a positive science or a normative science, or both? Give your 
+justification.
+  1�3�1 Methods of Studying Economics
+The fundamental objective of economics, like any science, is the establishment of 
+valid generalisations about certain aspects of human behaviour. Those generalisations 
+are known as theories. A theory is a simplified picture of reality. Economic theory 
+provides the basis for economic analysis, which uses logical reasoning. There are two 
+methods of logical reasoning, namely, deductive and inductive methods.
+Deductive Method 
+The deductive method proceeds from general to particular. It involves reasoning from 
+certain principles to the analysis of specific facts. In effect, it enables one to arrive at 
+a particular conclusion starting from a general statement. The conclusions are then 
+verified against observed facts. Example: man is mortal. Abebe is a man. Therefore, 
+Abebe is mortal.
+Inductive Method
+The inductive method is a process of reasoning from a part to the whole. This means 
+it involves reasoning from the particular to the general or from the individual to the 
+general. In this method, economists approach problems of science from a practical 
+angle, reducing the gulf between theory and practice. 
+The inductive method develops economic theories on the basis of observations and 
+experiments. In this method, comprehensive data about the prevailing economic 
+conditions is collected. Then, an attempt is made to arrive at a hypothesis based on the 
+observations and the collected data.
+Example: During the harvest period, one may observe that the prices of grains decrease. 
+This may be associated with an increase in the supply of grain at that time of the year. 
+From this observation, a generalisation can be made: “keeping other factors constant, 
+an increase in supply leads to a fall in prices.”
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing EconomicsNote that deductive and inductive methods are complementary, i.e. one supports the 
+other. They are not competing methods. Induction and deduction always complement 
+each other in reasoning, but proper induction is not necessary for the truth of deduction. 
+Induction generates general conclusions from specific instances, whereas deduction 
+generates knowledge of specific instances from general knowledge.
+1�3�2 Approaches of Studying Economics
+Economics can be analysed from the point of view of two perspectives, namely, 
+positive economics and normative economics. Positive economics is like a science that 
+deals with knowledge and facts, while normative economics entails value judgment in 
+applying the knowledge to solve problems.
+Positive  economics is concerned with the analysis of facts and attempts to describe 
+the world as it is. It tries to answer the questions: what is; what was; or what will be? 
+It does not judge a system as good or bad, better or worse.
+Examples:
+1. The number of secondary schools in Ethiopia is increasing.
+2. The current inflation rate in Ethiopia is 12 percent.
+Both of the above statements are known as “positive statements.”  These statements are 
+concerned with real facts and information. Any disagreement on positive statements 
+can be cleared up with reference to the facts.
+Normative economics is concerned with questions such as, “what the economy ought 
+to be?”  Or what the economy should be? It evaluates the desirability of alternative 
+outcomes based on one’s value judgments about what is good and what is bad. In this 
+case, since normative economics is loaded with value judgments, what is good for an 
+individual may not be good for another. Normative analysis is a matter of opinion that 
+cannot be proved or disproved with reference to facts. As a result, any disagreement 
+on a normative statement can be resolved through voting.
+ Examples:
+1. The government should introduce school feeding programmes in all schools.
+2. There should be government intervention in the economy, whenever necessary.
+ ĂActivity 1 �3
+1. Describe the methods used to study economics.
+2. Explain the difference between positive and normative economics.
+7
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing Economics8 1�4 Decision Making Units                                
+ At the end of this section, students will be able to:
+ 6Identify the decision-making units of an economy, and
+ 6Explain the objectives of each decision-making unit.
+ /u270D_1F3FFStart-up Activity
+What are the basic decision-making units of an economy?
+An economy is divided into different sections. These sections are sometimes known as 
+decision-making units of the economy. Customarily, they are described as economic 
+agents. The basic decision making units of an economy are households, business firms, 
+and the government. We discuss each of these decision making units of an economy 
+as follows.
+1� Households 
+Households are the chief owners of the factors of production, which encompass land, 
+labour, capital, and entrepreneurship. They sell the services of these factors (termed 
+“factor service”) to producers and, in return, receive their income in the form of 
+rent, wages, interest, and profit. They spend an enormous portion of their income on 
+purchasing goods and services from the producers.Nonetheless, they save part of their 
+income, and also pay taxes to the government out of their income. 
+2�  Business Firms 
+In economics, we use the terms “business firms” and “producers” alternately. Firms 
+hire the services of factors of production from households to produce commodities that 
+they sell to households, to other firms, to the government or to other countries. Firms 
+are the principal buyers of factors of production, and they are the leading producers 
+of commodities. Business firms consist of both private and government enterprises.
+ 3�  Government 
+In economics, government is taken in the sense of ‘general government’ in order to 
+disregard government enterprises. The government purchases goods and services from 
+producers and factors services from households. It uses these commodities and factor 
+services to provide free services, such as police, education, medical facilities, sanitation 
+facilities, judicial services, etc., to the people in order to satisfy their combined needs 
+for those services. The general government gets its income mainly from taxes levied 
+on households and on business firms in the form of direct and indirect taxes.
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing EconomicsThe government imposes compulsory tax levies on individuals or firms. Taxes are 
+levied in almost every country of the world, primarily to raise revenue for government 
+expenditures, although they serve other purposes as well. The primary goal of 
+a national tax system is to generate revenues to pay for government expenditures. 
+Because public expenditures tend to grow with the national product, taxes are the 
+main vehicles of government to finance the public expenditure. Consequently, every 
+citizen is responsible to pay tax for the government to sustain the activities of public 
+investments to ensure sustainable development of a country.
+ ĂActivity 1 �4
+1. What are the decision-making units of an economy?
+2. Discuss the objectives of decision-making units in an economy.
+9
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing Economics10Unit Summary
+Economics is a social science that studies the efficient allocation of scarce resources 
+in order to attain the maximum fulfillment of unlimited human needs. Economics has 
+two main branches: microeconomics (deals with the economic behaviour of individual 
+economic units and individual economic variables) and macroeconomics (deals with 
+the functions of the economy as a whole).
+The central objective of economics is the efficient utilisation of scarce resources to 
+satisfy unlimited human needs. Economics uses two methods of logical reasoning: 
+deductive (involves reasoning from certain principles to the analysis of specific facts) 
+and inductive (involves reasoning from the particular to the general) methods. Further, 
+economics uses two approaches: positive economics (which deals with knowledge 
+and facts) and normative economics (which entails value judgment in applying the 
+knowledge to solve problems).
+An economy is divided into different parts, which are sometimes called decision-
+making units. The basic decision making units of an economy are households (which are 
+the chief owners of factors of production: land, labour, capital, and entrepreneurship), 
+business firms (which hire the services of factors of production from households to 
+produce commodities), and the government (which gets its income mainly from taxes 
+levied on households and business firms in the form of direct and indirect taxes).
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing EconomicsReview Questions
+Part I: Write ‘True’ if the statement is correct or ‘False’ if it is not correct for 
+each of the following statements. 
+1. Microeconomics deals with the determination of prices in individual markets.
+2. Macroeconomics deals with the behaviour and decisions of individual economic 
+units.
+3. Microeconomics is also known as the theory of income and employment.
+4. Microeconomics studies the decisions of individual people and firms, while 
+macroeconomics studies the entire national economy.
+5. The deductive method entails reasoning from certain principles to the analysis of 
+facts.
+6. Normative economics offers recommendations based on value judgments.
+7. A household can be one person or more people who live under one roof but make 
+separate financial decisions.
+8. Businesses take the initiative to combine resources in order to produce goods and 
+services.
+Part II: Choose the correct answer among the alternatives for the following 
+questions � 
+1. Microeconomics concerns itself with all of the following topics except :
+A . Economic activities of individual firms, households, and other or ganizations.
+B . Forces of supply and demand in a particular market.
+C . Consumer behaviour and firms’ output decisions.
+D . The behaviour and operation of the economy as a whole.
+2. Which of the following is a normative statement? 
+A . Falling prices are good for consumers.
+B . Falling prices encourage consumer spending.
+C . The falling price of housing affects real income.
+D . Rising prices encourage production.
+3. Which of the following would best be described as a positive statement about 
+economics?
+A . Free markets are inherently unfair institutions.
+B . Countries normally experience higher unemployment during recessions.
+C . Business profit should be redistributed through taxes to benefit more of 
+society.
+D . Increasing taxes is positively wrong.
+11
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Introducing Economics124. Which of the following is a normative statement?
+A . Not all resources experience price rises.
+B . Poverty is something society should reduce.
+C . An increase in house prices is likely to cause a reduction in demand
+D . Some of the earth’s scarce resources are non-renewable.
+5. Which of the following is the basic decision making unit of an economy?
+A . Households                     C. Business firms
+B . Government                    D. All of the above
+6. Households spend an enormous portion of their income in purchasing goods and 
+services from the
+A . producers                          C. other consumers     
+B . government                       D. none of the above
+7. Which of the following statements would best describe firms? 
+A . They are the main buyers of factors of production
+B . They are the leading producers of commodities.                                                                             
+C . T h e y  c o n s i s t  o f  b o t h  p r i v a t e  a n d  g o v e r n m e n t  e n t e r p r i s e s .                                                                             
+D . All of the above
+8. General government gets its income mainly from taxes levied on
+A . households and business firms in the form of direct and indirect taxes
+B . goods and services it provides to the producers
+C . factor services it provides to households.
+D .  none of the above
+Part III: Answer the following questions briefly and to the point.
+1. Define economics from the perspective of wealth, welfare, and scarcity. Which 
+definition better suits economics? Why?
+2. “Study and knowledge of economics are extremely useful and important.” 
+Explain.
+3. Why do we study economics? Have you gained anything from this unit? Discuss 
+them.
+4. Explain the distinction between microeconomics and macroeconomics.
+5. What do you understand by “positive economics” and “normative economics”?
+6. Explain why economics deals with the allocation and efficient utilisation of scarce 
+resources only.
+7. In recent years, especially around big cities, there is the problem of air pollution 
+and the likelihood of poisoning is high. Given this scenario, do you think that air 
+is a free resource? Justify your answer. 
+8. Explain the main features of the various decision-making units of an economy .

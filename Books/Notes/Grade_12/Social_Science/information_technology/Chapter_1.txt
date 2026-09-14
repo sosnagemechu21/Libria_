@@ -1,0 +1,1114 @@
+=================================================================
+Book: information_technology.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+STUDENT TEXTBOOK GRADE 12
+Federal Democratic Republic of Ethiopia Ministry of Education Federal Democratic Republic of Ethiopia Ministry of EducationFDRE
+MOEINFORMATION TECHNOLOGY
+STUDENT TEXTBOOK GRADE 12
+Federal Democratic Republic of Ethiopia Ministry of Education
+ Federal Democratic Republic of Ethiopia Ministry of Education
+FDRE
+MOEINFORMATION TECHNOLOGYSTUDENT TEXTBOOK GRADE 12
+Federal Democratic Republic of Ethiopia Ministry of Education
+ Federal Democratic Republic of Ethiopia Ministry of Education
+FDRE
+MOEINFORMATION TECHNOLOGY
+GRADE 12
+STUDENT TEXTBOOK
+
+
+--- [PAGE BREAK] ---
+
+Take Good Care of
+This Textbook 
+This textbook is the property of your school. 
+Take good care not to damage or lose it. 
+    Here are 10 ideas to help take care of the book:
+1. Cover the book with protective material, such as plastic, old 
+newspapers or magazines.
+2. Always keep the book in a clean dry place.
+3. Be sure your hands are clean when you use the book.
+4. Do not write on the cover or inside pages.
+5. Use a piece of paper or cardboard as a bookmark.
+6. Never tear or cut out any pictures or pages.
+7. Repair any torn pages with paste or tape.
+8. Pack the book carefully when you place it in your school bag.
+9. Handle the book with care when passing it to another person.
+10. When using a new book for the first time, lay it on its back. Open only a few pages at a time. Press lightly along the bound edge as 
+you turn the pages. This will keep the cover in good condition
+
+
+--- [PAGE BREAK] ---
+
+INFORMATION TECHNOLOGY
+STUDENT TEXTBOOK
+GRADE 12
+Writers:
+Teshome Alemu Wedajo (MSc)
+Wendwesen Endale Workneh (MSc)
+Editors:
+Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor)  
+Berhane Woldegabriel Zeweldi ( MSc ) (Content Editor)  
+Temesgen Debelo Ayana (MA)  (Language Editor)
+Illustrator:
+Selamneh Belete Tekle (MSc)
+Designer: 
+Dagnachew Melesew Alemayehu ( MSc)
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONHAWASSA UNIVERSITY
+
+
+--- [PAGE BREAK] ---
+
+First Published August 2023 by the Federal Democratic Republic of 
+Ethiopia, Ministry of Education, under the General Education Quality 
+Improvement Program for Equity (GEQIP-E) supported by the World Bank, 
+UK’s Department for International Development/DFID-now merged with the 
+Foreign, Common wealth and Development Office/FCDO, Finland Ministry for 
+Foreign Affairs, the Royal Norwegian Embassy, United Nations Children’s Fund/
+UNICEF), the Global Partnership for Education (GPE), and Danish Ministry of 
+Foreign Affairs, through a Multi Donor Trust Fund.    
+©2023
+ by the Federal Democratic Republic of Ethiopia, Ministry of Education. 
+All rights reserved. The moral rights of the author have been asserted. No part 
+of this textbook reproduced, copied in a retrieval system or transmitted in any 
+form or by any means including electronic, mechanical, magnetic, photocopying, 
+recording or otherwise, without the prior written permission of the Ministry of 
+Education or licensing in accordance with the Federal Democratic Republic of 
+Ethiopia as expressed in the Federal Negarit Gazeta, Proclamation No. 410/2004 
+- Copyright and Neighboring Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups and other 
+bodies involved – directly or indirectly – in publishing this Textbook. Special 
+thanks are due to Hawassa University for their huge contribution in the 
+development of this textbook in collaboration with Addis Ababa University, 
+Bahir Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the owner 
+of copyrighted material not cited or improperly cited, please contact the Ministry 
+of Education, Head Office, Arat Kilo, (P.O.Box 1367), Addis Ababa Ethiopia. 
+
+--- [PAGE BREAK] ---
+
+Table of Contents
+Unit One
+Information Systems and  Their Applications  ............................ 1
+1.1. Ethical, Legal, Social, Environmental and Health Issues in the Use of Information 
+Systems  ........................................................................................................ 2
+1.1.1 Ethical and Legal Issues in Information System  .................................. 2
+1.1.2 Social Issues in Information System  .................................................... 5
+1.1.3 Environmental issues  caused by Information Systems  ...................... 10
+1.1.4 Health Issues caused by information systems  ...................................... 12
+1.2. Intellectual Property  ................................................................................... 14
+1.3. Digital Identity Management  ..................................................................... 17
+1.4. Collaboration Through Digital Technologies .............................................. 18
+1.4.1 Components of Digital Collaboration  .................................................. 19
+1.5. Engaging in Citizenship through Digital Technologies  .............................. 22
+Unit TwoEmerging Technologies 
+ ................................................................. 29
+2.1. Introduction to Bigdata  .............................................................................. 30
+2.1.1 Characteristics of Bigdata  ................................................................... 31
+2.1.2 Benefits of Bigdata  .............................................................................. 32
+2.1.3 Application of Bigdata  ........................................................................ 33
+2.1.4 Challenges of Bigdata  ......................................................................... 36
+2.2. Cloud Computing  ....................................................................................... 37
+2.2.1 Introduction to Cloud Computing  ........................................................ 37
+2.2.2 Benefits of Cloud Computing  .............................................................. 38
+2.2.3 Limitations of Cloud Computing  ........................................................ 41
+2.2.4 Types of Cloud Computing  ................................................................. 42
+2.2.5 Cloud Computing Services  .................................................................. 44
+2.3. Fog Computing  .......................................................................................... 46
+2.4. Internet of Things (IoT)  .............................................................................. 48
+2.4.1 Major advantages of IoT  ...................................................................... 49
+2.4.2 How Does IoT Work?  ........................................................................... 51
+2.4.3 Application of Internet of Things  ......................................................... 52
+
+--- [PAGE BREAK] ---
+
+Unit Three
+Database Management System   ................................................... 60
+3.1. Overview of Relational Database Management System  ............................. 61
+3.2. Database Manipulation Using SQL  ............................................................ 64
+3.2.1 Using SQL in Microsoft Access  .......................................................... 65
+3.2.2 Data Definition Language (DDL)  ........................................................ 69
+3.2.3 Data Manipulation Language  ............................................................... 78
+3.2.4 Data Query Language – SELECT Command  ...................................... 84
+Unit FourWeb Authoring  
+ ............................................................................. 100
+4.1. Introduction to XML  .................................................................................. 101
+4.1.1 Elements of XML Documents  .............................................................. 102
+4.1.2 Creating XML Documents  ................................................................... 107
+4.2. HTML vs. XML  .......................................................................................... 116
+4.2.1 Advantages and Disadvantages of XML  .............................................. 119
+4.3. Publishing Website  ...................................................................................... 119
+Unit FiveMaintenance and  Troubleshooting 
+ ............................................. 135
+5.1. Install and uninstall software  ...................................................................... 136
+5.1.1 Installing Software  ............................................................................... 136
+5.1.2 Uninstalling Software  ........................................................................... 139
+5.2. Software Troubleshooting  ........................................................................... 142
+5.3. Tools to speedup computer system  ............................................................. 146
+5.3.1 Disk Defragmenter  ............................................................................... 146
+5.3.2 Disk Cleanup  ........................................................................................ 147
+5.3.3 Windows Update  ................................................................................. 148
+5.3.4 System Restore  .................................................................................... 150
+5.4. Network Troubleshooting  .......................................................................... 151
+5.4.1 Basic Network Problems  ...................................................................... 152
+5.4.2 Basic Network Troubleshooting Steps  ................................................. 153
+5.4.3 Network Troubleshooting Tools  ........................................................... 156
+5.4.3.1 Command-Line Tools  ................................................................... 156
+5.5. Network Maintenance Tools  ....................................................................... 158
+
+--- [PAGE BREAK] ---
+
+Unit Six
+Fundamentals of Programming   .................................................. 164
+6.1. Program Flow Controls and Syntax in Python  ........................................... 165
+6.1.1 Conditionals Program Flow Controls  .................................................. 165
+6.1.2 Loops or Iteration Program Flow Controls  ......................................... 178
+6.2. Comments in Python  ................................................................................... 186
+6.3. Python Interpreter  ....................................................................................... 189
+6.4. Testing and Debugging Programs  ............................................................... 191
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 11UNITINFORMATION SYSTEMS 
+AND  THEIR APPLICATIONS  
+Learning Outcomes
+At the end of this unit, students will be able to:
+ Explain ethical and legal issues in information systems  
+ Explain environmental, health, and social issues in information system 
+ Recognize the basics of intellectual property rights
+ Describe digital identity management 
+ Appreciate the role of digital technologies in citizenship 
+Unit Overview
+Information systems have had an impact far beyond the world of business. New 
+technologies create new situations that we have never dealt with before. The introduction of new technology can have a profound effect on human behavior. New technologies also give us capabilities that we did not have before, which in turn, create environments and situations that have not been specifically addressed in ethical terms. Users should also be aware of the consequences 
+and implications of information systems’ use and access on the one hand and maintaining the rights of creators and innovators on the other. This unit deals with the fundamentals of ethical, legal, social, environmental and health issues, intellectual property rights, digital identity management, and the role of digital technologies in citizens’ engagement.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 2UNIT-1Information Systems and  their Applications 
+1.1. Ethical, Legal, Social, Environmental and Health Issues in 
+the Use of Information Systems 
+The use of new technologies including information systems, has a significant impact on human behavior and our daily activities including how we live, work, and learn. Increased consequences have been emerging which needs all user’s awareness about the use of information systems. The knowledge and skills about raising issues and proper use of information systems help students to become responsible members of society who can navigate a knowledge based and technology-led economy. This sub unit will focus on the major issues in use of information systems.
+1.1.1  Ethical and Legal Issues in Information Sy stem
+Brainstorming 1.1
+ How could someone gain access to online banking account?  
+ What would be the consequences of such access?  
+Ethics is all about the principles of making right or wrong decisions. According to Britannica dictionary, ethics defined as, the discipline concerned with what is morally good and bad and morally right and wrong. Ethical principles needs to be respected and if not might result in legal consequences for those cases who are against the applied laws. The role of ethics in information systems has become more crucial as a result of technology. Questions related to ethics and legality are essential in many industries. Many professionals including medical and education professionals, government officials, and business people have legal and ethical oversight to control how their professions function. Information systems, by contrast, lack standard that align with ethical concerns in the current frequently changing and dynamic technological ecosystem. The ethical and legal issues include privacy, security, information gathering and digital ownership related concerns. You will learn about some of the main ethical and legal issues you need to know about as you participate in a constantly changing the digital world.The following are some ethical and legal issues confronting the current digital world.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 3UNIT-1Information Systems and  their Applications 
+Privacy : In today’s digitized environment, information privacy relates to personal 
+data stored on the computer system, has become a prime concern for everybody.  
+Most people have their data spread throughout the digital systems, and privat e 
+information should be accessed using personal 
+passwords. However, personal accounts such as email, social media, and private bank accounts, can be accessed by unauthorized sources which create both ethical and legal concerns. It is morally wrong and unethical to view an individual’s private information in anyways which may also end up being a legal issue. All practices and attempts in organizations to check their employee’s computer habits also need to be implemented without incurring any damage to individual privacy.
+Digital Ownership:   It is ability to access and/or use and protect data, information, 
+and knowledge about ourselves or things we own. The expansion of digital mediums  
+has allowed information to flow more freely than before which makes content easily copied and pasted online. This makes digital ownership hard to control in the digital world. It is unethical to use somebody else’s digital works without getting permission from the owner first since it ignores the right of the creator. Creators has right to allow or deny the use of the contents. This permission can promote sharing of knowledge and information, credits the source and protect the consumer from false information. Users resources use should consider such concerns to promote proper use and dissemination of information, and to protect themselves from legal consequences that arises from violating intellectual property ownership rights. 
+Links  
+More information about intellectual property and related concepts in detail in 
+Section 1.2. of this book.  
+Figure  1.1 Privacy Issues
+Figure 1.2: Digital Ownership
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 4UNIT-1Information Systems and  their Applications 
+Information Gathering:  Many information system applications collect users’ 
+data and credentials as part of their operations. Such information gathering trends 
+can lead to many ethical and legal issues 
+depending on the purpose and level of information gathering approaches.  The 
+measure has opened a debate about what 
+and why information can be gathered. This issue raises a question of consent which protect individuals against attempts to steal information. 
+Users need to understand and examine the intention of any information-gathering 
+request by any service providers or third-party applications while they use the 
+services. Such requests  need special attention if those organizations, systems, or 
+applications request personal information and credentials. This protects against any illegal and fraudulent information stealing attempts.
+Information Security and Liability:  Growing amounts of personal and financial 
+information are being transferred and stored online as organizations and businesses 
+depend more and more on electronic data and computer networks to carry out their 
+daily operations. If and when a breach in information security happens, this might expose organizations and businesses to potential security liability. Such attempts 
+might lead to identity theft, which happens when the personal details of innocent 
+people to be harvested by a third party so that they can be used for malicious purposes. The increasing use of online tools and platforms such as blogs and instant 
+messaging is another source of potential liability. Accepted procedures and rules 
+are needed to provide conditions to increase the reliability of information systems. Users also need to report any security breach incidents that happened on their 
+systems and tools to the concerned department/unit or expert in their organizations 
+or the concerned government body promptly.For example – in Ethiopia, government and private organizations should report 
+any cyber security breaches or attacks to the designated government unit that is 
+responsible for protecting our country’s information and information infrastructure from harm.  
+Figure 1.3: Information Gathering 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 5UNIT-1Information Systems and  their Applications 
+The above-mentioned pressing ethical and legal issues are assumed to be evolving 
+as technologies change over time, and it is recommended to assess and analyze issues over time, concerning ethical and legal aspects. 
+Activity 1.1
+1. Do you agree that government agencies should monitor information usage and gather citizens’ information for national security purposes in the current digital world? Give reasons for your opinion.
+2. Find information about the current government agency that is currently responsible  for protecting our country’s information and information infrastructure from harm? Discuss the procedures that followed for reporting any security incidents to the concerned body.
+1.1.2  Social Issues in Information System
+Brainstorming 1.2
+ What impacts do the internet and information systems have on our social lives?  
+The expansion of accessible information system technologies has led to several 
+significant changes in how society functions. With personal computers and the 
+Internet offering unrestricted access to all of the knowledge ever created and 
+discovered by humans, the majority of these changes have improvements to society. 
+Those social advantages including access to technology which fills the digital 
+divide gaps within the global citizens, use of advanced technologies like Artificial Intelligence and Augmented Reality in public  which changes how peoples act and 
+react , and widespread use of digital platforms , social medias and computer games 
+for business and entertainment activities .
+However, other less uplifting social problems have been directly caused by 
+technical advancements of the technologies. Hence, it is crucial to examine and assess the impacts they have to take actions to better understand and mitigate their 
+negative impacts while maximizing the benefits. The following are some negative 
+social issues to consider while using technological services and Internet-based 
+applications.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 6UNIT-1Information Systems and  their Applications 
+Socializations Gaps
+Socializing within a family unit has 
+always been important, as it strengthens the bonds among family members or friends and ensures cohesion within the group. However, with more and more households owning several computers and numerous portable devices granting access to information and entertainment, some argue that this is leading to a lack of family socialization and natural interactions in the present moment (See Figure 1.5). 
+It is also become common to see friends who are out in a cafe and still staring at a 
+touchscreen rather than talking to one another. Increase your digital well-being by allowing technology to improve your life and not become a distraction from your life and others. 
+Cyber Bullying - It is a practice of sending, posting, or disseminating unfavorable, 
+hurtful, or malicious content about someone else online. It can also involve disclosing sensitive or private information about another individual in a way that causes embarrassment or humiliation. 
+Cyberbullying can happen online 
+through social media, forums, or gaming where users can interact with, or exchange content with others. It can also happen through text and other  messaging applications (Figure 1.6). 
+Example - The availability of the 
+internet and computer access can cause problems in terms of online gender-based violence’s, harassments and sexual abuse which is one of serious issues to address to protect our community to live a healthy life style. 
+ 
+Figure 1.5 Communication breakdown 
+among families
+Figure 1.6 Cyber Bulling
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 7UNIT-1Information Systems and  their Applications 
+Social Media and Gaming Addiction  - According to addiction center definition 
+social media and gaming addiction is a behavioral addiction that is characterized as 
+being overly concerned about social media and computer games, driven by an uncontrollable urge to log on to or use social media, and devoting so much time and effort to social media that it impairs other important life areas (See Figure 1.7). This day’s social media and video gaming are common ways in which people spend their leisure time. Researches on social networking addiction and Internet gaming disorders finds that intensive online activity can negatively impact young people’s mental health.
+Students need to be curious and mindful about their use of social media and video 
+games to live a safe and healthy life. Such practices have direct links and impacts on their family relationships, learning performance, future life goals, and mental health.
+Plagiarism – Computers and information systems 
+are known for their educational benefits, which are praised, but having access to all knowledge has drawbacks of its own. According to university of oxford, Plagiarism is presenting work or ideas from another source as your own, with or without consent of the original author, by incorporating it into your work without full acknowledgement.
+The act of plagiarism has grown to be a significant issue because students can easily 
+copy and paste entire passages of material from Internet resources without giving 
+credit to the author (See Figure 1.8). This has particularly become a challenge 
+for educational institutions, now applying different tools and systems to check the originality of students’ work at all levels. Plagiarism in the workplace and in 
+academia can destroy an author’s credibility and have significant consequences, 
+such as dismissal from school or job loss.   Students need to produce original works, use books and Internet resources as references and sources of insight, and 
+give appropriate credit to authors when they refer to their works in any way. 
+Figure 1.7 Social media Addiction
+Figure 1.8: Plagiarism
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 8UNIT-1Information Systems and  their Applications 
+Cybercrime -  Computers have contributed positively t o the development of both 
+individual actions and large-scale global 
+movements. The other side of the coin is 
+organized cybercrime which is use of a computer as an instrument to further illegal ends, such as committing fraud, stealing identities, or violating privacy and intellectual property rights as stated in Britannica dictionary. Cybercrime, especially through the Internet, has grown in importance as the computer has become central to education, commerce, entertainment, and government.
+According to Official reports from Ethiopian Information Network Security 
+Agency (INSA) officials Ethiopia is also experiencing different cyber-attacks which shows increasing trend from time to time that needs a serious attention and a collaborative effort from all citizens and professionals. This clearly shows that students need to prepare themselves for the 21st-century patriotism mission to protect personal, organizational and national digital resources by being mindful system users to protect against crime and terrorism attempts to ensure the country’s digital sovereignty.
+Notes
+ Interested and skilled students can also start the journey of being skilled cyber warrior who is a well-trained, skilled professional in the information technology or information security industry that manages computer networks and system operations
+Job Opportunities and Challenges  - The current trends in automation and 
+emerging technologies like artificial intelligent machines, help to automate routine tasks which lead to improved quality of service.  On the other hand, such expansion of automated systems leads to loss of jobs because some types of jobs like cashiers, data entry clerks, and factory workers can be managed by automated systems (See Figure 1.10).
+Fig 1.9 Cyber Warrior 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 9UNIT-1Information Systems and  their Applications 
+Automation often creates as many jobs as it destroys over time. The type of skills  
+that people need to acquire is constantly changing and people with low educational 
+backgrounds are most at risk since the future job market needs more skilled professionals.  
+We must be mindful of our actions 
+and be responsible for every step that we take to get benefits out of those advancements. We must also be concerned about Internet usage and associated access practices to mitigate social and psychological challenges 
+Activity 1.2
+1. Discuss the influence of inappropriate computer gaming and social media use on students’ ability to accomplish higher academic goals.
+2. Discuss the contribution of increased access to digital technologies and social media to cyber bullying practices. 
+3. What sort of new skills are required to get more job opportunities in the current 21st-century work culture and ethics? What can you do to get the required skillsets?
+4. How can students use online resources and materials without plagiarizing?
+5. Form a pair of students to discuss how your families and friends use technology. Discuss how your relationships changed because of it and share what you have discussed to class.
+6. Discuss with a partner about your habits of technology use and social media usage. What changes are needed to improve your current habits for future?
+Figure 1.10: Automation would lead to loss 
+of selected jobs 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 10UNIT-1Information Systems and  their Applications 
+7. Individual case study: pick a relevant topic that interests you so far from 
+ethical and social issues in information systems, then research and prepare a half page report using any word processing applications.  Make sure to acknowledge the sources of information’s when presenting information.
+8. Conduct online research about known cyber-attack attempts in our country and what is being implemented overcome the risks.  Prepare a report by searching the last 2-3 years reports about cyber-attack attempts, common types of attacks and mitigation activities taken to ensure national cyber security.
+9. Take a time and think of a type of job that you would like to have in the future. Explore required professional skills, list of potential universities to study the program and other information’s about the specific job that you aspire to have.
+10. Form a group of 3 students. Find out list of jobs that have been made obsolete by advancement of technology like artificial intelligence, and jobs that are being created as a result of advancement of technology. Present your findings to the class with your justifications 
+1.1.3  Envir onmental issues  caused by Information Systems 
+Brainstorming 1.3
+ What is the impact of information systems on environmental pollution?  
+While  we make advances in the use of developing technologies including information systems, we should also consider their negative effects on the environment around us.  
+Technologies consume lots of resources and power which creates additional 
+impacts on our environmental ecosystem.  Sometimes people can get so excited 
+about using a new technology, they overlook the negative impact on the environment. Using technologies smartly and responsibly is essential in order not to create problems while utilizing the advantages. Because electronic devices contain hazardous materials that are unsafe for the environment. Most electronic devices 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 11UNIT-1Information Systems and  their Applications 
+contain non-biodegradable materials, heavy metals, and toxic materials like 
+cadmium, lead, and mercury which can leak into the ground, where they can contaminate the water we drink, the plants we eat, and the animals that live around  
+the area.  This clearly shows that is our responsibility to protect the environment while we use and dispose of any information system components. To this end, advanced electronic waste (e - waste) management techniques shall be applied to minimize the damage (See Figure 1.11).  e-waste management refers to a systematic procedure for gathering e-waste, recovering and recycling material in a safe manner, and disposing of e-waste in a way that minimizes negative environmental effects.
+Negative impact of information systems on the environment have also led to the 
+development of new environmentally friendly technology solutions aiming to help solve some of the biggest environmental concerns that we face as a society through  
+a shift towards a more sustainable, low-carbon economy. This includes green or clean technologies which refers to environmentally friendly technology, which monitor, and or reduce the negative impact of technology on the environment (See Figure 1.12).  Examples of green technologies includes but not limited to Solar Panel, Electric Vehicles. smart meters, natural gas, wind Turbines etc. 
+Technological solutions also 
+allow electronic systems and paperless communication like email and online portals and applications to reduce cutting down of trees for paper for a better environmental protection and management (See Figure 1.13). To this end, information systems allow us to have a worldwide virtual laboratory so, that experts 
+Figure  1.11: e- Waste management
+(Source https://plopdo.com/) 
+Figure  1.12: Clean Technology
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 12UNIT-1Information Systems and  their Applications 
+from all fields can share their research, experiences, and ideas to come up with 
+better, and smarter solutions. Not only does this allow people who are far away from one other to work together, but it also reduces the negative carbon emissions impacts that people would normally cause from traveling to meet with one another. 
+Activity 1.3
+1. Form a group of 3 students and assess the available green technologies in your community and present the advantages of those green technologies for environmental protections.
+2. Discusses how students can contribute for the protection of the environment by becoming environment ambassadors while utilizing the advancement of technological solutions 
+1.1.4  Heal th Issues caused by information systems
+Brainstorming 1.4
+ What are the potential impacts of using information systems on our health?
+Health information systems are essential for the rapid generation of high-quality data that will be used to inform all relevant stakeholders for program planning, review, and monitoring as well as generally ensuring and enhancing the quality of all components of the health system.
+Figure 1.13: Paper based vs paperless system
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 13UNIT-1Information Systems and  their Applications 
+The widespread use of information systems and access to mobile device in 
+healthcare can make it easier to offer care, improve care delivery, empower patients through personalized messaging, and collect real-time data to optimize resources and decision-making. However, we must also pay attention to health-related challenges that caused by unmanaged use of information system services and products on users. Some of the challenges include, sleeping disorders and lack of productivity, loss of attention and stress.  At the same time, the current widely used mobile devices to access health information systems and other online services also creating computer related health problems that needs a serious attention by all users. 
+Examples of such problems incudes but not limited to musculoskeletal problems on 
+our body such as our back, neck, chest, arms, shoulders and feet, Vision Problems and eye strains, Headaches, Obesity due to long hour of sitting etc..
+This implies users should be aware of the proper ways when using information 
+systems and associated access devices to get the expected health information system benefits by minimizing the harm.
+Figure 1.14: Health Information System
+Activity 1.4
+• Discuss the roles of availability of mobile devices for accessing health-related information systems services.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 14UNIT-1Information Systems and  their Applications 
+1.2. Intellectual Property 
+Brainstorming 1.5
+ What comes to your mind when you hear the term Intellectual Property
+Intellectual property rights refers  to a range of intangible rights of ownership of an 
+asset such as a software program or designed information system.
+ Intellectual property rights  provides different methods for protecting these rights of 
+ownership based on their type.  As stated by Ethiopian Intellectual Property Office Establishment Proclamation, Proclamation No. 320/2003  “Intellectual property” means a legal right over a creative work of the human intellect and includes patent, trademark, registration certificate and copyright”.
+There are essentially four types of intellectual property rights that are relevant to 
+the software and information system industry. These are :-trade secrets , patents, copyrights, and trademarks. We used World intellectual property organization (WIPO) definitions:
+•	Trade secrets: “Trade secrets are Intellectual Property rights on confidential 
+information which may be sold or licensed.  The unauthorized acquisition, use or disclosure of such secret information in a manner contrary to honest commercial practices by others is regarded as an unfair practice and a violation of the trade secret protection ”.
+Fig 1.15:  Intellectual Property Right
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 15UNIT-1Information Systems and  their Applications 
+o Examples of trade secrets include customer lists, source code, 
+recipes for certain food items and beverages including Pepsi, Coca-Cola, and Sprite), software processes, and more. 
+•	Patent:  “A patent is an exclusive right granted for an invention. Generally 
+speaking, a patent provides the patent owner with the right to decide how - or whether - the invention can be used by others. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document’ ’. 
+When a property owner holds a patent, others are prevented, under law, from offering for sale and making or using the product. 
+Examples of patented products include software programs like Airbnb, 
+Amazon, One-click, the page rank algorithm of Google, and other inventions including the light bulb, telephones, Bluetooth, and more. Not all software products can have a patent. The software has to meet certain standards to get a patent. These standards come from the responsible authority in each country. 
+In our country, the Ethiopian Intellectual Property Office is the legal entity 
+to manage Intellectual property related applications. There are defined set of application procedures to follow in order to apply for patent. The application can be processed online through the application portal. 
+You can get detailed information, application and registration procedures 
+from its official website (https://eipo.gov.et/) for all intellectual property right applications and questions.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 16UNIT-1Information Systems and  their Applications 
+Fig 1.16:  Ethiopian Intellectual property Authority Website
+(Accessed on 27/04/2022 G.C, 2:00 P .M EAT)
+•	Copyrights:  Copyrights and patents are not the same although people are 
+often confused. A copyright is a type of intellectual property protection that 
+protects original works of authorship, which might include literary works, 
+music, art, and more. Nowadays, copyrights also protect computer software and architecture. Copyright protections are automatic; once you create something, it is yours. However, if your rights under copyright protections are infringed, and you wish to file a lawsuit, then registration of your copyright will be necessary. Graphical User Interfaces (GUIs) can also be registered for copyright.
+•	Trademarks:  “A trademark is a sign capable of distinguishing the goods 
+or services of one enterprise from those of other enterprises” . 
+Example- ‘Meta’,‘RIDE’ and ‘Microsoft’ symbol–which nearly all could easily recognize and identify–are types of trademarks. There are also many companies in our country with registered trademarks. Examples are Ride, Meta, and Microsoft.  While 
+Fig 1.17:  Trademarks of Meta, Microsoft 
+and Ride
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 17UNIT-1Information Systems and  their Applications 
+patents and copyrights can expire, trademark rights come from the use of 
+the trademark, which can be held indefinitely. Like copyright, registration of a trademark is not required, but registering can offer additional advantages. 
+Activity 1.5
+1. What are the differences between a patent and a trademark?
+2. Koket Destalem Ayde, a grade 12 student, invented a unique software 
+product that can automate the existing health system in our country. Koket 
+is not aware of whether she can have a patent right for her product or not. 
+Refer to Ethiopian Intellectual Property Authority’s official website  and other relevant resources to come up with the requirements to get a patent 
+and the application process to follow . Form a group of 3 students and 
+find all relevant information, prepare a report and present it to the class. Whether Koket’s software product can have patent right or not. 
+1.3. Digital Identity Management 
+Brainstorming 1.6
+ What makes our digital or online identities different from our physical 
+identities?
+As stated by onfido.com, “a digital identity is a collection of information about a 
+person that exists online”. This data can be used to create a digital image of a person when it is collected. Such information can be used by businesses to identify their clients.A digital identity is all of information about an individual, organization, or electronic device that exists online. Every individual should have the right to a trusted and secured digital identity to access fundamental services, like financial services, mobile connectivity, health, 
+Figure 1.18:  Digital Identity Attendance 
+controlling device using fingerprint 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 18UNIT-1Information Systems and  their Applications 
+education, and other services.  
+For almost every organization, digital identity management presents both 
+significant opportunities and associated risks. Management of a digital identity involves limiting the data that a person gives out, avoiding excessive use of storage, checking what data is stored about each individual, making corrections to incorrect personal data, avoiding redundant data, etc. Digital identification can be verified in a variety of ways, including through database checks, document and identity verification, biometric verification, and identity verification. A user can access internet services including banking, health, and travel after proving their identity.There is an ongoing effort at a national level to enhance citizens’ digital identity management practices. The National ID project started as part of the Digital Ethiopia 2025 strategy in Ethiopia. It is a robust and reliable digital identification process for all Ethiopians and legal residents within the country. 
+Figure 1.19 Ethiopia national ID project
+Activity 1.6
+1. How can users manage their digital identity in the digital space to minimize security concerns?
+2. What advantages can be obtained from current national digital identity management initiatives like National ID expand the quality and access of digital services in the country?
+1.4. Collaboration Through Digital Technologies
+Brainstorming 1.7
+ What is digital collaboration and how it can change the way we learn?
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 19UNIT-1Information Systems and  their Applications 
+Digital collaboration means working with other individuals or teams and getting 
+things done using digital devices and technology. It can include different tools, apps, software, procedures and  processes. Digital collaboration uses technology to improve workplace collaboration, communication, document management, content management, and information flow across the organization which in turn leads to improved employee productivity and efficiency. Digital collaboration has become important and is relevant to most organizations, groups, communities, schools and creative groups and in the current digital world.
+To this end, Internet and Internet-based applications is an important part of digital 
+collaboration as they helps employees collaborate in real-time, even beyond time zones and geographical boundaries.
+Links  
+See Cloud and Cloud-based applications in detail in Unit 2 Section 2.3 of this 
+textbook for more details.
+1.4.1  Components of Digital Collaboration
+People: People are at the heart of collaboration. Developing workflows and 
+established practices ensure they can stay in touch, especially when working remotely due to work schedule preferences or pandemic restrictions like COVID 19. Proper arrangement and communications is required while working on similar projects and assignments to remove unnecessary work or duplication of efforts in collaborative working environments.
+Figure 1.20:  Collaboration through digital technologies
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 20UNIT-1Information Systems and  their Applications 
+Collaborative tools: There are many tools and systems available that foster 
+collaboration, but not every solution will be a good fit due to its features, prices, usage 
+polices and ease of use. The choice of technology, along with how well employees use it will determine effectiveness of the collaboration. Digital Collaboration tools includes many types including the following with their examples: 
+•	Communication tools:  Communication tools include options for integrated messaging, co-working services, Privacy and access settings, Conference calling, Video chats with screen sharing etc. 
+o Examples- Microsoft Teams, Skype, Google Meet, Zoom, Cisco Webex, Slack, Microsoft Yammer, and more
+•	Documentation and file sharing  tools: This tools includes features like Support for different file types, Comments, and notes attached to files, track changes and versioning, editing permissions and access control, folder sharing , and more.  
+o Examples- Google Drive, Google Docs, Dropbox, MS SharePoint, Media Fire, and more.
+•	Project Management tools: It has underlying project and task management capabilities at their core.  
+o Examples- Trello, Asena, ClickUp, and more.
+•	Data Visualization tools: These tools should support a range of visual 
+styles, be easy and quick to use, and be able to handle a significant amount of data.
+o Examples- Google Charts, Tableau, Power BI, Grafana, Chartist, FusionCharts, Datawrapper, Infogram and more.
+•	Notetaking tools: These tools help to quickly capture and organize your notes, ideas, web page content and more.
+o Examples- Evernote, Microsoft OneNote and Google Keep and more. 
+Device : Devices are also key players. Devices such as smartphones, tablets, and 
+laptops are often an afterthought, but they are important components of digital collaboration. They are the physical media we use to connect.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 21UNIT-1Information Systems and  their Applications 
+Activity 1.7
+• Describe and explain collaboration tools you. Use at schools or in a 
+relevant groups. 
+Activity 1.8
+This is a group practical activity. Form a group of 5 students from your class and pick a name for your group. Follow the instructions below to complete an activity using a digital collaboration tools.
+Step 1- Prepare a half-page summary about the benefits of digital collaboration tools for online learning and group assignments and projects. Then select cloud-based word processing software and create an online word document and name it “Digital Collaboration Activity _Your group name” and put your half-page summary on the newly created online word processing file.  
+Step 2 - Group members create the online document and send the link to 
+all members via email or preferred social media platforms
+Step 3 - Select your chosen screen-sharing collaborative tools for virtual 
+meetings (Zoom, Google Meet, Microsoft Team, or any other application).
+Step 4 - Group member to generate a meeting link, and another to join 
+the virtual meeting to debate and review the summary document. Use the selected tool’s screen-sharing functionality  and change the document from wherever you are.
+Step 5 - Discuss how collaborative tools like these can improve learning 
+and teamwork activities, and share your experience with your classmates.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 22UNIT-1Information Systems and  their Applications 
+1.5. Engaging in Citizenship through Digital Technologies
+Brainstorming 1.7
+ How can you apply digital technologies to develop citizenship 
+engagement?
+According to aeseducation.com , digital citizenship refers to the responsible use of technology by anyone who uses computers, the Internet, and digital devices to engage with society on any level. 
+It require the ability to engage positively, critically, and competently in the digital 
+environment to practice forms of social participation that are respectful of human rights and dignity through responsible use of technology. 
+Young people needs to be supported to participate safely, effectively, critically, and 
+responsibly in a world, which is filled with social media and digital technologies. 
+Good digital citizenship teaches peoples how to use digital tools to communicate 
+with one another, empathize with one another, and build long-lasting connections. On the other hand, poor digital citizenship includes things like online bullying, careless social media use, and a general ignorance of Internet safety.
+That is why digital citizenship should not be a long list of don’ts. It should be about 
+the do’s that help create thoughtful, empathetic digital citizens who can struggle with the important ethical questions at the intersection of technology and humanity.
+The do’s include:
+	Using technology to make their community better.
+	Engaging respectfully online with people who have different beliefs.
+	Using technology to make their voice heard by public leaders and the global 
+community.
+	Determining the validity of online sources of information.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 23UNIT-1Information Systems and  their Applications 
+Digital citizenship goes beyond conversations about personal responsibility. 
+It is about being active citizens who see possibilities instead of problems, and opportunities instead of risks as they curate a positive and effective digital footprint.
+Example – In 2021 G.C Ethiopians united for the Grand Ethiopian Renaissance 
+Dam (GERD),“#It_is_my_dam”  social media Hashtag movements using Twitter, 
+Facebook, Instagram, and LinkedIn to express their full support for our national 
+grand project and to create awareness about the purpose and intention of the project for the global community during the  process of dam filling. 
+Figure 1.21:  Grand Ethiopian Renaissance Dam
+Activity 1.9
+1. Discuss possible ways that students can raise their voices about high-priority national agendas like the Grand Ethiopian Renaissance Dam as part of a true digital citizenship movement to raise awareness among the global community and policymakers. 
+2. Prioritize and select a community agenda items that needs an awareness creation movement. Then, use digital tools and social media to create campaigns as the community member.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 24UNIT-1Information Systems and  their Applications 
+Unit Summary
+In this unit, you have learnt about:
+• ethical and legal issues in information systems 
+• issues related to the social implications of information systems.
+• issues related to environmental and health implications of Information 
+systems.
+• intellectual property rights and types of intellectual property rights.
+• digital identity management 
+• how to facilitate collaboration through digital technologies
+• how digital collaboration tools can be applied in our daily lives 
+• how you can engage in citizenship through digital technologies.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 25UNIT-1Information Systems and  their Applications 
+Key Terms
+Copyright - A copyright is a type of intellectual property protection that 
+protects original works of authorship, which might include literary works, 
+music, art, and more
+Digital citizenship - refers to the responsible use of technology by anyone 
+who uses computers, the Internet, and digital devices to engage with society on any level.
+Digital collaboration  - means working together and accomplishing goals 
+while using  digital tools and technology. It may consist of anything, such as devices, programs, software, steps, or an entirely new technique.
+Digital identity  is an online or networked identity adopted or claimed in 
+cyberspace by an individual, organization, or electronic device.
+Intellectual property right  - refers to a range of intangible rights of ownership 
+as an asset such as a software program or designed information system
+Information Systems  – are interrelated components working together to 
+collect, process, store, and disseminate information to support decision-making.
+Information Technology (IT)  - is the use of any computers, storage, 
+networking, and other physical devices, infrastructure, and processes to create, process, store, secure, and exchange all forms of electronic data 
+Patent - a patent is a type of limited-duration protection that can be used 
+to protect inventions (or discoveries) that are new, non-obvious, and useful, such as a new process, machine, article of manufacture, or composition of 
+matter.
+Trade secret - refers to specific, private information that is important 
+to a business because it gives the business a competitive advantage in its 
+marketplace
+Trademarks refer to phrases, words, or symbols that distinguish the source 
+of a product or service of one party from another. 
+Social media addiction  is a behavioral addiction characterized by excessive 
+concern for social media, an insatiable want to access or use social media, and a commitment of so much time and energy to social media that it interferes 
+with other crucial facets of life.
+
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 26UNIT-1Information Systems and  their Applications 
+Review Questions
+Part I: Write True if the statment is correct and  False if  it is incorrect.
+1. The concern and questions of ethics and legality are essential in many 
+industries including education. 
+2. Most people have their data spread throughout the digital world which can be accessed by unintended sources. 
+3. Since information technology becomes increasingly influential, ethical and legal considerations are non-relevant and less important. 
+4. In the current digital world, security issues have been resolved by locking a door only. 
+5. To fulfill the objectives of environmental management, technological advancements require systems that can make proper and ethical of information systems and telecommunication infrastructures.
+6. Most people have complex online lives, and they may not even realized how their personal information is being collected and used. 
+Part II: Choose the correct answer from the given alternatives.
+1. Which one of the following is NOT among four pressing ethical and legal issues confronting the industry today.
+A. Data Creation B. Privacy 
+C. Data gathering   D. Digital ownership 
+2. What types of data can be collected from customers’ purchase behavior by companies even without their consent in some cases?
+A. Purchasing patterns, 
+B. Personal preferences, 
+C. Professional/social affiliations  
+D. None
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 27UNIT-1Information Systems and  their Applications 
+3. Which type of information system structure is seen in the environment in 
+which people collaborate to deal with environmental problems?
+A. Environmental Information systems 
+B. Health Information System
+C. Agricultural Information System   
+D. Enterprise Resource Planning System
+4. Health-related negative effects of information system include all ex -
+cept___________.
+A. Adaptability to use technology  
+B. Loss of attention and stress
+C. Sleeping disorders    
+D. Internet addiction
+5. Which one used to protecting inventions, discoveries, expressions of 
+ideas, and creations, like art and writing? 
+A.  Patent  B. Trademark
+C. Trade secret  D. Copyright  
+Part III: Discussion Questions. 
+1. What will be the possible legal consequences of violating ethical issues 
+in our information systems use? 
+2. Discuss the emerging health issues associated with the current digital devices use and systems applications in our day-to-day life 
+3. What are the 3 common components of a digital collaborations? Discuses each component meaning and roles for effective digital collaboration engagements.
+4. What is the role of technology in enhancing digital citizenship?
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 28UNIT-1Information Systems and  their Applications 
+Part IV: Group Case Study 
+1. Explore and select two schools, higher institutions, learning academies, 
+or private business  in your community that are implementing digital collaboration tools for their daily operations. Prepare a case summary document by including
+o the type of the organization you choose and its vision 
+o the types of digital collaboration tools the organizations/schools/institutions are using in their working environments.
+o major educational or business functions supported by those digital collaboration tools. 
+o advantages and limitations encountered while using the selected digital collaboration tools.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 292UNIT EMERGING TECHNOLOGIES  
+Learning Outcomes
+At the end of this unit, students will be able to:
+ Describe the meaning and use of Bigdata 
+ Explain cloud computing and fog computing 
+ Apply cloud computing services
+ Explain the Internet of Things (IoT) and its applications 
+Unit Overview
+Emerging Technology  is a term that is commonly used to describe a new 
+technology, but it can also refer to the evolution of existing technology. It is 
+widely used to describe technologies that are in development or will be available within the next five to ten years. It is usually reserved for technologies that are creating or are expected to create significant social or economic effects. When employed in different contexts, such as media, business, science, and education, it might have slightly different meanings. You have learned selected emerging technology concepts including data science, artificial intelligence (AI), virtual reality, and augmented reality in your grade 11 Information technology (IT) course. This unit addresses some additional selected emerging technologies including Bigdata, cloud computing, fog computing, and internet of things (IoT).
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 30UNIT-2Emerging Technologies 
+2.1. Introduction to Bigdata 
+Brainstorming 2.1
+ What is Bigdata? What makes it different from data?
+We are living in a digital world where a tremendous amount of data is generated by 
+each digital service we use. The amount of data generated is increasing in different  
+dimensions including data sizes.  This vast 
+amount of generated data is leading us to the creation of Bigdata. Bigdata refers to a collection of data sources that are so massive and complex that they become challenging to process using typical data processing software or readily available database management tools (See Figure 2.1).
+Bigdata starts with the exponential explosion  in the amount of data we have 
+generated since the dawn of the digital 
+age. This is largely due to the rise of computers, the Internet, and technology capable of capturing information from the real and physical world we live in, and converting it to digital data that can benefit businesses and organizations (See Figure 2.2).
+In Bigdata collection, the range of 
+organizational sources generating data needs to be identified. These sources include business firms producing transactional data such as point-of-sale software, endpoint devices within IoT ecosystems and marketing firms, Social media posts from existing and prospective customers, multiple additional sources like smartphone locational data, surveys that directly ask customers for information are also some of the sources of Bigdata.  Identifying useful data sources is the start of the Bigdata collection process. From there, an organization must build a pipeline 
+Figure 2.1. Concept of Bigdata
+Figure 2.2. Bigdata source to storage
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 31UNIT-2Emerging Technologies 
+that moves data from generation to enterprise locations where the data will be 
+stored for organizational use. Example – Global companies like Google use Bigdata to understand what users want from it based on several parameters such as search history, locations, trends, and many more. 
+2.1.1  Characteristics of Bigdata 
+Bigdata  is characterized by  5V , namely V olume, Variety, Velocity, Veracity, and 
+Value as stated by tectarget.com. It should also be noted that characteristics of Bigdata are subjected to additional features as scientific research and trend continues in Bigdata analytics. The most common characteristics of Bigdata are discussed by considering the 5 V’s (Figure 2.3).
+Figure 2.3. 5V’ s Characteristics of Bigdata
+•	Variety: Variety of Bigdata refers to the nature of data i.e whether it is  
+structured, unstructured, and semi-structured data. In the past, data could only be collected from spreadsheets and database. Today, data comes in an array of forms such as emails, PDFs, photos, videos, audio, social media posts, and others. Variety is one of the important characteristics of Bigdata (See Figure 2.4). 
+•	Velocity: Velocity refers to the speed at which data is being created in real-
+time. 
+•	Volume: V olume indicates huge ‘volumes’ of data that are being generated 
+daily from various sources, like social media platforms, business processes , 
+machines, networks, human interactions, and others.  
+Figure 2.4. Variety in Bigdata
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 32UNIT-2Emerging Technologies 
+•	Value: Value is the other major issue that we need to concentrate on. It 
+is not just the amount of data that we store or process. It is the amount of 
+valuable, reliable, and trustworthy data that needs to be stored, processed, and analyzed to find insights.
+•	 Veracity :Veracity means the degree of reliability that the data has to offer. 
+Bigdata focuses to find an alternatives way to filter the huge unstructured data to use in business developments.
+Links  
+Unit 2 of Grade 11 IT  Textbook Introduction to Emerging Technologies about 
+structured, unstructured, and semi-structured types of data.
+2.1.2  Benefits of Bigdata 
+Brainstorming 2.2
+ What benefits would a company get from analyzing Bigdata?  
+Bigdata projects help us to cure disease and prevent cancer, maximize crop yields, explore distant planets, predict and respond to natural and man-made disasters, prevent crimes, and more. There are plenty of project initiatives in Ethiopia to benefit from Bigdata. Some institutions taking the initiative to use Bigdata to maximize customer services and properly segment customers data and among the initiatives Ethiopian Airlines, Ethio Telecom, Artificial Intelligence Center, and some banks started  leverage its benefits Bigdata has many advantages. Some of them are discussed as follow.
+•	Customer acquisition and retention: Consumer data can help the marketing efforts of companies, which can act on trends to increase customer satisfaction. For example, personalization engines for Amazon, Netflix, and Spotify can provide improved customer experiences and create customer loyalty.
+•	Targeted advertisements (Ads): Personalization data from sources such as past purchases, interaction patterns, and product page viewing histories can help generate compelling targeted advertising campaigns for users both on the individual level and on a larger scale.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 33UNIT-2Emerging Technologies 
+•	Product development: it allows you to update existing products/services 
+while innovating new ones..
+•	Price optimization: This minimizes the manual work and reduces the possibility of any man-made errors.
+•	Risk management: Bigdata analytics can identify new risks from data patterns for effective risk management strategies.
+•	Improved decision-making: Insights of business users that are extracted 
+from relevant data can help organizations make quicker and better decisions.
+2.1.3  Application of Bigdata 
+Below are some examples of sectors in which Bigdata can contribute by generating value:
+• Healthcare - In the healthcare industry, Bigdata has already begun to make a significant impact. Healthcare analysts use Bigdata to inform health prevention, intervention, and management using a variety of data analytic technologies and approaches. These efforts can improve the patient experience, care efficiency, and quality, and reduce healthcare costs (See Figure 2.5). 
+Patient medical and hospital records, medical exam findings, and information acquired by healthcare testing machines are all examples of Bigdata sources in health care. Apart from that, Bigdata and AI-powered fitness devices, telemedicine, and remote monitoring are all helping to improve lives.  
+• Education - Bigdata can also be utilized to 
+improve education by providing students with 
+a balanced learning plan. Educators can tailor programs for learners based on their grades and attention spans. Students may also be offered blended learning, which combines 
+Figure 2.5. Health application 
+of Bigdata
+Figure 2.6. Education 
+application of Bigdata 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 34UNIT-2Emerging Technologies 
+offline and online learning possibilities (See Figure 2.6). 
+Bigdata is being used by educational institutions to evaluate applications and 
+determine who will be a good fit for the institution and who will not. This has assisted institutions all around the world in shortening the selection process which creates different learning possibilities. Bigdata can improve student experience, academic programming, more effective evidence-based decision-making, and a strategic reaction to shifting global trends. •	Banking - Bigdata solutions can detect fraudulent behaviors in real-time, such as credit/debit card usage, inspection track  archiving, and more. Bigdata 
+analysis also helps banks in their compliance verification, auditing, and reporting processes. This simplifies the processes while lowering overhead costs. Nowadays, people provide comments on a financial institution’s work by phone or on the website, and they share their thoughts on social media (See Figure 2.7).
+•	Agriculture - Smart farming and precision agriculture practices help farmers to save costs and open new business opportunities. Granular information on rainfall patterns, water cycles, fertilizer needs, and other topics is made available to farmers through big data. They can use this information to make wise choices about when to harvest and what crops to grow for maximum profit. Making the proper choices ultimately increases agricultural outputs. 
+• Manufacturing - In the manufacturing sector, Bigdata helps create a transparent infrastructure, predicting uncertainties and incompetence that can affect the business adversely (See Figure 2.9). 
+Figure 2.7. Banking application of Bigdata
+Figure 2.8. Agriculture application of Bigdata
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 35UNIT-2Emerging Technologies 
+Figure 2.9. Manufacturing 
+application of Bigdata 
+• Retail - Bigdata has changed the way traditional retail industry. works. Over the 
+years, retailers have collected a vast amount of data from local demographic surveys, Point of Sale (PoS), scanners, customer cards, and store inventory. Now they  have  started  to  use   this data to create  personalized customer experiences, boost sales, increase  revenue, and deliver  improved customer service (See Figure 2.10).
+• Transportation - The transportation business can also benefit greatly from Bigdata analytics. Both companies and government-run transportation corporations employ Bigdata technologies to optimize route planning, control traffic, manage road congestion, and improve services in countries all over the world. We also use Bigdata in other industries, such as media and entertainment, energy and utilities, government-related activities, and others (See Figure 2.11).
+Figure 2.10. Retail application of 
+Bigdata 
+Figure 2.11. Transportation 
+application of Bigdata 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 36UNIT-2Emerging Technologies 
+Activity 2.1
+• All global companies, including Facebook, Twitter, Amazon, 
+Alibaba, and other global leading companies, have turned to Bigdata as a powerful tool for monitoring their customers’ social media engagements. This help companies to understand how their customers talk about brand experiences by analyzing large volumes of customer experiences feedbacks and suggestions. 
+1. What kind of consumer data will be collected to improve organizations’ service delivery and customer management?
+2. How can businesses analyze and use the data they collect from customers?
+3. What are the potential drawbacks of  using Bigdata technologies and methodologies to analyze customer data?
+2.1.4  Challenges of Bigdata 
+Aside from the benefits, Bigdata also has challenges related to data quality, storage, a 
+shortage of data science experts, validating data, and gathering data from various sources. 
+Even though the challenges of Bigdata and other similar emerging technologies will 
+change over time due to the dynamic and frequent advancement of those technologies, below are some of the current major Bigdata challenges.
+Managing Bigdata Growth - One of the main issues with Bigdata is how to 
+properly store these large amounts of data. Data centers and databases used by 
+businesses are constantly storing more data. Bigdata sets grow quickly over time, making management of them more difficult
+Lack of data professionals -
+ Companies demand skilled data specialists to manage 
+Bigdata solutions. These experts  consist of data scientists, data analysts, and data 
+engineers who are skilled at using the tools to manage  huge data sets. Students who are passionate about data science disciplines can think of studying and practicing concepts related to data science and Bigdata analytics as part of their career plan.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 37UNIT-2Emerging Technologies 
+Securing Data - One of the major difficulties of Bigdata is keeping these enormous 
+sets of data secure. Companies frequently put data security to later phases because they are so busy in understanding, storing, and analyzing their data sets. Attentions is required to protect data repositories unless it serve as a haven for intruders.
+Integrating data from a variety of sources- Data is obtained from different 
+sources in a business and operations. This includes social media pages, company wide software products, customer log files, financial transaction data, email communications, presentations, and reports by employees.  It require to determine which data is most relevant and focus on that to save organization time and money.
+2.2. Cloud Computing 
+Brainstorming 2.2
+ Why do you think the name’ cloud’ is used  for cloud computing? 
+2.2.1  Intr oduction to Cloud Computing
+Cloud computing is defined as storing and accessing data and computing services 
+over the Internet. It does not store any data on your personal computer. Computing services like servers, data storage, networking, databases, etc. are all available on-demand. The main advantage of cloud computing is it gives access to many users from single data center which allows users to store and access their data over the internet without any limitations. 
+We have all experienced cloud computing 
+at some point. The goal of cloud computing is to provide easy and flexible access to computing resources and IT services, various which hardware and software components are required for the proper use of a cloud computing model.
+Figure 2.12. Cloud Computing Basics
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 38UNIT-2Emerging Technologies 
+Peoples are using different types of cloud-based services for their email 
+communications, document management, entertainment and ecommerce services. Examples of cloud-based services includes but not limited to: Gmail, Google Maps, Amazon, Netflix, PayPal, Spotify, Adobe Creative Cloud, Kindle, etc.
+2.2.2  Benefits of Cloud Computing 
+Accessibility and mobility- Users may access their tools from anywhere, at any time, and from any type of devices as long as they are connected to the Internet, which is one of the most significant benefits of the Cloud. 
+The ease of access to data in the cloud enables users to rapidly store and retrieve 
+resources from distant servers, work from any location with an internet connection, and communicate with peers without being physically present in the same space.  Users do not lose any data if their services fail because the Cloud service provider backs up their data (See Figure2.13).
+This greatly helps the implementation of 
+inclusive education which is schools for everybody through support learning and respond to individual needs. Cloud based services support to include inclusive technologies like voice recognition, mind mapping, word prediction, text to speech for editing etc. to accommodate special needs learners. 
+Flexibility-  Services become entirely adaptable and can be changed at any time 
+to meet users’ needs and commercial requirements. User can restrict or enhance 
+the available resources while paying only for what is used. Another benefit is that resources can be shared, allowing users to collaborate in real-time on the same content in all domain and work environments (See Figure 2.14).
+Updating and scalability – The service provider, as well as taking care of 
+maintenance, takes care of all service updates, which allow users  to focus more effectively on our work and responsibilities while increasing our efficiency . 
+Figure 2.13. Accessibility and mobility
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 39UNIT-2Emerging Technologies 
+Optimized security- When compared to 
+traditional and internal infrastructures, Cloud Computing provides enhanced security. Companies are finding it increasingly difficult to effectively secure their own IT systems due to a lack of time, expertise, and budget (Figure 2.15).Controlled costs- The other advantage is that Cloud Computing allows for greater control of costs  IT infrastructure. We can adjust the resources allocated to its infrastructure depending on its needs by increasing or decreasing the resources available. By subscribing to Cloud Computing services, users or companies pay only for what they used (Pay as you go model). This helps users to no longer deal with costs relating to maintenance and renew computer equipment (servers, computers, etc.) Companies and users can reduce their IT investments and optimize their operational and business costs (Figure 2.16)Example- Let’s think that you plan to publish your designed website activity.
+ Now you want to host your website and 
+make it public. Thus, here you have two possible options 
+Option 1-   Buying physical server and 
+hosting it in your data room by getting a public Internet Protocol (IP) address 
+Figure 2.14. Flexibility
+Figure 2.16. Controlled Cost different 
+users getting different services
+Figure 2.15. Optimized Security
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 40UNIT-2Emerging Technologies 
+from your service provider .
+LINK - See Unit 4 of Grade 9 and Grade 10, IT textbooks about computer networks 
+and IP addresses for more details. Then, you need to install an operating system on the server and web services to run your website. Now you are ready to publish your website, but the issue is that you have already invested a lot of time and money in getting your site available on the Internet. Right from buying server hardware to hosting it in a data center, the process costs you lots of money and time. This was a common situation a decade  ago (See Figure 2.17). Now we have another alternative, a Cloud-based service to host our websites. 
+ 
+Option 2. In Cloud-based services like website hosting, you do not need to buy new server hardware of your own rather you can borrow it for any time as long as you get at less price, which can save both money and time. Secondly, you do not have to manage operating systems and web services on your own, rather a cloud service provider manages them. You get a button to upload your website content, and once data is uploaded, your website content is available to the public. This process costs you much less money and gets ready in a few minutes (See Figure 2.18). This can be a simple example to understand the benefits of cloud computing. The benefits of cloud services are applicable to different services which are covered in the next section.
+Figure 2.17. Publishing website without 
+cloud technology
+Figure 2.18. Publishing website on 
+Cloud technology
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 41UNIT-2Emerging Technologies 
+Activity 2.2
+1. Mention at least 2 cloud services you have used before for your 
+academic and social activities. Explain how you started to use it and what benefits you get from the services.
+2. Download and Install Cloud based file-sharing application. Then upload documents and practice file sharing among your friends or families  
+2.2.3  Limitations of Cloud Computing 
+Cloud computing are not without their limitations. However, It’s critical to weigh both the benefits and limitations of a new service before choosing if it is the best fit 
+for us. Below are some of the limitations of cloud computing:   
+- Server downtime – No cloud provider can guarantee that you will not have 
+service interruptions, which will prevent you from accessing your data or files. Because cloud computing is dependent on an Internet connection, if it goes down, so will your cloud services. 
+- Security and privacy issues – When it comes to handling sensitive data, companies are always concerned about how safe and private it is. There is still a risk of intruders, even though a cloud provider would have security processes in place to ensure that your data is maintained and protected properly. Intruders are constantly attempting to find new ways to break into cloud providers’ systems in today’s digital world. Therefore, cloud computing services are not completely safe.
+- Data ownership and transparency – Companies may think that there is a lack of transparency concerning data ownership. Does data that is uploaded to a cloud computing system become the cloud provider’s property? Another concern is lack of data openness. Companies may be concerned about how their data is managed and whether it is being compromised or not.
+- Inflexibility – Some cloud computing providers may take a corporation off guard by requiring the usage of their applications and formats. For example, they can limit that a corporation can only upload data developed 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 42UNIT-2Emerging Technologies 
+in a specific application program. Because the cloud provider has complete 
+control over your cloud service infrastructure, they have ultimate authority over how your data is handled.
+- Lack of support  – Cloud-based services, in comparison to other hosting 
+services and providers, provide minimal to no customer assistance. Customers who are unable to contact cloud providers by phone or email frequently turn to Internet forums for answers to their questions.
+- Cost – Another disadvantage of this service is the unknown fees. Although 
+cloud hosting eliminates the need for on-site infrastructure, it is often necessary to ensure that you are paying for all of the features that your organization needs to get the most out of the service. A cloud computing 
+service can become costly in this regard.
+2.2.4  T ypes of Cloud Computing 
+There are mainly four types of cloud computing available currently, namely:
+1. public cloud
+2. private cloud
+3. hybrid cloud
+4. community cloud 
+Public cloud– It is a standard cloud computing model where a service provider’s 
+resources are shared across different clients (See Figure 2.19). For example,  if you 
+rent 10GB of public cloud storage, you will get the requested capacity of a disk from a bigger chunk of a single storage device that is logically divided into small parts and distributed to multiple users isolated to make it private across different clients.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 43UNIT-2Emerging Technologies 
+Figure 2.19. Public cloud
+Private cloud – As the name indicates, 
+the private cloud has all resources dedicated to your application. It can be either from a cloud service provider or your company’s data center. It gives complete control over data security and privacy. The private cloud provides an additional layer of protection to process sensitive and confidential information (Figure2.20).
+Figure 2.20. Private cloud
+Hybrid cloud  – It is the combination of 
+public cloud and private cloud. You can 
+host your public service in the public 
+cloud, and confidential and data-related services in the private cloud. It offers a 
+very flexible and comprehensive benefit 
+of both models (See Figure 2.21).
+Figure 2.21. Hybrid cloud
+Community cloud – It is a collaborative, 
+multi-tenant platform used by several 
+distinct organizations to share the same 
+applications. The users are typically operating within the same industry 
+or field and share common concerns 
+in terms of security, compliance, and performance (See Figure2.22). 
+Figure 2.22. Community cloud
+In essence, a community cloud is a private cloud that functions much like 
+a public cloud. The platform itself is 
+managed privately, either in a data 
+center or on-premises. Governmental 
+institutions, healthcare facilities, 
+financial services companies, and other 
+professional communities frequently 
+use this solutions.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 44UNIT-2Emerging Technologies 
+2.2.5  Cloud Computing Services
+There are several cloud computing services. The three major cloud computing 
+services are: 
+- Software as a Service (SaaS) 
+- Platform as a Service (PaaS)
+- Infrastructure as a Service (IaaS)  
+Figure 2.23. Cloud Computing Services
+Different businesses use some or all of these components according to their requirements.Software as a Service (SaaS) - SaaS is a software distribution model in which 
+applications are hosted by a vendor or service provider and made available to customers over a network or the Internet. SaaS is becoming an increasingly prevalent delivery model as underlying technologies supports of web services. Through the Internet, this service is available to users anywhere in the world. Traditionally, software applications needed to be purchased upfront and then installed onto your computer. SaaS users on the other hand, , subscribe to it, usually on a monthly or yearly basis using the Internet.
+Figure 2.24. Hybrid cloud
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 45UNIT-2Emerging Technologies 
+SaaS is compatible with all Internet-enabled devices. Many important tasks like 
+accounting, sales, invoicing, and planning can be performed using SaaS (Figure 2.24).
+o Examples of SaaS - are Google Workspace, Dropbox, Microsoft 
+Office 365, Slack, Cisco WebEx, Concur, GoToMeeting, and many more.
+Platform as a Service (PaaS) - provides a platform and environment to allow  
+developers to build applications and services. This service is hosted in the cloud and accessed by the users via the Internet. To understand this, let us compare it with painting a picture, where you are provided with paint colors, different painting brushes, and paper by your school teacher, and you just have to draw a beautiful picture using those tools. Similarly, PaaS provides a platform to support application development (See Figure 2.25). It includes software support and management services, storage, networking, deploying, testing, collaborating, hosting, and maintaining applications.
+- Examples of PaaS  – are Windows Azure, Heroku, Force.com, 
+Google App Engine, Apache Stratos, OpenShift, and many more.
+Infrastructure as a Service (IaaS)- IaaS is one of the fundamental service models 
+of cloud computing, alongside PaaS. It provides access to computing resources in a virtualized environment- “the cloud”- on the Internet (See Figure 2.26). IaaS is a complete package for computing. For small-scale businesses that are looking for cutting costs on IT infrastructure, IaaS is one of the solutions. 
+- Examples of IaaS are - Amazon Web Services (AWS), Cisco 
+Metapod, Microsoft Azure,  Google Compute Engine (GCE), and many more.
+Figure 2.25. Platform as a Service (PaaS)
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 46UNIT-2Emerging Technologies 
+Figure 2.26. Infrastructure as a Service (IaaS)
+Activity 2.3
+1. Discuss the three types of cloud computing with their benefits
+2. Why is SaaS becoming an increasingly popular  delivery model for web 
+services?
+3. Mention any cloud-based services that are currently being used in Ethiopia  through SaaS and PaaS cloud computing services models  
+2.3. Fog Computing 
+Brainstorming 2.3
+ What are the difference and similarities between Cloud Computing and Fog Computing?
+Fog computing  is an extension of the cloud. Cloud Computing relies heavily on the 
+bandwidth made available, which depends on the capacity of the network service provider. With billions of users processing, sending, and receiving data in and out of the cloud, the system becomes increasingly congested.
+Fog computing uses the concept of ‘fog nodes’ which are located closer to the 
+data source and have a higher processing and storage capability. Fog provides the 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 47UNIT-2Emerging Technologies 
+missing link for what data needs to be pushed to the cloud, and that can be analyzed 
+locally, at the edge. This makes fog nodes to process data quicker than sending the request to the cloud for centralized processing.
+What distinguishes fog computing from cloud computing is its closer proximity to 
+small end-users, its wider consumer reach, and better mobility. Rather than requiring devices to go through the network backbone infrastructure, fog computing permits devices to connect directly with their destination with ease and allows them to handle their connections and tasks in any way they see fit. As a result, fog computing improves the quality of service, reduces latency, and enhance  user experience.
+Fog computing smoothly supports 
+the emerging Internet of Things (IoT) physical things (vehicles, home appliances, and even clothes) that are embedded with sensors to enable them to send/receive data. This advantage makes it easier to run a real-time, Big-Data operation with the ability to support billions of nodes in highly dynamic and diverse environments.
+For example
+ – we can apply fog computing in video surveillance, where continuous 
+streams of videos are large and cumbersome to transfer across networks. 
+Activity 2.4
+1. Why do we need to use fog computing instead of cloud computing?
+2. Due to the introduction of fog computing, what types of cloud services 
+will be more efficient and usable? Bring real-life examples based on your previous online service user  experiences.
+Figure 2.27. Fog Computing
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 48UNIT-2Emerging Technologies 
+2.4. Internet of Things (IoT)
+Brainstorming 2.4
+ Have you considered using the Internet for other purposes other than 
+social media and information retrieval? How?
+The Internet was created in the late 1990s and is now more than 30 years old, with 
+over 2 billion people using computers, cellphones, and tablets to access it.
+As per the definition of Oracle.com,  Internet of Things (IoT)  is a network of 
+physical objects or people referred to as “things” that are equipped with software, electronics, networks, and sensors to collect and exchange data (Figure2.28). The 
+term has recently been added to the Oxford dictionary and is defined as: “The 
+interconnection via the Internet of computing devices embedded in everyday 
+objects, enabling them to send and receive data”.
+Figure 2.28. Internet of Things
+IoT aims at extending Internet connectivity beyond computers and smartphones to 
+other devices people use at home, or for business. The technology allows devices to be controlled across a network infrastructure remotely. As a result, it cuts down human effort and paves the way for accessing connected devices easily. With remote control, the devices can be used  without involving human interaction. IoT makes things virtually smart through Artificial Intelligence algorithms, data collection, 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 49UNIT-2Emerging Technologies 
+and networks to enhance our lives.
+Figure 2.29. IoT smart wearable and devices  
+IoT aims to provide Internet access to relatively simple equipment like a toaster 
+from commonplace ones like PCs, mobile phones, and tablets. With the power of data collecting, AI algorithms, and networks, IoT transforms almost everything into a “smart” system. The thing in IoT can also be a person with a diabetes monitor implant, an animal with tracking devices, etc. Some examples of IoT are animal tracking devices, diabetes monitors, AC sensors to adjust the temperature based on the outside temperature, and smart wearables (See Figure 2.29).
+Links  
+Refer to Grade 11 IT Textbook about Artificial Intelligence (AI) 
+When something connects with the Internet, it has both the capabilities of sending and/or receiving information and making it smart. IoT is creating lots of opportunities by linking computer systems with the real, and physical world.
+For example : Just  a few years ago, when you wanted to listen to your favorite 
+songs on your mobile phone, you had to download each song. Nowadays, you can 
+listen to any music you want without downloading it. All you need to do is access it where it is stored on the Internet.
+2.4.1  Major  advantages of IoT
+Efficiency- We can gather trustworthy and secure real-time data thanks to IoT, and 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 50UNIT-2Emerging Technologies 
+we can then translate it into really useful information for enterprises. This helps to 
+reduce the consumption of resources to improve our efficiency and productivity. For example, if you want to find the answer to a question, instead of browsing on your phone or turning your computer on, you can just ask a voice assistant such as Siri, Alexa, Google Home, Cortana, and more.
+Technical optimization - You no longer have to operate multiple devices for each 
+task manually if you use an IoT system because it allows you to control everything 
+using a single device like your smartphone. You can easily control Television (TV) volumes, thermostats, and dim your lights, etc.
+Convenience- IoT can provide quick and quality solution by improving customer 
+experience.
+Improved customer experience- As you can offer your targeted customers what 
+they need, you can understand their pain points, and provide quick and quality 
+solutions. This improves the customer experience.
+Conservation- IoT helps to conserve the environment by monitoring traffic, water/
+electricity usage, air quality, etc..Smart cities are developing and it also assists city planners and residents in finding solutions to problems.
+Personalization- As IoT devices can collect your data, they can learn your 
+preferences, likes, and dislikes quickly. As a result, they trigger more personalized 
+services based on your choices.
+Some Limitations of IoT Security and privacy - IoT devices are evolving and becoming more widely used, 
+making it difficult to keep the data they collect and transmit secure. IoT devices are being used in more sensitive industries, like healthcare and banking, which raises concerns about data protection. Global information privacy regulations are also becoming effective, so protecting data is not only beneficial from a commercial standpoint but is also required by law.
+Connectivity and power dependence - For many devices to operate successfully, 
+the internet and constant power are required. When either goes down, everything 
+connected to it and the device also do.
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 51UNIT-2Emerging Technologies 
+Complexity and Integration - IoT is an advanced technology whose design is 
+quite complicated. Plus, maintenance and deployment are also not easy for some 
+IoT solutions. IoT protocols and standards are still subject to discussion, therefore devices made by various manufacturers may not be compatible with current hardware. It may be challenging to integrate effectively because each one may need various hardware connections and setups.
+Higher Cost - IoT device deployment frequently requires a significant time and 
+financial investment. There are numerous devices that need to be purchased, setup, 
+and installed by professionals. This causes a subsequent exponential increase in cost.
+2.4.2  How Does IoT  Work?
+A complete IoT system integrates four component.
+1. Sensors/devices - First, sensors or devices collect data from their 
+environment. Multiple sensors can be bundled together or sensors can be part of a device that does more than just sense things. For example, smart mobile phone is a device that may have multiple sensors (camera, accelerometer, etc.), but your phone is not just a sensor. There are plenty of sensor types which can be used based on the purpose. 
+•	Examples includes temperature sensors, proximity sensors, humidity sensors, smoke sensors, water quality sensors, infrared sensors, motion sensors etc. 
+2. Connectivity - The collected data is sent to the cloud through a variety of 
+methods including cellular, satellite, Wi-Fi, Bluetooth, or connecting di-rectly to the Internet via Ethernet. Choosing which connectivity option as -
+sociated to the specific IoT application required. 
+3. Data Processing-  The software processes the data after it is transferred 
+to the cloud. This could be very simple, like making sure the temperature reading is within permissible limits, or highly complicated, like utilizing computer vision to detect things in the video (like intruders in your house). But what happens if the temperature gets too high or if someone breaks into your home? The users might steps in at this point as required.  
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 52UNIT-2Emerging Technologies 
+4. User Interface-  Next, the information is made available to the end-user 
+through an alert to the user (email, text, notification, etc.). Depending on 
+the IoT application, the user may also perform an action and affect the system. For example, the user might remotely adjust the temperature in the cloud storage via an app on their phone, or system could take actions automatically based on  predefined rules. Example - Instead of calling or texting the user to alert of an intruder, the IoT system could be configured to automatically notify relevant authorities or agencies including security and legal offices.
+For example, the user might remotely adjust the temperature in the cloud storage via an app on their phone, and some actions are performed automatically. Rather than waiting for you to adjust the temperature, the system could do it automatically via predefined rules. It instead of calling you to alert you of an intruder, the IoT system could also automatically notify relevant authorities or agencies as per the prior configuration.
+2.4.3  Application of Internet of Things
+Technology-based innovations like IoT are going to have a vital role in areas such 
+as healthcare, economy, marketing, finance and banking, and government sectors. 
+It uses advanced levels of automation, connectivity, and customization. See below for some of the common IoT application areas and their respective examples. Make further online research to understand the details of mentioned applications as required. 
+Figure 2.30. IoT components 
+
+--- [PAGE BREAK] ---
+
+ Informat Ion technology   grade 12 ~ Student  textbook 53UNIT-2Emerging Technologies 
+Smart Home- Smoke detector, light bulbs, appliances, door and window locks, pet 
+monitoring camera, smart thermostat.  (See Figure 2.31).
+Smart City-Traffic Management, Waste management, and Water Distribution (Fig 
+2.32).
+Supply chain- Real-time goods tracking and getting inventory information.
+Connect Health- Patient care, calorie expenditure, heart rate pattern, temperature, 
+activity levels, etc.
+Connected cars- Automobile companies can automatically perform billing, 
+insurance, parking, and more.
+Figure 2.31. Smart Home 
+Figure 2.32. Smart City IoT Traffic 
+Management 

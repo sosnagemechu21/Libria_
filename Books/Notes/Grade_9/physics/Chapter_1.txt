@@ -1,0 +1,1929 @@
+=================================================================
+Book: physics.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+PhysicsPhysics
+Student Textbook Student Textbook
+Grade 9Grade 9
+FEDERAL DEMOCRATICFEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIAREPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONMINISTRY OF EDUCATIONFEDERAL DEMOCRATICFEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIAREPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONMINISTRY OF EDUCATION
+Physics Student Textbook – Grade 9Physics Student Textbook – Grade 9
+
+
+--- [PAGE BREAK] ---
+
+Physics
+Student Textbook
+Grade 9
+Contributors:
+Menberu Mengesha (Ph.D), Writer
+Nebiyu Gemechu (Ph.D), Writer
+Moges Tsega (Ph.D), Content Editor
+Samuel Asefa (Ph.D), Curriculum Editor
+Felekech G/Egziabher (Ph.D), Language Editor
+Umer Nuri (MSc), Illustrator
+Derese Tekestebrihan (Ph.D fellow), Book Designer
+Evaluators:
+Girmaye Defar (MSc)
+Dessie Melese (MSc)
+Zafu Abraha (MSc)
+
+
+--- [PAGE BREAK] ---
+
+iv
+First Published by the Federal Democratic Republic of Ethiopia, Min-
+istry of Education, under the General Education Quality Improvement Program
+for Equity (GEQIP-E) supported by the World Bank, UK’s Department for Inter-
+national Development/DFID-now merged with the Foreign, Common wealth
+and Development Ofﬁce/FCDO, Finland Ministry for Foreign Affairs, the Royal
+Norwegian Embassy, United Nations Childrenâ ˘A´Zs Fund/UNICEF), the Global
+Partnership for Education (GPE), and Danish Ministry of Foreign Affairs, through
+a Multi Donor Trust Fund.
+©202 by the Federal Democratic Republic of Ethiopia, Ministry of Education.
+All rights reserved. The moral rights of the author have been asserted. No part
+of this textbook reproduced, copied in a retrieval system or transmitted in any
+form or by any means including electronic, mechanical, magnetic, photocopying,
+recording or otherwise, without the prior written permission of the Ministry of
+Education or licensing in accordance with the Federal Democratic Republic of
+Ethiopia as expressed in the Federal Negarit Gazeta, Proclamation No. 410/2004 -
+Copyright and Neighboring Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups and
+other bodies involved â ˘A¸ S directly or indirectly - in publishing this Textbook.
+Special thanks are due to Hawassa University for their huge contribution in the
+development of this textbook in collaboration with Addis Ababa University, Bahir
+Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the owner of
+copyrighted material not cited or improperly cited, please contact the Ministry of
+Education, Head Ofﬁce, Arat Kilo, (P .O.Box 1367), Addis Ababa Ethiopia.
+GRAVITY GROUP IND LLC 
+P.O.Box 13TH Industrial Area, Sharjah  
+UNITED ARAB EMIRATES
+Under Ministry of Education     
+ISBN: 978-99990-0-032-1 Printed by :2023 August
+3
+Contract no MOE/GEQIP E/LICB/G 01/23 . - -
+
+--- [PAGE BREAK] ---
+
+Contents
+1 Physics and Human Society 1
+1.1 Deﬁnition and Nature of Physics . . . . . . . . . . . . . . . . . . . 2
+1.2 Branches of Physics . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.3 Related Fields to Physics . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.4 Historical Issues and Contributors . . . . . . . . . . . . . . . . . . 5
+2 Physical Quantities 11
+2.1 Scales, Standards, Units (preﬁxes) . . . . . . . . . . . . . . . . . . . 12
+2.2 Measurement and Safety . . . . . . . . . . . . . . . . . . . . . . . . 20
+2.3 Classiﬁcation of Physical Quantities . . . . . . . . . . . . . . . . . 26
+2.4 Unit conversion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+3 Motion in a Straight Line 39
+3.1 Position, Distance and Displacement . . . . . . . . . . . . . . . . . 40
+3.2 Average Speed and Instantaneous Speed . . . . . . . . . . . . . . . 45
+3.3 Average Velocity and Instantaneous Velocity . . . . . . . . . . . . 47
+3.4 Acceleration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+3.5 Uniform Motion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+3.6 Graphical Representation of Motion . . . . . . . . . . . . . . . . . 53
+4 Force, Work, Energy and Power 63
+4.1 The Concept of Force . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+4.2 Newton’s Laws of Motion . . . . . . . . . . . . . . . . . . . . . . . 66
+4.3 Forces of Friction . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+4.4 The Concept of Work . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+4.5 Kinetic and Potential Energies . . . . . . . . . . . . . . . . . . . . . 76
+4.6 Power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+5 Simple Machines 85
+5.1 Simple Machines and their Purposes . . . . . . . . . . . . . . . . . 86
+5.2 Simple Machines at Home . . . . . . . . . . . . . . . . . . . . . . . 89
+5.3 Simple Machines at Work Place . . . . . . . . . . . . . . . . . . . . 91
+5.4 Classiﬁcation of Simple Machines . . . . . . . . . . . . . . . . . . 93
+5.5 Mechanical Advantage, Velocity Ratio and Efﬁciency of Simple
+Machine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+
+--- [PAGE BREAK] ---
+
+vi CONTENTS
+5.6 Designing Simple Machine . . . . . . . . . . . . . . . . . . . . . . . 113
+6 Mechanical Oscillation and Sound Wave 119
+6.1 Common Characteristics of Waves . . . . . . . . . . . . . . . . . . 120
+6.2 String, Pendulum and Spring . . . . . . . . . . . . . . . . . . . . . 122
+6.3 Propagation of Waves and Energy Transmission . . . . . . . . . . 129
+6.4 Sound Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+6.5 Superposition of Waves . . . . . . . . . . . . . . . . . . . . . . . . . 137
+6.6 Characteristics of Sound Waves . . . . . . . . . . . . . . . . . . . . 138
+7 Temperature and Thermometry 145
+7.1 Temperature and Our Life . . . . . . . . . . . . . . . . . . . . . . . 146
+7.2 Extreme Temperature Safety . . . . . . . . . . . . . . . . . . . . . . 148
+7.3 Temperature Change and its Effects . . . . . . . . . . . . . . . . . 149
+7.4 Measuring Temperature with Different Thermometric Scales . . 152
+7.5 Types of Thermometers and Their Use . . . . . . . . . . . . . . . . 158
+7.6 Conversion between Temperature Scales . . . . . . . . . . . . . . 162
+7.7 Thermal Expansion of Materials . . . . . . . . . . . . . . . . . . . . 166
+
+--- [PAGE BREAK] ---
+
+Unit 1
+Physics and Human Society
+Introduction
+Brainstorming
+Questions
+tExplain science
+and its broad cate-
+gories.
+tWhat are the
+main branches of
+natural science?You learnt about general science in lower grades. General science includes sub-
+jects like Biology, Chemistry and Physics. Therefore, in this grade level and in
+higher grades, you will learn about each of the three subjects and explore their
+beauty. In this unit you will learn about physics and the human society. In par-
+ticular, you will learn about deﬁnition of physics, different branches of physics,
+relationship between physics and other ﬁelds of study, contributions of promi-
+nent scientists in advancing physics, and the way physics knowledge was evolving
+and changing in history.
+At the end of this unit, you should be able to:
+• deﬁne physics in different ways;
+• describe the different branches of physics;
+• describe the relationships between physics and other ﬁelds of study;
+•discuss the contributions of prominent scientists in advancing physics at
+different periods of time;
+•describe how aspects of physics are used in other sciences (e.g. biology,
+chemistry, engineering, etc.) as well as in everyday technology; and
+• discuss how physics knowledge was evolving and changing in history.
+
+--- [PAGE BREAK] ---
+
+2 Unit 1 Physics and Human Society
+1.1 Deﬁnition and Nature of Physics
+At the end of this section, you should be able to:
+• deﬁne physics in different ways.Exercise 1.1
+tIn your own
+words, deﬁne what
+physics is.
+tName other tech-
+nological products
+in your locality that
+rely on the principle
+of physics.Have you ever thought about some modern technological devices such as
+computers, smart phones, tablets etc? Also think about the fact that our histor-
+ical heritages such as Harar Jugol, Fasciledes Castle, the Obelisk of Axum and
+rock-hewn churches of Lalibela buildings have kept their balance and survived
+for hundreds of years. The working principles of all these rely on physics.
+The word physics is thought to have come from the Greek word phusis, mean-
+ing nature. Hence, physics is a branch of natural science aimed at describing the
+fundamental aspects of our universe. These include what things are in it, what
+properties of those things are noticeable, and what processes those things or
+their properties undergo. In simpler terms, physics attempts to describe the basic
+mechanisms that make our universe behave the way it does. For example,
+Activity 1.1
+tBy discussing in
+groups, mention im-
+portance of physics
+other than those
+mentioned above.
+tWhat other physi-
+cal phenomena may
+you understand in
+your locality using
+physics?
+tWhat is a physi-
+cist?•Physics enables you to understand the working principles of cars, airplanes,
+space-rockets, refrigerators, radios, televisions,etc as well as many of your
+daily utensils and tools.
+•Physics explains physical phenomena such as the difﬁculty of walking on a
+smooth plane, and why an electric fan rotates etc.
+•Physics helps you discover some of the unknown parts of nature and makes
+you familiar with the modern world.
+•Physics helps you to understand some concepts in other subjects like:
+Biology, Chemistry, Geology, Astronomy, etc.
+Studying physics helps you understand concepts, relationships, principles
+and laws of nature. A person who studies physics is called a physicist. In addi-
+tion to understanding the concepts, relationships, principles and laws of nature,
+studying physics has various career opportunities. Some of te ﬁelds in which
+physics is applicable include:
+• The ﬁeld of transportation
+• The ﬁeld of aviation and space science
+
+--- [PAGE BREAK] ---
+
+1.2 Branches of Physics 3
+• The ﬁeld of medicine
+• The ﬁeld of forensic and military science
+• the ﬁeld of meteorology and metrology etc
+1.2 Branches of Physics
+At the end of this section, you should be able to:
+• describe the different branches of physics.
+As our technology evolved over the centuries, physics has expanded into
+many branches. Some of the branches of physics are summarized in Table 1.1.Key Concept:
+tPhysics is a
+branch of natu-
+ral science that
+attempts to describe
+the basic mecha-
+nisms that make our
+universe behave the
+way it does.
+Exercise 1.2
+tList as many physical phenomena in your surroundings as you can.
+Describe in which branch of physics each physical phenomenon can be
+categorized.
+Key Concept:
+tThe branches of physics include: Mechanics, Acoustics, Optics, Ther-
+modynamics, Electromagnetism, Nuclear Physics, etc.
+1.3 Related Fields to Physics
+At the end of the lesson, you should be able to:
+• identify different general ﬁelds of physics and their applications in life;
+•discuss the relationships between physics and other sciences and ﬁelds
+like transport, trafﬁc, quality control and standards, etc.Activity 1.2
+tDiscuss in groups
+and list some other
+ﬁelds or areas of sci-
+ence where physics
+is applicable.
+Physics is the foundation of many important scientiﬁc disciplines. Some of
+them are discussed below.
+•Chemistry: Chemistry deals with the interactions of atoms and molecules.
+However, it is rooted in atomic and molecular physics.Key Concept:
+tPhysics is the
+foundation of many
+important scientiﬁc
+disciplines including,
+Chemistry, Engi-
+neering, Geology,
+Biophysics, Geo-
+physics, Medical
+Physics etc.
+
+--- [PAGE BREAK] ---
+
+4 Unit 1 Physics and Human Society
+Table 1.1 Some branches of physics and their descriptions
+Branch Description
+Mechanics Mechanics is the branch of physics which deals with the
+motion of an object without or with the reference of force.
+Mechanics can be further divided into two branches namely
+quantum mechanics and classical mechanics. Quantum
+mechanics deals with the behavior of smallest particles like
+neutrons, protons, and electrons, while classical mechanics
+is the branch that deals with laws of motion of forces and
+physical objects.
+Acoustics Acoustics is the branch of physics which deals with the study
+of sound and its transmission, production, and effects.
+Optics Optics is the branch of physics which deals with the behav-
+ior, propagation, and properties of light.
+Thermodynamics Thermodynamics is the branch of physics which studies
+thermal energy and the transfer of heat.
+Electromagnetism Electromagnetism is the branch of physics which deals with
+the study of electromagnetic force like electric ﬁelds, light,
+magnetic ﬁelds, etc. There are two aspects of electromag-
+netism which are "electricity" and "magnetism"
+Nuclear physics Nuclear physics is the branch of physics which deals with
+the structure, properties and reactions of the nuclei of
+atoms.
+Astrophysics Astrophysics is a science that employs the methods and
+principles of physics in the study of astronomical objects
+and phenomena.
+•Engineering: Most branches of engineering also apply physics. For exam-
+ple, in architecture, physics is at the heart of determining structural stability,
+acoustics, heating, lighting, and cooling for buildings.
+•Geology: Parts of geology, the study of nonliving parts of Earth, rely heavily
+on physics; including radioactive dating, earthquake analysis, and heat
+transfer across Earth’s surface.
+•Biophysics: Biophysics applies principles and methods used in physics to
+study biological phenomena.Physics uses mathematical laws to explain the
+
+--- [PAGE BREAK] ---
+
+1.4 Historical Issues and Contributors 5
+natural world, and it can be applied to biological organisms and systems to
+gain insight into their workings.
+•Geophysics: Geophysics applies the principles and methods of physics to
+the study of the Earth
+•Medical Physics: Diagnostics and medical therapy, such as x-rays, mag-
+netic resonance imaging (MRI), and ultrasonic blood ﬂow measurements
+involves principles of physics.
+1.4 Historical Issues and Contributors
+At the end of the lesson, you should be able to:
+•recognize at least three issues and four prominent physicists with signiﬁ-
+cant contributions to the development of physics;
+•collect and use pictures and texts from a library and the internet to present
+prominent ﬁgures in the history of physics.
+Over the last few centuries, the growth of scientiﬁc knowledge has resulted
+in ever-increasing specialization and branching of physics into separate ﬁelds.
+Physics, as it developed from the renaissance to the end of the 19th century, is
+called classical physics . Revolutionary discoveries starting at the beginning of
+the 20thcentury transformed physics from classical physics to modern physic s.
+Many laws of classical physics have been modiﬁed during the 20thcentury, re-
+sulting in dramatic changes in technology, society, and our view of the universe.
+Discoveries of physics ﬁnd applications throughout the natural sciences and in
+technology. Some of the physics discoveries that changed the world are discussed
+below. .
+•Isaac Newton contributions laid the foundations for classical physics/clas-
+sical mechanics. He contributed to the Scientiﬁc Revolution of the 16th and
+17th century by formulating three laws of motion, known as Newtonâ ˘A´Zs
+laws of motion and showed how the principle of universal gravitation could
+be used to explain the behavior not only of falling bodies on the earth but
+also planets and other celestial bodies in the heavens.
+
+--- [PAGE BREAK] ---
+
+6 Unit 1 Physics and Human Society
+•Michael Faraday contributed a lot to the ﬁeld of electromagnetism. In 1821
+he succeeded in producing mechanical motion by means of a permanent
+magnet and an electric current. Ten years later he converted magnetic force
+into electrical force, thus inventing the world’s ﬁrst electric generator.In
+general Michael Faraday changed the world with magnet.
+•James Prescott Joule studied the nature of heat, and discovered its rela-
+tionship to mechanical work. This led to the law of conservation of energy.
+Joule’s work helped lay the foundation for the ﬁrst of three laws of thermo-
+dynamics that describe how energy in our universe is transferred from one
+object to another or transformed from one form to another.
+•Marie Curie conducted pioneering research in the ﬁeld of nuclear physics,
+particularly on radioactivity. She is considered as the mother of modern
+nuclear physics. She discovered elements polonium and radium.
+•Albert Einstein is known for developing theory of relativity. This revolution-
+ary theory had a profound impact on classical mechanics and the under-
+lying philosophy of physics. He is widely acknowledged to be one of the
+greatest physicists of all time. Einstein also made important contributions
+to the development of the theory of quantum mechanics.
+Exercise 1.3
+tMention some other well-known historical contributors in physics and
+describe their roles.
+Key Concept:
+tRevolutionary discoveries starting at the beginning of the 20th century
+transformed physics from classical physics to modern physics. Many laws
+of classical physics have been modiﬁed during the 20thcentury, resulting
+in dramatic changes in technology, society, and our view of the universe
+
+--- [PAGE BREAK] ---
+
+1.4 Historical Issues and Contributors 7
+Unit Summary
+The following are the main points you learnt in this unit.
+•Science is a systematized knowledge arising from observation, study
+and experimentation.
+•Physics is the branch of natural science which describes the basic
+mechanisms that make our universe behave the way it does.
+• Physics is the study of everyday phenomena.
+• A person who studies physics is called a physicist.
+•Physics has several branches such as mechanics, acoustics, optics,
+thermodynamics, electromagnetism, nuclear physics, astrophysics
+etc.
+•Physics is the foundation of many important scientiﬁc disciplines
+such as chemistry, engineering, geology, biophysics, geophysics,
+medical physics, etc.
+•There are several well-known scientists and engineers that have
+contributed a lot for the advancement of physics.
+End of Unit Questions
+1.The Greek word ’phusis’ for nature is appropriate in describing the
+ﬁeld of physics. Which one of the following is the best answer for
+this?
+(a) Physics is a natural science that studies life and living organ-
+isms on habitable planets like Earth.
+(b) Physics is a natural science that studies the laws and principles
+of our universe.
+(c) Physics is a physical science that studies the composition,
+structure, and changes of matter in our universe.
+(d) Physics is a social science that studies the social behavior of
+living beings on habitable planets like Earth.
+2.A moving car suddenly comes to a rest after applying brakes. Which
+
+--- [PAGE BREAK] ---
+
+8 Unit 1 Physics and Human Society
+branch of physics do you think is appropriate to explain this phe-
+nomenon?
+(a) Mechanics
+(b) Acoustics
+(c) Electromagnetism
+(d) Nuclear physics
+(e) None of the above
+3. Which of the following is not one of the branches of physics?
+(a) Thermodynamics
+(b) Optics
+(c) Classical physics
+(d) Evolution
+4. Which of the following is not a historical contributor in physics?
+(a) Willebrod Snell
+(b) Daniel Bernoulli
+(c) Thomas Young
+(d) Charles Darwin
+5.Which of the following institution/project does not apply the princi-
+ple of physics?
+(a) Ethiopian Aviation Industry
+(b) Grand Ethiopian Renaissance Dam (GERD)
+(c) Quality and Standard Authority of Ethiopia
+(d) Ethiopian Radiation Protection Authority
+(e) None of the above
+6.Which branch of Physics is most important when studying the na-
+ture and behavior of light?
+(a) Quantum Mechanics
+
+--- [PAGE BREAK] ---
+
+1.4 Historical Issues and Contributors 9
+(b) Nuclear Physics
+(c) Optics
+(d) Thermodynamics
+7.Galileo’s famous experiment at the leaning tower of Pisa demon-
+strated that
+(a) what goes up must come down
+(b) all objects fall to earth at the same rate, regardless of their mass
+(c) heavier object falls faster than lighter object of the same size
+(d) gravity does not act on a falling object
+
+--- [PAGE BREAK] ---
+
+Unit 2
+Physical Quantities
+Brainstorming
+Questions
+1. What types of dif-
+ferent measurement
+scales are used in
+your surroundings?
+2. What is physical
+quantity? How can
+you measure mass,
+length and time?
+What are their units
+of measurement?
+3. How can you
+classify physical
+quantities?Introduction
+Physics begins with observations of phenomena, events, matter or energy.
+Through demanding and controlled experimentation and logical thought
+process, the physical phenomena are described quantitatively using mathe-
+matical tools. Any quantitative description of a property requires compari-
+son with a scale of different measuring devises. For example, length needs
+a meter-stick, time needs a watch, and mass needs a beam balance. In this
+process, we recognize a very obvious fact that properties of different kinds
+cannot be compared. You cannot compare the time of travel from point A to
+B with the distance between the two points, although the two quantities may
+be related. The time of travel (time) is a physical quantity and the distance
+(length) is also a physical quantity. They are completely different types of
+physical quantities measured by different measuring devices and units. In
+this unit you will learn different types of scales, measurement, classiﬁcation
+of physical quantities, and conversion from one system of units to another.
+At the end of this unit, you should be able to:
+• list physical quantities.
+• measure different physical quantities with accuracy.
+• perform the measurement activities of different physical quantities.
+
+--- [PAGE BREAK] ---
+
+12 Unit 2 Physical Quantities
+In grade 8 General Science, you learned about scientiﬁc measurement. Differ-
+ent types of scales are used in measurement.
+2.1 Scales, Standards, Units (preﬁxes)
+Scales
+At the end of this section, you should be able to:
+•identify measurement scales in their surrounding (multiple and fractions
+of the scales);
+•state and use standard units of measures and their relationship with units
+in their surrounding.
+A scale on a measuring device contains the markings that show a certain
+amount of whatever is being measured. The number of marks on a measurement
+device depends on how accurate a measurement can be. As the number of marks
+in the measuring device increases the precision of the device also increases. Figure
+2.1shows that there is a difference of 1 between the successively numbered values
+and there are ten spaces between them. As the result each space is one-tenth and
+each smaller mark represents one-tenth (0.1) of the distance to the next larger
+number. Measurements with this device can be precise to two decimal places. So,
+we can add a last digit which is estimated.
+Figure 2.1 Reading scales for a given space.
+
+--- [PAGE BREAK] ---
+
+2.1 Scales, Standards, Units (preﬁxes) 13
+Example 2.1
+Determine the length of the red line to two decimal places.
+Figure 2.2 Reading the measured value of a red line.
+Solution:
+The red line goes just past 3.3 but not quite to 3.4. We can estimate the second
+decimal place. It looks like the line goes roughly half way between 3.3 and 3.4. So,
+we will say 3.35.
+Example 2.2
+Show the following values on each of the scales below.
+Figure 2.3 Different scales of measurement.
+Solution:
+The red arrows in the following ﬁgure indicate the values.
+
+--- [PAGE BREAK] ---
+
+14 Unit 2 Physical Quantities
+Figure 2.4 Arrows indicating the reading for the given values in example 2.2.
+Figure 2.5 Red line and number of divisions for a given span.
+Figure 2.6 Different scales of mass measuring devices.Exercise 2.1
+1.Read the scales of
+the mass measuring
+devices shown in
+Figure 2.6.
+2.Write down the
+values on each of
+the scales shown in
+Figure 2.7.
+3.Write down the
+reading of tempera-
+ture scales shown in
+Figure 2.8.Activity 2.1
+Determine the
+length of the red line
+in Figure 2.5 to three
+decimal places in a
+group and compare
+your result with
+other groups result.
+
+--- [PAGE BREAK] ---
+
+2.1 Scales, Standards, Units (preﬁxes) 15
+Figure 2.7 Different scales showing the values of measurement.
+Figure 2.8 Different readings of temperature scale.
+Thanks to technology, today we have digital instruments that indicate the
+measured value in digital format which is the number with its unit. It is very easy
+to read compared to the usual analog instruments. Moreover, it is an accurate
+measurement.Key Concept:
+tIn physics scale
+is a set of numbers,
+amounts, etc., used
+to measure or com-
+pare the level of
+something.
+Activity 2.2
+1.What is your mass in kilograms?
+2.In group observe measurement activities in the surrounding (home,
+local market and work places) for two days and prepare a report on the
+what, the where, and the how of the measurements observed.
+3.Based on your observation discuss the traditional and commonly used
+scales and units of measurement for length, mass, time, volume and tem-
+perature.
+People in different community measure physical quantities such as length,
+time, volume, and mass using traditional measuring units. However, each unit
+has different values at different time, position and conditions.
+
+--- [PAGE BREAK] ---
+
+16 Unit 2 Physical Quantities
+Standards
+Brainstorming
+Questions
+What is a standard
+in measurement? In
+your local area peo-
+ple measure volume,
+mass and area using
+different measuring
+devices. Do these
+measurements have
+standards? Discuss
+in groups.Ay the end of this section, you should be able to:
+•discuss about the measures used in their local environment and comment
+on the practice;
+• list standard units of measures and their relationship with units in their
+surroundings.
+In the previous section you have learned different types of scales. Now, you are
+going to earn about measures used in your local area and the standard units of
+basic quantities. The laws of physics are expressed in terms of basic quantities
+that require a clear deﬁnition. In physics, the seven basic quantities are length
+(l), mass (m), time (t), temperature (T), current (I), amount of substance (n), and
+luminous intensity ( IV). All other quantities in physics can be derived from these
+Figure 2.9 Traditional measuring units.
+
+--- [PAGE BREAK] ---
+
+2.1 Scales, Standards, Units (preﬁxes) 17
+seven basic or fundamental physical quantities.
+Table 2.1 Measurement of mass at different places.
+No. Name of student Place Measured value
+1 Student A Location A 1.6 unit
+2 Student B Location B 2.1 unit
+3 Student C Location C 2.5 unit
+4 Student D Location D 3.0 unit
+5 Student E Location E 1.1 unit
+6 Student F Location F 3.5 unitActivity 2.3
+tSuppose six grade
+9 students in differ-
+ent parts of Ethiopia
+are given the same
+object and mea-
+sured its mass in
+the same unit as
+shown in Table 2.1.
+Discuss whether the
+measurement has a
+standard or not re-
+gardless of personal
+errors.If your teacher orders you to report the results of a measurement to someone who
+wishes to reproduce this measurement, a standard must be deﬁned. Whatever is
+chosen as a standard:
+•it must be readily accessible and possesses some property that can be
+measured reliably.
+•measurements taken by different people in different places must yield the
+same result.
+Lack of standard in measurement has many negative consequences. In Ethiopia,
+for instance, people use their palm to measure the amount of cotton and footsteps
+to measure length. The one with a bigger palm collects much cotton than the one
+with a smaller palm. Thus, using a palm or footsteps as a measuring device has
+no standard. It creates inaccuracy on measured value and bias among people.Exercise 2.2
+tWhat are the
+SI units of length,
+mass, and time?
+In 2019, an International Committee revised a set of standards for length, mass,
+time and other basic quantities. The system established is an adaptation of the
+metric system and is called the SI system of units (see Figure 2.10 orCLICK HERE
+for further reading ).
+Figure 2.10 The SI system after the
+2019 redeﬁnitionLength: Meter is the standard or international system (SI) unit for length. There
+are also other non-SI units of length. These are centimeter (cm), millimeter (mm),
+and kilometer (km). Today, the meter (m) is deﬁned as a distance traveled by light
+in vacuum during a time of1
+299792458s.
+Time: It is deﬁned as the interval between two events. It is a fundamental quantity.
+The unit of time in SI system is second (s). The non-SI units of time are minute
+(min), hour (hr), day, month and year. The second (s) is deﬁned as 9 192 631 770
+
+--- [PAGE BREAK] ---
+
+18 Unit 2 Physical Quantities
+times the period of vibration of radiation from the caesium-133 atom.
+Mass: The kilogram (kg) is the standard or international system (SI) unit of mass.
+The non-SI units of of mass are gram (g), milligram (mg), and tonne. The kilogram
+(kg) is deﬁned by taking the ﬁxed numerical value of the Plank constant hÆ
+6.62607015 £10¡34when expressed in the units of J s (which is equal to kgm2
+s),
+where the meter and second are deﬁned in terms of the speed of light in vacuum
+(c) and the frequency of the Caesium 133 atom ( ¢f). [1 kgÆ1.4755214 £1040h¢f
+c2]
+Activity 2.4
+tDiscuss the need for standards of measurement.
+tIdentify problems of non-standard measurement practices in your lo-
+cality and the country at large.
+Key Concept:
+tStandard units are conventional units which are used to measure phys-
+ical quantity scientiﬁcally.
+tMeter: a distance travelled by light in vacuum during a time of1
+299792458
+s.
+tKilogram: 1 kilogram (1kg) is 1.4755214 £1040h¢f
+c2.
+tSecond: 9 192 631 770 times the period of vibration of radiation from
+the cesium-133 atom.
+Scientiﬁc Notation
+In physics, scientiﬁc notation is a way of writing measured values that are too
+large or too small to be conveniently written as a decimal. This can be written
+more easily in scientiﬁc notation, in the general form:
+d£10n
+Exercise 2.3
+tWrite
+0.000001256 in
+scientiﬁc notation
+to 3 decimal places.
+tHow many signif-
+icant ﬁgures are in
+7800?where d is a decimal number between 0 and 10 that is rounded off to a few
+decimal places; n is known as the exponent and is an integer. If n > 0 it represents
+how many times the decimal place in d should be moved to the right. If n < 0,
+then it represents how many times the decimal place in d should be moved to the
+left. For example, 3 .24£103represents 3240 (the decimal moved three places to
+the right) and 3 .24£10¡3presents 0.00324 (the decimal moved three places to
+the left).
+
+--- [PAGE BREAK] ---
+
+2.1 Scales, Standards, Units (preﬁxes) 19
+Signiﬁcant Figures
+In a number, each non-zero digit is a signiﬁcant ﬁgure. Zeroes are only counted
+if they are between two non-zero digits or are at the end of the decimal part.
+For example, the number 2000 has 1 signiﬁcant ﬁgure (the 2), but 2000.0 has 5
+signiﬁcant ﬁgures. You estimate a number like this by removing signiﬁcant ﬁgures
+from the number (starting from the right) until you have the desired number
+of signiﬁcant ﬁgures, rounding as you go. For example, 6.827 has 4 signiﬁcant
+ﬁgures, but if you wish to write it to 3 signiﬁcant ﬁgures it would mean removing
+the 7 and rounding up, so it would be 6.83.
+Adding and subtracting experimentally measured values of two different signiﬁ-
+cant ﬁgures (digits) needs to remember the following rule.
+•When two experimentally measured numbers are added or subtracted, the
+number of signiﬁcant ﬁgure or digit should be equal to the smallest number
+of decimal places of any term in the sum or difference. For example: while
+adding two measured values 9.65 and 8.4, the least closer decimal place is
+8.4 cm. The sum of these two numbers is 18.1 and is not 18.05.
+Multiplying or dividing experimentally measured values of two different signiﬁ-
+cant ﬁgures (digits) is based on the following rule.
+•When two experimentally measured numbers are multiplied or divided, the
+number of signiﬁcant digits in the ﬁnal answer is the same as the number of
+signiﬁcant ﬁgures in the quantity having the smallest number of signiﬁcant
+ﬁgures. For example: While multiplying two measured values 8.65 and
+2.035, if you use a calculator your answer is 17.75845 which is completely
+wrong. The ﬁrst number 8.65 has three signiﬁcant ﬁgures and the second
+number 2.035 has four signiﬁcant ﬁgures. According to the rule the smallest
+number of signiﬁcant ﬁgures is three. So, the correct answer is 17.8.Exercise 2.4
+Write the number
+for each expression
+with appropriate
+number of signiﬁ-
+cant ﬁgures.
+t1.513 + 27.3
+t6.789¡4.23
+t138.0
+11.9
+t2.1£5.687
+Exercise 2.5
+Write the following
+physical quantities
+using appropriate
+preﬁxes.
+tThe radius of the
+earth is 6,371,000 m
+tThe diameter
+of our hair is 0.000
+0075 mPreﬁxes
+In the previous section you have learned different basic units. When a numerical
+unit is either very small or very large, the units used to deﬁne its size may be
+modiﬁed by using a preﬁx. A preﬁx is an important aspect of dealing with units.
+Preﬁxes are words or letters written in front that change the meaning. Table 2.2
+lists a large set of these preﬁxes. The kilogram (kg) is a simple example. 1 kg is
+1000 g, or 1 £103g. We can replace the 103with the preﬁx k (kilo).
+
+--- [PAGE BREAK] ---
+
+20 Unit 2 Physical Quantities
+Table 2.2 Unit Preﬁxes.
+Preﬁx Symbol Multiplier Exponent
+tera T 1 000 000 000 000 1012
+giga G 1 000 000 000 109
+mega M 1 000 000 106
+kilo k 1 000 103
+hecto h 100 102
+deka da 10 101
+deci d 0.1 10¡1
+centi c 0.01 10¡2
+milli m 0.001 10¡3
+micro ¹ 0.000 001 10¡6
+nano n 0.000 000 001 10¡9
+pico p 0.000 000 000 001 10¡12
+Key Concept:
+tPreﬁx is a letter or a syllable which is written directly before a unit name
+with no space.
+tScientiﬁc notation: a system in which numbers are expressed as prod-
+ucts consisting of a number between 1 and 10 multiplied by an appropriate
+power of 10.
+tIn a number, each non zero digit is a signiﬁcant ﬁgure.
+2.2 Measurement and Safety
+Brainstorming
+Questions
+tWhat is meant by
+measurement?
+tWhat measuring
+devices are used to
+measure volume,
+mass and length in
+your local area?Ay the end of this section, you should be able to:
+•list different instruments used to measure physical quantities such as
+length, area, volume, mass, and time in their local area;
+• list modern length, mass and time measuring devices;
+• measure length, mass and time using different units.
+
+--- [PAGE BREAK] ---
+
+2.2 Measurement and Safety 21
+Activity 2.5
+tObserve your
+local environment
+and list different
+instruments used
+to measure physical
+quantities.
+tDiscuss different
+measurement ac-
+tivities and related
+issues in life.Measurement
+Measurement is the process of comparing an unknown quantity with another
+quantity of its kind (called the unit of measurement). The measurement process
+has three key elements:
+• The physical quantity to be measured.
+• The necessary measuring tools.
+• Units of measurements used (standard units).
+Twenty-ﬁrst century civilization is unthinkable without an appropriate measure-
+ment tools on which everyday life depends. Modern society simply could not exist
+without measurement. Figure 2.11 shows some measuring devices applicable
+today.
+Figure 2.11 Examples of measuring tools of some physical quantities.
+
+--- [PAGE BREAK] ---
+
+22 Unit 2 Physical Quantities
+Measuring Length
+When you are measuring the length of objects, you are comparing it with the
+standard length. The SI unit of length is meter (m) as we discussed before. There
+are also non SI units of length. These are millimeter (mm), centimeter (cm) and
+kilometer (km).
+Key Concept:
+tMeasurement of any physical quantity involves comparison with a cer-
+tain basic, arbitrarily chosen, internationally accepted reference standard
+called unit.
+Figure 2.12 Standard length measuring instruments.
+
+--- [PAGE BREAK] ---
+
+2.2 Measurement and Safety 23
+Activity 2.6
+tMake groups and measure the length and width of your exercise book
+in meter, centimeter and millimeter.
+tWhich measuring instrument of length can you use for measuring the
+diameter of a small spherical marble?
+tA farmer wants to know the length of his plots of land in meter but he
+has only a long rope, a 50 cm ruler and a 6 m long stick. How can he easily
+measure the length of his plot? Discuss in groups.
+Length is one of the fundamental (basic) physical quantities which describes
+the distance between two points.
+Activity 2.7
+tMeasure the length and width of your blackboard in meter unit.
+tCalculate the area of the blackboard using the above measured values
+in meter square unit.
+tCompare your results with that of your friends’ .Exercise 2.6
+tWhat mecha-
+nisms do people in
+your locality use to
+measure the mass of
+an object?
+tWhich scientiﬁc
+mass measuring
+instrument is used
+in your locality?Deﬁnition: Every physical quantity can be represented by its numerical
+value and unit.
+Measurement is the comparison of an unknown quantity with the known
+ﬁxed unit quantity. It consists of two parts: the unit and the number indicating
+how many units are in the quantity being measured.
+For example: The length of a table is 3 meters.
+In this example, 3 is the magnitude, and meter is the standard (unit) of that
+quantity.
+
+--- [PAGE BREAK] ---
+
+24 Unit 2 Physical Quantities
+Key Concept:
+tLength is the fundamental physical quantity that describes the distance
+between two points. tThe SI unit of length is meter (m).
+Activity 2.8
+tVisit different
+shops in your living
+area and observe
+the procedure of
+measuring goods
+carefully. Write the
+procedures and
+exactness of the
+measurement.Measuring Mass
+Measuring mass is a day to day activity in human life. People in various parts of
+the world measure the mass of an object in different ways.
+Deﬁnition: Mass is a basic physical quantity. It is deﬁned as the amount
+of matter contained in a body.
+Figure 2.13 Different scientiﬁc
+mass measuring instruments.The SI unit of mass is a kilogram (kg). There are also non SI units used
+to measure the mass of an object. In scientiﬁc way mass is measured by an
+instrument called beam balance.
+Activity 2.9
+tCollect different simple objects such as a) a duster, b) an exercise book,
+c) one stick of chalk.
+tMeasure the mass of these objects and record the measured values in a
+table.
+tCompare your recorded value with that of other groups and discuss.
+Key Concept:
+tMass is a basic physical quantity. It is deﬁned as the amount of matter
+contained in a body.
+tThe S.I unit of mass is the kilogram (kg).
+Measuring Time
+How long does it take between the sun rise and set in your location? Do the people
+in your locality use the sun set and sun rise for measuring time? Some people in
+the rural parts of Ethiopia traditionally use the position of the sun or the position
+
+--- [PAGE BREAK] ---
+
+2.2 Measurement and Safety 25
+of shadows of their house or trees to estimate the time. A traditional clock that
+shows the time of the day by the shadow of an upright object that falls on to a ﬂat
+surface marked with hours is called sundial. However, this way of measuring time
+has no standard and is not accurate.
+Figure 2.14 Different scientiﬁc
+time measuring devices.Time is the basic physical quantity. It describes the duration between the
+beginning and end of an event. The SI unit of time is second (s). The commonly
+used non SI units of time are: minute, hour, day, week, month and year.
+Activity 2.10
+tDiscuss in groups and list the names of scientiﬁc time measuring
+devices.
+tRecord the activities you do from sun rise to sun set. Compare your
+recorded activities with that of your friend. Some of you are effectively
+using your time to accomplish different activities. Discuss the wise use of
+time in relation to its contribution for the development of our country.
+Key Concept:
+tTime is a basic physical quantity. It describes the duration between the
+beginning and end of an event.
+tThe S.I unit of time is second (s).
+Laboratory Safety rules
+A systematic and careful laboratory work is an essential part of any science
+program since laboratory work is the key to progress in science. The
+equipment and apparatus you use involve various safety hazards, just
+as they do for working physicists. Students should follow the general
+laboratory safety guidelines so that working in the physics laboratory can
+be a safe and enjoyable process of discovery. These safety rules are:
+• Always wear a lab safety goggles.
+•Avoid wearing baggy clothing, bulky jewelry, dangling bracelets,
+open-toed shoes or sandals.
+• NEVER work alone in the laboratory.
+
+--- [PAGE BREAK] ---
+
+26 Unit 2 Physical Quantities
+•Only books and notebooks needed for the experiment should be in
+the lab.
+• Read about the experiment before entering the lab.
+• Do not eat, drink, apply cosmetics, or chew gum in the laboratory.
+• NEVER taste chemicals. Do not touch.
+•Report all accidents to the teacher immediately, no matter how mi-
+nor.
+• Exercise caution when working with electrical equipment.
+• Perform only those experiments authorized by the teacher.
+•Wash hands thoroughly after participating in any laboratory activity.
+2.3 Classiﬁcation of Physical Quantities
+Brainstorming
+Questions
+What is the differ-
+ence between funda-
+mental and derived
+physical quanti-
+ties? Some physical
+quantities have only
+magnitude. How-
+ever, other physical
+quantities have
+both magnitude
+and direction. Can
+you mention some
+examples of these
+physical quantities?At the end of this section, you should be able to:
+•classify physical quantities as fundamental and derived physical quanti-
+ties;
+• describe derived physical quantities in terms of fundamental quantities;
+• differentiate between fundamental and derived units;
+• classify physical quantities as scalar and vector quantities.
+Physical Quantities
+Deﬁnition: A physical quantity is anything that you can measure. For
+example, length, temperature, distance and time are physical quantities.
+Quantities that can be measured directly or indirectly are known as physical
+quantities. The measured values of physical quantities are described in terms of
+number and unit. Each physical quantity and its unit have a symbol.
+
+--- [PAGE BREAK] ---
+
+2.3 Classiﬁcation of Physical Quantities 27
+In Activity 2.7, you can observe that some physical quantities are directly mea-
+sured while other physical quantities are measured by combining two or more
+measurable quantities. For example you measured the width and length of your
+blackboard directly. However, the area is measured by multiplying the length and
+width of the blackboard -AÆl£w. Physical quantities can be classiﬁed into two.
+Activity 2.11
+tIn activity 2.7
+you measured the
+length, width and
+area of the black-
+board. Discuss the
+symbols of the phys-
+ical quantities and
+their units. Is there
+any difference be-
+tween length, width
+and area?• Fundamental or basic physical quantities
+• Derived physical quantities
+Fundamental or basic physical quantities: are physical quantities which can
+be measured directly. They cannot be described in terms of other physical quan-
+tities. The units used to measure fundamental quantities are called fundamental
+units. i.e., the unit of fundamental quantity is called fundamental unit. It does
+not depend on any other unit. There are seven fundamental physical quantities
+as shown in Table 2.3.
+Activity 2.12
+tDiscuss in groups
+and classify physical
+quantities (length,
+mass, speed, vol-
+ume, force and
+pressure) as funda-
+mental or derived.Table 2.3 The fundamental or basic physical quantities with their units and symbol of
+units.
+Basic physical quantities Symbol Basic unit Symbol
+Length l meter m
+Mass m kilogram kg
+Time t Second s
+Temperature T Kelvin K
+Current I Ampere A
+Amount of substance n Mole mol
+Luminous intensity Iv Candela cd
+Exercise 2.7
+tDescribe volume, density, and speed as combination of fundamental
+physical quantities.
+tDetermine the units of volume, density and speed using basic units.
+tDiscuss how to use mobile phone (Android) to measure the time,
+heartbeat and body temperature.
+
+--- [PAGE BREAK] ---
+
+28 Unit 2 Physical Quantities
+Derived physical quantities: Physical quantities which depend on one or
+more fundamental quantities for their measurements are called derived physical
+quantities. The units of derived quantities which depend on fundamental units
+for their measurement are called derived units. Area, volume, density, and speed
+are some examples of derived physical quantities. Table 2.4shows some derived
+quantities with their units and symbol of units. .
+Table 2.4 Some derived physical quantities and their units.
+Physical quantity Symbol Formula Unit Symbol of the
+unit
+Speed vDistance
+Timemeter
+secondm
+s
+Density ½Mass
+Volumekilogram
+meter cubekg
+m3
+Acceleration aVelocity
+Timemeter
+second squarem
+s2
+Force F Mass£Acceleration newton(N)kg.m
+s2
+Work W Force £Displacement joule (J)kgm2
+s2
+Pressure PForce
+Areapascal (Pa)kg
+m.s2
+Scalar and Vector Quantities
+Activity 2.13
+Discuss in groups
+and classify the
+following physical
+quantities as scalar
+or vector quantity:
+mass, time, area,
+speed, velocity, ac-
+celeration, force,
+energy, work, pres-
+sure, momentum,
+electric current,
+current density,
+displacement, and
+temperature.Physical quantities can also be classiﬁed as scalar and vector quantities. Some
+physical quantities are described completely by a number and a unit. A number
+with a unit is called a magnitude. However, other quantities have a direction
+attached to the magnitude. They cannot be described by a number and unit only.
+Thus, physical quantities are grouped into two. These are:
+• Scalar quantities
+• Vector quantities
+A scalar quantity is a physical quantity which has only magnitude but no
+direction.
+Examples are: distance, mass, time, temperature, energy etc.
+
+--- [PAGE BREAK] ---
+
+2.4 Unit conversion 29
+A vector quantity is a physical quantity which has both magnitude and di-
+rection. When expressing that the car moves 50 km/h to east, this gives full
+information about the velocity of the car that includes magnitude and direction
+(50 km/h is the magnitude, and east is the direction). Because of this, velocity is a
+vector quantity.
+Examples are: displacement, acceleration, force, etc.
+A vector can be represented either by a single letter in bold face or by a single
+letter with arrow head on it. For example: displacement can be represented as ~S
+orS.
+Key Concept:
+tPhysical quantity: anything that you can measure and describe by a
+number and unit.
+.tFundamental physical quantities: physical quantities which can be
+measured directly.
+tDerived physical quantities: Physical quantities which depend on one
+or more fundamental quantities for their measurements.
+tScalar quantities: Physical quantities that are described only by their
+magnitude.
+tVector quantities: Physical quantities that are described by their mag-
+nitude and direction.
+2.4 Unit conversion
+Brainstorming
+Question
+tHow many me-
+ters, centimeters
+and millimeters
+are there in one
+kilometer?
+tHow many grams
+are there in one kilo-
+gram? How many
+seconds are there in
+one day?At the end of this section, you should be able to:
+• convert one unit of length to another unit of length.
+• convert one unit of mass to another unit of mass.
+• convert one unit of time to another unit of time.
+In the previous section you have learned different physical quantities. These
+physical quantities have SI and non SI units. It is possible to convert units from SI
+unit to non SI unit and vice versa. Conversion of units is the conversion between
+different units of measurement for the same physical quantity, typically through
+multiplicative conversion factors.
+
+--- [PAGE BREAK] ---
+
+30 Unit 2 Physical Quantities
+The relation between meter and other non SI units is given in Table 2.5.
+
+--- [PAGE BREAK] ---
+
+2.4 Unit conversion 31
+Example 2.3
+The distance between two houses is 200 meter. What is the distance in: a) centime-
+ter b) kilometer c) millimeter
+Given: lÆ200 m
+Solution:
+a) 1mÆ 100 cm
+200 mÆ ?
+l in cm Æ(200 m£100 cm)
+(1m)Æ20000 cm
+b) 1mÆ 0.001 km
+200 mÆ ?
+l in km Æ(200 m£0.001 km)
+(1m)Æ0.2km
+c) 1mÆ 1000 mm
+200 mÆ ?
+l in m Æ200 m£1000 mm
+1m
+Æ 200000 mmÆ2£105mm
+Table 2.5 Conversion between units of length.
+1 kilometer (km) 1000 meter (m)
+1 meter (m) 100 centimeter (cm)
+1 meter (m) 1000 millimeter (mm)
+1 centimeter (cm) 10 millimeter (mm)
+1 meter (m) 0.001 kilometer (km)
+1 centimeter (cm) 0.01 meter (m)
+1 millimeter (mm) 0.001 meter (m)
+Exercise 2.8
+1.Which one of the following is a suitable unit to measure the distance
+between the Earth and the Moon?
+
+--- [PAGE BREAK] ---
+
+32 Unit 2 Physical Quantities
+(A) mm (B) km (C) cm (D) m (E) all
+2.Which one of the following is a suitable unit to measure the diameter
+of electric wire?
+(A) mm (B) km (C) cm (D) m (E) all
+3. A hydrogen atom has a diameter of about 10 nm.
+(a) Express this diameter in meters.
+(b) Express this diameter in millimeters.
+(c) Express this diameter in micrometers.
+The relationship between the SI units and non SI units of mass are shown in
+Table 2.6.
+Table 2.6 Relationship between units of mass.
+1 kilogram (kg) 1000 gram (g)
+1 gram (g) 0.001 kilogram (kg)
+1 milligram (mg) 0.001 gram (g)
+100 kilogram (kg) 1 quintal
+1000 kilogram (kg) 1 tonne
+Example 2.4
+In one of the pans of a beam balance the masses 1.5 kg, 500 g, 250 g, 25 g and 0.8 g
+are placed to measure the mass of unknown object. What is the mass of an object
+in gram and kilogram on the other side of the pan if they are in balance?
+Given: mÆ1.5kg, 500 g, 250 g, 25 g, 0.8 g,
+Required: Total mass in g and Kg
+Solution:
+Total mass =sum of masses in the pan
+Æ1.5kgÅ500gÅ250 gÅ25gÅ0.8g
+
+--- [PAGE BREAK] ---
+
+2.4 Unit conversion 33
+Æ1500 gÅ500 gÅ250 gÅ25gÅ0.8gÆ 2275.8 g ,
+1000 gÆ 1 kg ,
+2275.8 gÆ ?
+mass in kg Æ2275.8 g£1kg
+1000 gÆ2.2758 kg
+Table 2.7 The relation between different units of time.
+1 minute (min) 60 second (s)
+1 hour (hr) 60 minute (min)
+1 day 24 hours (hrs)
+1 week 7 days
+1 month 30 days
+1 year 365.25 days
+Example 2.5
+Express the following times in seconds.
+a) 2 hours b) 0.5 hour c) 3/5 hour
+Solution:
+a) 1hrÆ3600 s ,
+2hrÆ?Æ) tÆ2hr£3600 s
+1hrÆ7200 s
+b) 1hrÆ3600 s ,
+0.5hrÆ?Æ) tÆ0.5hr£3600 s
+1hrÆ1800 s
+c) 1hrÆ3600 s ,
+3
+5hrÆ?Æ) tÆ3
+5hr£3600 s
+1hrÆ2160 s
+
+--- [PAGE BREAK] ---
+
+34 Unit 2 Physical Quantities
+Exercise 2.9
+1. How many hours, minutes and seconds are there in a day?
+2. List some traditional ways of measuring time in your community.
+3. Express the following time in minutes and seconds.
+(a) 0.25 hr. (b) 3.2 hrs. (c) 6.7 hrs.
+Unit Summary
+•Scale is a set of numbers, amounts etc., used to measure or compare
+the level of something.
+•There are four types of measurement scales: nominal, ordinal, inter-
+val and ratio.
+• In Physics, most of the scales are ratio scales.
+•Measurement is the comparison of an unknown quantity with a
+known one (standard unit).
+•Standard units are conventional units which are used to measure
+physical quantities scientiﬁcally.
+• Traditional measuring units are not exact and have no a standard.
+•Preﬁxes are used to simplify the description of physical quantities
+that are very big or very small.
+•Quantities that can be measured directly or indirectly are known as
+physical quantities.
+•Physical quantities are characteristics or properties of an object that
+can be measured or calculated from other measurements.
+•Physical quantities are classiﬁed as fundamental /or basic physical
+quantities, and derived physical quantities.
+•Length, time, mass, temperature, current, amount of substance and
+luminous intensity are fundamental quantities in science. All other
+physical quantities are derived physical quantities.
+
+--- [PAGE BREAK] ---
+
+2.4 Unit conversion 35
+•Meter, second, kilogram, Kelvin, Ampere, mole and candela are
+fundamental (basic) units.
+• Physical quantities can be categorized as vectors or scalars.
+•Meter, kilogram and Second are the SI unit of length, mass, and time
+respectively.
+• SI units can be converted to non SI units and vise versa.
+End of Unit Questions and Problems
+Part I. Multiple choice
+1.Which one of the following scale allows addition, subtraction, multi-
+plication and division?
+(a) Nominal scale (b) ratio scale (c) ordinal scale (d) interval scale
+2.Which one of the following is NOT a fundamental physical quantity?
+(a) Temperature (b) density (c) time (d) mass
+3. The SI standard of time is based on:
+(a) The daily rotation of the Earth
+(b) The yearly revolution of the Earth about the sun
+(c) 9 192 631 770 times the period of vibration of radiation from
+the cesium-133 atom.
+(d) A precision pendulum clock
+4. Which one of the following is a derived SI unit?
+(a) Second (b) Joule (c) kilogram (d) Kelvin
+5. A nanosecond is
+(a) 109s(b) 10¡9s (c) 10¡6s (d) 10¡12s
+6.Which one of the following method provides a more reliable mea-
+surement of time in daily life activities?
+(a) Looking the rotation of stars in the sky
+(b) Using a digital watch
+(c) Looking the position of shadows of trees
+
+--- [PAGE BREAK] ---
+
+36 Unit 2 Physical Quantities
+(d) Looking the position of the sun on the sky
+7.Which one of the following pair of physical quantities has the same
+unit?
+(a) displacement and distance (b) mass and force (c) speed and
+acceleration (d) volume and area
+8. How many minutes is 3 hour + 10 minute + 120 s?
+(a) 182 min (b) 202 min (c) 212 min (d) 192 min
+9.If the masses of bodies A, B, and C are 2 ton, 100 kg and 1 kg respec-
+tively. Then the total mass of the bodies is
+(a) 221 kg (b) 2101 kg (c) 2011 kg (d) 2001 kg
+10. Why are fundamental physical quantities different from derived
+physical quantities?
+(a) Fundamental physical quantities are derived from derived
+physical quantities.
+(b) Derived physical quantities are derived from fundamental
+physical quantities.
+(c) Derived and fundamental physical quantities have no relation.
+(d) All are answers
+11. Which of the following would describe a length that is 2 .0£10¡3of a
+meter?
+(a) 2.0 km (b) 2.0 cm (c) 2.0 mm (d) 2.0 ¹m
+12. Which quantity is a vector?
+(a) Energy (b) force (c) speed (d) time
+13. Which one of the following lists is a set of scalar quantities?
+(a) length, force, time
+(b) length, mass, time
+(c) length, force, acceleration
+(d) length, force, mass
+Part II: Write true if the statement is correct and false if the statement is
+wrong.
+
+--- [PAGE BREAK] ---
+
+2.4 Unit conversion 37
+1. Second is a device used to measure time.
+2. Candela is a derived physical quantity.
+3.The unit of force can be derived from the units of mass, length and
+time.
+4. One kilometer is 100 meter.
+5.For a very large or very small numbers preﬁxes are used with SI units.
+6. Scalar quantity can be described by its magnitude and direction.
+Part III: Short answer questions
+1. What is the difference between interval scale and ratio scale?
+2. How many seconds are there in 12 hours?
+3. What is measurement?
+4.What is the difference between traditional measuring units and
+scientiﬁc measuring units?
+5. Deﬁne the following terms:
+a) Meter b) second c) kilogram d) length e) time f) mass g) Physi-
+cal quantity h) derived physical quantity i) fundamental physical
+quantity. j) scalar physical quantity k) vector physical quantity
+6. Which SI units would you use for the following measurements?
+(a) the length of a swimming pool
+(b) the mass of the water in the pool
+(c) the time it takes a swimmer to swim a lap
+7.Which instrument is used to measure the thickness of a sheet metal?
+8. Write some safety rules.
+9. Give three examples of scalar and vector quantities.
+Part IV: Workout problems
+
+--- [PAGE BREAK] ---
+
+38 Unit 2 Physical Quantities
+1.In one of the pans of the beam balance the masses 3 kg, 900 g, 90 g
+and 5 g are placed. What amount of mass should be placed on the
+other side of the beam balance to make it balanced?
+2.For each of the following symbols, write out the unit in full and write
+what power of 10 it represents: (a) micro g (b) mg
+3.The doctor wants to know the age of his patient and asks him how
+old he is. The patient replies that he is 251
+2years old. What is the
+age of the patient in month?
+4.The student wants to measure the length of the classroom using a
+tape meter. The tape meter reads 8m and 40 cm. What is the length
+of the classroom in cm?
+5. How many minutes are there in 3 days?
+6.If the area of a single ceramic is 0.25 m2, how many ceramics are
+used to cover a ﬂoor of a classroom whose area is 40m2?
+7.The distance between Sun and the Earth is about 1.5 £1011m. Ex-
+press this distance using preﬁx.
+8.The volume of the Earth is on the order of 1021m3. (a) What is this
+in cubic kilometers ( km3)? (c) What is it in cubic centimeters ( cm3)?
+9.For each of the following, write the measurement using the correct
+symbol for the preﬁx and the base unit: (a) 101 nanoseconds (b) 10
+milligrams (c) 72 gigameters.
+
+--- [PAGE BREAK] ---
+
+Unit 3
+Motion in a Straight Line
+Introduction
+Brainstorming
+Question
+tWhat do you
+think is motion?
+Give some examples
+of motion that you
+encounter in your
+daily life.In this unit, you will be introduced to the basic concepts of motion. We encounter
+motion in our day-to-day activities and have enough experience about it. You
+might have learnt in lower grades that everything in the universe moves. It is
+because of this that motion is one of the key topics in physics. We use the basic
+concepts of distance, displacement, speed, velocity and acceleration to express
+motion. There are different types of motions. Motion in a straight line is one of
+the simplest forms of motion in a speciﬁc direction. The motions of a car on a
+road, the motion of a train along a straight railway track or an object falling freely
+are examples of one-dimensional motion.
+At the end of this unit, you should be able to:
+•describe motion in terms of frame of reference, displacement, speed, ve-
+locity, and acceleration;
+• draw diagrams to locate objects with respect to a reference;
+•solve problems involving distance, displacement, speed, velocity and
+acceleration;
+•make practical measurements of distance, displacement, average speed,
+average velocity and acceleration.
+
+--- [PAGE BREAK] ---
+
+40 Unit 3 Motion in a Straight Line
+3.1 Position, Distance and Displacement
+At the end of this section, you should be able to:
+• deﬁne motion, position, and displacement;
+• describe motion in terms of frame of reference;
+• differentiate between position, distance and displacement;
+• draw diagrams to locate objects with respect to a reference frame.
+The most convenient example to explain about position, distance and dis-
+placement is your daily travel from your home to your school. When you go to
+school, your journey begins from your home. Your home is your original position.
+After some time, you will reach your school. Your school is your ﬁnal position.
+In this process, you are continuously changing your position. While traveling
+from home to school, you are increasing the gap between your present position
+and your home. This continuous change of position is known as motion. Note
+that your change of position is observed by considering the distance from your
+school to home. Your home is taken as a reference frame . Motion is a continuous
+change in position of an object relative to the position of a ﬁxed object called
+reference frame.
+Key Concept:
+tA frame of reference is a set of coordinates that can be used to deter-
+mine positions of objects.
+tMotion is the change in the position of the object with respect to a ﬁxed
+point as the time passes.
+A body is said to be at rest in a frame of reference when its position in that
+reference frame does not change with time. If the position of a body changes
+with time in a frame of reference, the body is said to be in motion in that frame of
+reference. The concepts of rest and motion are completely relative; a body at rest
+in one reference frame may be in motion with respect to another reference frame.
+For example, if you are 2 m from the doorway inside your classroom, then your
+reference point is the doorway. Your classroom can be used as a reference frame.
+In the classroom, the walls are not moving, and can be used as a ﬁxed frame of
+reference. We commonly use the origin as a ﬁxed reference point to describe
+motion along a straight line.
+
+--- [PAGE BREAK] ---
+
+3.1 Position, Distance and Displacement 41
+Exercise 3.1
+tAssume you are sitting on a horse and the horse is moving at a certain
+speed. Are you at rest or in motion? Discuss it by taking two frames of
+reference: the horse itself and some ﬁxed point on the ground.
+Key Concept:
+tPosition is a mea-
+surement of a loca-
+tion, with respect
+to some reference
+point (usually an
+origin).Position
+To describe the motion of a particle, we need to be able to describe the position
+of the particle and how that position changes as the particle moves. Motion is
+the change in the position of the object with respect to a ﬁxed point as the time
+passes. For one-dimensional motion, we often choose the x axis as the line along
+which the motion takes place. Positions can therefore be negative or positive
+with respect to the origin of the x-axis. Figure 3.1shows the motion of a rider in a
+straight line. Its position changes as it moves.
+Have you ever used Google Maps to locate your geographical position while you
+are moving from some place to another? Google Maps is a Web-based service
+that provides detailed information about geographical regions and sites around
+the world. In addition to conventional road maps, Google Maps offers aerial and
+Figure 3.1 A rider in motion changes its position as it moves.
+
+--- [PAGE BREAK] ---
+
+42 Unit 3 Motion in a Straight Line
+satellite views of many places. Google Maps provides you with the longitude
+(east-west position) and latitude (north-south position) coordinates of a location
+or position of a place.
+You can see how far you have travelled and how you travelled from place to place,
+such as walking, biking, driving or on public transport. The following steps guide
+you to get started using Google Maps:
+Step 1 : At ﬁrst you need to open the Google Maps software application on your
+Android phone, tablet or computer. For more information, click here to see
+Google Maps https://www.google.com/maps/
+Step 2: Search for a place or tap it on the map.
+Step 3: In the bottom right, tap directions.
+Step 4 : To add destination you have to go to the top right and tap more and then
+add a stop.Exercise 3.2
+tWhat is the dis-
+tance around a
+standard football
+ﬁeld?
+tIs distance a pos-
+itive or negative
+quantity?Distance
+Distance travelled is a measure of the actual distance covered during the motion of
+a body. In other words, distance is the total path length traveled by the body. The
+distance travelled does not distinguish between motion in a positive or negative
+direction. This means that it is a scalar physical quantity. The SI unit of distance is
+meter (m), though it can also be measured in other non-SI units such as kilometer
+(km), miles (mi), centimeter (cm), etc. The symbol for distance is s. Pictorial
+representation of the distance covered by a runner is shown in Figure 3.2.
+Figure 3.2 The distance covered by a runner.
+
+--- [PAGE BREAK] ---
+
+3.1 Position, Distance and Displacement 43
+Displacement
+When an object moves, it changes its position. This change of position in a certain
+direction is known as displacement. A displacement is described by its magnitude
+and direction. Hence, it is a vector quantity. Displacement is independent of
+the path length taken. For example, you travel from your home to school. After
+school, you travel o your home. Therefore, the change in your position when you
+return back to your home is zero. In this case, we say that your displacement is
+zero. The SI unit of displacement is the same as the SI unit of distance that is
+meter (m). Figure 3.3shows the difference between distance and displacement of
+the motion covered from point A to point B.
+Figure 3.3 Illustration of distance
+and displacement.Figure 3.1shows a student on a bicycle at position ~Xiat time ti. At a later time,
+tf, the student is at position ~Xf. The change in the student’s position, ~Xf¡~Xi, is
+called a displacement. Thus, displacement ~Scan be written as
+~SÆ~Xf¡~Xi (3.1)
+Key Concept:
+tDisplacement is the change in an object’s position.
+Table 3.1 Difference between distance and displacement.
+Distance Displacement
+It is the length of path travelled
+by an object in a given time.It is the shortest distance between
+the initial and ﬁnal positions.
+It is a scalar quantity. It is a vector quantity.
+It depends on the path followed
+by the object.It depends o the initial and ﬁnal
+positions of the object, but not
+necessarily on the path followed.
+It can be more than or equal to
+the magnitude of displacement.Its magnitude can be less than or
+equal to the distance.
+
+--- [PAGE BREAK] ---
+
+44 Unit 3 Motion in a Straight Line
+Activity 3.1
+tThree students walked on a straight line. The ﬁrst student walked 200 m
+to the right from a reference point A, then returned and walked 100 m to
+the left and then stopped. The second student walked 200 m from point A
+to the right, then returned and walked 300 m to the left and stopped. The
+third student walked 200 m to the right from point A, then returned and
+walked 200m to the left and stopped at point A. Discuss in groups about
+the total distance and displacements of the ﬁrst, the second and the third
+student.
+Example 3.1
+A cyclist rides 3 km west and then turns around and rides 2 km east. (a) What is
+her displacement? (b) What distance does she ride? (c) What is the magnitude of
+her displacement?
+Solution:
+To solve this problem, we need to ﬁnd the difference between the ﬁnal position
+and the initial position while taking care to note the direction on the axis.
+a)Displacement: The rider’s displacement is ~SÆ~Xf¡~Xi= 1 km west. The displace-
+ment is negative if we choose east to be positive and west to be negative.
+b) Distance: The distance traveled is 3 km + 2 km = 5 km.
+c) The magnitude of the displacement is 1 km.Exercise 3.3
+tWhat is the dis-
+placement if the
+ﬁnal position is the
+same as the initial
+position?Exercise 3.4
+tGiven the following values for the initial position Xiand ﬁnal position
+Xf, check whether the value of the net displacement is positive or negative.
+a)XfÆ(5,0) and XiÆ(¡1,0)
+b)XfÆ(10,0) and XiÆ(¡15,0)
+c)XfÆ(6,0) and XiÆ(4,0)
+
+--- [PAGE BREAK] ---
+
+3.2 Average Speed and Instantaneous Speed 45
+3.2 Average Speed and Instantaneous Speed
+At the end of this section, you should be able to:
+• differentiate between average speed and instantaneous speed;
+•compute the average speed of a body; moving in a straight line covering a
+certain distance in a given time;
+• estimate the speed of moving bodies in your surroundings.
+Speed is a quantity that describes how fast a body moves. Speed is the rate
+at which an object changes its location. Like distance, speed is a scalar quantity
+because it has a magnitude but no direction. Since speed is a rate, it depends on
+the time interval of motion. Its symbol is v. In other words, speed is the distance
+covered by a moving body per unit time. The SI unit of speed is meter per second
+(m/s). Other units of speed include kilometer per hour (km/h) and miles per hour
+(mi/h). The mathematical equation used to calculate speed is
+speed ÆDistance
+time(3.2)
+vÆs
+t(3.3)
+Exercise 3.5
+tIn Figure ??, what
+does the speedome-
+ter read?
+Figure 3.4 Speedometer.One of the most obvious features of an object in motion is how fast it is moving.
+In your journey from home to school, you walk slowly for some time, and you run
+another time to cover the total distance. This shows that the speed for the walk
+and the speed for the run are different. In this regard, we deﬁne average speed.
+Speed and average speed are not the same although they are derived from the
+same formula. The average speed is deﬁned as the total distance travelled divided
+by the total time it takes to travel that distance:
+Average speed ÆTotal distance covered
+Total time taken(3.4)
+(3.5)
+vavÆstot
+ttot(3.6)
+
+--- [PAGE BREAK] ---
+
+46 Unit 3 Motion in a Straight Line
+During a typical trip to school by car, the car undergoes a series of changes in its
+speed. If you were to look at the speedometer readings at regular intervals, you
+would notice that it changes. The speedometer of a car gives information about
+the instantaneous speed of the car. It shows the speed of the car at a particular
+instant in time. The speed at any speciﬁc instant is called the instantaneous
+speed. To calculate the instantaneous speed, we need to consider a very short
+time interval-one that approaches zero. For example, a school bus undergoes
+changes in speed. Mathematically the instantaneous speed is given
+vinsÆ¢s
+¢tas¢t!0 (3.7)
+where, ¢sis the distance travelled during the given very short time interval
+¢t. Instantaneous speed and average speed are both scalar quantities. When you
+solve the average of all instantaneous speeds that occurred during the whole trip,
+you will get the average speed.
+Exercise 3.6
+tWhat are the
+differences and
+similarities between
+average speed and
+instantaneous
+speed?Example 3.2
+A car covers a distance between two towns which are 80 km apart. If it takes the car
+1hr and 30 minutes to travel between the two towns, calculate the average speed
+of the car in m/s.
+Solution:
+The car takes 1hr and 30 minutes to travel between the two towns. This time is the
+same as 1.5 hrs. Therefore, the average speed of the car is given by,
+vavÆs
+t
+with s = 80 km and t=1.5 hrs, vavbecomes,
+vavÆ(80km)
+(1.5 hr s)Æ53.33 km/hr
+However, we are required to calculate the average speed in m/s. For this purpose,
+we use 1 km = 1000 m and 1 hr = 3600 s. Hence,
+vavÆ53.33km
+hrÆ53.33£1000 m
+3600 sÆ14.81 m/sExercise 3.7
+tIf the car is trav-
+elling at 120 km/h,
+what is the car’s
+speed in m/s.
+Example 3.3
+
+--- [PAGE BREAK] ---
+
+3.3 Average Velocity and Instantaneous Velocity 47
+How far does a student walk in 1.5 hrs if her average speed is 5 m/s?.
+Solution:
+To ﬁnd the distance, we rewrite the equation as
+vavÆst
+tt
+sÆ vavt
+sÆ 5400 s£5m
+s
+Æ 27000 m
+3.3 Average Velocity and Instantaneous Velocity
+At the end of this section, you should be able to:
+• differentiate between average velocity and instantaneous velocity;
+•compute the average velocity of a body moving in straight line covering a
+certain displacement in a given time.
+Where an object started and where it stopped does not completely describe
+the motion of the object. Velocity is a physical quantity that describes how fast a
+body moves as well as the direction in which it moves. Hence, velocity is a vector
+quantity. Its symbol is ~v(v with an arrow on the head). The SI unit of velocity
+is meter per second (m/s). Other units of velocity include kilometer per hour
+(km/h) and miles per hour (mi/h).
+Key Concept:
+tVelocity is the rate of change of displacement.
+Suppose that the positions of a car are ~Xiat time tiand~Xfat time tf. If
+the details of the motion at each instant are not important, the rate is usually
+expressed as the average velocity. Average velocity ( ~vav) of a body is the total
+displacement covered by that body in a speciﬁed direction divided by the total
+time taken to cover the displacement. Analytically it can be written as
+Figure 3.5 The average velocity of
+the car tells how fast and in which
+direction the car is moving.
+~vavÆ~Xf¡~Xi
+tf¡tiÆ¢~X
+¢tÆ~S
+¢t(3.8)
+where ~Xfis the ﬁnal position at ﬁnal time tfand~Xiis the initial position at
+
+--- [PAGE BREAK] ---
+
+48 Unit 3 Motion in a Straight Line
+time ti. Average velocity points in the same direction as the displacement. If the
+displacement points in the positive x- direction, the average velocity is also in the
+positive x - direction. If the displacement points in the negative x-direction, the
+average velocity is in the negative x-direction.
+Key Concept:
+tAverage velocity is the total displacement of a body over a time interval. Exercise 3.8
+tDoes the average
+speed the same as
+the magnitude of
+the average velocity?
+Explain.To determine the velocity at some instant, such as t = 1.0 s, or t = 2.0 s etc.,
+we study a small time interval near that instant. As the time intervals becomes
+smaller and smaller, the average velocity over that interval becomes instantaneous
+velocity. Instantaneous velocity of a body is its velocity at any time t. For a body
+that undergoes uniform motion, the velocity of the body is uniform and the
+average velocity and the instantaneous velocity are the same. Instantaneous
+velocity can be positive or negative. The magnitude of the instantaneous velocity
+is known as the instantaneous speed.
+Exercise 3.9
+tIn 2003 Tirunesh Dibaba won the world junior cross-country title by
+completing a 5,000-metre in 14 min 39.94 sec (junior world record) and
+secured the gold at the International Association of Athletics Federations
+(IAAF) world track and ﬁeld championships, becoming the youngest-ever
+world champion in her sport. Calculate her average speed.
+Key Concept:
+tInstantaneous velocity is the velocity of a body at a speciﬁc instant in
+time.
+Example 3.4
+A student attained a displacement of 360 m north in 180 s. What was the student’s
+average velocity?
+Solution:
+We know that the displacement is 360 m north and the time is 180 s. We can use
+the formula for average velocity to solve the problem.
+~vavÆ¢~X
+¢tÆ360 m
+180 sNorth Æ2m
+sNorth
+
+--- [PAGE BREAK] ---
+
+3.3 Average Velocity and Instantaneous Velocity 49
+Example 3.5
+A girl jogs with an average velocity of 2.4 m/s east. What is her displacement after
+40 seconds?
+Solution:
+Given: ~vav= 2.4m/s east, t = 40 seconds Solution: The displacement of the girl is
+~SÆ~vav¢tÆ2.4m
+s(40s)eastÆ96mEast
+Exercise 3.10
+tAthlete 1 com-
+pletes 100m in 55
+seconds and athlete
+2 completes the
+same distance in 50
+seconds. Compare
+their average speeds.
+Which athlete has
+higher average
+speed?Example 3.6
+A bus moving along a straight line towards west covers the following distances in
+the given time intervals. Calculate the average velocity of the bus for each time
+interval.
+S in km 20 60 100 140
+t in hour 0 1 2 3
+Solution:
+By computing the displacement of the bus for each time interval, we can calculate
+the average velocity of the bus as follows.
+Between t0Æ0 and t1Æ1hr
+¢~X1Æ~Xf¡~XiÆ60km¡20kmÆ40km
+The average velocity during this time interval is
+~v1Æ¢~X1
+¢t1Æ40km
+1hrÆ40km
+hr
+Between t1Æ1hrand t2Æ2hr
+¢~X2Æ~Xf¡~XiÆ100 km¡60kmÆ40km
+The average velocity of the bus during this time interval is
+~v2Æ¢~X2
+¢t2Æ40km
+1hrÆ40km
+hr
+Between t2Æ2hrand t3Æ3hr
+¢~X3Æ~Xf¡~XiÆ140 km¡100 kmÆ40km
+
+--- [PAGE BREAK] ---
+
+50 Unit 3 Motion in a Straight Line
+The average velocity during this time interval is
+~v3Æ¢~X3
+¢t3Æ40km
+1hrÆ40km
+hr
+Therefore, for each time interval, the average velocity of the car is constant. This
+implies that the car is undergoing uniform motion.
+Note: You can convert km/hr into m/s by the relation:
+1km
+hrÆ1000 m
+60£60sÆ10
+36m
+s
+3.4 Acceleration
+At the end of this section, you should be able to:
+• deﬁne acceleration;
+•calculate the average acceleration of a body if its velocity changes from
+some initial value to ﬁnal value in a given time.
+Figure 3.6 (a) positive acceleration
+(car speeding up) and (b) negative
+acceleration (car slowing down).The discussion of motion with varying velocity can be dealt with by the intro-
+duction of the concept of acceleration. Acceleration is a vector quantity and is
+a measure of how much the velocity of an object changes in a unit of time (in
+one second). Acceleration is denoted by ~aand its SI unit ism
+s2, that is, meters
+per second squared or meters per second per second. Acceleration occurs when
+velocity changes in magnitude (an increase or decrease in speed) or in direction,
+or both as shown in Figure. 3.6. Acceleration is, therefore, a change in speed or
+direction, or both.
+Key Concept:
+tAcceleration is the rate of change of velocity.
+If the initial velocity of a body is ~viat a time ti, and the ﬁnal velocity is ~vfat a
+time tf, the average acceleration is, from the deﬁnition,
+~aavÆ~vf¡~vi
+tf¡ti(3.9)
+If a body starts from rest, then the initial velocity is zero ( ~viÆ0). If the velocity
+of a body decreases, then the ﬁnal velocity is less than the initial velocity. Such
+
+--- [PAGE BREAK] ---
+
+3.4 Acceleration 51
+motion is called decelerating motion. Deceleration is the negative of acceleration.
+If the body comes to rest, the ﬁnal velocity is zero ( ~vfÆ0).
+Exercise 3.11
+tIf the initial and ﬁnal velocities of a car are the same, what will be its
+acceleration?
+tIs the direction of the acceleration always in the direction of the velocity?
+Example 3.7
+A train moving in the east direction accelerates from rest to 36 km/h in 20 s. What
+is the average acceleration during that time interval?
+Given: ~viÆ0,~vfÆ36km/h,¢tÆ20s,
+Required: ~aavÆ?
+Solution:
+~aavÆ~vf¡~vi
+¢tÆ36km
+h¡0
+20s
+~aavÆ10m
+s¡0
+20sÆ Å0.5m
+s2to east
+Note that 36km
+his equivalent to 10m
+s. The plus sign in the answer means that
+acceleration is to the right. This is a reasonable conclusion because the train
+starts from rest and ends up with a velocity directed to the right (i.e., positive). So,
+acceleration is in the same direction as the change in velocity.
+Example 3.8
+A car travelling at 7 .0m/salong a straight road accelerates 2 .5m/s2to reach a
+speed of 12.0 m/s. How long does it take for this acceleration to occur?
+Given: viÆ7.0m/s,vfÆ12.0 m/s,aavÆ2.5m/s2,
+Required: ¢tÆ?
+
+--- [PAGE BREAK] ---
+
+52 Unit 3 Motion in a Straight Line
+Solution:
+¢tÆvf¡vi
+aavÆ12.0 m/s¡7.0m/s
+2.5m/s2Æ2s
+3.5 Uniform Motion
+At the end of this section, you should be able to:
+• deﬁne uniform motion;
+• give examples of uniform motion.
+Uniform motion is the motion of an object along a straight line with a constant
+velocity or speed in a given direction. In a uniform motion, an object travels
+equal distances in ﬁxed intervals of time. In fact, a moving body does not have a
+uniform speed throughout its motion. Sometimes the body speeds up or slows
+down, and other times it moves with a constant speed. This is why describing
+motion in terms of average quantities (average speed and average velocity) is
+highly important. Some examples of a uniform motion are a car moving on a
+straight road with a ﬁxed speed (as shown in Figure 3.7) and an airplane ﬂying
+with constant speed in a given direction.
+Key Concept:
+tMotion at a constant velocity or uniform motion means that the position
+of the object is changing at the same rate.
+The uniform rectilinear motion has the following properties:
+•The acceleration is zero (a=0) because neither the magnitude of the velocity
+nor its direction changes.
+Figure 3.7 A car moving with a constant speed without changing the direction of mo-
+tion.
+
+--- [PAGE BREAK] ---
+
+3.6 Graphical Representation of Motion 53
+•On the other hand, the average and instantaneous velocities have the same
+values at all times.
+Exercise 3.12
+tConsider the fol-
+lowing S-t graph of
+two cars in motion
+on a straight line as
+shown in Figure 3.8.
+Which car is moving
+faster and why?3.6 Graphical Representation of Motion
+At the end of this section, you should be able to:
+• plot s-t and v-t graphs;
+• deﬁne the slope of a motion;
+• calculate the velocity from S-t graph and acceleration from v-t graph.
+The motion of an object travelling even in a straight line can be complicated.
+The object may travel forwards or backwards, speed up or slow down, or even stop.
+Where the motion remains in one dimension, the information can be presented
+in graphical form. The main advantage of a graph compared with a table is that it
+allows the scope of the motion to be seen clearly.
+Figure 3.8 The s-t graph for a uni-
+form motion.Position-Time Graph
+A position-time graph indicates the position of an object at any time for motion
+that occurs over an extended time interval. The data from Table 3.2 can be
+presented by plotting the time data on a horizontal axis and the position data on
+a vertical axis, which is called a position-time graph. The graph of the runner’s
+motion is shown in Figure 3.8. To draw this graph, ﬁrst plot the runner’s recorded
+positions; then, draw a line that best ﬁts the recorded points.
+Table 3.2 Table 3.2: Position-time table for the runner.
+Position vs. time
+Time (s) Position (m)
+0 0
+1 5
+2 10
+3 15
+4 20
+5 25
+6 30

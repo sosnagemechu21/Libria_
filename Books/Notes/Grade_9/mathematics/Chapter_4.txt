@@ -1,0 +1,1182 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 4: SOLVING INEQUALITIES   ……………………
+Pages: 162 to 195
+=================================================================
+
+            Unit 4: Solving Inequalities  
+                                                                
+    
+ 
+ 
+SOLVING INQUALITIES  
+ 
+ 
+ 
+Unit Outcomes  
+Solve linear inequalities in one variable . 
+Solve inequalities involving absolute value . 
+Solve system of linear inequalities . 
+Solve quadratic inequalities . 
+Apply inequalities in real life situations . 
+ 
+Unit Contents  
+4.1  Revision on Linear Inequalities in One Variable  
+4.2  Systems of Linear Inequalities in Two Variables  
+4.3  Inequalities Involving Absolute Value  
+4.4  Quadratic Inequalities  
+4.5  Applications of Inequalities  
+ Summary  
+Review Exercise
+  
+ 
+  UNIT  
+4 
+151
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ 
+ • linear equation                         • Quadratic inequality  
+• linear inequality                          • sign chart  
+• Absolute value  • open interval                                • solution set  
+• closed intervals                       • Product property                           •  Quadratic equation                                
+• discriminant   • complete listing                          
+ 
+An algebraic inequality is a mathematical sentence connecting an expression to a 
+value, variable, or another expression with an inequality sign (<, ≤, >, or ≥) . Solving 
+inequalities is similar to  solving equations.  
+4.1 Revision  on Linear Inequalities  in one V ariable  
+ 
+ 
+ 
+a.If you add or subtract the same number from both sides of an inequality, will 
+the inequality sign remain the same or have to be reversed?   For instance, if 
+2<5, then can you conclude that 2+𝑐<5+𝑐 ? Why?    2−𝑐<5−𝑐 ? 
+Why?  
+b.If you multiply or divide by a negative number, will the inequality sign 
+change? Why?  
+Activity 4.1 
+Review on some properties of inequalities.  
+a. If a>b,then  a+c>b+c              
+b. If a>b,then a−c>b−c 
+c.  If a>b and m>0,then  ma>mb and a
+m>b
+m   
+d.  If a>b and m<0,then ma<mb and a
+m<b
+m 
+ 
+152
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+Solve the following inequalities.  
+a. 𝑥−5>2    b.  2𝑥>4   c.  1
+3𝑥<1 
+d.  −3𝑥>6   e.  2𝑥−3≥1  
+Solution:   
+a. 𝑥−5>2             
+𝑥>2+5 
+𝑥>7 b. 2𝑥>4 
+𝑥>4
+2  
+𝑥>2 c. 1
+3𝑥<1 
+𝑥<3  
+d. −3𝑥>6   
+𝑥<−2  e. 2𝑥−3≥1 
+2𝑥≥4,  𝑥≥2   
+ 
+Solve the following inequalities.   
+   a.  𝑥−1>3                            b.  4𝑥<12                 
+   c.  −1
+5𝑥≤2                            d.  3𝑥+1≥7 
+ 
+ 
+Express the following using the notation of intervals.  
+ 
+a 
+ 
+b 
+ 
+c 
+ 
+Solution:  
+a. [1, 6]                              b. [−3, 2)                            c. (𝑎−2, 𝑎+1]  
+Example 1  
+  
+Exercise 4.1.1 
+Example 2  
+  
+153
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+ 
+Write down  (−7, 3) on the number line  
+Solution:                  
+ 
+ 
+1. Express the following  using the notation of in terval s. 
+a.       
+ 
+b.   
+ 
+ 
+c.   
+ 
+−5 0 5 4 −6 −4−3 −1 −2 3 2 6 7  1 −7 − 
+−5 0 5 4 −6 −4−3 −1 −2 3 2 6 7  1 −7 − 
+−5 0 5 4 −6 −4−3 −1 −2 3 2 6 7  1 −7 − 
+−5 0 5 4 −6 −4−3 −1 −2 3 2 6 7  1 −7 − 
+ 
+The symbol  [𝑎,𝑏] is closed interval with end -points 𝑎 and 𝑏. It shows the set of 
+all real numbers 𝑥 such that 𝑎≤𝑥≤𝑏. 
+The symbol  (𝑎,𝑏)  is open interval with end -points 𝑎 and 𝑏. It shows the set of 
+all real numbers 𝑥 such that 𝑎<𝑥<𝑏. 
+The symbol  [𝑎,𝑏) and (𝑎,𝑏]  is half -open interval. They show th e set of all real 
+numbers 𝑥 such that 𝑎≤𝑥<𝑏 and 𝑎<𝑥≤𝑏, respectively.  
+ 
+Note  
+Example 3  
+  
+Exercise 4.1.2 
+154
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ 2. Express the following in tervals  on a number line.  
+   a. (−3,1)                        b. [−2,4)                             c. [−5,1] 
+ 
+Solve the inequality below and express it on a number line.  
+                   𝑥+1>−2 
+Solution:  
+                 𝑥+1>−2 
+                   𝑥>−3 
+                 
+Using interval notation, the solution is (−3,∞). To represent the solution on a 
+number line, we place the solution (boundary point) on the number line. Since  
+𝑥=−3 is not a solution to the inequality (<) we use an open dot as shown.  Using 
+the set notation, the solution is {𝑥 | 𝑥>−3} 
+Solve   3𝑥−(𝑥+2)≥0, and express it on a number line  
+Solution:              
+                               3𝑥−𝑥−2≥0  
+                                                2𝑥≥2 
+                                                  𝑥≥1 ( dividing both sides by 2) 
+Now, we place the solution (boundary point) on the number line.  Since, 𝑥=1 is 
+also a solution to the inequality  (≥) we use a filled -in dot as follows:  
+                                                                                                                                                                                
+The solution is   𝑥≥1. Using interval notation, the solution is [1,∞). 
+                                                                    
+−5 0 5 −3
+Example 1  
+  
+Example 2  
+  
+155
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ Solve 𝑥+2<−𝑥+6, and express it on a number line  
+Solution:  
+             𝑥+𝑥<6−2 
+                  2𝑥<4  
+                   𝑥<2 
+Using interval notation, the solution is (−∞,2). The solution is  represent ed on a 
+number line  as follows:  
+                           
+Solve  the inequality below and graph the solution set and write it in an  interval  
+notation.  
+                             −2
+3𝑥+1
+2≤5
+6 
+Solution:  
+−2
+3𝑥+1
+2≤5
+6  
+6(−2
+3𝑥+1
+2)≤6(5
+6)  
+                     −4𝑥+3≤5  
+                           −4𝑥≤2   
+𝑥≥−1
+ 2  (dividing both sides by −4 ) 
+     The solution in interval notation is  [−1
+2,∞) 
+                                           
+ 
+1. Solve the inequality below, express it on a number line, and write it in an interval 
+notation.  
+a. 𝑥−2>3                                b. 𝑥+1≤5        
+Example 3  
+  
+Example 4  
+  
+Exercise 4.2 
+156
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ 2. Solve the following linear inequalities.  
+       a.  𝑥+3<5    b.  𝑥+6>2 
+c.  𝑥−10≤−7    d. 3𝑥−(2𝑥+2)≤7 
+e.  1
+3𝑥≥4    f.  2
+3𝑥≤6 
+g.  −5𝑥>−15    h.  4𝑥−(2𝑥+ )≥0 
+i.  5𝑥−3(𝑥−1)<5   j.   𝑥−5>2𝑥+4  
+k.  𝑥+2
+5≥2𝑥
+3       l.  1
+4𝑥+6>5 
+ 
+4.2 Systems  of Linear Inequalities in T wo variables  
+ 
+ 
+1.How do  you dr aw the graph of a linear equation  given the 𝑦-intercept and the 
+slope?  
+2.What mathematical statement  describe all the points above the lin e 
+ 𝑦=𝑥+3, below  the line  𝑦=𝑥+3, on the line  𝑦=𝑥+3? 
+3.What linear inequality is represented by the graph below?   
+ 
+    a.   𝑥−𝑦≥2                                           b.   𝑥−𝑦≤2 
+   c.   −𝑥+𝑦≥2                                        d.   −𝑥+𝑦≤2                                                     
+                             
+Activity 4.2 
+157
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+Important procedures in solving inequaliti es in two variables 
+graphically  
+To solve  an inequality in two variables  graphically, first sketch the corresponding 
+equation s on the same  xy-plane . This graph is the boundary line (or curve);  since all 
+points that make the inequality true lie on one side or the other of the line. Befor e 
+graphing the equations, decide whether the line or curve is part of the solution or not, 
+that is, whether it is solid or dashed.  
+If the inequality symbol is ei ther ≤or ≥, then the points on the  boundary line are 
+solutions to the inequality and the line must be solid . If the symbol is ei ther <or >, 
+then the points on the boundary line are not solutions to the inequality and the line is 
+dashed.  
+Next, decide which side of the boundary line must be shade d to show the part of the 
+graph that represents all  (𝑥,𝑦)  coordinate pairs that make the inequa lity true. To do 
+this, choose a point not on the boundary line. Substitute the 𝑥- and 𝑦-values of this 
+point int o the original inequalit ies. If the inequalit y is true for the test point, then 
+shade the region on the side of the boundary line that contains the test point. If the 
+inequality is  false for the test point, then shade the opposite regi on. The shaded 
+portion represents all of the  (𝑥,𝑦) coordinate pairs that are solutions to the original 
+inequalit y.  
+ 
+Solve the  inequality   𝑦>−𝑥 using graphical method.  
+Solution:  
+Definition 4.1 
+Linear inequalities in two variables  represent the unequal relation 
+between  two algebraic expressions that includes  two distinct  variables . 
+ 
+Example  
+  
+158
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ Sketch the corresponding equation 𝑦=−𝑥  on the xy-plane . 
+                         
+ 
+You can check a couple of points to determine which side of the boundary line to 
+shade. Checking points (−2,3) and (4,−1) yield true statements. So, we shade the 
+area above the line. The line  is dashed as points on it  are not part of the solution.                                 
+ 
+Solve the following linear inequalities in two variables using graphical method.  
+a. 𝑦≤−𝑥    b.   𝑦>𝑥 
+c.   𝑦<𝑥+2    d.   𝑦≥−𝑥+1 
+e.   𝑥>−𝑦 
+Solving systems of linear inequalities in two variables using 
+graphical method  
+ 
+Exercise 4.3 
+ 
+By drawing the paired inequalities on the same 𝑥𝑦-plane, identify the common 
+region  
+         a.    𝑦>𝑥  and  𝑦>−𝑥    b.    𝑦<𝑥+2  and  𝑦>2𝑥 
+Activity 4.3 Figure 4.1  
+159
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ The solution to the system of inequalities is the overlap of the shading from th e 
+individual inequalities. When two boundary lines are graphed, there are often four 
+regions. The region containing the coordinate pairs that make both of the inequaliti es 
+true is the solution region.  
+Solve the system of linear inequalities { 𝑦<2𝑥+5
+𝑦>−𝑥   graphically
+ Solution:  
+First, draw the graph of the linear equation, 𝑦=2𝑥+5. As shown in Fig  4.2, the 
+dashed line is  𝑦=2𝑥+5. Every ordered pair in the shaded  area below the line is a 
+solution to  𝑦<2𝑥+5, as all  the points below the line will make the inequality true. 
+To confirm this, you may substitute 𝑥 and 𝑦 coordinate of points such as 
+(3,1), (−1,−1), etc. into the inequalities.  So, the shaded area (Fig 4.2) shows all  the 
+solutions for this inequality.  The boundary line divides the coordinate plane in half. 
+In this case, it is shown as a dashed line as the points on the line do  not satisfy the 
+inequality.  
+ 
+                                                 Figure 4. 2  
+If the inequality had been  𝑦≤2𝑥+5 , then the boundary line would have been 
+solid.  Next, d raw the graph of 𝑦>−𝑥 in the same plane . As shown in Fig 4.3, the 
+Example 1  
+  
+160
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ area shared by light blue shows the region 𝑦>−𝑥.  The points on the line  𝑦=−𝑥 
+do not satisfy 𝑦>−𝑥,  the line was dashed.  
+                                     
+                                                  Figure 4.3  
+The dark blue area (Fig 4.3) shows where , the solutions of the two inequalities 
+overlap. This area is the solution to the  system  of inequalities . Any point within this 
+blue region will be true for both  𝑦<2𝑥+5 and 𝑦>−𝑥.    
+ 
+Solve the following linear inequalities in two variables using graphical method.  
+a. { 𝑦<2𝑥+1
+𝑦>−𝑥   b.  { 𝑦>2𝑥+1
+𝑦<−𝑥   c.   { 𝑦<𝑥+1
+𝑦>−3𝑥 
+       d.    { 𝑦>𝑥+1
+𝑦>−3𝑥   e.  { 𝑦<−𝑥+2
+𝑦<𝑥 
+ 
+ 
+Solve the system of linear inequalities 𝑦≤𝑥−2   and 𝑦>−3𝑥+5  using graphical 
+method.  
+Solution:    
+Exercise 4.4 
+Example 2  
+  
+161
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ First, graph the inequality  𝑦≤𝑥−2. The related equation is  𝑦=𝑥−2 (Fig. 4.4). 
+Since the inequality is ≤ (less than or equal to), any points on the line satisfy the 
+inequality. Thus, you use the solid line for the border line.       
+                                        
+                                                          Figure 4.4                       
+Consider a point that is not on the line, for instance, (0,0), and substitute in the 
+inequality.  
+        𝑦≤𝑥−2  
+       (L.H.S)=0,  (R.H.S)=0−2=−2 
+Thus, (L.H.S)≥(R.H.S).  This is not true . 
+So, the solution does not contain the 
+point(0,0). Hence, s hade the lower half of 
+the line  𝑦=𝑥−2  (Fig 4.5). 
+     
+ 
+                                    
+Similarly, draw a dashed line for the related equation 𝑦>−3𝑥+5 of the second 
+inequality    which has a strict inequality  (Fig 4.6). The point  (0,0) does not satisfy 
+the inequality, so shade the half that does not contain the point (0,0). 
+Figure 4. 5 
+162
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+                                              
+ 
+The solution of the system of inequalities is the intersection region of the solutions of 
+the two inequalities  (Fig 4.7). 
+                                              
+                           
+ 
+Solve the following {2𝑥+3𝑦≥12
+ 𝑥−4𝑦>1
+𝑥<4  
+  
+Example 3  
+  Figure 4.7  Figure 4.6  
+163
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ Solution:   
+Rewrite the first two inequal ities with y alone on one side.  
+                    3𝑦≥−2𝑥+12              
+This leads to 𝑦≥−2
+3𝑥+4. 
+Similarly, the second inequality,  
+  𝑥−4𝑦>1,  4𝑦< 𝑥−1, then, 
+𝑦<2𝑥−1
+4. Now, graph the inequality  
+𝑦≥−2
+3𝑥+4. The  related equation 
+is 𝑦=−2
+3𝑥+4. Since the inequality 
+is
+, the border line is solid.  Shade the 
+upper half of the line  (Fig 4.8), as 
+ 𝑦≥−2
+3𝑥+4.                                           
+Similarly, draw a dashed line of related equation 𝑦=2𝑥−1
+4 of the second 
+inequality  𝑦<2𝑥−1
+4   which has a strict inequality. Shade the lower half of the 
+line( Fig 4.9)          
+ 
+ 
+𝑥𝑦
+ 2𝑦=−2
+3𝑥+44
+24 −2 −4
+−4−2
+𝑦=2𝑥−1
+4
+Figure 4.9  Figure 4.8  
+𝑥𝑦
+ 2𝑦=−2
+3𝑥+44
+24 −2 −4
+−4−2
+164
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ Draw a dashed vertical line  𝑥=4,  which is the related equation of the third 
+inequality . Since 𝑥<4, shade the left half of the line (Fig 4.10) . 
+ 
+ 
+ 
+ 
+The solution of the system of inequalities is the intersection region of the solutions of 
+the three inequalities . 
+ 
+Solve the following systems of linear inequalities by using g raphical method.  
+a. {𝑦>3𝑥−4
+𝑦≤−2𝑥                b.   {𝑦≥−3𝑥−6
+𝑦>4𝑥−4   
+      c.  {𝑦≤1
+2𝑥+2
+𝑦≤−2
+3𝑥+1                        d.  {𝑦<−3
+5𝑥+4
+𝑦≤1
+3𝑥+3  
+      e.   {𝑦<−3
+7𝑥−1
+𝑦>4
+5𝑥+1    f.   {2𝑥+𝑦<4
+𝑥−𝑦≤4
+𝑥>2 
+ 
+ 
+ 
+𝑥𝑦
+ 2𝑦=−2
+3𝑥+44
+2 4 −2 −4
+−4−2
+𝑦=2𝑥−1
+4𝑥=4
+Exercise 4.5 
+Figure 4.10  
+165
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ 4.3 Inequalities  Involving A bsolute  Value 
+ 
+Grap hing  absolute  value  inequalities  
+ 
+While graphing  absolute value inequalities  on a number line , you have to keep the 
+following things in mind.  
+➢ Use open dots at the endpoints of the open interval  (𝑎,𝑏).  
+➢ Use closed dots at the endpoints of the closed  interval  [𝑎,𝑏]. 
+ 
+ 
+ 
+Which of the absolute value inequalities represent the number line indicated by 
+red color below?  
+               
+a.|𝑥+4|>3        b. |𝑥+4|≥3         c. |𝑥+4|<3            d. |𝑥+4|≤3  
+Activity 4.4 
+166
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+Graph the following absolute value inequality on a number line.  
+a. |𝑥|≤1                                 b. |𝑥|>1 
+Solution:     
+a. |𝑥|≤1 are the numbers that satisfy −1<𝑥<1. 
+ 
+b. |𝑥|>1 are the numbers that satisfy 𝑥<−1 or 𝑥>1.  
+ 
+ 
+ Put the following absolute value inequalities on a number line . 
+a. |𝑥|<2                    b.   |𝑥|≤3                               c. |𝑥|≤5                   
+      d. |𝑥|>4                    e. |𝑥|>3
+2 
+ 
+Inequalities involving absolute value  
+Assume  𝑘 is an algebraic expression and 𝑐 is a positive number.    
+The solutions of  |𝑘|<𝑐  are the numbers that satisfy   −𝑐<𝑘<𝑐  
+The solutions of  |𝑘|> 𝑐  are the numbers that satisfy   𝑘>𝑐  or  𝑘<−𝑐 .  These 
+rules  are valid if < is replaced by  ≤ and > is replaced by ≥ . 
+Solve the absolute value inequality  |𝑥+2|<4.   
+Solution:   
+The solutions of  |𝑘|<𝑐  are the numbers that satisfy   −𝑐<𝑘<𝑐.  
+Hence, |𝑥+2|<4  
+          −4<𝑥+2<4 
+          −4<𝑥+2  and 𝑥+2<4 
+Example  
+  
+Exercise 4.6 
+Example 1  
+  
+167
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+            −4<𝑥+2  
+          −6<𝑥   
+            𝑥>−6  
+On the other hand, 𝑥+2<4  
+                               𝑥<2.  
+Therefore, the solution is 𝑥>−6 and 𝑥<2 or equivalently ,−6<𝑥<2 
+The solution using interval notation is (−6,2) 
+The solution using  a number line is shown as follows:  
+                    
+Note: Here, we can see that the number line is divided into 3 parts.  
+                   
+Take a random number from each of these intervals and substitute it in the given 
+inequality.   
+Identify which of these numbers satisfy  the given inequality.  For instance, 𝑥=0 
+does satisfy the inequality, while neither 𝑥=−7 nor 𝑥=3 satisfy it.  
+                       
+Therefore, the solution of the given inequality is,  (−6,2)  or −6<𝑥<2  
+Alternatively, one can solve  |𝑥+2|<4 using |𝑘|<𝑐  if and only if  −𝑐<𝑘<𝑐    
+                −4<𝑥+2<4   
+−4−2<𝑥<4−2  
+                                                    −6<𝑥<2    
+We also note the following:  
+−6 0 2 −2 −4
+168
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ i. If the problem was  |𝑥+2|≤4 , then the solution would have been [−6,2] or 
+−6≤𝑥≤2 
+ If |𝑥+2|>4, then the solution would have been (−∞,−6)∪(2,∞) or 𝑥<
+−6 or 𝑥>2. 
+ii.  Also  If  |𝑥+2|≥4, then the solution would have been  (−∞,−6]∪[2,∞) or 
+ 𝑥≤−6 or 𝑥≥2.  
+Solve the absolute value inequality  |3𝑥−2|≥7.   
+Solution:   
+The solutions of  |𝑘|≥𝑐  are the numbers that satisfy   𝑘≥𝑐 𝐨𝐫 𝑘≤−𝑐.  
+Hence, |3𝑥−2|≥7  
+ 3𝑥−2≥7 𝐨𝐫 3𝑥−2≤−7 
+ 3𝑥≥9 𝐨𝐫 3𝑥≤−5 
+ 𝑥≥3 𝐨𝐫 𝑥≤−   5
+   3.      (Represent o n a number line )   
+ 
+Steps for Solving Linear Absolute Value Inequalities:    
+1. Identify what the absolute value inequality is set “equal” to…  
+    a. If the absolute value is less than zero, there is no solution.  
+    b. If the absolute value is less than or equal to zero, there is one solution. Just set  
+        the argument equal to zero and solve.  
+    c. If the absolute value is greater than or equal to zero, the solution is all re al   
+        numbers.  
+    d. If the absolute value is greater than zero, the solution is all real numbers  
+        except for the value which makes it equal to zero. This will be written as a  
+        union.  
+2. Graph the answer on a number line and write the answer in interval notation.  
+−5 0 5 −5
+33
+Example 2  
+  
+169
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ Solve the absolute value inequality  |−𝑥+4|<0.   
+Solution:  
+As said above in step (a ), there is no solution as the absolute value is less than 0. We 
+can prove it as follows.  Using |𝑘|<𝑐, if and only if  −𝑐<𝑘<𝑐,  the inequality 
+becomes,     −0<−𝑥+4<0 
+                      0<−𝑥+4<0  
+                      0<−𝑥+4    and   −𝑥+4<0 
+This leads to 𝑥<4 and 𝑥>4. Hence, there is no real number satisfies 𝑥. Thus, this 
+inequality has no solution.  
+Solve the absolute value inequality  |−5𝑥−7|≤0.   
+Solution:  
+As said above in steps (b.), there is one solution when the given inequality is equal to 
+zero. Thus, the solution of  |−5𝑥−7|=0  is the solution of |−5𝑥−7|≤0. 
+    |−5𝑥−7|=0  
+−5𝑥−7=0  
+  𝑥=−7
+5   
+ 
+Solve the absolute value inequality  |6𝑥+ |>−2.   
+Solution:  
+As absolute value of a number is always greater than  a negative number, the value of 
+𝑥 is all real numbers.     
+ 
+Solve the following absolute value inequalities.  
+a.  |𝑥+3|<7    b. |𝑥−5|≤2   c.  |𝑥−7|>4 
+Example 3  
+  
+Example 4  
+  
+Example 5  
+  
+Exercise 4.7 
+170
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ d.  |2𝑥−3|≥5    e. |𝑥+ |<0    f.  |3−𝑥|≤0  
+g.  |4𝑥−5|≥−2 
+    
+4.4 Quadratic  Inequalities  
+In unit 3 section 3 .3.3, you have learned how to solve quadratic equations using 
+factorization, completing the square method or  quadratic formula .  
+ 
+For instance,  inequalities  such as 𝑥2−6𝑥−16≥0, 2𝑥2−11𝑥+12>0, 
+𝑥2+4>0,  𝑥2−3𝑥+2≤0 are quadratic inequalities.  
+ 4.4.1 Solving  quadratic inequalities using  product  
+          properties  
+ 
+Definition 4.2 
+The general forms of the quadratic inequalities are : 𝑎𝑥2+𝑏𝑥+𝑐<0, 𝑎𝑥2+
+𝑏𝑥+𝑐≤0, 𝑎𝑥2+𝑏𝑥+𝑐>0 and 𝑎𝑥2+𝑏𝑥+𝑐≥0 where ≠𝑎 and 
+ a, b, c ∈ℝ 
+ 
+1.a) If the product of two real numbers is greater than zero, what can you say  
+    about the  numbers?  
+b) If the product of two real numbers is less than zero, what can you say about  
+    the numbers?   
+c) If the product of two real numbers is equal to zero, what can you say about  
+    the numbers?  
+2.If possible, factorize each of the following expressions.  
+a.  𝑥2− 𝑥+16    b.  𝑥2−𝑥−6 
+c.  𝑥2+4𝑥+7     d.  3𝑥2−17𝑥+10 
+ 
+Activity 4.5 
+171
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ Product properties:   
+1. 𝒎𝒏>𝟎,  if and only if  
+i.   𝒎>𝟎  and  𝒏>𝟎      or      ii.   𝒎<𝟎  and  𝒏<𝟎  
+2. 𝒎∙𝒏<𝟎,  if and only if  
+      i.   𝒎>𝟎  and  𝒏<𝟎       or      ii.   𝒎<𝟎  and  𝒏>𝟎  
+ 
+Solve  (𝑥−3)(𝑥−1)<0     
+Solution:   
+Using the product property 2, the first case is  
+  𝑥−3>0  and  𝑥−1<0 
+This leads to   𝑥>3  and  𝑥<1, which is not possible.  
+The second case is  𝑥−3<0  and  𝑥−1>0 
+This leads to   𝑥<3  and  𝑥>1, which is  1<𝑥<3. 
+Therefore, the solution is 1<𝑥<3,  or (1,3) in interval notation.  
+Solve the inequality  (𝑥−4)(𝑥−2)>0  
+Solution:   
+Using the product property , 
+Case i: 𝑥−4>0 and 𝑥−2>0 
+            𝑥>4 and 𝑥>2 
+            𝑥>4     or 
+Case ii: 𝑥−4<0 and 𝑥−2<0 
+            𝑥<4 and 𝑥<2 
+          Thus,   𝑥<2 
+Hence, the solution is 𝑥<2  or  𝑥>4.  This is expressed as (−∞,2)∪(4,∞) in 
+interval notation.  
+Example 1  
+  
+Example 2  
+  
+172
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+Solve the following quadratic inequalities.  
+a. (𝑥−5)(𝑥−4)<0    b. (𝑥+1)(𝑥−5)<0 
+c. (𝑥+3)(𝑥−6)≥0    d. (𝑥−2)(𝑥−7)>0  
+e. (2𝑥−1)(𝑥−3)≤0    f. (3𝑥+5)(3𝑥+1)>0  
+ 
+Rearrange the given formula, factorize it, and solve the quadratic inequality.   
+ 
+Solve the inequality  𝑥2−𝑥≥12. 
+Solution:  
+𝑥2−𝑥≥12  implies  𝑥2−𝑥−12≥0.   
+Factorize the  quadratic inequality to get  (𝑥−4)(𝑥+3)≥0.  
+Using the product rule, the product will be greater than or equal to zero if  
+i. 𝑥−4≥0  and  𝑥+3≥0.  Hence, 𝑥≥4  and  𝑥≥−3.  Thus,  𝑥≥4. 
+Or  
+ii. 𝑥−4≤0  and  𝑥+3≤0.  Hence, 𝑥≤4  and  𝑥≤−3.  Thus,  𝑥≤−3. 
+Therefore, the solution of this quadratic inequality is  𝑥≤−3  or  𝑥≥4.  
+Alternatively, the solution is (−∞,−3]∪[4,   ∞).       
+Solve an inequality −𝑥2+𝑥+12≤0 
+Solution:  
+−𝑥2+𝑥+12≤0 implies 𝑥2−𝑥−12≥0 
+The rest of the solution is the same as Ex ample  3 above . 
+Therefore, the solution of this quadratic inequality is   𝑥≤−3  or  𝑥≥4.  
+Alternatively, the solution is (−∞,−3]∪[4,   ∞). 
+Exercise 4.8 
+Example 3  
+  
+Example 4  
+  
+173
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+Solve the following quadratic inequalities using product rule.  
+ a.   𝑥2−6𝑥+ <0    b.  𝑥2+6𝑥+ ≥0 
+c.   𝑥2−2𝑥− >0    d. 𝑥2−7𝑥≤−6  
+e.  −x2+4<0     f.  2x2+x−15≤0 
+g.  −2x2+5x+12≥0 
+ 
+4.4.2 Solving  quadratic inequalities  using sign chart   
+Sign chart is  a table or number line used to solve inequalities which can be factorized 
+into linear  binom ials. For example , (𝑎𝑥+𝑏)(𝑐𝑥+𝑑)>0. It could also be less than 
+or equal or greater than or equal .  
+Steps in solving quadratic inequalities  by sign chart : 
+1. Re-write the inequality to get a 0 on the right -hand side.  
+2. Factor (if possible) the left -hand side.  
+3. “Graph” each factor on a sign chart using a display of signs. A root of any factor 
+is a key point.  
+4. Each key point or interval is displayed using a column.  
+Exercise 4.9 
+ 
+Fill in the table as +++, −−−  or 0 as indicated in the table .  
+Factors  𝑥<−1 𝑥=−1 −1<𝑥<2 𝑥=2 𝑥>2 
+ 
+𝑥+1 −−−     
+ 
+𝑥−2  − −−− 0  
+𝑓(𝑥)=(𝑥+1)(𝑥−2)     + + +  
+ 
+Activity 4.6 
+174
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ Solve (𝑥−4)(𝑥+3)<0 
+Solution:   
+The factors of the left -hand side is 𝑥=−3 and 𝑥=4. Using the factors,  we prepare 
+the sign chart as follows:  
+Factors  𝑥<−3 𝑥=−3 −3<𝑥<4 𝑥=4 𝑥>4 
+𝑥−4 − − − − − − − 0 + + + 
+𝑥+3 − − − 0 + + + + + + + 
+(𝑥−4)(𝑥+3) + + + 0 − − − 0 + + + 
+ 
+From the table above, we see that  (𝑥−4)(𝑥+3)<0 if  −3<𝑥<4.  
+Alternatively, 𝑥∈(−3,4) 
+We represent this on a number line as follows : 
+                      
+Solve  (𝑥+3)(𝑥+2)≥0        
+Solution:   
+Factors  𝑥<−3 𝑥=−3 −3<𝑥<−2 𝑥=−2 𝑥>−2 
+𝑥+3  
+ − − − 
+ 0 + + + + + + + 
+𝑥+2  − − − 
+  −  
+ − − − 
+ 0 + + + 
+ (𝑥+3)(𝑥+2) + + +  0 − − − 
+ 0 + + + 
+ 
+From the table above, we see that  (𝑥+3)(𝑥+2)≥0 when 𝑥≤−3 𝑜𝑟 𝑥≥−2. 
+The solution  can be written  using  interval  notation  as (−∞,−3]∪[−2,∞)   
+We represent this on a number line  as follows : 
+Example 1  
+  
+Example 2  
+  
+175
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+                  
+ 
+ 
+Use sign chart to solve the following quadratic inequalities. Check the solution 
+with the product property method.   
+a. (𝑥−3)(𝑥+1)<0                                          b. (𝑥−3)(𝑥+2)>0 
+      c.  (2𝑥−1)(3𝑥+4)>0                                       d. 𝑥2−𝑥−12≤0           
+      e.  𝑥2+2𝑥−15>0                                               f.   5−4𝑥−𝑥2>0     
+g.  1−𝑥−2𝑥2<0                                               h. 10𝑥2−19𝑥+6≤0  
+ 
+4.5 Some Applications  of Inequalities  
+ 
+ 
+−5 0 5 −2−3
+Exercise 4.10 
+ 
+Write each statement as linear inequality in two variables.  
+a.The sum of the costs of 10 books  and 4 pens is greater than Birr 180.  
+b.Given that Ariat is taller than Medina. The difference between the height of 
+Medina and Ariat is at least 10cm.  
+c.Five times the length of a ruler decreased by 5cm is less than the height of 
+Musa . 
+d.In a month, the total amount the family spends for food and educational 
+expenses and recreation is at most Birr 5,000.  
+ 
+Activity 4.8 
+ 
+The total amount Meskerem  paid for 5 kilos of rice and 2 kilos of coffee is less than 
+Birr 600.  
+a.What mathematical statement represents the total amount Meskerem paid? 
+Define the variables used.  
+Activity 4.9 
+176
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+Kebede has started a saving account for buying a tractor. He saved Birr 6 ,000 up to 
+last month and plans to add Birr 1 ,000 each month until he saves more than Birr 
+80,000. Write and solve the inequality. Then, interpret the answer.  How many 
+months does he need to save more than Birr 80, 000?  
+Solution:   
+More than Birr 80,000 means greater than Birr 80,000.  𝐿𝑒𝑡 "𝑚" be the number of 
+months  he saves . 
+ 6,000+1,000𝑚> 0,000 
+ 1,000𝑚>74,000  
+         𝑚>74 
+Since the number of month s is greater than 74, it will take him more than 6 years 2 
+months to save enough money to buy a tractor.  
+Chaltu likes to text message s to her friends using her cell phone. She is charged Birr 
+0.20 each time she types a message. Her telephone has Birr 50.00 in her account. She 
+is allowed to have a bill that is at most Birr 80 .00. Write and solve the inequality. 
+Then, interpret the answer.  How many messages can she text message at most?  
+Solution:   
+At m ost means less than or equal to and then we have  
+                 0.2𝑚+50≤ 0 
+    0.2𝑚≤30 b. Suppose a kilo of rice costs Birr 35. What could be the greatest cost of a 
+kilo of coffee to the nearest birr?  
+c. Suppose Meskerem paid more than Birr 600 and each kilo of rice costs Birr  
+34. What could be the least amount she will pay for 2 kilos  of coffee ? Of 
+coffee to the nearest b irr? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 1  
+  
+Example 2  
+  
+177
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+     𝑚≤150 
+Since the number of messages is less than or equal to 150, she can send a maximum 
+of 150 text messages.  
+ 
+The length of a normal human pregnancy is from 37 to 41 weeks, inclusive.  
+a. Write an inequality representing the normal length of a pregnancy.  
+b. Write a compound inequality representing an abnormal length for a 
+pregnancy.  
+Solution:   
+Let w be the number of weeks that a human pregnancy takes, then  
+a. The inequality representing the normal length of a pregnancy will be  
+37≤𝑤≤41  
+b. A compound inequality representing an abnormal length for a pregnancy will 
+be 𝑤<37 or 𝑤>41 
+ 
+Dendir works two part time jobs in order to earn enough money to meet his 
+obligations of at least Birr 240 a week. Hi s job in food ser vice pays Birr  10 per hour 
+and his  tutoring job on campus pays Birr  15 per hour. How many hours does Dendir 
+need to work at each job to earn at least Birr 240?  
+a. Let 𝑥 be the number of hours Dendir works at the job in food service and let y 
+be the number of hours he works tutoring. Write an inequality that would model 
+this situation.  
+b.  Graph the inequality.  
+c.  Find three ordered pairs (𝑥,𝑦) that would be solutions to the inequality. Then, 
+explain what that means for Dendir.  
+Solution:  
+Example 3  
+  
+Example 4  
+  
+178
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ a. Dendir earns Birr 10 per hour at the job in food service and Birr 15 per hour 
+tutoring. At each job, the number of hours multiplied by the hourly wage will 
+give the amount earned at that job.  
+Amount earned at the food service job plus the amount earned tutoring is at l east 
+Birr 240. 
+10𝑥+15𝑦≥240. 
+b. To graph the inequality  (Fig 4.11), we put in slope -intercept form.  
+ 10𝑥+15𝑦≥240 
+ 15𝑦≥−10𝑥+240 
+ 𝑦≥−2
+3𝑥+16           
+                                 
+ 
+ 
+ 
+ 
+c. From the graph, we see that the ordered pairs represent three of the infinitely 
+many solutions.  
+Check the values in the inequality, 10𝑥+15𝑦≥240. 
+               (15,10)  
+(𝐿𝐻𝑆)=10(15)+15(10) 
+            =300  
+(𝐿𝐻𝑆)>(𝑅𝐻𝑆), true.                  (0,16)  
+(𝐿𝐻𝑆)=10(0)+15(16) 
+            =240 
+(𝐿𝐻𝑆)=(𝑅𝐻𝑆), true.               (24,0)   
+(𝐿𝐻𝑆)=10(24)+15(0) 
+            =240 
+(𝐿𝐻𝑆)=(𝑅𝐻𝑆), true. 
+This means that Dendir  
+works for food service for 
+15 hours and for tutoring 
+for 10 hours per week 
+respectively. Then, he earns 
+Birr 300 per week.  This means that Dendir 
+works for tutoring for 16 
+hours per week. Then, he 
+earns Birr 240 per week.  This means that Dendir 
+works for food service for 
+24 hours per week. Then 
+he would earns Birr 240 
+per week.  Figure 4.1 1 
+(15,10) 
+(0,16) 
+(24,0) 
+179
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+  
+1. Answer the following questions.  
+a. The difference of a number and 6 is between 0 and  . Find all such numbers.  
+b. Twice a number is between 2 and 12. Find all such numbers.  
+c. One plus twice a number is greater than 1and less than 5. Find all such 
+numbers.  
+d. One-third of a number is either less than 2 or greater than  5. Find all the 
+natural numbers.  
+2. On Addis Ababa’s interstate highway, the speed limit is 55 km/h. The min imum 
+speed limit is 45 km/h. Write a compound inequality that represents the 
+allowable speeds.  
+3. The normal number of white blood cells for human blood is between 4 00 and 
+10, 00 cells per cubic millimeter, inclusive.  
+a. Write an inequality representing the normal range of white blood cells per 
+cubic millimeter.  
+b. Write a compound inequality representing abnormal levels of white blood 
+cells per cubic millimeter.  
+4. The ideal diameter of a piston for one type of car is    mm. The actual diameter 
+can vary from the ideal by at most 0.007 mm. Find the range of acceptable 
+diameter for the piston.  
+5. Assume that you are allowed to go within 9 km/h of the speed limit of 65 km/h 
+without getting a ticket. Write an absolute value inequality that models this 
+situation. Write an absolute inequality that shows the speed you are allowed to go 
+without getting a ticket.  
+6. One leg of a right triangle is 3 cm longer than the other. How long should the 
+shorter leg be to ensure the area is at least 14 cm2? 
+Exercise 4.11 
+180
+
+--- [PAGE BREAK] ---
+
+            Unit 4: Solving Inequalities  
+                                                                
+ 7. Fatima, who lives in Jimma zone, needs to make a rectangular coffee plot which 
+has an area of at most 1  m2. The length should be 3 m longer than the width. 
+What are the possible dimensions of the plot?  
+8. Almaz is selling sambusa  at a school. She sells two sizes, small (which has 1 
+scoop of beans inside) and large (which has 2 scoops of beans). She knows that 
+she can get a maximum of 70 scoops of beans out of her supply. She charges Birr 
+3 for a small sambusa and Birr 5 for a larg e one. Almaz wants to earn at least 
+Birr 120 to give back to the school. Let 𝑥 be the number of small sambusa, and  
+𝑦 be the number of large one? Write and graph a system of inequalities that 
+models this situation.  
+ 
+181
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+1. The open interval (𝑎,𝑏) with end -points a and b is the set of all real numbers x 
+such that  𝑎<𝑥<𝑏.  
+2. The closed interval [𝑎,𝑏] with end -points a and b is the set of all real numbers x 
+such that 𝑎≤𝑥≤𝑏. 
+3. The half -open interval or half -closed interval (𝑎,𝑏] with end points 𝑎 and 𝑏 is 
+the set of all real numbers x such that  𝑎<𝑥≤𝑏. 
+4. The half -open interval or half -closed interval [𝑎,𝑏) with end points 𝑎 and 𝑏 is 
+the set of all real numbers x such that  𝑎≤𝑥<𝑏. 
+5. For any positive real number a, the solution set of:  
+   i. the inequality |𝑥|<𝑎  is −𝑎<𝑥<𝑎 and 
+        ii. the inequality |𝑥|>𝑎 is 𝑥<−𝑎 or 𝑥>𝑎. 
+6. Linear inequalities in two variables  represent the inequality  
+between  two algebraic expressions involving the two  variables . 
+7. An inequality that can be reduced to either   𝑎𝑥2+𝑏𝑥+𝑐≤0,  
+𝑎𝑥2+𝑏𝑥+𝑐<0,𝑎𝑥2+𝑏𝑥+𝑐≥0 or 𝑎𝑥2+𝑏𝑥+𝑐>0  where a, b and c 
+are constants and 𝑎≠0 is called a quadratic inequality . 
+8. A quadratic inequality can be solved by using product properties, sign chart or 
+graphically.  
+9. Property of product rule.  
+a. If 𝑚∙𝑛>0,  then 𝑚>0  and  𝑛>0    or    𝑚<0  and  𝑛<0. 
+b. If 𝑚∙𝑛<0,  then 𝑚>0  and  𝑛<0    or    𝑚<0  and  𝑛>0. 
+ 
+ 
+Summary  
+182
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+1. If 𝑥>𝑦,   what can you say about the inequality sign if we multiply both side of the 
+inequality by a negative number? By a positive number? By zero?  
+2. If 𝑥 is a natural number, then the solution set for the inequality 3𝑥+7<16 is  
+a. {1,2}                   𝐛.  {2,3}                     𝐜.  {…..0,1,2,3}                𝐝.  {4,5,6,…..}   
+3. Set up an algebraic inequality for  
+a. The sum of  7 and three times a number is less than or equal to  1. 
+b. If three is subtracted from two times a number, then the result is greater than or 
+equal to nine.  
+4. Solve the following inequalities.  
+a. 2
+3[𝑥−(1−𝑥−2
+3)+1]≤𝑥               𝐛.   2−[−2(𝑥+1)]−𝑥−3
+2≤2
+3𝑥−5𝑥−3
+12+3𝑥 
+𝐜.  3𝑥+1
+7−2−4𝑥
+3≥−5𝑥−4
+14+7
+6𝑥 
+5. Solve the following simultaneous inequalities.  
+      a. {𝑥+7>4
+𝑥+2<5               b.  {3𝑥+2>7
+𝑥+1<5   c.  {2𝑥+1≥9
+3𝑥+4<25 
+6. Solve the following simultaneous inequalities:  
+a.  {−2𝑥+𝑦>−4
+3𝑥−6𝑦≥6  b.  {−3𝑥+2𝑦>6
+6𝑥−4𝑦>8                c.  {𝑦≥−4
+𝑦<𝑥+3
+𝑦≤−3𝑥+3 
+7. Solve the following inequalities:  
+a.  |2𝑥−1|−7≤−5   b.  |𝑥−1|≥−3  
+c.  |𝑥−1|≤−3   d.  |2𝑥−9
+3|<4  
+e.  |6−2𝑥|≤2 
+8. Solve the following quadratic inequalities using product rule, sign chart and 
+graphically:  
+a.  (𝑥−1)(𝑥−2)>0                 b.  (𝑥+3)(𝑥−5)≤0  
+c.  𝑥2+2𝑥−3≥0     d.  𝑥2+6𝑥>−2𝑥  
+e.  4𝑥−𝑥2>12                   f.   𝑥2+8𝑥+16≥0  
+Review Exercise  
+183
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+g.  𝑥2−4𝑥−12≤0    h.  4𝑥2>12𝑥 
+9. Which of the following is the solution for the inequality |3𝑥+7|≤5? 
+       𝐀.   2 
+ 3 ≤𝑥≤4        𝐁.   𝑥≤− 2 
+ 3           𝐂.   𝑥≤−4              D.  −4≤𝑥≤− 2 
+ 3  
+10.  Which of the following point is a solution to the inequality {𝑥−2𝑦>−1
+3𝑥−𝑦<−3  
+       𝐀.  (2,1)             𝐁.  (−2,−1)         𝐂.  (2,−1)       𝐃.  (−2,1) 
+11. Which of the following system of inequalities represent the following graph?  
+ 
+      𝐀.  {𝑦>𝑥−2
+𝑦≤2𝑥+2            𝐁.  {𝑦≥𝑥−2
+𝑦≤2𝑥+2            𝐂.   {𝑦>𝑥−2
+𝑦>2𝑥+2         𝐃.   {𝑦≥𝑥−2
+𝑦<2𝑥+2 
+12.  The solution for the quadratic inequality 𝑥2−𝑥>12 is: 
+       𝐀.  𝑥>−3 or 𝑥>4         𝐁.  𝑥<−3 or 𝑥>4     
+        C.  −3<𝑥<−4               𝐃.  𝑥>−3 and 𝑥<4   
+13. A technician measures an electric current which 0.036A with a possible error 
+of±0.002  A. Write this current,  i, as an inequality with absolute values.  
+14. A shop owner has determined that the relationship between monthly rent charged for 
+store space r (in hundred birr per square meter) and monthly profit 𝑃(𝑟) (in thousands 
+of birr) can be approximated by the function  𝑃(𝑟)=−9𝑟2+8𝑟+1.  Solve each 
+quadratic  equation or inequality. Explain what each answer tells about the relationship 
+between monthly rent and profit for the shop owner?  
+184

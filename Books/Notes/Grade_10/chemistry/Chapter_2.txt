@@ -1,0 +1,1684 @@
+=================================================================
+Book: chemistry.pdf
+Chapter 2: SOLLUTIONS
+Pages: 57 to 114
+=================================================================
+
+Chemistry Grade 10
+UNIT/gid00019
+Unit Outcomes 
+At the end of this unit, you will be able to
+"explain the types of solutions;
+"describe the solution formation process, the rate of dissolution, the heat of 
+solution and solubility;
+"describe the dependence of solubility on temperature & pressure of solution;
+"solve problems involving concentration of solutions;
+"express the concentration of solutions in various units;
+"describe, using the concept of equilibrium, the behavior of ionic solutes in solutions that are unsaturated, saturated and supersaturated;
+"prepare solutions of required concentration by dissolving a solute or diluting a concentrated solution;
+"demonstrate scientific inquiry skills along this unit: observing, classifying, comparing & contrasting, communicating, measuring, asking questions, 
+drawing conclusion, applying concept and problem solving.SOLUTIONS 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+52Chemistry Grade 10 Solutions
+Note: Mixtures have the following general properties
+"In a mixture each component keeps its original properties.
+"The separation of components can be easily done.
+"The proportion of the components is variable.
+"Mixtures can be converted into component substances by physical process and vice versa. Whereas a substance is a single kind of matter that has definite physical and chemical properties regardless of its source or the way it is made and cannot be separated into other kinds of matter by any physical process. Thus, substances (compounds and elements) are inter-converted through chemical process only.
+1.Consider a patient whose health condition is 
+deteriorated and require a quick recovery.
+a.If you were a physician treating the patient, would you recommend an IV fluid or a capsule? 
+b.Discuss the differences among isotonic, hypotonic, and hypertonic solutions. Which solution would you administer to a patient who is suffering from dehydration due to excessive diarrhea? Discuss in a group and present your conclusions to the class.
+2.Recall from the previous grades that matter is classified into pure substances (elements and compounds) and mixtures. To refresh your memory 
+of substances and mixtures from the general sciences, form a group of four students each, discuss and complete the missing information labeled as A, B, C, D, E, and F in the concept map shown below.
+  Start-up Activity
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+53Chemistry Grade 10 Solutions
+2.1 Heterogeneous and Homogeneous Mixtures
+At the end of this section, students will be able to
+"define the terms mixture, homogeneous and heterogeneous mixtures;
+"distinguish between homogeneous and heterogeneous mixtures.
+Form a group, perform the following activity and 
+present your conclusions to the class. 
+1.Classify each of the mixtures- sand + water, coffee, tea; seawater, air, brass; steel, natural gas, pizza, vinegar, vegetable salad, and fruit punch asa. Homogeneous if it has a uniform composition orb.Heterogeneous if it is an insoluble mixture of substances and has non-uniform composition. 
+c.Where do you categorize blood, milk, butter 
+and cloud: to homo or hetero?
+Activity 2.1 
+Mixtures are combinations of two or more substances in which the individual substances 
+keep their own properties. Components of mixtures (unlike those of compounds) can have variable proportions, can be separated physically, and retain their properties. Mixtures are part of your daily life. The air you breathe the food you eat, most of the medications you use, the skin and hair products such as body lotion and shampoo, etc. are all mixtures. There are two types of mixtures: homogeneous and heterogeneous mixtures. 
+A homogeneous mixture is a mixture in which the composition is uniform throughout 
+the mixture. i.e., it has no visible boundaries the components are evenly distributed 
+throughout the entire mixture. Often it is easy to confuse a homogeneous mixture with a pure substance because they are both uniform. The difference is that the composition of the substance is always the same/constant regardless of the source or the way it is made. NaCl, for instance, is always formed in a ratio of 23 is to 35.5 by mass. But a homogeneous mixture of NaCl and water may be formed by combining them in various proportions; 5 g in 100 g or 10 g in 100 g water; would all give a 
+homogeneous mixture of NaCl and water called a solution. When a spoonful of sugar dissolves in water, the composition of the mixture, after sufficient stirring, is the same throughout the solution. This solution is a homogeneous mixture. 
+A heterogeneous mixture is a mixture that consists of physically distinct parts, each 
+with different properties. This type of mixtures has at least two visible phases. Mixture 
+of oil and water, wood ash and water,  sand and water, etc. are good examples.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+54Chemistry Grade 10 Solutions
+2.1.1 Suspensions, Solutions, Colloid s 
+At the end of this section, students will be able to
+"describe a suspension;
+"define the terms solute, solvent, solution;
+"explain the different types of solutions;
+"give examples for each types of solutions;
+"present a report on how jewelry gold is made to class after a visit to nearby 
+goldsmith;
+"describe a colloid.
+A. Suspensions
+Mixtures can further be classified into suspensions, colloids, and solutions. A suspension 
+is a heterogeneous mixture in which the solid particles are spread throughout the 
+liquid without dissolving in it. A mixture of chalk and water, sand and water, mixture of slaked lime (calcium hydroxide) and water, muddy water are some examples.
+B. Solutions
+Solutions are all around us. The air we breathe and much of what we drink for 
+example, soda, coffee, and tea, and the fluids in our body are all solutions. A solution is a homogeneous mixture of a solute dissolved in a solvent. Because of dissolution of 
+solute in solvent, the particles in solution are of the size of individual atoms, molecules 
+or ions. The solvent part of the solution is usually a liquid but can be a gas or a solid (see types of solutions in subsequent section). Generally, the major component of the solution is called solvent, and the minor component is called solute . If both components 
+in a solution are 50%, the term solute can be assigned to either component. When a gaseous or solid material dissolves in a liquid, the gas or solid material is called the solute . When two liquids dissolve in each other, the major component is called the 
+solvent and the minor component is called the solute . 
+Note that all solutions are homogeneous mixtures but not all homogeneous mixtures are solutions.
+Properties of Solutions
+A solution has a single uniform phase and has no visible boundaries because the components are individual atoms, ions, or molecules. These components do not settle 
+upon standing or separate by filtration. 
+" The particles of a solution are very small that they can pass through the pores 
+of even fine filter paper. So, solute cannot be separated from the solvent by filtration.
+" The solutions are very stable; the components do not separate, neither coagulate upon standing. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+55Chemistry Grade 10 Solutions
+Note: Although the components of a solution may not be separated by settling 
+(sedimentation) or filtration the solute can be separated from the solvent by other physical processes. For example, a solution of sodium chloride and water can be separated by distillation or evaporation. 
+Types of Solutions
+Although we usually think of solutions as liquid, they can exist in all three physical states: solid, liquid, and gas. 
+i.Gaseous solutions : Gaseous solutions are usually described as gas-gas solutions 
+where both solute and solvent are gases. The atmosphere is a gaseous solution that 
+consists of nitrogen, oxygen, argon, carbon dioxide, water (in the form of vapor), 
+methane, and some other minor components. The major component (Nitrogen) is regarded as a solvent and the other components are regarded as solute. Other example is natural gas (See unit 6 for details).
+ii.Liquid soluti ons: Solids, liquids and gases dissolve in a liquid solvent to form 
+liquid solutions. Some examples include carbonated beverage (gas and liquid), alcoholic beverage (liquid in liquid), and sea water (solid in liquid). Note that in liquid solutions the solute can be a solid, a liquid, or a gas but the solvent is always a liquid. 
+iii.Solid solutions : Many alloys, ceramics, and polymer blends are solid solutions . 
+Solid solutions have no restriction on the state of the solute but the solvent has to be solid. Alloys are solid-solid solutions. Dental filling solution is a good example of liquid (mercury)-solid (silver) solution. Other examples of solid solutions include wax, and H
+2 in Pd (gas in solid; used for hydrogen storage). 
+Project 2.1Do you know how jewellery gold is made? Form a self-manged group, pay a visit to the nearby goldsmith, and report your experiences to the class. 
+1.Complete the following table using examples that are not previously mentioned in this textbook. Exercise 2.1
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+56Chemistry Grade 10 Solutions
+    
+Solute Solvent State of the 
+solutionExample
+Gas Gas Gas
+Gas Liquid LiquidLiquid Liquid LiquidSolid Liquid LiquidSolid solid solidGas solid solidliquid solid solid Mercury in zinc amalgam
+2. Classify each of the following as homogeneous or heterogeneous mixtures 
+and discuss their composition. 
+     a) glass b) sand  c) Cement d) water gas  e) producer gas.
+C. Colloids
+A colloid is a heterogeneous mixture in which insoluble particles of one or more 
+substances are suspended uniformly throughout another substance. Properties of Colloids"A colloid (or colloidal solution) appears to be homogeneous but actually, it is heterogeneous upon closer inspection.
+"The size of particles in a colloid is bigger than those in a true solution but smaller than those in a suspension. It is between 1 nm and 100 nm in diameter.
+"The particles of a colloid can pass through a filter paper. So, a colloid cannot be separated by filtration.
+"There are two phases in colloidal solution. They are known as the dispersed phase and the dispersion medium. The component present in smaller proportions is the dispersed phase while the one present in greater proportion is the dispersion medium.
+"Colloids are quite stable. The particles do not separate on keeping.
+"A colloid (or a colloidal solution) scatters a beam of light passing through it (because its particles are fairly large). As a result, these rays as well as colloidal particles become visible. The phenomenon in which the particle in a colliod scatter the beams of light that are directed at them and make the path of the light beam visible is called Tyndall effect ( Figure 2.1). This effect is not observed in true 
+solutions. You may expect suspensions to display Tyndall effect. But the Tyndall effect in suspensions disappear as the particles settle down.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+57Chemistry Grade 10 Solutions
+Figure 2.1  The light beam is not visible as it passes through true solution (left) but it is 
+clearly visible when it passes through a colloid (right).
+Types of Colloids
+Depending upon the state of matter present in the dispersed (internal) and dispersion  (external or continuous) medium there are 8 different types of colloidal solutions (Table 2.1).
+Table 2.1 Types of colloids.
+Dispersed 
+PhaseDispersing 
+MediumType Example
+Liquid Gas Aerosol Fog, clouds, mist
+Solid Gas Aerosol Smoke, automobile exhaust 
+Gas Liquid Foam Shaving cream
+Liquid Liquid Emulsion Milk, face cream
+Solid Liquid Sol Milk of magnesia, mud
+Gas Solid Foam Foam, rubber, sponge, pumice
+Liquid Solid Gel Jelly, cheese, butter 
+Solid Solid Solid sol Colored Gemstone, milky glass 
+Form a group and discuss the following phenomenon 
+and present your conclusions to the class. 
+1.The sky appears blue at day time but red at sunrise and sunset. Why? 
+2. How is rainbow formed? 3. Is soap a substance or a mixture?
+Activity 2.2
+CoagulationCoagulation is the process by which the dispersed phase of a colloid is made to aggregate and thereby separate from the continuous phase. The curdling of milk when it sours is an example of coagulation. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+58Chemistry Grade 10 Solutions
+Project 2.2
+Read on “cloud seeding” technology and understand the mechanism. Then, prepare for a conversation to argue for or against on the intervention of this technology on the natural water cycle to produce artificial rain. You may seek information from Internet. Your teacher will organize the conversation session. 
+Association of colloids
+When molecules or ions that have both a hydrophobic (nonpolar, water hating) and 
+a hydrophilic (polar, water loving) end are dispersed in water, they associate, or 
+aggregate, to form colloidal-sized particles called micelles . The hydrophobic end 
+point inward toward one another and the hydrophilic ends are on the outside of the micelle facing the water molecules. A colloid in which the dispersed phase consists of micelles is called an association colloid. Ordinary soap in water provides an example of an association colloid. Soap consists of compounds such as sodium stearate, C
+17H35COONa. The stearate ion has a long hydrocarbon end that is hydrophobic 
+(because it is nonpolar) and a carboxyl group (COO-) at the other end that is hydrophilic (because it is ionic).
+O– Na+O
+ONa
+Stearate  
+In water solution, the stearate ions associate into micelles in which the hydrocarbonend point inward toward one another and away from the water, and ionic carboxyl groups are on the outside of the micelle facing the water ( Figure 2.2). The cleansing 
+action of soap occurs because oil and grease can be absorbed into the hydrophobic center of the soap micelles and washed away. 
+Figure 2.2  The cleansing action of soap. The soap molecule is represented by a polar 
+head and zigzag hydrocarbon tail. An oily spot can be removed by soap because 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+59Chemistry Grade 10 Solutions
+the nonpolar tail dissolves in the oil, and the entire system becomes soluble in water 
+because the exterior portion is now ionic..
+Project 2.3
+Make your own hair gel using locally available materials. You may be assisted with internet. Write all the procedures you followed including the name of the materials, the source, the amount and the processing procedures and steps. You may consider a combination of gelatin or flaxeed with some kind of essential oil. For the essential oil, ethanol (''areki'') extracts from lavender, rosemary, lomengrass, thyme, or tea tree 
+can be used. 
+1. Explain the cleansing action of soap and detergents. 
+2. Discuss the difference between 
+a. suspension and colloid b.solution and colloid
+c. pure substance and mixturesd.compound and homogeneous 
+mixtures
+3.When a corona virus infected patient coughs or sneezes, fine droplets of 
+respiratory fluid containing the viral particles get dispersed in the atmosphere as a colloidal particle called______a. emulsionb.aerosolc.fog
+d. smoke (choose correct answer)
+4.Classify each of the following as suspension, solution, or colloid using a vein diagram. 
+a. Paintb.Yogurt
+c. toothpasted. honeye.soda waterf.sea water
+g.blood
+h. ruby  i. urinej. soap sudsk. juicel. vinegar
+5. Colloidal sulphur particles are negatively charged with thiosulphate ions, 
+S
+2O32-, and other ions on the surface of the sulphur. Indicate which of the 
+following would be most effective in coagulating colloidal sulphur, NaCl, MgCl
+2, or AlCl3.Exercise 2.2
+2.2 The Solution Process
+At the end of this section students will be able to explain how the "like dissolves like" 
+rule depends on inter-particle forces of interactions.
+A solution is formed when the solute particles are completely dissolved in the solvent. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+60Chemistry Grade 10 Solutions
+We have noted previously that gases mix freely. But the formation of liquid and solid 
+solutions requires overcoming the solute-solute and solvent-solvent inter-particle forces of attraction before the mixing step. Because the solute as well as the solvent particles are held to each other by intermolecular forces in liquid and solid state. The solution process thus involves three basic steps; i. breaking up the solute-solute inter-particle forces ii. breaking up the solvent-solvent inter-particles forces iii. formation of solute-solvent interaction. 
+Thus, the extent of dissolution of a solute in a solvent is governed by intermolecular 
+forces. The energy change associated with the dissolution process and entropy (the increase in disorder) that result when molecules of the solute and solvent mix to form 
+a solution are the forces driving the solution process.
+Note t hat: the formation of a solution from a solute and a solvent is a physical process, 
+not a chemical change. 
+2.2.1 Liquid Solutions and Inter-particle Forces of Attractions
+When one substance (the solute) dissolves in another (the solvent), particles of the 
+solute disperse throughout the solvent. The solute particles occupy positions that are 
+normally taken by solvent molecules. 
+The ease with which a solute particle replaces a solvent molecule depends on the 
+relative strengths of inter-particle forces in the three types of interactions ( Figure 2.3):
+" solute-solute interaction 
+" solvent-solvent interaction
+" solute- solvent interaction
+Expanded solute Solute
+Step 1
+Step 3Step 3
+SolutionStep 2Solvent Expanded Solvent
+Figure 2.3 A molecular view of the solution process, portrayed as taking place in three steps.
+Solutes dissolve in a solvent when the inter-particle forces of interaction between 
+solute molecules and solvent molecules are replaced by solute-solvent interactions. The useful rule-of-thumb “like dissolves like” says that substances with similar types of intermolecular forces dissolve in each other. That means, when the inter-particle forces within the solute are similar to those within the solvent, the forces replace each other and a solution forms. Thus, by knowing the forces, we can often predict whether a 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+61Chemistry Grade 10 Solutions
+solute will dissolve in a solvent.
+Thus, ionic compounds like NaCl (that are extremely polar) and polar compounds like 
+ethanol (C2H5OH) dissolve in polar solvents (e.g. H2O) and nonpolar compounds and 
+elements (e.g. hexane, CCl4, I2, oil) dissolve in nonpolar solvents like hexane (C6H14), 
+carbon tetrachloride (CCl4), and benzene.
+How can we Predict the Likeness of a Substance?
+One useful classification of materials is polarity. As you read about covalent and ionic 
+compounds in Grade 9, you learned that ionic compounds have the highest polarity forming full cations and anions within each formula unit as electrons are transferred from one atom to another. You also learned that a covalent bond is polar when the bonded atoms have different electronegativities and, thus, share the bonding electrons unequally. In diatomic molecules, such as HF, there is only one bond that is polar and the molecule is also polar. In larger molecules, molecular polarity is determined by the net dipole moment (imbalance of charge over the molecule); which in turn depends on both shape and bond polarity. Dipole moment (µ) is a measure of molecular polarity, given in the unit debye (D) derived from SI units of charge (coulomb, C) and length (m): 1 D = 3.34 x 10
+-30 C.m. 
+Substance s with zero or low electronegativity difference in between the bonding 
+atoms and having zero net dipole moment such as H2, O2, N2, CH4, CCl4 are nonpolar 
+whereas H2O, NH3, CH3OH, NO, CO, HCl, H2S, PH3, etc. having high electronegativity 
+difference in between the bonding atoms and having net dipole moment are polar compounds. See illustrations below where the dipole moments cancels out in carbon dioxide (CO
+2) but add-up to give a net dipole in water molecule (H2O). Note that 
+the presence of polar bonds does not always result in a polar molecule; we must also consider shape and the atoms surrounding the central atom.  
+O
+H H(b) H 2OCOO(a)
+Thehorizontal compone nts of the two dipol es canc els out
+each othe r. But the vertical compone nts add-up to give a
+net dipol emom ent in H2Omolecule.Adding the sevectors toge ther canc els the m out
+Therefore, CO2is non-polarCO2net dipol e
+Adding these vectors together cancels 
+them out. Therefore, CO2 is non-polar. H2OCO2
+The horizontal components of the two dipoles cancels out each other. But the vertical components add-up to give a net dipole moment in H
+2O molecules. 
+Inter-particle/Intermolecular Forces 
+You studied in grade 9 that atoms in a molecule (e.g. Cl2, H2O, NH3, etc) are held 
+together by covalent bond/s. The covalent bonds are called intramolecular forces-
+force within a molecule. You are also familiar with the three states of matter-solid, liquid and gas. The gaseous state is characterized by absence of interparticle forces and hence the molecules of a gas are free to move independent of the other molecules. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+62Chemistry Grade 10 Solutions
+However, in liquids and solids, molecules are held together by intermolecular forces 
+between molecules. Intermolecular forces are also called noncovalent interactions.
+They are attractive or repulsive forces between neighboring molecules. 
+These forces include:
+" dipole-dipole interaction
+" dipole-induced dipole interaction
+" dispersion forces or London forces
+" ion-dipole interaction
+" ion-induced dipole
+" hydrogen bonding
+The relative strengths of these forces in order of weakest to strongest is:
+Dispersion forces < dipole-induced dipole < dipole-dipole < H - bonding < ion dipole bond
+Note: Dipole-dipole, dipole-induced dipole, and dispersion forces make up what 
+chemists commonly refer to as van der Waals forces, after the Dutch physicist Johannes 
+van der Waals. Ions and dipoles are attracted to one another by electrostatic forces called ion-dipole forces, that are not van der Waals forces. Hydrogen bonding is a particularly strong type of dipole-dipole interaction. These forces play a central role in the formation of solutions. So let’s have a brief look at each of them:  
+Dipole-Dipole Forces
+Dipole–dipole forces occur between polar molecules as a result of electrostatic 
+interactions among dipoles ( Figure 2.4(a) ). e.g. Solubility of HBr in H
+2O.
+Dipole–induced Dipole ForceArise when a polar molecule distorts the electron cloud of a nonpolar molecule (Figure 
+2.4(b)). The solubility in water of atmospheric O
+2, N2, and noble gases, while limited, 
+is due in part to these forces. Paint thinners and grease solvents also use them.
+Figure 2.4  Dipole–dipole (a) and dipole-induced dipole (b) forces of attraction 
+between polar and nonpolar molecules.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+63Chemistry Grade 10 Solutions
+Dispersion Forces (London forces)
+Dispersion forces occur between all neighboring molecules and arise because the 
+electron distribution within molecules is constantly changing. This type of force is also called instantaneous dipole-induced dipole force. It is common to all types of 
+molecules-polar as well as nonpolar. But it is more important to account for properties of nonpolar molecules.
+Ion-Dipole ForcesIon-dipole forces are the principal force involved when an ionic compound dissolves in water (Figure 2.5 ). e.g. NaCl dissolves 
+in H
+2O via ion-dipole interaction.
+Figure 2.5  Two types of ion-dipole interaction
+Ion–induced dipole forces, one type of charge-induced dipole force, rely on polarizability. They arise when an ion’s charge distorts the electron cloud of a nearby nonpolar molecule (Figure 2.6 ). This type of force 
+initiates the binding of the Fe
+2+
+ion in hemoglobin to an O2
+molecule entering a red blood cell.
+Ion Nonpolar molecule
+δ+ δ-
+BA
+Figure 2.6  Ion-induced dipole interactions. (A)
+when the ion and the nonpolar molecules are far apart, (B) when the ion and the nonpolar molecule get closer-the nonpolar molecule gets polarized.
+The Hydrogen BondDefinition: The hydrogen bond is an attractive interaction between a hydrogen bonded to an electronegative O, N, or F atom in one molecule and an unshared electron pair on O, N, or F atoms of another molecule, Figure 2.7 .
+Figure 2.7  Hydrogen bonding in water, acetic acid, and ammonia. Solid lines represent 
+covalent bonds, and dotted lines represent hydrogen bonds.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+64Chemistry Grade 10 Solutions
+2.2.2 Solutions of Ionic Solids in Water
+Many ionic compounds are soluble (at least 1 g dissolves in 100 mL water) in water; 
+however, not all ionic compounds are soluble. Chemists refer to substances as soluble, slightly soluble, or insoluble in a qualitative sense. For instance, KCl is readily soluble in water whereas AgCl is insoluble. Ca(OH)
+2 is slightly soluble. Ionic compounds that 
+are soluble in water exist in their ionic state as hydrated cations and anions within the 
+solution (See Figure 2.8). 
+Figure 2.8  Hydration of Na+ and Cl_ ions as NaCl dissolves in water. 
+2.2.3 The Solubility Rules for Ionic Solids 
+At the end of this section students will be able to predict relative solubilities.
+Solubility is defined as the maximum amount of a substance that can be dissolved in  
+a given volume (usually 100 mL) of solvent at a given temperature. The solubility rules 
+for common ionic compounds are listed below.
+i.All common salts of the Group 1A elements (such as Na+, K+, Li+) and ammonium, 
+NH4+, are soluble   
+ii.All common salts containing acetate (CH3COO-), or nitrate (NO3-), and most 
+perchlorates (ClO4-) are soluble  
+iii.All common chlorides (Cl-), bromides (Br-), and iodides (I-) are soluble, except those 
+of Ag+, Pb2+, Cu2+, and Hg22+. All common fluorides (F-) are soluble, except those 
+of Pb2+ and Group 2A.   
+iv.Most hydroxide salts are only slightly soluble. Hydroxides of GI elements are soluble. Hydroxides of GII elements (Ca, Sr, and Ba) are slightly soluble. Hydroxide salts of transition metals and Al
+3+ are insoluble. Thus, Fe(OH)3, Al(OH)3, are not 
+soluble.
+v.All compounds containing sulfate (SO42-) are soluble, except those of barium (Ba), 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+65Chemistry Grade 10 Solutions
+strontium (Sr), lead (Pb), calcium (Ca), silver (Ag), and mercury (Hg)  
+vi.Except for those compounds following rule 1, compounds containing carbonate 
+(CO32-), sulfides (S2-), oxides (O2-), and phosphates (PO43-) are insoluble.  
+Form a group, discuss 
+the following activity and 
+present your conclusions to the class. Fluoride (F
+-) has a 
+significant alleviating effect against dental caries if the concentration is approximately 1 mg/l. However, continuing consumption of higher concentrations (>1.5 mg/l) can cause dental fluorosis and in extreme cases even skeletal fluorosis.
+One of the methods used 
+for the removal of excess fluoride from drinking water is precipitation by employing lime [quicklime (CaO) or slacked 
+lime (Ca(OH)
+2)] followed by 
+sedimentation and/or filtration. Discuss how lime removes fluorides from water. 
+  Activity 2.3 
+Dental fluorosis
+Skeletal fluorosis
+The dissolution of molecular solids also follows the same rule. Molecular 
+solids are made up of atoms or molecules held together by London or dispersion forces, dipole-dipole forces, or hydrogen bonds. Examples of molecular solids include ice, solid carbon dioxide, sucrose, sulfur, solid hydrocarbons (e.g. octadecane, C
+18H38), etc. Polar molecular solids such 
+as ice, glucose, and sucrose dissolve in polar solvents like water. Nonpolar molecular solids such as sulfur, solid hydrocarbons, etc dissolve in nonpolar solvents like benzene, hexane, etc.
+2.2.4 Solution of Liquids in Liquids
+In addition to the dissolution of ionic compounds in water, solutions can also be made 
+by mixing two compatible liquids. The liquid in the lower concentration is termed as solute , and the one in higher concentration is the solvent. For example, grain alcohol 
+(CH
+3CH2OH) is a polar covalent molecule that can mix with water. When two similar 
+liquids (in terms of polarity) are placed together and are able to mix into a solution, 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+66Chemistry Grade 10 Solutions
+they are said to be miscible . Liquids that do not share similar characteristics and 
+cannot mix together, on the other hand, are termed immiscible . For example, oil and 
+water are immiscible because oil is nonpolar whereas water is polar.
+1. Which of the following exists predominantly in the water (H2O) molecule?
+a. van der Waal's  force 
+b.ion-dipole forcec. hydrogen bondd. none
+2.Which of the following has the highest induced dipole interactions in its molecules? 
+a. He b.Arc. Ne d. Kr
+3.Oxygen (O) and sulphur (S) are in the same group in the periodic table. They form compounds with hydrogen, H
+2O and H2S. However, H2O is a liquid 
+whereas H2S is a gas at a room temperature. Explain. 
+4. Classify each of the following as soluble or insoluble in water: 
+a. BaCO3
+b.AlCl3
+c. MgO   d. Al(OH)
+3
+e.KI   
+f.Al2(SO4)3    g.Ca3(PO4)2
+h. PbCl2  
+i. AgNO3
+j. (NH4)NO3
+k. NH4Cl
+5. Classify each of the following pairs as miscible or immiscible: 
+a. Water and grain alcohol b.“Tej” and water
+c. Water and oil d. Water and honey e.Water and petrol 
+f.Gasoline and ''naphtha'' 
+6.What type (s) of intermolecular (interparticle) forces exist when the following 
+pairs interact:
+ a. HBr and H
+2S b. Cl2 and CBr4  
+ c. I2 and NO3-, d. NH3 and C6H6(Benzene) Exercise 2.3
+2.2.5 The Rate of Dissolution
+At the end of this section students will be able to define rate of dissolution
+Dissolution  is defined as the process through which a solute dissolves in a solvent (e.g.
+water) to produce a solution. How fast does a solute dissolve in a given solvent? What 
+are the major factors that affect the rate of dissolution? The rate of dissolution is the speed with which a solute dissolves in a solvent to form a solution.. This largely depends upon two factors-the inter-particle forces discussed so far and, to a lesser extent on 
+conditions such as the surface area of the solid solute, and the temperature and the 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+67Chemistry Grade 10 Solutions
+pressure (for gaseous solutes) of the system. When the solvent-solute interactions are 
+stronger than those between solute-solute and solvent-solvent particles, the dissolution process becomes faster. A good example is dissolution of ethanol (alcohol) in water. The increasing surface area of the solute will increase the rate of dissolution because it increases the number of solute particles in contact with the solvent. Stirring or agitation of the mixture can also increase rate of dissolution.
+2.2.6 Energy Changes in Solution Process
+At the end of this section students will be able to
+"define heat of solution, solvation energy and hydration energy;
+"apply the concept of heat of solution to the solution of ammonium nitrate crystal;
+"apply the concept of heat of solution to the solution of sodium hydroxide crystal;
+"explain how heat of solution is influenced by the inter particle interaction forces.
+For instance, if you mix ammonium chloride in water in a flask, the flask gets cold. 
+But when sodium hydroxide (NaOH) is mixed in water, the flask gets hot. Why? The 
+reason is attributed to the energy changes that accompany the dissolution process. As discussed earlier, the solution process involves three steps: breaking solute-solute interaction, breaking solvent-solvent interaction, and forming solute-solvent interactions or the mixing step. When the energy released during the third step in solution process, i.e. the mixing step is larger than the energy required to break the solute-solute and solvent-solvent forces, energy is released-the process is exothermic. This energy heats up the surrounding and that is why the flask gets hot. On the contrary, if the energy released in the mixing step is less than the energy required to break the solute-solute and solvent-solvent forces, the dissolution process absorbs energy from the surrounding and the surrounding (the flask) gets cold-the dissolution process is endothermic. The energy involved in the mixing step is called solvation energy. Solvation refers to the 
+process of attraction and association of molecules of a solute and a solvent. Solvation energy is the energy released when solute molecules are solvated by solvent molecules. Solvation in water is called hydration. Thus, hydration energy is the energy released when solute molecules or ions are solvated by water molecules.
+The heat of solution or enthal py of solution is defined as the amount of heat released or 
+absorbed during the dissolution process and can be calculated using the equation  q = m x Cg  x T Eq 2.1
+Where q is the amount of energy released or absorbed in Joules (J), m is mass of 
+the solution, T is the temperature change (T
+i-Tf), Cg is the specific heat of solution 
+(J/g.oC) (can be assumed to be the same as that of water, 4.184 J/g.oC for dilute 
+solutions). The unit of heat of solution is Joule or kJ. Heat (Enthalpy) of solution can either be positive (endothermic) or negative (exothermic) depending on the observed temperature change.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+68Chemistry Grade 10 Solutions
+The molar heat of solution (ΔHsoln) of a substance is the heat absorbed or released 
+when one mole of the substance is dissolved in water at constant pressure:
+ΔHsolution=  q     Eq 2.2
+   the number of moles of solute
+The enthalpy changes are expressed in kJ/mol for a reaction taking place at standard 
+conditions (a temperature of 298.15 K and a pressure 1 atm).
+Example 2.1:  When 5.19 g of NaCO3 was dissolved in 75.0 g of water, the 
+temperature of the water rose by 3.8oC. Calculate the heat of solution and the 
+molar heat of solution. Take c of the solution as 3.820 J/g.oC and molar mass of 
+NaCO3 as 105.99 g/mol.
+Given Required Solution  
+Mass solution = mass solute + mass solvent 
+= 5.19 g + 75.0 g = 80.19 gAn increase of temperature means Tf > Ti. Thus, T = Ti – Tf = -3.80
+oC
+Number of moles of solute = given mass divided by molar mass               = 5.19 g/105.99 g/mol                = 0.0489 moleq and H
+solq = mcT = 80.19 g x 3.820 J/g.°C x (-3.80
+oC)
+= -1164.0 Joules
+Hsol    = q/n 
+=-1164.0 J/0.0489 moles= -23,803.70 J/mole
+⇒Exothermic
+To understand the enthalpy changes involved during the dissolution, let's consider the 
+hypothetical three-step process happening between two substances: solute and solvent. The three processes are solute-solute, solvent-solvent, and solute-solvent interactions each accompanied by an enthalpy change: 
+Step 1: Solute particles separate from each other. This step involves overcoming 
+intermolecular attractions, so it is endothermic.
+Solute (aggregated)   +  Heat   →  Solute (separated)    H
+solute > 0
+Step 2: Solvent particles separate from each other. This step also involves overcoming 
+attractions, so it is endothermic, too.Solvent (aggregated)  + Heat →  Solvent (separated)   H
+solvent > 0
+Step 3: Solute and solvent particles mix and form a solution. The different particles 
+attract each other and come together, so this step is exothermic:
+Solute (separated) + Solvent (separated) → Solution   + Heat  Hmix < 0
+We combine the three individual enthalpy changes to find the enthalpy of solution 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+69Chemistry Grade 10 Solutions
+(Hsoln), the total enthalpy change that occurs when solute and solvent form a solution:
+		 Hsoln = Hsolute+    Hsolvent+Hmix
+Endothermic and Exothermic Dissolution Processes 
+Depending on the relative magnitude of Hsolute + Hsolvent  &  Hmix, the Hsolncan be 
+zero (ideal solution), negative (exothermic) or positive (endothermic). 
+Ideal Solutions ( Hsoln = Hsolute  +  Hsolvent  +  Hmix = 0)
+When the strengths of the intermolecular forces of attraction in solute-solute and 
+solvent-solvent are similar to solute-solvent the solution is formed with no accompanying 
+energy change. Such a solution is called an ideal solution. A mixture of ideal gases 
+(or gases such as helium and argon, which closely approach ideal behavior) is an example of an ideal solution, since the entities comprising these gases experience no significant intermolecular attractions. Ideal solutions may also form when structurally similar liquids are mixed. For example, mixtures of the alcohols - methanol (CH
+3OH) 
+and ethanol (C2H5OH) form ideal solutions, as do mixtures of the hydrocarbons 
+pentane, C5H12, and hexane, C6H14. 
+Enthalpy of Hydration (Ionic Solids in Water)
+Therefore, Hsoln = Hsolute + Hsolvent + Hmix = Hlat + Hhydr
+Where ΔHlat, Lattice energy, is the energy required to break up the ions apart from 
+crystal lattice. ΔHsolv, solvation energy, is the energy released or absorbed when solute 
+particles are completely surrounded by solvent molecules. When water is used as the 
+solvent, we use the term hydration energy, ΔHhyd, rather than the more general term 
+solvation energy. Hydration is usually exothermic, so heat is released when water molecules completely surround solute particles.    
+How does Lattice Energy affect the Solubility of Ionic Solids?
+Breaking up the lattice is an endothermic process. Hydration of ions favors the 
+dissolution of an ionic solid in water. Thus, Lattice energy works against the solution process (Figure 2.9 ), so an ionic solid with relatively large lattice energy is usually 
+insoluble.
+Hydration energy
+Lattice energy
+Figure 2.9  The effects of lattice energy and hydration energy on the solution process 
+of ionic solids. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+70Chemistry Grade 10 Solutions
+Lattice energies depend on the charge on the ions and also the distance between 
+the centers of the neighboring positive and negative ions. As the magnitude of the charge on the ions increases the lattice energy also increases. For this reason, you can expect substances with single charged ions to be more comparatively soluble, and those with multiple charged ions to be less soluble in water. Lattice energy is inversely proportional to the inter-particle distance between the centers of the two ions. Thus, CsCl has less lattice energy than NaCl.
+Examples of Endothermic and Exothermic Processes
+When sodium hydroxide is dissolved in water, the solution becomes hot (the solution process is exothermic). On the other hand, when ammonium nitrate is dissolved in water, the solution becomes very cold (the solution process is endothermic). This cooling effect from the dissolving of ammonium nitrate in water is exploited in instant cold packs used in hospitals. An instant cold pack consists of a bag of NH
+4NO3 crystals inside a 
+bag of water (Figure 2.10 ). When the inner bag is broken, NH4NO3 dissolves in the 
+water. Heat is absorbed, so the bag feels cold. Hot packs, by contrast, containing either CaCl
+2 or MgSO4, produce heat when the salts dissolve in water (Figure 2.10 ).
+Figure 2.10  The instant cold compress and hot compresses
+Note:  Enthalpy of solution is only one part of the driving force in the formation of 
+solutions; the other part is the entropy of solution. You will learn about entropy at higher levels.
+Enthalpy (heat) of solution can be determined in the laboratory by measuring the 
+temperature change of the solvent when solute is added. A calorimeter is a device 
+used to measure the amount of heat involved in a chemical or physical process. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+71Chemistry Grade 10 Solutions
+Discuss the following questions and present finding to 
+the class1.Discuss how people traditionally alleviate inflammation (tenderness), and pains caused by muscle or joint damage in relation to the medical uses of cold packs and hot packs.
+2.The process of dissolution is always accompanied by energy change. (True/False).
+  Activity 2.4
+1. Which one of the following pairs of ions has greater enthalpy of hydration?
+i. Na+ or Cs+?
+ii. Mg2+or Cs+?
+iii. F- or Cl-? Explain.
+2.A student added 4.00 g of NaOH(s) to 100 g of water in a polystyrene foam cup. The temperature of the water rose by 10.0°C. Assuming the polystyrene foam cup is well insulated and the specific heat capacity of water is 4.18 J/°C.g, determine the molar enthalpy of solution of sodium hydroxide in kJ mol
+-1. Answer: Hsoln = -43.5 kJ mol-1, verify this! 
+3.The molar heat of solution, Hsoln, of NaOH is -445.1 kJ/mol. In a certain 
+experiment, 5.00 g of NaOH is completely dissolved in 1.000 L of water at 20.0°C in a foam cup calorimeter. Assuming no heat loss, calculate the final temperature of the water. Answer: T
+f = 33.2oC, verify this!Exercise 2.4
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+72Chemistry Grade 10 Solutions
+Experiment 2.1
+Investigation of Heat of Solution
+Objective: To  investigate the heat of solution of calcium chloride and ammonium 
+nitrate.
+Apparatus : Erlenmeyer flask, thermometer, cork.
+Chemicals : Calcium chloride, ammonium nitrate and water.
+Procedure:1.Weigh out accurately about 4 g of calcium chloride in a weighing boat (or weighing paper) and record the mass on your results sheet.
+2.Using graduated cylinder, accurately measure 40 mL of distilled water; record your measurement to one decimal place on your results sheet.
+3.Pour the water into an Erlenmeyer flask and stopper it with a cork as shown in Figure 2.11 .
+Thermometer
+Cork
+Insulated vessel
+Reaction mixture
+Figure 2.11  Apparatus to measure the heat of solution.
+4.Insert a thermometer through a hole in the cork and record initial temperature, again recording your results to one decimal place in the table below.
+5.Remove the cork along with the thermometer and quickly transfer the weight calcium chloride and replace the cork; not the thermometer.
+6. Insert the stirrer and stir to dissolve the salt. 
+7.Insert the thermometer and record the final temperature of the solution (highest or lowest temperature attained) in the table
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+73Chemistry Grade 10 Solutions
+Chemical Initial temperature 
+of the solventMaximum 
+temperature of the solutionHeat of solution
+CaCl
+2
+NH4NO3
+8. Repeat the procedure using ammonium nitrate.9. Calculate the total amount of heat in Joules (J) absorbed or liberated.10. Calculate the amount of heat in Joules (J) absorbed or liberated per mole of 
+salt and determine whether the process is endothermic or exothermic.
+Insulate the vessel, if you can, or assume the heat exchange with surrounding negligible. Assume that the specific heat of the solution is the same as the specific heat of water (4.184 J/g.
+oC) and molar mass of calcium chloride 
+110.98 g/mol.
+Project 2.4Your teacher will arrange a visit to nearby hospital or other health center. Your role is to contact the professionals on the usage of instant cold packs and instant hot packs. Ask them to get one each, discuss the usage, working principle, and the composition. Write the dissolution equation in each case. Report your answers to the class
+2.3 Solubility as an Equilibrium Process
+At the end of this section students will be able to
+"define solubility;
+"describe the distinctions among unsaturated, saturated and supersaturated solutions;
+"prepare unsaturated and saturated solutions of sodium sulphate;
+"prepare supersaturated solution of sodium thiosulphate;
+"explain the equilibrium nature of saturated solution.
+We have already defined solubility as the maximum amount of a substance that can 
+be dissolved in a given volume (usually 100 mL) of solvent at a given temperature. 
+When an ionic solid dissolves, ions leave the solid and enter the solvent. Suppose that 
+you have a beaker of water to which you add some salt (Figure 2.12) and stir the mixture until the NaCl dissolves. You keep adding more and more salt and continue stirring. Eventually, you reach a point where no more of the salt will dissolve no matter how long or how vigorously you stir it. Why? At the molecular level, we know that action of the water causes the individual ions to break apart from the salt crystal and enter the solution, where they remain hydrated by the water molecules. What also happens 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+74Chemistry Grade 10 Solutions
+is that some of the dissolved ions collide back again with the undissolved solute and 
+crystallize. Recrystallization is the process of dissolved solute returning to the solid 
+state. At some point the rate at which the solid salt is dissolving becomes equal to the rate at which the dissolved solute is recrystallizing. When that point is reached, the total amount of dissolved salt remains unchanged-equilibrium is established. Solution 
+equilibrium is the physical state described by the opposing processes of dissolution and recrystallization occurring at the same rate. 
+     Dissolution
+Solid (solute) 
+ Dissolved ions
+Crystallization
+Figure 2.12 Illustrates the formation of saturated solution. (a) excess solid added to a 
+solvent  (b) The solute starts to dissolve (c) The solute continues to dissolve (d) No more solute is dissolving indicating that the process has reached a dynamic equilibrium where the rate of dissolution is equal to the rate of crystallization. 
+2.3.1 Unsaturated, Saturated, and Supersaturated Solutions
+A saturated solution is a solution that is at equilibrium and contains the maximum amount of dissolved solute at a given temperature in the presence of undissolved solute. Therefore, if you filter off the solution and add more solute, it doesn’t dissolve.  A simple analogy is “when you have eaten your feel, you are saturated!” 
+Unsaturated solution is the solution that has not reached its maximum solubility. This 
+means that more solute could still be added to the solution and dissolving would still occur.
+Supersaturated solutions are solutions that have dissolved solute beyond the normal 
+saturation point. Usually a condition such as increased temperature or pressure is required to create a supersaturated solution. For example, sodium acetate has a very high solubility at 273 K.  When cooled, such a solution stays dissolved in what is called a meta-stable state. However, when a seeding crystal is added to the solution, the extra solute will rapidly solidify, leaving a saturated solution ( Figure 2.13). During the 
+crystallization process, heat is evolved, and the solution becomes warm. Common hand warmers use this chemical process to generate heat.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+75Chemistry Grade 10 Solutions
+(a) (b) (c)
+Figure 2.13 (a) a hot supersaturated solution (formed at elevated temperature) (b) the 
+scenario when the supersaturated solution is cooled (c) cold supersaturated solution after seeding.
+Experiment 2.2
+Preparation of  Unsaturated, Saturated and Supersaturate Solutions
+Objecti ves: To prepare unsaturated, saturated and supersaturate solutions
+Materials required: 100 g of Na2S2O3, sodium thiosulfate, beaker, balance, filter 
+paper, spatula, stirring rodProcedure:
+1. Pour 100 mL water in a beaker.
+2.Add some crystal (about 5 g) of Na
+2S2O3 into the water using spatula and stir 
+until it dissolves.a) What do you call this type of solution?
+3. Continue adding more and more Na
+2S2O3 while stirring to dissolve.
+b) What do you observe after addition of large (about 70 g) amount of solute?c) Why does the excess solute remains undissolved?
+4.Filter the undissolved solute. Collect the filtrate or the solution.d) What is the name of such a solution?
+5.Add spatula-full more solute to the filtrate while heating the mixture and stir.e) Does the additional solute dissolve in absence of heating? What about while heating?f) What is the name of such a solution?Prepare your report and discuss your findings with rest of the class.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+76Chemistry Grade 10 Solutions
+Discuss the following questions in group and present 
+your conclusions to the class. 
+1.Discuss the differences among saturated, 
+unsaturated, and supersaturated solutions in relation to your life experiences. 
+2.Consider three beakers A, B, and C containing 
+100 mL each of unsaturated, saturated, and supersaturated solutions of a salt. What would happen if a few crystals of the salt is added to each? Which solution would be able to dissolve, which not? In which case would you expect even more than added amount of solid to precipitate?  
+  Activity 2.5 
+2.3.2 Factors Affecting Solubility of Substances
+At the end of this section students will be able to
+"describe the factors that affect solubility of substances;
+"investigate the effect of temperature on solubility of sodium sulphate;
+"conduct an experiment to determine solubility of table salt and sugar.
+Solubility of a substance in a given solvent depends on 
+"inter-particle forces, 
+"temperature, and 
+"pressure (for gases only).
+A. Effect of Temperature on Solubility of Solids
+You know that more sugar dissolves in hot tea than in cold tea. Generally, the solubility of most of solid solutes increases with temperature. For instance, the solubility of sodium sulfate, Na
+2SO4, rises more than tenfold when the temperature rises from 0°C 
+to 32.4°C, where it reaches a maximum of 49.7 g Na2SO4 per 100 g water. The 
+solubility of NaCl is 36 g/100 mL of water at 25oC and 39 g/100 mL of water at 
+100oC. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+77Chemistry Grade 10 Solutions
+Experiment 2.3
+Determination of the Solubility of NaCl
+Objective: To determine the solubility of NaCl
+Apparatus : Beaker, evaporating dish, measuring cylinder, glass rod, filter paper, 
+analytical balance, and Bunsen burner.Chemicals : Sodium chloride and water.
+Procedure:1. Take an evaporating dish and weigh it.2.Take 100 mL of water in a beaker and add about 20 g of sodium chloride to it. Stir the solution vigorously with a glass rod, add more sodium chloride while stirring and continue this process until undissolved sodium chloride is left in the beaker.
+3.Take 50 mL of the supernatant saturated solution (assume that 50 mL of solution is equal to 50 mL of the solvent) and transfer it to an evaporating dish.
+4.Heat the solution in the evaporating dish as shown in the Figure, till all the water has evaporated and dry sodium chloride is left in the evaporating dish.
+5.Cool the evaporating dish containing dry sodium chloride to room temperature 
+and weigh it again.
+Observations and analysis:
+1. Volume of the NaCl solution ….
+2.Weight of the empty evaporating  dish ….
+3.Weight of the evaporating dish + NaCl collected after evaporating the solvent....
+4.Calculate the solubility of NaCl in water and express the results in grams of NaCl/100 g of water (assume that 100 mL of water = 100 g of water). 
+5. Repeat the experiment with sugar.
+B. Effect of Temperature on Solubility of Gases
+The solubility of gases in liquids decreases with increasing temperature. The molecules 
+in the gaseous state are so far apart because attractive intermolecular interactions in 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+78Chemistry Grade 10 Solutions
+the gas phase are essentially zero for most substances. When a gas dissolves, it does 
+so because its molecules interact with solvent molecules. Heat is released when these new attractive forces form.  Thus, if external heat is added to the system, it breaks the attractive forces between the gas and the solvent molecules and decreases the solubility of the gas.
+Perform the following activities in group and present 
+your conclusions to the class. 
+(Effect of climate change and pollution on environment)
+a.Discuss the effect of climate change (rise in temperature of the environment) on aquatic life.
+b.As nations shift from agriculture-led to industry-led economy, environmental pollution becomes a serious concern. Water bodies, for instance, can be polluted by chemicals released to the environment by industries along with wastes. Discuss how pollution of water bodies by chemicals can affect aquatic life such as fish and its productivity. From this lesson, what precautions would you make when disposing wastes of personal hygiene materials such as sanitary pads (Modess) or hair gel containers and 
+other plastic materials?  
+  Activity 2.6
+C. Effect of Pressure on Solubility of Gases:  Henry’s Law
+At the end of this section students will be able to 
+"state Henry's law
+"use Henry's law to calculate concentration of gaseous solute in a solution.
+1. Do you know why (a) 
+Carbonated beverages such 
+as coke, Pepsi, fizzes (sparkles, Figure to the right) when the cap is removed (b) Multicellular organisms need hemoglobin in red blood cells to bind and carry O
+2 to support the energy 
+needs. Why this mechanism of replenishing O
+2 in biological 
+fluid is necessary? What would happen if hemoglobin is absent? 
+  Activity 2.7
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+79Chemistry Grade 10 Solutions
+Pressure has virtually no effect on the solubility of solids or liquids in liquid solvents 
+because they are incompressible. In contrast, the solubility of gases increases  as the 
+partial pressure of the gas above a solution increases (Henry’s Law).  As you can see 
+in Figure 2.14, more and more gaseous particles enter the solution when the pressure 
+is increased from P1 to P2 and then P3.
+Figure 2.14 A model depicting why the solubility of a gas increases as the partial 
+pressure increases at constant temperature. 
+Henry’s Law: Relating Pressure to the Solubility of a Gas in a Liquid
+The quantitative relationship between pressure and the solubility of a gas is described quantitatively by Henry’s law, which is named for its discoverer, the English chemist, William Henry (1775 – 1836):
+  C  P    or C = kP
+where C is the concentration of dissolved gas at equilibrium, P is the partial pressureof the gas, and k is the Henry’s law constant , which must be determined experimentally 
+for each combination of gas, solvent, and temperature. Although the gas concentration may be expressed in any convenient units, we will use molarity here. The units of the Henry’s law constant are therefore mol/(L .atm) = M/atm. 
+The partial pressure of a gas can be expressed as concentration by writing Henry’s Law as 
+  P =C 
+         k Eg 2.3
+Since partial pressure and concentration are directly proportional, if the partial pressure 
+of a gas changes while the temperature remains constant, the new concentration of the gas within the liquid can be easily calculated using the following equation: 
+  C
+1C2
+ P1  =    P2 Eg 2.4
+Where C1 and P1 are the concentration and partial pressure, respectively, of the gas 
+at the initial condition, and C2 and P2 are the concentration and partial pressure, 
+respectively, of the gas at the final condition. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+80Chemistry Grade 10 Solutions
+Note: Gases that form strong intermolecular forces such as H-bonding or react 
+chemically with water, such as HCl and the other hydrogen halides, H2S, and NH3, do 
+not obey Henry’s law; all of these gases are much more soluble than predicted by 
+Henry’s law.
+Example 2.2
+The partial pressure of carbon dioxide gas inside a bottle of cola is 4 atm at 25
+oC. What is the solubility of CO2? The Henry’s law constant for CO2 in water is 
+3.3 x 10-2 mol/L.atm at 25oC.
+Given Required Solution
+PCO2 = 4 atm
+kH = 3.3x10-2 mol/L.atm
+Temperature = 293 K = constantSolubility of carbon dioxideThe relation between solubility of a gas and its partial pressure is given by Henry’s law:C = k
+H x P
+Substituting the values of kH and P in 
+the above equation gives:⇒  C = 3.3 x 10
+-2(mol/(L.atm) x 4 atm
+         = 0.132 mol/L        = 0.1mol/L; when rounded to 
+one significant figure.
+Example 2.3The solubility of nitrogen gas at 25°C and 1 atm is 6.8x10
+-4 mol/L. What is the 
+concentration of nitrogen dissolved in water under atmospheric conditions? The partial pressure of nitrogen gas in the atmosphere is 0.78 atm.
+Given Required Solution
+P1 = 1 atm
+C1= 6.8 x 10-4 mol/L
+P2 = 0.78 atm 
+Note:  atmospheric condition means the 
+pressure is 1 atm. Since air is 78% N2, 
+78% of 1 atm is exerted by N2.
+78% x 1 atm = 0.78 atmTherefore, the partial pressure of N
+2
+under atmospheric condition is 0.78 atmC
+2 ⇒ C1/P1= C2/P2  
+⇒ P2 x C1/P1 = C2
+C2= 0.78 atm x 6.8x10-4 mol
+   L
+  (1 atm)
+C2=5.3 x10-4 mol/L
+Note that the decrease in solubility is the result of lowering the pressure from 1 
+atm to 0.78 atm.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+81Chemistry Grade 10 Solutions
+1.Why are carbonated beverages such as Coca Cola are packed under 
+pressure?
+2.The concentration of CO2 in a solution is 0.032 M at 3.0 atm.  What is the 
+concentration of CO2 at 5.0 atm of pressure?
+3.Which of the following gases has the greatest Henry’s law constant in water 
+at 25°C?
+a. CH4
+b.Ne
+c. NH3
+d. H2Exercise 2.5
+2.4 Ways of Expressing Concentration of Solutions
+At the end of this section students will be able to
+"define concentration of a solution;
+"define mass percentage, ppm and ppb of a solute in a solution;
+"calculate the mass percentage, ppm and ppb of a solute in a solution from a given 
+information.
+Solution Concentration
+In chemistry, concentration is defined as the relative quantity of a solute against a total quantity of solution or solvent. There are different ways of expressing concentration of solutions, e.g. percent by mass or volume, mole fraction, molarity, molality, and normality. 
+2.4.1 Percent by Mass/Volume
+The percent by mass (also called the percent by weight or the weight percent) is defined as
+Percent by mass of solute =mass of solute      
+x 100%     mass of solute + mass of solvent 
+    = mass of solute   x 100%
+        mass of solution   Eq 2.5
+The percent by mass is a unitless number because it is a ratio of two similar quantities.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+82Chemistry Grade 10 Solutions
+Example 2.4 : A solution is made by dissolving 13.5 g of glucose, C6H12O6, in 
+0.100 kg of water. What is the mass percentage of solute in this solution?
+Given Required Solution
+Mass of solute (glucose) 
+= 13.5 g Mass of solvent = 0.100 kg =100 g%(w/w)  %(w/w)
+solute 
+=Mass of solute   x 100%Mass of solution 
+But Masssolution = masssolute + masssolvent
+Substituting the values of masses of glucose (solute) and solution in the above equation gives: %(w/w)
+solute= (13.5 g/113.5 g) x100%
+               = 11.9%
+Parts by Volume: The most common parts-by-volume term is volume percent, % (v/v), the volume of solute in 100 volumes of solution:
+Volume percent =Volume of solute x100%
+           Volume of solution
+Example 2.5
+A rubbing alcohol usually contains 70 mL of isopropanol in 100 mL of solution. 
+What is the %(v/v) of this solution%(v/v) isopropanol = (70/100) x 100% = 70%
+Example 2.6An iostonic solution contains 0.9 g of NaCl in 100 mL of aqueous solution. What is the % (w/v) of NaCl of this solution?
+Given Required Solution
+Mass (w) of NaCl = 0.9 g
+Volume solution = 100 mL% (w/v)solute% (w/v)solute 
+=Mass of solute       x 100%Volume of solution  
+= (0.9 g)/(100 mL)  x 100%
+= 0.9%
+Note that mass of 100 mL of solution is equal to 100 g if density of solution is 
+assumed to be equal to density of water; the case for dilute solutions.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+83Chemistry Grade 10 Solutions
+When making a percent solution, it is important to indicate what units (w/w, or, v/v, 
+or, w/v) are being used, so that others can also make the solution properly. Also, recall that mass of solution is the sum of both the solvent and the solute when you are performing percent calculations.
+For more dilute solutions, parts per million (10
+6 ppm) and parts per billion (109 ppb) 
+are used. These terms are widely employed to express the amounts of trace pollutants 
+in the environment.
+The mass-based definitions of ppm and ppb are given here:
+ppm =  Mass of solute   x 106
+   Mass of solution Eq 2.6
+ppb =  Mass of solute      x 109
+   Mass of solution Eq 2.7
+Note that, 1ppm = 1 g solute per 1,000,000 g solution = 1/(1,000.000)
+Example 2.7
+A 2.5 g sample of ground water was found to contain 5.4 µg of Pb2+. What is the 
+concentration of Pb2+, in parts per million?
+Given Required Solution
+Mass of solute (Pb2+) = 
+5.4 µg = 5.4x10-6 g    
+               Mass solution = 2.5 gConcentration in ppm
+ppm =Mass of solute    x 106
+Mass of solution  
+            = [(5.4 x 10-6 g)/(2.5 g)] x106 
+       = 2.16 ppm
+Note that the sum of 2.5 g and 5.4 g is approximately equal to 2.5 g. When 
+reporting contaminants like lead in drinking water, ppm and ppb concentrations are often reported in mixed unit values of mass/volume.  This can be very useful as it is easier for us to think about water in terms of its volume, rather than by its mass. In addition, the density of water is 1.0 g/mL or 1.0 mg/0.001 mL which makes the conversion between the two units easier. For example, if we find that there is lead contamination in water of 4 ppm, this would mean that there are:
+4 ppm =4 mg lead                  
+     1,000,000 mg solution
+This is a very dilute solution,  so the sum of masses of solute and solvent can be 
+approximately equal to the mass of the solvent
+Now, let’s convert 1,000,000 mg of water into volume:
+V =mass   
+      density 
+  = [(1,000,000 mg)/(1 mg/0.001 mL)] = 1,000 mL = 1L
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+84Chemistry Grade 10 Solutions
+Substituting in the above equation yields,
+  4 ppm =  4 mg lead
+      1L solutionTherefore, for dilute solutions
+  1 ppm = 1 mg/L
+1.A sample of 0.892 g of potassium chloride, KCl, is dissolved in 54.6 g of 
+water. What is the percent, by mass, of KCl in the solution?
+2.a) If 150 g of orange juice contains 120 mg of ascorbic acid (Vitamin C), what is the concentration of ascorbic acid, expressed in ppm?b) Express the concentration of ascorbic acid given in (a) in ppb.
+3.What is the (w/v)% of a solution if 24.0 g of sucrose is dissolved in a total solution of 243 mL?
+4.How many grams of NaCl are required to make 625 mL of a 13.5% solution?
+5.Find the concentration of calcium ion (in ppm) in a 3.50 g pill that contains 40.5 mg of Ca
+2+.
+6.The label on a 300 mL beer bottle indicates 5.0 % alcohol by volume. How many milliliters of alcohol does the bottle of beer contain?Exercise 2.6
+2.4.2 Mole Fraction
+At the end of this section students will be able to
+"define mole fraction;
+"calculate mole fraction of a solute and a solvent in a solution.
+A mole fraction of a component substance A (XA) in a solution is defined as the moles 
+of component substance divided by the total moles of solution (that is, moles of solute 
+plus solvent).
+Mole fraction (XA) =  moles of substance A  
+            total moles of solution Eq 2.8
+Mole fraction (XB ) =moles of substance B 
+            total moles of solution Eq 2.9
+Note: Usually a solution composed of solute and solvent. So Xsolute + Xsolvent = 1, 
+Therefore, if mole fraction of the solute is 0.25, then mole fraction of solvent = 1- 0.25 = 0.75. In other words, if solute is 25% by mole, then solvent is 75%.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+85Chemistry Grade 10 Solutions
+Put another way, the mole fraction gives the proportion of solute (or solvent) particles 
+in solution. The mole percent is the mole fraction expressed as a percentage:
+Mole %  =              amount (mol) of solute        x100%         amount (mol) of solute +  amount (mol) of solvent Eq 2.10
+Example 2.8
+What is the mole fraction of I2 in a solution containing 30 g of I2 in 400 g of CCl4?
+Given Required Solution
+Mass solute (I2) 30 g
+Mass solvent (CCl4) 
+= 400 gmole fraction of I
+2Number of moles of I2 = Mass I2
+      Molar mass of I2
+= (30 g)/(254 g/mol) = 0.12 mol I2
+Number of moles of CCl4=Mass of CCl4
+          Molar mass of CCl4
+     = (400g)/(154g/mol) 
+      = 2.6 mol CCl4
+         XI2  = nI2        nI2 + nCCl4
+     = (0.12 mol)/(0.12 mol + 2.6 mol) 
+     = 0.044
+ XCCl4 = 1- 0.044  =  0.96
+1.A sample of rubbing alcohol contains 142 g of isopropyl alcohol (C3H7OH) 
+and 58.0 g of water. What are the mole fractions of alcohol and water? M.wt 
+C3H7OH = 60.0 g/mol, H2O = 18 g/mol.  
+2.In a solution composed of A, B, and C, if we have 1 mole of A , 1 mole of B and 2 moles of C. Find the mole fraction of each of them.Exercise 2.7
+2.4.3 Molarity
+At the end of this section students will be able to
+"define molarity;
+"prepare molar solutions of different substances;
+"calculate molarity of a solution from a given information.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+86Chemistry Grade 10 Solutions
+The most common unit of concentration is molarity , which is also the most useful for 
+calculations involving the stoichiometry of reactions in solution. 
+Definition: The molarity (M) of a solution is the number of moles of solute present in 
+exactly 1 L of solution. 
+Molarity =number of moles of solute
+         volume of solution in litre Eq 2.11
+1 M = (1 mole of solute)/(1 L of solution)
+Number of moles of a solute =  Given mass of solute or mass of solute dissolved
+       Molar mass of the solute
+Eq 2.11
+The units of molarity are therefore moles per liter of solution (mol/L), abbreviated as M. 
+Molarity has two drawbacks that affect its use in precise work:
+"Effect of temperature. A liquid expands when heated, so a unit volume of hot solution contains less solute than that of cold solution; thus, the molarity is different.
+"Effect of mixing. Because of solute-solvent interactions that are difficult to predict, volumes may not be additive: adding 500 mL of one solution to 500 mL of another may not give 1000 mL of final solution.
+Example 2.91.What is the molar concentration of a solution containing 16.0 g of CH
+3OH in 
+200 mL of solution?
+Given Required Solution
+Mass of solute (CH
+3OH) = 16 g
+  Volume of solution = 200 mL = 0.20 LMolar mass of CH
+3OH 
+= 32 g/molMolarity Molarity =  Number of moles of CH3OH
+       Volume of solution in liter
+=Mass of CH3OH  
+   Molar mass of CH3OH x Volume of solution in L
+= (16 g )/(32 g/mol x 0.2 L) 
+= 2.50 mol/L = 2.50 M
+2.Calculate the number of moles of sodium hydroxide (NaOH) needed to make 
+2.50 L of 0.100 M NaOH.
+Given Required Solution
+Molarity =0.1 M 
+Volume solution = 2.50 L Number of moles of solute (NaOH)  
+Molarity =  Number of moles of CH3OH=  n
+       Volume of solution in liter         V
+Rearranging the above equation gives:
+n = M x V = 0.1Mx2.5 L = 0.1 mole/L x2.5 L= 0.25 mole
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+87Chemistry Grade 10 Solutions
+1.5.85 g of sodium chloride (NaCl) is dissolved in in water to make 250 mL 
+of solution. Assuming the density of the solution as 1 g/mL, calculate 
+a. the molarity of the solution.
+b.the mass percentage of the solute.
+2. How would 250 ml of 0.15 M KNO3 solution be prepared?
+3.A solution of hydrochloric acid contains 36 percent HCl, by mass. Calculate 
+the mole fraction of HCl in the solution.Exercise 2.8
+2.4.4 Molality
+At the end of this section students will be able to
+"define molality;
+"prepare molal solutions of different substances;
+"calculate molality of a solution from a given information.
+Molality (m) does not contain volume in its ratio; it is the number of moles of solute 
+dissolved in a given mass of solvent (Kg):
+Molality (m) = amount (mol) of solute
+   (mass (kg) of solvent Eq 2.13
+Note that molality includes the quantity of solvent, not solution. Molality has two advantages over molarity for precise work:
+"Effect of temperature. Molal solutions are based on masses of components, not 
+volume. And since mass does not change with temperature, neither does molality.
+"Effect of mixing. Unlike volumes, masses are additive: adding 500 g of one solution to 500 g of another does give 1000 g of final solution.
+For these reasons, molality is the preferred term when temperature, and hence density, may change, as in a study of physical properties. Note that, in the case of water, 1 L has a mass of 1 kg, so molality and molarity are nearly the same for dilute  aqueous 
+solutions.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+88Chemistry Grade 10 Solutions
+Example 2.10
+Calculate the molality of a solution prepared by dissolving 32.0 g of CaCl2 in 
+271g of water.
+Given Required Solution
+Mass of CaCl2 = 
+32.0 g  Mass of H
+2O = 
+271 g = 0.271 kgMolality(m) =?
+Molality (m) =Number of moles of solute
+                      Mass of solvent in kg
+= mass of CaCl2
+Molar mass CaCl2 x Mass (kg)of of H2O
+       = (32.0 g)/(111 g/mol x 0.271 kg )      
+                 = 1.06 m CaCl2
+1.How many grams of glucose (C6H12O6) must be dissolved in 563 g of ethanol 
+(C2H5OH) to prepare a 2.40 x 10-2 m solution? Ans: mass of glucose = 2.43 
+g (Verify this)Exercise 2.9
+2.4.5 Normality
+At the end of this section students will be able to
+"define the terms equivalent weight, number of equivalents and normality;
+"calculate normality of a solution from a given information.
+The normality of a solution is the gram equivalent weight of a solute per liter of 
+solution. One gram equivalent of a solute per liter of solution is expressed as 1 normal. It is indicated using the symbol N, eq/L, or meq/L (= 0.001 N) for units of concentration. 
+N =number of gram equivalents of solute         
+  volume of solution in litre Eq 2.14
+Where number of gram equivalents of solute =mass of solute          
+          equivalent weight Eq 2.15
+but equivalent weight=molar mass of solute
+              z              Eq 2.16
+Substituting eq 2.16 in eq 2.15 gives:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+89Chemistry Grade 10 Solutions
+number of gram equivalents of solute =mass of solutex z         molar mass          eq 2.17
+Substituting eq 2.17 in eq 2.14 gives:
+N =mass of solute             x Z         
+            molar mass x volume of solution in litre Eq 2.18
+Where ‘z’ is the number of transferable H+ or OH- ions in acid-base reaction, positive 
+or negative charges carried by the cations or anions in precipitation reaction, or 
+electrons in redox reactions. 
+Thus, z = 1 for HCl, 2 H2SO4 (because 1 H2SO4 releases 2 H+ ions in aqueous solution), 
+3 for H3PO4, 1 for 1 NaOH, 2 for Ca(OH)2, 2 for Na2CO3, and 6 for Al2(SO4)3 
+(because Al2(SO4)3 dissociates to give 2Al3+ = 6 positive charges). 
+Example 2.11
+Calculate the number of gram equivalent or simply equivalents in each of the following(a) 18.25 g HCl      (b)  20 g NaOH      (c) 98 g H
+2SO4
+Given Required Solution
+(a) Mass solute (HCl) = 18.25 gMolar mass (HCl) = 36.5 g/moleq The reaction: HCl → H
++ + Cl-
+HCl produces one H+; thus z =1.
+number of gram equivalents of solute 
+=(8.25/36.5) x 1= 0.5 eq
+(b) Mass solute (NaOH) 
+= 20 gMolar mass (NaOH) = 40 g/moleq The reaction: NaOH → Na
++ + OH-
+NaOH produces one OH-; z =1.
+number of gram equivalents of solute 
+=(20/40) x 1 =  0.5 eq
+(c) Mass solute (H2SO4)
+= 98 g
+Molar mass = 98 g/mol    eq The reaction: H2SO4→ 2H+ + SO42-
+H2SO4 releases two H+ ions in this case; 
+z =2.
+number of gram equivalents of solute =(98/98) x 2 = 2 eq
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+90Chemistry Grade 10 Solutions
+Example 2.12
+(i) Calculate the number of equivalents present in 0.50 mol H3PO4 if the acid is
+a. completely neutralized to give PO43-
+b.converted to H2PO4-
+c. converted to HPO42-
+(ii) Calculate the Normality of each of the solutions described in Q(i) a to c if the 
+solution volume was 100 mL each.
+(iii) What is the mass of Na2CO3 required to prepare 100 mL of 0.1 N Na2CO3? 
+(Given: Molar mass Na2CO3= 106 g/mol).
+Given Required Solution
+(a)
+Mole H3PO4 = 
+0.5number of equivalents The appropriate equation is 
+H
+3PO4→ 3H+ + PO43–
+H3PO4 releases 3 H+ ions in this case; z = 3
+equivalents = (mass of solute)/(molar mass) x z
+equivalents = n x z= 0.5 x 3 = 1.5 eq
+Where, n = (mass solute)/(molar mass solute) =moles of solute
+(b)
+Mole H
+3PO4 = 
+0.5eq The appropriate equation is 
+H3PO4→ H+ + H2PO41–
+H3PO4 releases 1 H+ ion in this case; z =1
+equivalents = (mass of solute)/(molar mass) x z
+equivalents = n x z=0.5 x 1= 0.5 eq
+(c)
+Mole H3PO4 = 
+0.5    eq The appropriate equation is 
+H
+3PO4→ 2H+ + H2PO42
+H3PO4 releases 2 H+ ion in this case; z =2
+equivalents=(mass of solute)/(molar mass) x z
+equivalents=n x z=0.5 x 2= 1 eq
+Normality is the only concentration unit that is reaction dependent. For example, in a multistep dissociation of diprotic (e.g. H
+2SO4) and polyprotic acids (e.g. H3PO4), 
+the value of ‘z’ depends on the actual number of H+ released; not just the one in the 
+formula.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+91Chemistry Grade 10 Solutions
+ii) Calculate the Normality of each of the solutions described in Q(i) a to c if the 
+solution volume was 100 mL each.
+Given Required Solution
+(a)
+Mole H3PO4 = 0.5
+V = 100 mL = 0.1 LNormality a) N=Eq/L= (1.5 Eq)/(0.1 L)=15  Eq/L=15 N 
+b) N=Eq/L= (0.5 Eq)/(0.1 L)=5  Eq/L=5 Nc) N=Eq/L= (1 Eq)/(0.1 L)=15  Eq/L= 10 N
+(iii) What is the mass of Na
+2CO3required to prepare 100 mL of 0.1 N Na2CO3? 
+(Given: Molar mass Na2CO3= 106 g/mol)
+Given Required Solution
+N = 0.1 eq/LV = 100 mL = 0.1 LMolar mass Na
+2CO3
+= 106 g/molMass? Na2CO3 release 2Na+; z = 2
+Thus   
+N =mass of solute          x Z            molar mass x volume of solution in litre
+⇒ Mass = [0.1 eq/Lx106 g/mol x 0.1 L]/2     
+            = 0.53 g
+The easiest way to find normality is from molarity. All you need to know is the value of ‘z’.N = M.z; where N is normality and M is molarity
+Example 2.13Calculate the normality of 0.5 M H
+2SO4 solution (assume complete dissociation). 
+Given Required Solution
+M = 0.5 N N = Mz
+   = 0.5 x 2 = 1 N
+1. How many equivalents of solute is contained in1 L of 2 N solution?
+2.Calculate the mass of Al2(SO4)3 in 250 mL of solution if the concentration is 
+0.48 N.
+3.Calculate the molarity and normality of a solution that contains 16.2 g of the 
+salt Fe2(SO4)3 in 200 mL of solution.
+4. Calculate the normality of 
+a. 0.1381 M NaOHb.0.0521 M H
+3PO4 assuming complete dissociation.Exercise 2.10
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+92Chemistry Grade 10 Solutions
+2.4.6 Conversion of Concentration Units
+At the end of this section students will be able to inter convert various concentration 
+expressions.
+The interconversion of concentration units is very simple. Because they are intrinsic 
+units. That means, any amount of liquid taken from a 5% (v/v) ethanol solution, for instance, always contains ethanol to solution in ratio of 5 is to100 regardless of the volume taken. Therefore, 5% (v/v) read as 5 mL of ethanol per 100 mL of solution. 5 ppm glucose means 5 g of glucose per 10
+6 g of solution. Similarly, 5 ppb of glucose 
+means 5 g of glucose per 109 g of solution. If percent is given in (v/v), convert the mL 
+of solute into moles by converting volume to mass by multiplying with density followed by calculating moles using the formula (mole = mass/molar mass). And convert mL of solution into liter.
+Example 2.14
+Converting Mole Fractions to Molality
+The mole fractions of glucose, C6H12O6, and water are 0.150 and 0.850, 
+respectively. What is the molality of glucose in the solution?
+Given Required Solution
+Xsolute(glucose) = 0.15 
+Xsolvent(water) = 0.85Molality = mMolality = m =number of moles of solute
+             mass of solvent in kg 
+Let’s consider 0.15 moles of glucose and 0.85
+moles of water which is consistent with the given mole fractions. Thus, to calculate the mass of solvent in kg we convert the mole solvent into mass solvent as follows:Mass
+H2O = mole x molar mass 
+             = 0.85 mole x18 g/mole             =15.3 g = 0.0153 kg
+Substituting the values in the above equation 
+gives:
+Molality = m =0.15 mole=9.8 m             0.0153 kg
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+93Chemistry Grade 10 Solutions
+Example 2.15
+1.An aqueous solution is 0.273 m KCl. What is the molar concentration of 
+potassium chloride, KCl? The density of the solution is 1.011 x 103 g/L.
+Given Required Solution
+Molality = 0.273 m Density solution = 1.011 x 10
+3 g/L
+solute = KCl
+Molar mass KCl = 
+74.6 g/moleMolarity 
+= MMolarity = M =number of moles of solute
+             Volume of solution in litre 
+but molality = 0.273 m means 0.273 mole of 
+KCl per 1 kg (=1000 g) of solution. Now, we know number of moles of solute. To determine volume of solution in liter we proceed as follows:V
+solution = masssolution/dsolution
+               = (masssolute + masssolvent)/dsolution
+         = (0.273 mole x 74.6 g/mole) + (1000g)/(1.011 x 10
+3 g/L)
+         =1.01 LSubstituting the values in the above equation 
+gives:
+Molarity = M =0.273 mole=0.270 M             1.01 L
+Example 2.16:  Converting (w/w) percent to Molarity
+Calculate the molarity of 36.5%(w/w) HCl solution (density of solution = 1.20 g/
+mL; molar mass HCl = 36.5 g/moL)
+Given Required Solution
+%(w/w)  = 36.5 Density solution = 1.20 g/mLMolar mass (HCl) = 36.5 g/moleConvert % into Molarity
+Molarity = M =number of moles of solute
+             Volume of solution in litre 
+but %(w/w)  = 36.5% means 36.5 g of HCl 
+in 100 g of solution. Thus, number of moles of HCl is calculated as follows: Number of moles of HCl = mass/molar mass     = 36.5 g/36.5 g.mol
+-1=1 mol
+volume of solution = msol/dsoln
+      = 100 g/1.2      = 83.3 mL = 0.0833 LSubstituting the values in the above equation 
+gives:
+Molarity = M =1 mole    =12.0 M             0.0833 L
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+97Chemistry Grade 10 Solutions
+And the molarity of solution II is 
+M2= Moles2/V2
+Rearranging the equations to find moles we obtainMoles
+1=M1 V1
+And Moles
+2=M2 V2
+As you can see in Figure 2.16 , adding more solvent changed the volume of the solution. 
+Doing so we also changed its concentration because the number of particles (number of moles) per unit volume (per unit litre or per unit mL) is changed. However, the number of particles (number of moles) of solute did not change. So,
+Moles
+1= Moles2
+M1 V1 = M2 V2 
+This formula is known as dilution formula. It is used to prepare dilute solutions. For 
+instance, to prepare a dilute solution having a volume V2 and concentration M2 using 
+a more concentrated solution having concentration M1, we withdraw the volume V1
+from the more concentrated (stock) solution having the concentration M1 and add 
+more water to raise the volume from V1 to V2. We often need to calculate V1 using 
+the formula:  
+  V1=M2 V2/M1
+Caution! When preparing dilutions of concentrated acids such as sulfuric acid, the 
+directions usually call for adding the acid slowly to water with frequent stirring . If 
+water were added to acid, the water would quickly heat and splatter, causing harm 
+to the person making the solution.
+Example 2.18Describe how you would prepare 2.50 x 10
+2 mL of a 2.25 M H2SO4 solution, 
+starting with a 7.41 M stock solution of H2SO4.
+Given Required Solution
+M1 = 7.41 M
+V1 = ?
+M2=2.25 M
+V2 = 250 mLV1M1 V1 = M2V2
+V1 =M2V2
+          M1
+V1=(2.25 M x 250 mL)/(7.41 M)
+   =75.9 mL
+Thus, we must withdraw 75.9 mL from the 7.41 M H2SO4 solution, transfer it to a 250 
+mL volumetric flask half-filled with distlled water, and dilute it with sufficient amount 
+of water to the mark. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+98Chemistry Grade 10 Solutions
+1.How would you prepare 2.00 x 102 mL of a 0.866 M KOH solution, starting 
+with a 5.07 M stock solution?
+2.What is the difference between dilute and unsaturated? Or concentrated 
+and saturated? 
+3. Prepare a 100 mL of 0.1 M sucrose from 1M sucrose solution by dilution.Exercise 2.12
+Outline the preparation of 100 mL of (a) hypotonic (0.1 M) and (b) hypertonic 
+(0.25 M) aqueous NaCl solution and (c) 0.1 M H2SO4 using a stock solution of 
+98% (w/w) H2SO4. Density = 1.84 g/ml. (Hint: First calculate the molarity of 
+the 98%(w/w) H2SO4 solution as shown in example 2.16. Then use the dilution 
+formula). Show all the necessary steps and let your teacher check it!Exercise 2.13
+2.6 Solution Stoichiometry
+At the end of this section students will be able to
+"use stoichiometrically equivalent molar ratios to calculate amounts of reactants 
+and products in a reaction of pure and dissolved substance.
+In Unit 3 you studied about stoichiometric calculations in terms of the mole method, 
+which treats the coefficients in a balanced equation as the number of moles of reactants 
+and products. Solving stoichiometry problems for reactions in solution requires the additional step of converting the volume of reactant or product in solution to amount (mole) using the relationship MV = number of moles of solute. 
+Generally, we follow these steps:
+1.Balance the equation. Note that the coefficients in chemical equation indicate 
+number of moles.
+2. Find the amount (mol) of one substance from the volume and molarity.3. Relate it to the stoichiometrically equivalent amount of another substance. 4. Convert to the desired units.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+99Chemistry Grade 10 Solutions
+Mole-Mole Calculation
+Example 2.19
+What is the concentration of sodium hydroxide required to react completely with equal volume of 0.104 M sulfuric acid? 
+Given Required Solution
+VNaOH= VH2SO4
+MH2SO4= 0.104 MMNaOH = ? Equation: H2SO4 + 2NaOH → Na2SO4 + 2H2O
+Stoichiometry 1 mole 2 mole
+Equation H2SO4+ 2NaOH → Na2SO4+ 2H2O
+Given nH2SO4=0.104  
+mol/L x VH2SO4nNaOH=MNaOH x VNaOH
+Stoichiometry:= nNaOH/nH2SO4=2/1
+                    = MNaOHVNaOH/MH2SO4VH2SO4
+                    = MNaOHVNaOH/0.104MVH2SO4Since volume is the same, it cancels out and the equation 
+becomes: 2/1= MNaOH/0.104 M
+⇒ MNaOH= 0.104 M x 2 
+             =  0.208 M
+What is the concentration of sodium hydroxide that is required to react 
+completely with equal volume of 0.104 M hydrochloric acid? Exercise 2.14
+Mole - Mass
+Example 2.20
+What mass of solid magnesium hydroxide can be produced if 45 mL of a 0.63 M Mg(NO
+3)2 solution reacts completely with excess NaOH?
+Given Required Solution
+VMg(NO3)2= 45 mL
+MMg(NO3)2= 0.63 M
+Note that M and V are given means number of moles (n) is known: n=MVV
+AgNO3= ? Stoichiometry 1 mole 58.321 g
+Equation 2NaOH(aq) +1Mg(NO3)2(aq) → Mg(OH)2(s) +2NaNO3(aq)
+Given 0.63 M, 45 mL Mass =?
+Stoichiometry:=nMg(NO3)2/massMg(OH)2
+                                 =1 mole/58.321 g
+                   =0.63 mol/L x 0.045 L/massMg(OH)2
+⇒massMg(OH)2= 0.63 mol/L x 0.045L x 58.321 g/1 mole 
+                    =1.65g
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+100Chemistry Grade 10 Solutions
+Mass - Volume
+Example 2.21
+What volume of 0.0995 M Al(NO3)3 will react with 3.66 g of Ag according to the 
+following chemical equation?
+Given Required Solution
+wAg=3.66 g
+MAl(NO 3)3= 
+0.0995 MVAl(NO 3)3=? Stoichiometry 3x107.97 g 1 mole
+Equation 3Ag(s) + Al(NO3)3(aq) → 3 AgNO3(aq) + Al(s)
+Experimental 3.66 g n Al(NO3)3=
+MAl(NO3)3x VAl(NO3)3
+Stoichiometry: =wAg/nAl(NO3)3=3x107.97 gAg/1moleAl(NO3)3
+= 3.66g/MAl(NO3)3VAl(NO3)3=3.66g/0.0995MxVAl(NO3)3
+⇒ 3x107.97g/1mole=3.66g/(0.0995MxVAl(NO3)3); where 
+MV = mole
+VAl(NO3)3= 3.66 g x1 mole/3x107.97 g x0.0995 mol /L=0.114 L
+What volume of 0.512 M NaOH will react with 17.9 g of H2C2O4(s) according 
+to the following chemical equation?
+  H2C2O4(s) + 2NaOH(aq) → Na2C2O4(aq) + 2H2O(l)Exercise 2.15
+Mole - Volume Calculation 
+Example 2.22
+What volume of a 0.35 M AgNO3 is required to react completely with 55mL of 
+a 0.24 M NaCl solution? 
+Given Required Solution
+VNaCl=55 mL 
+MNaCl=0.24 M
+Note that M and V are given means number of moles (n) is known:n=MVV
+AgNO 3=? Stoichiometry 1 mole 1 mole
+Equation NaCl(aq)  + AgNO3(aq) → NaNO3(aq) + AgCl(s)
+Experimental 0.24 M, 55 mL 0.35 M, V=?
+Stoichiometry: = nNaCl/nAgNO3=1/1
+           = (0.24 mol/L x0.055L)/(0.35 mol/L x VAgNO3)
+           =1
+VAgNO3= (0.24 mol/L x0.055L)/(0.35 mol/L) = 0.0377     
+       L= 37.7 mL
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+101Chemistry Grade 10 Solutions
+Mole - Number of Particles
+Example 2.23
+1. How many HCl particles are there in 0.1 mole of the HCl solution?Strategy: 1 mole HCl contains Avogadro’s number of HCl particles, then 0.1 mole 
+contains how many?
+Answer: 0.6022 x 10
+23 particles = 6.022 x 1022 HCl particles
+What volume of 0.5 M glucose (C6H12O6) contains 3.01 × 1022 molecules of 
+glucose?Exercise 2.16
+2.7 Describing Reactions in Solution
+At the end of this section students will be able to
+"explain the relationship between reacting ions, spectator ions, precipitation and solubility;
+"write net ionic equations.
+Molecular Equation
+A molecular equation is a chemical equation in which the reactants and the products are written as if they were molecular substances, even though they may actually exist in solution as ions. The state (solid, liquid, gas) of each substance is indicated in parentheses after formula. (aq) is used to indicate the that molecule is dissolved in water.
+Consider the reaction between silver nitrate, AgNO
+3, and sodium chloride, NaCl, in 
+aqueous solution to give solid silver chloride, AgCl, and aqueous sodium nitrate. The 
+equation for this reaction may be written as:
+  AgNO3(aq)   +  NaCl(aq) → AgCl(s)  + NaNO3(aq)
+This is just a molecular equation. Note from the solubility rules (Table 2.1) that all 
+common nitrates and chlorides of Group 1A are soluble. That is why (aq) is used after these formulae. The solubility rule also taught us that AgCl is insoluble in water. That is why (s) to indicate that it is precipitated out from the solution to the bottom of the reaction flask/test tube as a solid.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+102Chemistry Grade 10 Solutions
+Ionic Equation
+Although a molecular equation is useful in describing the actual reactants and products, it does not give any information about what is happening at the level of ions. Since this kind of information is very useful, you often need to write the molecular equation as an ionic equation. Consider the reaction of silver nitrate and sodium chloride. Both are soluble ionic substances and are strong electrolytes. When they dissolve in water, they go into solution as ions giving on the reactant side of the reaction:
+  Ag
++(aq) +  NO3_(aq)   +  Na+(aq) + Cl_(aq)
+On the product side of the equation, AgCl(s) is an ionic compound that doesn’t dissolve 
+in water, but the ions are held together in particular sites in the crystalline solid. We leave the formula as AgCl(s) to convey this information in the equation. On the other hand, NaNO
+3 is a soluble ionic compound and is a strong electrolyte. Also it dissolves 
+in aqueous solution to give freely moving ions. Therefore, we can write it as 
+  Na+(aq) + NO3–(aq)
+The complete equation is
+Ag+(aq) +  NO3_(aq)   +  Na+(aq) + Cl_(aq)  → AgCl(s)  + Na+(aq)  +  NO3_(aq), 
+The ions appearing on both sides of the equation (Na+ and NO3–) are called spectator 
+ions, as they do not take part in the reaction and they can be canceled on both sides 
+to express the essential reaction that occurs.
+Ag+(aq) +  NO3_(aq)   +  Na+(aq) + Cl_(aq)  → AgCl(s)  + Na+(aq)  +  NO3_(aq)
+The resulting equation is: 
+  Ag+ (aq) +  Cl_(aq)  → AgCl(s)   
+This net ionic equation, is without spectator ions and the reaction that actually occurs at 
+an ionic level is between silver ions and chloride ions which forms solid silver chloride.Steps for writing a net ionic equation
+1. Write the balanced molecular equation 2. Write the balanced complete ionic equation 3. Cancel out the spectator ions. What remains is the net ionic equation.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+103Chemistry Grade 10 Solutions
+1.Discuss the difference between molecular equations and ionic equations? 
+What are spectator ions?
+2.Consider the reaction between sodium carbonate and calcium chloride in aqueous solution:
+a. How are sodium carbonate and calcium chloride found in water solution, 
+dissociated to give ions or as solid? (Refer to solubility rule). Write dissociation reaction for each of them.
+b.Write the ionic equation for the reaction between sodium carbonate and calcium chloride. Are the products formed soluble in water?
+c.Write the soluble product in ionic form. Are there the same ions in the reactant and product side? If yes, cancel them out!
+d. Write the net ionic equation.
+3.For the following molecular equation, write ionic equation, net ionic equation, and identify the spectator ions:
+2AgNO
+3 (aq) + Na2CrO4 (aq) → Ag2CrO4 (s) + 2NaNO3 (aq)Exercise 2.17
+Key Terms of the Unit
+"Concentrated
+"Colloids
+"Dilute
+"Electrolyte solution
+"Henry’s law
+"Heterogeneous solution
+"Homogeneous solution"Mass percentage
+"Miscible
+"Molality
+"Molarity
+"Mole fraction
+"Nonelectrolyte
+"Normality"Parts per billion
+"Saturated
+"Solvation
+"Supersaturated
+"Suspension
+"Unsaturated
+Unit Summary
+"To ensure that you understand the material in this chapter, you should review the meanings of the bold terms in the following summary and ask yourself how they relate to the topics in the chapter.
+"A heterogeneous mixture is a mixture that consists of physically distinct parts, each with different properties.
+"A homogeneous mixture is a mixture in which the composition is the same 
+throughout. i.e., it has no visible boundaries because the components are mixed as individual atoms, ions and molecules.
+"A suspension  is a heterogeneous mixture that consists of a dispersion of fine solid 
+particles in a liquid or gas, removable by filtration.
+"A colloid is a heterogeneous mixture in which insoluble particles of one or more substances are suspended uniformly throughout another substance.
+"Scattering of a beam of light by colloidal particles is called Tyndall effect .
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+104Chemistry Grade 10 Solutions 
+"A colloid can be a gel, an emulsion, a sol, foam, or aerosol.
+"Coagulation  is the process by which the dispersed phase of a colloid is made to 
+aggregate and thereby separate from the continuous phase.
+"A colloid in which the dispersed phase consists of micelles is called an association 
+colloid .
+"A solution  is a homogeneous mixture. The major component is the solvent, while 
+the minor component is the solute. The terms miscible and immiscible, instead of soluble and insoluble, are used for liquid solutes and solvents. The statement like dissolves like is a useful guide to predicting whether a solute will dissolve in a given solvent.
+"For liquid solutions formed from a solvent A and solute B, an ideal solution results when the A-B attractions are the same as the A-A and B-B attractions and for such a solution, ΔH
+soln = 0. 
+"When the A-B attractions are greater than the A-A and B-B attractions, ΔHsoln< 0 
+and the solution process is exothermic. 
+"When the A-B attractions are weaker than the A-A and B-B attractions, ΔHsoln> 0 
+and the solution process is endothermic.
+"Dissolving occurs by solvation, the process in which particles of a solvent surround the individual particles of a solute, separating them to make a solution. For water solutions, the word hydration is used. If the solute is molecular, it dissolves into individual molecules. If the solute is ionic it dissolves into ions. The individual ions separate from each other, forming a solution that conducts electricity. Such solutions are called electrolytes . If the dissociation of ions is complete, the solution is a strong 
+electrolyte. If the dissociation is only partial, the solution is a weak electrolyte. If a solution is made up of molecules only, it does not conduct electricity and is called nonelectrolyte .
+"The amount of solute in a solution is represented by the concentration of the solution. The maximum amount of solute that can be dissolved in a given amount of solvent is called the solubility  of the solute. Such solutions are saturated. Solutions 
+that have less than the maximum amount that it can dissolve are unsaturated . 
+Most solutions are unsaturated, and there are various ways of stating their 
+concentrations.
+"A dilute solution is one in which there is a relatively small amount of solute dissolved in the solution.
+"A concentrated solution contains a relatively large amount of solute.
+"These two terms do not tell us whether or not the solution is saturated or unsaturated. They are used for comparing concentrations of two solutions in a more general qualitative sense. 
+"Solubility  depends on two factors, predominantly intermolecular forces of 
+attraction and to some extent conditions (surface area, temperature, pressure). 
+"Increasing the temperature usually increases the solubility of solids  in water 
+and liquids in water while it decreases the solubility of gases in water. Increasing 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+105Chemistry Grade 10 Solutions 
+pressure increases solubility of gases in liquid. Henry’s law says that the solubility 
+of a gas is directly proportional to its partial pressure above the solution.
+Review Exercise
+Part I: Multiple Choice Questions
+1. Soda water is an example of:
+a. liquid-liquid solution
+b.liquid-gas solutionc. solid-liquid solutiond. gas-gas solution
+2. Which of the following type of matter can exhibit Tyndall effect?
+a. aerosol                         b. soda water                     c. brass  
+3. A solution that is formed when NaCl dissolves in water has the properties of-----
+a. Sodium Chloride
+b.Waterc. both NaCl and waterd. neither NaCl nor water
+4.A simple way of determining whether a mixture is colliodial or not is through the use of ______
+a. particle size     b. Tyndall effect     c. non-uniform appearance      d. a & b
+5. A suspension is ……
+a. a homogenous mixture of a solute and a solventb.  a heterogeneous mixture of one phase dispersed in another phasec. a heterogeneous mixture that exhibits Tyndall effectd. a mixture that contain smaller particle size than a solution
+6.Which properties of colloids is applied in the cloud seeding mechanism to produce artificial rain?a. Associationb.Dispersionc.   Coagulationd. Scattering
+7.The cleansing action of soaps and detergents are related to which property of a colloid?a. Associationb.Dispersionc. Coagulationd. Scattering
+8. The continuous and dispersed phase in fog is _____ and _____ , respectively.
+a. gas, solidb.liquid, gasc. gas, liquidd. liquid, liquid
+9.How many grams of NaOH is required to prepare 100 mL of 1 M NaOH solution?a. 4 b.40 c. 0.4 d. 400
+10.A solution that contain 4.9 g H
+2SO4 in 1 liter of solution has the same _____  and 
+_____. Assume the solution has the same density as water.a. molarity and molalityb.molarity and normalityc. normality and molalityd. none of the above
+11. When the molarity of a sulfuric acid solution is doubled, its normality is _____
+a. halved      b. doubled        c. quadrupled     d. remain the same
+12. Mole fraction and percentage differ by a factor of _____
+a. 1     b. 10       c. 100      d. 0.1
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+106Chemistry Grade 10 Solutions 
+13. Which of the following substances are not readily miscible within each other?
+a. C6H6 and CCl4                          c. C2H5OH and H2O
+b. H2O and CCl4                          d. CH3OH and H2O
+14. Rate of dissolution is largely dependent upon:
+a. the inter-particle forces
+b.the surface area of solid solute
+c. the temperature of the systemd. the pressure of the system
+15. Which of the following statements is not correct?
+a. pressure has little effect on the solubility of liquids and solidsb.the solubility of most solids increases with increasing temperature
+c. the solubility of gases in water increases with increasing temperature.d. none of the above
+16. The quantitative relationship between gas solubility and pressure is given by:
+a.Raoult’s law                                
+b.Hess’s lawc.Henry’s law                                 
+d. Dalton’s law
+17.A solution that has a capacity to dissolve more solute is called ____________ solutiona. dilute             b.unsaturated            c. supersaturated           d. concentrated
+18. A concentrated solution is ____________ 
+a. same as supersaturated solution                                b.contain less solute than solvent
+c. contains relatively large amount of solute                 d. a saturated solution
+19. Which of the following solutions is the most dilute?
+a. 0.1 M NaClb.0.01 M NaClc. 0.001 M NaCld. 10.0 mM NaCl
+20.Which of the following is a saturated NaCl solution at 20
+oC? Solubility of NaCl is 
+36 g/100 mL.a. 0.615 Mb.6.15 Mc. 36.0 Md. 0.0615 M
+21.The ratio of the number of moles of solute divided by the total number of moles gives:a. the mole fraction of the soluteb.the molarity of the solutionc. the molality of the solutiond. the normality of the solution
+22.Phosphoric acid reacts with calcium hydroxide to form calcium hydrogen phosphate (CaHPO
+4) and water. The equivalent weight of phosphoric acid in this reaction will 
+be:a. 98 g/eqb.49 g/eqc. 32.6 g/eqd. 14 g/eq
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+107Chemistry Grade 10 Solutions 
+23.Which of the following is the balanced net ionic equation for the reaction between 
+H2SO4 (a) and NaOH (aq)?
+a. HSO4-(aq) → H+(aq) + SO42-(aq)
+b.H+(aq) + OH -(aq) → H2O(l)
+c. SO42-(aq) + 2Na+(aq) → NaSO42-(aq)
+d. H2SO4(aq) + 2OH -(aq) → 2H2O(l) + SO42-(aq)
+24.When a given volume of concentrated solution is diluted 100 fold, which one of the following is true? 
+a.the dilute solution has more number of moles of solute per unit volume than that of concentrated solution 
+b.the number of moles of solute per unit volume of the dilute solution is equal to that of the concentrated solution 
+c.   the number of moles of solute in a given volume of a solution is the same before 
+and after dilution
+d. all of the above 
+Part II : Short Answer Questions
+25. Give one example of each: a gaseous solution, a liquid solution, a solid solution.26.What are the two factors needed to explain the differences in solubilities of ionic solids in water?
+27. Explain in terms of intermolecular attractions why octane is immiscible in water.28.Give the type of colloid (aerosol, foam, emulsion, sol, or gel) that each of the following represents.a. rain cloud                         b. milk of magnesia      c. soapsuds                          d. silt in water                 
+29. Concrete is a mixture of _____ , _____ , _____ , and _____ .30.Explain on the basis that “like dissolves like” why glycerol, CH
+2OHCHOHCH2OH, is 
+miscible in water but benzene, C6H6, has very limited solubility in water.
+31. Explain why ionic substances show a wide range of solubilities in water.32.Indicate the type of solute-solvent interaction that is most important in each of the following solutions:a. KBr in waterb.hexane, C
+6 H14, in gasolinec. ammonia in water
+33. Describe the characteritics of endothermic and exothermic dissolution processes. 34.Consider the following solutions. In each case, predict whether the solubility of the solute should be high or low. Justify your answer.a. KCl in H
+2O
+b.HF in H2O
+c. KCl in CCl4d. H2O in CH3OH
+e.CCl4 in H2O
+35.What is the usual solubility behavior of an ionic compound in water when the temperature is raised? Give an example of an exception to this behavior.
+36.Give one example of each: a salt whose heat of solution is exothermic and a salt whose heat of solution is endothermic.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+108Chemistry Grade 10
+37.What do you expect to happen to a concentration of dissolved gas in a solution 
+as the solution is heated?
+38. Explain why a carbonated beverage must be stored in a closed container.39.Pressure has an effect on the solubility of oxygen in water but a negligible effect on the solubility of sugar in water. Why?
+40.Which of the following ions would be expected to have the greater energy of hydration, Mg
+2+ or Al3+?
+41.Which of the following ions would be expected to have the greater energy of hydration, F
+−or Cl−?
+Part III: Work Out Problems42.The solubility of carbon dioxide in water is 0.161 g CO
+2 in 100 mL of water at 
+20oC and 1.00 atm. A soft drink is carbonated with carbon dioxide gas at 5.50 atm pressure. What is the solubility of carbon dioxide in water at this pressure?    
+43. Calculate the molarity of each of the following solutions:
+a. 10.5 g NaCl in 350.0 mL of solutionb. 40.7 g LiClO
+4•3H2O in 125 mL of solution
+44.What mass of solution containing 5.00% potassium iodide, KI, by mass contains 258 mg KI?
+45.Caffeine, C
+8H10N4O2, is a stimulant found in tea and coffee. A sample of the 
+substance was dissolved in 45.0 g of chloroform, CHCl3, to give a 0.0946 m 
+solution. How many grams of caffeine were in the sample? Molar mass caffeine = 194.19 g/mol
+46.A 100.0-g sample of a brand of rubbing alcohol contains 65.0 g of isopropyl alcohol, C
+3H7OH, and 35.0 g of water. What is the mole fraction of isopropyl 
+alcohol in the solution? What is the mole fraction of water?         
+47.A bleaching solution contains sodium hypochlorite, NaClO, dissolved in water. The solution is 0.650 m NaClO. What is the mole fraction of sodium hypochlorite?    
+48.The concentrated sulfuric acid we use in the laboratory is 98.0% H
+2SO4, by mass. 
+Calculate the molality and molarity of the acid solution. The density of the solution is 1.83 g/mL.
+49.Calculate the approximate volume of water that must be added to 250 mL of 1.25 N solution to make it 0.500 N.
+50.An antiseptic solution contains hydrogen peroxide, H
+2O2, in water. The solution is 
+0.610 m H2O2. What is the mole fraction of hydrogen peroxide?
+51.Citric acid, H3C6H5O7, occurs in plants. Lemons contain 5% to 8% citric acid by 
+mass. The acid is added to beverages and candy. An aqueous solution is 0.688 m citric acid. The density is 1.049 g/mL. What is the molar concentration?
+52.A solution of vinegar is 0.763 M acetic acid, HC
+2H3O2. The density of the vinegar 
+is 1.004 g/mL. What is the molal concentration of acetic acid?
+Ethiofetena.com Ethiopian No 1 Educational Website

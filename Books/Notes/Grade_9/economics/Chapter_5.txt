@@ -1,0 +1,372 @@
+=================================================================
+Book: economics.pdf
+Chapter 5: Introduction to Production and Cost
+Pages: 63 to 74
+=================================================================
+
+Unit 5: Introduction to Production and Cost 
+Introduction 
+This chapter has two major sections. The first part will introduce you to the basic 
+concepts of production and production function, essential features of short run 
+production functions and the stages of short run production. The second part mainly 
+deals with the difference between economic cost and accounting cost, the characteristics 
+of short run cost functions, and the relationship between short run production functions 
+and short run cost functions. 
+Unit Objectives
+At the end of this unit, students will be able to:
+ 6Describe productivity
+ 6Explain the types of inputs and outputs. 
+ 6Analyze types of cost of production 
+ /u270D_1F3FFStart-up Activities
+1. Have you ever been engaged yourself in any production activity? 
+2. What makes a period of production short run and long run?
+3. Assume a wheat flour factory using different types of factors of production. 
+Discuss what variable and fixed costs are incurred.  
+ /u1F449_1F3FFKey Concepts 
+Input, Outputs, Production, Short-run, Long-run, Production function, Cost, 
+Fixed cost,  Variable cost, Total cost, and Marginal cost 
+5.1 Definition of Production, Inputs and Outputs
+At the end of this section, students will be able to:
+ 6Describe production 
+ 6Explain inputs and outputs
+ /u270D_1F3FFStart-up Activity
+Have you ever been engaged yourself in any production activity?  
+        Introduction to
+         Production and Cost Unit
+5
+55
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost56Production is a process of combining various inputs to produce an output for 
+consumption. It is the act of creating output in the form of a commodity or a service 
+which contributes to the utility of individuals. In other words, it is a process in which 
+the inputs are converted into outputs. For example, when we produce wheat on a plot 
+of land with the help of inputs like labour, capital and seeds, it is termed as production 
+of wheat. 
+Inputs are economic resources that can be used in the production of goods and services. 
+In economics, there four basic inputs commonly used in the production of goods and 
+services. These are labour, capital, land and entrepreneurial ability. 
+Outputs are inputs transformed into final usable form since inputs give less satisfaction 
+to the consumer by themselves. In other words, outputs are consequences of the 
+production process. 
+We can classify outputs into tangible and intangible ones. Tangible outputs are physical 
+products that can be touched. Intangible outputs are products, which may have value 
+but are not physical objects. The main difference between tangible and intangible 
+outputs is that tangible output is something that a person can see or touch, and thus it 
+has a physical existence while intangible output is something, which a person cannot 
+see or touch and thus it does not have any physical existence.
+Examples of tangible outputs include: building, machinery, equipment, car, etc. that 
+have long term physical existence. Examples of intangible outputs include: insurance 
+coverage, consultancy service, computer software, educational training, health care 
+service, etc. that cannot often be tried out, inspected, or tested in advance.
+Type of Inputs 
+Inputs can be divided into two main groups – fixed and variable inputs. A fixed input is 
+one whose quantity cannot be varied during the period under consideration. Building 
+and machinery are examples of fixed inputs. An input whose quantity can be changed 
+during the period under consideration is known as a variable input. Raw materials and 
+labour inputs are examples of variable inputs. 
+ ĂActivity 5 �1
+1. Make a classroom observation and explain the inputs used in the teaching-
+learning process. 
+2. Define production and explain the difference between inputs and outputs
+3. Distinguish between fixed and variable inputs.
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost5�2 Periods of Production
+At the end of this section, students will be able to:
+ 6Describe the short run and long run production 
+ 6Differentiate among Total Product, Average Product and Marginal Product
+ /u270D_1F3FFStart-up Activity
+What makes a period of production short run and long run?
+This classification of periods of production is mainly based on the degree of flexibility 
+of economic resources to changes in business environment of products consuming 
+those resources. The two periods of production are commonly known as short run and 
+long run. 
+Short run  refers to a period of production in which at least one of the inputs is fixed 
+while the remaining is variable. This implies that an increase in output in the short-run 
+can be brought about by increasing those inputs that can be varied,-which are known 
+as ‘variable inputs’. For example, if a producer wishes to increase output in the short-
+run, she/he can do so by using more of variable factors like labour and raw materials.
+Long run  refers a period of production in which all inputs are variable or there is no 
+fixed input. A firm can install a new plant or construct a new factory building. Long-
+run is the period during which the size of the plant can be changed. Thus, all the 
+factors of production are variable in the long-run.
+It must be understood that when we say short run and long run it does not necessarily 
+mean a relatively short or long period of time like one year or less than one year or like 
+two or five years. It rather refers to the nature of economic arrangement of the inputs 
+in response to the changing economic environment.
+Total Product, Average Product and Marginal Product in the Short Run
+The productivity of variable inputs can be measured in different forms:
+Total product (TP):  -it is the overall amount of output produced by the factors of 
+production employed over a given period. It is the gross or entire output by workers 
+and expressed in terms of Quantity (Q). In the short run production function, a firm 
+obtains its total product by using a combination of variable inputs with specific amount 
+of fixed inputs.
+Average product (AP): -  a firm’s average product is obtained by dividing the total 
+57
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost58output by the number of workers employed. This can be put in the form of AP=TP/L; 
+Where AP=Average Product, TP= Total Product and L=Labor.
+Similarly, average product of labor may be defined as
+                    
+      Where, TP stands for total production. 
+                  APL stands for average product for labor.
+The average product is a good indicator of the productivity of labor. Productivity is 
+a measure of output per unit input (i.e. output ratio for each level of input and the 
+corresponding level of output).
+Marginal Product (MP ): - holding the quantities of other factors constant, the in -
+crease in output which results from using one additional or extra unit of a single factor 
+input, is called the marginal physical product or simply marginal product. In other 
+words, all other things being equal the MP is the percentage change in total output 
+resulting from a percentage change in variable input. 
+           MPL = ΔTP/Δ L
+       Where, ΔTP stands for change in total production 
+                  ΔL stands for change in labor input
+Mathematically, MP=ΔTP/ΔL. Both the MP and AP of the variable factor (labor) are 
+derived from the TP of labor. Thus, the three returns, viz. total product (TP), marginal 
+product (MP) and average product (AP) are interrelated.
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and CostTable 5.1 Production function with one variable input
+Variable 
+input 
+(labour)Fixed input 
+(capital)Total Product 
+(TP) (In 
+quintals)Average 
+product 
+(AP)Marginal 
+Product 
+(MP)Stages of 
+Production
+0 10 0 - -
+Stage I1 10 10 10 10
+2 10 28 14 18
+3 10 51 17 23
+4 10 76 19 25
+5 10 95 19 19
+Stage II 6 10 108 18 13
+7 10 108 15.4 0
+8 10 96 12 -12Stage III9 10 80 8.89 -16
+The above schedule can also be expressed graphically by drawing TP, MP and AP 
+curves.
+                               Figure 5.1 Stages of production 
+ ĂActivity 5 �2 
+1. Differentiate among Total Product, Average Product and Marginal Product
+2. Elaborate the concepts of fixed and variable inputs in relation to short-run and 
+long-run production functions by giving a practical example in your locality .
+59
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost60 5�3 Cost of Production
+At the end of this section, students will be able to:
+ 6Define the cost of production.
+ 6Differentiate among the different types of costs.
+ /u270D_1F3FF Start-up Activity
+Assume a wheat flour factory using different types of factors of production. 
+Discuss what variable and fixed input costs are incurred.  
+The concepts of production and cost are inseparable. The cost of production generally 
+refers to the monetary outlays associated with production activity, or it is the total 
+expenditures and sacrifices made in the entire process of production and distribution 
+of goods and services.
+Types of Cost of Production
+1� Explicit and implicit costs
+Explicit costs:  These are the actual monetary payments or cash outlays that business 
+firms make to outsiders who are suppliers of inputs or resources to them. For example, 
+the rewards of labour, land, capital, and entrepreneurs are all costs for a business 
+firm that employs them in certain production processes. In addition, there are other 
+payments made for other raw materials, fuel, transport, sieve, power, and the like are 
+all costs to a firm. Such costs are usually termed “accounting costs” because they are 
+out-of-pocket costs. Thus, accounting cost refers to the cost of purchased inputs only, 
+and this only refers to the explicit cost.
+Implicit costs: are costs standing for the values of non-purchased resources owned 
+and used by firms in their own production activities. These are costs of firms’ own 
+and self-employed resources in carrying out activities such as the salary of an owner-
+manager or the estimated rent of a building that belongs to the owner of a firm, etc. 
+The values of these self-owned resources should be estimated from what they could 
+earn in their best alternative uses.
+2� Economic Cost and Accounting Costs
+It is obvious that costs and profits are inseparable concepts of business. Here, the 
+main idea is to understand the cost treatment differences and their consequence in cost 
+analysis of business activities. 
+Economists and Accountants define and treat costs differently. Economists define 
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Costcosts in terms of opportunity costs and they include these implicit costs in profit 
+calculations. Thus,       
+Economic cost = Implicit costs + Explicit costs
+Accounting cost is the monetary value of all purchased inputs used in production; 
+it ignores the cost of non-purchased (self-owned) inputs. It considers only direct 
+expenses such as wages/salaries, cost of raw materials, depreciation allowances, 
+interest on borrowed funds and utility expenses (electricity, water, telephone, etc.). 
+These costs are said to be explicit costs. Explicit costs are out of pocket expenses for 
+the purchased inputs.
+3� Fixed and Variable Costs
+Fixed costs  are those costs that do not vary as the firm changes the level of output. 
+These are costs that are always incurred even if the firm does not produce anything. 
+These are also costs of fixed inputs. For example. rents on leased properties, interest 
+on borrowed funds, the wear and tear of machineries, cost of administrative staff, etc. 
+Variable costs  are those costs of production that directly vary with the level of output 
+of the firm. When output is zero variable costs are also zero. But as the firm expands 
+its output these costs tend to rise. In short, variable costs of a firm are dependent on 
+the level of output. Examples of variable costs are wage of workers excluding the 
+administrative staff, cost of raw materials, etc.
+Total cost  is the sum of total fixed cost and total variable cost. Or
+                                       TC = TFC + TVC           
+               Where, TC = Total Cost; TFC = Total Fixed Cost; TVC = Total Variable Cost.
+    Table 5.2 Short run costs of a firm
+Q (output) TFC (birr) TVC (birr)) TC (birr))
+0 60 0 60
+1 60 20 80
+2 60 40 100
+3 60 60 120
+4 60 65 125
+5 60 75 135
+6 60 120 180
+We can also show the above data graphically, as follows:
+61
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost62
+     Figure 5.2 Cost curves
+From table 5.2, we observe that TFC is birr 60 even if the output is zero. Moreover, 
+the TFC curve is parallel to the quantity axis and has 60 birr above it. However, 
+TVC is zero when output is zero and rises as output rises. The TVC initially rises at 
+a decreasing rate, but later on it increases at an increasing rate. This is true because 
+the firm initially uses few variable inputs with fixed inputs and at this point the TVC 
+increases at a decreasing rate. Later on, as the firm employs more and more variable 
+inputs with fixed inputs, the cost of the firm tends to rise at an increasing rate.
+The TC is the sum of the TVC and TFC at every output level. For this reason, the TC 
+curve has the same shape as TVC.
+Average Total Cost (ATC): This is the total cost per unit output and is calculated by 
+dividing the total cost by the quantity produced. This means that ATC = TC/Q. It can 
+also be divided into two parts, like the average variable cost (A VC) and the average 
+fixed cost (AFC).
+Thus, ATC = TFC/Q + TVC/Q, AFC = TFC/Q, and A VC = TVC/Q.
+          AFC + AVC =  ATC
+Marginal Cost (MC):- it is the extra or additional total cost that results from producing 
+one more unit of output; or it is the change in total cost resulting from a percentage 
+change in output, i.e. 
+                  MC = ∆TC/∆Q or ∆TFC/∆Q +∆TVC/∆Q
+              or MC = ∆TVC/∆Q, when ∆TFC=0 (in the short run) 
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost  Activity 5 �3
+1. Define the cost of production.
+2. Outline and present in a class room different types of costs for a wheat flour 
+factory.
+ 
+63
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost64Unit Summary
+The production function indicates the maximum amount of output that can be 
+produced with the help of each possible combination of inputs. Outputs are values of 
+the production process.
+Short run period of production refers to a period of production in which at least one 
+of the inputs is fixed while the remaining inputs are variable. Long run period of 
+production is a period of production in which all inputs are variable or there is no fixed 
+input. A fixed input is one whose quantity cannot be changed during the period under 
+consideration. In contrast, a variable input is an input whose quantity can be changed 
+during the period under consideration. 
+Total product (TP) is the gross or entire output produced by all workers and expressed 
+in terms of quantity (Q). Average product (AP) is total product per unit of labour input. 
+Marginal product (MP) is the change in total output resulting from a unit change in 
+the variable input.
+Cost of production is the monetary outlays associated with production activity. Explicit 
+costs are the actual monetary payments or cash outlays that business firms make to 
+outsiders who are suppliers of inputs or resources to them. Implicit costs are costs of 
+non-purchased inputs owned and used by firms in their own production activities. 
+Fixed costs are costs that are always incurred even if the firm does not produce 
+anything. Variable costs are those costs of production that directly vary with the level 
+of output of the firm. Total cost is the sum of total fixed cost and total variable cost. 
+Average total cost is the total cost per unit of output and is calculated by dividing the 
+total cost by quantity produced. Marginal cost is the change in total cost resulting from 
+a unit change in output produced.
+ 
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and CostReview Questions
+Part I: Write “True” if the statement is correct or “False” if it is not correct for 
+each of the following statements. 
+1. The concepts of production and costs are independent facts.
+2. Production function is the technical relationship between inputs and outputs.
+3. An input whose quantity can be changed during the short period under 
+consideration is known as a fixed input.
+4. Economic cost is the sum total of explicit cost and implicit cost.
+5. Accounting cost refers to the cost of purchased inputs only.
+6. When total product increases at an increasing rate, marginal product increases. 
+7. When marginal product is greater than average product, this means that average 
+product is falling. 
+8. When marginal product equals average product, this means that average product 
+is minimum.
+9. Fixed costs are those costs that vary as the firm changes the level of output.
+10.  MC is the additional cost that a firm incurs to produce all units of output.
+Part II: Choose the correct answer among the alternatives for the following 
+questions � 
+1. The process of using different factors of production in order to make goods and 
+services available is known as:
+A . Investment
+B . ProductionC . Consumption
+D . Resource
+2. Any good or service that comes out of a production process, is known as:
+A . Output
+B . InputC . Labour
+D . Economic resource
+3. When the short-run marginal product of labour is negative:
+A . total product is also negative.
+B . Total products are rising, but at a diminishing rate.
+C . Total products are rising at an increasing rate.
+D . Total products are declining.
+4. Suppose the average product of 6 workers is 150 units of a good and that of 7 
+workers is 170 units. The MP of the seventh worker equals:
+A . 200                 
+B . 270        C . 290          
+D . 220
+65
+
+--- [PAGE BREAK] ---
+
+Unit 5: Introduction to Production and Cost665. The supply of economic resources in the short run production that cannot change 
+is
+A . Fixed inputs               
+B . Variable inputs      C .  Labor and raw materials    
+D . Average variable costs    
+6. Which of the following is/are not a good indicator or measure of output per unit 
+input?
+A . Total product               
+B . Average product    C . Marginal Product 
+D .  Both A and C
+7. A specific type of costs that are always incurred even if the firm does not produce 
+anything. 
+A . Accounting costs          
+B . Variable costs C . Total cost
+D .  Fixed costs
+8. In the short-run,
+A . All costs are fixed                         
+B . All costs are marginal       C . Some costs are fixed           
+D .  All costs are variable              
+9. Suppose output increases from 50 to 51 units and total cost increases from birr 
+260 to birr 293. The MC of the extra output is birr,
+A . 553                                         
+B . 226.5  C . 33        
+D . 29              
+Part III: Answer the following questions briefly and to the point.
+1. Define production function.
+2. Explain two types of production function based on time period of production.
+3. Describe the relationship between the average product and the marginal product 
+with the help of graph.
+4. Describe the relationship between marginal product and total product with the 
+help of graph
+5. Explain the explicit and implicit cost.

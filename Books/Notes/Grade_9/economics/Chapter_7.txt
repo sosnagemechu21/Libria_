@@ -1,0 +1,373 @@
+=================================================================
+Book: economics.pdf
+Chapter 7: Introduction to Macroeconomics82
+Pages: 90 to 101
+=================================================================
+
+Unit 7: Introduction to Macroeconomics82                                
+Introduction
+Macroeconomics deals with the economy as a whole. Macroeconomics (from the 
+Greek prefix makro-meaning “large”) is a branch of economics dealing with the 
+performance, structure, behavior, and decision-making of an economy as a whole. 
+For example, using interest rates, taxes, and government spending to regulate an 
+economy’s growth and stability are the mandates of macroeconomics. This includes 
+regional, national, and global economies.
+Macroeconomists study topics such as GDP, unemployment rates, national income, 
+price indices, output, consumption, unemployment, inflation, saving, investment, 
+energy, international trade, and international finance. In the present unit, we discuss 
+the concept of macroeconomics.
+ Unit Objectives: 
+At the end of this unit, students will be able to:
+ 6Explain the meaning of macroeconomics and indicate its problems.
+ 6Identify the basic macroeconomics variables. 
+ 6Describe the relationship among unemployment, inflation and growth.
+ /u270D_1F3FF Start-up Activities
+1. Does everything that is produced in Ethiopia belong to the country? How do 
+you think national income would be measured?
+2. What are the major macroeconomic goals of a country?
+3. Describe a country’s macroeconomic problems.
+ /u1F449_1F3FF Key Concepts
+National Income, GDP, GNP, Per Capita Income (PCI), Employment, Inflation, 
+Deflation, and Unemployment 
+      Introduction to Macroeconomics    Unit
+7
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics7.1 Definition of Macroeconomic Variables
+At the end of this section, students will be able to:
+ 6Define the concept of macroeconomics.
+ 6Explain the basic macroeconomic variables.
+ /u270D_1F3FF Start-up Activity
+Does everything that is produced in Ethiopia belong to the country? How do you 
+think national income would be measured?
+Macroeconomics is the study of economic behavior and policies that influence 
+consumption and investment, trade balance, and other determinants of various 
+macroeconomic variables. Examples of macroeconomic factors include economic 
+output, unemployment rates, and inflation. These indicators of economic performance 
+are closely monitored by governments, businesses, and consumers alike. In this section, 
+we will examine macroeconomic problems such as inflation and unemployment and 
+their effects on output and redistribution.
+Gross Domestic Product (GDP): It is the total value of currently produced final 
+goods and services that are produced within a country’s boundary during a given 
+period of time, usually one year.
+In order to understand the meaning of GDP, note the following points:
+ yIt measures the current production only.
+ yIt takes into account final goods and services only (only the end products of 
+various production processes) or we do not include the intermediate products in 
+our GDP calculations. I.e., intermediate goods are goods that are completely used 
+up in the production of other products in the same period that they themselves 
+are produced.
+ yIt measures the value of final goods and services produced within the boundaries/
+territory of a country, irrespective of who produces them.
+ In measuring it, we take the market values of goods and services (GDP =∑×i iQ P)          
+Where Pi denotes the prices of outputs produced in various sectors of an economy 
+over a given time period.
+            Q i= the quantity of various final goods and services produced in an economy.
+83
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics84Gross National Product (GNP): the total value of goods and services produced by 
+domestically owned factors of production in a given time period (usually one year), 
+regardless of their geographical location.
+GDP + NFI = GNP
+Where NFI denotes Net Factor Income from Foreign Sources
+On the other hand, NFI = (factor income received from abroad by a country’s citizens) 
+– (factor income paid for foreigners abroad).
+The net financial impact (NFI could be negative, positive, or zero depending on the 
+amount of factor income received by the two parties.
+When NFI > 0, then GNP > GDP
+           NFI < 0, then GNP < GDP
+           NFI = 0, then GNP = GDP 
+=>If the economy is closed or a country has no interaction with the rest of the world
+Per Capita Income: - the ratio of the GDP of a country to its total population. It determines 
+the average income of individual citizens of the country under consideration, which 
+enables to evaluate the living standard of the population.  
+         
+ Ă Activity 7 �1
+1. Discuss in, a group of three, the essential issues in macroeconomics.
+2. Compare Ethiopia’s GDP with the GDP of other developing countries.
+ 
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics7�2 Macroeconomic Goals
+ At the end of this section, students will be able to:
+ 6Identify the macroeconomic goals of a country.
+ /u270D_1F3FF Start-up Activity
+What are the major macroeconomic goals of a country?
+We know that macroeconomic analysis deals with the behavior of the economy as 
+a whole with respect to output, income, employment, general price level, and other 
+aggregate economic variables. With a view to bringing about desirable changes in 
+such variables, nations (developed as well as developing) need to adopt various 
+macroeconomic policies. These policies vary from one economy to another and 
+according to the prevailing economic conditions within a specific economy .
+The general objectives of a macroeconomic policy are to achieve:
+ yEconomic growth is defined as a consistent increase in national income.
+ yFull employment means the maximum possible utilization of factors of 
+production in the production process.
+ yStable balance of payment: It is the statistical record of all economic transactions 
+between domestic residents and the rest of the world that attains equilibrium.
+ yPrice stability: it is the stable level of prices in the economy that avoids long 
+periods of inflation or deflation and sustains the value of money over time. Price 
+level stability is important for savers.
+ yFair distribution of income and wealth. 
+ Ă Activity 7 �2
+1. Discuss the major macroeconomic goals of a country.
+ 
+85
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics867�3 Macroeconomic Problems
+At the end of this section, students will be able to:
+ 6Identify problems with macroeconomics.
+ 6Explain the meanings of inflation and unemployment.
+ 6Mention the types of unemployment.                                  
+ /u270D_1F3FFStart-up Activity
+Describe a country’s macroeconomic problems.
+The economy does not always run smoothly. There are often fluctuations in the level 
+of economic activity. At times, the economy finds itself in the grip of a recession when 
+levels of national income, output, and employment are far below their full potential 
+levels. During a recession, there is a lot of idle or unutilized productive capacity, that 
+is, available factors of production are not working to their full capacity. Some of the 
+key questions addressed by macroeconomics include: What causes inflation? What 
+causes unemployment?
+1. Inflation 
+Inflation, in general terms, is described as a situation characterized by a sustained 
+increase in the general price level. It may be noted thus: 
+ ya small rise in prices or an irregular price rise cannot be called inflation. It is a 
+persistent and appreciable rise in prices which is called inflation. 
+ yduring inflation, all costs and prices do not rise together and in the same 
+proportion. It is an increase in the general level of prices measured by a price 
+index, which is an average of consumer or producer prices.
+Inflation occurs when the prices of goods and services rise, while deflation occurs 
+when those prices decrease. The balance between these two economic conditions, 
+opposite sides of the same coin, is delicate, and an economy can quickly fluctuate 
+from one condition to the other.
+ Causes of inflation
+ yIncrease the money supply.
+ yAn increase in the input costs
+ yImported inflation
+ yWeaker exchange rate
+ yDecline in productivity
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics Types of inflation
+Let us understand how inflation originates or what causes it. Depending upon the 
+specific causes, two types of inflation have been distinguished: (1) Demand –pull 
+inflation (2) Cost-push inflation  
+ yDemand-pull inflation results from an increase in aggregate demand when 
+the economy is producing at or near full capacity. This demand is growing 
+faster than the economy’s productive capacity at full employment. This is 
+a situation where “too much money” chases “too few goods.” This is an 
+example of a situation in which the primary factor at work is an increase in 
+aggregate demand for output, whether from the government, entrepreneurs, 
+or households. The result is that the pressure of demand is such that it cannot 
+be met by the currently available supply of output.
+ yCost push, also known as supply-side inflation, occurs as a result of a 
+continuous decline in aggregate supply. This may be due to bad weather, an 
+increase in wages, or the prices of other inputs. Setbacks in agricultural and 
+industrial production due to various reasons—shortages of raw materials, 
+power breakdowns, strikes and lockouts, bad weather conditions, increases in 
+input prices, etc.—lead to a decreased supply of goods in comparison to their 
+demand, which further leads to price rises.
+2� Unemployment
+Unemployment is a term referring to individuals who are employable and actively 
+seeking a job but are unable to find a job. Included in this group are those people in 
+the workforce who are working but do not have an appropriate job.
+Interestingly, people who have not looked for a job in the past four weeks but have 
+been actively seeking one in the last 12 months are put into a category called the 
+“marginally attached to the labor force.” Within this category is another category 
+called “discouraged workers,” which refers to people who have given up looking for 
+a job.
+The labor force consists of all those who are fit for work and are willing and available 
+to work. In other words, if we exclude children, old people, individuals who are 
+unable to work, etc., from the population of a country, we get the number of those 
+who are able to work. We further deduct from this those who are not willing or are not 
+available to work. This gives us the labor force.
+87
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics88The labor force includes groups of people within a specified age bracket (15–64) who 
+are actually employed and those who are without a job but are actively searching for 
+a job.
+The labor force is made up of both employed and unemployed people.
+Unemployment, therefore, refers to that portion of the labor force that is without a job 
+but is actively searching for one. Thus, for a person to be categorized as unemployed, 
+two conditions must be fulfilled:
+ ythat the person is without a job and able to work
+ ythe person wants to have a job and is willing to work at the current market 
+wage,
+The unemployment rate is usually measured by dividing the number of unemployed 
+people by the total number of people in the workforce. Unemployment serves as one 
+of the indicators of a country’s economic status.
+Types of unemployment
+a. Frictional unemployment refers to a brief period of unemployment experienced by 
+people due to
+ ySeasonality of work, e.g., construction workers
+ yV oluntary switching of jobs in search of better jobs
+ yEntrance to the labor force, e.g., a student immediately after graduation
+ yRe-entering the labor force
+b. Structural unemployment  results from a mismatch between the skills or locations 
+of job seekers and the requirements or locations of the vacancies. It refers to a 
+situation in which workers become jobless due to a loss of demand in particular 
+regions or industries. For example, if an agricultural graduate is looking for a job at 
+a construction site. Thus, unemployment that arises due to a change in the pattern 
+of demand, leading to changes in the structure of production in the economy, is 
+called “structural unemployment.” Structural unemployment signifies a mismatch 
+between the supply and demand for labor.
+c. Cyclical unemployment is generated due to the absence of vacancies. This usually 
+happens due to a deficiency in demand for commodities. Thus, unemployment that 
+arises due to inadequate overall demand associated with the downswing, recession, 
+or depression period of a trade cycle is called “cyclical unemployment.”
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to MacroeconomicsDisguised unemployment in the Ethiopian economy
+Disguised unemployment is unemployment that does not affect aggregate economic 
+output. It occurs when productivity is low and too many workers are filling too few 
+jobs. It can refer to any part of the population that is not employed at full capacity .
+Disguised unemployment, or hidden unemployment, is an economic term used to 
+refer to the portion of the labor force that is involved in redundant work, which creates 
+minimal to no productivity. Disguised unemployment is very common in third world 
+countries, which are still developing and have large populations. This is known as a 
+labor surplus.
+3. Trade Balance Deficit 
+The trade balance is sometimes referred to as the visible balance because it represents 
+the difference between receipts for exports of goods and expenditure on imports of 
+goods which can be visibly seen crossing frontiers. 
+Trade Balance = Receipts for exported goods – Payments on imported goods
+When the trade balance is in surplus this means that a country has earned more from 
+its exports of goods than while disequilibrium means that the condition is either deficit 
+or surplus. 
+A deficit in balance of trade occurs when the total receipts are exceeded by total 
+payments; it has paid for its imports of goods. For example, the Ethiopian economy 
+has been experienced a deficit balance of trade as the national’s export receipt is 
+shortfalls of import expenditure. 
+4. Balance of Payments Deficit
+The balance of payments is a statistical record of all the economic transactions between 
+residents of the reporting country and residents of the rest of the world during a given 
+time period. The usual reporting period for all the statistics included in the accounts 
+is a year. However, some of the statistics that make up the balance of payments are 
+published on a more regular monthly and quarterly basis. Without question the balance 
+of payments is one of the most important statistical statements for any country .
+It reveals how many goods and services the country has been exporting and importing, 
+and whether the country has been borrowing from or lending money to the rest of 
+the world.  In addition, whether or not the central monetary authority (usually the 
+central bank) has added to or reduced its reserves of foreign currency is reported in 
+the statistics. 
+89
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics90Though the credit and debit are written balanced in the balance of payment account, it 
+may not remain balanced always. Very often, debit exceeds credit or the credit exceeds 
+debit causing an imbalance in the balance of payment account. Such an imbalance is 
+called the disequilibrium. Disequilibrium may take place either in the form of deficit 
+or in the form of surplus. For example, the same reflection from a deficit balance of 
+trade goes to the balance of payment of the country.
+ Ă Activity 7 �3
+1. Define inflation and explain its causes and types.
+2. Explain the meaning of unemployment and disguised unemployment.
+ 
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to MacroeconomicsUnit Summary
+National income is broadly defined as the aggregate monetary value of all the final 
+goods and services produced in a country during a year. GDP is one of the national 
+income accounting measures; it is the sum of four categories of expenditure in 
+consumption, investment, government purchases, and net exports.
+The economy does not always run smoothly. At times, the economy finds itself in the 
+grip of a recession when levels of national income, output, and employment are far 
+below their full potential levels. During a recession, there is a lot of idle or unutilized 
+productive capacity, that is, available factors of production are not working to their 
+full capacity.
+Inflation is the persistent rise in the general price level of all goods. Inflation occurs 
+when the prices of goods and services rise, while deflation occurs when those prices 
+decrease. The balance between these two economic conditions, opposite sides of the 
+same coin, is delicate, and an economy can quickly fluctuate from one condition to 
+the other.
+The unemployment rate shows what fraction of those who would like to work do not 
+have a job. The trade balance deficit occurs when there is difference between receipts 
+from exports of goods and expenditure on imports of goods. The balance of payments 
+deficit occurs when there a difference between residents of the reporting country and 
+residents of the rest of the world during a given time period.
+ 
+ 
+91
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics92Review Questions
+Part I: Write ‘True’ if the statement is correct or ‘False’ if it is not correct for 
+each of the following statements. 
+1. Frictional unemployment is a temporary unemployment. 
+2. Unemployment leads to exploitation of labour. 
+3. During inflation the prices of all goods and services rise together . 
+4. The economy does always work smoothly without fluctuations.
+5. During inflation, all costs and prices do not rise together and in the same proportion.
+6. Unemployment is referring to individuals who are employable and actively not 
+seeking a job.
+7. Disguised unemployment is very common in third world countries.
+8. Labour force includes group of people within a specified age bracket (15 -64), 
+who are without a job but are actively searching for a job.
+Part II: Choose the correct answer among the alternatives for the following 
+questions � 
+1. The labour force consists of all those:
+A . Who is fit for work?
+B . Who are willing to workC . Who are available for work
+D . All of the above
+2. The general goals of macroeconomic policy are;
+A . High rate of economic growth
+B . The rule of the lawC . Price instability
+D . All
+3. If the national economy is closed, i.e. a country has no interaction with the rest 
+of the world then
+A . GNP > GDP
+B . GNP < GDPC . GNP = GDP
+D . All
+4. Which is/&are the following example/s of structural unemployment?
+A . A civil engineering graduate is looking for a job at a clinic.
+B . A student immediately after graduation
+C . An agricultural graduate looking for a job at “Piassa”
+D . A and C.
+5. Which one of the following is wrong about Gross Domestic Product (GDP)?
+A . It measures the current production of goods and services only 
+B . It is less than GNP if the net factor income received from abroad is negative
+C . It measures the values of final goods and services produced within the 
+territory of a country irrespective of who owns that output.
+D . When the net factor income received from abroad is zero, GDP is equal to 
+GNP
+
+--- [PAGE BREAK] ---
+
+Unit 7: Introduction to Macroeconomics6. The general objectives of a macroeconomic policy are to achieve:
+A . Economic growth            
+B . Full employment       C . Stable balance of payment      
+D . all
+7. A situation where “too much money” chases “too few goods.”
+A . Cost push inflation             
+B . Demand pull inflation     C . Supply side inflation    
+D . both A & C
+8. A situation of voluntary switching of jobs in search of better jobs.
+A . Frictional unemployment     
+B . Structural Unemployment     C . Cyclical Unemployment
+D . all
+9. It represents the difference between receipts for exports of goods and expenditure 
+on imports of goods.
+A . Balance of Payments   
+B . Visible balanceC . Trade Balance           
+D .  both B & C
+Part III. Answer the following questions briefly and to the point.
+1. Define macroeconomics
+2. Explain the general goals of a macroeconomic policy
+3. Discuss the difference between GDP and GNP.
+4. Do you think, in a closed economy, GDP and GNP are equal? Justify.
+5. Discuss the concepts of frictional, structural and cyclical unemployment with the 
+help of examples.
+93

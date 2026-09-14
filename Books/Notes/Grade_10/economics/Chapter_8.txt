@@ -1,0 +1,807 @@
+=================================================================
+Book: economics.pdf
+Chapter 8: Business Startups and Innovation   �  �  �  �  �  �  �  �
+Pages: 163 to 190
+=================================================================
+
+Unit 8:   Business startups and Innovation155Introduction
+Innovation is no longer a buzzword. More than ever, it is a critical element in fueling 
+business growth and maintaining market share. The commercial benefits of innovation 
+are well known. Today, however, there is an added urgency in businesses’ efforts to 
+devise and execute on new ideas. Increasingly, they are faced with the risk of disruption 
+from many known and unknown sources. How businesses respond is critical to their 
+continued success and ultimately, their existence.
+With this in mind, this unit will discuss such contents like Innovation, business startups 
+and Cost Benefit Analysis . 
+Unit Objectives
+By the end of this unit, students will be able to: 
+6Define innovation 
+6Analyze innovation and its determinants
+6Explain the main components of a business plan
+6Distinguish among different businesses organizations
+6Review a business planBusiness Startups and Innovation Unit
+8
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation1568.1 Innovation 
+By the end of this section, students will be able to;
+6Describe innovation
+6Mention the types of innovation
+Key Concepts
+Innovation; Product, process, market, eco-, organizational, Innovations; Creative 
+destructions
+Start Up Activity
+What is innovation?
+Definition of Innovation
+The Oslo Manual, an international reference guide from the OECD for collecting and 
+using data on innovation, defined the concept of innovation as:
+“(…) a new or improved product or process (or a combination thereof) that differs 
+significantly from the unit’s previous products or processes and that has been made 
+available to potential users (product) or brought into use by the unit (process).”
+Innovation can be defined as something new, improved or introduced that creates 
+value. It can be summarized into two key elements: creativity and implementation.
+Figure 8.1 Innovation
+Types of innovation
+According to the 4th and most recent edition (2018) of the Oslo Manual, there are four 
+main types of innovation:
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation157I . Organizational Innovation
+Organizational innovation refers to the development of a new organizational strategy 
+that will somehow change a company’s business practices, as well as the way its 
+workplace is organized and its relationship with external stakeholders.
+Examples: 
+yThe first companies adopting a four-day week working schedule of only 4 days 
+per week
+yThe first companies that started to use the power of digital and allowing 
+employees to skip the office and work from home (depending on the role)
+II . Process Innovation
+Process innovation is about implementing a new or improved production or delivery 
+approach, including changes in operational methods, the techniques used and the 
+equipment or software.
+Examples:
+yThe first firms betting on SaaS (software as a service) technology, and using, for 
+instance, cloud contact centers from Talk desk, changed the way their customer 
+support processes used to be organized
+yThe first hotels that decided to make decisions based on big data using, for 
+instance, insights from the Climber Hotel, made changes on their decision-
+making approach
+III . Product Innovation
+Product innovation is the introduction of a new or improved good or service. These 
+inventions or changes may have to do with improving technical specifications, the 
+materials or the software used or even advancing on UX (user experience). However, 
+product innovations don’t need to improve all functions or performance specifications. 
+An improvement to or addition of a new function can also be merged with a loss of 
+other functions or the downgrade of some other specifications.
+Moreover, a product innovation must add available to potential users but doesn’t 
+necessarily need to generate sales. Because if it did, then innovations with low demand 
+or, for instance, digital products like apps that are free would be excluded. At the same 
+time, routine changes or updates aren’t considered product innovations as they are 
+only correcting errors or making some seasonal changes.
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation158Examples:
+yLego has been changing the materials of its famous bricks to biodegradable oil-
+based plastics
+yThe first electric vehicles introduced in the car’s market were also an innovation, 
+and new batteries with longer ranges that keep coming out are also an example 
+of innovation
+IV . Marketing Innovation
+Marketing innovation means developing a new marketing strategy that produces 
+changes in, for instance, the way a product is designed or packed, or even other 
+decisions regarding price or promotion.
+Example:
+yHaagen Dazs’ new waste-free container
+V . Eco Innovation
+Eco-innovation is an innovation resulting in significant progress towards the 2030 
+goals sustainable development established by the UN. In practice, it means reducing 
+the impacts of our production modes on the environment, improving nature’s resilience 
+to environmental stresses, or achieving a larger efficient and responsible use of natural 
+resources.
+In this way, we can say eco-innovation may create value in two different areas. First, 
+from a sustainable development perspective, as it promotes sustainability throughout 
+a product’s entire life cycle, it helps to address challenges such as climate change, 
+resource scarcity, and biodiversity. Second, it can also boost a company’s performance 
+and competitiveness. By embracing new and greener processes, technologies and 
+services, eco-innovation can help organizations access new markets, increase 
+productivity and profitability across the value chain, strengthen their reputation or 
+attract new investors.
+Example:
+yA while ago, Procter and Gambler realized householders could save on their 
+electricity bill by switching to cold-water washings and started developing cold-
+water detergents (product innovation)
+yAs part of its sustainability strategy, IKEA is changing its fleet to electric vehicles 
+(process innovation)
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation159yNestle’s new paper-based straws as an alternative to plastic straws (marketing 
+innovation)
+yThe first companies concerned with the sustainability of their operations that 
+decided to change their suppliers and partners if they don’t prove they are also 
+making efforts to become more sustainable (organizational innovation).
+Innovation is also destructive, not only creative!
+Schumpeter (1934) brought into discussion several arguments on how businesses 
+search for new opportunities and competitive advantage. One of his most famous 
+arguments has to do with the concept of “creative destruction”. In Schumpeter’s vision, 
+capitalism is a dynamic and innovative market system that is constantly changing. 
+These changes, he says, happen because of new ideas and processes that take over the 
+current paradigm (status quo) and create new ways of producing goods, services or 
+entirely new industries.
+The claims destruction and imbalance are what makes capitalism develop and grow, 
+and not the usually accepted idea of economic equilibrium. In this way, the Austrian 
+economist calls this imbalance “creative destruction” because innovation often leads 
+to market chaos: for instance, products get obsolete, companies close and people get 
+unemployed. Still, he believes these are necessary consequences for new solutions 
+that increase life quality to come to light.
+We’ve been watching these examples of creative destruction across humankind’s 
+history. We’ve gone over the first industrial revolution to the boom in using petroleum 
+and we today we are a highly technological society of information. These periods 
+of innovation make the old models obsolete and create the need for everyone and 
+everything to innovate – and the transformation is drastic.
+From a business perspective, only companies with a great strategic vision survive an 
+episode of creative destruction. Companies like Nokia and Kodak, that were once 
+market leaders in their own industries, failed to see how the cellphone and photography 
+industries would change. At the same time, from a sustainability strategy, as we’ve 
+discussed upper on this article, companies making radical changes and developing true 
+sustainability strategies (from managing waste in a circular way to using renewable 
+energy) will probably be the ones thriving in the future.
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation160Examples of Famous Innovators
+Steve Jobs starting developed the smartphone world with the iPad
+Marie Curie made great researches on radioactivity
+Elon Musk has been making great progress on luxurious electric cars
+Ann Kiessling made plenty of findings on the area of biology
+Nikola Tesla worked on the production, transmission, and application of 
+electric power
+Amanda Jones was the inventor of a vacuum method of canning
+Thomas Edison invented the incandescent electric light bulb
+Grace Hopper invented the first compiler for a computer programming 
+language
+Leonardo DaVinci, among many other things, invented the parachute
+Josephine Cochrane invented the first mechanical dishwasher
+Alexander Graham Bell invented the first telephone
+ĂActivity 8.1
+1. Define innovation
+2.List the innovations you know and tell its type
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation1618.2 Business Startups 
+By the end of this section, students will be able to:
+6Describe business startups
+6Differentiate small businesses from business startups
+6Relate innovation and business startups
+Key Concepts
+Business Startups; Small businesses
+Start Up Activity
+What is business startup?
+ Business Startups 
+When an entrepreneur starts a business, they may see startups and small businesses 
+differently. While these two types of businesses have a lot in common, there are some 
+key differences that you should know about when creating your company so that you 
+don’t make any critical mistakes early on.
+The initial decisions that you make when forming your business will fuel your early 
+success or cause you to experience numerous hurdles at a time when you likely 
+don’t know how to navigate such problems. While there are no strict guidelines that 
+determine what a startup is, the general definition of a startup is any company that’s in 
+the initial stages of operations but expects significant growth in the near future.
+For many organizations, innovation is difficult to understand and execute. There 
+remains a clear discrepancy between how big business and start-ups approach it. As 
+a result, big business is looking to start-ups and entrepreneurs to identify disruptive 
+ideas and opportunities for their business, and to unlock innovation through the spirit, 
+blood, sweat and tears of entrepreneurship.
+On the other hand, a small business is any kind of business that only has a certain 
+number of employees, the maximum of which differs by industry. Though these types 
+of businesses may sound the same, understanding the differences between the two will 
+be integral to your future success as an entrepreneur.
+Startups are entirely different than small businesses when it comes to business growth 
+and revenue. For instance, startups are focused primarily on top-end revenue and 
+growth potential. A startup is considered to be a temporary business model wherein 
+the focus is on rapid growth. Unlike a small business, there are no restrictions or 
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation162limitations placed on growth. While small businesses are perfectly content with 
+operating in a small portion of a large market, startups usually want to obtain as much 
+market share as they can with the product or service that they provide.
+Startups won’t be profitable in the initial stages of business development since they 
+want to grow within the shortest time possible. It will sometimes take years for a 
+startup to make its first dollar of profit. The main goal is to create a product or service 
+that can be successfully placed on the market, which could bring in millions of dollars 
+of profit in the long run. Among the most successful startups is Uber, which now has a 
+market value of $50 billion. Whether your goal is to create a small business or startup, 
+you should know the difference between these two business types when forming your 
+own company.
+Startup businesses are attempting to create a product or service that’s viable on the 
+market, they will usually need to put in significant amounts of capital for product 
+development, which usually can’t be done without the right investments. In many 
+cases, startups will obtain funding from angel investors or venture capital firms.
+Funding for most startups involves seed funding, which means that the startup will 
+approach potential angel investors for money. These investors are individuals who 
+want to invest in a company that they believe is going to eventually make it big. These 
+investors will get a share of the business for their money, which usually equates to 
+5-10 percent. 
+Activity 8.2 
+1. Define startup businesses 
+2. Differentiate startup businesses from small businesses
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation1638.3 Types of Businesses Organizations
+By the end of this section, Students will be able to:
+6Identify different forms of business organization;
+6Explain features, advantages and disadvantages of different forms of business 
+organizations;
+6Discuss the factors determining choice of an appropriate form of business 
+organization.
+Key Concepts
+Sole Businesses; Corporations; Partnership Businesses
+Start Up Activity
+1. What are businesses organizations? 
+2. What are the types of business organizations?
+Business organizations may be owned and managed by a single individual or group of 
+individuals who may form a partnership firm or a joint stock company. Such arrangement 
+of ownership and management is termed as a form of business organization. A business 
+organization usually takes the following forms: sole ownership, partnership business 
+and Corporations.
+8.3.1 Sole Proprietorship 
+The term ‘sole’ means single and ‘proprietorship’ means ownership. So, only one 
+person is the owner of the business organization. This means that a form of business 
+organization in which a single individual owns and manages the business, takes 
+the profits and bears the losses, is known as sole proprietorship form of business 
+organization. A type of business unit where one person is solely responsible for 
+providing the capital and bearing the risk of the enterprise, and for the management of 
+the business. It is very simple to establish a sole proprietary concern. Any person who 
+is willing to start a business and has the necessary resources can set up this form of 
+business organization. To start and operate the business in this form, practically does 
+not require any legal formalities to be fulfilled. In some cases, like restaurant, chemist 
+shop etc. however, permission from the competent authority is required to be obtained 
+before starting the business.
+Characteristics of Sole Proprietorship Form of Business Organization
+a) Single Ownership-  This business organization has a single owner who himself/
+
+--- [PAGE BREAK] ---
+
+Unit 8:   Business startups and Innovation164herself starts the business by bringing together all the resources.
+b) No Separation of Ownership and Management:  The owner himself/herself 
+manages the business as per his/her own skill and intelligence.
+c)Less Legal Formalities:  The formation and operation of a sole proprietorship 
+form of business organization does not involve any legal formalities. Thus, its 
+formation is quite easy and simple.
+d)No Separate Entity:  The business unit does not have an entity separate from 
+the owner. The businessman and the business enterprise are one and the same, 
+and the businessman is responsible for everything that happens in his business 
+unit.
+e) No Sharing of Profit and Loss:  The sole proprietor enjoys the profits alone. At 
+the same time, the entire loss is also borne by him. He alone bears the risks 
+and reaps the profits.
+f)Unlimited Liability:  The liability of the sole proprietor is unlimited. In case 
+of loss, if his business assets are not enough to pay the business liabilities, his 
+personal property can also be utilized to pay off the liabilities of the business.
+g) One-man Control:  The controlling power of the sole proprietorship business 
+always remains with the owner. He/she runs the business as per his/her own 
+will.
+Advantages:
+	Easiest to get started
+	Greatest freedom of action- Flexibility in Operation
+	Maximum authority
+	Income tax advantages in very small firms
+	Maintenance of Business Secrets
+	Quick Decision and Prompt Action
+	 Flexibility in Operation. 
+	Personal Touch.
+Disadvantages
+	Limited Resources. 
+	 Lack of Continuity. 
+	Unlimited Liability. 
+	Not Suitable for Large Scale Operations. 
+	Limited Managerial Expertise.
+
+--- [PAGE BREAK] ---
+
+Unit 8:   Business startups and Innovation1658.3.2 Partnership 
+A partnership is a business owned by two or more persons who contribute resources 
+into the entity. The partners divide the profits of the business among themselves. In 
+general partnerships , all partners have unlimited liability. In limited partnerships , 
+creditors cannot go after the personal assets of the limited partners.
+Characteristics of partnership form of business organization Based on the definition of 
+partnership as given above, the various characteristics of partnership form of business 
+organization, can be summarized as follows:
+a)Two or More Persons:  To form a partnership firm at least two persons are 
+required. The maximum limit on the number of persons is ten for banking 
+business and 20 for other businesses. If the number exceeds the above limit, 
+the partnership becomes illegal and the relationship among them cannot be 
+called partnership.
+b)Contractual Relationship:  Partnership is created by an agreement among 
+the persons who have agreed to join hands. Such persons must be competent 
+to contract. Thus, minors, lunatics and insolvent persons are not eligible to 
+become the partners. However, a minor can be admitted to the benefits of 
+partnership firm i.e., he can have share in the profits without any obligation 
+for losses.
+c)Sharing Profits and Business:  There must be an agreement among the partners 
+to share the profits and losses of the business of the partnership firm. If two or 
+more persons share the income of jointly owned property, it is not regarded as 
+partnership.
+d)Existence of Lawful Business:  The business of which the persons have agreed 
+to share the profit must be lawful. Any agreement to indulge in smuggling, 
+black marketing etc. cannot be called partnership business in the eyes of law.
+e)Principal Agent Relationship:  There must be an agency relationship between 
+the partners. Every partner is the principal as well as the agent of the firm. When 
+a partner deals with other parties, he/she acts as an agent of other partners, and 
+at the same time the other partners become the principal.
+f)Unlimited Liability:  The partners of the firm have unlimited liability. They 
+are jointly as well as individually liable for the debts and obligations of the 
+firms. If the assets of the firm are insufficient to meet the firm’s liabilities, 
+the personal properties of the partners can also be utilized for this purpose. 
+However, the liability of a minor partner is limited to the extent of his share in 
+
+--- [PAGE BREAK] ---
+
+Unit 8:   Business startups and Innovation166the profits.
+g)Voluntary Registration:  The registration of partnership firm is not compulsory. 
+But an unregistered firm suffers from some limitations which makes it virtually 
+compulsory to be registered. Following are the limitations of an unregistered 
+firm.
+1)The firm cannot sue outsiders, although the outsiders can sue it. 
+2) In case of any dispute among the partners, it is not possible to settle the 
+dispute through court of law. 
+3) The firm cannot claim adjustments for amount payable to, or receivable 
+from, any other parties.
+Advantages of Partnership form
+Easy to Form 
+Availability of Larger Resources 
+Better Decisions 
+Flexibility 
+Sharing of Risks 
+Keen 
+Benefits of Specialization 
+ Protection of Interest 
+Secrecy
+Limitations of partnership form 
+A partnership firm also suffers from certain limitations. These are as follows: 
+Unlimited Liability 
+Instability 
+Limited Capital 
+Non-transferability of share 
+Possibility of Conflicts
+8.3.3 Corporations 
+A corporation is a business organization that has a separate legal personality from 
+its owners. Ownership in a stock corporation is represented by shares of stock. The 
+owners (stockholders) enjoy limited liability but have limited involvement in the 
+company’s operations. The board of directors, an elected group from the stockholders, 
+controls the activities of the corporation.  In addition to those basic forms of business 
+ownership, these are some other types of organizations that are common today:
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation167In general, a corporation has all the legal rights of an individual, except for the right 
+to vote and certain other limitations. Corporations are given the right to exist by the 
+state that issues their charter. 
+ĂActivity 8.3 
+1. Compare and contrast the three types of business organizations.
+2. List at least one business organization from your locality for the three types 
+of business organizations,
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation1688.4 Business Feasibility Analysis 
+By the end of this section, students will be able to;
+6Describe Cost benefit Analysis for business feasibility studies
+6Explain business plan
+6Develop a business plan
+6Undertake cost benefit analysis of business startups 
+Key Concepts
+SWOT analysis; Cost Benefit Analysis; Business Plan
+Start Up Activity
+Do you think all the business ideas get started, why or why not?
+8.4.1 Feasibility Studies versus business plans
+Be sure you know what you want and what to expect when pursuing a new venture, 
+business or project. A lot of time, resources and money can be saved in knowing what 
+to do and the order in which to do it. A good rule of thumb is to never commission 
+a business plan until a feasibility study has been completed first. A proof of business 
+concept, also known as a feasibility study, is normally less than 20% of the cost of 
+a business plan and although a feasibility study will not be anywhere close to the 
+in-depth “nuts and bolts” view of a business plan, it will do exactly what the name 
+implies. It will show if a project is feasible before any other steps are taken or major 
+financial burden is incurred. There are very big differences between a feasibility study 
+and a business plan.
+8.4.2 Feasibility Studies
+A feasibility study is designed to discover if a business or project is “feasible” or if it is 
+not: (In short, does the business or project warrant further investment of time, money 
+and further study or is it a non-starter). A feasibility study is a relatively inexpensive 
+way to safeguard any wastage of further investment (will it work or won’t it). If a 
+project is seen to be feasible from the results of the study, the next logical step is to 
+commission a full business plan. Will the investment made in the feasibility study itself 
+then be wasted? No. Because the research and information uncovered in the study will 
+be of good use in the business planning stage and will also reduce the research time and 
+therefore the cost of the business plan. On the other hand, a business plan is designed 
+to “plan” in advance how a business or project will be started, implemented and 
+managed. Business plans are commissioned for one of three reasons: Re-organization, 
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation169investment/funding or a management blueprint for operation.
+People never plan to fail; people only fail to plan! FEASIBILITY STUDIES demonstrate 
+to a prospective project owner or investor that a given concept is financially viable 
+and whether further study and/or a business plan is warranted. For a feasibility study, 
+basic data is obtained through a series of queries, questions and meetings, wherein the 
+client provides some of the research and other data and facts need to be gained from a 
+variety of sources. The typical feasibility study contains, among other items, notes on 
+financial projections, a general description of the business, general details describing 
+how the company / project will be formed, managed and marketed, statements 
+concerning the competition and a cash-flow projection based on averages. Further 
+notes can be included as to general details of the project and revelations found during 
+the research stage. The study will normally be completed quickly and in very general 
+format compared to that of a business plan.
+A feasibility study should answer five questions. 
+1.Will it work or not? 
+2.Is it profitable or not? 
+3.What will it basically cost to fund or start? 
+4.Is it worth doing? 
+5.Is it worth commissioning a business plan?
+8.4.2 Business Plans
+A business plan is a detailed road map for building a given company. A business plan 
+contains all that the feasibility study has plus specific timelines, detailed budgets with 
+forecasts, letters of intent, resumes of staff, background, competition, strengths and 
+weaknesses, work sheets (with full supporting references and notations) and appendi -
+ces. Appendices should include copies of all documentation in relation to key analyses 
+as well as plans that together represent the road map for company development.
+A well-written business plan will show exactly what revenues can be expected and 
+when to expect them, what overheads and expenses will need to be paid and exactly 
+when they will be due. It will also show staffing levels and salaries along with costs 
+of employment, sales levels with monthly and seasonal trends, setup costs, building/
+office costs, utility and telephone costs, legal, insurance and accounting costs, office 
+furniture and supplies costs and a myriad of other costs and projections. However, 
+while these costs and revenues form an important part of the required picture, a 
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation170business plan will also need to demonstrate that all required plans are completed.
+As such a business plan will feature information central to establishing a high 
+degree of certainty in effective operation. Sections on demographics, sales and sales 
+methods, objectives, expansion plans, contingency exercises, product/services market 
+introductions, regulatory requirements, laws of City, State and Federal governments 
+relating to the business or project and much more should be included. A well-written 
+business plan can help maximize potential and minimize overheads, liabilities and 
+risk associated with any project. People never plan to fail; they only fail to plan! A 
+feasibility study (proof of business concept) and a business plan are totally separate 
+documents and each does a very specific job. The costs associated with each are also 
+completely different.
+However, a business plan may be developed that has as a component which includes 
+key features and evidence supporting proof of the business concept.
+8.4.3 Developing a Small & Medium Enterprise feasibility study
+A SME feasibility study (proof of business concept) is a formalized, written approach 
+to evaluating your business idea. It should;
+yShow you what facts and figures are needed to aid decision- making.
+yShow whether or not your idea is viable.
+yAllow you to discover and look at alternative approaches and solutions to putting 
+your idea into practice.
+The Study should be written by you, for you, in language and in terms you can relate 
+to about your business idea. It should include the following content.
+1.The business idea
+How would you describe your business idea? What is it? Will it work?  How is it 
+different from existing businesses? Who will buy from you? Can you put your idea 
+on paper?
+It is not enough simply to say “A Service business” or “A coffee shop”. Paint a picture 
+of your business idea in words so that anyone reading this description knows exactly 
+what you are talking about. To start your Feasibility Study - start with your business 
+idea, on paper. Discuss it with others and adjust it as you obtain more information and 
+ideas.
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation1712.Profiles- Key People
+It is not enough to have a good idea - you need people who can implement it. Who 
+are they? Are they you, your partners, your family or anyone else? Once you have 
+identified these people you need to determine your/their skills and strengths and 
+whether they help or hinder in the proposed venture?
+Create a one-page resume of each key person. This is not merely a job history, but a 
+picture of each key person, showing pertinent strengths, skills, experience, training 
+and qualifications. It will reveal to you and any potential lender, supplier, partners or 
+agent, the operational/management strengths (and weaknesses) of you and your team. 
+It will also show you the need to acquire any missing skills you can identify.
+3.Personal Objectives
+Why do you want to go into business? Answer - To create wealth!
+Remember: business is principally a means of allowing people to achieve the things 
+they want in their private life, like a home, cars, holidays and a good lifestyle. You 
+need to set personal objectives. Do you know what you want in your private life? 
+Consider Short Term - say up to one year; Medium Term - one to three years; Long 
+term - greater than three years.
+You need to sort out life objectives and ensure that the business will not only assist 
+you in generating wealth but also facilitate your life style.
+4.The Market
+Customers: You cannot sell to everyone. So, who are your potential customers? Make 
+a List. Why will they buy from you?
+Identify your Market Segments or groups: What knowledge do you have of your 
+market segments or groups? How many are there?  What will they buy? How often 
+will they buy? What will be their average purchase?
+Products & Services: Create a list showing the products / services you will be offering 
+to each segment. Also look at how long it will take you to produce or procure them. 
+Determine how much it will cost to buy or produce them and how much you can sell 
+them for. Suppliers: Identify preferred and alternative suppliers on a list and show 
+products /services / prices on this list. Collect catalogues and brochures to assist this 
+study.
+Competition: List your competitors and show their perceived strengths and weaknesses. 
+For each main competitor, list two good points and two bad points. You need to 
+understand why they are competition to your proposed business. Ask the Question: 
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation172How can you attract their customers from them? Price is not the only answer.
+Map: Obtain a map and on it define your market boundaries, location, competitors, 
+suppliers, and demographic information on your market.
+5.Your Business Overview
+Location - Your site, is it rented, owned, or at home? Why locate there? What are the 
+advantages and disadvantages?
+8.4.4  Function Of A Feasibility Plan – Proof Of Business Concept
+Feasibility plans help entrepreneurs - and their investors - judge whether a business 
+concept is credible. The process of preparing a feasibility plan is a testing process - a 
+validation process to determine what could go wrong and what needs to go right for an 
+enterprise to root and grow. Preparing a feasibility plan requires a tremendous amount 
+of research and thinking, which often lead to significant changes in the original idea. 
+The good news is that the stronger the feasibility plan the easier the business plan is 
+to write and the more likely it is that your business will receive financial support and 
+succeed.
+Feasibility Plan Narrative
+The feasibility plan is not a formal document but it can be considered a structured 
+formal commercial report. It is your first reality check. (The marketplace will be the 
+real check.) As such, the plan should be very carefully thought through, extraordinarily 
+well documented and clearly written. A feasibility study (proof of business concept) 
+can exist in its own right or be in part of whole a supporting document (appendix) for 
+the formal business plan. Within a formal business plan many decisions or business 
+models will be used and the justification for those actions must be clearly demonstrated 
+and this is often achieved by being able to reference to findings of the original business 
+concept feasibility study
+A feasibility plan should at least touch on most issues included in the final business 
+plan. In the feasibility plan, the focus is on getting the design right and testing its 
+coherence, rather than on convincing investors and other partners to extend their 
+support. Often the feasibility study’s validity is demonstrated through a cost benefit 
+analysis. A cost - benefit analysis is a relatively simple and widely used technique 
+for deciding whether a business model or decision is financially viable. As its name 
+suggests, to use the technique simply add up the value of the benefits of a course of 
+action, and subtract the costs associated with it.
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation173Accordingly, clarity and factual evidence are more important for the feasibility plan 
+than a convincing business presentation.
+8.4.2 Cost Benefit Analysis
+One of the main ways people make decisions is by using a cost benefit analysis (or 
+CBA).
+Whether you’re a renter considering purchasing a new home or a business weighing 
+a new sales strategy, you’re probably using a CBA. It’s an integral part of corporate, 
+individual and even government decision making.
+Even when big companies like Macy’s (M) - Get Macy’s Inc Report move to repurchase 
+hundreds of millions of dollars of their own debt, executives are using CBA. In fact, 
+most actions undertaken by companies involve CBA in some form or other. 
+But what actually is cost benefit analysis, and how is it used? What are some examples 
+of cost benefit analysis?  
+What is cost benefit analysis: Cost benefit analysis is a process used primarily by busi -
+nesses that weighs the sum of the benefits, such as financial gain, of an action against 
+the negatives, or costs, of that action. The technique is often used when trying to de -
+cide a course of action, and often incorporates dollar amounts for intangible benefits 
+as well as opportunity cost into its calculations.
+Although CBA can be used for short-term decisions, it is most often used when a 
+company or individual has a long-term decision.
+CBA is an easy tool to determine which potential decision would make the most 
+financial sense for the business or individual. The process also takes indirect benefits 
+or costs into consideration, like customer satisfaction or even employee morale. And 
+opportunity cost often plays a big role when deciding between several options. When 
+listing potential costs and benefits, companies or analysts will often factor in things 
+like labor costs, social benefits and other factors that may not be immediately obvious. 
+Still, CBA is similar to net present value (or NPV), which is often used by investors. 
+So, what’s the difference between CBA and NPV?  
+Cost Benefit Analysis vs. Net Present Value
+When performing a cost benefit analysis, or CBA, it is generally helpful to weigh the 
+total benefits and total costs of a future project at their present value - which is where 
+net present value comes in. Given that CBAs are often done with a long-term view 
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation174in mind, the value of money often changes due to inflation and other factors, making 
+it helpful to factor in the net present value of the figures you are analyzing when 
+conducting a CBA. 
+Net present value, as the name suggests, is a method used to determine the benefits 
+of undertaking an investment by calculating the future benefits or costs in terms of 
+their present value. If the net present value is positive for the calculation (meaning the 
+benefits outweigh the costs), the action or decision will generally be a good investment. 
+If negative, the opposite is likely true.
+In CBA, net present value is used to calculate net present costs and net present benefits.
+How to calculate Cost Benefit Analysis
+For standard CBA, the formula, the benefit/cost ratio, is fairly simple:
+Benefit/cost, simplified as b/c.
+Cost Benefit Analysis Steps
+Cost benefit analysis is fairly simple to execute, and can be helpful when considering 
+a new course of action or strategy.
+Step 1: Compile lists
+The first thing to do when running a cost benefit analysis is to compile a comprehensive 
+list of all the costs and benefits associated with the potential action or decision. 
+Consider not only the obvious costs (like the cost of installation for new software, or 
+for the software itself) but also possible intangible costs like the opportunity cost of 
+picking one software over another, or over another option like hiring a new employee. 
+Additionally, consider all the possible benefits of the course of action or decision - how 
+much might it add to your revenue? What other benefits may be inherent in the action 
+that would make it outweigh the costs? For example, would a new software improve 
+efficiency or capabilities that could promote new business or make current operations 
+run smoother? Be sure to also consider intangible benefits as well as obvious, fiscal 
+ones.
+Step 2: Give the costs and benefits a monetary value
+Once you have two comprehensive lists of costs and benefits for the action, assignment. 
+For some, the values will be obvious - like the cost of installing the software might be 
+$500. However, it is also important to try to assign monetary values to direct or indirect 
+and tangible and intangible costs or benefits if possible. For example, installing a new 
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation175software may render an employee’s computer inaccessible for a couple hours, costing 
+that employee working time or productivity and therefore money generated for the 
+company. Once you assign monetary values for each cost and benefit, add all the costs 
+and benefits respectively and set up the equation.
+For some, the values will be obvious - like the cost of installing the software might be 
+$500. However, it is also important to try to assign monetary values to direct or indirect 
+and tangible and intangible costs or benefits if possible. For example, installing a new 
+software may render an employee’s computer inaccessible for a couple hours, costing 
+that employee working time or productivity and therefore money generated for the 
+company.
+Once you assign monetary values for each cost and benefit, add all the costs and 
+benefits respectively and set up the equation.
+Step 3: Set up the equation and compare
+Take the sum of the benefits (the sum of all the monetary values assigned to the 
+benefits of the action) and the sum of the costs (all the monetary values of the costs of 
+the action) and plug them into the b/c equation.
+The equation should be a numerical equation, and if the numerical benefits (the sum 
+of the fiscal values for the benefits of the action) outweigh the costs, it is advisable to 
+proceed with the decision. If not, the company or individual should re-examine the 
+potential action and make adjustments accordingly. 
+This equation can also be set up for multiple different options or projects and can help 
+companies compare options side by side.
+ĂActivity 8.4 
+1.What is business plan?
+2.What are the components of a business plan?
+
+--- [PAGE BREAK] ---
+
+Unit 8:   Business startups and Innovation176Unit Summary
+Innovation can be defined as something new, improved or introduced that creates 
+value. It can be summarized into two key elements: creativity and implementation.
+Business Startups won’t be profitable in the initial stages of business development 
+since they want to grow within the shortest time possible. It will sometimes take years 
+for a startup to make its first dollar of profit. 
+The main goal in business startups is to create a product or service that can be 
+successfully placed on the market, which could bring in millions of dollars of profit 
+in the long run. Among the most successful startups is Uber , which now has a market 
+value of  $50 billion.
+Business organizations may be owned and managed by a single individual or group of 
+individuals who may form a partnership firm or a joint stock company. Such arrangement 
+of ownership and management is termed as a form of business organization. A business 
+organization usually takes the following forms: sole ownership, partnership business 
+and Corporations.
+Cost benefit analysis is a process used primarily by businesses that weighs the sum of 
+the benefits, such as financial gain, of an action against the negatives, or costs, of that 
+action. The technique is often used when trying to decide a course of action, and often 
+incorporates dollar amounts for intangible benefits as well as opportunity cost into its 
+calculations.
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation177Unit Review Exercises
+Part I: Write True if the Statement is correct or False if not correct for the 
+following questions
+1.Innovation is only creating new things. 
+2.Business startups can be bring quick profits in the short run. 
+3.Sole ownership businesses are owned and managed by more than two individuals. 
+4.Cost benefit analysis (CBA) is a tool to check the profitability of a business or 
+startups. 
+Part II: Multiple choice questions: choose the best answer for the following 
+questions
+1.Which one of the following actions by an entrepreneur is most likely to contribute 
+to creative destruction?
+A . Development of a new product
+B . Take-over of a competitor
+C . Issuing shares
+D . Reducing prices
+2.An advantage of the small firm in the innovation process?
+A . Ability to carry out R&D
+B . Ability to raise finance
+C . Ability of the entrepreneur to carry out multiple tasks
+D . Ability of the entrepreneur to act on new ideas or product development
+3.External links may provide incentives to:
+A . Raise finance
+B . Introduce new working practices
+C . Introduce improvements to products
+D . Attend business exhibitions
+4.Firms located on science parks compared to those located off science parks are:
+A . More innovative
+B . Less innovative
+C . No more or less innovative
+D . More growth orientated
+5.Innovative small firms are more likely in:
+A . Knowledge-based sectors
+B . Biotechnology
+C . Automobile manufacture
+D . Aerospace manufacture
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation1786.Schumpeter considered that innovative entrepreneurs would:
+A . Thrive
+B . Disappear
+C . Be absorbed within large innovative firms
+D . Be absorbed within non-innovative firms
+7.Innovative entrepreneurs face special issues in raising:
+A . Development capital
+B . Structured capital
+C . Human capital
+D . Seed capital
+8.Innovative entrepreneurs may have to pay high insurance premiums due to the:
+A . The need to protect patents
+B . Greater employee liability
+C . Greater customer liability
+D . Greater trading risks
+9.Networking by innovative entrepreneurs may be most encouraged by?
+A . Science parks
+B . Business incubators
+C . Chambers of Commerce
+D . Business associations
+10.The most likely problem encountered by innovative entrepreneurs in raising 
+finance is:
+A . Limited security since R&D is an intangible asset
+B . The costs of the patenting system
+C . The exhaustion of personal equity in R&D
+D . Inability of potential external funders to understand technology
+Part III: Fill in the blank space with appropriate words
+1.Innovation has two elements:________________and ____________________. 
+2.Business types one individual, two individuals and many individuals are 
+_____________, __________________ and ______________________. 
+
+--- [PAGE BREAK] ---
+
+Unit 8:  Business startups and Innovation179References
+AREDO, D. (1993, October ). The informal and semi-formal financial sectors in Ethiopia: 
+a study of the iqqub, iddir and savings and credit co-operatives. RESEARCH PAPER 
+TWENTY-ONE. African Economic Research Consortium.
+Armendáriz, B., & Morduch, J. ( 2010 ). The Economics Of Microfinance, 2nd edition. 
+Cambridge, Massachusetts: The MIT Press.
+Belayneh, M., Weldeselassie, M., Legesse, N., Tasew, Y ., Denu, B., & Bansal, C. K. (2011). 
+Economics Student Text Book Grade 12. Addis Ababa: Federal Democratic Republic of 
+Ethiopia, Ministry of Education.
+Chole, E., & Manyazewal, M. (1992). THE MACROECONOMIC PERFORMANCE OF 
+THE ETHIOPIAN ECONOMY 1974-90. Ethiopian Economics Association, 1-40.
+Drake, P. P., & Fabozzi, F. J. (2010). The Basics of Finance: An Introduction to Financial 
+Markets, Business Finance and Portifolio Management. Hoboken, New Jersey: John 
+Wiley & Sons, Inc.
+Felipe, J., Kumar, U., & Abdon, A. (2013). How rich countries became rich and why poor 
+countries remain poor: It’s the economic structure. . .duh! Japan and the World Economy, 
+46-58.
+Geda, A. (2001). Macroeconomic Performance in Post-Derg Ethiopia . Northeast African 
+Studies , New Series, V ol. 8, No. 1, Special Issue: Natural Resource Management, 
+Human Development, and Macroeconomic Performance in Ethiopia, 159-204.
+KEEFER, P., & KNACK, S. (1997). WHY DON’T POOR COUNTRIES CATCH UP? A 
+CROSS-NATIONAL TEST OF AN INSTITUTIONAL EXPLANATION. Economic 
+Inquiry (ISSN 0095-2583), V ol. XXXV , 590-602 .
+Lakew, T. B., & Azadi, H. (2020). Financial Inclusion in Ethiopia: Is It on the Right Track? 
+International JournalFinancial Studies, 1-13.
+Mankiw, N. G. (2012). Principles of Macroeconomics, 6E. Mason, OH 45040: South-Western 
+Cengage Learning.
+Mauri, A. (2003). ORIGINS AND EARLY DEVELOPMENT OF BANKING IN ETHIOPIA. 
+Working Paper n.04.2003 – marzo. 20122 Milano: Dipartimento di Economia Politica 
+e Aziendale Università degli Studi di Milano via Conservatorio, 7.
+National Bank Of Ethiopia. (2020/21). NATIONAL BANK OF ETHIOPIA . Addis Ababa: 
+Domestic Economic Analysis & Publications Directorate.
+NBE. (2019/20). Annual Report. Addis Abeba: Domestic and Economic Analysis Publication: 
+Directorate National Bank of Ethiopia.
+Nwanne, T. F. (2019). ETHIOPIAN BANKING SYSTEM. Godfrey Okoye University: 
+ResearchGate.
+Robinson, W. C., & Yamazaki, F. (1986). Agriculture, Population, and Economic Planning 
+in Ethiopia, 1953-1980. The Journal of Developing Areas, V ol. 20, No. 3. , 327-338.
+Tesfamariam, K. ( 2015). Savings and Credit Cooperatives in Ethiopia: Development, 
+Challenges and Proposed Intervention. International Journal of Cooperative Studies, 
+V ol. 4, No. 1., 1-8.
+Todaro, M. P., & Smith, S. C. (2012). Economic Development, 11th Edition. New York: 
+Addison-Wesley.

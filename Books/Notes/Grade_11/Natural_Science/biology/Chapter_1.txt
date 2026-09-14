@@ -1,0 +1,1665 @@
+=================================================================
+Book: biology.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+BIOLOGY STUDENT TEXTBOOK GRADE 11
+BIOLOGY
+STUDENT TEXTBOOK
+GRADE 11
+2023BIOLOGY
+STUDENT TEXTBOOK
+GRADE 11
+2023
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION
+
+
+--- [PAGE BREAK] ---
+
+This Textbook is the property of your school.
+Take good care not to damage or lose it.
+Here are 10 ideas to help take care of the book:
+1.Cover the book with protective materials, such as plastic, old newspapers or 
+magazines.
+2.Always keep the textbook in a clear dry place.
+3.Be sure your hands are clean when you use the textbook.
+4.Do not write on the cover or inside pages.
+5.Use a piece of paper or cardboard as a textbook mark.
+6.Never tear or cut out any pictures or pages.
+7.Repair any torn pages with paste or tape.
+8.Pack the textbook carefully when you place it in your school bag.
+9.Handle the textbook with care when you passing it to another person.
+10.When using a n ew textbook for the first time, lay it on its back. Open only a 
+few pages at a time. Press lightly along the bound edge as you turn the pages. 
+This will keep the cover in good condition.Take Good Care of 
+This Textbook
+Biology
+Student
+TextbookGrade 11
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11 TABLE OF CONTENTS 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  
+BIOLOGY 
+STUDENT TEXTBOOK 
+GRADE 11 
+Writers: 
+Habtamu Wodaj (PhD) 
+Sutuma Edessa (PhD) 
+Pedagogical Editor: 
+Meskerem Cheru (MSc) 
+Content Editor: 
+Destaw Damtie (PhD) 
+Language Editor: 
+Yenus Nurie (PhD) Illustrator: 
+Nega Tassie (PhD)
+Designer: 
+Ali Seid (PhD) 
+Evaluators: 
+Berhanu Te faye (MA & MEd)
+Gebrehana Zeleke (MSc) 
+Samuel Desalegn (MSc) 
+Bekele Geleta (MSc) 
+s
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11 TABLE OF CONTENTS 
+BIOLOGY GRADE 11     FDRE-MoE ETHIOPIA First Published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of 
+Education. 
+© 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education. All rights 
+reserved. The moral rights of the author have been asserted. No part of this textbook may 
+be reproduced, copied in a retrieval system, or transmitted in any form or by any means, including electronic, mechanical, magnetic, photocopying, recording, or otherwise, without the prior written permission of the Ministry of Education or licensing in accordance with the Federal Democratic Republic of Ethiopia as expressed in the 
+Federal Negarit Gazeta , 
+Proclamation No. 410/2004, "Copyright and Neighboring Rights Protection."  The Ministry of Education wishes to thank the many individuals, groups and other bodies involved –directly or indirectly –in publishing this Textbook. Special thanks are due to 
+Hawassa University for their huge contribution in the development of this textbook in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Copyrighted materials used by permission of their owners. If you are the owner of copyrighted material not cited or improperly cited, please contact the Ministry of Education, Head Office, Arat Kilo, (P.O.Box 1367), Addis Ababa Ethiopia.  
+Photo Credit: --------------------- 
+Printed by:
+GRAVITY GROUP IND LLC
+13th Industrial Area, 
+Sharjah, UNITED ARAB EMIRATES
+Under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23
+ISBN: 978-99990-0-010-9
+Ⅰ
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIAContents
+Unit O ne:Biology and Technology .........................................................................................  7
+1.1Learning from nature .......................................................................................................................................  8
+1.2Biology and technology ...................................................................................................................................12
+1.2.1The benefits of biology to technology ..................................................................................................12
+1.2.2Uses of technology in biology .................................................................................................................14
+1.3Impacts of biology and technology on society and the natural world .................................................17
+1.3.1Impacts of biology on the society and the natural world ................................................................ 18
+1.3.2Impacts of technology on the society and the natural world .......................................................... 18
+1.4Ethical issues in biology ..................................................................................................................................19
+1.4.1Ethical treatment of plants and animals during biological studies .................................................20
+Unit one summary ..................................................................................................................................................23
+Unit one review questions .....................................................................................................................................23
+Unit T wo: Animals ................................................................................................................. 26
+2.1.Characteristics of animals ............................................................................................................................. 27
+2.2.Invertebrates and Vertebrates ....................................................................................................................29
+2.2.1Invertebrate Animals ................................................................................................................................30
+2.2.2Vertebrate Animals ....................................................................................................................................30
+2.3Reproduction in Animals ................................................................................................................................ .31
+2.3.1. Asexua l reproduction in animals ..........................................................................................................32
+2.3.2Sexual reproduction in animals ..............................................................................................................32
+2.3.3Reproduction in insects (complete and incomplete metamorpho sis)............................................34
+2.3.4Reproduction in Frog ................................................................................................................................36
+2.3.5Reproduction in Crocodiles ......................................................................................................................38
+2.3.6Reproduction in Birds ...............................................................................................................................40
+2.3.7Reproduction in rat ...................................................................................................................................45
+2.4The economic importance of animals (insects) .........................................................................................48
+2.4.1Beneficial aspects of insects ...................................................................................................................49
+2.4.2Harmful aspects of insects ......................................................................................................................52
+2.5Animal Behavior ................................................................................................................................................54
+2.5.1Types of Animal Behavior ........................................................................................................................54
+Ⅱ
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11 TABLE OF CONTENTS 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  2.5.2Patterns of Behavior ................................................................................................................................ .58
+2.6 Homeostasis in animals ..................................................................................................................................61
+2.6.1Thermoregulation ......................................................................................................................................62
+2.6.2Osmoregulation .........................................................................................................................................67
+2.6.3Blood Sugar Regulation ............................................................................................................................ 68
+2.6.4Control of homeostasis ............................................................................................................................ 70
+2.7Renowned zoologists in Ethiopia ..................................................................................................................71
+Unit two summary ..................................................................................................................................................73
+Unit two review questions .....................................................................................................................................75
+Unit Three: Enzymes ............................................................................................................ 79
+3.1.What are enzymes? .......................................................................................................................................80
+3.2 Properties and functions of enzymes ..........................................................................................................82
+3.2.1General properties of an enzyme ..........................................................................................................82
+3.2.2The function of enzymes ......................................................................................................................... 85
+3.3Protein structures .............................................................................................................................................88
+3.4Enzyme substrate models .............................................................................................................................. 92
+3.4.1Enzyme-substrate binding models .........................................................................................................92
+3.4.2Enzymatic transition state .......................................................................................................................93
+3.5Enzyme regulation ...........................................................................................................................................94
+3.6Types of enzymes ............................................................................................................................................97
+3.6.1Enzyme structural classification .............................................................................................................98
+3.6.2Basic classification of enzymes ...............................................................................................................98
+3.7Factors affecting enzyme action ................................................................................................................. 100
+3.7.1Description on factors affecting enzymatic actions ......................................................................... 101
+3.8Enzyme kinetics .............................................................................................................................................. 102
+3.9Application of enzymes in industries and their benefits ........................................................................ 104
+3.9.1Uses of enzyme application .................................................................................................................. 105
+3.10Malting in Ethiopian tradition ..................................................................................................................... 106
+3.10.1 Steps of modern malting .................................................................................................................... 107
+3.10.2 Why is malting for? ............................................................................................................................. 107
+3.10.3 Traditional malting for local alcohol production ............................................................................ 108
+3.11Renowned Biochemists in Ethiopia ........................................................................................................... 109
+Unit three summary .............................................................................................................................................. 110
+Unit three review questions ................................................................................................................................ 111
+Ⅲ
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIAUnit Four: Genetics ............................................................................................................ 113
+4.1.The genetic materials .................................................................................................................................. 114
+4.2.The structure and function of DNA and RNA ......................................................................................... 115
+4.2.1. The Structure and function of DNA ................................................................................................... 115
+4.2.3DNA replication ........................................................................................................................................ 120
+4.2.2The structure and function of RNA ..................................................................................................... 123
+4.3The process of cell division .......................................................................................................................... 124
+4.3.1Cell Division .............................................................................................................................................. 125
+4.4Protein synthesis ............................................................................................................................................ 133
+4.5Mendelian inheritance ................................................................................................................................... 137
+4.5.1Mendelian crosses ................................................................................................................................... 138
+4.5.2Monohybrid cross .................................................................................................................................... 139
+4.5.3Dihybrid Cross .......................................................................................................................................... 142
+4.5.4Test Crosses ............................................................................................................................................. 144
+4.6Sex determination .......................................................................................................................................... 146
+4.7Non-Mendelian inheritance .......................................................................................................................... 148
+4.7.1Co-dominance, Incomplete dominance and Multiple alleles ......................................................... 149
+4.7.2Rh factor inheritance in humans and its medical importance ....................................................... 152
+4.7.3Sex-linked inheritance in humans ........................................................................................................ 153
+4.7.4Environmental effects on phenotype .................................................................................................. 154
+4.8Human pedigree analysis and its importance .......................................................................................... 155
+4.9Genetic disorders ........................................................................................................................................... 159
+4.10Genetic testing and counseling ................................................................................................................. 164
+4.11Gene therapy ................................................................................................................................................. 165
+4.12Breeding ......................................................................................................................................................... 167
+4.12.1 Indigenous knowledge of Ethiopian farmers ................................................................................. 170
+4.13Bioinformatics introduction ........................................................................................................................ 171
+Unit four summary ................................................................................................................................................ 172
+Unit four review questions .................................................................................................................................. 175
+Unit Five: The human body systems .................................................................................. 180
+5.1.Human Musculoskeletal Systems .............................................................................................................. 181
+5.1.1. Types of muscles ................................................................................................................................... 182
+5.1.2. Mechanism of actions of skeletal muscles ....................................................................................... 185
+Ⅳ
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11 TABLE OF CONTENTS 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  5.1.3. The human axial and appendicular skeletons ................................................................................. 187
+5.1.4. Joints ........................................................................................................................................................ 190
+5.2The reproductive system .............................................................................................................................. 192
+5.2.1. Human reproductive system (Male and Female) ............................................................................ 192
+5.2.2Gametogenesis ........................................................................................................................................ 196
+5.2.2Positive and negative feedbacks to control the menstrual cycle .................................................. 201
+5.2.3Fertilization and pregnancy ................................................................................................................... 203
+5.2.4Mechanism of action of contraceptives .............................................................................................. 204
+5.2.5Causes of infertility in humans ............................................................................................................. 209
+5.2.6The major sexually transmitted infections (STIs) in Ethiopia ....................................................... 212
+5.2.8. Epidemiology of STIs in Ethiopia ....................................................................................................... 220
+5.3Harmful traditional practices ....................................................................................................................... 222
+5.3.1Harmful traditional practices ................................................................................................................. 222
+5.4Family planning .............................................................................................................................................. 223
+5.4.1Risks related to the lack of family planning ...................................................................................... 223
+5.4.2 Family planning actio ns............................................................................................................................. 224
+5.4.3Family planning services ........................................................................................................................ 225
+5.5Effects of alcohol use, chewing Khat, cannabis and other drug uses on STIs transmission and 
+unwanted pregnancy ............................................................................................................................................ 225
+5.5.1The effects of alcohol uses ................................................................................................................... 225
+5.5.2Effects of chewing Khat ......................................................................................................................... 226
+5.5.3Effects of drug uses ................................................................................................................................ 227
+Unit five summary ................................................................................................................ 229
+Unit five review questions ..................................................................................................... 231
+Unit S ix:Population and natural resources ........................................................................ 236
+6.1.1Population size, density and dispersal ................................................................................................ 238
+6.1.2Exponential and logistic growth in populations ................................................................................ 243
+6.1.3Demographic structure .......................................................................................................................... 247
+6.1.4Population regulation .............................................................................................................................. 252
+6.2Natural resources ........................................................................................................................................... 254
+6.2.1Renewable ................................................................................................................................................ 255
+6.2.2Non-renewable ......................................................................................................................................... 255
+6.3Conservation of natural resources in Ethiop ia......................................................................................... 256
+6.4Impact of traffic accident on wild and domestic animals ...................................................................... 262
+Ⅴ
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA6.5Impact of human activities on the environment ..................................................................................... 265
+6.5.2Climate change ........................................................................................................................................ 268
+6.5.3Global warming ........................................................................................................................................ 269
+6.5.4Ozone layer  depletion ........................................................................................................................... 271
+6.5.5Acid rain ..................................................................................................................................................... 273
+6.5.6Loss of Biodiversity ................................................................................................................................. 274
+6.5.7Toxic bioaccumulation ............................................................................................................................ 277
+6.5.8Resource depletion ................................................................................................................................. 278
+6.6Indigenous conservation practices in Ethiopia ........................................................................................ 279
+Ⅵ
+
+--- [PAGE BREAK] ---
+
+Unit One: Biology and technology
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  1
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+1.1 Learning from nature 
+Nature is the 
+physical, natural 
+and material world of life that exists without human intervention. It includes landscape sceneries, water and forest ecosystems, weather, organisms, geology, celestial bodies 
+and inanimate objects, etc. Organisms have 
+well-adapted structures and that make them 
+survive on their immediate environment.  
+Nature provides us with doable structures and 
+forms which can be developed as functional and applicable mechanisms for various technological systems. Scientists and engineers learn from nature through imitation 
+of physical structures, shapes, materials and 
+functional mechanisms of natural facts.  The better their understanding the diverse nature of biological materials, the better their ability 
+to develop technologies. Using imitation of 
+nature, they can sketch the biological structures, design functional mechanisms and 
+tune into more efficient technologies at macro 
+(large) and nano (very small) scales through 
+imitation . 
+  After the successful com pletion 
+of this section, the student will be able to:
+
+Learn technologies from 
+nature
+Recognize devices copied from 
+biological nature 
+Design devices from biological 
+structural mechanisms 
+
+Unit learning outcomes
+     After the successful completion of this unit, the student will be able to:
+Adapt technologies from nature
+Illustrate the impact of biology and technology on society and the natural 
+world
+Indicate the benefits of biology to te chnology and vice versa
+Recognize ethical issues in biology
+What is imitation?
+Self-questioning
+Before starting this section, ask 
+yourself this question ‘What do 
+I know about learning from 
+nature and what do I want to 
+learn from this section?’
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 2
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                            UNIT 1: BIOLOGY & TECHNOLOGY  
+ The design 
+and 
+adaptation 
+of many technologies   we utilize today 
+imitated natural working systems. Many technologies have been imitating birds, bats, termites, spiders, 
+bees, ants and 
+parts of human body since timeless.  The successful design of technologies from robotics to material sciences   was through imitating nature 
+(Figure1.1).  
+Figure 1.1 Nature imitated technologies and architectures 
+Nature inspires scientists and engineers and serves as a reliable source of knowledge, ideas and 
+concepts from which technologies can be developed. 
+Buildings were made through the imitation of the mound architecture of termites that have 
+chimneys, constant temperature and humidity. Examples of technology that imitates nature: 
+1.Swallow nests have inspired the house building design. 
+2.Weaving technologies have been developed by studying the formation of spider webs. 
+3.Buildings have been made through the imitation of the mound architecture of termites. These 
+buildings mimic termite mound architecture that has chimneys with constant temperature and 
+humidity. An example is The East gate Center in Harare (Figure 1.2).   
+What are the technologies 
+imitated from natur e?
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  3
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+  
+Figure 1.2 Mound inspired architecture for the East Gate Building  
+4.The first heavy aircraft technology was designed by imitating birds. Aircraft engineers 
+designed aircraft wings and their flight techniques by imitating the wings of birds and bats 
+5.Engineers imitating human eyes made the technology of photograph camera. 
+6.The movement of bio-robots was designed from the movement of kangaroo. 
+7.Injection needle technology was copied from mosquito  proboscis  (Figure 1.3 ).
+Figure 1.3 Injection needle imitated from a mosquito’s proboscis
+8.The sensors of electrical devices   were imitations of biological neurons. 
+9.A cutting saw was imitated from the nature of the sharp teeth of animals. 
+10.Synthetic bulletproof vests are imitations of the spin silks of spiders. 
+11.Ceramics are an imitation of the nature of crack-resistant shellfish exoskeleton. 
+12.A robotic arm was imitated from an elephant trunk (Figure 1.4).
+Termite’s mound
+East Gate Building 
+Proboscis
+Injection needle
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 4
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                            UNIT 1: BIOLOGY & TECHNOLOGY  
+Figure 1.4 Robotic arms imitated from elephant trunk
+Lab activity 1.1 Construction of models imitating 
+nature 
+Construct a model of a human hand to imitate nature.
+      Materials
+Locally available resources   
+     Procedure
+Construct a human hand model with jointed finger structures
+Paint the model with pertinent color
+    Assessments
+1.How closely does your model hand match a natural human hand?'
+2.What is missing in imitating the model to full function of human hand?
+3.What other technologi es could be developed by imitating the 
+nature and produce other technologies?
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  5
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+1.2 Biology and technology
+Biology is the study of life: the structures, functions, 
+growth, origins, evolution and distribution of living 
+organisms.  
+Technology is the application of scientific knowledge, skills, methods and processes for the 
+production of devices and tools for scientific investigations. 
+The blend of biology and technology forms biotechnology, which is a technology that utilizes 
+biological systems to develop useful products . Biotechnology is the integration of natural and 
+engineering sciences to achieve the application of organisms, cells, parts and molecular analogues 
+for products and services. Examples: people use yeasts to produce bread and beer. 
+1.2.1 The benefits of biology to technology  
+There are many benefits of biology to technology. Biology is a source of materials that enable us to 
+imitate, design, adapt and develop modern technologies and solve complex human problems. The 
+diversity of nature stimulates the development of new technologies. Scientists and engineers imitate 
+nature to innovate, problem solve and expand their scientific understanding . Here are just a few 
+examples of the benefits of biology to technology: 
+1.Medicinal plants:  Many biochemical substances in plants have been used to develop 
+medicines. Scientists have imitated nature to develop artificial versions of the these biochemical substances. 
+2.Gene engineering and biosynthetic materials : Scientists have imitated the nature of 
+human, animal and plant genes. The uses of imitating genes include gene engineering to 
+After the successful completion of 
+this section, the student will be able to:
+Describe the use of technology in 
+biology
+Explain biology and technology
+Explain the benefits of biology to technology 
+What does the couplin g of biology 
+and technology form ?
+Self- questioning  
+Before starting this section, ask 
+yourself this question “What do I 
+know about the role of biology in 
+technology and technology in 
+biology, and what do I wa nt to 
+learn from this section?”
+What does the blend of biology 
+and technology form ?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 6
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                            UNIT 1: BIOLOGY & TECHNOLOGY  
+cure genetic conditions and the creation of biosynthetic materials to repair damaged body 
+tissues. 
+3.Building design:  Engineers have imitated the mound architecture of termites in the 
+design of buildings with chimneys which have a constant temperature and humidity. 
+4.Bullet train design: The noses (front) of bullet trains have been designed by engineers 
+imitating the shape of the beaks of kingf ishers when they dive into water (Figure 1.5). 
+Figure 1.5 Bullet train noses imitate the beak of a kingfisher
+Inquiry activity 1.2 
+Technologies imitating nature
+For each technology, identify the natural 
+source(s) that was imitated:
+1. Hexagonal structures
+2. A brand new drone design3. Techniques for preserving live vaccines4. Powerful repellent spray5. Cutting saws
+Research the natural source(s) using the internet and/or available textbooks.
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  7
+
+--- [PAGE BREAK] ---
+
+1.2.2 Uses of technology in biology 
+The uses of technology in biology are the ways in which 
+technological tools can be applied to solve various human 
+problems. It is the practical application of biotechnological 
+instruments (products) in providing required human services and investigations of new biological 
+questions. 
+Biological studies that use technological tools includ e:
+1.Biochemical  studies are helpful to investigate information on carbohydrates, proteins, lipids 
+and nucleic acids. 
+2.Biomedical  studies deal with providing detailed of information on the chemical components of 
+medicinal plants.  
+3.Biophysical studies are the science of using physical devices to gather biological information 
+at all scales of biological organization (molecular, organismic, and populations).  
+4.Environmental  studies are a multidisciplinary system dealing with the interactions of humans 
+with the environment. 
+5.Bioinformatics isa scientific discipline involving computer technology to collect, store, 
+analyze, and disseminate biological data and information (DNA and amino acid sequences) .  
+6.Biogeographical information is the study of the distribution of species along with geographic
+ecosystems through geological periods.
+The following are examples of technological devices : 
+1.A digital thermometer  is an instrument used for measuring body temperatures (Figure 1.6).  
+A pregnancy urine test is a tool that checks if a woman is pregnant or not by detecting the 
+amount of the hormone Human Chorionic Gonadotropin (HCG), produced in the placenta around six 
+to ten days after  fertilization  in either the urine (pee) or blood. The test result in one line is a 
+control line  showing negative (no pregnancy) and the other line (two lines) confirms the existence 
+pregnancy (Figure 1.7). What are the uses of technology in 
+biology?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 8
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+               
+        Figure 1.6 Digital thermometers        Figure 1.7 Pregnancy urine test tool 
+2.The diabetic blood test  is a tool to me asure the level of blood sugar taking sample blood 
+from figure tip (Figure 1.8 ).
+3.An HIV test  is a detector to identify infections with the virus or not (Figure 1.9).  
+                 
+               Figure 1.8  Diabetic test tool             Figure 1.9 HIV test tool  
+4.Microscopes used to magnify objects (Figure 1.10 ).   
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  9
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+                                                 
+                                  Figure 1. 10 Microscope and its parts  
+5.Computer Information Technology Scanning (CITS) is a device used for investigating 
+information on diseases or cancerous areas of the human body. 
+6.Computed Tomography scan (CT scan) is asophisticated x-ray technology used to take 
+many X-ray pictures of the body, used to detect and screen for variety of diseases and 
+conditions (Figure 1. 11).                         
+7.Positron Emission Tomography (PET scan) is an imaging technology device used to 
+check for diseases or information in areas with cancer in the human body. It uses a special 
+dye containing radioactive tracers that is swallowed, inhaled, or injected into an arm vein 
+conditionally.   It visualizes and measures changes in metabolic processes and physiological 
+activities like blood flow, chemical composition, and absorption (Figure 1. 12).
+                  Figure 1.11 CT scan                                           Figure 1.12 PET scan 
+8.Geographical Position System (GPS ) is a device used to collect biogeographical 
+information (biological data) on landscape mapping, plants, animals, and human movements 
+(Figure 1. 13).  
+9.Handheld Body fat calculator  device used to measure body fat (Figure 1. 14).  
+                                               
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 10
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+              
+  Figure 1.13: GPS                           Figure 1.14: Handheld Body fat calculator
+1.3 Impacts of biology and technology on society and the 
+natural world 
+After the successful completion of this 
+section, the student will be able to:
+Describe the impacts of biology and 
+technology on society and nature
+Explain the relationships between 
+biology and technol ogy
+Determine the negative and positive 
+impacts of biology and technology on 
+the society and on nature
+Lab a ctivity 1.3 Uses of technolo gical tools
+Objectives : To practice the uses of technological tools in learning biology
+       Materials
+Thermometer
+Procedure
+Measure the body temperatures of 10 students and record them on a 
+table.
+Make a graph showing the highest and the lowest temperat ure.
+Visit a nearby health center and discuss the uses of pregnancy tests, 
+diabetic tests, and HIV tests with the class 
+Self-q uestioning  
+Before starting this section, ask 
+yourself this question ‘What do 
+I know about the impacts of 
+biology and techno logy, and 
+what do I want to learn from 
+this section?’
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  11
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+The impacts of biology and technology refer to factors that pose 
+positive or negative effects on the society and the natural world. 
+The advancements of biological information and technological 
+devices can highly influence or control the societal and natural world. 
+1.3.1 Impacts of biology on the society and the natural world 
+The impact of biology refers to the effects arising from the advancement of biological knowledge 
+and innovations. 
+Examples: 
+Ensuring food security as a result of an increase in productivity 
+Medicine and disease treatments have resulted in improved health and longevity. 
+Achieving better supply of energy and clean water. 
+An increase in industrial production due to microbial action 
+Creating antibiotics to treat bacterial infections 
+Technological devices made from biological materials by biological information 
+advancements to provide services that influence, treat, and control the society and the 
+natural world negatively or positively. 
+Biological weapon production and use destroy the natural world.
+Practicing a predetermined limit  to have only boys (XY males) and avoid (XX females) of child sex chromosomes affects the society and the natural world   will lead to the loss of females
+1.3.2
+Impacts of technology on the society and the natural world
+Technology is part of everyone's life. Technological products and their applications in various fields of study have solved societal problems and had significant societal and environmental impacts.  However, industrialization and subsequent technological advancements have resulted in the misuse and destruction of our natural environment. These technologies have damaged our world in two 
+main ways through pollution and the depletion of natural resources. 
+Examples:  
+1.Industrial emissions and effluents pollute clean air and drinking water. 
+2.Biochemical agents, pesticides, and fertilizers cause toxicity and biohazards.
+What are the impacts of 
+biology and technology?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 12
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+1.4Ethical issues in biology 
+  
+Ethical 
+issues in 
+biology are 
+those issues that arise concerning the rightness or 
+wrongness of using biological discoveries for the 
+health and wellbeing of humans. Ethical issues in biology deal with a variety of concerns related to biotechnology, medicine, and the environment 
+including, the rightness or wrongness of using 
+biotechnological information, products, or devices 
+on human health and lifestyles and livelihood systems. 
+After the successful completion of 
+this section, t he student will be able to:
+Define ethical issues in biology
+Explain ethical issues in 
+medicaments
+Respect ethical issues in biology
+Inquiry activity 1.4 Learning biology from professionals
+Invite professionals from the health and ag ricultural offices to 
+participate in the discussion.
+The impacts of biology on society and the natural world
+The impacts of technology on society and the natural world
+Determine the positive and negative effects of technology and 
+biology.
+Find solutions f or identified impacts. 
+Why do sciences have eth ical 
+dilemmas?
+Self-q uestioning  
+Before starting this section, ask 
+yourself this question: ”What 
+do I know about ethics in 
+biological studies and what do I 
+want to learn from this 
+section?”
+Inquiry activity 1.5 Invite 
+forester and discussLearn from foresters
+The unethical treatments of plants 
+being practiced by human beings
+
+Respecting the physical and 
+biological materials of plants 
+Unethical uses of seeds, leaves, 
+roots, twigs, or barks of plant 
+species
+Trees give shadow even for an axe -
+man; everyone is responsible to 
+plant trees
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  13
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+1.4.1 Ethical treatment of plants and animals during biological studies
+ Ethical treatment of plants and animals during biological studies is 
+the process of subjecting animals and plants to various 
+experiments and rigorous tests.  
+1.4.1.1. Ethical treatment of plants
+Plants are primary producers and feeders for all living organisms. Trees are living organisms that 
+properly function in decentralized forms without any centralized order-providing unit (brain). Subjecting plant species to severe life-treating conditions leads to a total disappearance of plant 
+species. Collecting seeds, berries, roots, leaves, bark or flowers for personal uses, medicaments, 
+and other purposes (tooth brushing) affect the survival of the plant species and the community that depends on the plants Unethical treatment of plants: 
+Testing seeds or berries through destructive rays 
+Cutting tree terminals for experiments 
+Consumption of all seeds and fruits without conservation 
+Unplanned cutting of trees or deforestation 
+Burning forests and seedlings for farmlands 
+Restructuring the shapes of trees for aesthetic appeal 
+Care for plants is an ethical treatment and important for saving the jeopardized species and conserve for our common future. It is ethical to plant trees and it is a national responsibility.  
+1.4.1.2. 
+Ethical treatment of animals in experiments 
+In biological studies, researchers use animals to gain scientific understanding of the world. The 
+ethical treatment of animals is a moral question of whether it is acceptable to harm animals for scientific research. Animals are sentient creatures that have a nervous system, feel painful feelings , 
+emotional stress, and have interests and values. Given this, it is unethical to harm animals during experiments or rigorous testing. Unethical treatments of animals in research include approach es which expose animals to rigorous 
+experiment that may injure or cause pain to animals. 
+Researchers must reduce impacts of unethical treatments of animals through the three Rs
+principles described below (Reduction, Refinement, and Replacement).
+What are treatments?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 14
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+A. Reduction aims to minimize the number of animals used in experiments by improving 
+experimental techniques and sharing information with others. 
+Figure 1.15 the principle of reduction reduces animals used in research  
+B.Refinement is cleansing experiments in a way that enables to reduce  suffering of animals 
+using less invasive techniques, better medical care, and better living conditions
+Figure 1.16:  Proper handling safeguards experimental animals
+C. Replacement is substituting experiments on animals with alternative techniques using cell 
+cultures instead of whole animals, biosynthesis, and computer simulated models.
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  15
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Figure 1.17 : There are always alternatives 
+Inquiry activity 1.6 learn from zoologist 
+Invite zoologists to participate in a group discussion about:
+Conservation of animals as sentient creatures 
+Reduction of suffering of  research animals 
+Habitat, species, and ecosystem balance
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 16
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Unit one summary  
+Human beings learn powerful lessons from 
+nature like the technologies of flight, submarine, bullet train, flipper and other engineering and architectures.  
+Biology is a natural science studying living 
+organisms from the simplest to the most complex ones. Technology is the sum of techniques, skills, methods and processes used in the production of goods or services to 
+accomplish objectives. 
+Biology is dependent on technology in terms of using devices likewise; technology is dependent on biology in terms of identifying 
+scientific information and imitating 
+biotechnological devices from nature. Biology and technology are tightly blended 
+and form biotechnology,  which is useful in 
+designing various devices and engineering systems to solve complex human problems. Biotechnology is the use of biology to develop new products, methods and organisms 
+intended to improve human health and 
+society. Biotechnological devices are tools used to solve day- to-day biological tasks and support the discovery of more information in the course of biological studies.  The benefits of biology to technology are 
+biological information on biological systems 
+helpful to derive technological systems, working mechanisms and related products. The impacts of biology and technology on 
+society and the natural world are positive and 
+negative influences of using biologically derived technologies. Uses of technology in biology deal with technical applications in the 
+biological study process to investigate   
+biological information.   Ethical issues in biology are concerned with respecting the values for all life forms, 
+particularly the determining the right or wrong 
+values that may affect human rights to equality to live freely and naturally.  Ethical issues in biology deal with questions 
+related to unethicality, immorality, illegality, 
+inequality, injustice, and disrespectful acts to the values and rights of someone. It also includes the commercialization and commodification of human organs; assisted 
+reproduction techniques; and manipulation of 
+basic biological organ systems.  
+Unit one review questions 
+Part I. True or false items 
+Instructions: Write “true” if the statement is correct and “false” if it is not correct.   
+1.Humans started house building from swallows. 
+2.Blending of b iology and technology make biotechnology.  
+3.The East Gate Center building inHarare is designed by imitating termites mound.
+4.Nature is a reliable source of knowledgeable ideas.  
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  17
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+5.Modern technological instruments have learnt from nature by imitation. 
+6.Animals are sentient creatures with the capacity to feel pain. 
+7.Care for plants is unethical treatment of plant species. 
+8.Replacing experimental animals with the use of biosynthetic tissues is an ethical treatment of 
+research animals 
+Part II. Multiple-choice Test Items 
+Instructions: Choose the correct answer from the given alternatives.
+1.   Biotechnology is a technology that utilizes ____ to develop different products. 
+A.Biotech                                          C. A and B 
+B.Biological systems                        D. All  
+2. The system of manufacturing biological elements is ______. A. Synthetic biology                         C. Environmental biology 
+B.Plant biology                                 D. Animal biology 
+3.The device used to collect geographical data or information is _____. 
+A.CIT scans                                     C. Microscope 
+B. GPS                                            D. X-ray 
+4.The sum of techniques, skills and processes used in the production or delivery of services is 
+A.Biology                                         C. Technology  
+B.Biochemistry                                 D. Genetic engineering 
+5.The influences of biological and technological products against on society and nature are 
+A.Benefits of biology and technology  
+B.The advantages of biology and technology 
+C.Development of biology and technology  
+D.Impacts of biology and technology 
+6.An instrument used to measure human body temperature is __ ____.
+A.Microscope                                   C. Barometer  
+B.Thermometer                                D. CT scan 
+7. What are industrial wastes? 
+A.Effluents                                      C. Air pollution  
+B.House wastes                               D. Vehicle wastes 
+     8. Soil fertilizers can cause __________.  
+A.Toxicity B)                                     C. A and B  
+B.Biohazards                                      D. All 
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 18
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+9.Designing technologies from the nature is through
+A.Sketching                                      C. Drawing 
+B.Imitation                                       D. Photographing 
+10.Plants have 
+A.Centralized function systems        C. Decentralized function systems  
+B.Brain led functional systems         D. All system units are not functioning 
+Part III. Essay questions 
+Direction: Write a short answer to each question
+1.Explain what and how humans learn from nature. 
+2.Describe the importance of biological systems to design technologies. 
+3.What are the ethical issues of biology?  
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  19
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Unit Two: Animals 
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 20
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+2.1. Characteristics of animals 
+Think about all the animals in your environment. They may be domestic animals, wild animals, or 
+animals in zoos and sanctuaries. There are diverse groups of animals in the world. 
+In previous grades, you have learned about the 
+types of cells (prokaryotes and eukaryotes) and the characteristics of animals and plants. Do you 
+remember? We hope that you do. This unit provides you with a review of the characteristics of 
+animals and details of reproduction in some sampled animals.  
+Unit learning outcomes
+After the successful completion of this unit , the student will be able to: 
+Describe the characteristics of animals.  
+Differentiate between vertebrates and invertebrates
+Compare and cont rast reproduction in vertebrates.
+Evaluate the economic importance of animals (insects) in agriculture, food, 
+industry, health, and medicine
+Explain animal behavior 
+Discuss  the types and patterns of animal behavior
+Discuss homeostasis in animals: thermoregulation, osmoregulation and sugar 
+balance 
+Appreciate the work of a renowned zoologist in Ethiopia or in your locality
+What are the characteristics of animals? 
+Mention it as much as you can. 
+After the successful completion of this 
+section, the student will be able to:
+List the characteristics of animals  
+Explain the comm on characteristics of 
+animals 
+Self- questioning  
+Before starting this section, ask yourself this 
+question: “What Characteristics of animals do I 
+know and what do I want to learn from this 
+section?”
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  21
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Animals are eukaryotic, multicellular, heterotrophic, and sensitive to stimuli; and they reproduce, 
+protect themselves, move, respire, excrete, grow, and have different body symmetries. 
+Although animals have such common characteristics, they also have characteristics that distinguish 
+one group from another. Animals can be categorized into two major groups based on the presence 
+or absence of a backbone: vertebrates and invertebrates. Vertebrates are further classified into homeothermic (warm-blooded) animals that include mammals and birds, and poikilothermic (cold-blooded) animals that include fish, reptiles, and amphibians. Invertebrates are also classified into 
+porifera , platyhelminthes, cnidaria,  arthropoda, Annelida, echinidermata, and mollusca. Arthropods 
+are again classified into crustacea, spiders, insects, and many-legs as shown below (Figure 2.1) . Inquiry activity 2.1 Studying characteristics of animals
+Think of the characteristics of animals. What are the most common characteristics 
+of animals ? Share your experience with a classmate near to you. Be in a group, 
+search from li brary and the internet about the characteristics of animals, discuss 
+and present it to the class in relation to the following characteristics.
+Eukaryotic                                                  Respiration                    Protection  
+Body symme try                                         Excretion                       
+Reproduction
+Multicellularity                                          Sensitivity                      Motility 
+Nutrition -heterotrophs                              Growth 
+                                               
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 22
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Figure 2.1 Classifications of animals 
+In this unit we are not able to discuss all of these groups in detail. We will focus on the general 
+characteristics and reproductive cycles of the two major groups, invertebrates and vertebrates, 
+using some examples from mammals, birds, reptiles, amphibians and insects.
+2.2. Invertebrates and Vertebrates 
+Self-questioning 
+Before starting this section, ask 
+yourself this question: “What do I 
+know about vertebrates and 
+invertebrates and what do I want 
+to learn?”
+After the successful completion of  
+this section, the student will be able to:
+List the main characteristics of 
+invertebrates and vertebrates.
+Compare invertebrates with vertebrates' characteristics
+.
+Animals
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  23
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+2.2.1 Invertebrate Animals 
+Invertebrates are animals that do not have a backbone or vertebral column. This group of animals 
+is the most diverse group of animals in the world. 
+They are found almost everywhere, from the hottest 
+deserts and the deepest seabeds to the darkest caves and the highest mountains. 
+ Invertebrate animals lack a rigid internal skeletal 
+system. Many invertebrates are soft -bodied. 
+However, some of them have an external 
+skeleton called an exoskeleton , usually made of 
+chitin, which protects their soft inner bodies. 
+Invertebrates are cold -blooded, and hence, do 
+not regulate their body temperature. This group 
+includes earthworms, insects, spiders, snails, 
+sponges, jellyfish, l obsters, crabs, sea stars, and 
+squid .
+2.2.2 Vertebrate Animals 
+Vertebrates are the most advanced groups in the animal kingdom. They are a highly advanced group of animals. 
+These groups of animals possess a well-defined internal 
+skeleton system with cartilage and a backbone or vertebral column separated into an  axial skeleton 
+(skull, vertebrae, ribs and sternum) and appendicular skeleton (girdles and appendages). The skull 
+and vertebrae protect the highly dev eloped brain and the 
+nerve cord respectively.
+Vertebrates have more complex and specialized organ 
+systems such as the circulatory systems, respiratory systems, nervous systems, and excretory systems. The circulatory 
+system is a closed circulatory system with a ventral heart 
+having 2-4 chambers and a median dorsal artery. The respiratory system consists of either gills or lungs. They have a centralized nervous system with a brain and sensory 
+organs (eyes, ears, nostrils). Inquiry activity 2.2 Studying 
+invert ebrates
+Observe your surroundings and identify 
+invertebrate animals. Discuss other 
+common/unique characteristics they have 
+other than the lack of backbone you 
+observed.
+Inquiry activity 2.3 
+Studying vertebrates
+Observe your surroundings and 
+identify vert ebrate animals. 
+Discuss what other common or 
+unique characteristics they have 
+other than the backbone.
+How do invertebrates differ from 
+vertebrates? Explain.How do invertebrates differ from 
+vertebrates? Explain.
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 24
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+The excretory system of vertebrates consist of paired kidneys. They have bilaterally symmetrical. 
+This group includes mammals, birds, fish, reptiles, and amphibians. 
+Vertebrates such as fish, reptiles, and amphibians are cold-blooded abimals, whereas birds and 
+mammals are warm-blooded animals (see homeostasis in the next section). All vertebra tes are 
+chordates, but not all chordates are vertebrates. Why? What are chordates?
+2.3 Reproduction in Animals 
+Reproduction is one of the common characteristics of animals that enable them to ensure the continuity of their species. Thus, reproduction is the process by which living organisms duplicate 
+themselves.  
+There are two types of reproduction in animals. These are 
+asexual reproduction  and sexual reproduction.
+Although the majority of animals undergo sexual Inquiry activity 2.4 Comparing invertebrates and vertebrates
+Based on the result of your study in activities 2.2 and 2.3 above, discuss the 
+difference between vertebrate and invertebrate animals using the following features such as backbone, exoskeleton, body symmetry, circulatory system, nervous system, mode of nutrition, and reproduction with exam ples. Use a 
+table to compare and contrast. 
+After successful completion this section, 
+the student will be able to:
+Examine reproduction in invertebrate and 
+vertebrate animals. 
+Discuss complete and incomplete 
+metamorphosis. 
+Describe how rats, birds, fro gs, and 
+crocodiles reproduce.
+Compare and contrast reproduction in rats, 
+birds, frogs, and crocodiles.
+Self-questioning
+Before starting this section, ask 
+yourself this question: “What do I 
+know about reproduction in animals 
+and what do I want to learn from this 
+section?”
+What is reproduction? How do 
+animals reproduce? What is its 
+significance?
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  25
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+reproduction and have similar forms of development, a few groups of animals also undergo asexual 
+reproduction.  
+2.3.1. Asexual reproduction in animals 
+As you have learned in previous grades, asexual reproduction is a type of reproduction that involves 
+a single individual and does not require the fusion of gametes from two parents. Asexual 
+reproduction in animals is more common among invertebrates than in vertebrates. Budding and 
+fragmentation are the most common forms of asexual reproduction especially in aquatic animals. 
+ The other form of asexual reproduction in animals is parthenogenesis. In this type of reproduction, 
+unfertilized eggs develop into new offspring as in some insects and vertebrates 
+2.3.2 Sexual reproduction in animals 
+In previous grades, you learned that sexual reproduction is a type of reproduction that involves two 
+individual parents and requires the fusion of gametes from two parents (male and female). It 
+produces offspring that have genetic material from both parents. The parents are diploid organisms 
+with a complete set of chromosomes (2n). 
+Sexual reproduction involves different male and female reproductive structures with different 
+functions. One of the most important functions is the production of haploid cells called gametes (n) 
+for the transmission of genetic information from parents to offspring. 
+In sexual reproduction, males produce sperm and haploid cells (n) in the testes where sperm cells 
+are stored in the epididymis until ejaculation. On the other hand, females produce 
+an ovum or egg haploid cell (n) that matures in the ovary and the fusion of sperm cells with female 
+gametes produces a zygote through the process of fertilization. There are two types of fertilization: Inquiry activity 2.5 Studying a sexual reproduction
+Be in groups and search from the library or internet and  
+1.Discuss in class the following forms of asexual reproduction: budding, 
+fragmentation, parthenogenesis, etc. with specific examples of animals that undergo 
+this type of reproduction.
+2.What common features have you observed in budding, fragmentation and 
+parthenogenesis as a form of asexual reproduction?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 26
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+external and internal. In the next section, we shall see the similarities and differences between 
+external and internal fertilization.
+In animals that use internal fertilization, the eggs are released from the ovary into the uterine 
+tubes for fertilization, but eggs are released into the aqueous environment in animals that use external fertilization. The fertilization of an egg by sperm produces a single-celled diploid fertilized egg called a zygote (2n), which develops into an embryo and then into an individual organism. The 
+general animal life cycle in sexual reproduction is shown below (Figure 2.2).  
+Figure 2.2 Sexual reproduction and life cycle of animals 
+After fertilization, a series of developmental stages occur in embryonic development (Figure 2.3). 
+The first stage is cleavage, which involves a series of mitotic cell divisions of the fertilized egg 
+(zygote). This cell division results in an eight-celled structure. The second stage is another cell division and rearrangement of cells into hollow structures called blastulae. Then, the blastula 
+undergoes further cell division and rearrangement with the process called gastrulation.  
+The process of gastrulation produces a gastrula that has different cell layers called “germ layers”. 
+By the process of organogenesis, these germ layers later develop into different tissue types, organs, and organ systems. Organogenesis is the formation of organs during embryonic development. The 
+embryo eventually develops into an adult with all tissue types, organs, and organ systems.
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  27
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Figure 2.3 Embryonic development 
+The next section deals with sexual reproduction in animals some sampled animals.  We shall focus 
+on the sexual reproduction of insects from invertebrate animals and frogs, crocodiles, birds and rats 
+from vertebrate animals. 
+2.3.3 Reproduction in insects (compl ete and incomplete metamorphosis )
+Insects that constitute the most diverse groups of animals arethe largest class of the phylum 
+Arthropoda (the animal phylum) .They have segmented bodies, jointed legs, and external skeletons 
+(exoskeletons). 
+Insects include flies, grasshoppers, lice, butterflies, bees, and beetles, to mention some of them. 
+They undergo sexual reproduction and have their own life cycle. The following figure shows an 
+example of the male and female reproductive structure of the honeybee (Figure 2.4). 
+Inquiry activity 2.6 Investigating reproduction in animals
+Be in groups and search from library or the internet about reproduction in 
+animals and :
+1.Compare and contrast asexual and sexual reproduction in animals.
+2.Compare internal and external fertilizat ion in animals with sexual 
+reproduction
+3.Why internal fertilization is more advantageous for land animals as 
+compared to aquatic animals? 
+4.What major features are associated with internal fertilization in animals?
+5.Compare the advantages of sexual reproducti on over asexual 
+reproduction
+6.Define  zygote, cleavage, blastula and gastrula 
+7.How tissues, organs and organ systems develop from germ layers, 
+discuss and present it to the class. 
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 28
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Figure 2.4 Reproductive structures of the honeybee 
+Inquiry Activity 2.7 Examining reproductive structures of the 
+honeybee
+Be in group sand search from the library or internet about the function of each male 
+and female reproductive structures asindicated in Figure 2.4 above .  
+During sexual reproduction, eggs are usually fertilized internally. However, some insects undergo 
+parthenogenesis, a process in which an individual develops from unfertilized eggs.  
+In sexual reproduction, the male produces 
+sperm and fertilizes the egg produced by the female during mating. After fertilization, the female insect lays eggs and hatch es them 
+after completing their development.  
+After hatching, insects undergo a series of 
+major changes in body structure as the y 
+develop. This series of changes is called 
+metamorphosis. Chemical substances in the 
+insects control the process of metamorphosis. 
+There are two types of metamorphosis:  
+Figure 2.5 Complete metamorphosis in honeybees 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  29
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+complete metamorphosis and 
+incomplete metamorphosis (Figures 2.5 and 2.6). Complete 
+metamorphosis has four stages 
+whereas in complete metamorphosis has three stages. For instance, in 
+honeybees, the four stages of
+complete metamorphosis are egg, 
+larva, pupa, and adult and in 
+grasshoppers, the three stages of
+incomplete metamorphosis are egg, 
+nymph, and adult.
+Figure. 2.6 Incomplete metamorphosis in grasshoppers  
+2.3.4 Reproduction in Frog 
+The common frog ( Rana temoraria ) is the most common in Europe. The grass frog genus 
+Ptychadena goulenger is found throughout sub -Saharan Africa, including Ethiopia. Frogs such as
+Ptychadena harenna and Leptopelis ragazzi are found in the Bale Mountain sand Shoa forests , 
+Ethiopia . 
+Frogs undergo sexual reproduction and have male and female reproductive structures. The 
+following figure shows the male and female reproductive structures in frogs (Figure 2.7). 
+Inquiry activity 2.8 Examining reproduction in grasshopper and 
+metamorphosis
+Be in groups and search for information about:
+1.Reproductive structures and functions of grasshopper
+2.The definition of each stage, as well as the similarities and differences 
+between the two types of metamorphosis. 
+3.Which chemical substance controls met amorphosis? How? 
+4.After discussion, use a table to help you compare and contrast 
+incomplete metamorphosis and complete metamorphosis.
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 30
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Figure 2.7 male (left) and female (right) reproductive structure in frog 
+Inquiry activity 2.9Examining reproductive structure of frog
+Be in a group a nd search from the library or the internet about the function of the
+male and female reproductive structures of frogs indicated in Figure 2.7 above .  
+Unlike birds, frogs do not produce amniotic eggs. 
+Rather, they are usually covered in a jelly-like substance (Figure 2.8). What is the function of the jelly-like substance in frogs? They must lay their eggs 
+in water to protect them from drying out. Frogs have 
+external fertilization. However, internal fertilizationalso occurs in a few species of frogs . Unlike internal 
+fertilization, in external fertilization, the female 
+releases eggs from her body into the water and the 
+male releases his sperm to fertilize the eggs. 
+Usually, frogs lay a large number of eggs in the same place at the same time.  
+Inquiry activity 2.10 
+Investigating external fertilization 
+Be in groups:
+Investigate the disadvantages of 
+external fer tilization in frogs. How do 
+they overcome this disadvantage? What 
+is the advantage of laying a large 
+number of eggs?
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  31
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Figure 2.8 Frog E ggs surrounded by “jelly ”
+In a process called metamorphosis, after the 
+fertilization of an egg by sperm, frogs go through a 
+larval stage that is very different from the adult form. The fertilized eggs develop into a larval stage called a tadpole that is different from the adult frog 
+(Figure 2.9). 
+Figure 2.9 The life cycle of a frog 
+2.3.5 Reproduction in Crocodil es  
+Crocodilians are large semi-aquatic reptiles that live in different parts of the world. Crocodiles 
+reproduce sexually involving both male and female parents. The male and female reproductive 
+structures of crocodiles are shown in the figure below (Figure 2.10 ).
+Inquiry activity 2.11 
+Investigating metamorphosis
+Be in groups:
+Investigate metamorphosis in frog. How 
+does it occur? What controls the process? 
+What is the difference between a tadpole 
+and an adult frog?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 32
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Figure 2.10 male and female reproductive structure in crocodile
+Inquiry activity 2.12 Examining reproductive structures of crocodiles
+Be in group and search from library or internet about the function of each male and 
+female reproductive structures as indicated in the Figure 2.10 above .  
+The mating season for crocodiles usually begins in 
+July or August and mating takes place under water. 
+During mating, the sperm fertilizes the egg and 
+develops in the female. They have internal fertilization. They lay their eggs and bury them in 
+sand or deposit them in mound vegetation.  
+The number of eggs a crocodile deposits varies from 
+10 to 100, which generally depends on the type of species (Figure 2.11). Unlike frogs, crocodiles have 
+hard, leathery eggs that enable them to protect the ir
+young.
+Inquiry activity 2.13 
+Investigation
+Be in groups and investigate to find 
+answers to these questions.1.Do you think that all of the eggs of the crocodile can be hatched and will 
+survive? If not, why? 
+2.What advancements or adaptations do 
+crocodiles’ reproductive systems have over frogs? 
+Be in groups and investigate to 
+answer these questions
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  33
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Figure 2. 11 The life cycle of a crocodile 
+2.3.6 Reproduction in Birds 
+At your home, you know that chickens lay eggs. Chickens are one 
+group of birds. Similar to other animals, reproduction in birds is 
+one of the key processes that enables birds to 
+produce new individuals and perpetuate their species. Birds 
+reproduce sexually and have internal fertilization. Most bird 
+species are monogamous but there are also polygamous species. Monogamous is usually a mating system between  a single adult male and a single adult female  for entire breeding seasons,  whereas  polygamous isa mating system 
+with several partners during a single breeding season. 
+The male and female reproductive structures of birds are shown below (Figure 2.12). 
+How does the male transfer 
+the sperm to the female for fertilization can occur?
+Inquiry activity 2.14
+Be in groups and discuss the 
+following questionWhat is the significance o f the 
+difference between monogamous
+and polygamous
+species in 
+birds?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 34
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Figure 2.12 The reproductive structures of Male and female birds
+Inquiry activity 2.15 Examine reproductive structures of birds
+Be in group sand search from the library or internet about the function of themale 
+and female reproductive structures of birds indicated in Figure 2.12 above .  
+Unlike other animals, male birds do not have external genital organs whereas females have a single 
+ovary. Reproduction in birds starts by the joining of an egg or ovum with a sperm cell in the 
+oviduct. The ovum which is produced in the ovary and travels down through the oviduct for 
+fertilization to occur. The oviduct consists of the infundibulum, magnum , isthmus, uterus, and 
+vagina (Table 1).
+Table 2.1 Parts of oviduct and functions 
+Parts of the 
+oviduct Nature and Functions
+Infundibulum A funnel -shaped upper portion of the oviduct 
+Its purpose is to search out and engulf the yolk, causing it to 
+enter the oviduct.
+Magnum It isthe longest part of the oviduct.
+Secretion of albumen: nearly all the egg white is deposited in 
+the magnum.
+Isthmus It is the relatively short portion of the oviduct
+Formation of shell membrane -inner and outer shell 
+membranes
+The glands of the isthmus produce sulfur -containing amino 
+acids that are important for shell membrane formation.
+Uterus Developing an egg takes a longer period of time.  
+Formation of eggshell -shell is formed over shell membranes.
+Vagina The f inal se ction of the oviduct is the vagina, which is 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  35
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Parts of the 
+oviduct Nature and Functions
+separated by a sphincter presents in between the uterus and 
+the vagina 
+During oviposition, relaxation of the muscles allows the egg 
+to leave the uterus, and it is almost immediately laid through 
+the cloaca. 
+Both male and female birds have a structure called the cloaca. During mating, the male brings its 
+sperm to the female cloaca, and the sperm from the male cloaca fertilizes the egg. The fertilized 
+egg travels down to the uterus, forming a layer of albumen around it, which is followed by the shell membranes in the uterus (Figure 2.13). Then, the hard-shelled egg develops within the female with 
+a fluid-filled amnion, a thin membrane forming a closed sac around the embryo. 
+ Figure 2.13 Structure of the oviduct and egg development in bird reproduction  
+Birds lay eggs after the egg completes its development. The number of eggs a bird lays varies from 
+a few to more than 10, depending on its species. For example, penguins and albatrosses lay few 
+eggs, but chickens and ducks can lay more than 10 eggs. The egg of a bird has different parts. The 
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 36
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+major parts of the egg of a bird are the yolk, the chalaza, the albumen, the membranes, air sac and 
+the shell (see Figure 2.14) . 
+Figure 2.14 The egg structure of a b ird
+Incubation: incubation or brooding is the process of keeping eggs warm with body heat while the 
+embryos inside continue to develop after birds lay their eggs (Figure 2.15). In most cases, the 
+female parent incubates the eggs, although males sometimes participate. When a breeding season 
+approaches, the female will develop a brood patch to help transfer heat effectively. This brood 
+patch has an area of skin with densely packed blood vessels that produces more heat and facilitates 
+heat transmission to the egg. The brood patch will disappear at the end of the breeding season. 
+Birds rotate their eggs periodically to ensure an even distribution of warmth. This helps the embryo 
+to finish its development inside the egg (Figure 2.16).
+Inquiry activity 2. 16 Investigating reproduction in chickens
+Be in groups, 
+1.Describe reproduction in chickens; count the number of eggs chickens can 
+lay at your home (if any) or visit nearby poultry farm and report to your classmate. Is there any difference in the number of eggs you counted from 
+different chickens or among your classmates? What factors, do 
+you think, 
+determine the number of eggs? Why hens do lay eggs without rooster?
+2.Bring an egg into a laboratory, and examine its structures and functions. 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  37
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Figur e 2.15 An incubation in birds                  Figure 2.16 Developing embryo   
+Hatching: After incubation, the embryo completes its development and hatching occurs. During 
+hatching, the chick develops a tooth- like structure at the beak’s tip to break the eg gshell. Moreover, 
+the chick also communicates with its parents a day or two before hatching, with parents with some 
+vocal sounds. The chick then starts to use the hard tip of its bill, a tooth-like structure called an egg 
+tooth, to break out of the egg, and the young lose the egg tooth after hatching (Figure 2.17).
+Figure 2.17 Hatched eggs  
+Parental Care in Birds: One of the methods 
+bird use to protect their young is by building 
+nests. Birds make nests in areas that are hidden 
+in order to avoid predators. Some birds do not 
+use nests. They simply lay their eggs on bare cliffs. Birds that make nests in an open area have 
+camouflaged eggs.           
+ While the parental care of offspring lies on one or both parents,  the length and type of parental 
+care varies widely amongst different species of birds (F igure 2.18). In some species, parental care 
+Inquiry activity 2.17
+Discuss in your group to answer this 
+question: Why do you think are eggs laid in 
+so many different colors?  What are 
+camouflaged eggs? How does this help to 
+protect the eggs?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 38
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+ends at hatching. Accordingly, the newly hatched chick digs itself out of the nest mound without 
+any parental help and can take care of itself right away. Other species care for their young for an 
+extended time. 
+Figure 2.18 African Paradise Flycatcher caring for chicks 
+2.3.7 Reproduction in rat 
+Rat(genus Rattus ) is the name generally applied to numerous members of several rodent families. 
+The black rat ( Rattus rattus ) and the brown rat ( Rattus norvegicus ) are among the most common 
+types of rats species. They live virtually everywhere that human populations have settled; the black 
+rats is predominantly live in warmer climates, and the brown rats are dominantly found in  the 
+temperate regions. Giant Mole rat ( Tachyoryctes macrocephalus ), also known as the giant root rat, 
+is endemic to Ethiopia where it is confined to high altitude shrub and grasslands in the Afro-alpine 
+habitat such as the Bale Mountains.  
+Reproduction in rats is representative of mammalian sexual reproduction. The male reproductive 
+structure of a rat consists testes (singular testis), scrotum seminiferous tubules, epididymis, 
+vasdeferens and penis with bacula (Figure 19a) . Similarly, the female reproductive structure of a rat 
+consists of two ovaries, oviducts, uterine horns and vagina with vulva (F igure 19b). 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  39
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+        Figure.2.19 Reproductive system in rat, male (left) and female (right)  
+Like in other mammals, fertilization of the egg occurs inside the female, and the fertilized zygotes 
+develop in the mother during a gestation period known as pregnancy. 
+Pregnancy and Development: The average pregnancy time or gestation period of a rat varies 
+depending on the species. The gestatio n period for a brown rat is 22 to 24 days, whereas the 
+gestation period for black rats is usually 22 days and the gestation period for giant mole rats is 37-
+49 days. As shown above (Figure 2.3), after fertilization, each zygote divides and forms a hollow 
+ball of cells that further develops into a blastocyst called a blastula. The blastulas travel down the 
+oviducts, implant in the uterine horns, and begin to differentiate into embryonic tissue and extra -
+embryonic tissue. 
+The umbilical cord, a complex system of connecting blood vessels nourishes the embryo from the 
+mother. The placenta transports oxygen from the mother to the embryo and removes waste from 
+the embryo’s environment, and the amniotic sac protects the embryo during pregnancy. 
+Gradually, the embryo forms a neural plate, which later develops into brain and spinal cord, the arm 
+and leg buds become visible, the nervous system pathways develop and the rat gives birth to 
+hairless, deaf with sealed eyelids offspring. Rats normally give birth from 7 to 12 offspring per litter 
+Inquiry activity 2.18 Examine reproductive structures of rats
+Be in groups and1.Search from library or the internet about:
+2.The function of the male and femal e reproductive structures of rat as 
+indicated in Figure 2.19 above. 
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 40
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+on average (Figure 2.20), but the number is fewer than this for giant mole rats. The mother feeds 
+milk and, after 45 days, the young rats are fully weaned and are actively foraging and feeding.  
+The age of sexual maturity also vary depending on species. In brown-black rats, the age of sexual 
+maturity is 3 –4 months old. Giant mole rats become reprod uctively mature when they are 4 -6 
+months old.
+Figure 2.20 Pregnancy and development in rat  
+Parental care in rats : Parental care in mamma ls is often critical for the survival and development 
+of the offspring. Rats build nests to rear their young , called pups or kittens. The pups stay in the 
+nest built by their mother until they are weaned. The female rats care pups regardless of which 
+their true mothers are. If a mother dies, the other females will take over nursing her pups. Male 
+rats do not participate in the parental care.      
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  41
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+                                                      
+Figure 2. 21 Parental care in rat  
+2.4 The economic importance of animals (insects) Inquiry Activity 2.19 Comparing reproduction in animals
+The animals discussed above have some similarities and differences in their 
+reproduction. Be in groups and Search for informat ion from a library or the internet and Compare and contrast 
+reproduction in frogs, crocodiles, birds, and rats and the advancement from frogs to rats in reproduction, for instance, in terms of reproductive structure, fertilization and development, etc. (hint-fertilization, egg laying with internal development).
+After the successful completion of 
+this section, the student will be able to:
+Describe the economic importance 
+of insects in agriculture and food 
+production 
+Explain the economic importance of 
+insects to industry 
+Explain the economic importance of insects i n health and medicine 
+Self-questioning
+Before starting this section, ask yourself 
+this question: “What do I know about the 
+economic and other importance of insects 
+and what do I want to learn from this 
+section?”
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 42
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Insects have plenty of economic importance in the world. You may think that most insects are 
+harmful to us simply because they are pests, but they have very important benefits for human beings and the ecosystem. Insects are the most diverse animals in the world. They have both 
+positive and negative impacts on our economy, our lives, and the ecosystem. While there are 
+many harmful pests, there are also beneficial insects. 
+The following section provides some 
+descriptions of the beneficial, or useful and 
+harmful aspects of insects in agriculture, 
+food, industry, health, and medicine. 
+2.4.1 Beneficial aspects of insects 
+A. Agriculture 
+One of the major activities of  agriculture is crop production. 
+Regarding this, insects provide services to agriculture through pollination and regulation of pests . 
+Pollinators: insect pollinators are flower-visiting insects that forage on flowering   plants to 
+obtain plant-provided food (nectar, pollen). They have the potential to transfer male gametes 
+(contained in pollen) to the female 
+gametes, resulting in pollination.  
+Pollination by insects is an essential 
+activity for the reproduction of  the 
+majority of the world’s flowering plants, including numerous cultivated plant 
+species.  Many plants depend on 
+pollination for seed and fruit production.  For instance, an estimated 35% of crop 
+production yielded in the world is a 
+result of insect pollination.  This has huge economic value in the Inquiry activity 2.20 Investigation
+Be in groups, visit agricultural institutions, 
+industries, health institutions and medical center in 
+your surroundings, and collect evidence with 
+examples of beneficial and the harmful insects. 
+Inquiry activity 2.21 Investigation
+Refer to internet sources or library books or consult 
+with the nearby by experts or offices of agricultural 
+bureaus to search about the role of insects in increasing 
+agricultural productivity and the 
+economic value in terms of money (dollar or birr).
+Remember the lesson on plant reproduction from 
+your previous grade. What is pollination? What is the commercial benefit of pollination? What is the advantage of pollinatio n by insects over artificial 
+pollination? 
+What are the benefits of 
+insects in your locality?
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  43
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+world as well as in the count ry. 
+Pest regulation : Insect predators and parasitoids that attack and feed on other insects, 
+particularly on insect pests of plants are used in pest control . This type pest regulation  is 
+known as a natural biological control, which destroys  harmful insec ts that infect both animals 
+and plants. This natural biological control plays an important role in limiting potential pest 
+populations. 
+Important insects in pest regulation include mantis, lady beetles, ground beetles, rove beetles, 
+flower bugs, lacewings and hover flies. For example, Stagmomantis insects , species of mantis
+feed on grasshoppers and caterpillars that damage crops. Chilomenes ,a ladybird beetle, feed 
+on aphids that damage cotton plants anddestroys scale worms that are pests of orange and 
+lemon trees respectively . Epicauta, a blister beetle, eat up masses of the eggs of locusts
+(Figure 2. 22).
+Figure  2.22 Stagmomantis(left),Cheilomenes sulfurea(middle), Epicauta,  Blister beetle(right) 
+Insects also play a great role in feeding  on unwanted weeds, creating channels for smaller 
+organisms water, air, and roots to travel through to improve soil aeration.  Their activities can 
+enhance  the nutrient cycle and physical properties of the soil, such as soil structure and tilt, and 
+decomposers can help in the biochemical cycling of  nutrients. 
+B. Food 
+Many species of insects are being used as a food for people in many countries. Evidence suggests 
+that edible insects have potential to become a valuable protein source for addressing the global food demand. They are widely recognized as a sustainable source of animal protein. There are over 1,462 recorded species of edible insects in the world. Most insects are consumed in Asia and 
+Central America. Usually crickets, grasshoppers, beetle and moth larvae and termites are eaten 
+there.  
+Being rich source of protein, grasshoppers have been eaten in  many parts of the world. Moreover, 
+insects are important sources of food for many vertebrates, including birds, amphibians, reptiles, 
+fish and mammals.  One of the many ways to address food and feed security for the over increasingly growing world population is through insect farming. Insects are everywhere and they 
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 44
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+reproduce quickly, and they have high growth and feed conversion rates and a low environmental 
+footprint over their entire life cycle. They are nutritious, with high protein, fat and mineral contents 
+and can be reared easily.  
+What is your attitude towards using insects as a food 
+in Ethiopia, particularly in your community?
+C. Industry 
+One of the benefits of insect related to industries is their role in commercial products.  Insects are 
+being used to produce different materials at home and in industries. The following are some of the 
+examples. 
+ Production of Honey and Bee Wax: Honey and 
+wax production are considered some of the 
+commercial benefits of insects. For example, the 
+honeybees ( Apismeliffera L.) produce millions of 
+tons of honey and wax every year around the 
+world.  
+ Production of Silk: The other commercially 
+beneficial insects are silk worms (Bombyx mori and 
+other silk worms). Silkworms produce silk fibers, which are woven into the delicate, smooth material used for luxurious textiles and for different purposes in the textile industry (Figure 
+2.23).
+Figure 2. 23Silkworm (Left)  Silk thread s(Right)
+Production of shellac:  shellac is a resin secreted by Lac insects.  Among the many species of 
+lac insects, Laccifer lacca , is the commercially cultured lac insect. Shellac is still in use as 
+dyes, inks, polishes, sealing waxes, and as stiffening agents in the fabrication of felt hats. It 
+is an animal originated commercial resin. 
+Production of Cochineal: Cochineal pigment is extracted from scale insects such as 
+Dacylopius coccus . The cochineal pigment was important for the intensity and permanency 
+Inquiry activity 2.22 
+Investigation
+Is there silkworm in your area? 
+Investigate the production of silk 
+fiber in Ethiopia. How are silk fibers 
+produced from silkworm?
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  45
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+of colors in painting.  The cochineal pigment is still giving the colors in foods, beverages, 
+cosmetics (lipsticks) and art product. 
+Production of Tannic Acid: Tannic acid is a chemical compound used in  dyeing goods made 
+of leather in leather industries, for tanning and in manufacturing  some inks. Tiny wasps in the family Cynipidae secrete some chemical and in response to this,  the tree produces gall 
+tissues that contain tannic acid.  
+D. Health and medicine
+Some insects have medicinal value in treating different 
+human and animal diseases. Since ancient times, 
+insects and insect -derived products  have been used as 
+medicinal agents in many parts of the world. . For 
+instance, honey is applied to treat burns, chronic and 
+post-surgical wounds. Bee and ant venom are used to 
+treat joints pain. Recent research confirms that bee 
+products promote healthy immune systems, improve 
+circulation and decrease inflammation
+ Blister beetles secrete cantharidan, which acts as a powerful protein blocker in the human body 
+and is effective in treating severe viral infections because it prevents the reproduction of some viral 
+cells. Researchers subsequently discovered that cantharidan reacts with genetic material of hostile 
+cells, and therefore may be useful in the treatment of cancerous tumors most resistant to radiation and chemotherapy. Several African cultures use poultices made from ground grasshoppers as pain 
+relievers, especially for migraines . 
+2.4.2 Harmful aspects of insects 
+Although most insects are beneficial, they can also be harmful 
+to humans and animals. Some insects are pests of plants, fruits, 
+and grains in a store. They feed on several parts of green plants 
+and crops, such as leaves, stems, buds, flowers, fruits, and seeds on fields and in stores at home thereby damaging crops and reducing production. Inquiry activity 2.23 
+Investigation
+In you r community, what insects 
+have medicinal value? Ask the elders 
+in your community and come up with 
+insects or products of insects used to treat different types of human and animal diseases. 
+What are the harmful 
+insects in your locality?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 46
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+These insects include locusts, caterpillars, bugs, 
+hoppers, aphids etc. 
+Locusts are among the most destructive of all insect 
+pests.  Countries have faced threats of swarms of desert locusts.  Consequently, regional and international organizations have started to monitor 
+desert locust populations and launch control 
+measures when necessary. Locusts are particularly destructive in hot and dry regions when there is a sudden increase in their numbers.  The prevalence of food shortage has further forced  them to 
+migrate. They migrate in huge swarms, for several 
+kilometers away devouring virtually every green 
+plant in their path. 
+Some insects are also regarded as serious pests for stored cereal grains. The most common insect 
+pests of stored cereal grains are: Rice Weevil (
+Sitophilus oryzae ); Lesser Grain Borer ( Rhyzopertha 
+dominica ); Rust Red Flour Beetle: ( Tribolium spp.); Sawtooth Grain Beetle: ( Oryzaephilus 
+surinamensis ); Flat Grain Beetle: ( Cryptolestes  spp.) 
+Figure 2. 24 Crops destroyed by desert locusts (left) and other insects (middle and right) 
+Moreover, several insects serve as vectors for transmitting diseases from one organism to another 
+or serve as intermediate hosts for several pathogens and transfer disease from one to another. For 
+example, Anopheles mosquitoes transfer malarial parasites, “ Plasmodium, ” from one person to 
+another. Culex mosquitos spread filariasis and transmit filarial worms from infected to healthy 
+people. The tsetse fly,  Trypanosoma gambiense,  also spreads the African sleeping sickness to the 
+human population. The housefly ( Musca domestica ) spreads food and water-borne diseases to 
+human populations.  
+Inquiry activit y2.24
+Have you seen desert locust 
+destroying crops in different parts of 
+our country? What modern, 
+biological and traditional methods, 
+do you think, can be used to control 
+insects that damage crops? Consult 
+any agricultural professionals in your area and
+calculate the loss of 
+productivity of crops because of 
+locust damage (if it appeared in your 
+area).
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  47
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+Figure 2.25 Anopheles mosquitoes (left) Culex mosquitoes (middle)     Tsetse fly (right)     
+2.5Animal Behavior 
+Animals have different behaviours and 
+behavioral patterns for survival and reproduction . Animal behavior means all 
+the ways in which animals interact with other organisms and the physical 
+environment. It includes the movements of animals, interaction of animals within and with the 
+environment and learning about their environment . 
+2.5.1 Types of Animal Behavior 
+Animals have different behaviors and behavioral patterns. 
+Animal behavior can be categorized into two main types: 
+innate or inherent behavior and learned or acquired behavior. 
+Innate or inherent behavior  
+Innate or inherent behavior is an inborn behavior that is determined by genes and independent of 
+experience and specific to a species. There are three types of innate or inherent beha vior, and 
+these are instinctive, reflexive, and orientative. 
+The following examples are instinctive behaviours in animals.
+After the successful completion of this 
+section, the student will be able to:
+At the end of this section, the student will be able 
+to:
+Define animal beh avior 
+Describe the differences between innate and 
+learned animal behaviors.
+Identify patterns of behavior in animals 
+Self-q uestioning
+Before starting this section, ask 
+yourself this question: “What do I
+know about animal behavior and 
+what do I want to learn from this 
+section?”
+What is behaviour?
+How can we differentiate 
+between different types of 
+animal behavior?
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 48
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                  UNIT 2: ANIMALS  
+Web making in spiders 
+Nest-building in birds 
+Swimming with dolphins and other aquatic species. 
+Opening of mouth in chicks of many bird species when their mother returns to the nest. 
+Honeybees dance when they return to the hive after finding a source of food.  
+The following examples are reflex  behaviours in animals.
+A simple reflex action is a sudden, involuntary response to stimuli. F or example, when you 
+touch a sharp or hot object, you pull your hand away rapidly without even thinking about 
+the action. You blink when something gets too close to your eye and you close your eyes when dust gets into them. These are simple reflex actions. During a reflex action, messages 
+about pain do not travel all the way to and from the brain. Instead, they travel only as far as the spinal cord, and the spinal cord responds to the messages by giving orders to the 
+muscles. This allows you to respond to p ain more quickly.
+The following examples are orientation  behaviours in animals.
+Taxis is directed in relation to a given stimulus .It is the orientation of an animal 
+(directed either towards or away) in response to the source of
+stimulus. If the orientati on is towards the stimulus, it is called as a positive taxis ,and 
+if it is away from the stimulus, it is known as a negative taxis . 
+Example: The movement of cockroaches away from the source of light. 
+What is the difference between phototaxis, 
+chemotaxis, thigmotaxis and geotaxis? Explain with 
+examples. 
+Kinesis is undirected, random movement. Kinesis is a type of locomotory behavior in 
+relation to the source of stimulus. The animal responds to the variation in the intensity 
+ofthe stimulus and not the sou rce or direction of the stimulus.  
+Example: The movement of woodlice in relation to the temperature around them.  
+Learned or acquired behavior  
+Learned or acquired behavior is not inherited 
+and not determined by genes. It is the type of 
+animal behavior acquired during the lifetime of an individual. Learned behavior allows an individual organism to adapt to changes in the 
+environment that are modified by previous 
+experiences. Examples of simple learned behaviors include habituation, classical 
+BIOLOGY GRADE 11                                                                                                  FDRE-MoE ETHIOPIA  49
+
+--- [PAGE BREAK] ---
+
+BIOLOGY GRADE 11                                                                                                                       STUDENT TEXTBOOK
+conditioning, operant conditioning, 
+sensitization, latent and insight learning 
+(Figure 2.26).  
+Habituation is a simple form of learning in 
+which an animal stops responding to a 
+stimulus, or cue, after a period of repeated 
+exposure. This is a form of non-associative 
+learning, in which the stimulus is not linked with any punishment or reward. For example, you were reading a book when someone turned on the television in the same room. At 
+first, the sound of the television might have 
+been annoying. After a while, you may no longer have it noticed. Accordingly, it mean that you have become accustomed to the 
+sound.
+Classical conditioning is a result of 
+associative learning in which a response 
+already associated with one stimulus is 
+associated with a second stimulus to which it 
+had no previous connection. Classical conditioning was discovered by Ivan P. Pavlov, a Russian physiologist. There are 
+three stages of classical conditioning.
+Stage 1:  Before conditioning. This stage 
+states that an unconditioned stimulus (UCS) 
+produces an unconditioned response (UCR) in 
+an individual, which means that a stimulus in 
+the environment has produced a behavior or response which is unlearned (i.e., unconditioned), and therefore it is a natural 
+response which has not been taught. In this 
+case, no new behavior has been learned yet.Stage 2:  During conditioning. During this 
+stage, a stimulus that produces no response is 
+associated with the unconditioned stimulus, 
+due to wh at it is known as a conditioned 
+stimulus (CS). For learning to take place, the 
+UCS must be associated with CS on a number 
+of occasions, or trials at this stage.  . 
+Stage 3:  After conditioning. This conditioning 
+happens once the conditioned stimulus (CS) 
+has been associated with the unconditioned stimulus (UCS) to create a new conditioned 
+response. 
+Operant conditioning  is a result of 
+associative learning in which a bit different 
+from classical conditioning because it does not 
+rely on an existing stimulus-response pair. Instead, whenever an organism performs a behavior or an intermediate step on the way to the complete behavior, the organism is 
+given a reward or a punishment. It was 
+discovered by B.F. Skinner. Based on the theory of operant conditioning, behavior will likely be repeated when the organism is 
+reinforced (rewarded), and behavior will occur 
+less frequently when it is punished.
+Skinner identified three types of responses or 
+operant behavior.
+Neutral operants  are responses 
+from the environment that neither 
+increase nor decrease the probability 
+of a behavior being repeated. 
+BIOLOGY GRADE 11                                                                                        MINISTRY OF EDUCATION, ETHIOPIA 50

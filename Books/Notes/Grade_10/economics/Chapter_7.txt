@@ -1,0 +1,834 @@
+=================================================================
+Book: economics.pdf
+Chapter 7: The Ethiopian Economy �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �
+Pages: 137 to 162
+=================================================================
+
+Unit 7:   An O verview of the Ethiopian Economy129Introduction 
+For about 100 years, the Ethiopian economy experienced changes from market-
+oriented to centrally planned and back again to a market-oriented economy. From 
+the Monarchy up to 1974, the economy was primarily agricultural. The economy was 
+based on a feudal system under which land ownership was highly inequitable with 
+major portions of farmland being in the hands of wealthy landlords and the very few 
+industries that existed were owned by foreigners.
+During the Military Regime (1974 – 1991), the economy shifted to a command 
+economy where socialist principles and ideologies ruled. Substantial land reforms were 
+introduced in the agricultural, industrial and financial sectors. The government owned 
+all the large-scale manufacturing industries, banks and insurance companies. In spite 
+of all these measures, the regime failed to solve Ethiopia’s multifaceted problems. 
+That ended when on May 28th, 1991, the EPRDF marched into Addis Ababa and 
+seized power.
+After the EPRDF assumed power in 1991, the government followed a market-oriented 
+economy. It supported economic reform based on privatization of state enterprises, 
+promotion of agricultural exports and deregulation through a move towards free market 
+of the economy. The move facilitated significant sectoral growth performances.
+With this in mind, this unit the following points will be discussed, “C omponents of 
+Macro-economy (GDP); Overview of the main sectors of Ethiopian economy: The 
+Agriculture sector, Role of the agricultural sector, Structure of the Agricultural 
+Sector; Industry: The role of the industrial sector; Service: The role of the service 
+sector, Components of the service sector; Agriculture versus industrial development, 
+Arguments of industrial sector verses the rest of the economic sectors ”.    
+Unit Objectives
+By the end of this unit, students will be able to;
+6Examine the macroeconomic performance of Ethiopia.
+6Analyze the role and performance of each sector in economic growth.
+6Write a brief report on Ethiopian Economy
+6Compute GDP, NGDP, RGDP and GDP deflatorThe Ethiopian Economy Unit
+7
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy 1307.1 Components of the Gross Domestic Product (GDP)
+By the end of this section, students will be able to;
+6Describe the major components of the macro economy (GDP).
+6Mention the common consumption expenditures by your family. 
+Key Concepts
+Consumption (C) ; Investment (I); Gross Domestic Product (GDP); Export (E); 
+Import (M) ; Government Purchases (G)
+Start Up Activity
+What are the major Components of The Gross Domestic Product (GDP)?
+Review of the components of the Gross Domestic product (GDP)
+Spending in the economy takes many forms. At any moment, the Soressa family 
+may be having lunch at Kaku Mame Restaurant; Haile Motors may be building a 
+car factory; the Ethiopian National Defense Force may be procuring Drones; and 
+Ethiopian Airlines may be buying an airplane from Boeing. GDP includes all of these 
+various forms of spending on domestically produced goods and services. 
+To understand how the economy is using its scarce resources, economists study 
+the composition of GDP among various types of spending. To do this, GDP (which 
+we denote as Y) is divided into four components: consumption (C), investment (I), 
+government purchases (G), and net exports (NX): 
+Y = C + I + G + NX, Where NX =Export(X)-Import(I).
+This equation is an identity—an equation that must be true because of how the 
+variables in the equation are defined. In this case, because each birr of expenditure 
+included in GDP is placed into one of the four components of GDP, the total of the 
+four components must be equal to GDP. Let’s look at each of these four components 
+more closely.
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy131Table 7.1 GDP and its components- Numerical Example
+Component Total (Bill of $) Per Person (in $) Per cent of Total
+Gross Domestic Product, Y $14, 259 $46, 372 100%
+Consumption, C 10, 093 32,823 71
+Investment, I 1,623 5,278 11
+Government Purchases, G 2,933 9,540 21
+Net Exports, NX -390 -1, 269 -3
+              Source: (Mankiw, 2012): 203. 
+i.Consumption
+Consumption  is spending by households on goods and services, with the exception 
+of purchases of new housing. Goods - include household spending on durable goods, 
+such as automobiles and appliances,  and nondurable goods, such as food and clothing . 
+Services-  include such intangible items as haircuts and medical care . Household 
+spending on education  is also included in consumption of services (although one 
+might argue that it would fit better in the next component).
+ii.Investment
+Investment  is the purchase of goods that will be used in the future to produce more 
+goods  and services.  It is the sum of purchases of capital equipment, inventories, 
+and structures . Investment in structures  includes expenditure on new housing . By 
+convention, the purchase of a new house is the one form of household spending 
+categorized as investment rather than consumption. 
+The treatment of inventory accumulation is noteworthy. When Dell produces a 
+computer and adds it to its inventory instead of selling it, Dell is assumed to have 
+“purchased” the computer for itself. That is, the national income accountants treat the 
+computer as part of Dell’s investment spending. (If Dell later sells the computer out 
+of inventory, Dell’s inventory investment will then be negative, offsetting the positive 
+expenditure of the buyer.) Inventories are treated this way because one aim of GDP is 
+to measure the value of the economy’s production, and goods added to inventory are 
+part of that period’s production.
+Notice that GDP accounting uses the word investment differently from how you might 
+hear the term in everyday conversation. When you hear the word investment, you 
+might think of financial investments, such as stocks, bonds, and mutual funds . By 
+contrast, because GDP measures expenditure on goods and services, here the word 
+investment means purchases of goods (such as capital equipment, structures, and 
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy 132inventories ) used to produce other goods.
+iii.Government Purchases
+Government purchases include spending on goods and services by local, state, and 
+federal governments.  It includes the salaries of government workers as well as 
+expenditures on public works. 
+The meaning of government purchases requires a bit of clarification. When the 
+government pays the salary of an Army general or a schoolteacher, that salary is part 
+of government purchases. But when the government pays a Social Security benefit
+to a person who is elderly or an unemployment insurance benefit  to a worker who 
+was recently laid off, the story is very different: These are called transfer payments
+because they are not made in exchange for a currently produced good or service. 
+Transfer payments alter household income, but they do not reflect the economy’s 
+production. (From a macroeconomic standpoint, transfer payments are like negative 
+taxes.) Because GDP is intended to measure income from, and expenditure on, the 
+production of goods and services, transfer payments are not counted as part of 
+government purchases .
+iv.Net Exports
+Net exports equal the value of foreign purchases of domestically produced goods 
+(value of exports ) minus the value of domestic purchases of foreign goods (value of 
+imports ). A domestic firm’s sale to a buyer in another country, such as Haile Motors’s 
+sale of a car to Kenyans, increases net exports. 
+The net in net exports refers to the fact that value of imports is subtracted from 
+the value of exports . This subtraction is made because other components of GDP 
+include imports of goods and services. For example, suppose that a household buys 
+a Birr 300,000 car from Toyota, the Japanese carmaker. That transaction increases 
+consumption by Birr 300,000 because car purchases are part of consumer spending. It 
+also reduces net exports by Birr 300,000 because the car is an import. In other words, 
+net exports include goods and services produced abroad (with a minus sign) because 
+these goods and services are included in consumption, investment, and government 
+purchases (with a plus sign). Thus, when a domestic household, firm, or government 
+buys a good or service from abroad, the purchase reduces net exports, but because it 
+also raises consumption, investment, or government purchases, it does not affect GDP.
+Net Exports = Total Export (E) - Total Import (M)
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy133ĂActivity 7.1
+1. List expenditures from your locality that are included under;
+(First individually and then discuss with your class mate)
+• Consumption (C)
+• Investment (I) 
+• Government Purchase (G)
+•Net Exports (NX)
+•Exports 
+• Imports
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy 1347.2 Real GDP Vs Nominal GDP
+By the end of this section, students will be able to;
+6Differentiate between nominal GDP and Real GDP
+6Calculate the GDP deflator 
+Key Concepts
+Real GDP; Nominal GDP; GDP Deflator
+Start Up Activity
+What comes to your mind when you hear Real GDP and Nominal GDP?
+Real GDP versus Nominal GDP
+GDP measures the total spending  on goods and services in all markets in the economy . 
+If total spending rises from one year to the next, at least one of two things must be 
+true: Either, 
+1.The economy is producing a larger output of goods and services , or 
+2.Goods and services are being sold at higher prices . 
+When studying changes in the economy over time, economists want to separate these 
+two effects.  In particular, they want a measure of the total quantity of goods and 
+services  the economy is producing that is not affected by changes in the prices of 
+those goods and services .
+To do this, economists use a measure called real GDP . Real GDP answers a hypothetical 
+question: What would be the value of the goods and services produced this year if we 
+valued these goods and services at the prices that prevailed in some specific year in 
+the past ? 
+yBy evaluating current production using prices that are fixed at past levels, 
+real GDP shows how the economy’s overall production of goods and services 
+changes over time.
+To obtain a measure of the amount produced that is not affected by changes in prices , 
+we use real GDP, which is the production of goods and services valued at constant 
+prices . We calculate real GDP by;
+1.First designating one year as a base year
+2.Then use the prices of goods and services in the base year to compute the 
+value of goods and services in all the years . 
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy135In other words, the prices in the base year provide the basis for comparing quantities 
+in different years.
+Suppose that we choose 2010 to be the base year in our example. We can then use 
+the prices of Kitfo and Chumbo  in 2010 to compute the value of goods and services 
+produced in 2010, 2011, and 2012. Table 2 shows these calculations. To compute real 
+GDP for 2010, we use the prices of Kitfo and Chumbo  in 2010 (the base year) and 
+the quantities of Kitfo and Chumbo  produced in 2010. (Thus, for the base year, real 
+GDP always equals nominal GDP.) To compute real GDP for 2011, we use the prices 
+of Kitfo and Chumbo  in 2010 (the base year) and the quantities of Kitfo and Chumbo
+produced in 2011. Similarly, to compute real GDP for 2012, we use the prices in 2010 
+and the quantities in 2012. When we find that real GDP has risen from Birr 200 in 
+2010 to Birr 350 in 2011 and then to Birr 500 in 2012, we know that the increase is 
+attributable to an increase in the quantities produced because the prices are being held 
+fixed at base-year levels.
+To sum up: Nominal GDP uses current prices to place a value on the economy’s 
+production of goods and services. Real GDP uses constant base-year prices to place 
+a value on the economy’s production of goods and services. Because real GDP is not 
+affected by changes in prices, changes in real GDP reflect only changes in the amounts 
+being produced. Thus, real GDP is a measure of the economy’s production of goods 
+and services. (Mankiw, 2012).
+Our goal in computing GDP is to gauge how well the overall economy is performing.
+Because real GDP measures the economy’s production of goods and services, it reflects 
+the economy’s ability to satisfy people’s needs and desires. Thus, real GDP is a better 
+gauge of economic well-being than is nominal GDP .  When economists talk about the 
+economy’s GDP, they usually mean real GDP rather than nominal GDP. And when 
+they talk about growth in the economy, they measure that growth as the percentage 
+change in real GDP from one period to another.
+7.2.1 The GDP Deflator
+Nominal GDP reflects both the quantities  of goods and services the economy is 
+producing and the prices  of those goods and services. By contrast, by holding prices 
+constant at base-year levels, real GDP reflects only the quantities produced . From 
+these two statistics, we can compute a third, called the GDP deflator , which reflects 
+only the prices of goods and services.
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy 136The GDP deflator is calculated as follows:
+GDP Deflator = 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 𝐺𝐺𝐺𝐺𝐺𝐺
+𝑅𝑅𝑅𝑅𝑁𝑁𝑁𝑁𝐺𝐺𝐺𝐺𝐺𝐺𝑥𝑥100
+Because nominal GDP and real GDP must be the same in the base year, the GDP 
+deflator for the base year always equals 100. The GDP deflator for subsequent years 
+measures the change in nominal GDP from the base year that cannot be attributable to 
+a change in real GDP.
+The GDP deflator measures the current level of prices relative to the level of prices 
+in the base year. To see why this is true, consider a couple of simple examples. First, 
+imagine that the quantities produced in the economy rise over time but prices remain 
+the same. In this case, both nominal and real GDP rise together, so the GDP deflator is 
+constant. Now suppose, instead, that prices rise over time but the quantities produced 
+stay the same. In this second case, nominal GDP rises but real GDP remains the same, 
+so the GDP deflator rises as well. Notice that, in both cases, the GDP deflator reflects 
+what’s happening to prices, not quantities.
+Let’s now return to our numerical example in Table 7. 2. The GDP deflator is computed 
+at the bottom of the table. For year 2010, nominal GDP is Birr 200, and real GDP is 
+Birr 200, so the GDP deflator is 100. (The deflator is always 100 in the base year.) For 
+the year 2011, nominal GDP is Birr 600, and real GDP is Birr 350, so the GDP deflator 
+is 171.
+Economists use the term inflation  to describe a situation in which the economy’ s overall 
+price level is rising.  The inflation rate is the percentage change in some measure of 
+the price level from one period to the next. Using the GDP deflator, the inflation rate 
+between two consecutive years is computed as follows:
+Inflation rate in year 2 = 𝐺𝐺𝐺𝐺𝐺𝐺 𝐺𝐺𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 𝑖𝑖𝑖𝑖𝑌𝑌𝐷𝐷𝐷𝐷𝐷𝐷 2− 𝐺𝐺𝐺𝐺𝐺𝐺 𝐺𝐺𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 𝑖𝑖𝑖𝑖𝑌𝑌𝐷𝐷𝐷𝐷𝐷𝐷 1
+𝐺𝐺𝐺𝐺𝐺𝐺 𝐺𝐺𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 𝑖𝑖𝑖𝑖𝑌𝑌𝐷𝐷𝐷𝐷𝐷𝐷 1𝑥𝑥100
+Because the GDP deflator rose in year 2011 from 100 to 171, the inflation rate is       
+100 × (171 – 100)/100, or 71 percent. In 2012, the GDP deflator rose to 240 from 171 
+the previous year, so the inflation rate is 100 × (240 – 171)/171, or 40 percent.
+The GDP deflator is one measure that economists use to monitor the average level of 
+prices in the economy and thus the rate of inflation. The GDP deflator gets its name 
+because it can be used to take inflation out of nominal GDP—that is, to “deflate” 
+nominal GDP for the rise that is due to increases in prices. We examine another 
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy137measure of the economy’s price level, called the consumer price index, in the next 
+chapter, where we also describe the differences between the two measures.
+Table 7.2 Real and Nominal GDP- Example
+Prices and Quantities
+Ye ar Price of Kitfo Quantity of 
+KitfoPrice of 
+ChumboQuantity of 
+Chumbo
+2010 Birr 150 100 Birr 250 50
+2011 180 150 350 100
+2012 200 200 400 150
+Given the above hypothetical data, calculate the nominal and real GDP;
+Calculating Nominal GDP
+2010 150*100= 15,000 250*50= 12,500 27,500
+2011 180*150 = 27,000 350*100= 35,000 62,000
+2012 200*200= 40,000 400*150= 60,000 100,000
+Calculating Real GDP (base year 2010)
+2010 150*100= 15,000 250*50= 12,500 27,500
+2011 150*150= 22,500 250*100= 25,000 47,500
+2012 150*200= 30,000 250*150= 37,500 67,500
+Calculating the GDP Deflator
+2010 (27,500/27,500) *100= 100 250*50= 12,500 GDP Deflator= 
+(NGDP/RGDP) *100 2011 (62,000/47,500) *100= 131 250*100= 25,000
+2012 (100,000/67,500)*100= 148 250*150= 37,500
+Source: Customized from (9): 204.  
+ĂActivity 7.2
+Taking three consecutive years from this year backwards, and taking two 
+commonly used commodities in your area;
+1.Calculate Nominal GDP
+2.Calculate Real GDP
+3. Calculate the GDP deflator
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 1387.3 The Agricultural Sector in the Ethiopian Economy
+At the end of this section, students will be able to;
+6Describe the main sectors of the Ethiopian Economy
+6Examine the forward and backward linkages of the agricultural sector;
+6Assess the role of the agricultural sector in Gross Domestic Product and in 
+the creation of employment.
+6Analyze the structure of the agricultural sector of Ethiopia, 
+Key Concepts 
+Agricultural sector; Forward linkage; Compulsory delivery; Backward Linkage ; 
+Household size; Small holder farmer; Price incentive
+ĂStart Up Activity
+ What comes to your mind when you hear agricultural sector in Ethiopia?
+According to NBE, 2019/20 annual report data, agriculture’s share in GDP  has 
+decreased form 40% to 33%, Industry’s share in GDP has increased from 21% to 
+29% and service sector’s share in GDP  has almost been 40%  over the six years from 
+2014/15 to 2019/20. 
+For decades, agriculture has been the backbone of the Ethiopian economy. Hence its 
+performance determines the economic well-being of the people. Also, many other 
+economic activities, including transportation and manufacturing, rely heavily on the 
+agricultural sector.
+Main Features of the Agricultural Sector: Agriculture contributes about 45% of the 
+overall GDP of the country; generates more than 80% of export earnings; employs 
+about 85% of the population; and supplies about 70% of raw materials to the secondary 
+activities (Central Statistics Office, 2006). The agricultural sector produces both 
+crops and livestock. The crops produced include food crops, cash crops, fruits, and 
+vegetables. It constitutes the greatest share of the country’s GDP and export earnings 
+when compared to the livestock production. (Belayneh, Weldeselassie, Legesse, 
+Tasew, Denu, & Bansal, 2011). 
+Major Problems of the Sector:
+•	Frequent drought,
+•	Soil degradation largely caused by overgrazing and overpopulation,
+•	Land fragmentation, 
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy139•	Prevalence of backward agricultural practices,
+•	Poor marketing facilities due to poor road networks, etc.
+•	Rapidly increasing prices of agricultural inputs like fertilizers etc.
+ Roles of the Agricultural Sector
+It is apparent that agriculture is the backbone of the Ethiopian economy, as you can see 
+from the important roles it plays, as discussed in the following sections.
+I . It is a source of food and raw materials
+One of the main roles of agriculture in the Ethiopian economy is being the source 
+of food and raw materials. For example, agriculture supplies the country with food 
+grains, dairy and meat products. A productive agricultural sector provides relatively 
+abundant food and raw materials to the population.
+Backward linkages:  an efficient/productive agricultural sector supplies food and raw 
+material to the industrial sector and its labor force. In turn, it has to be supplied with 
+modern inputs and technologies to cope with responding to the growing demand of 
+the non-farming and farming population. Without such support, the agriculture sector 
+appears weak and non-supportive. It may even risk its own population facing food 
+insecurity.
+Furthermore, productivity in the agricultural sector improves the level of income 
+received by rural people. Increased income of rural people is believed to generate 
+increased demand for manufactured goods from the industrial sector.
+Forward linkages:  productivity in the agricultural sector can promote the following 
+forward linkages. First, it reduces the cost of living in the industry- based/urban areas 
+which, in turn, reduces the pressure on wages and makes industrial profit higher. 
+Second, increasing the provision of raw materials reduces the cost of raw materials 
+and makes industrial profits higher. These two factors can contribute significantly to 
+increasing industrial savings and investment that leads to the promotion of the sector.
+II . It is a source of capital
+Although the agricultural sector provides meager surpluses of savings and taxes to 
+support investment, the transference of surplus from the agricultural sector to other 
+sectors is made through the following three modalities:
+•	tax;
+•	defining the terms of trade to protect domestic agriculture by imposing price 
+controls on agricultural products, and
+•	Compulsory delivery of agriculture commodities at very fixed prices.
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 140The question is how much surplus should be transferred. In this regard, two opposing 
+views can be discussed. One is that agriculture does not require large amounts of capital 
+for its expansion. The other view is that the investment requirements for agricultural 
+transformation are so large that there may be a need for a net flow of capital from non-
+agriculture to agriculture.
+The Derg regime removed a great deal of surplus from the agricultural sector to supply 
+both the urban consumers and its huge army with cheap foodstuffs. However, this 
+surplus was used ineffectively. This indicates that the potential of the agricultural 
+sector to produce surplus that could be transferable to the other sectors could be high.
+III . It contributes to Gross Domestic Product
+Over the last four decades, the share of agriculture and allied sectors (fisheries and 
+forestry) to the national GDP has been declining. The percentage share declined from 
+76 percent in the early 1960s to 45 percent in 2003/04. Consequently, it has been the 
+major source of fluctuations in the Ethiopian economy.
+IV . It contributes to employment
+More than 80% of the Ethiopian populations earn their livelihood from agriculture 
+(crop cultivation and livestock rearing activities). High population growth and low 
+urbanization have been an increasing major challenge to this sector that it could not 
+absorb the growing surplus labor force. Neglect or less attention to urbanization 
+and non-farm sector development has put the farm sector under a growing pressure. 
+Nevertheless, it supports a large percentage of the labor force.
+In the face of the increasing scarcity of other resources, particularly agricultural land, 
+measures should be taken to improve labor productivity in the agriculture sector.
+ Structure of the Agricultural Sector
+i.Farming Systems in Ethiopia
+The agricultural sector of Ethiopia is composed of the crop-production, livestock, 
+forestry, and fishery sub-sectors. About 65% of the sector’s GDP comes from crop-
+production, while animal husbandry contributes 25%. The remaining 10% is generated 
+from the allied sectors, forestry, fishing and others.
+The national 2001/2002 Sample Agricultural Figures provides some data on the major 
+agricultural production system. The report has identified three categories of farms. 
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy141Currently, the following farming systems are widely practiced in Ethiopia.
+a. The smallholder farming system,
+b. The pastoral/nomadic system, and
+c. The modern commercial farming system.
+a. The small holder farming system
+It is the most important or dominant system. It accounts for more than 90 percent 
+of the agricultural production and for about 95 percent of the total area under crop 
+production. It is characterized by mixed farming.
+The total numbers of households in this category were estimated to be about 10.58 
+million heads. The average household size stood at around 5 members per household. 
+Over 86 percent of this community cultivates farmlands with areas less than 2 hectare 
+each. 
+b. The Pastoral Farming System
+About 40% of Ethiopia’s land area is in the arid and semi-arid zones and is located in 
+the lowlands, below 1,500 m. There rain-fed crop production is not possible because 
+of low-level erratic rainfall, and people rely more on livestock for subsistence. The 
+lowlands are home to about 20% of Ethiopia’s cattle, 25% of the sheep, and 73% of 
+the goats, plus about one million camels. These animals support some 5.5 million 
+people.
+In addition to feeding this population, the livestock in the range lands account for a 
+major portion of the country’s exports of live animals, in particular of cattle. Surplus 
+sheep and goats sourced from the rangelands represent about 19% of the domestic 
+supply.
+Ethiopia’s range lands are also important for wildlife. The main areas of wildlife 
+concentration are in the southwestern part of the country, particularly in the Omo 
+River basin and the Gambella region. In these areas, which have a high rainfall 
+and fertile soils, tsetse infestation has greatly suppressed agricultural and pastoral 
+activities. Although less abundant, wildlife also exists in the eastern part of the country, 
+particularly in the Awash Valley and in the southern rangelands. The conservation and 
+development of these resources are carried out through the development of national 
+parks, wildlife sanctuaries, and reserves. In addition, 14 controlled areas have been 
+established, of which the largest is the Borena controlled hunting area.
+There is not much documented information about this system of farming. Most of the 
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy 142people are nomadic, moving seasonally, together with their livestock, from one place 
+to another in search of pasture and water. Some studies have been undertaken about 
+the pastoralists roaming in the Awash Valley, in connection the with development of 
+medium-to large-scale irrigation schemes there.
+Livestock production is much greater than crop production in the pastoral nomadic 
+system. General and empirical observations suggest that this system is characterized 
+by chronic food shortages. Thus, agricultural products and productivity are extremely 
+low. With the possible exception of livestock vaccination, there is virtually nothing 
+that the government (or any other, non- governmental organization) has provided for 
+long in terms of assistance or support to the pastoral-nomadic system. However, these 
+days, the sub-sector has been the focus of serious concern through the expansion of 
+extension service.
+c. The Commercial Farming System
+Commercial farming system was officially introduced during the third five-year plan
+(1968 – 73) of the Imperial Government of Ethiopia. Among the strategies envisaged 
+to modernize agriculture and increase marketable surplus, the plan stated that avail -
+able government land would be utilized for the establishment of large commercial 
+farms. As a result, many entrepreneurs rented and developed commercial farms in the 
+Awash Valley, the Rift Valley and other areas . After the 1974 revolution, all these farms 
+were confiscated by the government. Additional government lands in many parts of 
+the country were also developed into large-scale state farms. These were organized 
+into enterprises which in turn were grouped under corporations, according to their 
+locations and output specialization. A separate ministry, the Ministry of State Farms 
+Development was set up to manage and expand state farms. Also, another separate 
+ministry, the Ministry of Coffee and Tea Development, was established.
+The state farm enterprise introduced intensive farming and extensive mechanized 
+agriculture. The former was based on   irrigation, while the latter was marked by rain-
+fed agriculture, with or without the use of fertilizers and other chemicals. It is based 
+on bringing unused land, into cultivation a predominant feature of modern agriculture 
+in Ethiopia prior to 1974. 
+State farms have been the most pampered of all production systems in Ethiopia. 
+There had been no limit for these farms in terms of receiving land, agricultural inputs, 
+credits, price incentives and marketing facilities. Despite all these advantages, they 
+were unproductive and inefficient. The major characteristics of many of them were 
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy143mismanagement, abuse of assets, corruption, etc. It must be noted that some of these 
+farms were developed without adequate studies, resulting in huge financial losses. In 
+fact, most of the state farms were run on government financial resources.
+This system, comprising about 5% of the total cropland area, together with                            
+co- operatives, accounted for less than 10% of total agricultural production.
+The efficiency of state farms is extremely low, relative to the high expenditure made in 
+establishing and operating them. The major crops grown in these farms include cotton, 
+coffee, tea, sugarcane, fruits and vegetables.
+The size and role of state farms declined after 1992 when the new government granted 
+some of the state farms to nearby farmers and investors. At present, there are only 13 
+state farms. They produce mainly wheat, maize, cotton, coffee, and tea on 156,040 
+hectares of land.
+Under the current economic policy attempted have been made establish commercial 
+farms. Out of the total investment permits issued between 1992/93 and 1997/98, 1148 
+or 26.8% of them were in agriculture. However, only 508 projects became operational.
+With the advent of market economy, the Federal Government has recognized the 
+decisive role that private capital can play in the expansion and development of large-
+scale modern farming in order to enhance the supply of food and raw materials and to 
+create employment opportunities. As a result, the role of state farms is expected to fall 
+significantly. The state may operate those state farms that are strategic to the economy, 
+jointly with domestic or foreign private capital. In order to encourage domestic and 
+foreign private capital, without any capital limitation, the government is committed to 
+creating an enabling environment.
+ĂActivity 7.3
+1.Discuss with your desk mate the types/structure of agriculture are practiced 
+in your area
+2.List out the advantages that the society can get from the agricultural sector
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 1447.4 The Industrial Sector in the Ethiopian Economy
+By the end of this section, students will be able to;
+6Describe the industrial sector of Ethiopia,
+6Examine the role of the industrial sector to the economy of Ethiopia
+Key Concepts
+Industry; Manufacturing; Mining; Large scale manufacturing; Medium scale 
+manufacturing; Construction 
+Start Up Activity
+What comes to your mind when you think of industrial sector of Ethiopia?
+The Ethiopian industrial sector has been small compared to the agricultural and service 
+sectors. This could be due to the short history of industrialization in the country. Its 
+growth was modest, not exceeding 6.7 percent for the last four decades except during 
+the years from 1997/98 to 2009/2010. (Belayneh, Weldeselassie, Legesse, Tasew, 
+Denu, & Bansal, 2011).
+The industrial sector is dominated by three sub-sectors: manufacturing (38%), 
+construction (25%), and electric and water supply (18%). The remaining sub- sectors, 
+electricity, mining and quarrying, etc., constitute the remaining 19%.
+Main Features of the Industrial Sector:
+•	The sector contributes about 13% of GDP and 9.5% of employment.
+•	There are about 130 state-owned and 7,000 private manufacturing industries of 
+all sizes, mainly engaged in the production of consumer goods. Main products 
+of these manufacturing industries include:
+otextiles, foodstuffs, tobacco, beverages, cement, leather and leather 
+products, wood, metallic and non-metallic products, paper, plastic, 
+tiles, clothing/apparel, canned and frozen meat, sugar and molasses, 
+oil cakes and petroleum products.
+•	The growth performance of the industrial sector saw an appreciable 
+improvement in recent years, compared to the average growth rate of 6.7% 
+over the 10 years 2001/02 -2009/10.
+Looking at the growth performance of each sub-sector, the construction sector 
+registered the highest growth rate between 2002 - 2010. It averaged about 13% per 
+year in 2006 - 2010, compared to only 4.6% between 1991/92 and 2005/06. Large-and 
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy145medium-scale industries recorded the second highest growth rates.
+Major Problems in the Sector;
+•	Low industrial base
+•	Low productivity level
+•	Underutilization of capacity
+•	Shortages of foreign exchange, new investment, raw materials and spare parts
+•	Very low level of technology/high dependence on imported technology
+•	Low-level skills and management
+Roles of the Industrial Sector to the Ethiopian Economy
+According to the International Standards for Industrial Classification (ISIC), the 
+Ethiopian industrial sector is composed of mining and quarrying , manufacturing, 
+electricity, water supply, and construction . During the years 1991/92 - 1997/98, large- 
+and medium-scale manufacturing contributed 38.4% of the gross value of industrial 
+production, while small-scale manufacturing and handcrafts contributed around 18.7%. 
+The contributions of mining, quarrying, and electricity-supply activities were 3.9%, 
+15.8%, and 23.2%, respectively. From this we can conclude that the manufacturing 
+sub-sector dominated the Ethiopian industrial sector , providing more than 57% of the 
+sectoral output.
+Since the manufacturing sub-sector is the most dominant and dynamic component of 
+the industrial sector, and also due to availability of time series data, we will concentrate 
+on this sub-sector as we analyze the contribution of the industrial sector to the national 
+economy.
+i.Out Put Contribution
+According to ISIC, the manufacturing sector is characterized by the physical or 
+chemical transformation of materials or components into new products, whether the 
+work is performed by power-driven machines or by hand, and whether it is done in a 
+factory or in the worker’s home.
+Food and beverages  accounted for about 48% of the gross value of output of 
+manufacturing establishments in 2007/08, followed by non-metal (17%)  and chemicals 
+(9%) . These three industrial activities accounted for more than 74% of the entire gross 
+value of products in large- and medium-scale manufacturing organizations during the 
+same period.
+In terms of the value added by the large- and medium-scale industry sub-sector, the 
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 146food and beverage industrial group is the leading one. For example, in 2007/08, the 
+contribution of the food and beverage industrial group was 50.7%.
+Looking at the data on revenue obtained from sales, the food and beverage industrial 
+group generated around 8.3 billion Birr, which is close to 48.5% of the total revenue 
+obtained from large and medium scale manufacturing in 2007/08. (Belayneh, 
+Weldeselassie, Legesse, Tasew, Denu, & Bansal, 2011).
+ii.Employment Contribution
+The industrial sector, in general, and the manufacturing sub-sector, in particular, 
+serves as important sources of employment, especially for the rapidly growing urban 
+population in Ethiopia. In 2007/08, there were 1,677,906 persons engaged, out of which 
+678,911 were employees in the industrial sector. The number of persons engaged and 
+employees during this period showed an increase of 6.4 and 5.8 percent, compared to 
+that of 2006/07, respectively. These increases in the number of persons engaged and 
+employees could be attributed to the increase in the number of establishments created 
+in 2007/08. (Ibid).
+When we examine the employment capacity of each industrial group in the 
+manufacturing sector, as of 2007/08:
+•	The food and beverage group employed 50%,
+•	The non-metal, and paper and printing industrial groups contributed 14% and 
+10.9% of the sector’s employment, respectively.
+These three industrial groups, together, employed close to 75% of the total workforce 
+in the manufacturing sub-sector for the year 2007/08.
+The relative importance of the rest of the industrial groups, in terms of employment, 
+varies between 2.1% in wood and furniture manufacturers to 8.8% in textile-product 
+manufacturers. The decline in the share of employment of these sectors is mainly 
+due to increased employment opportunities in other industrial groups such as in non-
+metal, paper and printing.
+iii.Foreign Exchange Contribution
+More than 90% of the nation’s foreign currency earnings come from the agricultural 
+sector. The poorly developed industrial sector of Ethiopia contributes very little to the 
+foreign currency earnings of the nation.
+Textiles generate 41.5% of the sector’s foreign exchange, which is the largest 
+contribution. Food and beverages, leather and footwear follow as the second and third 
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy147with 32.9% and 10.8%, respectively. This pattern has remained almost the same in 
+recent years. The only noticeable change is in the wood and furniture and chemical 
+groups. The total value of wood and furniture and chemical exports in 2007/08 was Birr 
+43,269.7 and 30,198.9, respectively. This can be taken as an indicator of the potential 
+the nation has in bringing in foreign currency from non-traditional commodities.
+The benefits for the Ethiopian manufacturing sub-sector from preferential treatment 
+which the developed world offers are great. In this regard, The Africa Growth and 
+Opportunity Act (AGOA),  which allows some developing countries, including 
+Ethiopia, to have access to the US textile market without tariffs and quotas, is the most 
+notable opportunity. European countries are also opening their markets to African 
+manufactured products. For instance, Ethiopia can now sell its sugar products in 
+European markets. Therefore, the nation should try its best to benefit from these and 
+other preferential treatments which the developed world is offering to the poorest 
+nations of Africa.
+ĂActivity 7.4
+1.List out products of the industrial sector from your area
+2.Discuss in groups of three students the roles of the industrial sector the 
+economy of Ethiopia
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 1487.5 The Service Sector in the Ethiopian Economy
+At the end of this section, students will be able to ;
+6Describe the service sector of Ethiopia
+6Evaluate the role of the service sector to the economy of Ethiopia
+Key Concepts
+Service sector; Tourism; Education; Medical services; Cultural heritages
+Start Up Activity
+1.What is the service sector? 
+2. What is the difference between agriculture, industry and service sectors?
+This sector is composed of various sub-sectors that range from wholesale and retail 
+trade, to restaurants and to education and health service provision. More specifically, 
+the service sector includes: 
+•	wholesale and retail trade,
+•	hotels and restaurants,
+•	transport and communication,
+•	banking and insurance,
+•	public administration and defense,
+•	education,
+•	Health, domestic and other services.
+Main Features of the Sector:
+yThe sector’s share in GDP was 45.1% during 2008/09.
+yA relatively small percentage of population (about 10%) has been engaged in 
+the services sector.
+yThe large contribution of the sector to the GDP comes mostly from 
+government employment.
+ySignificant achievements have been made in areas of health, trade, tourism, 
+banking and insurance in the past few years.
+yGrowth Performance: The growth in the services sector has been significant 
+following the reform carried out in the early 1990s. Consequently, its growth 
+rate and hence its share in GDP has progressively increased during the last 
+two decades.
+Roles of the Service Sector to the Ethiopian Economy
+The service sector plays an important role in the country’s economy. Its contribution 
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy149can be seen from three angles, namely: output, employment, and foreign exchange 
+contributions .
+i.Out Put Contribution
+The service sector has played a dominant role, next to the agriculture sector, in the 
+Ethiopian economy. But in 2008/09 and 2009/10, the output contribution of the service 
+sector in Ethiopia dominated the agriculture sector, contributing about 45% and 46% 
+respectively.
+ii.Employment Contribution
+In Ethiopia, the service sector is the second largest sector, next to agriculture, in terms 
+of absorbing a significant part of the labor force. About 1.4% of the total labor force 
+is employed in the health and education sectors, while about 0.5% is employed in the 
+communication and transport sectors.
+In Ethiopia, a significant number of mostly permanent employment opportunities are 
+being created because of the rapidly growing economy. In particular, employment 
+opportunities are being created by:
+ySustained government efforts to enhance private sector investments;
+yThe big push in infrastructure development;
+yThe expanding services industry; and
+yThe rapid growing horticulture sector
+iii.Foreign Exchange Earnings 
+The value of exports of services increased from $261 million in 1980 to $348 million 
+in 1998, representing an average growth rate of 33%.
+In 2008/09, foreign exchange income earned from service providers such as Ethiopian 
+Airlines  and Ethiopian Shipping Lines , as well as from various service sub-sectors 
+such as tourism, communication, insurance and financial services, collectively 
+reached nearly 2 billion dollars, when compared to just 1.5 billion dollars for the 
+export of goods.
+Components of the Service Sector
+The service sector or the service industry is one of the three main economic sectors. 
+The basic characteristic of this sector is the production of services (also known as 
+‘intangible goods’), and does not include the goods-producing sector.
+This sector is composed of various sub-sectors. More specifically, the service sector 
+includes: trade, hotels and restaurants, transport and communication, education, 
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 150banking and insurance, public administration and defense, health, and other services.
+According to the Ethiopian National Income Account classification, the first five sub-
+sectors are referred to as distributive services while the remaining are in the ‘Other’ 
+service sector.
+According to the 2009/10, MOFED Report the GDP share of the service sector 
+increased from 41.1% in 2002/03 to 46% in 2009/10. This is mainly the result of the 
+fast growth in the areas of real estate, hotel and restaurant, education, and health. In 
+contrast, the share of agriculture fell from its level of 56.7% in 1995/06 to 42% in 
+2009/10.
+There are a number of ways to consider the service sector such as: its divisions, its 
+components, and the types of activities within the components. Accordingly, the 
+service division includes a wide variety of industries, but they can be categorized into 
+primarily consumer-oriented (providing a service directly to a consumer), primarily 
+business-oriented (providing a service directly to another business) or mixed (providing 
+services to both businesses and individual consumers).
+Alternately, the activities of the services division can be described in reference to their 
+economic activities. Accordingly,
+yPhysical activities: involve working with objects; examples include repairing 
+cars, hairdressing, and cooking.
+yIntellectual activities: involve providing education or training at such levels 
+as university and vocational school.
+yThe aesthetic activities: entail providing consumers with artistic experiences 
+such as offered by museums, theater performances, art shows, and musical 
+performances.
+ĂActivity 7.5
+1.List out the services that you know from your area provided by the service 
+sector
+2.In a group of four students evaluate the roles of the service sector to the 
+economy of Ethiopia 
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy1517.6 Agriculture versus Industrial Development
+By the end of this section, students will be able to;
+6Differentiate between agricultural development and Industrial development 
+strategies.
+6Evaluate the agricultural Development Led Industrialization (ADLI) strategy 
+of Ethiopia.
+Key Concepts
+Agricultural development; Industrial Development; ADLI strategy
+Start Up Activity
+Compare agricultural versus industrial development strategies?
+As records reveal, the agricultural sector in Ethiopia is the mainstay of the country’s 
+economy. It is also the most volatile sector, as exhibited in the unevenness of its growth 
+patterns, which is the effect of its heavy dependence on rainfall and the seasonal shocks 
+that are frequently observed in Ethiopia. However, it contributes the largest share to 
+the GDP, export trade earnings, and employment. It also provides raw materials for 
+the various industries in the country to a great extent. With this scenario, the various 
+strategies so far adopted to develop it need rethinking. This serious work of rethinking 
+the development priorities should be made considering the various regional as well as 
+local objective conditions.
+Different views or paradigms have been adapted for the development of a country. The 
+role of agriculture in economic development has been considered as largely passive 
+and supportive or secondary. In the Western economies, the industrial sector was given 
+priority, based on the assumption that it has the largest potential to adopt technology 
+and to create forward and backward linkages with the other sectors.
+However, the desirability of placing such heavy priority on industrial growth is 
+questionable for most developing countries like Ethiopia. Since the 1970s, development 
+economists have come to realize that the agricultural sector needs to be viewed as a 
+leading and dynamic sector. They further state that, without the development of the 
+agricultural sector, the growth of the industrial sector will become weak. Hence, the 
+agricultural sector has to be the leading sector, and this is the approach of the current 
+Ethiopian strategy of development, ADLI.
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 152ĂActivity 7.6
+1. Debate amongst yourselves taking side on the following;
+a.Industrial development is better than agricultural development for 
+faster economic growth for Ethiopia.
+b. Agricultural development is better than Industrial development for 
+faster economic growth for Ethiopia.
+2. Evaluate the ADLI strategy of Ethiopia.
+
+--- [PAGE BREAK] ---
+
+Unit 7:   An O verview of the Ethiopian Economy153Unit Summary
+To understand how the economy is using its scarce resources, economists study 
+the composition of GDP among various types of spending. To do this, GDP (which 
+we denote as Y) is divided into four components: consumption (C), investment (I), 
+government purchases (G), and net exports (NX). 
+When studying changes in the economic performance of a country over time, 
+economists want to separate the nominal effect and the real effect of this change. 
+In particular, they want a measure of the total quantity of goods and services  the 
+economy is producing that is not affected by changes in the prices of those goods and 
+services (RGDP) .
+On the eve of the February 1974 revolution, the state of the Ethiopian economy 
+exhibited respectable moderate rates of growth of GDP and per capita GDP ,  although 
+it had begun to show signs of deceleration towards the end. The domestic savings ratio 
+was growing and Ethiopia had a comfortable balance of payments position and low 
+inflation .
+The agricultural sector is the mainstay of the Ethiopian population, in which more 
+than 85 percent of the people work. 
+The FDRE adopted a strategy of Agricultural Development- Led Industrialization 
+(ADLI) to transform the agricultural sector and promote economic development. 
+The agricultural sector, though dominant, is facing problems that have deterred it from 
+meeting national requirements. The problems are both social and natural. The social 
+(human-made) problems are related to allocation of resources and decision-making, 
+while the natural ones relate to recurring and unexpected weather conditions.
+Based on NBE’s annual report of 2019/20, of the share of sectors in GDP from 2014/15 
+to 2019/20, agriculture’s share in GDP  has decreased form 40% to 33%, Industry’s 
+share in GDP has increased from 21% to 29% and service sector’s share in GDP  has 
+almost been 40%  for the past six years. 
+Different views or paradigms have been adapted for the development of a country. The 
+role of agriculture in economic development has been considered as largely passive 
+and supportive or secondary. In the Western economies, the industrial sector was given 
+priority, based on the assumption that it has the largest potential to adopt technology 
+and to create forward and backward linkages with the other sectors.
+
+--- [PAGE BREAK] ---
+
+Unit 7:  An Overview of the Ethiopian Economy 154Unit Review Exercises
+Part I: Write True if the statement is correct or False if not correct for each of the 
+following questions.
+1.Agricultural development is more important than industrial development.
+2.The current developmental strategy adopted in Ethiopia is the Industrial 
+Development-Led Agriculture Strategy (IDLA).
+3.Cereal production ranks second, next to oil seed production, in terms of volume 
+of output.
+4.The European demand for the cut flowers of Ethiopia has little effect on the 
+promotion of floriculture in Ethiopia.
+Part II: Choose the best answer from the given alternatives.
+5.Which of the following is not one of agriculture’s roles in the Ethiopian economy?
+A . Source of raw materials for non-agro-based industries
+B . Source of food supply
+C . Source of foreign currency earnings
+D . All of the above
+6.One of the following is the dominant farming structural type in Ethiopia.
+A . The large-scale animal husbandry sub-sector
+B . State farms
+C . The smallholder farm system
+D . The collective farm system

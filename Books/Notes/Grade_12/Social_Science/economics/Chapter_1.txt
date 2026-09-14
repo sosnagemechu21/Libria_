@@ -1,0 +1,1188 @@
+=================================================================
+Book: economics.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+ECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION FDRE
+MOE
+ECONOMICSSTUDENT TEXTBOOK GRADE 12
+ECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION FDRE
+MOE
+ECONOMICSSTUDENT TEXTBOOK GRADE 12
+ECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION FDRE
+MOE
+ECONOMICSSTUDENT TEXTBOOK GRADE 12ECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION FDRE
+MOE
+ECONOMICSSTUDENT TEXTBOOK GRADE 12ECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONECONOMICS
+STUDENT TEXTBOOK 
+GRADE 12
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATION FDRE
+MOE
+ECONOMICSSTUDENT TEXTBOOK GRADE 12
+
+
+--- [PAGE BREAK] ---
+
+Take Good Care of
+This Textbook
+  This textbook is the property of your school. 
+   Take good care not to damage or lose it. Here are 10 ideas to help take care of the book:
+1.Cover the book with protective material, such as plastic, old 
+newspapers or magazines.
+2.Always keep the book in a clean dry place.
+3.Be sure your hands are clean when you use the book.
+4.Do not write on the cover or inside pages.
+5.Use a piece of paper or cardboard as a bookmark.
+6.Never tear or cut out any pictures or pages.
+7.Repair any torn pages with paste or tape.
+8.Pack the book carefully when you place it in your school bag.
+9.Handle the book with care when passing it to another person.
+10.When using a new book for the first time, lay it on its back. Open only a few pages at a time. Press lightly along the bound edge as you turn the pages. This will keep the cover in good condition.
+
+--- [PAGE BREAK] ---
+
+ECONOMICS
+STUDENT TEXTBOOK
+GRADE 12
+Writers:
+Seyoum Yunkura Hameso (PhD)
+Abate Yesigat Taye (PhD) 
+Editors:
+Chanyalew Degefa Merga (MSc), Curriculum Editor Degela Ergano Done (PhD), Content EditorTaye Gebremariam Olamo (PhD), Language Editor
+Illustrator: 
+Tadele Bayu Genet (MSc)
+Book Designer: 
+Amsalu Dinote Kuye (MSc)
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONHAWASSA UNIVERSITYEvaluators: 
+Mekonnen Bersisa Gadisa (PhD)Tariku Mulushewa Dessea (MSc)Ararssa  Hora Dabi (MSc)
+
+
+--- [PAGE BREAK] ---
+
+First Published August 2023 by the Federal Democratic Republic of Ethiopia, 
+Ministry of Education, under the General Education Quality Improvement Program 
+for Equity (GEQIP-E) supported by the World Bank, UK’s Department for International 
+Development/ DFID-now merged with the Foreign, Common wealth and Development 
+Office/FCDO, Finland Ministry for Foreign Affairs, the Royal Norwegian Embassy, 
+United Nations Children’s Fund/UNICEF), the Global Partnership for Education 
+(GPE), and Danish Ministry of Foreign Affairs, through a Multi Donor Trust Fund.    
+© 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education. All rights 
+reserved. The moral rights of the author have been asserted. No part of this textbook reproduced, copied in a retrieval system or transmitted in any form or by any means including electronic, mechanical, magnetic, photocopying, recording or otherwise, without the prior written permission of the Ministry of Education or licensing in accordance with the Federal Democratic Republic of Ethiopia as expressed in the Federal Negarit Gazeta, 
+Proclamation No. 410/2004 - Copyright and Neighboring Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups and other bodies 
+involved – directly or indirectly – in publishing this Textbook. Special thanks are due to Hawassa University for their huge contribution in the development of this textbook in collaboration with Addis Ababa University, Bahir Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the owner of 
+copyrighted material not cited or improperly cited, please contact the Ministry of Education, Head Office, Arat Kilo, (P.O.Box 1367), Addis Ababa Ethiopia. 
+Printed by:
+GRAVITY GROUP IND LLC
+13
+th Industrial Area, Sharjah, UNITED ARAB EMIRATES
+Under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23 
+ISBN: 978-99990-0-059-8 
+
+--- [PAGE BREAK] ---
+
+INTRODUCTION
+Economics is an important discipline. Its significance has increased in recent years in 
+response to worldwide economic problems. Even countries that made rapid progress in areas like medicine, engineering, technology, electronics, and information technology were not immune from economic problems. For example, problems like poverty, unemployment, inflation, recession, and population explosion are worldwide today. To understand these problems and find solutions, an adequate knowledge of economics is required.
+The study of economics is expected to equip students with subject knowledge, understanding, 
+skills, values and attitudes about important questions and issues of economy, society and environment. It will also help them develop their competencies to engage in the community as informed and active citizens.
+This textbook is intended to support the learning of economics so that students possess 
+the tools to understand their economic world and how to interpret events that will, either directly or indirectly affect them. Moreover, students will be supported to relate and translate economic concepts to explain economic reality on the ground. They will also be helped to acquire and develop their knowledge on what to expect in the future and how to manage their economic decisions.
+Finally, as per the Ethiopian General Education Curriculum Framework (GECF), 
+Economics for Grade 12 is one of the compulsory general subjects in Social Sciences and Agriculture. Career and Technical Education that offer economics as a course are Business Sciences, Language and Social Sciences, Performing and Visual Arts and Agriculture. Economics for Grade 12 (consisting of 8 units) will be covered in the total of 87 hours and 45 minutes per year, 3 periods each week with 45 minutes per period. In line with the above expectations, the student profile and the textbook contents are presented below.
+STUDENT PROFILE
+At the end of Grade 12 Economics study, students are expected to have better attributes in terms of the following:
+Knowledge
+	Knowledgeable in subject area (principles, theories, applications, etc.)
+Attitude
+	Cooperation 
+
+--- [PAGE BREAK] ---
+
+	Curiosity 
+	Motivation to become successful 
+Digital literacy
+	Data collection and organization 	Data analysis 	Report writing 	Data analysis skills and tools 
+Communication skills 
+	Group discussion 	Teamwork	Presentation 
+Business management skills 
+	Start one’s own business
+	Support family business
+By the end of Grade 12, students should exhibit the following profile:
+	Continue their education in various disciplines of social and business sciences using their economics knowledge and skills in higher education institutions.
+	Demonstrate an appreciation about the link between production, distribution and consumption.
+	Articulate contemporary issues in economic growth, and development.
+	Participate in collaborative engagements which aim at social and economic development.
+	Participate in various citizenship activities by recognizing and appreciating cultural aspects (including languages and religions) and livelihood of various places.
+	Define the key terms of macroeconomics ariables such as unemployment, inflation, and poverty reduction using enquiry skills.
+	Articulate the link between poverty and environmental degradation.
+	Contribute to efforts that aim at bringing about a sustainable development in Ethiopia and beyond.
+Note to students: The units in this textbook contain references for other books and online or electronic resources. Due to space limitation, these are not included in your textbook.   Do ask your teacher for those references.
+
+--- [PAGE BREAK] ---
+
+Table of Contents IGrade 12 Economics Student Textbook
+Table of Contents
+UNIT 1
+THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+INTRODUCTION 1
+1.1 De/f_inition and Focus Areas of Macroeconomics Revisited 2
+1.1.1 De/f_inition of Macroeconomics 2
+1.1.2 /T_he Focus Areas of Macroeconomics 3
+1.2 Key Challenges in Macroeconomics 6
+1.2.1 Economic Growth 6
+1.2.2 In/f_lation 8
+1.2.3 Unemployment 12
+1.2.4 Business Cycle 15
+1.2.5 Balance of Trade 16
+1.3 /T_he Schools of /T_hought in Macroeconomic Analysis 17
+1.3.1 Evolution and Recent Developments 18
+1.3.2 /T_he Classical and Neoclassical 18
+1.3.3 Keynesian 19
+1.3.4 Monetarist 20
+1.3.5 New Classical 21
+1.3.6 New Keynesian 21
+Unit Summary 22
+Review Questions 23
+UNIT 2
+AGGREGATE DEMAND AND AGGREGATE SUPPLY 
+ANALYSIS
+INTRODUCTION 25
+2.1 Aggregate Demand 26
+2.1.1 Concept of Aggregate Demand 26
+2.1.2 /T_he Aggregate Demand Curve 27
+2.1.3 Shi/f_ts in the Aggregate Demand Curve 30
+2.2 Aggregate Supply 35
+2.2.1 Concept of Aggregate Supply 35
+
+--- [PAGE BREAK] ---
+
+Table of Contents IIGrade 12 Economics Student Textbook
+2.2.2 /T_he Upward Sloping Aggregate Supply Curve: /T_he Short Run (SRAS) 36
+2.2.3 /T_he Vertical Aggregate Supply Curve: /T_he Long Run (LRAS) 40
+2.3 Equilibrium of Aggregate Demand and Aggregate Supply 41
+2.3.1 Shocks to Aggregate Demand 43
+2.3.2 Shocks to Aggregate Supply 44
+Unit Summary 45
+Review Questions 46
+UNIT 3
+MARKET FAILURE AND CONSUMER PROTECTION 
+INTRODUCTION 48
+3.1 Market Failure 49
+3.1.1 Common Types of Market Failures 50
+3.1.2 Solutions to Market Failures 50
+3.2 Public Goods 51
+3.3 Externalities 55
+3.4 Asymmetric Information 60
+3.5 Consumer Protection 63
+Unit Summary 66
+Review Questions 67
+UNIT4
+MACROECONOMIC POLICY INSTRUMENTS 
+INTRODUCTION 71
+4.1 De/f_inition and Types of Macroeconomic Policies 72
+4.2 Fiscal Policy  73
+4.2.1 Tools of Fiscal Policy 74
+4.2.2 Types of Fiscal Policy 75
+4.3 Monetary Policy 78
+4.3.1 Tools of Monetary Policy 79
+4.3.2 Types of Monetary Policies 80
+4.4 Income Policy and Wage 84
+4.5 Foreign Exchange Policies 89
+Unit Summary 98
+Review Questions 99
+
+--- [PAGE BREAK] ---
+
+Table of Contents IIIGrade 12 Economics Student Textbook
+UNIT 5
+TAX THEORY AND PRACTICE 
+INTRODUCTION 102
+5.1 Taxes: De/f_inition, Principles, Objectives and Classi/f_ications 103
+5.1.1 De/f_inition and Terminologies in Taxation 103
+5.1.2 Objectives of Taxation 104
+5.1.3 Principles of Taxation 105
+5.1.4 Characteristics of a Good Tax System 106
+5.1.5 Classi/f_ication of Taxes 107
+5.1.6 Major Categories and Sources of Taxes 107
+5.2 Approaches to Tax Equity 109
+5.2.1 /T_he Bene/f_its Approach 109
+5.2.2 /T_he Ability-to-pay Approach 109
+5.3 Tax System and Structure in Ethiopia 111
+5.4 Types of Tax and Tax Accounting in Ethiopia 112
+5.5 Problems Associated with Taxation in Ethiopia 117
+Unit Summary 119
+Review Questions 120
+UNIT 6
+POVERTY AND INEQUALITY 
+INTRODUCTION 122
+6.1 Concept of Poverty and Its Measurement 123
+6.1.1 Poverty 123
+6.1.2 Types of Poverty 125
+6.1.3 Measuring Poverty 126
+6.1.4 Sen’s Approach to Poverty and Wellbeing 128
+6.2 Concept of Inequality and its Measurements 129
+6.3 Global and Regional Poverty 135
+6.4 Women and Poverty 137
+6.5 Overview of Poverty and Inequalities in Ethiopia 140
+6.6 Role of Indigenous Knowledge in Reducing Poverty 141
+Unit Summary 144
+Review Questions 145
+
+--- [PAGE BREAK] ---
+
+Table of Contents IVGrade 12 Economics Student Textbook
+UNIT7
+MACROECONOMIC REFORMS IN ETHIOPIA
+INTRODUCTION 148
+7.1 National Development Objectives and Strategies- Historical Review 149
+7.1.1 National Development Plan during the Imperial Period (1950-74) 150
+7.1.2 National Development Plan under the Socialist Period (1974-1991) 1527.1.3 National Development Plan under FDRE 153
+7.1.4 National Development Plan a/f_ter a Reform (2021-2030) 166
+7.2 Overview of Home-grown Economic Reforms in Ethiopia 168
+7.2.1 Macroeconomic Reforms 169
+7.3 Fiscal Decentralization 175
+7.3.1 Disadvantages and Advantages of Decentralized System 176
+Unit Summary 178
+Review Questions 179
+UNIT 8
+ECONOMY, ENVIRONMENT AND CLIMATE CHANGE
+INTRODUCTION 182
+8.1 Economy and the Environment 183
+8.1.1 Rural Development and Environment 186
+8.1.2 Urban Development and Environment 187
+8.1.3 Population, Resources and the Environment 188
+8.2 Global Warming and Climate Change 190
+8.2.1 Global Warming 191
+8.2.2 Climate Change 192
+8.2.3 Scope of the Problem and the Causes of Climate Change 193
+8.2.4 Indicators of Climate Change 193
+8.2.5 Impacts of Climate Change 194
+8.2.6 Vulnerability to Climate Change 195
+8.2.7 Means to Address Climate Change Challenges 196
+8.3 Green Economy and Green Growth 199
+8.4 Overview of Environment and Climate Change in Ethiopia 200
+Unit Summary 202
+Review Questions 202
+
+--- [PAGE BREAK] ---
+
+INTRODUCTION 1UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+UNIT 
+1THE FUNDAMENTAL 
+CONCEPTS OF 
+MACROECONOMICS
+INTRODUCTION
+From Grades 9 to 11 ,you may recall that economics as a subject has many branches 
+and its scope includes a range of topics and issues. Specifically, in Grade 9, reference 
+was made to macroeconomics. In this unit, we revisit the definition and the focus areas of macroeconomics. Moreover, the discussion of different schools of thought will help you identify the reasons for the advancement of macroeconomic analysis.
+The unit is divided into three sections. The first section explores and revisits the 
+definition and focus areas of macroeconomics. The second section examines the key dimensions/challenges of macroeconomics such as economic growth, inflation, unemployment, business cycles and balance of trade. Finally, the third section explores the evolution of macroeconomics and different schools of thought.
+Learning Outcomes 
+At the end of this unit, you will be able to: 
+	identify the difference between macroeconomics and microeconomics.
+	describe the focus areas of macroeconomics.
+	analyse different challenges of macroeconomics.
+	differentiate Classical, Keynesian and Monetarist macroeconomics.
+	explain the contribution of different schools of thought for the development of macroeconomics.
+
+--- [PAGE BREAK] ---
+
+1.1 Definition and Focus Areas of Macroeconomics Revisited 2Grade 12 Economics Student Textbook
+Key Concepts
+	Microeconomics
+	Macroeconomics	Macroeconomic goals	Macroeconomic variables	GDP	GNP	Economic growth	Inflation	Unemployment	Business cycles 	Trade balance
+ Start-up Activity
+1. Discuss what you understand by the term “macroeconomics”.2. Discuss the importance of studying macroeconomics.
+1.1 Definition and Focus Areas of Macroeconomics Revisited
+At the end of this section, you will be able to:
+	define macroeconomics.
+	explain the focus areas of macroeconomics.
+1.1.1 Definition of Macroeconomics
+Conventionally, economics is divided into microeconomics and macroeconomics. Microeconomics studies the individual decision-making behaviour of different economic units such as households, firms, and governments at a disaggregated level. On the other hand, macroeconomics studies overall or aggregate behaviour of the economy such as the overall level of output, prices and employment. In other words, macroeconomics studies what happens to the whole economy or economic system.
+Macroeconomics is a relatively new branch of economics that emerged after the publication 
+of John Maynard Keynes’ book entitled: The General Theory of Employment, Interest and 
+
+--- [PAGE BREAK] ---
+
+1.1 Definition and Focus Areas of Macroeconomics Revisited 3UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+Money in 1936. The word “macro’ is derived from the Greek word “makro”, which means 
+large. This term differs from microeconomics. Microeconomics focuses on the actions of individual agents within the economy, while macroeconomics focuses on the economy as a whole. In a nutshell, macroeconomics is the study of the structure and performance of national economies and of the policies that governments use to try to affect economic performance. Therefore, in order to gain an understanding of broader problems and to find solutions, an adequate knowledge of macroeconomics is a requirement.
+1.1.2 The Focus Areas of Macroeconomics
+The focus areas of macroeconomics are aggregate behaviour of the economy, such as economic growth, employment, inflation, distribution of income, macroeconomic policies and international trade. The study of macroeconomics helps us understand and try to find answers for central macroeconomic questions such as:
+	What factors determine the flow of total output produced in the economy over time?
+	How can a nation increase its rate of economic growth? 
+	Why do outputs and employment sometimes fail? 
+	What are the causes of inflation and how it can be controlled? 
+	How do government policies affect output, unemployment, inflation, and growth?
+	How can business cycle downturns be managed? 
+	How does the domestic economy interact with the rest of the world?
+These questions are related to macroeconomic goals. The goals include achieving 
+economic growth, full employment, price stability, as well as reducing budget or balance of payment deficit, and ensuring fair distribution of income in society. Thus, a country’s macroeconomic health is examined through such goals as the rise in the standard of living, low unemployment, and low inflation.
+In order to address these goals, it is necessary to understand macroeconomic variables 
+which show the status and trends of the whole economy. Examples of such variables include gross domestic product (GDP), gross national product (GNP), economic growth rate, price level (rate of inflation and deflation), investment, savings, consumption, government budget, level of employment and unemployment, total labour force, demand for money and supply of money, total export, total import, trade balance and exchange 
+
+--- [PAGE BREAK] ---
+
+1.1 Definition and Focus Areas of Macroeconomics Revisited 4Grade 12 Economics Student Textbook
+rate. The above mentioned questions and goals of macroeconomics relate to the focus 
+areas of macroeconomics as shown in Table 1.1.
+The macroeconomic variables such as Gross Domestic Product (GDP), unemployment rate, and inflation help us determine the macroeconomic performance of a country. By macro economy, we refer to all buying and selling, all production and consumption or everything that goes on in every market in the economy. Hence, the first step towards understanding macroeconomy is to measure its performance. In a sense, macroeconomics is primarily concerned with the forecasting of GDP, by analysing the major economic factors that show predictable trends and patterns, and how they influence with each other.
+In connection with this, it is necessary to elaborate the concept of GDP which is defined 
+as the measure of the market value of all final goods and services which are produced in a country during a year. 
+A related measure is the Gross National Product (GNP), which is defined as the total value of final goods and services that are produced by domestically owned factors of production in a given period of time, usually one year, irrespective of their geographical locations. In 
+
+--- [PAGE BREAK] ---
+
+1.1 Definition and Focus Areas of Macroeconomics Revisited 5UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+other words, it represents the total amount of final goods and services which are produced 
+in one year within a country plus transfers to/from other countries.
+GDP and GNP are functionally related as: GNP = GDP + NFI, where NFI denotes net 
+factor income received from abroad which is equal to factor income received from abroad by a country’s citizens less factor income paid for foreigners to abroad. 
+There are three approaches to measure GDP/GNP. They are product/value added approach, 
+expenditure approach and income approach. Each of them is briefly discussed as follows.
+•	Product approach: here, the GDP is calculated by adding the market value of goods and services that are currently produced by each sector of the economy. Only the values of final goods and services are included to avoid double counting.
+•	Expenditure approach: here, the GDP is measured by adding all expenditures on final goods and services that are produced in the country by all sectors of the economy. Thus, GDP can be estimated by summing up personal consumption of households (C), gross private domestic investment (I), government purchases of goods and services (G) and net exports (NE).
+•	Income approach: in this approach, GDP is calculated by adding all the incomes accruing to all factors of production used in producing the national output. Then, the GDP is the sum of incomes to owners of factors of production (in the form of wages and salaries, rental income, interest income, and profits) as well as some other claims on the value of output less subsidies and transfer payments.
+For as long as market values and prices are involved in GDP calculation of GDP, we have nominal GDP (measured in actual market prices) and real GDP (calculated in constant prices by taking a base year). Real GNP accounts for difference in price levels in different counties, in cases where inter-country comparisons of GNP are considered. An upward or downward movement in real GDP is the most widely used measure of the level and growth of output.
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 6Grade 12 Economics Student Textbook
+ Activity 1.1
+1. List the central macroeconomic questions.
+2. Describe what the terms “GDP” and “GNP” represent.3. Write down the three approaches to measure GDP.
+1.2 Key Challenges in Macroeconomics
+At the end of this section, you will be able to:
+	analyse different challenges of macroeconomics.
+ Start-up Activity
+What do the terms “economic growth”, “unemployment,” and “inflation” mean to you? 
+Once the key macroeconomic variables and their measurement are determined, subsequent themes centre around the key challenges of the macroeconomy such as economic growth, inflation, unemployment, business cycles and trade balance.
+1.2.1 Economic Growth
+Economic growth represents an increase in the capacity of an economy to produce goods and services. It is a necessary ingredient for both high incomes and higher living standards. Higher GDP per capital translates to better diet, health, life expectancy and greater educational opportunity.
+The GDP expands or shrinks over time depending on the overall economic environment. 
+The rate at which the real GDP of a country increases over a period of time is known as the “economic growth rate.” A higher economic growth rate can be achieved by increasing the amount of factors of production such as labour, land, capital and their productivity. It has to be supported by institutional arrangements such as adherence to the rule of law, 
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 7UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+the protection of property rights and contractual rights by a country’s government so that 
+markets can work effectively and efficiently. Principally, economic growth measures economic performance in terms of value of income, expenditure, and output.
+Measuring real income in developing countries is not simple as we may think. This is 
+because in developing countries real income is generally understated compared to that of developed countries. The reasons are: 
+a)The national income account may understate GDP in developing countries because the majority of the population are subsistence farmers who produce for their own consumption and such outputs are not correctly reported. 
+b)Underreporting income is common in developing countries due to fear of tax and it is partly due to inefficient taxation systems. 
+c)Usually, no allowance is made for non-monetary sectors in the national income account of less developed countries. 
+d)Distortion in prices is much higher in developing countries than in developed ones. 
+e)The cost of pollution and environmental degradation are not deducted from gross national product to get net GNP in developing countries while in developed countries such as Sweden and the Netherlands, the cost of pollution is deducted to get net GNP.
+In addition, the above simple measure of growth has two limitations. First, the national income is in the value terms, which change as the price level changes. Even if physical volume of goods and services remains the same, the growth rate could be positive for the simple reason that inflation has to be taken into account while measuring economic growth (in real terms). Second, it cannot take into account the population growth as there are several instances where population has grown more than national income. 
+In order to overcome the above two problems, economists have suggested measuring 
+economic growth in terms of a rise in real per capita income, which is the ratio of total GNP to total population. Taking the per capita income as an indication of average standard of living has many limitations. As any average measure, it conceals more than it reveals. In recent years, this measure has come under increasing criticism as an index of development. 
+First, there is no difference in economic growth and development as the same indicator is 
+used to measure both of them. Moreover, there is no relationship between the definition of development and measure of development in terms of per capita income. Therefore, 
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 8Grade 12 Economics Student Textbook
+attempts have been made to use other indices of development. A measure of development 
+must take into account not only the level of per capita income and its distribution but also other indicators of quality life such as level of education and health status. 
+This leads us to an index called the Human Development Index (HDI). HDI was deployed 
+by United Nations Development Programme (UNDP) and it is sometimes called the “quality of life index.” This is basically a non- monetary index which measures the level of development. The typical approach in constructing such an index is to take a number of non-monetary indicators such as educational stocks and flows, fertility and mortality rates, availability of physical and social infrastructures, and compress them by various statistical techniques into a single composite index of development.
+1.2.2 Inflation
+The prices of goods and services do not always stay the same. This means that sometimes they rise and at other times they fall. The word “inflation” represents a regular and continuous rise in the general price level. Since the general price level refers to the average price of goods and services, inflation represents the rising prices of almost all goods and services. Moreover, inflation is cumulative whereby even a small rise in price in the beginning may become a very large one in the future. 
+Similarly, the rate of inflation denotes the rate of growth or decline of the price level 
+from one year to the next. It is the percentage change in the overall level of prices. It varies greatly over time and across countries. Contrarily, the fall in price level is called “deflation” (see the mathematical formulations on the next page).
+Generally speaking, a substantial and rapid rise in the general price level induces a decline 
+in the purchasing power of money, which means people must spend more to buy a litre of milk or a kilogram of sugar. It is obvious that when prices rise, money buys less and the standard of living declines over time. Therefore, inflation increases the cost of living, and decreases the purchasing power of currency.
+In order to protect citizens from the increased cost of living, some governments index 
+contracts, wage levels, and interest rates to inflation. Indexing wage contracts and interest rates means that they will increase when inflation increases to retain purchasing power. When wages do not rise as price levels rise, this leads to a decline in the real wage rate and a decrease in the standard of living. For this and other reasons, inflation is the major 
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 9UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+concern of macroeconomic policy makers throughout the world.
+Inflation and Consumer Price Index 
+Inflation results in an increased consumer price index (CPI). The CPI is a price index 
+whose movement reflects changes in the prices of goods and services typically purchased by consumers. Thus, the CPI of each month reflects the ratio of the current cost of the basket divided by its base-period cost. 
+Hence, from the CPI angle, the rate of inflation or deflation is calculated as the percentage rate of change in a price index. To calculate the inflation rate, one has to subtract the past date CPI from the current date CPI and divide the answer by the past date CPI, and then multiply the results by 100. For example, if your current price total is 560 Birr and your past price total is $340, your equation would be 560/430 = 1.30. Then multiply this by 100 to create a baseline for the consumer price index, which makes 130. Then you will subtract 100 (baseline) from 130. That means, 130-100 = 30%. The total 30% represents a percentage change in prices from the previous year.
+Numerical example of calculating inflation is as follows. Assume the current date CPI 25% and past date CPI is 20. So, 25 - 20 = 5/past date CPI (20) = 0.25. Multiply this by 100 to get a percentage. The inflation rate is 25%.
+Example: Calculating the consumer price index (CPI) and the inflation rate. 
+Assume a simple economy in which a typical consumer buys only two goods-wheat
+and edible oil. The consumer buys 50 kg of wheat and 10 litters of oil per
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 10Grade 12 Economics Student Textbook
+year. Assume that the prices of these baskets of goods in three different
+years are the following.
+Year Price Kilo of Wheat Price of a Litter of Oil
+2000 EC 2 Birr 10 Birr
+2001 E.C 3 Birr 13 Birr
+2002 E.C 2 Birr 14 Birr
+2003 E.C 4 Birr 24 Birr
+Find:   1. The price index in each year 
+2. The inflation rate from 2000EC to 2001 EC, from 2001 EC to 2002 EC, from 
+2002 EC to 2003 EC from 2003 EC to 2000 EC
+Solution: 
+Step 1: Compute the cost of the basket of goods in each year.
+Year           price of a kilo of wheat         price of a litter of oil
+( ) ( ) 2000 . .      2    50     10    10    200 E C Birr per kg kg Birr per liter liter birr ×+ × =
+( ) ( ) 2001 . .      3    50     13    10    280 E C Birr per kg kg Birr per liter liter birr ×+ × =
+( ) ( ) 2002 . .      2    50     14    10    240 E C Birr per kg kg Birr per liter liter birr ×+ × =
+( ) ( ) 2003 . .      4    50     20    10    400 E C Birr per kg kg Birr per liter liter birr ×+ × =
+Step 2: Choose one year as a base year (2000) and compute the consumer price
+index in each year
+ 200    2000 .     100 100 200birrConsumers Price Index in E C xbirr= =
+ 280    2001 .     100 140 200birrConsumers Price Index in E C xbirr= =
+ 240    2002 .     100 120 200birrConsumers Price Index in E C xbirr= =
+ 400    2003 .     100 200 200birrConsumers Price Index in E C xbirr= =
+Step 3: Use the consumer price index to compute the inflation rate from previous
+year
+  21
+1    2  100CPI CPIInflation Rate in year XCPI−=
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 11UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+(120 140)   2002 E.C. from 2001 E.C.  100 14.3%140Inflation Rate in X−= =−
+(140 100)   2001 E.C. from 2000 E.C.  100 40%100Inflation Rate in X−= =
+(200 120)   2003 E.C. from 2002 E.C.  100 66.6%120Inflation Rate in X−= =
+Note that: The value (–14.3%) in the year 2002 E.C. shows a decrease in the
+general level of the prices of goods and services. A decrease in the general level
+of the prices of goods and services is known as deflation. Deflation is the oppositeof inflation. Therefore, there was inflation in the years 2001 E.C. and 2003 E.C. and deflation in the year 2002 E.C.
+Types of Inflation
+Now, let us explore the type of inflation. It is broadly the case that, during inflation, the 
+supply of goods and services is less in comparison to their demand (i.e. aggregate demand is higher than aggregate supply) resulting in a situation where too much money is chasing too few goods. Yet shortage in supply of goods and services alone does not provide the sole explanation.
+Inflation classified on the basis of speed of occurrence and can be termed as creeping, 
+walking, running, galloping inflation, and hyperinflation. Thus, creeping  inflation is 
+moderate inflation that occurs when the price level persistently rises over a period of time at a slow rate such as the price rise in 3% or less. Walking inflation occurs when annual 
+inflation rate is a single digit or in the range of 3 to less than 10% per year. Running 
+inflation occurs when prices rise rapidly at the rate of 10 to 20% per year. Galloping or 
+jumping inflation occurs at a quick rate (dual or triple-digit annual rates) for a short period of time. Hyperinflation refers to a situation where the prices of goods and services rise 
+uncontrollably, for example, at the rate of increase at more than 50% a month.
+Likewise, inflation is also classified on the basis of causes such as demand-pull or cost-push 
+inflation as well as wage, profit, scarcity, deficit, currency, credit and foreign trade induced inflation. Many of these causes are related to how money is supplied and demanded in the economy. For instance, when governments print money to finance expenditure, this translates into an increase in the money supply which causes inflation. The printing of 
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 12Grade 12 Economics Student Textbook
+money to raise revenue (also known as seinorage) resembles imposing an inflation tax to 
+be paid by money holders. As prices rise, the real value of the money in one’s wallet falls. Hence, inflation is like a tax on holding money ( Mankiwi, 2016).
+Indeed, most episodes of high inflation and hyperinflation are caused by governments’ need to obtain revenue from printing money. Sometimes, inflation reaches extraordinarily high levels. The most extreme cases are hyperinflations, which are traditionally defined as periods when inflation exceeds 50% per month. The all-time record inflation took place in Hungary in July 1946 (with the monthly inflation of 41.9 quadrillion percent amounting to prices doubling every 15.3 hours). The hyperinflation in Zimbabwe in 2007-2009 was almost as large, with prices at times doubling daily ( Romer, 2019). As the result, the 
+Zimbabwean government printed ever higher currency notes, including a $100 trillion bill, to cover its widening deficits. Then, by late 2008, the money was nearly worthless, which led Zimbabwe to adopt the US dollar, immediately halting its hyperinflation.
+Moreover, there is a consistent pattern that wars are associated with inflation. There are 
+reasons for this. For example, during a major war, a government needs to acquire large amount of resources (goods and manpower). Printing money seems like a relatively painless way for the government to acquire some of these resources. Wars, falls in export prices, tax evasion, and political stalemate frequently leave governments with large budget deficits. In addition to this, investors often do not have enough confidence that the government will honour its debts in order to buy its bonds. As a result, a government’s only choice is to resort to printing money hence contributing to inflation.
+1.2.3 Unemployment
+A person is employed if he or she spends some of his/her time working at a paid job. A person is unemployed if he or she is not employed and has been looking for a job or is on temporary layoff. On the other hand, a person who fits into neither of the first two categories, such as a full-time student or retiree, is not in the labour force. In the case of Ethiopia, the population aged 14 to 60 is termed as economically active or of working age. Yet formal employment requires a minimum of 18 years of age. According to the Ethiopian labour law, the labour force does not include children under the age of 14, retired people over 60 years old and those in mental and correctional institutions.
+From the economic point of view, unemployment is the macroeconomic problem that 
+affects people most directly and severely. It has economic costs to broader society. For 
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 13UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+example, when millions of unemployed but willing workers cannot find jobs, economic 
+resources are unused. The opportunity cost of unemployment is the output that the unemployed workers could have produced. Hence, the costs of unemployment justify making a low level of unemployment a public policy priority. In other words, since one aspect of economic performance is how well an economy uses its resources, and workers are the economy’s main resource, keeping workers employed is a paramount concern of economic policymakers. In order to address the problem of unemployment, policy makers need to know about the labour market, the labour force, labour force participation rate and the unemployment rate. These concepts are detailed below.
+The labour force  is defined as the sum of the employed and unemployed. The total labour 
+force refers to the percentage of the population that is willing and able to work. The unemployment rate is defined as the percentage of the labour force that is unemployed 
+or the percentage of those people who want to work and who do not have jobs or those who are out of job despite willingness to work at the existing wage rate. 
+The labour-force participation rate  is the percentage of the adult population that is in 
+the labour force.
+There are different types of unemployment. The major ones are frictional, cyclical and 
+structural unemployment.
+Frictional unemployment occurs during the time when workers move between jobs 
+which take s time on part of both the employer and the individual to match those who 
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 14Grade 12 Economics Student Textbook
+are looking for employment with the correct job opportunities. This results in a lack of 
+perfect mobility of workers between jobs. One example of frictional unemployment is the case of individuals entering the workforce for the first time after graduating from college/university or searching for their first job. They are unemployed until they get their first job.
+Cyclical unemployment occurs due to a deficiency of aggregate effective demand resulting 
+from business depressions ( Dewett,1997). International factors may generate this kind of 
+unemployment. For example, lack of demand for coffee or other agricultural products in overseas markets, resulting from unfavourable business cycles that has a knock-on effect to the employment situation in a domestic economy. Another example of this is that workers will be laid off when the economy is in recession.
+Structural unemployment is a form of involuntary unemployment that happens when 
+there is lack of adjustment between demand for and supply of labour. As the name 
+“structural” implies, the economic changes are extensive amounting to a transformation of an economic structure. It is possible that the work force could grow faster than the stock of capital of a country and the addition of the labour force cannot be absorbed in productive employment. Moreover, there are situations where employers may lack knowledge about the availability of workers or the workers may not know that employment is available with a relevant employer. Individuals may also lack the skills that are valued by the labour market, either because demand has shifted away from the skills they have, or because they never learned any skills. Education is the key in minimizing the amount of structural unemployment. For instance, individuals who have degrees can be re-trained if they become structurally unemployed. On the other hand, for people with no skills and little education, that option is more limited. In sum, structural unemployment is caused by such factors as the lack of necessary skills for a particular job, labour immobility, breakdowns of machinery, and shortages of raw materials.
+On other hand, there is a form of unemployment categorised as underemployment which 
+refers to the situation in which person is forced by unemployment to take a job that he/
+she thinks is not adequate for his/her purpose, or not commensurate with his/her training. Furthermore, there are those who work full time in terms of hours per day but earn very little to rise above the poverty level. Open and disguised unemployment in urban and rural areas are estimated at 30-35% of the labour force in underdeveloped countries.
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 15UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+1.2.4 Business Cycle
+In real life, economic growth is often accompanied by cycles of expansion and contraction, 
+boom and bust. The term “business cycle” (also known as “trade cycle”, “economic cycle” or “boom-bust cycle”) refers to economy-wide fluctuations in production, trade, and general economic activities. The fluctuations represent upward and downward movements in levels of GDP or the period of expansions and contractions in the level of economic activities around a long-term growth trend.
+Business cycles as fluctuations recur with a certain degree of regularity following a 
+pendulum like oscillation. There are upward swings and then downward swings in business as shown in Figure 1.1. According to some economists, every boom is followed by a slump and vice versa ( Vaish, 2010). Business cycles have four distinct phases: 
+expansion, peak, contraction, and trough. An expansion is characterized by increasing 
+employment, economic growth, and upward pressure on prices. A peak is the highest 
+point of the business cycle, when the economy is producing at maximum possible output, employment is at full employment, and inflationary pressures on prices are evident. Following a peak, the economy typically enters a correction which is characterized by a contraction where growth slows, employment declines (unemployment increases), and 
+pricing pressures subside. The slowing ceases at the trough and at this point the economy 
+has hit a bottom from which the next phase of expansion will emerge.
+In sum, economic fluctuations are not regular and predictable. Recessions are common but irregular. So, what causes short-run fluctuations? What model should we use to explain 
+
+--- [PAGE BREAK] ---
+
+1.2 Key Challenges in Macroeconomics 16Grade 12 Economics Student Textbook
+them? Here, a model refers to an organising framework that represents a simplification 
+of the system under investigation. Can policymakers avoid recessions? If so, what policy levers should they use? It is noted that just as Egypt now controls the flooding of the Nile Valley with the Aswan Dam, modern society tries to control the business cycle with appropriate economic policies ( Mankiw, 2016). 
+1.2.5 Balance of Trade
+The balance of trade  is another macroeconomic variable that affects national economies. 
+The balance of trade is the difference between export and the import of goods and services of a country for a given period; it is also an important component of the balance of payment of a country.
+The balance of payment is the systematic record of a nation’s financial transactions with 
+the outside world. It is divided into current and capital accounts. The current account
+shows the market value of a country’s export and import of goods and services, investment income, debt service payments, and private and public net remittances and transfers. 
+The capital account shows the volume of private foreign investment and public grants 
+and loans that flow into and out of a country over a given period. Countries pay interest 
+on loans they receive. For this, they pay a sum of interest payments and repayments of principal on external debt, which is also called debt service  (Todaro and Smith, 2015).
+The balance of trade (or trade balance) is any gap between a nation’s dollar value of exports and imports. When imports exceed exports, the result is a trade deficit in the economy. In other words, if exports exceed imports, the economy has a trade surplus. On the other hand, if exports and imports are equal, then trade is balanced. Now, let us compare two countries, namely, Ethiopia and China, with different trade balances. In 2020, Ethiopia ran a trade deficit of about US$10.7 billion while China had a substantial commodity trade surplus amounting to about US$535 billion in the same year. 
+The question is: What happens when trade is out of balance and large trade surpluses, or 
+deficits exist? Many nations seek trade surpluses; however, some degree of trade deficits 
+is economically tolerable for countries when such a deficit reflects the importing of capital 
+equipment which can then be used to boost productivity and output.
+A series of financial crises which are triggered by unbalanced trade can lead economies 
+into deep recessions. These crises begin with large trade deficits. At some point, foreign 
+
+--- [PAGE BREAK] ---
+
+1.3 The Schools of Thought in Macroeconomic Analysis 17UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+investors become pessimistic about the economy and move their money to other countries. 
+The economy then, drops into deep recession, with real GDP often falling up to 10% or more in a single year. This happened to Mexico in 1995 when its GDP fell by 8.1%. Several countries in East Asia (Thailand, South Korea, Malaysia, and Indonesia) succumbed to the same economic illness in 1997-1998 (called the “Asian financial crisis”). In the late 1990s and into the early 2000s, Russia and Argentina had the identical experience (Mankiw, 2016). 
+Problems with trade imbalances do not reduce the importance of the economic benefits 
+from foreign trade. In the globalised world of today, countries benefit from diversity in production possibilities (due to difference in endowments), economies of scale and decreasing costs as the volume of output expands, as well as satisfaction of different tastes/preferences for commodities from different countries (Samuelson and Nordhaus, 1995).
+ Activity 1.2
+1. Define inflation.2. List the phases of business cycles.3. Define trade deficit and surplus.
+1.3 The Schools of Thought in Macroeconomic Analysis
+At the end of this section, you will be able to: 
+	describe the evolution and recent development in macroeconomic analysis. 
+	list different schools of thought engaged in macroeconomic analysis.
+ Start-up Activity
+1.Who was the pioneer proponent of economics?
+2. What are the major schools of thought in macroeconomic analysis?
+
+--- [PAGE BREAK] ---
+
+1.3 The Schools of Thought in Macroeconomic Analysis 18Grade 12 Economics Student Textbook
+1.3.1 Evolution and Recent Developments
+From the inception of macroeconomics, different schools of thought have engaged 
+in macroeconomic analysis. In the subsequent sections, we will briefly distinguish the classical and neoclassical, the Keynesian, the monetarist, the new classical, and the new Keynesian schools of thought.
+1.3.2 The Classical and Neoclassical
+The classical view was the predominant economic philosophy until the Great Depression. The works of Adam Smith (1723-1790), David Hume (1711-1776), David Ricardo (1772-1823), Jean Baptiste Say (1767-1832), John Stuart Mill (1806-1873), Knut Wicksell (1851-1926), and Irving Fisher (1867-1947) can be categorised here. According to classical thinking, given flexible prices, the short-term fluctuations in economic activity would rather be quick and they would adjust back to full employment. This view of the economy implied a “hands off” policy approach. For example, if an economy slips into recession, it will temporarily exhibit a surplus of goods. Falling prices will eliminate this surplus, and the economy will return to a full employment level of GDP. In this case, no active fiscal or monetary policy is needed. Expansionary fiscal or monetary policy would only cause inflation, rather than increase the GDP. In other words, fiscal policy is useless in affecting employment and output while increasing government spending will lead to a higher rate of interest and full crowding out of private investment, without effecting changes in the price level. On the other hand, monetary policy has no effects on the real sphere of the economy, and it only leads to a higher price level. For classical economists, the real and monetary sectors could be studied separately. Demand-side policies merely affect the interest rate and/or the price level, while supply-side policies affect the real wage, employment, and output.
+Linked to this preference for supply side policies are economists termed as supply-siders, 
+e.g. Arthur Laffer (1940 -) and Robert Mundell (1932-2021). Supply-siders despise government intervention in the markets and emphasize the distorting effects of taxation. Their policy advice is to cut tax rates to stimulate the economy. They argue that there is no need to cut government spending because the tax cut will pay for itself, hence there is no need to restrain public spending on defence, for example, while having an excuse to substantially cut the tax rate. The central element of this argument lies in the Laffer curve theory that was formalized by Arthur Laffer to show the relationship between tax rates and 
+
+--- [PAGE BREAK] ---
+
+1.3 The Schools of Thought in Macroeconomic Analysis 19UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+the amount of tax revenue that is collected by governments. The curve is used to illustrate 
+the argument that cutting tax rates can sometimes result in increased total tax revenue.
+Neoclassical economics is the name given to an economic theory that was developed 
+at the end of the 19th century and beginning of the 20th century in Europe. The main 
+contributors to this theory were Léon Walras (1834-1910), Alfred Marshall (1842-1924) and Vilfredo Pareto (1848-1923). 
+Neoclassicals base their ideas mainly on the writings of Alfred Marshall and his followers. 
+They closely follow the findings of the classical school but emphasize the limitation of some of the classical doctrines, notably that of laissez faire. Moreover, they make use of the concept of marginal utility and accept mathematical economics as one method of presentation. 
+As the name implies, the neoclassical view of how the macro-economy works is a “new” 
+view of the “old” classical model of the economy. The neoclassical view on macroeconomics holds that in the long run, the economy will fluctuate around its potential GDP and its natural rate of unemployment. The two building blocks of neoclassical economics are that the potential GDP determines the economy’s size and wages, and prices will adjust in a flexible manner so that the economy will adjust back to its potential GDP level of output. The key policy implication is that the government should focus more on long-term growth and on controlling inflation than on worrying about recession or cyclical unemployment. This means that neoclassical economics is more useful for long-run macroeconomic analysis and Keynesian economics is more useful for analysing the macroeconomic short run. 
+1.3.3 Keynesian
+The deep and lasting impact of the Great Depression of the early 1930s changed classical thinking. The self-correcting feature of the market, which is of course the hallmark of classical theory, simply did not work. Moreover, the events of the Great Depression contradicted Say’s Law which states that “supply creates its own demand”. Although production capacity existed, the markets were not able to sell their products. As a result, real GDP was less than potential GDP. As far as recession/depressions are concerned, the focus of Keynesian economics was on explaining why and offering a policy prescription for minimizing their effects.
+
+--- [PAGE BREAK] ---
+
+1.3 The Schools of Thought in Macroeconomic Analysis 20Grade 12 Economics Student Textbook
+Following on from John Maynard Keynes (1883-1946), Keynesian economics prescribed 
+active fiscal policy to alleviate weak aggregate demand. The idea for focusing on aggregate demand is simple: firms produce output only if they expect it to sell. While the availability of the factors of production determines a nation’s potential GDP, the amount of goods and services that are sold, known as real GDP, depends on how much demand exists across the 
+economy. Yet aggregate demand is not stable, Keynes argued; it can change unexpectedly.
+Recession, according to the Keynesian view, emerges from two key building blocks. 
+First, aggregate demand is not always automatically high enough to provide firms with an incentive to hire enough workers to reach full employment. Second, the macroeconomy may adjust only slowly to shifts in aggregate demand because of sticky wages and prices, (i.e., wages and prices that do not respond to decreases or increases in demand). 
+The first building block of the Keynesian diagnosis is that recessions occur when the 
+level of demand for goods and services is less than what is produced when labour is fully employed. Suppose that the stock market crashes, as in 1929, or the housing market collapses, as in 2008. In either case, household wealth will decline, and consumption expenditure will follow the same path. Since businesses see that consumer spending is falling, they face reduced expectations of the profitability of investment, so they will decrease investment expenditure.
+According to Keynes, monetary policy is of little help as the additional money will simply 
+be absorbed by investors with no noticeable effect on the interest rate. Fiscal policy, on the other hand, will work well. The additional government spending will stimulate aggregate demand and hence employment and output.
+1.3.4 Monetarist
+The monetarist view is represented by Milton Friedman (1912-2006) and his colleagues. They argued that it is monetary policy and not fiscal policy that addresses the macroeconomic problems. They noted that since they assumed the interest sensitivity of investment to be very high, fiscal policy leads only to strong crowding out of private investment. Fiscal policy, under monetarist assumptions, is unable to influence employment and output. This assumption means monetarists oppose the Keynesians who believed in stimulating economic activity by investment to ward off recessions. Furthermore, the monetarists’ assumptions imply that monetary policy has real effects. A policy maker may therefore be tempted to use a monetary expansion to combat unemployment. But then monetarists 
+
+--- [PAGE BREAK] ---
+
+1.3 The Schools of Thought in Macroeconomic Analysis 21UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+remain doubtful that policy makers are good at timing the monetary policy. They underline 
+the long- and variable-time lags before a macroeconomic problem is recognized before an appropriate macroeconomic policy is implemented, and yields the required effect. When the policy is set too late, monetary policy can heighten business cycle fluctuations in the economy. To this end, Friedman suggested that the central bank should follow a constant growth rule for some monetary aggregate and not tinker with monetary policy to influence aggregate demand and employment.
+1.3.5 New Classical
+The new classicals are the natural successors of the classical economists. That is why they can be termed as the modern-day classical economists. Economists like Robert Lucas (1937 -), Thomas Sargent (1943 -), Robert Barro (1944 -), Edward Prescott (1940 -) are listed in this category. The new classicals stress mathematical techniques. They support classical ideas such as flexible prices and wages, rational expectations or perfect foresight, the efficiency of the market, and full employment. All observable fluctuations in the economy are due to rational agents responding to the incentives as they observe them, not due to nominal rigidities.
+They strongly endorse rational expectations and microeconomic underpinning of 
+macroeconomic relations, such as the consumption function, the investment function, and the labour market. They came up with the term “policy ineffectiveness proposition”, according to which the policy maker either cannot or should not use countercyclical policy.
+1.3.6 New Keynesian
+Just as the New Classicals are the natural successors of classical economists, so are the new Keynesians. Under the umbrella of the new Keynesians are found economists such as George Akerlof (1940 -), Edmund Phelps (1933 -), John B. Taylor (1946 -), Stanley Fischer (1943-), Olivier Blanchard (1948 -) and Gregory Mankiw (1958 -). 
+Writing in the 1970s and 1980s, the New Keynesians derive their main inspiration from 
+the insights of John Maynard Keynes. For them, markets may not be as perfect as the classical economists suggest. They accepted the rational expectation hypothesis (REH), but stressed the existence of nominal rigidities, arising from multi-period nominal wage contracts. Such rigidities invalidate the policy ineffectiveness proposition (PIP) of the new classical economists. Hence, they argue for government to stabilize the economy, even under REH.
+
+--- [PAGE BREAK] ---
+
+Unit Summary 22Grade 12 Economics Student Textbook
+The most recent wave of new Keynesian economics is more micro-based. The 
+predominance of imperfect competition, coordination failures, and credit restrictions are stressed. Although it is too early to call in the jury for a verdict, it is clear that this is a very promising avenue of research.
+ Activity 1.3
+1. Discuss the various schools of thought in macroeconomics.2. Identify the differences between the following school of thoughts in 
+macroeconomics: •	classical and neoclassical economics.
+•	classical and Keynesian economics.
+•	Keynesian and monetarist economics.
+Unit Summary and Review Questions 
+Unit Summary
+Microeconomics focuses on the actions of individual agents within the economy, like households, workers and businesses. Macroeconomics, on the other hand, looks at the economy as a whole by focusing on broad issues such as growth of production, the number of unemployed people, the inflationary increase in prices, government deficits, levels of exports and imports and trade balance. Yet both microeconomics and macroeconomics are complementary perspectives on the subject of the economy.
+The focus areas of macroeconomics  are aggregate behaviour of the economy, such as 
+economic growth, employment, inflation, distribution of income, macroeconomic policies 
+and international trade. The macroeconomic variables such as gross domestic product (GDP), the unemployment rate, and inflation help us to determine the macroeconomic performance of a country.
+The state of macroeconomics has evolved since the 1930s and different schools of 
+thought (the classical and neoclassicals, the Keynesians, the monetarists, the new classical 
+economists, and the new Keynesians) emerged.
+
+--- [PAGE BREAK] ---
+
+Review Questions 23UNIT 1: THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS
+Review Questions
+Part I: True or False
+Read the following sentences and write “True” for correct sentences and “False” for 
+incorrect ones.
+1. There is no difference between microeconomics and macroeconomics.
+2. Macroeconomics focuses on the economy as a whole.3.Microeconomic goals include achieving high economic growth, promoting 
+maximum employment or reducing unemployment, attaining stable prices, reducing budget or balance of payment deficit, and ensuring fair distribution of income.
+4. Balance of trade is the difference between export and import of goods and services 
+of a country for a given period.
+5. Monetarists prescribe active fiscal policy to alleviate weak aggregate demand.
+Part II: Multiple Choices
+For the following question choose the best answer from the given alternatives.
+1.Which one of the following is not a macroeconomic question?
+A.What determines the level of economic activity in a society? 
+B.What determines how many goods and services a nation produces?
+C. What determines how many jobs are available in an economy? D. What causes a firm to grow?
+2. Technological change has the largest impact on which form of unemployment?
+A.frictional unemployment 
+B. cyclical unemploymentC. structural unemployment 
+D.All of the above 
+3. If the national economy is closed, i.e. a country has no interaction with the rest of 
+the world, then,
+A.  GNP > GDP
+B.  GNP < GDPC. GNP =GDPD.All
+
+--- [PAGE BREAK] ---
+
+Review Questions 24Grade 12 Economics Student Textbook
+4.Which one of the following refers to the recurrent ups and downs in the level of 
+economic activity?
+A.economic boom
+B.economic troughC.unemployment
+D.business cycle
+5.One of the following is not true about the evolution and recent development of macroeconomics.
+A. The classical view was the predominant economic philosophy until the Great 
+Depression.
+B.Keynesian economics is more useful for analysing the macroeconomic in the short run.
+C. The most recent wave of new Keynesian economics is more micro-based.
+D. Monetarist argued that it is fiscal policy and not monetary policy that addresses 
+the macroeconomic problems.
+Part III: Short Answers
+For the following questions, write short answers.
+1.What is economic growth? 
+2. Differentiate between GDP and GNP.3. What is inflation? 4. What are the different types of unemployment and their causes?5. Define a trade or business cycle and its phases.6. Write the difference between the balance of trade and the balance of payments. 7. List and briefly explain the different schools of thought in macroeconomics.
+
+--- [PAGE BREAK] ---
+
+INTRODUCTION 25UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+UNIT 
+2 AGGREGATE DEMAND AND 
+AGGREGATE SUPPLY ANALYSIS
+INTRODUCTION
+Aggregate Supply - Aggregate demand (AS-AD) analysis is simply an aggregation of 
+the microeconomic model. Instead of the quantity of output of a single industry, this model represents the quantity of output of an entire economy (national production). Just as there are two sides to a market, a buying side (demand) and a selling side (supply), there are two sides to an economy: demand and supply sides. These are the two forces which operate on the macro economy and they are important tools that help explain the major economic trends. In macroeconomic analysis, we determine the level of overall economic activity in an economy, particularly the levels of output and prices through an interaction of aggregate demand and aggregate supply. This unit presents aggregate demand and aggregate supply, and then study equilibrium of aggregate demand and aggregate supply.
+Learning Outcomes
+At the end of this unit, you will be able to: 
+	distinguish the difference between a change in the quantity demanded and a change in demand.
+	discuss various explanations for wage and price stickiness.
+	demonstrate graphically the short run and long run equilibrium in relation to potential output.
+	explain how the AS–AD model is used to analyse economic fluctuations.
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 26Grade 12 Economics Student Textbook
+Key Concepts
+	Aggregate Demand
+	Aggregate Supply 	Equilibrium
+2.1 Aggregate Demand
+At the end of this section, you will be able to:
+	define concept of aggregate demand.
+	describe the basic determinants of aggregate demand.
+	distinguish the difference between a change in the quantity demanded and a change in demand.
+ Start-up Activity
+1.What important ideas come to your mind when you think of aggregate demand in an economy?
+2. What are the similarities and differences between aggregate 
+demand and aggregate supply from your point of view?
+2.1.1 Concept of Aggregate Demand
+Aggregate demand (AD) refers to the total amount that different sectors in the economy willingly spend in a given period. This is because it is measured by the total expenditure of the economy’s community on goods and services. More specifically, AD is defined as: the total amount of money which all sections (households, firms, and governments) are ready to spend on the purchase of goods and services produced in an economy during a given period.
+Alternatively, AD is the sum of spending by consumers, businesses, and governments 
+which depends on the level of prices as well as on monetary policy, fiscal policy and other factors. In other words, it is the total spending by all the entities in the economy. Moreover, we may say aggregate demand is the total expenditure on consumption and investment. 
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 27UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+There are four major components of AD. household consumption demand (C)
+	private investment demand(I)
+	government demand for goods and services (G)	net export demand (X-M)
+So that, 
+         (  – )AD C I G X M= +++
+A.Consumption (C) is primarily determined by disposable income, which is 
+personal income less taxes, household wealth, longer term trends in income, and the aggregate price level.
+B.Investment (I) spending includes private purchases of structures, equipment’s and accumulation of inventories. The major determinants of investment are the level of output, the cost of capital and expectation about the future.
+C.Government Purchases (G)  of goods and services - This component of AD is 
+determined directly by the government spending decisions.
+D.Net Exports (X-M) is the value of exports minus the value of imports. Net exports are determined by domestic and foreign incomes, relative prices and exchange rates.
+2.1.2 The Aggregate Demand Curve
+The aggregate demand (AD) curve is a schedule that shows the amount of real output that buyers collectively desire to purchase at each price level ceteris paribus. The relationship between the price level and real GDP demanded is inverse or negative.
+
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 28Grade 12 Economics Student Textbook
+In general, it is observed that with other factors held constant, aggregate demand rises with 
+a fall in the general price level. The inverse is also true. Thus, the AD curve is a downward sloping curve. It indicates the output (goods and services) which will be demanded in the economy at various general price levels. 
+Figure 2.1  shows that when the general price level falls 
+10  P to P , the aggregate quantity 
+demanded of the output increases 1 0Q toQ  . Consequently, there is an inverse relationship 
+between the general price level and aggregate demand. Remember here what you learnt in Grade 9  about the relationship between the price of an individual commodity and its 
+demand (law of demand).
+Why Does the Aggregate Demand Curve Slope Downward?
+Asking why the AD curve slopes downward is the same as asking why there is an inverse 
+relationship between the price level and the quantity demanded of real GDP. This inverse 
+relationship, and the resulting downward slope of the AD curve, is explained by the real balance effect, the interest rate, and the international trade effect.
+Real Balance Effect 
+The real balance effect states that the inverse relationship between the price level and the 
+quantity demanded of real GDP is established through changes in the value of monetary 
+wealth, or money holdings. A rise in the price level causes purchasing power to fall, which 
+decreases a person’s monetary wealth. For example, as people become less wealthy, the quantity demanded of real GDP falls.
+Interest Rate Effect
+This is also called a “money supply effect”. A rise in price with a fixed money supply, other 
+things being equal, leads to tight money and produces a decline in total real spending.
+The inverse relationship between the price level and the quantity demanded of real GDP 
+is established through changes in household and business spending that is sensitive to changes in interest rates. A higher price level increases the demand for money. So, given a fixed supply of money, an increase in money demand will drive up the price paid for its use. That price is the interest rate. Higher interest rates curtail investment spending and interest-sensitive consumption spending. Firms that expect a 6% rate of return on a potential purchase of capital will find that investment is potentially profitable when the 
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 29UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+interest rate is, say, 5%. But the investment will be unprofitable and will not be made 
+when the interest rate has risen to 7%. Similarly, consumers may decide not to purchase a new house or new automobile when the interest rate on loans goes up. So, by increasing the demand for money and consequently the interest rate, a higher price level reduces the amount of real output demanded.
+International Trade Effect The international trade effect states the inverse relationship between the price level and 
+the quantity demanded of real GDP, which is established through foreign sector spending. 
+Suppose that the price level in Ethiopia rises. As this happens, Ethiopian goods become relatively more expensive than foreign goods. As a result, both Ethiopians and foreigners buy fewer Ethiopian goods. Due to this, the quantity demanded of Ethiopia’s real GDP falls.
+Change in Quantity Demanded Vs Change in Aggregate Demand
+A change in the quantity demanded of real GDP is brought about by a change in the price 
+level. For example, as the price level falls, the quantity demanded of real GDP rises, ceteris paribus. A change in the quantity demanded of real GDP is represented as a movement
+from one point to another along the same demand curve.
+A change in aggregate demand is a shift in the aggregate demand curve from AD
+1 to 
+AD2 (see Figure 2.2). Try to notice also that when the aggregate demand curve shifts, the 
+quantity demanded of real GDP changes even though the price level remains constant. 
+General Price level remaining constant, any positive change in any of these factors causes a rightward shift in the AD curve, and a negative change shifts the AD curve leftward. These factors include:
+	general level of income of the people, 	real interest rate,	level of economic activity in other countries (it determines the level of exports), 	availability of credit, 	the level of economic activity in the economy itself.
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 30Grade 12 Economics Student Textbook
+2.1.3 Shifts in the Aggregate Demand Curve
+What are the kinds of variables that lead to shift in aggregate demand? In other words, what 
+can cause aggregate demand to rise and what can cause it to fall? The simple answer to these questions is that aggregate demand changes when the spending on Ethiopian goods and services changes. For example, if spending increases at a given price level, aggregate demand rises; if spending decreases at a given price level, aggregate demand falls. 
+When individuals, firms, and governments want to buy more Ethiopian goods and services 
+even though the prices of these goods have not changed, then we say that aggregate demand has increased. As a result, the AD curve shifts to the right. Of course, when individuals, 
+firms, and governments want to buy fewer Ethiopian goods and services at a given price level, then we say that aggregate demand has decreased. As a result, the AD curve shifts to 
+the left. In short, a rise in consumption, investment, government purchases, or net exports will increase spending on Ethiopian goods and services. Similarly, a fall in consumption, investment, government purchases, or net exports will lower spending on Ethiopian goods and services.
+Since we now know what causes total expenditure on Ethiopian goods and services to 
+change, we can relate the components of spending to (Ethiopian) aggregate demand. If, at given price level, consumption, investment, government purchases, or net exports rise, 
+aggregate demand will rise and the AD curve will shift to the right. On the other hand, 
+If, at a given price level, consumption, investment, government purchases, or net exports 
+fall, aggregate demand will fall and the AD curve will shift to the left. We can write these relationships as:
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 31UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+There are two categories of AD determinants. Namely, policy variables under government 
+control, e.g. monetary and fiscal policy variables, and exogenous variables which are determined outside the AD-AS framework, e.g. Foreign economic activity, technological change.
+In this section, we will look at some of the factors that can change consumption, investment, 
+government spending and net exports. 
+Factors Affecting Consumption
+Four factors that can affect consumption are wealth, expectations about future prices and 
+income, the interest rate, and income taxes.
+1.Wealth. Individuals consume not only the basis of their present income but also on the 
+basis of their wealth. Greater wealth makes individuals feel financially more secure 
+and thus, more willing to spend. Increases in wealth lead to increases in consumption. For example, if consumption increases, then aggregate demand rises and the AD curve 
+shifts to the right. What will happen if wealth decreases? Decreases in wealth lead to a fall in consumption, which in its turn leads to a fall in aggregate demand, consequently, the AD curve shifts to the left.
+2.Expectations about future prices and income. If individuals expect higher prices in 
+the future, they increase current consumption expenditures to buy goods at the lower current prices. This increase in consumption leads to an increase in aggregate demand. If individuals expect lower prices in the future, they decrease current consumption expenditures. This reduction in consumption leads to a decrease in aggregate demand. Similarly, expectation of a higher future income increases consumption, which leads to an increase in aggregate demand. In contrast to this, expectation of a lower future income decreases consumption, which leads to a decrease in aggregate demand.
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 32Grade 12 Economics Student Textbook
+3.Interest rate. Current empirical work shows that spending on consumer durables is 
+sensitive to the interest rate. Many of these items are financed by borrowing. So, an 
+increase in the interest rate increases the monthly payment amounts which are linked to their purchase and thereby reduces their consumption. This reduction in consumption leads to a decline in aggregate demand. Alternatively, a decrease in the interest rate reduces monthly payment amounts which is linked to the purchase of durable goods and thereby increases their consumption. This increase in consumption leads to an increase in aggregate demand.
+4.Income taxes. As income taxes rise, disposable income decreases and when people 
+have less take-home pay to spend, consumption falls. Consequently, aggregate demand decreases. Reduction in taxes has the opposite effect; it raises disposable income. In other words, when people have more take-home pay to spend, consumption rises and aggregate demand will increase.
+
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 33UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+Factors Affecting Investment
+Three factors that can change investment are the interest rate, expectations about future 
+sales, and business taxes.
+1.Interest rate. changes in interest rates affect business decisions. For example, as the 
+interest rate rises, the cost of a given investment project rises and businesses invest 
+less. As investment decreases, aggregate demand also decreases. On the other hand, as the interest rate falls, the cost of a given investment project falls and businesses invest more. Consequently, aggregate demand increases.
+2.Expectations about future sales: businesses invest because they expect to sell the 
+goods they produce. If businesses become optimistic about future sales, investment spending grows and aggregate demand increases. On the other hand, if businesses become pessimistic about future sales, investment spending contracts and aggregate demand decreases.
+3.Business taxes: Businesses naturally consider expected after-tax profits when making 
+their investment decisions. For example, an increase in business taxes lowers expected profitability. With less profit expected, businesses invest less. As investment spending declines, aggregate demand declines. A decrease in business taxes, on the other hand, rises expected profitability and investment spending. This in its turn increases aggregate demand.
+
+
+--- [PAGE BREAK] ---
+
+2.1 Aggregate Demand 34Grade 12 Economics Student Textbook
+Factors Affecting Government Spending 
+An increase in government purchases (for example, on military equipment) will shift the 
+aggregate demand curve to the right as long as tax collections and interest rates do not change as a result. In contrast, a reduction in government spending (for example, fewer transportation projects) will shift the curve to the left.
+Factors Affecting Net Exports
+The main determinants of net export are domestic and foreign incomes, relative price, 
+exchange rate, domestic and foreign trade policies, and preferences and technology. For instance, a change in national income affects net exports. Just as Ethiopians earn a national income, so do people in other countries. For example, as foreign real national income rises, foreigners buy more Ethiopian goods and services. Thus, Ethiopia’s exports (EX) rise and as exports rise, net exports rise, ceteris paribus . As net exports rise, aggregate 
+demand increases. This process works in reverse, too. This means that as foreign real national income falls, foreigners buy fewer Ethiopian goods and exports fall. This in its turn lowers net exports, which reduces aggregate demand.
+In the case of change in exchange rate affecting net exports, when a currency appreciates 
+in value if more of a foreign currency is needed to buy it. A currency is said to depreciate
+if more of it is needed to buy a foreign currency. For example, a change in the exchange rate from $1 = 32 Birr to $32= 1 Birr means that more dollars are needed to buy 1 Birr, and Birr appreciates. This is because more dollars are needed to buy 1 Birr, when the dollar depreciates. Depreciation of a nation’s currency makes foreign goods more expensive. Consider an Ethiopia leather jacket that is priced at 1500 Birr when the exchange rate is 1Birr = 2 Indian Rupee. This would mean a person in India would have to pay 3000 Rupee. Now, suppose that the Indian Rupee depreciates to 3 Rupee = 1 Birr. People in India now have to pay 4500 Rupee for the jacket. This process is symmetrical, so an appreciation in a nation’s currency makes foreign goods cheaper. 
+The depreciation and appreciation of the Ethiopian Birr affect net exports. For example, 
+as Birr the depreciates, foreign goods become more expensive. Hence, Ethiopians cut 
+
+--- [PAGE BREAK] ---
+
+2.2 Aggregate Supply 35UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+back on imported goods, and foreigners (whose currency has appreciated) increase their 
+purchases on Ethiopian exported goods. If exports rise and imports fall, net exports increase and aggregate demand increases. As the Birr appreciates, foreign goods become cheaper; Ethiopians increase their purchases of imported goods, and foreigners (whose currency has depreciated) cut back on their purchases of Ethiopia’s exported goods. So, if exports fall and imports rise, net exports decrease, and thus, lower aggregate demand.
+Activity 2.1
+1.Why do aggregate demand curves shift?
+2. Explain why the aggregate demand curve slopes downward.
+2.2 Aggregate Supply
+At the end of this section, you will be able to:
+	define concept of aggregate supply. 
+	construct and interpret the supply curve.
+	describe the basic determinants of aggregate supply.
+ Start-up Activity
+What important idea comes to your mind when you think of aggregate supply in an economy?
+2.2.1 Concept of Aggregate Supply
+The aggregate demand and aggregate supply model is the basic macroeconomic model 
+
+--- [PAGE BREAK] ---
+
+2.2 Aggregate Supply 36Grade 12 Economics Student Textbook
+for studying output and price level determination. Aggregate demand is one side of the 
+economy; and aggregate supply is the other side. 
+Aggregate supply refers to the quantity supplied of all goods and services (real GDP) at 
+various price levels, ceteris paribus. There is a direct or positive relationship between the price level and the amount of real output that firms offer for sale. Aggregate supply includes both short-run aggregate supply (SRAS) and long-run aggregate supply (LRAS). The short-run aggregate supply and long-run aggregate supply are discussed in the following section.
+The Keynesian supply curve is horizontal. Firms will supply whatever amount of good is 
+demanded at the existing price level since there is unemployment. Firms can obtain much labour as they want at the current wage. Average costs of production are assumed not to change as their output level changes.
+The classical aggregate supply curve is vertical, indicating that the same amount of goods 
+will be supplied whatever the price level based on the assumption that the labour market is always in equilibrium with full employment of the labour force (Dorrnbushpp, 2011).
+2.2.2 The Upward Sloping Aggregate Supply Curve: The Short Run (SRAS)
+The short run is a time horizon during which at least one of the firm’s inputs cannot be varied, whereas, the long run, is a time horizon that is long enough for a firm to vary all of its inputs.
+The amount of output firms are willing to supply depends on the prices they receive for their 
+goods and the amount which they have to pay for labour and other factors of production. Accordingly, the aggregate supply curve reflects conditions in the factor markets as well as the goods markets.
+The short-run aggregate supply (SRAS) curve shows the quantity supplied of all goods 
+and services (real GDP or output) at different price levels, ceteris paribus. Notice also that the SRAS curve is upward sloping: as the price level rises, firms increase the quantity supplied of goods and services; as the price level drops, firms decrease the quantity supplied of goods and services. 
+Why is the SRAS curve upward sloping? Economists have put forth a few explanations, 
+from which we will discuss only two of them,. sticky wages and worker misperceptions.
+
+--- [PAGE BREAK] ---
+
+2.2 Aggregate Supply 37UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+Sticky wages: some economists believe that wages are sticky, or inflexible. This is the case 
+due to the fact that wages are “locked in” for a few years due to labour contract agreements entered into between workers and employers. For example, management and labour may agree to lock in wages for the next one to three years. Both labour and management may see this as in their best interest. Management has some idea of what its labour costs will be during the time of the contract, and workers may have a sense of security knowing that their wages cannot be lowered. Alternatively, wages may be sticky because of certain social conventions or perceived notions of fairness. Whatever the specific reason for sticky wages, let’s see how they provide an explanation of an upward-sloping SRAS curve.
+Firms pay nominal wages (e.g., $30 an hour), but they often decide how many workers to 
+hire based on real wages. Real wages are nominal wages which are divided by the price level.
+Nominal wageReal wage = Price level
+For example, suppose that the nominal wage is $30 an hour, and the price level as measured by a price index is 1.50. The real wage is therefore, $20.
+Note that the quantity supplied of labour is directly related to the real wage: as the real 
+wage rises, the quantity supplied of labour rises; as the real wage falls, the quantity supplied 
+of labour falls. However, the quantity demanded of labour is inversely related to the real 
+wage: as the real wage rises, the quantity demanded of labour falls; as the real wage falls, the quantity demanded of labour rises. 
+With this as background, suppose a firm has agreed to pay its workers $30 an hour for the 
+next three years and it has hired 1,000 workers. When this nominal wage was agreed, it was thought that the price index would remain at 1.50 and the real wage would stay at $20.
+Now, suppose that the price index falls to 1.25. When the price level falls to an index 
+of 1.25, the real wage rises to $24 ($30/1.25). This is a higher real wage than the firm 
+expected when it agreed to lock in nominal wages at $30 an hour. If the firm had known that the real wage would turn out to be $24 (and not remain at $20), it would never have hired 1,000 workers. It would rather have hired, say, 800 workers instead.
+So, what does the firm do? As we stated, there is an inverse relationship between the real 
+wage and the quantity demanded of labour (the number of workers that firms want to hire). 
+
+--- [PAGE BREAK] ---
+
+2.2 Aggregate Supply 38Grade 12 Economics Student Textbook
+Now that the real wage has risen (i.e. from $20 to $24), the firm cuts back on its labour 
+(say, from 1,000 to 800 workers). With fewer workers working, less output is produced.
+In conclusion, if wages are sticky, a decrease in the price level (which pushes real wages up) 
+will result in a decrease in output. This is what an upward-sloping SRAS curve represents: 
+as the price level falls, the quantity supplied of goods and services declines.
+Worker misperceptions: another explanation for the upward-sloping SRAS curve holds 
+that workers may misperceive real wage changes. To illustrate, suppose that the nominal wage is $30 an hour and the price level as measured by a price index is 1.50. It follows that the real wage is $20. Now, suppose that the nominal wage falls to $25 and the price level falls to 1.25. The real wage is still $20 ($25/1.25 = $20), but workers may not know this. They will know their nominal wage has fallen (they know they are earning $25 an hour instead of $30 an hour). They also may know that the price level is lower, but they may not know initially how much lower the price level is. For example, suppose that they mistakenly believe the price level has fallen from 1.50 to 1.39. They will then think that their real wage has actually fallen from $20 ($30/1.50) to $17.98 ($25/1.39).
+In response to (the misperceived) falling real wage, workers may reduce the quantity of 
+labour that they are willing to supply. With fewer workers (resources), firms will end up producing less. In conclusion, if workers misperceive real wage changes, then a fall in the price level will bring about a decline in output, which is illustrative of an upward-sloping SRAS curve.
+Changes in Short-Run Aggregate Supply and Shifts in the SRAS Curve
+A change in the quantity supplied of real GDP is brought about by a change in the price level. This is shown as a movement along the SRAS curve, but what are the factors that are 
+likely to shift the SRAS curve? 
+
+--- [PAGE BREAK] ---
+
+2.2 Aggregate Supply 39UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+Aggregate Supply is determined by a number of factors. Some of these factors are as 
+follows:
+a) cost of input or change in input price
+b) domestic Resource availability
+	managerial ability, land, labour and capital 	price of imported resource	market power
+c) change in productivityd) state of technologye) tax policy of government (business taxes and subsidies)f) weather (applies particularly to agricultural output)
+Wage rates: labour is the major input that contributes for cost of production. Hence, wage 
+rate can be taken up as an example of cost of input in the supply process. Changes in wage rates have a major impact on the position of the SRAS curve because wage costs are 
+usually a firm’s major cost item. The impact of a rise or fall in equilibrium wage rates can be understood in terms of the following equation:
+  
+Profit per unit = Price per unit - Cost per unit
+Higher wage rates mean higher costs and, at constant prices, translate into lower profits 
+and a reduction in the number of units (of a given good) managers of firms will want to produce. Lower wage rates mean lower costs and, at constant prices, translate into higher profits and an increase in the number of units (of a given good) managers will decide to produce. 
+The impact of higher and lower equilibrium wages is shown in Figure 2.4. At the given 
+price level, P
+1 on SRAS1, the quantity supplied of real GDP is Q1. When higher wage rates 
+are introduced, a firm’s profits at a given price level decrease. Consequently, the firm 
+reduces production. This, this corresponds to moving from Q1 to Q2, which at the given 
+price level is point B . Point B represents a point on a new aggregate supply curve (SRAS2). 
+Thus, a rise in equilibrium wage rates leads to a leftward shift in the aggregate supply curve. The steps are simply reversed for a fall in equilibrium wage rates.
+
+--- [PAGE BREAK] ---
+
+2.2 Aggregate Supply 40Grade 12 Economics Student Textbook
+2.2.3 The Vertical Aggregate Supply Curve: The Long Run (LRAS)
+In this section, we will discuss long-run aggregate supply and draw a long-run aggregate 
+supply (LRAS) curve. We will also discuss long-run equilibrium and explain how it differs from short-run equilibrium. As explained above, economists give different reasons for an upward-sloping SRAS curve. Recall that those reasons have to do with: sticky wages and 
+workers misperception. It follows, then, that short-run equilibrium identifies the real GDP where the economy produces when either of these two conditions hold. In time, wages will become flexible and misperceptions will turn into accurate perceptions. When this happens, the economy is said to be in the long run. In other words, in the long run, these 
+two conditions do not hold.
+An important macroeconomic question is: Will the level of real GDP that the economy 
+produces in the long run be the same as in the short run? Most economists say that it will 
+not. They argue that in the long run, the economy produces the full-employment real GDP 
+or the natural real GDP (Q
+N). The aggregate supply curve that identifies the output the 
+economy produces in the long run is the long-run aggregate supply (LRAS) curve. 
+
+--- [PAGE BREAK] ---
+
+2.3 Equilibrium of Aggregate Demand and Aggregate Supply 41UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+It follows that long-run equilibrium identifies the level of real GDP that the economy 
+produces when wages and prices have adjusted to their (final) equilibrium levels and there 
+are no misperceptions on the part of workers. Furthermore, the level of real GDP that the economy produces in long-run equilibrium is natural real GDP (QN).
+Activity 2.2
+1.Why does the supply curve slope upward to the right? 
+2. Explain the meaning of the AS curve and why it shifts when technology 
+or factor prices change.
+3. How are movements along the supply curve different from shifts of the 
+supply curve?
+2.3 Equilibrium of Aggregate Demand and Aggregate Supply
+At the end of this section, you will be able to: 
+	define market equilibrium. 
+	identify the concepts of short-run and long-run equilibrium.
+	analyse how the market reaches equilibrium, and the possible factors that could cause a change in equilibrium.
+	differentiate between demand shock and supply shock.
+
+--- [PAGE BREAK] ---
+
+2.3 Equilibrium of Aggregate Demand and Aggregate Supply 42Grade 12 Economics Student Textbook
+Start-up Activity
+Discuss when an economy’s market reaches equilibrium level.
+Let’s bring aggregate demand and supply together to see how the market price of a product 
+is determined. In this section, we put aggregate demand and short-run aggregate supply together to achieve short-run equilibrium in the economy. Aggregate demand and short-run aggregate supply determine the price level and real GDP. Figure 2.6 shows an aggregate 
+demand (AD) curve and a short-run aggregate supply ( SRAS) curve. We consider the 
+quantity demanded of real GDP and the quantity supplied of real GDP at three different price levels: P
+1, P2, and PE. 
+At P1, the quantity supplied of real GDP (Q2) is greater than that of the quantity demanded 
+(Q1). There is a surplus of goods. As a result, the price level drops, firms decrease output, 
+and consumers increase consumption. Why do consumers increase consumption as the price level drops? (Hint: Think of the real balance, the interest rate, and the international trade effects.)
+At 
+, the quantity supplied of real GDP (Q1) is less than that of the quantity demanded 
+(Q2). There is a shortage of goods. As a result, the price level rises, firms increase output, 
+and consumers decrease consumption.
+
+--- [PAGE BREAK] ---
+
+2.3 Equilibrium of Aggregate Demand and Aggregate Supply 43UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+In instances of both surplus and shortages, economic forces are moving the economy 
+towards E, where the quantity demanded of real GDP equals the (short-run) quantity 
+supplied of real GDP. This is the point of short-run equilibrium. PE
+is the short-run 
+equilibrium price level; QE is the short-run equilibrium real GDP.
+Static Equilibrium
+It is probably obvious that the short-run equilibrium of the economy occurs at the 
+intersection of the aggregate demand and short-run aggregate supply curves and that the long-run equilibrium is where the aggregate demand curve intersects the long-run aggregate supply curve. Figure 2.7 shows this state of long-run and short-run equilibrium. 
+If the aggregate demand curve and aggregate supply curves were to remain unchanged, the economy would continue to produce the natural rate of output and have an equilibrium price indefinitely. 
+2.3.1 Shocks to Aggregate Demand
+However, as noted above, there are many reasons why the AD and AS curves could shift. A change in aggregate demand, short-run aggregate supply, or both will obviously affect the price level and/or real GDP. 
+
+--- [PAGE BREAK] ---
+
+2.3 Equilibrium of Aggregate Demand and Aggregate Supply 44Grade 12 Economics Student Textbook
+Consider first the effects of a one-time unexpected exogenous positive shock to aggregate 
+demand. This could arise from an expansionary monetary-policy action, an expansionary fiscal-policy action, or an increase in desired expenditures from another source. An increase in aggregate demand shifts the AD curve to the right; more output is demanded at each level of the aggregate price index. A demand shock can either be expansionary or contractionary. An expansionary demand shock shifts the AD curve to the right, increasing both P and Y. Notice that we use the word “expansionary” or “contractionary” to refer to 
+the effect of the shock on the equilibrium level of output.
+2.3.2 Shocks to Aggregate Supply
+Aggregate supply shocks cause P and Y to change in opposite directions. For example, an improvement in production technology or an increase in the amount of labour or capital resources available would increase the aggregate amount produced and thus, shift the short-run AS curves to the right. A storm that destroyed agricultural crops or a sudden interruption in the availability of imported inputs such as oil might cause a reduction shift to the left in the AS curves. Consider the effects of a negative supply shock. An example of a negative supply shock is an increase in the price of oil. Beginning at point A, an increase in the price of oil causes a decrease in the supply of the product which results in a leftward shift of the aggregate supply curve from SRAS, results in a decrease in output from Y
+1 to 
+Y2  and an increase in price from Y1  to Y2.
+
+--- [PAGE BREAK] ---
+
+Unit Summary 45UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+Activity 2.3
+1. Define “ macroeconomic equilibrium”
+2. Explain the effects of aggregate demand and aggregate supply 
+shocks on real GDP and the price level.
+Unit Summary and Review Questions 
+Unit Summary
+Aggregate demand refers to the total amount of money which all sections (households, 
+firms, and government) are prepare to spend on the purchase of goods and services that are produced in an economy during a given period.
+         (  – )AD C I G X M= +++
+The AD curve is a downward sloping curve. It indicates the output (goods and services) which will be demanded in the economy at various general price levels. Determinants of aggregate demand are: general level of income of the people, the real interest rate, and level of economic activity in other countries (it determines the level of exports), availability of credit, and the level of economic activity in the economy itself.
+
+--- [PAGE BREAK] ---
+
+Review Questions 46Grade 12 Economics Student Textbook
+Aggregate supply refers to the quantity supplied of all goods and services (real GDP) at 
+various price levels in a given period of time, ceteris paribus. Determinants of Aggregate supply are: cost of input or change in input price, domestic resource availability, state of technology, tax policy of government (business taxes and subsidies) and weather conditions. The short-run AS curve is upward sloping, whereas the long-run AS curves vertical.
+Interaction between AD and AS determines the equilibrium level of national output and 
+price level.
+Review Questions
+Part I: Multiple Choice 
+For each of the following questions choose the best answer from the given alternatives. 
+1. The increase in spending that occurs because of the increases the real value of money, 
+when the price level falls is called
+E. the wealth effect. 
+F.the interest rate effect.G. the foreign trade effect. H. the income effect.
+2. Refer to the figure below. An increase in government spending, all else the same, will 
+shift the AD curve from the initial AD curve to the curve labelled:
+A.Increase in AD
+B.Decrease in AD
+C. Neither curve because government spending does not affect the AD curve.D. Either curve, depending on the simultaneous changes in taxation.
+
+--- [PAGE BREAK] ---
+
+Review Questions 47UNIT 2: AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS
+3.In the short run, lower aggregate demand will cause: 
+A. a large decrease in the price level, but no change in the level of output.
+B. a lower price level, but only a slight decrease in the level of output.C. a lower level of output, but only a slight decrease in the price level.D. a large decrease in both the price level and the level of output.
+4.Which one of the following is the determinant of aggregate demand? A. general level of income of the people, B. real interest rate, C. the level of exportsD. All of the above.
+5.Everything else held constant, aggregate demand increases when:
+A. government spending is reduced.B.  the money supply is reduced.
+C. taxes are cut.D. All of the above.
+Part II: Short Answer
+For the following questions write short answers.
+1.What is aggregate demand?
+2.What are the main components of AD?
+3.How is the equilibrium level of output determined by aggregate demand and 
+aggregate supply? Show this using a diagram.
+Part III: Explanation
+Distinguish between the following.
+1. Change in aggregate demand and change in aggregate quantity demanded.
+2. Change in aggregate supply and change in aggregate quantity supplied.
+   
+
+--- [PAGE BREAK] ---
+
+INTRODUCTION 48Grade 12 Economics Student Textbook
+UNIT3MARKET FAILURE AND 
+CONSUMER PROTECTION 
+INTRODUCTION
+In the free market, the equilibrium of a market is determined by the market forces of 
+demand and supply. However, the equilibrium price and the equilibrium quantity of a good may not be the optimal price and quantity. For example, tobacco and alcohol are over-consumed and education and healthcare are under-consumed in the absence of government intervention. Market failure occurs when the free market fails to allocate resources efficiently or distribute goods and services equitably.
+Allocative efficiency is achieved when it is impossible to change the allocation of 
+resources in the economy in a way that will increase the welfare of society. This occurs when marginal social benefit is equal to marginal social cost. Marginal social benefit is the sum of marginal private benefit and marginal external benefit, whereas marginal social cost is the sum of marginal private cost and marginal external cost. On the other hand, external costs and benefits, or externalities, are costs and benefits of consumption or production which are experienced by society other than the producers or the consumers. Although the free market has numerous merits, it may not allocate resources efficiently or distribute goods and services equitably. In this unit, market failure, public goods, externalities, asymmetric information and consumer protection will be discussed.
+Learning Outcomes 
+At the end of this unit, you will be able to: 
+	define market failure. 
+	identify the cause of market failure.
+	state the characteristics of public goods. 
+	define the concept of externalities and asymmetric Information.
+	explain the concept of consumer protection.
+
+--- [PAGE BREAK] ---
+
+3.1 Market Failure 49UNIT 3: MARKET FAILURE AND CONSUMER PROTECTION 
+Key Concepts
+	Market Failure 
+	Public goods	Free rider	Externalities	Asymmetric Information	Consumer Protection
+3.1 Market Failure
+At the end of this section, you will be able to:
+	define market failure.
+	explain the different types of market failures.
+	analyse the solutions of market failures.
+ Start-up Activity
+1.What is market failure from your point of view?
+2.What possible solutions can you suggest to solve the 
+problem of market failure?
+Market failure is the economic situation defined by an inefficient distribution of goods and services in the free market. It occurs when the price mechanism fails to account for all of the costs and benefits that are necessary to provide and consume a good. Furthermore, the individual incentives for rational behaviour do not lead to rational outcomes for the group. In other words, each individual makes the correct decision for himself/herself, but these may prove to be the wrong decisions for the group. In traditional microeconomics, this is shown as a steady state disequilibrium in which the quantity supplied is not equal to the quantity demanded.
+	The structure of market systems contributes to market failure. It is obvious that 
+in the real world that it is not possible for markets to be perfect due to inefficient 
+producers, externalities, environmental concerns, and lack of public goods.
+	Government responses to market failure include legislation, direct provision of 
+merit and public goods, taxation, subsidies, tradable permits, extension of property 
+
+--- [PAGE BREAK] ---
+
+3.1 Market Failure 50Grade 12 Economics Student Textbook
+rights, advertising, and international cooperation among governments.
+A market failure occurs whenever the individuals in a group end up worse off than if 
+they had not acted in perfectly rational self-interest. Such a group either incurs too many costs or receives too few benefits. The economic outcomes under market failure deviate from what economists usually consider optimal and are usually not economically efficient. Even though the concept seems simple, it can be misleading and easy to misidentify.
+Contrary to what the name implies, market failure does not describe inherent imperfections 
+in the market economy-there can be market failures in government activity, too. One noteworthy example for this is that rent-seeking by special interest groups. Special interest groups can gain a large benefit by lobbying for small costs on everyone else, such as through a tariff. When each small group imposes its costs, the whole group is worse off  than if no lobbying that had taken place.
+Additionally, not every bad outcome from market activity counts as a market failure. Nor 
+does a market failure imply that private market actors cannot solve the problem. On the flip side, not all market failures have a potential solution, even with prudent regulation or extra public awareness.
+3.1.1 Common Types of Market Failures
+Commonly cited market failures include externalities, monopoly, information asymmetries, and factor immobility. One of the examples to illustrate market failure is the public goods problem. Public goods are goods or services for which the producer cannot limit consumption to paying customers and for which the consumption by one individual does not limit the consumption by others.
+National defence is one such public good because each citizen receives similar benefits 
+regardless of how much they pay. It is very difficult to privately produce the optimal amount of national defence. Since governments cannot use a competitive price system to determine the correct level of national defence, they also face major difficulty producing the optimal amount. This is an example of a market failure with no pure solution.
+3.1.2 Solutions to Market Failures
+There are many potential solutions for market failures. These can take the form of private market solutions, government-imposed solutions, or voluntary collective action solutions.
+Externalities such as pollution are solved with tort lawsuits that increase opportunity costs 

@@ -1,0 +1,1046 @@
+=================================================================
+Book: geography.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+GEOGRAPHY
+STUDENT TEXTBOOK
+GRADE 12 
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONHAWASSA UNIVERSITYWriters 
+Content Editor 
+Language Editor
+Curriculum Editor
+Illustrator
+Designer
+Evaluators: Teferi Makonnen (PhD)
+Abebe Yibeltie (MA)Hussien Seid (MA)Tamiru Abate 
+(MA) & Asfaw  Mohamed (PhD)
+Professor Aklilu Dalelo Fekede Menuta (PhD)Abera Husen (PhD)Mesfin Anteneh (PhD) Andargachew Abeje (MSc)
+
+
+--- [PAGE BREAK] ---
+
+First Published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, 
+under the General Education Quality Improvement Program for Equity (GEQIP-E) supported 
+by the World Bank, UK’s Department for International Development/DFID-now merged with the Foreign, Common wealth and Development Office/FCDO, Finland Ministry for Foreign Affairs, the 
+Royal Norwegian Embassy , United Nations Children’s Fund/UNICEF), the Global 
+Partnership for Education (GPE), and Danish Ministry of Foreign Affairs, through a Multi Donor 
+Trust Fund.
+© 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education. All rights
+reserved. The moral rights of the author have been asserted. No part of this textbook repro -
+duced, copied in a retrieval system or transmitted in any form or by any means including elec -
+tronic, mechanical, magnetic, photocopying, recording or otherwise, without the prior written
+permission of the Ministry of Educa tion or licensing in accor dance with the Federal Democratic
+Republic of Ethiopia as expressed in the Federal Negarit Gazeta, Proclamation No. 410/2004 
+Copyright and Neighboring Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups and other bodies
+involved – directly or indirectly – in publishing this T extbook. Special thanks are due to Ha -
+wassa University for their huge contribution in the development of this textbook in collabora-
+tion with Addis Ababa Universit y, Bahir Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the owner of copyrighted
+material not cited or improperly cited, please contact the Ministry of Education, Head Office,
+Arat Kilo, (P.O.Box 1367), Addis Ababa Ethiopia.
+Printed by:
+GRAVITY GROUP IND LLC
+13th Industrial Area, Sharjah, UNITED ARAB EMIRATES
+Under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23
+ISBN:978-99990-0-051-2
+
+--- [PAGE BREAK] ---
+
+MAJOR GEOLOGICAL PROCESSES ASSOCIATED WITH PLATE TECTONICS.........................1          
+1.1. Continental Drift Theory .............................................................................................................................................................2                                                                                    
+1.2. Plate Tectonics Theory.....................................................................................................................................................................51.3. Plate Movements and Plate Boundaries...........................................................................................................................81.4. Major Geological Processes....................................................................................................................................................1 1Unit Summary .............................................................................................................................................................................................32Review Questions......................................................................................................................................................................................33UNIT ONE
+MAJOR GEOLOGICAL PROCESSES
+ ASSOCIATED WITH PLATE TECTONICS
+CLIMATE CHANGE UNIT TWO
+CLIMATE CHANGE ........................................................................................................................................................................................34
+2.1. Basic Concepts of Climate Change..................................................................................................................................352.2. Trends in Global Climate Change .................................................................................................................................382.3. Natural and Human Induced Climate Change.....................................................................................................392.4. Consequences of Climate Change...................................................................................................................................462.5. Adaptation and Mitigation Strategies to Climate Change..........................................................................502.6. International conventions and agreements on climate..................................................................................532.7 . Pillars of Climate Resilient Green Economy of Ethiopia................................................................................57Unit Summary .............................................................................................................................................................................................60Review Exercise........................................................................................................................................................................................... 61
+MAJOR GEOLOGICAL PROCESSES
+MAJOR GEOLOGICAL PROCESSES
+Review Questions......................................................................................................................................................................................33
+TABLE OF CONTENTS 
+I
+
+--- [PAGE BREAK] ---
+
+ISSUES IN SUSTAINABLE DEVELOPMENT I: 
+MANAGEMENT OF CONFLICT OVER RESOURCES ...........................................................................62
+3.1. The Concept of Sustainable Development................................................................................................................63
+3.2. Resource Use Policies and Related Conflicts..........................................................................................................693.3. Governance of Natural Resources....................................................................................................................................813.4. Indigenous Conflict Resolution Practices...................................................................................................................84Unit Summary................................................................................................................................................................................................89Review Questions.......................................................................................................................................................................................9 1MANAGEMENT OF CONFLICT 
+OVER RESOURCESUNIT THREE
+ISSUES IN SUSTAINABLE DEVELOPMENT II: 
+POPULATION POLICIES, PROGRAMS AND THE ENVIRONMENT ......................................92
+4.1. Theories on Population Growth and Development...........................................................................................92
+4.2. Population Policies.....................................................................................................................................................................1004.3. Measures Taken to Curb Growth of Population................................................................................................1024.4. Relationship Between Population & Socio-economic Develoment.................................................1074.5. Relationship Between Population and Environmental Health.................................................................1 15Unit Summary ...........................................................................................................................................................................................121Review Questions .................................................................................................................................................................................122POPULATION POLICIES
+PROGRAMS AND THE ENVIRONMENTUNIT FOUR
+POPULATION POLICIES
+POPULATION POLICIES
+II
+
+--- [PAGE BREAK] ---
+
+ISSUES IN SUSTAINABLE DEVELOPMENT III 
+CHALLENGES OF ECONOMIC DEVELOPMENT ...................................................................................123
+5.1. Multiple Faces of Poverty and Implication to Development...................................................................124 
+5.2. The Advantages and Disadvantage of Globalization....................................................................................1295.3. The Growing Imbalance between Regions and Countries.......................................................................1345.4. Corruption.........................................................................................................................................................................................1385.5. Global Health Crises................................................................................................................................................................1 45Unit Summary ..........................................................................................................................................................................................150Review Questions ..................................................................................................................................................................................1 51CHALLENGES OF ECONOMIC 
+DEVELOPMENTUNIT FIVE
+ISSUES IN SUSTAINABLE DEVELOPMENT IV:  
+SOLUTIONS TO ENVIRONMENTAL AND SUSTAINABILITY PROBLEMS ................152
+6.1. Environmental Problems.........................................................................................................................................................153
+6.2. Sustainability Challenge.........................................................................................................................................................1636.3. Environmental Education......................................................................................................................................................1706.4. Environmental Movements..................................................................................................................................................1746.5. Environmentally Friendly Indigenous Practices...................................................................................................178Unit Summary ..........................................................................................................................................................................................183Review Questions...................................................................................................................................................................................184SOLUTIONS TO ENVIRONMENTAL 
+AND SUSTAINABILITY PROBLEMSUNIT SIX
+CHALLENGES OF ECONOMIC 
+CHALLENGES OF ECONOMIC 
+SOLUTIONS TO ENVIRONMENTAL 
+SOLUTIONS TO ENVIRONMENTAL 
+III
+
+--- [PAGE BREAK] ---
+
+CONTEMPORARY GLOBAL GEOGRAPHIC ISSUES AND PUBLIC CONCERNS. ...........................186
+7 .1. Climate Change..............................................................................................................................................................................187
+7 .2. Desertification..................................................................................................................................................................................197 .3. Drought.................................................................................................................................................................................................7 .4. Famine................................................................................................................................................................................................... 2
+0
+Unit Summary ...........................................................................................................................................................................................2Review Questions....................................................................................................................................................................................21CONTEMPORARY GLOBAL GEOGRAPHIC ISSUES 
+AND PUBLIC CONCERNSUNIT SEVEN
+GEOGRAPHICAL ENQUIRY AND MAP MAKING ............................................................................216
+8.1. Fundamentals of Research in Geography.................................................................................................................2178.2. GIS Data and Map Making Using GIS.....................................................................................................................23 1Unit Summary............................................................................................................................................................................................246Review Questions ................................................................................................................................................................................247GEOGRAPHICAL ENQUIRY 
+AND MAP MAKINGUNIT EIGHT
+UNIT SEVEN
+IV1392000
+4.
+
+--- [PAGE BREAK] ---
+
+GENERAL INTRODUCTION
+Geographers across the world are united by the similar questions they ask and the com -
+mon set of basic concepts they employ to consider their answers. Of either a physical or 
+cultural phenomenon, geographers enquire: What is it? Where is it? How did it come to be what and where it is? Where is it in relation to other physical or cultural realities that affect it or affected by it? How is it part of a functioning whole? How does its location affect people’s lives and the content of the area in which it is found? These questions form the core of the enquiry skills which are, in turn, believed to be the main contribution of Geography to the development of core skills in 21st century.
+In the textbook the contents and description are organized and developed based on 
+fundamental and unifying themes in Geography. These mainly focus on physical aspects, human-environment interaction, contemporary Geographical issues, Geographic enquiry and map making.  These promote arguments and use of evidence in day-to-day lives in the process of developing knowledge, skill, values and attitudes. Besides, variety of strategies are addressed to create a range of learning opportunities in the topics suited to the need of all learners by following a thematic approach of the study in Geography. 
+The physical environmental aspects focused on geological processes associated with plate 
+tectonics and resulted land features as well as concept and related basic issues of climate change. The human-environment interaction addresses the issues of sustainable devel-opment in relation to natural resource use and management as well as population and socio-economic development. In connection with this, challenges related to economic development and solutions to environmental and sustainability problems are treated in the textbook. Besides, the climate change, desertification, drought and famine topics are addressed as the contemporary Geographical issues. Finally, fundamental of research in Geography as an enquiry and GIS data and map making using GIS are addressed in the textbook.   
+V
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+1UNIT ONE
+MAIN CONTENTS 
+1.1. Continental drift theory
+1.2. Plate tectonics theory1.3. Plate movements and plate boundaries1.4. Major geological processesUnit SummaryUnit Review Questions
+Introduction
+Our planet earth is a home for all living things in general and human beings in particular. It is in a constant motion caused by internal and external forces. Humanity has been ceaselessly affected by these powerful forces of nature such as earthquake, volcanism, tsunamis, fires, and fault ruptures. The location of these forces is frequently associated with plate boundaries where plates diverge, converge and transverse.  explain the theory of continental drift and controversies surrounding it.
+ describe the movement of the lithospheric plates over geological time.
+ explain the main types of plate boundary and how they interact at 
+triple junctions.
+ describe the driving and retarding forces that influence plate motion at different plate boundaries.
+ explain how plate movements relate to plate boundaries.
+ explain the major geological processes in the formation of continents.
+ explain the effects of on the major geological processes on human lives.
+Learning Outcomes:
+At the end of this unit, you will be able to:
+MAJOR GEOLOGICAL PROCESSES
+ASSOCIATED WITH PLATE TECTONICS
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+2Knowledge of the earth’s movement and the forces that work behind is, therefore, highly 
+desirable so as to predict the ground motion and the forces like earthquake and volcanism. Such a knowledge would enable humanity to minimize the damage from moderate forces, and to avoid total collapse during the occurrence of these forces. 
+We hope that you remember from the previous grades lessons about the geological history of 
+Ethiopia and the formation of the earth’s continents. This is a continuation of these lessons on related matters. This unit particularly deals with the theories of continental drift, plate tectonic, geological processes and the landforms caused by these processes.  
+KEY TERMS: Continental Drift, Pangaea, Laurasia, Gondwanaland
+The Continental drift theory presupposes that the earth’s continents have moved over geologic time relative to each other; thus, appearing to have “drifted” across the ocean bed. The continental drift theory suggests that the present continents were formed from a single continent called PANGAEA. During the Carboniferous period, some 350 million years ago, Pangaea was located around the South Pole. 
+In the Triassic period of Mesozoic era, Pangaea started to break into several parts. The 
+northern part of Pangaea is known as LAURASIA. The southern part of Pangaea is known as GONDWANALAND. Both continents are further subdivided into the present continents. Through the process of drifting, the continents reached their present location. This process of 
+continental drift as a whole took place over  millions of years.1. Do you remember how the continents were 
+formed? 
+2. What forces are responsible for their forma -
+tion?
+1.1 THE CONTINENTAL DRIFT THEORY
+At the end of this section, you will be able to:
+Þ identify the continents that constituted Laurasia and Gondwanaland;
+Þ explain the geological evidences that support continental drift theory;
+Þ explain why Alfred Wegener continental drift theory was not easily accepted; and
+Þ describe how continental drift theory and plate tectonics are related.Brainstorming Activity 1.1
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+3
+Geological Evidences Favoring Continental Drift Theory
+What evidences are there in support of continental drift theory?
+The concept was proposed by a German meteorologist Alfred Wegener in 19 12. One of the basic concepts that helped Wegener’s continental drift theory the idea of a large united landmass consisting of most of the Earth’s continental regions. In his theory, Wegener introduced the supercontinent of Pangaea to explain the ancient climate similarities, fossil evidence and similarity of rock structures between Africa and South America, as well as the outlines of the continents, especially the continental shelves, which seem to fit together (Figure 1.2). Thus, Wegener used the following geological evidence, among others, to support his theory:
+1. Coastline Similarity: The coastlines of Africa and South America have remarkable similarity 
+in opposite side of the Atlantic Ocean. These coastlines fit together like pieces of a jigsaw puzzle.Figure1.1: Continental Drift 
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+4Figure 1.2: Fitting of Africa and South America together
+2. Rock type and structural similarities:  When we fit the continents of Africa and South 
+America “back together again”, we find that: 
+¿ Similar rock types extend from one continent to the other
+¿ The rocks are also the same age. 
+¿ Moreover, several mountain belts also extend from one continent to the next.
+3. Fossil Evidence: cases of several fossil organisms had been found on either side of the 
+Atlantic Ocean, implying that the continents were once joined together. Fossils of Mesosau -
+rus are found on both sides of the Atlantic in South America and Africa (green shaded areas 
+Figure 1.3). Mesosaurus was a small reptile that lived about 250 million years ago. 
+Figure  1.3: Distribution of Mesosousarus
+
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+54. Paleoclimatic Evidence: similarity of climatic data reconstructed from rock structure are 
+similar in the present continents. 
+Why was Wegener ’s continental drift theory not easily accepted? Do you know any other research findings that could be easily accepted by the scientific community?Wegener’s theory of continental drift was rejected by scientific community of the time. The main reasons for this rejection were:
+1. Wegener was not a geologist by profession, which of course was most welcome by his opponents. 
+2. Most influential geoscientists at that time were based in the Northern Hemi -
+sphere, whereas most of the conclusive data came from the Southern Hemisphere. 
+3. Wegener thought that Pangaea did not break up until Cenozoic era, and scientists found it hard to believe that so much continental drift could have occurred in so short a time. 
+4. The greatest problem remained the lack of direct evidence for the movements of continents and the needed explanation for the mechanism.
+Regardless of the controversies mentioned above, perhaps Wegener’s most important legacy is to have introduced the idea of lateral mobility of continents, that is, offering a paradigm change from fixism to mobilism to the scientific community and the public. Hence, the theory ignited a new way of viewing the Earth that led some scientists to start searching for an expla -
+nation of how continents could move.
+1.2 PLATE TECTONICS THEORY
+At the end of this section, you will be able to:
+Þ explain what plate tectonic theory states;
+Þ identify the major tectonic plates and their boundaries;
+Þ draw a diagram to demonstrate the movement of  plates;.
+Þ identify the major continental and oceanic plates; and  
+Þ explain how geological processes and plate boundaries affect human lives. 
+KEY TERMS: Plate tectonics, Plate boundary, Asthenosphere, Lithosphere
+1. What are the factors that contributed to the struc-
+tural formation of the earth? 
+2. What are the main oceanic and continental plates?
+Brainstorming Activity 1.2Reflective Activity 1.1
+1. Explain the main evidences that support the 
+continental drift theory.
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+6Since Alfred Wegener’s continental drift theory, geologists have developed a better picture 
+of the Earth. According to plate tectonic theory, the layer, called the asthenosphere, allows the uppermost mantle and crust, together called the lithosphere to slide across the top of it. Earth’s lithosphere is broken into about a dozen large pieces (plus some smaller ones), called plates (Figure 1.4).These plates move slowly at a rate of a few centimeters per year and change size. Plates may be entirely made up of continental rocks, both continental and oceanic rocks, or entirely of oceanic rocks. 
+Plate tectonics is a theory developed in the late 1960s to explain how the outer layers of the 
+earth move and deform. The theory has caused a revolution in the way we think about the earth. Since the development of the plate tectonics theory, geologists have had to re-examine almost every aspect of Geology. The theory states that the earth’s lithosphere is divided into plates that move around on the top of the asthenosphere. Continental crust is embodied within the lithospheric plate. The plates move in different directions, and meet each other at plate boundaries. Plate tectonics has been proven to be so useful that it can predict geologic events and explain almost all aspects of what we see on the earth.
+Figure 1.4: Lithosphere and Asthenosphere
+Figure 1.4: Lithosphere and Asthenosphere
+Do you think the edge of African plate corresponds to the boundary of the continent?The edges of these plates do not necessarily correspond to the boundaries of continents or oceans. For example, the North American Plate includes the western half of the North Atlantic Ocean’s seafloor. (Figure 1.5) 
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+7
+ The plate tectonics theory is based on a broad synthesis of geologic and geophysical data. It 
+is now universally accepted, and its adoption represents a true scientific revolution. Plate tectonic process influences the composition of the atmosphere and oceans. It serves as a prime cause of long term climate change, and makes a significant contribution to the chemical and physical environment in which life evolves.
+Today, science has shown that the surface of the Earth is in a constant state of change. We are 
+able to observe and measure mountains rising and eroding, oceans expanding and shrinking, volcanoes erupting and earthquakes striking. Thus, this theory serves as the foundation upon which we understand the geologic processes that shape the Earth.
+Figure 1.5: The Tectonic plates and their boundaries
+The plate tectonics theory provides a framework for understanding many of Earth’s features, such as mountains, earthquakes, and volcanoes, as well as the distribution of fossils and the ages of rocks.
+Reflective Activity 1.2
+Reflective Activity 1.3
+Reflective Activity 1.3
+     
+1. Discuss the main idea of plate tectonic theory.   
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+8The way the plates interact at their margins depends on whether the crust forming the top of 
+the plate (at the point of contact) is oceanic or continental. Continental crust, made largely of granite, is less dense than oceanic crust made largely of basalt. As the plates move, they may:        1.  Converge, or come together; forming convergent (Destructive) boundary;
+        2. Diverge, or spread apart; forming divergent (Constructive) boundary or         3. Slide past each other along fractures called transform (Conservative) boundary.
+Convergent plate boundaries
+These are boundaries where two plates move toward each other. At such boundaries, the denser plate will be forced under, or subducted beneath, the less dense one. The subducted crust is eventually destroyed. This happens when oceanic crust meets continental crust and when oceanic crust meets another oceanic crust. For example, the eastward-moving NazcaPlate, under the southeastern Pacific Ocean, is being subducted under the westward moving South American Plate. The denser oceanic crust is pushed down into the mantle, causing it to melt and produce magma (molten rock). The magma and gases rise to the surface, and are vented through the western crust of South America, forming the volcanoes of the Andes Mountains.1.3. PLATE MOVEMENTS AND PLATE BOUNDARIES
+KEY TERMS: Convergent, Transform, Divergent, Conservative, Constructive
+1. Which of the tectonic plates do you think are oceanic?
+2. List down all the plates and group them as either continental or oceanic?
+Figure1.6: Convergence of plate boundary Brainstorming Activity 1.3
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+9 If two oceanic plates converge, subduction of one under the other may produce an arc of 
+volcanic islands. The Mariana Islands of the western Pacific Ocean were formed this way.
+Two blocks of continental crust may converge as well. The resulting pressure can deform the 
+crust. If one block is denser, that block may slide under the other, mainly lifting the other plate rather than sinking too much itself. A good example of this is the convergence of the northward moving Indo-Australian Plate with the Eurasian Plate. Thus, as India met Asia, the collision produced the highest mountain range on Earth: the Himalayas.
+Divergent plate boundary
+This occurs where plates move away from each other at oceanic ridges, such as in the middle of the Atlantic Ocean. There, rising magma from underlying asthenosphere intrude and erupt beneath and at oceanic ridge to create a new seafloor. This pushes the plates on either side away from each other in opposite directions. 
+Undersea volcanoes and crust expanded by heating have produced a long undersea ridge, 
+but with a rift in the middle where the plates are separating. This process is known as seafloor spreading. Shallow earthquakes are common at oceanic ridges. 
+Divergence can also happen on continents, producing fractures called rift valleys. A modern example is the East African Rift Valley. Over millions of years, the continental crust may sepa -
+rate completely, with the area between flooding with water to become a new ocean.
+Transform Fault boundaries
+In some places, plates slide past each other laterally along fractures in the crust. These places are called transform faults. The plates stick and then occasionally slip, producing earthquakes.Figure1.7: Diverging Plates
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+10Most transform faults are found on the seafloor along the undersea mountain chains called 
+oceanic ridges, but the faults also occur on continents, such as the San Andreas Fault in California.(Figure1.8). As plates move past each other along transform faults, crust is neither destroyed nor created.
+Figure  1.8: Transform Fault 
+Plate tectonics is driven by the internal energy of the Earth. Although there is some debate among geoscientists as to the exact mechanism, most agree that motion of the plates is ultimately driven by convection currents in the mantle.Recall that convection is a means of heat transfer wherein the heat moves with the material. It occurs when conduction is inefficient at transporting heat, particularly if the material has a low thermal conductivity, like rocks.Recall also that the Earth's asthenosphere is ductile, and therefore is likely to flow more readily (it will bend or deform if you apply enough force to it) than the overlying lithosphere.
+Figure 1.9: Convection currents in the Asthenosphere
+Figure 1.9: Convection currents in the Asthenosphere
+
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+11Thus, if the asthenosphere moves by convection with the rising currents  carrying heat towards 
+the surface at the oceanic ridges, and descending currents sinking at subduction zones after losing heat to the surface, the brittle plates riding on top of the convection cell will be forced to move over the surface, being in a sense, dragged along by the moving asthenosphere.
+Reflective Activity 1.3
+Reflective Activity 1.3
+Reflective Activity 1.3
+Reflective Activity 1.3
+     
+1. Discuss the three types of plate boundar -
+ies.    
+At the end of this section, you will be able to:
+ distinguish  between endogenic and exogenic forces of the earth; 
+ explain  processes like folding and faulting and their effect on the earth surface;
+ draw a map to locate the major young fold mountains of the world;
+ draw a diagram to show the formation of horst mountains and rift valleys;
+ describe and locate a ring of fire and the countries found around this zone; and
+ examine the way in which the various internal and external forces affect the present land surface.1.4. MAJOR GEOLOGICAL PROCESSES
+KEY TERMS: Folding, Faulting, Anticline, Syncline, Vents, Fissures, Craters, Tsunamis
+1. How would you define a geological process? 
+2. What is the difference between endogenic and exogenic 
+forces? 
+3. Give some examples of endogenic and exogenic forces. 4. What is the difference between folding and faulting?
+Brainstorming Activity 1.4
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+121.4.1. INTERNAL (ENDOGENIC) FORCES
+When you go from your home to your school or another area, you find a lot of ups and 
+downs. Have you ever thought as to how these landforms were formed? What are the factors which are responsible for their formation?
+Internal forces are forces that come from the inside of the earth. These forces create irregularities 
+or unevenness on the face of the earth. They form ups and downs on the crust of the earth by breaking, bending, or folding the rock. Let us briefly examine some of them: folding, faulting, earthquakes and volcanic eruptions.
+FOLDING
+Folding occurs when rock layers are pushed by earth movements sideways. The movement may be only from one direction. It may also be from two directions. When rock layers are pushed from two directions, they are compressed. The rock layers are folded (Figure 1.10). The layers of rock bend up from an upfold or anticline. Those which bend down form a downward arch or syncline. The Earth is a dynamic planet. Geological processes occur constantly, some of them going on 
+invisible for us; while others causing a great damage. The term "geological processes" describes the natural forces that shape the physical makeup of our planet earth. Plate tectonics, erosion, chemical weathering and sedimentation are all examples of forces that significantly affect the Earth’s surface and account for its major features. 
+The geological processes are closely studied by geologists and earth scientists to:
+¿ Improve the understanding of the planet’s history;  
+¿ Help to locate useful resources, such as metal ores; and 
+¿ Aid the prediction of potentially disastrous events, such as earthquakes, tsunamis 
+and volcanic eruptions.
+Some of the geological processes bring about changes on the surface of the earth. The forces that bring about changes on the earth’s surface are divided into two. They are: 
+ 1. Endogenic forces
+  2. Exogenic forces.
+The forces which derive their strength from the earth’s exterior or originate within the earth’s 
+atmosphere are called exogenic forces or external forces.  The endogenic forces, also called internal forces, are used to describe pressure that originates inside the earth.
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+13Figure1.10: Anticline, syncline
+If compression continues then simple folds are changed into asymmetrical folds, over folds 
+and over thrust folds.  (Figure 1.10)
+Asymmetrical fold: one limb is steeper than the other.
+Over fold: One limb is pushed over the other limb.Over thrust fold: When pressure is very great, a fracture occurs in the fold and one limb is pushed forward over the other limb.
+Types of Fold Mountains
+The Fold Mountains of the world are grouped into two: They are:  1. Young fold mountains  2. Old fold mountains
+How can we classify Fold Mountains into categories?
+During the last 400 million years, there have been three main mountain-building periods. These periods experienced mountain-building processes known as orogenesis. Fold mountains formed during the first and second mountain-building periods are known as old fold mountains. The last and the recent is known as Alpine orogeny. Mountains belonging to this period include the Andes, Rockies, Alps, Himalayas, Atlas and Australian Alps. They are called young fold mountains.The old fold mountains are the oldest, dating back 250 to 300 million years, and they are characterized by lower heights are more weathered. Scandinavian (Calidonides) Mountains, Appalachian Mountains, and the Urals are some examples of old fold mountains.
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+14FAULTING
+What is the difference between folding and faulting? Where are the susceptible areas of folding and faulting in the world?
+A fault is a crack on the earth’s crust. It is formed by the forces of tension and compression. A 
+fault may occur in the rocks along a single line. When this happens, rocks are displaced either upward or downward.
+Usually a series of faults could develop on the surface of the earth. These faults may be 
+roughly parallel to each other. Where parallel faults have occurred, the land in between may sink down or may be forced to move upwards. These movements of the earth will result in the formation of the following landforms:1. Rift valleys2. Block mountains
+Rift valleys: They are formed when the land between two faults sinks down. The blocks on 
+both sides of the valley form plateaus. For example the East African Rift Vally.
+Block Mountains: They are formed when the land between two parallel faults is pushed upward. A block mountain is called horst. For example: the Afar Horst. (see Figure 1.12).
+upward. A block mountain is called horst. For example: the Afar Horst. (see Figure 1.12).
+upward. A block mountain is called horst. For example: the Afar Horst. (see Figure 1.12).
+upward. A block mountain is called horst. For example: the Afar Horst. (see Figure 1.12).
+Graben/ Rift Valley Horst/ Block Mountain
+Figure 1.12: Rift valley and Block MountainFigure1.1 1: Major fold mountains of the world Atlas Rockies
+AndesKunlun Tian Shen
+Drakensburg Australian 
+Alps Altai 
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+15EARTHQUAKES
+The sudden shaking of the ground that occurs when masses of rock change position below Earth’s surface is called an earthquake. The shifting of the rock releases a great amount of energy, sending out shock waves that travel through the rock, and cause the ground to shake. These shock waves, called seismic waves by Earth scientists, may be powerful enough to alter the surface, thrusting up cliffs and opening great cracks in the ground. Earthquakes occur most often along geologic faults, which are fractures in the rocks of Earth’s crust. Along faults, the rock masses on opposite sides of the fracture strain against each other and sometimes “slip,” causing an earthquake. 
+The major fault lines of the world are located at the fringes of the huge tectonic plates that 
+make up the crust. Earthquakes, called temblors by scientists, occur almost continuously. Fortunately, most of them can be detected only by sensitive instruments called seismographs. A scale is used for reading it. It is called a Richter scale. It gives reading from 0 (no movement) to 9 (extremely severe). The Richter scale measures the effect in a logarithmic scale. The effects of an earthquake increases significantly for each step up the scale. (Figure 1.13).
+Figure1.13: Richter scale
+Causes of EarthquakesMost of the worst earthquakes are associated with changes in the shape of Earth’s outermost shell, particularly the crust. These earthquakes are generated by the rapid release of strain energy that is stored within the rocks of the crust. The strongest and the most destructive quakes are associated with ruptures of the crust, which are known as faults. Although faults are present in most regions of the world, earthquakes are not associated with all of them. (The kilogram of Trinitrotoluene (TNT) is a unit of energy equal to 4.184 megajoules, which 
+is approximately the amount of energy released in the detonation of one kilogram of TNT.)
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+16Shock Waves
+The shifting rock in an earthquake causes shock waves called seismic waves to spread through the rock in all directions. In a great earthquake, shocks may be felt by people thousands of miles or kilometers away from the center. Seismographs can pick up the waves on the other side of the world. There are two broad classes of seismic waves: 
+Body waves and surface waves.
+Body waves travel within the body of the Earth. They include P, or primary waves and S, or 
+secondary waves. P waves spread in the crust from the point of rupture, which is called the focus of the earthquake. The point of which the wave originates is what we call the Earthquake focus. The point on the Earth’s surface immediately above the focus is termed the epicenter of an earthquake. P waves alternately compress and expand the rock through which they pass, and vibrate in the same direction in which the waves travel. 
+S waves  vibrate at right angles to the direction of wave travel. These secondary waves are 
+the location of an earthquake many thousands of miles away. After both P and S waves have 
+moved through the body of the Earth, they are followed by two types of surface waves, which travel along the Earth’s surface. These are named Love and Rayleigh waves, after the scientists who identified them. Because of their larger amplitude, surface waves are responsible for much of the destructive shaking that occurs far from the epicenter. Surface waves, which travel more slowly than body waves, are the most powerful shake waves.
+1.1 4 Focus and Epicenter of an  Earthquake
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+17Effects of Earthquakes
+Earthquakes often cause dramatic changes at the Earth’s surface. In addition to the ground movements, other surface effects include changes in the flow of groundwater, landslides, and mudflows. Earthquakes can do significant damage to buildings, bridges, pipelines, railways, embankments, dams, and other structures. 
+Earthquakes can lead to devastating fires. Fire produced the greatest property loss following 
+the 1906 San Francisco earthquake, when 521 blocks in the city center burned uncontrollably for three days. Fire also followed the 1923 Tokyo earthquake, causing much damage and hardship for the citizens.
+Underwater earthquakes can cause giant waves called tsunamis (Figure1.15). Violent shaking 
+of the seafloor produces waves that spread over the ocean surface in ever-widening circles. In deep water a tsunami can travel as fast as 800 kilometers per hour. By the time a tsunami reaches shore, it has gained tremendous size and power, reaching heights as great as 30 meters. Tsunamis can be catastrophic, with the potential to wipe out coastal settlements.
+Figure 1.15: Tsunamis, effects of the earthquake 
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+18Occurrence
+Most earthquakes take place on one of the two great earthquake belts that girdle the world. The belts coincide with the more recently formed mountain ranges and with belts of volcanic activity. 
+1. earthquake belt circles the Pacific Ocean along the mountainous west coasts of North and South America and runs through the island areas of Asia. It is estimated that 80 percent of the energy released in earthquakes comes from this belt, which is called the Circum-Pacific Belt or the Ring of Fire (Figure.1.16).
+2. less active belt passes between Europe and North Africa through the Mediterranean region. It then runs eastward through Asia and joins the Ring of Fire in the East Indies. The energy released in earthquakes in this belt is about 15 percent of the world total. 
+3. There are also remarkably connected belts of seismic activity, mainly along mid oceanic ridges including those in the Arctic Ocean, the Atlantic Ocean, and the western Indian Ocean and along the Great Rift Valley of East Africa. 
+Figure 1.16: The belts of Most earthquakes take place
+The focus of an earthquake may occur from quite close to the surface down to a maximum depth of about 700 kilometers. More than 75 percent of the seismic energy produced each year, however, is released by shallow focus earthquakes, that is, quakes with foci less than about 60 kilometers deep. Most parts of the world experience at least occasional shallow-focus earthquakes. About 12 percent of the total energy released in earthquakes comes from intermediate earthquakes, those with foci ranging from about 60 to 300 kilometers deep. 
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+19
+Figure 1.17 Benioff Zone along subducted plate About 3 percent of the total energy comes from deeper earthquakes. The deeper focus earth -
+quakes commonly occur in Benioff zones, which dip down into the mantle at places where 
+two tectonic plates converge (Figure 1.17). A Benioff zone extends down along the plate that is being subducted. 
+Volcanism:
+Volcanism is the process by which molten rock or magma, together with gaseous and solid materials is forced out on the surface of the earth. This movement could be very slow or sudden. With slow movement, the materials could spread over the surrounding area gently. If the movement is violent, the materials will be thrown high into the sky and then fall back in the surface of the earth. Magma may reach the surface of the earth through two types of openings:  1. Vents and  2. FissuresVents are holes or openings like a pipe throw which magma flows out into the surface of the earth. If lava emerges via vent, it builds up a volcano (a cone shaped mound).Fissures are large and narrow cracks or fractures in a rock. Molten materials may move upward along the cracks and spread out over the surroundings. If the lava emerges via a fissure, it builds up a plateau. During the formation of lava plateau, there is little or no explosive activity through the fissures;  lava gently spreads over large area.VolcanoesThe word volcano refers to the form or structure, usually conical, produced by accumulations of erupted material. In some volcanic eruptions, the molten rock called magma when it is underground and lava when it reaches the surface, flows slowly out of the vent. OccurrenceVolcanoes occur mainly near the boundaries of tectonic plates. They form along belts of tension, where plates diverge, and along belts of compression, where plates converge. Nearly 1,900 volcanoes are active today or are known to have been active in historical times. Of these, almost 90 percent are situated in the Pacific Ring of Fire (Figure .18).
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+20
+Figure 1.18:  Pacific Ring of Fire 
+The Mediterranean-Asian belt, which accounts for most of the world’s earthquakes outside 
+the Ring of Fire, has few volcanoes except the Indonesia and Mediterranean which have more numerous ones.
+Oceanic volcanoes are strung along the world’s oceanic ridges, while the remaining active 
+volcanoes are associated with the Great Rift Valley of East Africa. 
+Volcanic activity typically alternates between short active periods and much longer dormant 
+periods. 
+1. An extinct volcano is one that is not erupting, and is not likely to erupt in the future. Example, Mount Zuqualla, Ethiopia.
+2.  A dormant volcano is currently inactive but has erupted within historic times, and is likely to do so in the future. Example: Mount Kilimanjaro, Tanzania
+3. An active volcano is one that has erupted or thought to have erupted during the last 500 years. Example: Erta Ale, Ethiopia.
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+21Volcanoes are usually classified by shape and size. These are determined by such factors as 
+the volume and type of volcanic material ejected, the sequence and variety of eruptions, and the environment. Among the most common types are                1. Shield volcanoes, 
+2. Strato volcanoes3. Cinder cones.4. Craters, and5. Calderas 
+Shield volcanoes are volcanoes that have a low, but broad profile created by highly fluid lava 
+flows that spread over wide areas. The lava, usually composed of basalt, cannot build up a cone with sides much steeper than 7 degrees (Figure1.19).  The Hawaiian Islands are composed of shield volcanoes that have built up from the seafloor to the surface some 5 kilometers above.
+Figure1.19: Shield volcano 
+Strato volcanoes are the most common volcanic form. They are steep cones composed of alternating layers of lava and pyroclastics, or rock fragments. These volcanoes are characterized by a steep profile and periodic, explosive eruptions (Figure1.20). The lava that flows from them is highly viscous, and cools and hardens before spreading very far.
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+22
+Figure1.20: Strato volcanoes 
+Cinder cone volcano is a conical hill of mostly cinder-sized pyroclastics. The profile of the 
+cone is determined by the angle of repose,that is, the steepest angle at which debris remains 
+stable and does not slide downhill (Figure1.21). 
+Figure1.21: Cinder cone volcano 
+Other landforms created by volcanoes include craters and calderas. Craters are formed either by the massive collapse 
+of material during volcanic activity, by unusually violent explosions, or later by erosion during dor -
+mancy. (Figure1.22).
+Figure1.22:Crater volcano 
+
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+23Calderas are large, basin-shaped depressions. Most of them are formed after a magma cham-
+ber drains and no longer supports the overlying cone, which then collapses inward to create the basin (Figure1.23). 
+When magma cools and solidifies within the crust intrusive or plutonic igneous rocks are 
+formed deep beneath the Earth’s surface. Thus, intrusive land forms are the results of part of the magma that solidifies within the crust: Some of the intrusive igneous rocks include batholith, dyke, and sill (Figure1.24).
+Batholith is a very large dome shaped intrusion of igneous rock. It is located several kilometers 
+deep in the crust, and extends over hundreds of square kilometers. Sometimes, it forms the core of a mountain.Sill is a near horizontal intrusion of igneous rock between two rock layers. The cooled rock forms a sheet of more or less parallel to the surrounding layers of rocks.Dike is formed as the magma rises up through a near vertical crack. As the magma cools, it forms a vertical sheet of rock or a wall like structure.
+Figure1.24: Batholith, Sill and Dike 
+Figure 1.23: Calderas; Segara Anakan Crater Lake, Rinjani Mt., Indonesia
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+24They are forces that act on the surface of the earth from the outside. These forces/agents in -
+clude running water, wind, moving ice, sea waves, etc. Usually external forces level the up and 
+down of the earth. This process occurs in two ways: 1. Denudation and 2. Deposition  Volcanic eruptions
+Styles of eruption and types of lava are associated with different kinds of plate boundaries. Most lava that comes from vents in oceanic divergence zones and from mid oceanic volcanoes are basaltic. Where ocean plates collide, the rock types basalt and andesite predominate. Near the zone where an ocean plate and a continental plate converge, consolidated ash flows are found. The eruption of Krakatoa (1883) unleashed a tsunami, a large seismic sea wave that swept the coasts of Java and Sumatra and drowned more than 36,000 people. 
+1. What are the defining characteristics or features 
+of external forces affecting the earth’s surface?
+2. Can you mention instances of this force and dis -
+cuss in pair please? 
+1.4.2. EXTERNAL (EXOGENIC) FORCES
+Brainstorming Activity 1.5
+Denudation is the lowering of the land by wearing away the surface of the earth. 
+Denudation consists of i). Weathering and   ii). Erosion
+WEATHERING
+Weathering refers to the gradual break down of rocks into pieces. These rocks lie on the surface of the earth. How do rocks break down into small fragments? 
+Weathering of rocks takes place in two ways. They are:
+       1. Physical (Mechanical) weathering 
+       2. Chemical weathering 
+1. Physical weathering  is the process by which rocks are broken into smaller pieces. Each 
+fragment has similar chemical characteristics like the original. There are three important physical processes that cause rocks to break down into pieces.They are:        i). Thermal expansion and contraction        ii). Frost action       iii). Plant and animal action 
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+25
+Frost action:  When water freezes, its volume increases. If water in the cracks of rocks freezes, 
+it expands and pushes the sides of the cracks. Then the cracks widen and deepen. 
+Frost action is very common in the cooler areas of the world. Due to frost action rocks break 
+up into pieces. Then, the fragments collect around the lower slopes of the rocky outcrops. Such rock collections are called screes.
+Plants and animals action: The roots of some plants, especially trees, enter the cracks of 
+rocks. When the roots continue to grow, they need more space. Then, they force the cracks and widen them. This leads to the breaking down of the rock. Creatures such as worms, rab -
+bits, moles, make holes in the ground to find food and shelter. While doing this, they break up rocks. 
+2. Chemical weathering: This involves complete changes in the internal structure of rocks. 
+How does the structure of rock change permanently? Chemical weathering can occur because of:             i. Rain action             ii. Plants and animalsFigure1.25: ExfoliationThermal expansion and contraction:  In hot and dry areas, temperature brings change on 
+the surface of the rocks. In such areas, at daytime, rocks are heated greatly. This causes the surface layers of rocks to expand. At night temperature becomes low. The same layer which has expanded at daytime contracts at night. Due to this contraction and expansion process, the rock layers peel off and fall to the ground. It is just like peeling an onion. The process of breaking rock layers caused by changes of temperature is called exfoliation (Figure 1.25).
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+26Rain action
+Water is the most important agent of chemical weathering. This is not true for pure water. But rain water dissolves oxygen and carbon dioxide as it falls through the atmosphere. Therefore, such water is not pure. Some minerals like iron will rust when they become in contact with rainwater that has dissolved oxygen from the atmosphere. Rusting makes iron weak and breakable. Minerals that have carbonates are dissolved when they come in contact with rainwater that has carbonic acid. Limestone is one example.Solution - removal of rock in solution by acidic rainwater. In particular, limestone is weathered by rainwater containing dissolved CO2, (this process is sometimes called carbonation). Hydrolysis - the breakdown of rock by acidic water to produce clay and soluble salts.
+Chemical weathering is most active in limestone. When water flows between layers of limestone, 
+it dissolves and erodes parts of the rock and forms holes. These holes become larger and wider as they continue to be eroded. Finally, very large underground water holes called caves are formed. Rivers that pass through limestone areas often flows underground through caves, e.g. Weyb river in Bale or Sof Omar (Figure1.26).In underground cave, water passes slowly through the roof of the cave. Thus, a drop of water (now a solution) hangs to the ceiling of the cave. When the drop of water falls, small amounts of the solution is left as a deposit on the ceiling. After a long time, these small deposits build up to form a limestone column that hangs down from the ceiling. This is known as stalactite.  The water drops that falls from the ceiling form small deposits on the floor. These deposits slowly build upward and form other limestone columns from the floor. We call these stalagmites. After a long time, a stalactite hanging down from the ceiling may join with a stalagmite growing upward to form a pillar. Thus, the ceiling and the floor of the cave are connected by such pillars (Figure 1.26).
+Figure1.26: Stalagmites and stalactites in Sof Omar Cave in Ethiopia
+
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+27How do animals and plants act as agents of chemical weathering? 
+Bacteria in the presence of water break down certain minerals in the soil. Plants also absorb minerals. Moreover, decaying vegetation produces organic acid which causes a further break down of minerals. All these actions help to weaken and breakup the rocks. 
+EROSION AND DEPOSITIONSoil erosion is the movement of soil and rock particles from one place to another. The major 
+agents of erosion include:
+¿ Running water
+¿ Underground water
+¿ Wind
+¿ Sea waves
+¿ Glaciers 
+Running water erosion:Running water includes all sorts of water that flows on the surface of the earth. Among the external forces, running water is more powerful in shaping the surface of the earth. The abil -
+ity of running water to erode and transport materials is directly related to its speed. Running water flowing along a steep slope is very powerful. Therefore, it can wear and tear the land surface strongly. As a result, large amount of rock materials are removed from the slope and then transported elsewhere. On the other hand, the rate of erosion by running water also depends on vegetation cover. Areas that have rich vegetation cover are less affected by erosion.
+Running water results in different types of landforms (Figure1.27). Some of them are the 
+following:Landform associated with runoff: they occur by the erosion activity of surface water moving down a slope or across a field. This type of erosion includes:Sheet erosion: It occurs when surface water moves in a wide flow. This moving water erodes top soil evenly. This type of erosion may not be noticeable until much damage has been done. Rill erosion: It occurs when surface water cuts small channels or ditches in the soil. Gully erosion:  This happens when floods join together and cut the ditches wider and deeper. Gully erosion can become severe where all or most of the vegetation has been removed.
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+28
+Figure 1.27: Landforms associated with running water: Sheet, Rill and Gully erosion, respectively from left to right.
+Landform associated with a river course:  various types of landforms are formed along the 
+course of rivers. These landforms grouped as follow:
+Landforms associated with the upper course of a river:  In its upper course, a river is swift 
+and strong. And therefore, it cuts a deep gorge or canyon. Landform associated with a middle course of river: In this part, the river valley becomes 
+wider and larger. The volume of water increases because of the many tributaries that join the main river. The place where a tributary joins the main river is called confluence.  Landform associated with the lower course of a river:  In its lower course, a river flows 
+slowly. It has a wide and flat-floored valley. Due to the slow movement of the river, most ma -
+terial carried in suspension are deposited. These materials do form different features along the course of the river. Types of upper course landformsV-shaped valley: They are narrow and steep-sided valleys in the upper course of a river. They have the shape of the letter “V”. 
+Figure 1.28: Landforms associated with the upper course of a river, V-shaped valley, 
+gorge, Interlocking spurs, Rapids and Waterfalls
+Gorge:  It is a valley that is deep and narrow with steep walls. The rock walls are nearly vertical. 
+Waterfalls: They are formed when a river flows over a hard rock which cannot be eroded. 
+The soft rock is eroded fast. Thus, the hard rock will remain hanging over which water flows (Figure1.28).
+      Interlocking spurs:  fingers of land that jut out in to the river valley that stream and rivers are 
+      forced to flow around in the upper course. Rapids:   fast turbulent section of the river where 
+the bed has relatively steep gradient  Waterfalls: commonly form where water rushes down steep hillside in the upland areas. 
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+29Meanders:  It is the winding of a river. The river makes zigzag movements (Figure 1.29). The 
+river erodes its way against soft rocks than hard rocks. Whenever the river comes against hard rocks, it is forced to change direction. Ox-bow Lake: It is a crescent-shaped lake occupying a cut-off channel that has been aban-doned. It is bent like the shape of the letter ‘U’ (Figure1.29).
+Figure1.29: Landforms associated with a middle course of river, Meanders and Ox-bow 
+Lake, respectively from the left to the right
+Types of middle course landforms
+Flood plain: It is a land surface formed from sediments deposited along the banks of the 
+lower course of a river (Figure 1.30). Flood plain is therefore, a low-lying flat plain along the lower course of a river. Delta:  It is a triangular piece of land found at the mouth of a river (Figure1.30). The name 
+originated from the Greek letter delta. 
+Figure1.30 : Landforms associated with the lower course of a river; 
+Flood plain & Delta,  respectively from the left to the right.Types of lower course landforms
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+30Wind action:  It is very powerful in desert and semi-desert areas. Because of the work of wind, 
+different features are formed in these areas. The most common features include:Sand dunes are little hills of sand (Figure1.3 1) formed when sand collects around obstacles, such as rock or bits of vegetation. Barkhan is a hill with the shape of crescent moon or quarter moon. Loess deposits are fertile soils in deserts deposited by wind. There are large loess deposits in North China.
+Figure1.3 1: Wind action; Sand dunes, Barkhan, Loess de-
+The work of the sea:  the sea water performs both erosion and deposition activities. The 
+most important features formed along the coastlands include:Beach is strip of land along the sea coast covered by varied types of sediments (Figure1.32).
+Spit is a low-lying, narrow deposits of sand or silt attached at one end to the land moving 
+deep into the sea in the other end (Figure1.3 1).Lagoon is an area of salt water separated from the seaby loose sand banks (Figure1.3 1). 
+Figure 1.32: The work of the sea beach, spit, lagoon left to right
+Mass wasting: Mass Wasting refers to the down slope movements of rock, regolith, and soil under the influence of gravity. Actual gravity is the controlling factor for mass wasting. There are also other factors. The major ones are:
+ Water;
+ The angle of the slope, and
+ The activities of people.   
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+31How do water and the angle of slope cause mass wasting? Let us examine them briefly.
+Water: We know that a portion of rain water that falls on land soaks into the ground. Part of the sacked water collects into pores of the sediments. Such water could reduce the cohesion among the particles which results in lack of internal resistance. Subsequently, the materials are set in motion by the force of gravity.
+The Angle of the Slope: The steepest slope at which materials remain firm varies from 25 to 
+40 degrees. This depends on the size and shape of the particles. For example, the larger and more angular particles maintain the steepest slopes. If the angle is increased, the rock debris will adjust by moving down slope.
+Activities of people: People often create favorable conditions for mass wasting along steep and 
+unstable slopes. This happens due to farming and overgrazing of the areas. In different parts of Ethiopia, mass wasting occurred several times. This phenomenon resulted in the destruction of human life and properties. 
+Reflective Activity 1.4
+Reflective Activity 1.4
+Reflective Activity 1.3
+Reflective Activity 1.3
+     
+1. What are the resultant effects of the endog -
+enic process of the earth? 
+2. Discuss the main types of land forms along the course of the river.   
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT ONE
+32The continental drift theory suggests that the present continents were formed from a single 
+continent called PANGAEA. The breaking of Pangaea was the result of tectonic forces. Plate tectonics refers to the study of the movements of plates and land forms. The movements include divergent, convergent, and transform movements. Movement of continents is understood in line with continental drift theory. The causes of earth movements include convection current and isostatic movements.The surface of the earth is changed by internal and external forces. Plate tectonic process profoundly influences the composition of the atmosphere and oceans, serving as a prime cause of long term climate change, and makes significant contribution to the chemical and physical environment in which life evolves.Today, science has shown that the surface of the Earth is in a constant state of change.Earthquakes often cause dramatic changes on the Earth’s surface. A volcano is a vent, or opening, in the Earth’s surface through which molten rock, gases, and ash erupt.Mass Wasting refers to the down slope movements of rock, regolith, and soil under the influence of gravity. Denudation is the lowering of the land by wearing away the surface of the earth. Soil erosion is the movement of soil and rock particles from one place to another.UNIT SUMMARY
+
+--- [PAGE BREAK] ---
+
+Major geological processes associated with plate tectonics
+33I. Chooses the best answer for the following questions
+1. Which one of the following is part of the old Gondwanaland?
+        A. North America     B. Asia       C. Europe     D. Australia
+2. Which of the following  was proposed by Alfred Wegener?
+       A. Plate Tectonics       B. Continental Drift      C. Ocean floor spreading      D. All
+3. What is the name of the huge sea that existed around Pangea?
+          A. Atlantic Ocean      B. Tethys        C. Amazon     D. Antarctica     E. None
+4. The sudden shaking of the ground that occurs when masses of rock changes its position
+below the Earth’s surface is called:         A. An earthquake     B. Volcano      C. Magma     D. None
+5. Which of the features given below is associated with the work of wind action in different
+areas?       A. Sand dunes      B. Barkhan      C. Loess deposits     D. All        E. None
+6. A crack on the earth’s crust formed by the forces of tension and compression is:
+        A. A fault           B. A fold         C. Volcano           D. All 
+7 . Instruments that can detect earthquake waves are called:
+       A. Thermographs   B. Seismographs    C. Wind vane      D. None
+II. Give Short answers to the following questions 
+1. Explain the continental drift and plate tectonic theories. 2. Identify the major geological  processes  and explain associated land features.  REVIEW QUESTIONS
+ REVIEW QUESTIONS
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+34UNIT TWO
+CLIMATE CHANGE
+  MAIN CONTENTS
+2.1. Basic concepts of climate change 
+2.2. Trends in global climate change 2.3. Natural and human induced climate change2.4. Consequences of climate change2.5. Adaptation and mitigation strategies to climate change2.6. 
+International conventions and agreements on climate change
+2.7 . Pillars of Climate Resilient Green Economy of Ethiopia changeUnit SummaryReview Questions
+     Introduction
+    In the previous grade level you learned about climatic classification and regions of the 
+world, the factors that influences the world climate and indigenous climatic classification of Ethiopia. Climate change is one of the most significant environmental challenges facing humankind today.  explain basic concepts of climate change;
+ distinguish between natural and human induced climate change;
+ analyze trends in climate change in Ethiopia and the world at large;
+ recognize the major climate change mitigation and adaptation strat -
+egies;
+ assess the major international conventions and agreements in views of their aspirations and achievements; and 
+ explain the purpose and Pillars of Climate Resilient Green Economy strategy of Ethiopia
+Learning Outcomes:
+At the end of this unit, you will be able to:
+CLIMATE CHANGE
+
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+35     Though there are several arguments over the concept of climate change, scientifically speaking,   
+there is no doubt about the existence of global warming and climate change. It is now 
+time to find out what actions will be taken at the political and social spheres to make our world more resilient and fight climate change. Geography has much to contribute to understanding of the complex spatial dimensions of climate change, including the observed and anticipated geographical differentiation in potential impacts and vulnerability. Therefore, this unit addresses about basic concepts of climate change such as global climate change, cause and consequences of climate change, adaptation and mitigation strategies, international conventions and agreements on climate change and finally the climate resilient green economy of Ethiopia   
+2.1. Basic Concepts of Climate Change 
+At the end of this section, you will be able to:
+  define climate change; and
+  conceptualize climate change.
+KEY TERMS: Climate Change, Global warming, Greenhouse gases, IPCC, Carbon dioxide
+1. Imagine that last summer was much hotter than the usual in the place where you live. Is this a sign of climate change? 
+2. Likewise, say almost every summer for the past de-cade has been hotter than the usual. Is this a sign of climate change?  Recall how climate differs from weather based on your experiences, for example, if you decided what clothes to buy for years, and what clothes to wear in a particular day; these explain climate and weather respectively.  Climate refers to the conditions of the atmosphere in a certain place over many years. For example, the climate in Gondar is cold in the winter, and the climate in Gambella is warm and humid all year long. The climate in one area, like the Horn of Africa, is called a regional climate. 
+Brainstorming Activity 2.1
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+36The average climate around the world is called global climate. When scientists talk about 
+global climate change, they are talking about the global climate and a pattern of change that’s happening over many years. 
+One of the most important trends that scientists look at is the average temperature of the 
+Earth, which has been increasing for many years. This is called global warming. Rising global temperatures lead to other changes around the world, such as stronger hurricanes, melting glaciers, and the loss of wildlife habitats. This is because the Earth’s air, water, and land are all interdependent and prone to the climate change. This means a change in one place can lead to other changes somewhere else. For example, when air temperatures rise, the oceans absorb more heat from the atmosphere and become warmer. Warmer oceans, in turn, can cause stronger storms as shown in Figure 2:1
+Figure 2:1 Global warming leading to a variety of changes.
+According to the Intergovernmental Panel on Climate Change (IPCC), Climate change refers to a change in the state of the climate that can be identified by changes in the mean and/or the variability of its properties and that persists for an extended period, typically decades or longer. It refers to any change in climate overtime, due to either natural variability or human activities.Thanks to the work of the IPCC and other groups of scientists working on the definition of climate change, we now better understand the consequences of this phenomenon in our lives. In the minds of many, climate change is a relatively distant problem that simply implies that it will get hotter. Nevertheless, the consequences are much deeper and should be taken more seriously.
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+37
+Figure 2.2: Climate change: an integrated framework
+    The yellow arrows show the cycle of cause and 
+effect among the four quadrants in the figure; 
+the blue arrow indicates the societal response to climate change impacts.
+Note: 
+Previous assessments have already shown through multiple lines of evidence that the climate is changing across our planet, largely as a result of human activities. The most convincing evidence of climate change derives from observations of the atmosphere, land and oceans. A clear evidence from in situ observations and ice core records shows that the atmospheric concentrations of important green-house gases such as carbon dioxide (CO
+2), methane(CH4), 
+and nitrous oxide (N2O) have increased over the last few centuries. Adaptation & Mitigation
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+38The Earth’s climate has always changed and evolved. Some of these changes have been due 
+to natural causes, but others can be attributed to human activities such as deforestation, atmospheric emissions from industry and transport, which resulted in the storage of gases and aerosols in the atmosphere. They are known as greenhouse gases (GHGs) because they trap heat and raise air temperatures near the ground, acting like a greenhouse on the surface of the planet.
+The Intergovernmental Panel on Climate Change (IPCC) pointed out in its 2001 Third 
+Assessment Report on the state of the global climate that an increasing body of observations gave a collective picture of a warming world and other changes in the climate system. The report documented that the 1990s had been the warmest decade worldwide, and 1998 the warmest year since instrumental records had begun in 1861. The report also indicated that the twentieth century was likely to have been the warmest century in the last 1,000 years. Subsquently, the observed evidences revealed that most of the warming experienced over the past 50 years had resulted from human activities. Hence, the implication suggests, human influence will continue to change atmospheric composition throughout the twenty-first century.1. What do you expect about the climatic condition in your locality in the next 10 or 20 years?  Will the temperature and rainfall increase or  Work in pair and share your understanding with your classmate KEY TERMS: Reducing emissions, Deforestation, Aerosols, Human activities 
+ 2.2. Trends in Global Climate Change
+At the end of this section, you will be able to 
+ explain the global trends in climate change.Reflective Activity 2.1
+Reflective Activity 2.1
+     
+1. What is  the difference between IPCC and other definitions of climate change?    
+Brainstorming Activity 2.2
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+39Global warming has begun to affect the sea level, snow cover, ice sheets and rainfall. Shifts in 
+regional patterns of climate marked by rising air temperatures are already affecting watersheds and ecosystems in many parts of the world. 
+The average global surface temperature has warmed 0.800C in the past century and 0.600C in 
+the past three decades. The IPCC has projected that if greenhouse gas (GHG) emissions, the leading cause of climate change, continue to rise, the mean global temperatures will increase from 1.4
+0C to 5.80C by the end of the 21st century (IPCC 2001). Figure 2.3 Global mean land and ocean temperature variation index, 1880 to present, with the base period 195 1-1980.
+Reflective Activity 2.2
+Reflective Activity 2.2
+     
+1. What are the main reports of IPCC to 2001?    
+2.3. Natural and Human Induced Climate Change
+At the end of this section, you will be able to:
+¿ describe the natural and human induced climate change by giving examples 
+KEY TERMS: Variations in Solar Output, Climate variations, Milankovitch Theory, 
+                     Composition of the atmosphere,Incoming solar radiation
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+40One of the great environmental concerns of our time is the climate change now unfolding as 
+a result of greenhouse gases being added to our atmosphere. Glaciers are melting, sea level is rising, precipitation is becoming more intense in many areas, and global temperature is increasing each decade. Climate change, whether driven by natural or human forcing, can lead to changes in the likelihood of the occurrence or strength of extreme weather and climate events or both.
+ The primary cause of climate changes over the last few decades is human (anthropogenic) 
+activity, mainly the burning of fossil fuels. , Evidently climate has changed in the past, and nothing suggests that it will not continue to change, both globally and locally. As the urban environment changes, its climate differs from that of the region around it. Sometimes the difference is striking, as when city nights are warmer than the nights of the outlying rural areas. Other times, the difference is subtle, as when a layer of smoke and haze covers a city. 
+In this chapter, we will first look at the evidence for climate change in the past; then we will 
+investigate the causes of climate change from both natural processes and human activity. IPCC has produced the world’s most comprehensive reports on climate change for more than 25 years. It published in-depth climate assessments in 1990, 1995, 2001, 2007 , 2013, and again in 2021. The 2013, Fifth Assessment Report, states that it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-twentieth cen -
+tury. In the report, “extremely likely” means a probability of at least 95 percent.
+Climate Change Caused by Natural Events
+What are the natural causes of climate change? There are three “external” causes of climate change. These are changes in: 
+1. Incoming solar radiation;
+2. The composition of the atmosphere; and3. The Earth’s surface.
+Natural phenomena can cause climate to change by all the three mechanisms, whereas human activities can change climate by the second and third mechanisms.1. What activity of people in your area do you think negatively affect the climatic condition? 
+Brainstorming Activity 2.3
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+41On the other hand, “internal” causes of climate change, manifested interms of circulation pat-
+terns of the ocean and atmosphere, which redistribute energy within the climate system rather than altering the total amount of energy it holds.Part of the complexity of the climate system is the intricate interrelationship of the elements involved. For example, if temperature changes, many other elements may be altered as well. The interactions among the atmosphere, the oceans, and the ice are extremely complex and the number of possible interactions among these systems is enormous. No climatic element within the system is isolated from the others, which is why the complete picture of the Earth’s changing climate is not totally understood. With this in mind, we will first investigate how feedback systems work; then we will consider some of the current theories as to why the Earth’s climate changes naturally.
+Variations in the Earth’s Orbit: 
+A theory ascribing climatic changes to variations in the Earth’s orbit is the Milankovitch theory, named after the name of astronomer Milutin Milankovitch, who first proposed the idea in the 1930s. The basic idea of this theory is that, as the Earth travels through space, three separate cyclic movements combine to produce variations in the amount of solar energy that reaches the Earth. The Milankovitch cycles that combine to produce variations in solar radiation re -
+ceived at the Earth’s surface include: 
+c Changes in the shape (eccentricity) of the Earth’s orbit about the sun. 
+c Precession of the Earth’s axis of rotation, or wobbling. 
+c Changes in the tilt (obliquity) of the Earth’s axis.
+What are the Milankovitch Cycles? Natural global warming, and cooling, is considered to be initiated by Milankovitch cycles. These orbital and axial variations influence the initiation of climate change in long-term natural cycles of ‘ice ages’ and ‘warm periods’ known as ‘glacial’ and ‘interglacial’ periods. Our current climate forcing shows we are outside of that natural cycle forcing range.
+41
+cycle forcing range.
+Figure 2:4 Milankovitch Cycle
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+42During periods of maximum sunspots, the sun emits more energy (about 0.1 percent more) 
+contrasted to periods of sunspot minimums. Evidently, the greater number of bright areas around the sunspots radiate more energy, which offsets the effect of the dark spots. 
+Atmospheric Particles
+Microscopic liquid and solid particles (aerosols) that enter the atmosphere from both natural 
+and human-induced sources can have an effect on climate. The effect of these particles on the climate is exceedingly complex, and depends upon a number of factors, such as the particle’s size, shape, color, chemical composition, and vertical distribution above the surface.  In this section, we will examine those particles that enter the atmosphere through natural means.Particles near the surface: Particles can enter the atmosphere in a variety of natural ways. For example, wildfires can produce abundant amounts of tiny smoke particles, and dust storms sweep tons of fine particles into the atmosphere. Flaming volcanoes can release significant quantities of sulfur-rich aerosols into the lower atmosphere. Although the effect of these particles on the climate system is complex, the overall effect they have is to cool the surface of the earth by preventing sunlight from reaching the surface.
+Figure 2.5: Solar cycleVariations in Solar OutputSolar energy measurements made by sophisticated instruments aboard satellites show that the sun’s energy output (called brightness) varies slightly by a fraction of 1 percent with sunspot activity. Sunspots are huge magnetic storms on the sun that show up as cooler (darker) regions on the sun’s surface. They occur in cycles, with the number and size reaching a maximum approximately every 1 1 years. The Figure 2.4 illuminates this better.
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+43Volcanic eruptions
+Volcanic eruptions can have a major impact on climate. During volcanic eruptions, fine par -
+ticles of ash and dust (as well as gases) can be ejected into the atmosphere. Scientists agree that the volcanic eruptions having the greatest impact on climate are those rich in sulfur gases. These gases, when ejected into the stratosphere, combine with water vapor in the presence of sunlight to produce tiny, reflective sulfuric acid particles that grow in size, forming a dense layer of haze. The haze may reside in the stratosphere for several years, absorbing and reflect -
+ing back to space a portion of the sun’s incoming energy. The reflection of incoming sunlight by the haze tends to cool the air at Earth’s surface, especially in the hemisphere where the eruption occurs.
+Human (Anthropogenic) Induced Climate Change
+Earlier in this chapter, we saw how variations in atmospheric CO
+2 may have contributed to 
+changes in the global climate spanning thousands and even millions of years. Today, we are modifying the chemistry and characteristics of the atmosphere by injecting into it vast quantities of particles and greenhouse gases without fully understanding the long-term consequences. In this section, we will first look at how gases and particles injected into the lower atmosphere by human activities may be affecting climate. Then, we will examine how CO
+2and other trace 
+gases appear to be enhancing  the Earth’s greenhouse effect, producing global warming.
+Aerosols Injected into the Lower Atmosphere:
+ In the  previous section, we learned that tiny solid and liquid particles (aerosols) can enter the atmosphere from both human-induced and natural sources.The human-induced sources include emissions from factories, autos, trucks, aircraft, power plants, home furnaces and fireplaces, to name a few. 
+Many aerosols are not injected directly into the atmosphere, but form when gases convert 
+to particles. Some particles, such as sulfates and nitrates, mainly reflect incoming sunlight, whereas others, such as soot, readily absorb sunlight. Many of the particles that reduce the amount of sunlight reaching Earth’s surface tend to cause a net cooling of the surface air during the day.Land use changes:All climate models predict that, as fossil fuels continue to spew greenhouse gases into the air, the climate will change and the Earth’s surface will warm. But are humans changing the climate by other activities as well?
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+44Modification of Earth’s surface taking place right now could potentially be influencing the 
+immediate climate of certain regions. For example, studies show that about half the rainfall in the Amazon River Basin is returned to the atmosphere through evaporation and through transpiration from the leaves of trees. Consequently, clearing large areas of tropical rain forests in South America to create open areas for farms and cattle ranges, as is happening now, will most likely cause a decrease in evaporative cooling. This decrease, in turn, could lead to a warming in that area at least several degrees Celsius. In turn, the reflectivity of the deforested area will change. Similar changes in albedo result from the overgrazing and excessive culti -
+vation of grasslands in semi-arid regions, causing an increase in desert conditions (a process known as desertification).
+Increasing Greenhouse Gases Emission 
+Carbon dioxide is one of a greenhouse gas that strongly absorbs infrared radiation and plays a major role in the warming of the lower atmosphere. Everything else being equal, the more CO
+2
+in the atmosphere, the warmer the surface air is. We also know that CO2 has been increasing 
+steadily in the atmosphere, primarily due to human activities, such as the burning of fossil fuels like coal, oil, and natural gas. Deforestation is also adding to this increase. Through the process of photosynthesis, the leaves of trees remove CO
+2 from the atmosphere. The CO2 is 
+then stored in leaves, branches, and roots. When the trees are cut and burned, or left to decay, the CO
+2 goes back into the atmosphere.
+Moreover, Nitrous Oxide (N2O) and Methane (CH4) are greenhouse gases that causes for 
+climate change. These three gases are differ in how they absorb energy (preventing it from escaping to space) and how long the gas stays (life time)  in the atmosphere. For example, CO
+2 
+stays for over 100 years while, the others two gases last relatively for short time. NH3 causes 
+21 times as much warming as an equivalent mass of CO2 over 100 years.
+    Naturally, atmospheric GHGs are important to maintain life 
+on earth. The role of water vapor Co2 and other GHGs play 
+keeping the earth’s mean surface temperature higher than 
+it otherwise would be. If the GHGs were absent earth’s av -
+erage atmospheric temperature would be 330C less. These 
+affects all ecosystem on earth. While, the problem of GHGs effects are increasing in the amount of those gases in the at -
+mosphere due to human causes that resulted for deviation from the natural or normal conditions. 
+21 times as much warming as an equivalent mass of CO
+    Naturally, atmospheric GHGs are important to maintain life 
+    Naturally, atmospheric GHGs are important to maintain life 
+    Naturally, atmospheric GHGs are important to maintain life 
+Note: 
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+45Global Warming
+We have discussed several times in this chapter that the Earth’s atmosphere is in a warming trend that began around the turn of the twentieth century.  This warming trend is real, as the average global surface air temperature since the late 1800s has risen by about 1.
+0 C. 
+Moreover, the global average for each decade since the 1980s has been warmer than that of the preceding decade. There are many signs of increasing global warmth other than temperature readings. For example, the amount of water locked in the world’s glaciers and ice sheets is steadily decreasing, and sea level is steadily rising.
+Global warming might even be apparent where you live. The growing season, for example, 
+may be getting longer, or you may find the changing of the leaf color in autumn tending to happen later than in the past. Global warming in any given year, however, is small, and it only becomes significant when averaged over many years, such as decades. So, it is important not to base global warming on a specific weather event. The main indicators of global warming are shown in figure 2:5.
+Figure 2:5 indicators of Global warming
+Reflective Activity 2.3
+Reflective Activity 2.3
+     
+1. What are the main causes of climate change?   
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+462.4. Consequences of Climate Change
+At the end of this section, you will be able to:
+ examine the impacts of climate change on human beings and other life forms; and
+ assess the impacts of climate change on the physical features such as water and 
+forest.
+KEY TERMS:  Sea level rise, sea ice melt, Food security
+If the world continues to warm as predicted by climate models, where will most of the warming take place? 
+Climate models predict that land areas will warm more rapidly than the global average, particularly 
+in the northern high latitudes in winter. We can see that the greatest surface warming for the period 2001 to 2006 tended to occur over landmasses in the high latitudes of the Northern Hemisphere, as experienced in Canada and Russia. As high-latitude regions of the Northern Hemisphere continue to warm, modification of the land may actually enhance the warming. For example, the dark green boreal forests of the high latitudes absorb upto three times as much solar energy as does the snow-covered tundra. Consequently, the winter temperatures in subarctic regions are, on the average, much higher than they would be without trees. If warming allows the boreal forests to expand into the tundra, the forests may accelerate the warming in that region. As the temperature rises, organic matter in the soil should decompose at a faster rate, adding more CO
+2 to the air, which might accelerate the warming even more. 
+Trees that grow in a climate zone defined by temperature may become especially hard hit as rising temperatures place them in an inhospitable environment. These changes in temperature will also affect people in many ways, of course, including direct effects on human health. For example, with heat waves expected to become more frequent and intense, heat-related deaths are expected to increase, although there could be some compensating decrease in cold-related illnesses. In the lower latitude, there are more frequent droughts and unpredictable rainfall due to global warming. Predictions show that global warming will amplify current dangers and introduce new ones, seriously affecting people’s ability to support themselves.
+Precipitation
+Changes in precipitation and drought may be just as important as changes in temperature over the coming decades. As with temperature, changes in precipitation will not be evenly distributed, as some areas will tend to get more precipitation and others less. 
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+47Since the middle of the twentieth century, precipitation has generally increased over the 
+middle- and high-latitude land areas of the Northern Hemisphere, while decreasing over some subtropical land areas. In many areas, there has also been an increase in the intensity of the heaviest precipitation events during the last 50 years or so.
+ The changes in precipitation adversely affect by placing added stress on agriculture. Even 
+in places where average annual precipitation does not change, it is possible that rainfall and snowfall will be focused in more intense wet spells, with longer dry periods in between. In many parts of the world, observations show that the heaviest one-day rainfall events are already becoming heavier. In addition, warming temperatures will tend to cause soil to dry out more quickly, exacerbating the impact of drought when it occurs. 
+Sea Level Rise
+Another major consequence of climate change is an increase in sea level, as land-based ice sheets and glaciers retreat, the oceans continue to expand and get warm. During the twentieth century, average global sea level rose by about 17 cm. From 1900 to 2010, globally averaged sea level rose about 19 cm, with the pace accelerating from the 1990s onward. About half of that was a result of melting glaciers and ice sheets, with the other half produced by the expansion of oceans as they warm. Globally averaged sea level has risen about twice as quickly since 1993, roughly 3.4 cm per decade, as it did during the twentieth century as a whole.
+Sea level rise will be a growing issue in the coming decades for the many millions of people 
+who live near coastlines around the world. Storm surges will occur atop a higher baseline water level. Rising ocean levels could also have a damaging influence on coastal ecosystems, such as coral reefs. In addition, coastal groundwater supplies might become contaminated with saltwater.
+   Figure 2.6 Rising Seas: As sea ice 
+and ice caps at both of the Earth's 
+poles continue to melt at unprec-edented rates, rising sea levels can put coastal and island communi -
+ties like those in the Philippines at risk of flooding and water damage.
+Figure 2.6 Rising Seas: 
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+48Effects on Polar Regions
+In Polar Regions, areas of the world, rising temperatures produce complex interactions among temperature, precipitation, and wind patterns. Hence, in Antarctica, more snow might actually fall in the warmer air. This situation could allow snow to build up across the interior, although it may be counterbalanced by an increase in melting already taking place along the Antarctic coastline. Over Greenland, which is experiencing rapid melting of ice and snow, any increase in precipitation will likely be offset by rapid melting, and so the ice sheet is expected to continue to shrink. Sea ice has been shrinking and thinning rapidly across the Arctic Ocean. During the summer of 2007 , and again in the summer of 2012, the extent of Arctic sea ice dropped dramatically to new record lows. If the warming in this region continues at its present rate, summer sea ice may, at times, shrink to cover less than 10 percent of the Arctic Ocean by the middle of this century, or even sooner.
+Effects on ecosystems
+Increasing levels of CO2 in a warmer world could have many other consequences. For example, greater amounts of CO2 can be expected to act as a “fertilizer” for some plants, accelerating their growth, although this process can slow over time if water, nitrogen, and other nutrients were not plentiful enough to sustain the growth. In some ecosystems, certain  plant species could become so dominant that others are eliminated. In tropical areas, where many developing nations are located, the effects of climate change may actually decrease crop yield, whereas higher latitudes might benefit from a longer growing season and an earlier snowmelt. Extremely cold winters might become less numerous, with fewer bitter cold spells. 
+      Figure 2.7 Sea ice is frozen seawater that floats on the ocean surface, forming 
+and melting with the polar seasons. Some persists year after year in the Arctic, 
+providing vital habitat for wildlife such as polar bears. 
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+49However, wildfires may continue to become more prevalent during dry spells in forested 
+high-latitude areas.
+Thus, while there will be some “winners” and some “losers,” the most recent analyses suggest 
+that the impact of climate change on agriculture and ecosystems may become increasingly negative by later in this century.Future impact on our climate system has been summarized from the 2013 Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) as follows: The primary source of the increased atmospheric concentration of carbon dioxide since the preindustrial period results from fossil fuel use, with land-use change providing another significant but smaller contribution. The atmospheric concentration of carbon dioxide in 2005 exceeds by far the natural range over the last 800,000 years (180 to 300 parts per million (ppm) as determined from ice cores. Climate-driven changes in species distributions affect human well-being both directly (for example, through emerging diseases and changes in food supply) and indirectly (by degrading ecosystem health) see figure 2.8.
+Figure 2.8 Interlinked climate change changes impact on species 
+distributions and human well-being
+Reflective Activity 2.4
+Reflective Activity 2.4
+     
+1. What are the main impacts of climate change?   
+
+
+--- [PAGE BREAK] ---
+
+UNIT 
+ONE
+UNIT 
+ONE
+UNIT TWO
+502.5. Adaptation and Mitigation Strategies to Climate Change
+At the end of this section, you will be able to:
+ elaborate the main adaptations and mitigations strategies to climate change;
+ describe adaptation to climate change;
+ define mitigation to climate change; and
+ differentiate between mitigation and adaptation strategies.
+KEY TERMS : Adaptation, Mitigation, Strategies, Reactive, Anticipatory, Planned, Autonomous
+1. What are the common climate change adapta-
+tion and mitigation mechanisms peoples ad -
+opted in your locality? 
+Think individually about each issue then discuss in a group of five and report to the class
+Climate change is one of the all-encompassing global environmental changes likely to have deleterious effects on natural and human systems, economies and infrastructure. The risks associated with it call for a broad spectrum of policy responses and strategies at the local, regional, national and global level.
+ The United Nations Framework Convention on Climate Change (UNFCCC) highlights two 
+fundamental response strategies: mitigation and adaptation.While mitigation seeks to limit climate change by reducing the emissions of greenhouse gases and by enhancing ‘sink’ opportunities, adaptation aims to alleviate the adverse impacts through a wide-range of system-specific actions.
+Although both mitigation and adaptation measures must be pursued to tackle the climate 
+change problem and to create an effective and inclusive international climate change regime, more attention has been devoted to mitigation in the past, both in scientific research and policy debate. Sensitivity to the issue of adaptation has grown over the last couple of years, particularly after the IPCC Third Assessment Report. Adaptation has now emerged as an urgent policy priority, prompting action both within and outside the climate change negotiations.
+Brainstorming Activity 2.4
+
+--- [PAGE BREAK] ---
+
+Climate Change 
+51Climate Change Adaptation 
+According to Intergovernmental Panel on Climate Change, adaptation to climate change refers to, “adjustments in ecological, social or economic systems in response to actual or expected stimuli and their effects or impacts. This term refers to changes in processes, practices and structures to moderate potential damages or to benefit from opportunities associated with climate change” .
+The most commonly identified adaptation strategies in Ethiopia include soil conservation, 
+terracing, water harvesting, crop diversification, changing crop planting date, planting trees and irrigation.
+Figure 2.9: Climate change Adaptation using irrigation and planting trees. 
+Types of AdaptationDepending on its timing, goal and motive of its implementation, adaptation can either be reactive or anticipatory, private or public, planned or autonomous. Adaptations can also be short/long term, localized or widespread (IPCC 2001). In unmanaged natural systems, adaptation is autonomous and reactive, and is the means by which species respond to changed conditions. In these situations, adaptation assessment is essentially equivalent to natural system impact assessment. 
+Reactive or Anticipatory Adaptation
+Reactive adaptation is the one that takes place after the initial impacts of climate change have occurred. Anticipatory adaptation takes place before impacts become apparent. In natural systems, there is no anticipatory adaptation. 

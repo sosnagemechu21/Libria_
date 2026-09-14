@@ -1,0 +1,921 @@
+=================================================================
+Book: mathematics.pdf
+Chapter 1: FURTHER ON SETS ….………………………
+Pages: 12 to 37
+=================================================================
+
+Unit 1:  Further on Sets  
+ 
+    
+ 
+ 
+ 
+ 
+FURTHER ON SETS  
+ 
+ 
+ 
+ 
+Unit Outcomes  
+Explain facts about sets . 
+Describe sets in different ways . 
+Define operations on sets .  
+Demonstrate set operations using Venn diagram . 
+Apply rules and principles of set theory for practical situations.  
+ 
+Unit Contents  
+1.1   Sets and Elements  
+1.2   Set Description  
+1.3   The Notion of Sets  
+1.4   Operations on Sets  
+1.5   Application  
+   Summary  
+  Review Exercise  
+  
+ 
+  UNIT  
+1 
+1 1
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+Introduction  
+In Grade 7 you hav e learnt basic definition  and operations involving sets.  The 
+concept of a set serves as a fundamental part of the  present day mathematics. T oday 
+this concept is being used in almost every branch of mathematics.  We use sets to 
+define the concepts of relat ions and functions.  
+In this unit, you will  discuss some further  definitions , operations  and applications  
+involving sets . 
+ 
+1.1 Sets and Elements  
+A set is a coll ection of well -defined objects  or elements . When we say  a set is well -
+defined, we mean that if an object is  given , we are able to  determine whether the 
+object is in the set or not.  
+ • subset  • symmetric difference  
+• set description  • Venn diagram  
+• empty set  • intersection  • absolute complement  
+• union  • proper subset                           • complement set                   
+ 
+ 
+1.Define a set in  your own words.  
+2.Which of the following are well defined sets and which are not? Justify your 
+answer.  
+a.Collection of students in your class.  
+b.Collection of beautiful girls in your class.  
+c.Collection of consonants of the English alphabet.  
+d.Collection of hardworking teachers in a school .  
+Activity 1.1 
+2
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+If 𝑎 is an element of set 𝐴, we say  “𝑎 belongs to 𝐴”. The Greek symbol ∈ (epsilon) is 
+used to denote the phrase “belongs to ”. Thus, we write 𝒂 ∈𝑨 if 𝑎 is a member of set 
+𝐴.  If  𝑏 is not  an element  of set 𝐴, we write 𝒃∉𝑨 and read  as “𝑏 does not belong to  
+set 𝐴” or “𝑏 is not a member of set  A”. 
+ 
+                                                          Figure 1.1  
+ 
+a. The set of  students in your class is a well -defined set  since the elements of the set  
+are clearly known .  
+b. The collection of kind s tudents  in your school . This is not a well-defined  set 
+because it is difficult to list members of the set.  
+c. Consider 𝐺 as a set of vowel letters in English alphabet. Then 𝑎∈𝐺,𝑜∈𝐺, 𝑖∈𝐺, 
+but 𝑏∉𝐺. 
+ 
+Suppose that 𝐴 is the set of positive even numbers. Write the symbol  ∈ or ∉  in the  
+blank  spaces . 
+a. 4 _____ 𝐴              b.  5_____ 𝐴               c.  −2_____ 𝐴             d.  0____ 𝐴 
+Solution:  
+The positive even numbers include 2,4,6,8,… . Therefore,   
+      a.  4∈𝐴                       b.  5∉𝐴,                    c.   −2∉𝐴,                   d.  0∉𝐴. 
+ 
+i)Sets are usually denoted by capital letters like 𝐴,𝐵,𝐶,𝑋,𝑌,𝑍, etc.  
+ii)The elements of a set are represented by small letters like   𝑎,𝑏,𝑐,𝑥,𝑦,𝑧, etc.  
+Note  
+Example 1  
+  
+Example 2  
+  
+3
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+1. Which of the following is a well -defined set? Justify your a nswer . 
+a. A collection of all boys in your class . 
+b. A collection of efficient doctors in Black Lion Hospital.  
+c. A collection of all natural numbers less than 100.  
+d. The collection of songs by Artist Tilahun Ges sese.  
+2. Let 𝐴={1,2,3,4,5,6}. Insert the appropriate symbol ∈ or ∉ in the blank spaces:  
+a. 5____𝐴       b.   8 ____ 𝐴      c.    0____𝐴       d.   4____ 𝐴         e.   7____𝐴 
+ 
+1.2 Set Description  
+Sets can be described in the following ways . 
+i) Verbal method  (Statement form)  
+In this method , the well-defined description  of the elements of the set is written in an 
+ordinary English language statement form  (in words) .  
+ 
+a. The set of whole numbers greater than 1 and less than 20. 
+b. The set of students in this mathematics class.  
+ii)  Listing Methods  
+a) Complete listing method (Roster Method)  
+In this method , all elements of  the set  are completely listed . The  elements are 
+separated by commas and are enclosed within set braces , { }. 
+ 
+a. The set of all even positive integers less than 7 is described in complete  listing 
+method as {2,4,6}.  
+b. The set of all vowel letters  in the English alphabet is described in complete  listing 
+method as {𝑎,𝑒,𝑖,𝑜,𝑢 }. 
+Exercise 1.1  
+Example 1  
+  
+Example 2  
+  
+4
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+b) Partial listing method  
+We use this method, i f listing  of all elements of a set is difficult or impossible but the 
+elements can be indicated clearly  by listing a few of them that fully describe the set. 
+ 
+Use partial listing me thod to describe the following s ets. 
+a. The set of natural  numbers less than 100 . 
+b. The set of whole numbers.  
+Solution:   
+a. The set of natural numbers less than 100 are 1,2,3 ,…,99.  So, naming the set as 
+𝐴, we can express 𝐴 by partial  listing method as   𝐴 = {1,2,3,…,99}.  The three 
+dots after element 3 and the comma above indicate that the elements in the set 
+continue in that manner up to 99. 
+b. Naming the set of  whole numbers by  𝕎 , we can describe it as  
+ 𝕎= {0,1,2,3,…}. 
+So far, you have lea rnt three methods of describing a set. However , there  are sets 
+which cannot be described by these three methods. Here , below is another method of 
+describing a set. 
+iii) Set builder method (Method of defining property)  
+The s et-builder method is described by a property that its memb er must satisfy  the 
+common property . This is the method of writing the condition to be satisfied by  a set 
+or property of a set.  
+In set brace, write the representative of the 
+elements of a set, for ex ample 𝑥, and then  
+write the condition that 𝑥 should satisfy 
+after the vertical line ( |) or colon ( :) 
+  
+Example 3  
+  
+Figure 1. 2 
+5
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+ 
+Describe the following sets using set builder method.  
+i) Set 𝐴= {1,2,3…10} can be described  in set builder method as: 
+   𝐴= {𝑥 | 𝑥∈ℕ and 𝑥<11}.  We read this as  “𝐴 is the set of all elements of  
+              natural numbers less than  11.” 
+ii) Let set   𝐵= {0,2,4,….}.  This can be described  in set builder method  as: 
+          𝐵= {𝑥 | 𝑥∈ℤ and 𝑥 is a non -negative even integ er} or 
+          𝐵={2𝑥 | 𝑥=0,1,2,3,…} 𝑜𝑟 𝐵={2𝑥 | 𝑥∈𝕎}. 
+ 
+1. Describe each of the follo wing sets using a verbal method.  
+a.   𝐴 = { 5,6,7,8,9}                 b.     𝑀 = {2,3,5,7,11,13} 
+c.   𝐺 = {8,9,10,….}                 d.     𝐸 = {1,3,5,…,99} 
+2. Describe each of the following sets using complete and partial listing method (if 
+possible):  
+a. The set of positive ev en natural numbers  below or equal to 10. 
+b. The set of positive even natural number s below or equal to 30.  
+c. The set of non -negative integers.   
+d. The set of even natural numbers . 
+e. The set of natural numbers less than 100 and divisible by 5. 
+f. The set of integers divisible by 3. 
+3. List the elements of the following sets:  
+ 
+The set of natural numbers, whole numbers, and integers are denoted by ℕ, 𝕎, 
+and ℤ, respectively. They are defined as  
+ℕ= {1,2,3,...} 
+                                                           𝕎 = {0,1,2,3,...}, 
+                                   ℤ= {....−3,−2,−1,0 ,1,2,3,   .  .  .  }. 
+Note  
+Example 4  
+  
+Exercise 1. 2 
+6
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+a.  𝐴={3𝑥 |  𝑥∈𝕎}                            b.  𝐵={𝑥 | 𝑥∈ℕ and 5<𝑥<10} 
+4. Write the following sets using set builder method.  
+a.   𝐴 = {1,3,5  ….  }                          b.  𝐵 = {2,4,6,8} 
+c.   𝐶 = {1,4,9,16,25}                       d.  𝐷 = {4,6,8,10,…,52 } 
+      e.   𝐸 = {−10,...,−3,−2,−1,0,1,2,…,5}             f.  𝐹= {1,4,9,….} 
+ 
+1.3 The Notion of S ets 
+Empty set , Finite set and Infinite set  
+Empty Set  
+A set which does not contain any element is called an empty set , void set  or null set . 
+The empty set is denoted mathematically by the symbol { } or  Ø. 
+ 
+Let set  𝐴 = {𝑥 | 1 < 𝑥 < 2,𝑥 ∈ℕ}. Then , 𝐴 is an empty set,  because there is no 
+natural number between  number s 1 and 2. 
+Finite set and Infinite set  
+ 
+ 
+Identify the following sets as finite set or infinite set.  
+a. The set of natural numbers up to 10                  b.  The set of African countries  
+c.   The set of whole numbers  
+Solution:  
+a. Let 𝐴 be a set and  𝐴= {1,2,3,4,5,6,7,8,9,10}. 
+Example 1  
+  
+Definition 1.1 
+A set which consists of a definite number of elements is called a finite set. A set 
+which is not finite is called an infinite set.  
+Example 2  
+  
+7
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+Thus, it is a finite set because it has definite (limited) number of elements.  
+b. The set of African countries is a finite set.  
+c. The set of whole numbers is a n infinite set.  
+ 
+ 
+1. Identify empty set from the list below.  
+a. 𝐴= {𝑥 | 𝑥 ∈ ℕ and  5 < 𝑥 < 6}   
+b. 𝐵 = {0}  
+c. C is the set of odd natural numbers divisible by 2.              
+d. 𝐷 = { }  
+2. Sort the following sets as finite or infinite sets.  
+a. The set of all integers  
+b. The set of days in a week  
+c. 𝐴 = {𝑥∶ 𝑥 is a multiple  of 5}  
+d. 𝐵  = {𝑥∶ 𝑥 ∈ 𝑍,𝑥 < −1} 
+e. 𝐷 = {𝑥∶ 𝑥 is a prime  number }   
+ 
+Equal Sets, Equivalent S ets, Universal Set, Subset  and 
+Proper Sub set    
+Equal Sets  
+ 
+ 
+The number of elements of set 𝐴 is denoted by 𝑛ሺ𝐴ሻ.  For instance, in the above 
+example 2 𝑎,𝑛ሺ𝐴ሻ=10. Read  𝑛ሺ𝐴ሻ as number of elements of set  𝐴 
+Note  
+Exercise 1. 3 
+Definition 1.2 
+Two sets 𝐴 and 𝐵 are said to be equal if and only if they have exactly the same 
+or identical elements. Mathematically, it is denoted as 𝐴=𝐵.  
+ 
+8
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+Let 𝐴 = {1,2,3,4} and  𝐵 = {4,3,2,1}. Then, 𝐴= 𝐵. Set 𝐴 and set 𝐵 are equal.  
+Equivalent S ets 
+ 
+ 
+  
+Consider two sets  𝐴 = {1,2,3,4} and 𝐵 = {Red ,Blue ,Green ,Black }. 
+In set 𝐴 there  are four elements and in set 𝐵 also there are four elements. Therefore, 
+set 𝐴 and set  𝐵 are equivalent.  
+Universal Set ( ∪) 
+ 
+ 
+Let set 𝐴={2,4,6,...}  and 𝐵={1,3,5,...}. The universal set U consists of all 
+natural numbers, such that 𝑈={1,2,3,4,   ...}. Therefore, as we know all even and  
+odd numbers are  part of natural numbers. Hence, set U has all the elements of set A 
+and set B.  
+Example 1  
+  
+Definition 1.3 
+Two sets 𝐴 and 𝐵 are said to be equivalent if there is a one -to-one correspondence 
+between the two sets. This is written mathematically as 𝐴↔𝐵 (or 𝐴~𝐵). 
+ 
+Observe that two finite sets 𝐴 and 𝐵 are equivalent, if and only if they have equal 
+number of elements and we write mathematically this as  𝑛 ሺ𝐴ሻ= 𝑛 ሺ𝐵ሻ.  
+ 
+Note  
+Example 2  
+  
+Definition 1.4 
+A universal set  (usually denoted by U) is a set which has elements of all the 
+related sets, without any repetition of elements.  
+Example 3  
+  
+9
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+Subset  (⊆) 
+ 
+ 
+Let 𝐴 = {1,2,3} and 𝐵= {1,2,3,4} be sets.  Here, set 𝐴 is a subset of set  𝐵,
+or  𝐴 ⊆𝐵, since all members of set 𝐴 are found in set 𝐵.  
+In the above set 𝐴, find all subsets of the set. How many subset s does set 𝐴 have?  
+Solution:  
+The subsets of set 𝐴 are {1},{2},{3},{1,2},{2,3},{1,3},{1,2,3},{ }. The number of 
+subset s of set 𝐴 is 8. 
+ 
+In the above Example 3 .b, 𝑛ሺ𝐴ሻ=3. Then, the number of subset s is 23=8. 
+Proper Subset  (⊂) 
+ 
+Definition 1.5 
+Set 𝐴 is said to be a subset of set 𝐵 if every 
+element of 𝐴 is also an element of 𝐵.  Figure 
+1.3 shows this relationship.  Mathematically, 
+we write this as 𝑨 ⊆ 𝑩. If set 𝐴 is not a 
+subset of set 𝐵, then it is written as 𝐴 ⊈ 𝐵. 
+ 
+Example 4  
+  
+ 
+i)𝐴ny set is  a subset of  itself.  
+ii)Empty set is a subset of every set.  
+iii)If set 𝐴 is finite with 𝑛 elements, then the number of subsets of set 𝐴  is 2𝑛. 
+ 
+Note  
+Definition 1.6 
+If 𝐴⊆𝐵 and 𝐴≠𝐵, then 𝐴 is called the proper subset of  set 𝐵 and it can be 
+written as 𝐴⊂𝐵. 
+  
+          Figure 1.3  
+ 
+10
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+Given that  sets 𝐴 = {2,5,7} and 𝐵= {2,5,7,8}.   Set 𝐴 is a proper subset of set 𝐵, 
+that is,  𝐴 ⊂ 𝐵   since 𝐴 ⊆ 𝐵 and 𝐴 ≠ 𝐵.   Observe  also that 𝐵 ⊄A.   
+In the above set 𝐴, find all the proper subsets. How many proper subsets does set 𝐴 
+have?  
+Solution:  
+The proper subsets of set 𝐴 are {2},{5},{7},{2,5},{5,7},{2,7},{ }. There are seven 
+subsets.  
+ 
+ 
+1. Identify equal  sets, equivalent sets or which are neither equal nor equivalent.  
+a. 𝐴 = {1,2,3}       and       𝐵 = {4,5}  
+b. 𝐶= {𝑞,𝑠,𝑚}       and       𝐷= {6,9,12} 
+c. 𝐸={3,7,9,11}    and      𝐹= {3,9,7,11} 
+d. 𝐺= {𝐼,𝐽,𝐾,𝐿}     and      𝐻 = {𝐽,𝐾,𝐼,𝐿} 
+e. 𝐼 = {𝑥 | 𝑥∈𝕎,𝑥<5}    and     𝐽 = {𝑥 | 𝑥∈ ℕ,𝑥≤5}  
+f. 𝐾 = {𝑥 | 𝑥 is a multiple  of 30}  and  𝐿 = {𝑥 | 𝑥 is a factor  of 10} 
+2. List all the subsets of set 𝐻={1,3,5}.  How many subsets and how many proper 
+subsets does it have?  
+3. Determine whether the following statements are true or false.  
+a. {𝑎,𝑏} ⊄ {𝑏,𝑐,𝑎} 
+b. {𝑎,𝑒}⊆ {𝑥 | 𝑥 is a vowel  in the English  alphabet }     c. {𝑎} ⊂ { 𝑎,𝑏,𝑐 } 
+Example 5  
+  
+ 
+i)For any set 𝐴,𝐴 is not a proper subset of it self. 
+ii)The number of proper subsets of  set 𝐴 is 2𝑛−1. 
+iii) Empty set is the proper sub set of any other sets.  
+iv) If set  𝐴 is subset of set  𝐵 ሺ𝐴⊆𝐵ሻ, conversely 𝐵 is super set of 𝐴 written as  
+𝐵⊃𝐴. 
+Note  
+Exercise 1. 4 
+11
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+4. Express the relationship of the following sets, using the symbols   ⊂,⊃,or=  
+a. 𝐴={1,2,5,10} and 𝐵={1,2,4,5,10,20} 
+b. 𝐶={𝑥 |𝑥 is natural  number  less than  10}  and 𝐷={1,2,4,8} 
+c.  𝐸={1,2} and   𝐹={𝑥 | 0<𝑥<3,𝑥∈ℤ} 
+5. Consider sets 𝐴={2,4,6}, 𝐵={1,3 7,9,11} and 𝐶={4,8,11}, then  
+a. Find the universal set  
+b. Relate sets 𝐴,𝐵,𝐶  and 𝑈 using subset.  
+ 
+1.4   Operations  on S ets 
+There are several ways to create new sets from sets that have already been defined. 
+Such process of forming new set is called set operation.  The three most important set  
+operations namely Union ሺ∪ሻ, Intersection ሺ∩ሻ, Complement ሺ′ሻ and D ifference ሺ−ሻ 
+are discussed below .  
+Union and I ntersection  
+ 
+Venn diagrams  
+A Venn diagram is a schematic or pictorial representation  of the sets  involved in the 
+discussion. Usually sets are represented as interlocking circles, each of which is  
+ 
+Let the universal set is the set of natural numb ers ℕ which is  less than 12, and 
+sets 𝐴={1,2,3,4,5,6} and 𝐵={1,3,5,7,9}.    
+a.Can you write a set consisting of all natural 
+numbers that are in  𝐴 or in 𝐵? 
+b.Can you write a set consisting of all natural 
+numbers that are in  𝐴 and in  𝐵?  
+c.Can you write a set consisting of all natural  
+numbers that are in  𝐴 and not in  𝐵?  
+Activity 1.2 
+Figure 1. 4 
+12
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+enclosed in a rectangle, which represents the universal set . Figure 1.4 above  is an 
+example of  Venn diagram.  
+ 
+ 
+ 
+ 
+ Let 𝐴={0,1,3,5,7} and 𝐵={1,2,3,4,6,7} be sets.  Draw the Ven n diagram and 
+find 𝐴∪𝐵 and 𝐴∩𝐵. 
+Definition 1.7 
+The union of two sets 𝐴 and 𝐵, which is denoted 
+by 𝑨∪𝑩, is the set of all elements that are either 
+in set 𝐴 or in set 𝐵 (or in both sets).  W e write 
+this mathematically as  
+𝐴∪𝐵={𝑥 | 𝑥∈𝐴  or  𝑥∈𝐵}. 
+ 
+ 
+Definition 1.8 
+The intersection of two sets 𝐴 and 𝐵, denoted 
+by 𝐴∩𝐵, is the set of all elements that are 
+both in set 𝐴 and in set 𝐵.  We write this 
+mathematically as  
+𝐴∩𝐵 ={𝑥 | 𝑥∈𝐴  and  𝑥∈𝐵} 
+ 
+ 
+Two sets 𝐴 and 𝐵 are disjoint if 𝐴∩𝐵= ∅ 
+ 
+ 
+Note  
+Example 1  
+   
+Figure 1.5  
+ 
+ 
+Figure 1. 6 
+ 
+ 
+Figure 1. 7 
+ 
+ 
+13
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+Solution:   
+Figure 1.8  shows Venn diagram of set 𝐴 and 𝐵. 
+Thus ,  𝐴∪𝐵={0,1,2,3,4,5,6,7}  and  
+𝐴∩𝐵={1,3,7}. 
+  
+ 
+Let 𝐴={2,4,6,8,10,…} and 𝐵={3,6,9,12,15,…} be sets.   Then, find 𝐴∪𝐵 and 
+𝐴∩𝐵. 
+Solution:  
+𝐴∪𝐵={𝑥 | 𝑥 is a positive  integer  that  is either  even  or a multiple  of 3} 
+                           ={2,3,6,9,12,15,....} 
+𝐴∩𝐵= {𝑥 | 𝑥 is a positive  integer  that  is both  even  and a multiple  of 3} 
+                           ={6,12,18,24,....} 
+ 
+ 
+1. Let 𝐴 = {0, 2, 4, 6, 8} and 𝐵 = {0, 1, 2, 3, 5, 7, 9}.  Draw the Venn Diagram and 
+find  𝐴∪𝐵 and 𝐴∩𝐵. 
+2. Let 𝐴 be the set of positive odd integers le ss than 10 and 𝐵 is the set of positive 
+multiples of 5 less than or equal to 20.  Fi nd  a)  𝐴∪𝐵,   b)  𝐴∩𝐵. 
+3. Let  𝐶={𝑥 | 𝑥 is a factors  of 20}, 𝐷={𝑦 | 𝑦 is a factor  of 12}.   
+Find       a)  𝐶∪𝐷,           b)   𝐶∩𝐷. 
+  
+Example 2  
+  
+ 
+i)Law of ∅ and 𝑈:  ∅ ∩𝐴= ∅,   𝑈∩𝐴=𝐴. 
+ii)Commutative law: 𝐴∩𝐵=𝐵∩𝐴. 
+iii)Associative Law: ሺ𝐴∩𝐵ሻ∩𝐶=𝐴∩ሺ𝐵∩𝐶ሻ. 
+Note  
+Exercise 1. 5 
+Figure 1. 8 
+14
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+Complement of sets  
+ 
+ 
+a. Let  𝑈={0,1,2,3,4} and 𝐴 = {3,4}.  Then,  𝐴′ = {0,1,2}.  
+Let  𝑈={1,2,3,…,10} be a universal set,  
+𝐴={𝑥 | 𝑥 is a positive  factor  of 10 in 𝑈} and 
+𝐵={𝑥 | 𝑥 is an odd integer  in 𝑈} be sets.   
+a. Find 𝐴′ and 𝐵′. 
+b. Find ሺ𝐴∪𝐵ሻ′ and 𝐴′∩𝐵′.  What do you observe from the answers?  
+Solution:   
+a. 𝐴= {1,2,5,10},  𝐵= {1,3,5,7,9},  Thus,  
+𝐴′= {3,4,6,7,8,9}, 𝐵′={2,4,6,8,10}.  
+b. First, we find 𝐴∪𝐵.  Hence, 𝐴∪𝐵={1,2,3,5,7,9,10} and  
+ሺ𝐴∪𝐵ሻ′={4,6,8}. 
+On the other hand, from 𝐴′ and  𝐵′, we obtain  𝐴′∩𝐵′= {4,6,8}. Hence, we 
+immediately observe  ሺ𝐴∪𝐵ሻ′=𝐴′∩𝐵′. 
+In general, for any two sets 𝐴 and 𝐵, ሺ𝐴∪𝐵ሻ′=𝐴′∩𝐵′. It is called the first 
+statement of De Morgan’s law.  
+ 
+Definition 1.9 
+Let 𝐴 be a subset of a universal set 𝑈. The 
+absolute  complement (or simply complement) 
+of 𝐴, which is  denoted by 𝑨′, is defined as the 
+set of all elements of 𝑈 that are not in 𝐴. We 
+write this mathematically as  
+         𝐴′= {𝑥:𝑥 ∈𝑈  and  𝑥 ∉𝐴}. 
+Example 1  
+  
+Example 2  
+   
+Figure 1. 9 
+ 
+15
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+De Morgan’s Law  
+For the complement set of 𝐴 ⋃ 𝐵 and 𝐴 ⋂ 𝐵, 
+1st statement:  (𝐴 ⋃ 𝐵ሻ′=𝐴′ ⋂ 𝐵′,       2nd statement:  (𝐴 ⋂ 𝐵ሻ′=𝐴′ ⋃ 𝐵′.  
+                                   
+ 
+ 
+1. If the universal set 𝑈 = {0,1,2,3,4,5}, and 𝐴 = {4,5}, then find  𝐴′.  
+2. Let the universal  set 𝑈={1,2,3,… ,20},  𝐴={𝑥 |𝑥 is  a positive  factor  of 20} 
+and 𝐵={𝑥 | 𝑥 is an odd integer  in 𝑈}.  Find 𝐴′,𝐵′,  ሺ𝐴∪𝐵ሻ′ and 𝐴′∩𝐵′. 
+3. Let the universal set be 𝑈={𝑥 | 𝑥 ∈ℕ,𝑥≤10}. When 𝐴={2,5,9}, and  
+𝐵={1,5,6,8}, find  a)  𝐴′ ⋂ 𝐵′ and  b)  𝐴′ ⋃ 𝐵′. 
+ 
+Difference of sets  
+ 
+ 
+Exercise 1. 6 
+Definition 1.10 
+The difference between two sets 𝐴 and 𝐵,  
+which is denoted by 𝐴−𝐵, is the of all 
+elements in 𝐴 and not in 𝐵; this set is also 
+called the relative complement of 𝐴 with 
+respect to 𝐵. We write this mathematically 
+as 𝐴−𝐵={𝑥 | 𝑥 ∈𝐴  and  𝑥∉𝐵}. 
+ 
+ 
+The notation  𝐴−𝐵 can be also written as  𝐴\𝐵. 
+ 
+Note  Figure 1.10  Figure 1.11  
+ 
+Figure 1.12  
+ 
+16
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+If sets 𝐴= {0,1,2,3,4}  and 𝐵= {3,4}, then  𝐴−𝐵 or 𝐴\𝐵={0,1,2}. 
+ 
+Let 𝑈 be a universal set of the set of one -digit numbers, 𝐴 be the set of even 
+numbers, 𝐵 be the set of prime numbers less than 10. Find the following:  
+a.    𝐴−𝐵  or  𝐴\𝐵    b.   𝐵−𝐴  or  𝐵\𝐴  
+c.     𝐴∪𝐵     d.   𝑈−ሺ𝐴∪𝐵ሻ  or  𝑈\ሺ𝐴∪𝐵ሻ 
+Solution:  
+Here, 𝐴={0,2,4,6,8},𝐵={2,3,5,7}.  Then, 
+we illustrate the sets using a Venn diagram as 
+follows. From the Venn diagram we observe:  
+a. 𝐴−𝐵={0,4,6,8} 
+b. 𝐵−𝐴={3 ,5,7} 
+c. 𝐴∪𝐵={0,2,3,4,5,6,7,8} 
+d. 𝑈−ሺ𝐴∪𝐵ሻ= {1,9} 
+ 
+For the same sets in Example 2, find the following.   What can you say from  Example 
+2 a. and b.?   What about d. and Example 2, a.?  
+a. 𝐴′      b.   𝑈−𝐴   
+c.    𝐵′      d.   𝐴∩𝐵′ 
+Solution:  
+a. 𝐴′={1,3,5,7,9}   b.   𝑈−𝐴={1,3,5,7,9} 
+c.   𝐵′={0,1,4,6,8,9}   d.   𝐴∩𝐵′= {0,4,6,8} 
+From a. and b., we can say, 𝐴′=𝑈−𝐴. From d. and Example 2, a., we can say,  
+𝐴−𝐵= 𝐴∩𝐵′. 
+Example 1  
+  
+Example 2  
+  
+Example 3  
+  
+Figure 1. 13 
+17
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+ 
+From the given Venn diagram , find each of the following:  
+a.   𝐴−𝐵  or  𝐴\𝐵       b.   𝐵−𝐴  or  𝐵\𝐴  
+c.    𝐴∪𝐵     d.   𝑈−ሺ𝐴∪𝐵ሻ  or  𝑈\ሺ𝐴∪𝐵ሻ 
+ 
+ 
+Symmetric Difference of Two Sets  
+ 
+ 
+Consider sets 𝐴={1,2,4,5,8} and 𝐵={2,3,5,7}. 
+Then, find 𝐴∆𝐵. 
+Solution:  
+First, let us find 𝐴\𝐵={1,4,8} and 𝐵\𝐴={3,7}.  
+Hence, 𝐴∆𝐵=ሺ𝐴\𝐵ሻ∪ሺ𝐵\𝐴ሻ  
+Theorem  1.1 
+For any two sets 𝐴 and 𝐵,  each of the following holds true.   
+ሺ𝐴′ሻ′=𝐴    𝐴′=𝑈−𝐴    
+        𝐴−𝐵=𝐴∩𝐵′                          𝐴 ⊆ 𝐵 ⟺ 𝐵′⊆ 𝐴′ 
+   
+Exercise 1. 7 
+Definition 1.11   Symmetric Difference  
+For two sets A and B, the symmetric difference between  these two sets is 
+denoted by 𝐴∆𝐵  and is defined as:  
+𝐴∆𝐵=ሺ𝐴\𝐵ሻ∪ሺ𝐵\𝐴ሻ , which is  ሺ𝐴−𝐵ሻ∪ሺ𝐵−𝐴ሻ  
+or 
+                =ሺ𝐴∪𝐵ሻ\ሺ𝐴∩𝐵ሻ 
+In the Venn diagram, the shaded part represents 𝐴∆𝐵 
+Example 1  
+  
+Figure 1. 15  
+Figure 1. 14 
+ 
+ 
+18
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+                     = {1,4,8}∪{3,7}={1,3,4,7,8}. 
+       Or 𝐴∆𝐵= ሺ𝐴∪𝐵ሻ\ሺ𝐴∩𝐵ሻ={1,3,4,7,8}. 
+ 
+Given sets 𝐴={𝑑,𝑒,𝑓} and 𝐵={4,5,6}. Then , find 𝐴∆𝐵. 
+Solution:  
+First, we find 𝐴\𝐵={𝑑,𝑒,𝑓} and 𝐵\𝐴={4,5,6}.  
+Hence,  𝐴∆𝐵=ሺ𝐴\𝐵ሻ∪ሺ𝐵\𝐴ሻ  
+                     = {𝑑,𝑒,𝑓}∪{4,5,6}={𝑑,𝑒,𝑓,4,5,6}. 
+ 
+1. Given  𝐴={0,2,3,4,5} and 𝐵={0,1,2,3,5,7,9}. Then, find 𝐴∆𝐵. 
+2. If 𝐴∆𝐵=∅, then what can be said about the two sets?  
+3. For any two sets 𝐴 and 𝐵, can we generalize 𝐴∆𝐵=𝐵∆𝐴 ? Justify your answer.  
+ 
+Cartesian Product of Two Sets  
+ 
+ 
+Let 𝐴={1,2} and 𝐵={𝑎,𝑏}.  Then , find   a)  𝐴×𝐵 b)  𝐵×𝐴 
+Solution:  
+a. 𝐴×𝐵={ሺ1,𝑎ሻ,ሺ1,𝑏ሻ,ሺ2,𝑎ሻ,ሺ2,𝑏ሻ}  
+b. 𝐵×𝐴={ሺ𝑎,1ሻ,ሺ𝑎,2ሻ,ሺ𝑏,1ሻ,ሺ𝑏,2ሻ} 
+ 
+Example 2  
+  
+Exercise 1.8 
+Definition  1.12  Cartesian Product of Two Sets  
+The Cartesian product of two sets 𝐴 and 𝐵, denoted by 𝐴×𝐵,  is the set of all 
+ordered pairs ሺ𝑎,𝑏ሻ where 𝑎∈𝐴 and 𝑏∈𝐵. This also can be expressed as  
+ 𝐴×𝐵={ሺ𝑎,𝑏ሻ:𝑎∈𝐴 and 𝑏∈𝐵}. 
+ 
+Example 1  
+  Figure 1. 16 
+19
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+If  𝐴×𝐵={ሺ1,𝑎ሻ,ሺ1,𝑏ሻ,ሺ2,𝑎ሻ,ሺ2,𝑏ሻ,ሺ3,𝑎ሻ,ሺ3,𝑏ሻ}, then find set s 𝐴 and 𝐵. 
+Solution:  
+𝐴 is the set of all first  components  of 𝐴×𝐵,that  is,𝐴={1,2,3},  and  
+𝐵 is the set of all second  components  of 𝐴×𝐵,that  is,𝐵={𝑎,𝑏}. 
+ 
+1. Let 𝐴={1,2,3} and 𝐵={𝑒,𝑓}. Then , find  a) 𝐴×𝐵  b) 𝐵×𝐴. 
+2. If 𝐴×𝐵={ሺ7,6ሻ,ሺ7,4ሻ,ሺ5,4ሻ,ሺ5,6ሻ,ሺ1,4ሻ,ሺ1,6ሻ}, then find set s 𝐴 and 𝐵. 
+3. If 𝐴={𝑎,𝑏,𝑐} ,𝐵={1,2,3} and 𝐶={3,4}, then find  𝐴×ሺ𝐵∪𝐶ሻ. 
+4. If 𝐴={6,9,11}, then find 𝐴×𝐴. 
+5. If the number of elements of set 𝐴 is 6 and the number of elements of set 𝐵 is 4, 
+then the number of elements of 𝐴×𝐵 is _____________________. 
+ 
+1.5  Application  
+Number of Elements of union of t wo sets 
+For the two subsets 𝐴 and 𝐵 of a universal set 𝑈, 
+the following formula on the number of elements 
+holds.  That is  
+𝑛ሺ𝐴∪𝐵ሻ=𝑛ሺ𝐴ሻ+𝑛ሺ𝐵ሻ−𝑛ሺ𝐴∩𝐵ሻ. 
+Especially in the case 𝐴∩𝐵=∅, thus ,                                        Figure 1. 17 
+𝑛ሺ𝐴∩𝐵ሻ=0, and the following hold s: 
+𝑛ሺ𝐴∪𝐵ሻ=𝑛ሺ𝐴ሻ+𝑛ሺ𝐵ሻ. 
+If 𝐴∩𝐵≠∅, then  
+𝑛ሺ𝐴∪𝐵ሻ=𝑛ሺ𝐴ሻ+𝑛ሺ𝐵ሻ−𝑛ሺ𝐴∩𝐵ሻ. 
+ 
+                                                                                                             
+Example 2  
+  
+Exercise 1.9 
+Figure 1. 18 
+ 
+20
+
+--- [PAGE BREAK] ---
+
+Unit 1:  Further on Sets  
+ 
+ 
+Let 𝐴 and 𝐵 be two finite sets such that 𝑛ሺ𝐴ሻ=20, 𝑛ሺ𝐵ሻ=28, and  
+𝑛ሺ𝐴∪𝐵ሻ=36, then find 𝑛ሺ𝐴∩𝐵ሻ. 
+Solution:   
+Using the formula 𝑛ሺ𝐴∪𝐵ሻ=𝑛ሺ𝐴ሻ+𝑛ሺ𝐵ሻ−𝑛ሺ𝐴∩𝐵ሻ we have  
+                    36=20+28−𝑛ሺ𝐴∩𝐵ሻ.  
+                               This gives   𝑛ሺ𝐴∩𝐵ሻ=ሺ20+28ሻ−36=48−36=12. 
+ 
+1. Let 𝐴 and 𝐵 be two finite sets such that 𝑛ሺ𝐴ሻ=34,𝑛ሺ𝐵ሻ=46  and 
+  𝑛ሺ𝐴∪𝐵ሻ=70. Then, find 𝑛ሺ𝐴∩𝐵ሻ. 
+2. There are 60 people attending a meeting. 42 of them drink tea and 27 drink 
+coffee . If every person in the meeting drinks at least one of the two drinks, find 
+the number of people who drink both tea and coffee.  (Hint: Use a Venn diagram ). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Example  
+  
+Exercise 1.10 
+21
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+ 
+1. A set is a c ollection of well -defined obj ects or elements. When we say a set is 
+well-defined, we mean that given an object we are able to determine whether the 
+object is in the set or not . 
+2. Sets can be described in the following ways:  
+Verbal method (Statement form)  
+In this method , the well -defined description  of the elements of the set is written 
+in an ordinary English language statement form (in words).  
+Complete listing method (Roster Method)  
+In this method all the ele ments of  the sets are completely listed. The  elements 
+are separated by commas and are enclosed within set brace,  { }. 
+Partial listing method  
+We use this method, i f listing  of all elements of a set is difficult or impossible 
+but the elements can be indicated clearly  by listing a few of them that fully 
+describe the set.  
+Set builder method (Method of defining property)  
+The set -builder method is described by a property that its member must satisfy . 
+This is the method of writing t he condition to be satisfied by a  set or property of 
+a set.  
+3. A set which does not contain any element is called an empty set, void set or null 
+set. The empty set is denoted mathematically by the symbol { } or  Ø. 
+4. Two sets A and B are said to be equal if and  only if they have exactly same or 
+identical elements. Mathematically, we write this as 𝐴=𝐵. 
+5. Set 𝐴 is said to be a subset of set 𝐵 if every element of 𝐴 is also an element of 
+𝐵. Mathematically, we write this as 𝐴 ⊆ 𝐵. 
+• Any set is a subset to itself.  
+• Empt y set is a sub set of every set . 
+Summary  
+22
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+• If set 𝐴 is finite with 𝑛 elements, then the number of subsets of set 𝐴  is 2𝑛. 
+6. If 𝐴 ⊆ 𝐵 and 𝐴 ≠ 𝐵, then 𝐴 is called the proper subset of 𝐵 and it can be 
+written as  𝐴 ⊂ 𝐵. 
+• For any set 𝐴,𝐴 is not a proper subset to itself . 
+• If set 𝐴 is finite with 𝑛 elements  the number of proper subsets of set 𝐴 is 
+2𝑛−1.  
+•  Empty set is a proper subset of any other sets.  
+7. A universal set (usually denoted by 𝑈) is a set which has elements of all the 
+related sets, without any repetition of elements.  
+8. The union of two sets 𝐴 and 𝐵,  which is denoted by 𝐴 ∪ 𝐵, is the set of all 
+elements that are either in set 𝐴 or in set B  (or in both sets ).  We write this 
+mathematically as  
+𝐴∪𝐵={𝑥 | 𝑥 ∈𝐴 or 𝑥 ∈𝐵}. 
+9. The intersection of two sets  𝐴 and 𝐵, which is denoted by 𝐴 ∩ 𝐵, is the set of 
+all elements that are in set 𝐴  and in set 𝐵.  We write this mathematically as  
+   𝐴∩𝐵={𝑥 | 𝑥 ∈𝐴  and  𝑥 ∈𝐵}. 
+10. The differ ence between two sets 𝐴 and 𝐵, which is denoted by 𝐴−𝐵, is the set 
+of all elements in set 𝐴 and not in set  𝐵; this set is also called the relative 
+complement of set 𝐴 with respect to set 𝐵. We write this mathematically as  
+      𝐴−𝐵=𝐴\𝐵={𝑥 | 𝑥 ∈𝐴  and  𝑥∉𝐵}. 
+11. Let 𝐴 be subset of a universal set 𝑈. The absolute complement (or simply 
+complement) of set 𝐴, which is denoted by 𝐴′, is defined as the set of all 
+elements of 𝑈 that are not in 𝐴. We write this mathematically as  
+                               𝐴′= {𝑥 | 𝑥 ∈𝑈  and  𝑥 ∉𝐴}. 
+12. A Venn diagram is a schematic or pictorial representation  of the sets  involved in 
+the discussion. Usually sets are represented as interlocking circles, each of 
+which is enclosed in a rectangle, which represents the universal set.  
+23
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+13. For two sets 𝐴 and 𝐵 the symmetric difference between these two sets is 
+denoted by 𝐴∆𝐵  and i s define d as 𝐴∆𝐵=(𝐴\𝐵)∪(𝐵\𝐴)  =𝐴∪𝐵)\(𝐴∩𝐵). 
+14.  For any two finite sets 𝐴 and 𝐵, 𝑛(𝐴∪𝐵)=𝑛(𝐴)+𝑛(𝐵)−𝑛(𝐴∩𝐵). 
+ 
+1. Express following sets using the listing method.  
+a. 𝐴 is the set of positive factors of 18  
+b. 𝐵 is the set of positive even number s below or equal to 30  
+c. 𝐶={2𝑛 | 𝑛=0,1,2,3,…} 
+d. 𝐷={𝑥 | 𝑥2=9} 
+2. Express following sets using the set -builder method.  
+a. {2,4,6,…..}    
+b. {1,3,5,…,99}     
+c. {1,4,9,…,81} 
+3. Find all the su bsets of the following sets.  
+a. {3,4,5}   
+b. {𝑎,𝑏}  
+4. Find 𝐴 ⋃ 𝐵 and  𝐴 ⋂ 𝐵 of the following . 
+a. 𝐴={2,3,5,7,11} and 𝐵={1,3,5,8,11} 
+b. 𝐴={𝑥 | 𝑥 is the factor  of 12} and 𝐵={𝑥 | 𝑥 is the factor  of 18} 
+c. 𝐴={3𝑥 | 𝑥 ∈ℕ,𝑥≤20 } and 𝐵={4𝑥 | 𝑥 ∈ℕ,𝑥≤15} 
+5. If 𝐵⊆𝐴,𝐴∩𝐵′= {1,4,5}, and  𝐴∪𝐵= {1,2,3,4,5,6},then  find  set 𝐵.   
+6. Let 𝐴 = {2, 4, 6, 7, 8, 9}, 𝐵 = {1, 3, 5, 6, 10}  and  
+𝐶 = {𝑥 |  ∈ℤ, 3𝑥 + 6 =  0 or 2 𝑥 + 6 = 0}.  
+Find  a)  𝐴 ∪ 𝐵          
+         b) Is (𝐴 ∪ 𝐵) ∪ 𝐶 = 𝐴 ∪ (𝐵 ∪ 𝐶)? 
+ 
+Review Exercise  
+24
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+7. Suppose  the universal set  𝑈 be the set of one -digit numbers , and  
+set 𝐴 ={𝑥 | 𝑥 is an even  natural  number  less than  or equal  to 9 }. 
+Describe each set by complete listing method:  
+a. 𝐴′  
+b. 𝐴 ∩ 𝐴′    
+c. 𝐴 ∪ 𝐴′    
+d. (𝐴′)′ 
+e. 𝜙 \ 𝑈    
+f. 𝜙′     
+g. 𝑈′ 
+8. Let 𝑈= {1,2,3,4,…….,10},𝐴= {1,3,5,7},𝐵= {1,2,3,4}.   Evaluate  
+𝑈\(𝐴∆𝐵). 
+9. Consider a universal set 𝑈= {1,2,3,.  .  .  ,14},𝐴={2,3,5,7,11}, 
+𝐵={2,4,8,9,10,11}.  Then, which one of the following is true?  
+A.  (𝐴∪𝐵)′={1,4,6,12,13,14}    
+B.    𝐴∩𝐵= 𝐴′ ∪ 𝐵′ 
+C.   𝐴∆𝐵= (𝐴∩𝐵)′                                
+D.    𝐴\𝐵={3,5,7}            
+E.    None  
+10.  Let 𝐴={3,7,𝑎2} and 𝐵={2,4,𝑎+1,𝑎+𝑏} be two sets and all the elements 
+of the two sets are int egers. If  𝐴∩𝐵={4,7}, then find a and b. In addition, 
+find 𝐴 ⋃ 𝐵. 
+11. In a survey of 200 students in Motta Secondary School, 90 students are 
+members of Nature club, 31 students are members of Mini -media club, 21 
+students are members of both clubs. Answer the following questions.  
+a. How many students are members of either of the clubs?  
+b. How many students are not members of either of the clubs?  
+25
+
+--- [PAGE BREAK] ---
+
+ Summary and Review Exercise  
+ 
+c. How many students are only in Nature club?  
+12. A survey was conducted in a class of 100 children and it was found out that 45 
+of them like Mathematics whereas only 35 like Science and 10 students like 
+both subjects. How many like neither of the subjects?  
+ A) 70   B) 30    C) 100   D) 40 
+ 
+26

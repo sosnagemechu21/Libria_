@@ -1,0 +1,765 @@
+=================================================================
+Book: chemistry.pdf
+Chapter 2: MEASUREMENTS AND SCIENTIFIC METHODS
+Pages: 25 to 56
+=================================================================
+
+UNIT/gid00019/gid00019
+Unit Outcomes 
+After completing the unit, you will be able to
+use	proper	SI	units;
+identify	the	causes	of	uncertainty	in	measurement;
+express the result of any calculation involving experimental data to the    
+appropriate	number	of	decimal	places	or	signifi	cant	fi	gures;
+apply	scientifi	c	methods	in	solving	problems;
+demonstrate	an	understanding	of	experimental	skills	in	chemistry;
+demonstrate a knowledge of basic laboratory apparatuses and  safety rules;
+describe	scientifi	c	inquiry	skills	along	this	unit:	observing,	inferring,	predicting, comparing & contrasting, communicating, analyzing, classifying, applying, theorizing, measuring, asking question, developing hypothesis, designing experiment, interpreting data, drawing conclusion, making generalizations and problem solving.MEASUREMENTS AND SCIENTIFIC METHODS
+Measurements and Scientiﬁc Methods
+
+--- [PAGE BREAK] ---
+
+192.1 Measurements and Units in Chemistry 
+Learning competencies
+At the end of this section, you should be able to
+list	the	seven	SI	units	and	their	prefi	xes;
+describe	the	seven	SI	units	and	their	prefi	xes;
+write	the	names	and	symbols	of	derived	SI	units;
+ use the factor label method for solving problems and making conversion of SI units;
+describe	uncertainty	of	measurement;
+ identify the digits that are certain and the ones that are uncertain given a number	representing	measurement;
+identify	causes	of	uncertainty	in	measurement;
+defi	ne	precision	and	accuracy;
+estimate	the	precision	possible	for	any	instrument	they	use	in	the	laboratory;
+explain	systematic	and	random	errors;
+analyze		given	data	in	terms	of	precision	and	accuracy;
+defi	ne	signifi	cant	fi	gures;
+determine	the	number	of	signifi	cant	fi	gures	in	a	calculated	result;
+use	the	scientifi	c	notation	in	writing	very	large	or	very	small	numbers.
+Conduct	the	following	activity	and	present	your	fi	nding	to	
+the class. 
+1. In group, discuss and list down different traditional ways of measuring mass of solid and liquid substances sold in the market places in your area. 
+2. Mention indigenous methods of measurements (length, mass, time, volume)
+Start-up Activity
+Measurement is the comparison of a physical quantity to be measured with a unit of 
+measurement	that	is,	with	a	fi	xed	standard	of	measurement.	On	a	centimeter	scale,	the	centimeter unit is the standard of comparison. In traditional markets people buy and sell goods by estimating their size in traditional way or use traditional measurement method. Figure 2.1 shows traditional market and people exchanging goods by 
+estimating their size using indigenous methods of measurements.Measurements and Scientiﬁc Methods
+
+--- [PAGE BREAK] ---
+
+20Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Figure 2.1  Traditional market.
+The study of chemistry depends heavily on measurement. For instance, chemists 
+use measurements to compare the properties of different substances and to assess changes resulting from an experiment. A number of common devices enable us to make simple	measurements	of	a	substance’s	properties:	The	meter	stick	measures	length;	the	burette,	the	pipette,	the	graduated	cylinder,	and	the	volumetric	ﬂ	ask	measure	volume	(see Figure 2.2);	the	balance	measures	mass;	the	thermometer	measures	temperature.	
+The instruments illustrated  on Figure 2.2  provide measurements of macroscopic 
+properties, which can be determined directly. Microscopic properties, on the atomic or molecular scale, must be determined by an indirect method. A measured quantity is usually written as a number with an appropriate unit. To say the distance between Addis Ababa and Hawassa by car along a certain route is 275 is meaningless. We must specify that the distance is 275 kilometers. In science, units are essential to state measurements correctly.
+
+--- [PAGE BREAK] ---
+
+21Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Figure 2.2  Some common measuring devices found in a chemistry laboratory.
+Conduct	the	following	activity	and	present	your	fi	nding	to	
+the class. 
+a. Using thermometer with oC and oF scale measure your 
+body temperature. Compare the results in oC with  the 
+result in oF.
+b. What is the distance between Addis Ababa and your 
+town (village) in kilometers?
+c. Which basic SI units are appropriate to express the:
+i. average room temperature, andii. time duration for the earth to have one rotation around its axis?
+  Activity 2.1
+2.1.1 SI Units (The International System of Units)
+For many years, scientists recorded measurements in metric units, which are related decimally, that is, by powers of 10. In 1960, however, the General Conference of Weights and Measures, the international authority on units, proposed a revised metric 
+
+--- [PAGE BREAK] ---
+
+22Chemistry Grade 9 Measurements and Scientiﬁc Methods
+system called the International System of Units. 
+Table 2.1 shows the seven SI base units. Measurements that we will utilize frequently in 
+our study of chemistry include time, mass, volume, density, and temperature.Table 2.1 SI Base Units.
+Base Quantity Name of Unit Symbol
+Length Meter m
+Mass Kilogram kg
+Time Second s
+Electrical current Ampere A
+Temperature Kelvin K
+Amount of substance Mole mol
+Luminous intensity Candela cd
+Heat and Temperature
+Temperature measures the intensity of heat, the “hotness” or “coldness” of a body. 
+Heat	is	a	form	of	energy	that	always	ﬂ	ows	spontaneously	from	a	hotter	body	to	a	colder body — never in the reverse direction.
+Relationships among the three temperature scales are illustrated in Figure 2.4 . Between 
+the freezing point of water and the boiling point of water, there are 100 steps (°C or 
+Kelvins, respectively) on the Celsius and Kelvin scales. Thus, the “degree” is the same size on the Celsius and Kelvin scales. But every Kelvin temperature is 273.15 units above the corresponding Celsius temperature. The relationship between these two scales is as follows:
+  K = 
+0C + 273.15 0C or 0C = K - 273.150
+In the SI system, “degrees Kelvin” are abbreviated simply as K rather than °K and 
+are called kelvins.
+Any temperature change has the same numerical value whether expressed on the Celsius scale or on the Kelvin scale. For example, a change from 25°C to 59°C represents a change of 34 Celsius degrees. Converting these to the Kelvin scale, the same change is expressed as (273 + 25) = 298 K to (59 + 273) = 332 K, or a change of 34 kelvins.
+Comparing the	Fahrenheit	and	Celsius	scales,	we	fi	nd	that	the	intervals	between	
+the same reference points are 180 Fahrenheit degrees and 100 Celsius degrees, respectively. Thus, a Fahrenheit degree must be smaller than a Celsius degree. It takes 180 Fahrenheit degrees to cover the same temperature interval as 100 Celsius degrees. From this information, we can construct the unit factors for temperature changes:
+
+--- [PAGE BREAK] ---
+
+23Chemistry Grade 9 Measurements and Scientiﬁc Methods
+180 0F   
+100 0C1.8 0C   
+1.0 0F100 0C  
+180 0F1.0 0C   
+1.8 0For and or
+But the starting points of the two scales are different, so we cannot convert a 
+temperature on one scale to a temperature on the other just by multiplying by the unit factor. In converting from °F to °C, we must subtract 32 Fahrenheit degrees to reach the zero point on the Celsius scale ( Figure 2.3 ).
+1.8 932 32
+1.0 5oo
+oo oo o
+ooFFF xC F xC F
+CC    =× +=×+      and ( ) ( )1.0 532 32
+1.8 9oo
+o oo oo
+ooCCC xF F xF F
+FF= −= −
+Figure 2.3 The relationships among the Kelvin, Celsius (centigrade), and Fahrenheit temperature scales.
+Example 2.1: Temperature conversion
+When the temperature reaches “100.°F in the shade,” it’s hot. What is this temperature on the Celsius scale?Solution
+We use the relationship 
+( )1.0321.8o
+o oo
+oCC xF FF= −
+to carry out the desired conversion. ( )1.0 1.0100 32 (68 ) 381.8 1.8oo
+o oo o o
+ooCCC FF F CFF= −= =
+
+--- [PAGE BREAK] ---
+
+24Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Temperature Conversion
+When the absolute temperature is 400 K, what is the Fahrenheit temperature?Exercise 2.1
+2.1.2 Derived Units
+All other SI units of measurement can be derived from base units (called derived units). 
+Table 2.2	shows	some	of	the	common	derived	units.	Once	base	units	have	been	defined	for a system of measurement, you can derive other units from them. You do this by using	the	base	units	in	equations	that	define	other	physical	quantities.	For	example,	area	is	defined	as	length	times	width.	Therefore,
+ SI unit of area = (SI unit of length) × (SI unit of width)
+From this, SI unit of area is meter × meter, or m
+2.	Similarly,	speed	is	defined	as	the	
+rate	of	change	of	distance	with	time;	that	is,	speed	=	distance/time.	Consequently,
+SI unit of speed =SI unit of distance 
+       SI unit of �  me
+The SI unit of speed is meters per second (that is, meters divided by seconds). The unit 
+is symbolized m/s or m s-1. The unit of speed is an example of an SI derived unit, which 
+is a unit derived by combining SI base units. Table 2.2  displays a number of derived 
+units. Volume and density are discussed in this section.
+Volume
+Volume	is	defined	as	length	cubed	and	has	the	SI	unit	of	cubic	meter	(m3). This is too 
+large a unit for normal laboratory work, so we use either cubic decimeters (dm3) or 
+cubic centimeters (cm3, also written cc). Traditionally, chemists have used the liter (L), 
+which is a unit of volume equal to a cubic decimeter. In fact, most laboratory glassware 
+(Figure 2.2) is calibrated in liters or milliliters (1000 mL = 1 L). Because 1 dm equals 10 cm, a cubic decimeter, or one liter, equals (10 cm)
+3 = 1000 cm3. Therefore, a 
+milliliter equals a cubic centimeter. In summary,
+  1 L = 1 dm3 and 1 mL = 1 cm3.
+
+--- [PAGE BREAK] ---
+
+25Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Table 2.2 Derived units.
+Quantity Deﬁ  nition of Quantity SI Unit
+Area Length squared m2
+Volume Length cubed m3
+Density Mass per unit volume kg/m3
+Speed Distance traveled per unit time m/s
+Acceleration Speed changed per unit time m/s2
+Force Mass times acceleration of object kg.m/s2 (= newton, N)
+Pressure Force per unit area kg/(m.s2)(= pascal,Pa)
+Energy Force times distance traveled kg.m2/s2 (= joule,J)
+Density
+The density of an object is its mass per unit volume. You can express this as 
+  d = m 
+         v 
+where d is the density, m is the mass, and V is the volume. Suppose an object has a 
+mass of 15.0 g and a volume of 10.0 cm3. Therefore, the density will be
+ d = 15.0 g     = 1.50 g/cm3
+        10.0 cm3
+The density of the object is 1.50 g/cm3. 
+Density is an important characteristic property of a material. Water, for example, has a density of 1.000 g/cm
+3 at 4 oC and a density of 0.998 g/cm3 at 20 oC. Lead has 
+a density of 11.3 g/cm3 at 20 oC.
+Density can also be useful in determining whether a substance is pure. Consider a gold bar whose purity is questioned. The metals likely to be mixed with gold, such as silver or copper, have lower densities than gold. Therefore, an adulterated (impure) gold bar can be expected to be far less dense than pure gold.
+Example 2.1:  Calculating the density of a substance 
+A colorless liquid, used as a solvent (a liquid that dissolve other substances), is believed 
+to be one of the following (Table 2.3):
+Table 2.3 Density of different liquids.
+Substance Density (in g/mL)
+n-butyl alcohol 0.810
+ethylene glycol 1.114
+isopropyl alcohol 0.785
+toluene 0.866
+
+--- [PAGE BREAK] ---
+
+26Chemistry Grade 9 Measurements and Scientiﬁc Methods
+To identify the substance, Chaltu determined its density. By pouring a sample of the 
+liquid into a graduated cylinder, she found that the volume was 35.1 mL. She also found that the sample weighed 30.5 g. What was the density of the liquid? What was the substance?
+Solution
+The	solution	to	this	problem	lies	in	fi	nding	the	density	of	the	unknown	substance.	Once	the density of the unknown substance is known, you can compare it to the list of known substances presented in the problem and look for a match. Density is the relationship of the mass of a substance per volume of that substance. Expressed as an equation, density is the mass divided by the volume: d = m/V.
+You substitute 30.5 g for the mass and35.1 mL for the volume into the equation.
+  d = m  = 30.5 g   = 0.869 g/mL         v      35.1mL
+The density of the liquid equals that of toluene (within experimental error).Answer Check Always be sure to report the density in the units used when performing 
+the calculation. Density is not always reported in units of g/ml org/cm
+3,	for	example;	
+gases are often reported with the units of g/L.
+A piece of metal wire has a volume of 20.2 cm3 and a mass of 159 g. What 
+is the density of the metal? We know that the metal is manganese, iron, or nickel, and these have densities of 7.21 g/cm
+3, 7.87 g/cm3, and 8.90 g/cm3, 
+respectively. From which metal is the wire made?Exercise 2.2
+2.1.3 Common Preﬁ  xes Used in SI Units 
+The	factor	expressed	as	a	factor	to	the	power	of	ten,	SI/	metric	prefi	x,	the	symbol	used and the actual decimal number are tabulated in Table 2.4. They are widely used	and	are	easy	to	add	to	the	basic	units.	Like	metric	units,	SI	units	are	modifi	ed	in	decimal	fashion	by	a	series	of	prefi	xes,	as	shown	in	 Table 2.4 . Measurements that we 
+will utilize frequently in our study of chemistry include time, mass, volume, density, and temperature.
+
+--- [PAGE BREAK] ---
+
+27Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Table 2.4 SI/ Metric Units, Symbols and Numbers.
+Factor Preﬁ  x Symbol  Decimal Example
+1012Tera T 1,000,000,000,000 1 Terameter (Tm)=1×1012 m
+109Giga G 1,000,000,000 1 Gigameter (Gm)= 1×109 m
+106Mega M 1,000,000 1 Megameter (Mm)= 1×106 m
+103Kilo k 1,000 1 kilometer (km)= 1×103 m
+102Hecto h 100 1 hectometer (hm)= 1×102 m
+101Deca da 10 1 decameter (dam)= 1×101 m
+10-1Deci d 0.1 1 decimeter (dm)= 1×10-1 m
+10-2Centi c 0.01 1 centimeter (cm)= 1×10-2 m
+10-3milli- m 0.001 1 millimeter (mm)= 1×10-3 m
+10-6Micro µ 0.000 001 1 micrometer (µm)= 1×10-6 m
+10-9Nano n 0.000 000 001 1 nanometer (nm)= 1×10-9 m
+10-12Pico p 0.000 000 000 001 1 picometer (pm)= 1×10-12 m
+Examples of SI preﬁ  xes
+The	SI	prefi	xes/	metric	prefi	xes	are	easily	used	as	demonstrated	by	the	few	simple	examples given below:
+1 Megawatt = 1,000,000 watts
+1 kilogram = 1,000 grams
+1 µF = 1 microFarad = 1/1,000,000 Farad  
+Along with these the abbreviations or symbols can also be used. For example, kV for kilovolts, kW for kilowatts, and km for kilometer. The other symbols or abbreviations can be used in exactly the same manner. 
+2.1.4 Uncertainty in Measurements
+Whenever you measure something, there is always some uncertainty. There are two categories of uncertainty: systematic and random. 1. Systematic uncertainties are those which consistently cause the value to be too large or too small. Systematic uncertainties include such things as reaction time, inaccurate meter sticks, optical parallax and miscalibrated balances. In principle, systematic uncertainties can be eliminated if you know they exist. 
+2. Random uncertainties are variations in the measurements that occur without a pre-dictable pattern. If you make precise measurements, these uncertainties arise from the estimated part of the measurement. Random uncertainty can be reduced, but never eliminated. We need a technique to report the contribution.
+
+--- [PAGE BREAK] ---
+
+28Chemistry Grade 9 Measurements and Scientiﬁc Methods
+The uncertainty shall rather be understood as an interval within which the result can be 
+found with a given probability. Thus, the result will be within the interval but all values within the interval have the same probability to represent the result. 
+Except when all the numbers involved are integers (for example, in counting the number 
+of students in a class), obtaining the exact value of the quantity under investigation is often impossible. For this reason, it is important to indicate the margin of error in a	measurement	by	clearly	indicating	the	number	of	signifi	cant	fi	gures,	which	are	the	meaningful	digits	in	a	measured	or	calculated	quantity.	When	signifi	cant	fi	gures	are	used, the last digit is understood to be uncertain. For example, we might measure the volume of a given amount of liquid using a graduated cylinder (see Figure 2.4) with a scale that gives an uncertainty of 1 mL in the measurement. If the volume is found to be 6 mL, then the actual volume is in the range of 5 mL to 7 mL. We represent the volume	of	the	liquid	as	(6±1)	mL.	In	this	case,	there	is	only	one	signifi	cant	fi	gure	(the	digit 6) that is uncertain by either plus or minus 1 mL. For greater accuracy, we might use	a	graduated	cylinder	that	has	fi	ner	divisions,	so	that	the	volume	we	measure	is	now	uncertain by only 0.1 mL. If the volume of the liquid is now found to be 6.0 mL, we may express the quantity as (6.0± 0.1) mL, and the actual value is somewhere between 5.9 mL and 6.1 mL. We can further improve the measuring device and obtain more signifi	cant	fi	gures,	but	in	every	case,	the	last	digit	is	always	uncertain;	the	amount	of	this uncertainty depends on the particular measuring device we use and the user’s ability.
+Figure 2.4 Uncertainty in volume measurement using a measuring cylinder.
+
+--- [PAGE BREAK] ---
+
+29Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Conduct	the	following	activity	and	present	your	fi	nding	to	
+the class. 
+1. Make a chain of paper clips or other objects of 
+uniform length. Then use a meter stick to measure a series of lengths on the chain. For example, measure sections containing one, two, three, etc., clips. Record your results and share them with your classmates.
+2. Using laboratory scale, take several mass reading for one, two, three objects of uniform size. You can use	any	convenient	objects	you	fi	nd	in	the	laboratory.	Record your results and discuss them in your group. Focus especially on the similarities and differences in your	measurement.	Did	you	all	fi	nd	the	same	reading	for the same object? What do you think are the cause of the uncertainties, if any? Discuss the results with the 
+rest of the class.
+  Activity 2.2
+Calculating uncertainties 
+There are several techniques that will produce an estimate of the uncertainty in the value of the mean. Since we are expecting students to produce an estimate of the uncertainty any suitable value that indicates half the range is acceptable. 
+Example 2.2:  A student measures the diameter of a metal canister using a ruler 
+graduated in mm and records these results: 
+Diameter/mm
+Reading 1 Reading 2 Reading 3 Mean
+66 65 61 64
+The uncertainty in the mean value (64 mm) can be calculated as follows:
+a. Using the half range
+The range of readings is 61 mm – 66 mm so half the range is used to determine the uncertainty. Uncertainty in the mean diameter = (66 mm – 61 mm)/2 = 2.5 mmTherefore, the diameter of the metal canister is 64 mm ± 2.5 mm. Since a ruler graduated in mm could easily be read to ± 0.5 mm, it is acceptable to quote the uncertainty as ± 2.5 mm for this experiment. 
+b. Using the reading furthest from the mean
+In this case, the measurement of 61 mm is further from the average value than 66 mm 
+therefore we can use this value to calculate the uncertainty in the mean.Uncertainty in the mean diameter = 64 mm – 61 mm = 3 mm. 
+
+--- [PAGE BREAK] ---
+
+30Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Therefore, the diameter of the metal canister is 64 mm ± 3 mm.
+c. Using the resolution of the instrument
+This is used if a single reading is taken or if repeated readings have the same value. 
+This is because there is an uncertainty in the measurement because the instrument used to take the measurement has its own limitations.  If the three readings obtained above were all 64 mm then the value of the diameter being measured lies somewhere between 63.5 mm and 64.5 mm since a meter rule could easily be read to half a millimeter.  In this case, the uncertainty in the diameter is 0.5 mm. Therefore, the diameter of the metal canister is 64 mm ± 0.5 mm. This also applies to digital instruments. An ammeter records currents to 0.1 A. A current of 0.36 A would be displayed as 0.4 A, and a current of 0.44 A would also be displayed as 0.4 A. The resolution of the instrument is 0.1 A but the uncertainty in a reading is 0.05 A.
+The typical uncertainty of a top loading balance is 0.05 g. How would you report 
+on weighing of 23.25 g made on this top loading balance? The result should be reported as 23.25 g ± 0.05 g. Such an item of data means that the correct reading lies between 23.20 g and 23.30 g. 
+The uncertainty in a measurement can be expressed in two useful ways: 
+a. as the absolute uncertainty in the last digit writtenb. as the percent uncertainty calculated as follows
+% uncertainty =absolute uncertainty× 100     measurement
+% uncertainty = (0.05 g)/( 23.25 g) × 100 = 0.2%
+Therefore the answer may be reported as:Absolute uncertainty: 23.25 g ± 0.05 gPercent uncertainty: 23.25 g ± 0.2%
+Absolute uncertainty and percent uncertainty  in a single reading: Use the given 
+uncertainty to calculate the % uncertainty in each of the following readings and report the result of measurement in terms of absolute uncertainty and percent uncertainty: 
+a. A barometer reading of 723.5 torr. The absolute uncertainty is 0.1 torrb. 2.75 g weighed on a top loading balance. The absolute uncertainty is 0.05 
+g
+c. 2.7413 g weighed on an analytical balance. The absolute uncertainty is 0.0002 gExercise 2.3
+
+
+--- [PAGE BREAK] ---
+
+31Chemistry Grade 9 Measurements and Scientiﬁc Methods
+d. A temperature reading of 75.6 °C on a thermometer graduated to the 
+nearest degree. The absolute uncertainty is 0.2 °C
+e. 18.6 ml measured in 100 ml graduated cylinder. The absolute uncertainty is 0.4 mL
+f. 43.7 ml measured in 100 ml graduated cylinder. The absolute uncertainty is 0.4 mL
+2.1.5 Precision and Accuracy
+Measurements may be accurate, meaning that the measured value is the same as the 
+true	value;	they	may	be	precise,	meaning	that	multiple	measurements	give	nearly	identical	values	(i.e.,	reproducible	results);	they	may	be	both	accurate	and	precise;	or	they may be neither accurate nor precise. The goal of scientists is to obtain measured values that are both accurate and precise. 
+If you repeat a particular measurement, you usually do not obtain precisely the same 
+result, because each measurement is subject to experimental error. The measured values vary slightly from one another. Suppose you perform a series of identical measurements of a quantity. The term precision refers to the closeness of the set of values obtained from identical measurements of a quantity. Accuracy is a related term;	it	refers	to	the	closeness	of	a	single	measurement	to	its	true	value.
+Example 2.4:  Precision and Accuracy
+The archery targets in Figure 2.5 show marks that represent the results of four sets of 
+measurements. a. a precise but inaccurate set of measurements.b. an accurate but imprecise set of measurements.
+c. a set of measurements that is both precise and accurate.d. a set of measurements that is neither precise nor accurate.
+Figure 2.5 The distribution of darts on a dart board showing the difference between precise and accurate.
+
+--- [PAGE BREAK] ---
+
+32Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Form groups, discuss and present your conclusion to 
+the class
+1. Mohammed measured the mass of a sample of gold using one balance and found 1.896 g. On a different balance, the same sample was found to have a mass of 1.125 g. Which measurement was	correct	the	fi	rst	or	the	second	measurement?	Careful and repeated measurements made by Mohammed, including measurements on a calibrated third balance, showed the sample to have a mass of 1.895 g. The masses obtained from the three balances are in the Table 2.5:
+Table 2.5 Mass measurement
+Balance 1 Balance 2 Balance 3
+1.896 g 1.125 g 1.893 g
+1.895 g 1.158 g 1.895 g1.894 g 1.067 g 1.895 g
+Activity 2.3
+a. A 2-carat diamond has a mass of 400.0 mg. When a jeweler repeatedly 
+weighed a 2-carat diamond, he obtained measurements of 450.0 mg, 459.0 mg, and 463.0 mg. Were the jeweler’s measurements accurate? Were they precise?
+b. A single copper penny was tested three times to determine its composition. The	fi	rst	analysis	gave	a	composition	of	93.2%	zinc	and	2.8%	copper,	the	second gave 92.9% zinc and 3.1% copper, and the third gave 93.5% zinc and 2.5% copper. The actual composition of the penny was 97.6% zinc and 2.4% copper. Were the results accurate? Were they precise?Exercise 2.4
+2.1.6 Signiﬁ  cant Figures
+We	must	always	be	careful	in	scientifi	c	work	to	write	the	proper	number	of	signifi	cant	fi	gures.	In	general,	it	is	fairly	easy	to	determine	how	many	signifi	cant	fi	gures	a	number	has by using the following rules: 
+1. Any digit that	is	not	zero	is	signifi	cant.	Thus,	845	cm	has	three	signifi	cant	fi	gures,	
+1.234	kg	has	four	signifi	cant	fi	gures,	and	so	on.	
+2. Zeros	between	nonzero	digits	are	signifi	cant.	Thus,	606	m	contains	three	signifi	cant	
+
+--- [PAGE BREAK] ---
+
+33Chemistry Grade 9 Measurements and Scientiﬁc Methods
+fi	gures,	40,501	kg	contains	fi	ve	signifi	cant	fi	gures,	and	so	on.	
+3. Zeros	to	the	left	of	the	fi	rst	nonzero	digit	are	not	signifi	cant.	Their	purpose	is	to	
+indicate the placement of the decimal point. For example, 0.08 L contains one signifi	cant	fi	gure,	0.0000349	g	contains	three	signifi	cant	fi	gures,	and	so	on.	
+4. If a number is greater than 1, then all the zeros written to the right of the decimal point	count	as	signifi	cant	fi	gures.	Thus,	2.0	mg	has	two	signifi	cant	fi	gures,	40.062	mL	has	fi	ve	signifi	cant	fi	gures,	and	3.040	dm	has	four	signifi	cant	fi	gures.	If	a	number is less than 1, then only the zeros that are at the end of the number and the	zeros	that	are	between	nonzero	digits	are	signifi	cant.	This	means	that	0.090	kg	has	two	signifi	cant	fi	gures,	0.3005	L	has	four	signifi	cant	fi	gures,	0.00420	min	has	three	signifi	cant	fi	gures,	and	so	on.	
+5. For numbers that do not contain decimal points, the trailing zeros (that is, zeros after	the	last	nonzero	digit)	may	or	may	not	be	signifi	cant.	Thus,	400	cm	may	have	one	signifi	cant	fi	gure	(the	digit	4),	two	signifi	cant	fi	gures	(40),	or	three	signifi	cant	fi	gures	(400).	We	cannot	know	which	is	correct	without	more	information.	By	using	scientifi	c	notation,	however,	we	avoid	this	ambiguity.	In	this	particular	case,	we	can express the number 400 as 4×10
+2	for	one	signifi	cant	fi	gure,	4.0×102 for two 
+signifi	cant	fi	gures,	or	4.00×102	for	three	signifi	cant	fi	gures.
+A	second	set	of	rules	specifi	es	how	to	handle	signifi	cant	fi	gures	in	calculations.	1. In addition and subtraction, the answer cannot have more digits to the right of the decimal point than either of the original numbers. 
+Consider these examples: 
+ 89.332  
++1.1  ← one digit after the decimal point
+ 90.432  ← round off to 90.4 
+ 2.097 
+-0.12  ← two digits after the decimal point
+  1.977   ←  round off to 1.98
+The rounding-off procedure is as follows. To round off a number at a certain point we simply	drop	the	digits	that	follow	if	the	fi	rst	of	them	is	less	than	5.	Thus,	8.724	rounds	off	to	8.72	if	we	want	only	two	digits	after	the	decimal	point.	If	the	fi	rst	digit	following	the point of rounding off is equal to or greater than 5, we add 1 to the preceding digit. Thus, 8.727 rounds off to 8.73, and 0.425 rounds off to 0.43. 
+2. In	multiplication	and	division,	the	number	of	signifi	cant	fi	gures	in	the	fi	nal	product	
+or quotient is determined by the original number that has the smallest number of signifi	cant	fi	gures.	The	following	examples	illustrate	this	rule:	
+2.8×4.5039=12.61092 → round off to 13
+6.85  = 0.0611388789  →  round off to 0.0611 112.04 
+
+--- [PAGE BREAK] ---
+
+34Chemistry Grade 9 Measurements and Scientiﬁc Methods
+3. Keep	in	mind	that	exact	numbers	obtained	from	defi	nitions	(such	as	1	ft,	12	in,
+where 12 is an exact number) or by counting numbers of objects can be considered to	have	an	infi	nite	number	of	signifi	cant	fi	gures.
+Example 2.5 Signifi	cant	fi	gures
+Determine the	number	of	signifi	cant	fi	gures	in	the	following	measurements:	(a)	394	cm,		
+(b)   5.03 g     (c)   0.714 m,     (d)   0.052 kg,   (e)   2.720 × 10
+22  atoms,  
+(f )   3000 mL.
+Solution: (a)Three, because each digit is a nonzero digit. (b) Three, because zeros 
+between	nonzero	digits	are	signifi	cant.	(c)	Three,	because	zeros	to	the	left	of	the	fi	rst	
+non	zero	digit	do	not	count	as	signifi	cant	fi	gures.	(d)	Two.	Same	reason	as	in	(c).	(e)	Four, because the number is greater than one, all the zeros written to the right of the decimal	point	count	as	signifi	cant	fi	gures.	(f)	This	is	an	ambiguous	case.	The	number	of	signifi	cant	fi	gures	may	be	four	(3.000	×	10
+3), three (3.00 × 103), two (3.0 × 103), or 
+one (3 × 103).	This	example	illustrates	why	scientifi	c	notation	must	be	used	to	show	the	
+proper	number	of	signifi	cant	fi	gures.	
+Signifi	cant	fi	gures:	
+Determine	 the	 number	 of	 signifi	cant	 fi	gures	 in	 each	 of	 the	 following	measurements:    
+a. 35 mLb. 2008 g
+c. 0.0580 m
+3d. 7.2 × 104 molecules
+e. 830 kg.  Exercise 2.5
+1. Arithmetic operations: Carry out the following arithmetic operations to the correct	number	of	signifi	cant	fi	gures:	a. 11,254.1 g + 0.1983 gb. 66.59 L – 3.113 L
+c. 8.16 m × 5.1355d. 0.0154 kg ÷ 88.3 mLe. 2.64 × 10
+3 cm + 3.27 × 102
+cm. 
+2. Signifi	cant	Figures	(Addition	and	Subtraction)a. Add 37.24 mL and 10.3 mL.b. Subtract 21.2342 g from 27.87 g.
+3. Signifi	cant	Figures	(Multiplication)
+What is the area of a rectangle 1.23 cm wide and 12.34 cm long?Exercise 2.6
+
+
+--- [PAGE BREAK] ---
+
+35Chemistry Grade 9 Measurements and Scientiﬁc Methods
+2.1.7 Scientiﬁ  c Notation and Decimal Places
+We	 	 use	 scientifi	c	 notation	 when	 we	 deal with very large and very small 
+numbers. For example, 197 grams of gold contains approximately 
+602,000,000,000,000,000,000,000 gold atoms.
+The mass of one gold atom is approximately 0.000 000 000 000 000 000 000 327 
+gram. In using such large and small numbers, it is inconvenient to write down all the zeros.	In	scientifi	c	(exponential)	notation,	we	place	one	nonzero	digit	to	the	left	of	the	decimal. 
+  602,000,000,000,000,000,000,000 = 6.02×10
+23
+23 places to the left, therefore exponent of 10 is 23 
+0.000 000 000 000 000 000 000 327 =3.27×10-22
+    
+22 places to the right, therefore exponent of 10 is -22. 
+The reverse process converts numbers from exponential to decimal form. 
+Example 2.6  Unit Conversions
+The Ångstrom (Å) is a unit of length, 1×10-10 m,that provides a convenient scale on which 
+to express the radii of atoms. Radii of atoms are often expressed in nanometers. The 
+radius of a phosphorus atom is 1.10 Å. What is the distance expressed in centimeters and nanometers?
+Plan
+We use the equalities 1 Å= 1×10
+-10m, 1 cm = 1×10-2 m, and 1nm = 1× 10-9 m to 
+construct the unit factors that convert 1.10 Å to the desired units.
+Solution: Let x be the length in cm unit and y the length in nm.
+x cm = 1.10 0Ax 1 x 10-10 m x  1cm          = 1.10 x 10-8 cm               10A              1 x 10-2 m 
+y nm= 1.10 0Ax  1 x 10-10 m x  1nm          = 1.10 x 10-1 nm               10A              1 x 10-9 m 
+Volume Calculation
+Assuming	a	phosphorus	atom	is	spherical;	calculate	its	volume	in	Å3, cm3, and 
+nm3. The formula for the volume of a sphere is  V =  4   πr3
+        3  Refer to Example 
+above.Exercise 2.7
+
+
+--- [PAGE BREAK] ---
+
+36Chemistry Grade 9 Measurements and Scientiﬁc Methods
+2.2 Chemistry as Experimental Science
+Learning competencies
+At the end of this section, you should be able todefi	ne	scientifi	c	method;
+describe	the	major	steps	of	the	scientifi	c	method;
+use	scientifi	c	methods	in	solving	problems;
+demonstrate	some	experimental	skills	in	chemistry;
+ describe the procedures of writing laboratory report.
+Chemistry is largely an experimental science, and a great deal of knowledge comes 
+from laboratory research. In addition, however, today’s chemist may use a computer to study the microscopic structure and chemical properties of substances or employ sophisticated electronic equipment to analyze pollutants from auto emissions or toxic substances in a soil. Many frontiers in biology and medicine are currently being explored at the level of atoms and molecules the structural units on which the study of chemistry is based. 
+Chemists participate in the development of new drugs and in agricultural research. 
+What’s more, they are seeking solutions to the problem of environmental pollution along with replacements for energy sources. And most industries, whatever their products, have a basis in chemistry. For example, chemists developed polymers (very large molecules) that manufacturers use to make a wide variety of goods, including clothing,	cooking	utensils,	artifi	cial	organs,	and	toys.	
+Chemistry is evidence based. All chemical statements are based on experiment. 
+Chemistry is part of the body of modern science. It shares the experimental method of all sciences. It improves in time also using new discoveries and concepts from other sciences. In turn, it provides both theoretical and experimental tools to different sciences. Biology and Geology cannot be studied without a thorough understanding of chemical phenomena. Indeed, because of its diverse applications, chemistry is often called the “central science.”
+2.2.1 The Scientiﬁ  c Method
+Conduct the following activity and present your 
+fi	nding	to	the	class.	
+a. Collect	a	plastic	bag	fi	lled	with	different	items	
+provided by your teacher.
+b. Decide on the question you would like to answer about your bag. Write it down. (Do not open the bag)
+
+--- [PAGE BREAK] ---
+
+37Chemistry Grade 9 Measurements and Scientiﬁc Methods
+c. Guess what the answer to your question might 
+be. Write down. (Do not open the bag)
+d. Open your bag and answer the questions.e. Be sure to count the total number of items.
+Now, discuss which part of the activity (a, b, c, d, or e) introduces	the	scientifi	c	terminology:	hypothesis,	data	collection, experimentation, etc. 
+  Activity 2.4
+The Scientiﬁ  c method
+What	is	Scientifi	c	Method?	The	Scientifi	c	method	is	a	process	with	the	help	of	which	
+scientists try to investigate, verify, or construct an accurate and reliable version of any natural phenomena. They are done by creating an objective framework for the	purpose	of	scientifi	c	inquiry	and	analyzing	the	results	scientifi	cally	to	come	to	a	conclusion which either supports or contradicts the observation made at the beginning.
+Scientiﬁ  c Method Steps
+The	aim	of	all	scientifi	c	methods	is	the	same,	that	is,	to	analyze	the	observation	made	at the beginning but there are various steps adopted as per the requirement of any given observation. However, there is a generally accepted sequence of steps of scientifi	c	methods	as	it	is	shown	in	Figure 2.6 .
+Figure 2.6 The four main steps of the research process in studying chemistry and their 
+relationships.
+
+--- [PAGE BREAK] ---
+
+38Chemistry Grade 9 Measurements and Scientiﬁc Methods
+i. Observation	and	formulation	of	a	Question:	This	is	the	fi	rst	step	of	a	scientifi	c	
+method. In order to start one, an observation has to be made into any observable aspect or phenomena of the universe and a question needs to be asked pertaining to that aspect. For example, you can ask, “Why is the sky black at night? or “Why is air invisible?”
+ii. Data	Collection	and	Hypothesis:	The	next	step	involved	in	the	scientifi	c	method	is	to collect all related data and formulate a hypothesis based on the observation. The hypothesis could be the cause of the phenomena, its effect, or its relation to any other phenomena.
+iii. Testing the Hypothesis: After the hypothesis is made, it needs to be tested scientifi	cally.	Scientists	do	this	by	conducting	experiments.	The	aim	of	these	experiments is to determine whether the hypothesis agrees with or contradicts the observations	made	in	the	real	world.	The	confi	dence	in	the	hypothesis	increases	or decreases based on the result of the experiments.
+iv. Analysis and Conclusion: This step involves the use of proper mathematical and other	scientifi	c	procedures	to	determine	the	results	of	the	experiment.	Based	on	the analysis, the future course of action can be determined. If the data found in the analysis is consistent with the hypothesis, it is accepted. If not, then it is rejected	or	modifi	ed	and	analyzed	again.
+It must be remembered that a hypothesis cannot be proved or disproved by doing one experiment. It needs to be done repeatedly until there are no discrepancies in the data and the result. When there are no discrepancies and the hypothesis is proved beyond	any	doubt,	it	is	accepted	as	a	‘theory’.
+2.2.2 Some Experimental Skills in Chemistry
+Laboratory Safety Rules 
+In the home, the kitchen and bathroom are the sites of most accidents. The chemical laboratory poses similar hazards and yet it can be no more dangerous than any other classroom if the following safety rules are always observed. Most of them are based on simple common sense. 
+1. Responsible behaviour is essential. The dangers of spilled acids and chemicals and 
+broken glassware created by thoughtless actions are too great to be 
+tolerated. 
+2. Wear approved eye protection at all times in the laboratory and in any area where chemicals are stored or handled. The only exception is when explicit instructions to the contrary are given by your teacher. 
+3. Perform no unauthorized experiments. This includes using only the quantities instructed, no more.  Consult your teacher if you have any doubts about the instructions in the laboratory manual. 
+4. Do	not	smoke	in	the	laboratory	at	any	time.	Not	only	is	smoking	a	fi	re	hazard,	but smoking draws chemicals in laboratory air (both as vapours and as dust) into the lungs. 
+5. In	case	of	fi	re	or	accident,	call	the	teacher	at	once.	Note	the	location	of	fi	re	
+
+--- [PAGE BREAK] ---
+
+39Chemistry Grade 9 Measurements and Scientiﬁc Methods
+extinguishers and safety showers now so that you can use them if needed. 
+6. Report	all	injuries	to	your	instructor	at	once.	Except	for	very	superfi	cial	injuries,	
+you will be required to get medical treatment for cuts, burns, or fume inhalation. 
+7. Do not eat or drink anything in the laboratory.8. Avoid breathing fumes of any kind.9. Never	use	mouth	suction	in	fi	lling	pipets	with	chemical	reagents.	Always	use	a	suction device.
+10. Never work alone in the laboratory. There must be at least one other person present in the same room.  In addition, your teacher should be quickly available.
+11. Wear shoes in the laboratory. Bare feet are prohibited because of the danger from broken glass.  Sandals are prohibited because of the hazard from chemical spills.
+12. Confi	ne	long	hair	and	loose	clothing	(such	as	ties)	in	the	laboratory.	They	may	either	catch	fi	re	or	be	chemically	contaminated.	a. A laboratory apron or lab coat provides protection at all times. A lab apron or lab coat is required when you are wearing easily combustible clothing (synthetic and light fabrics).
+b. It is advisable to wear old clothing to laboratory, because it is both generally not	as	loose	and	ﬂ	ammable	as	new	clothing,	and	not	as	expensive	to	replace.
+13. Keep your work area neat at all times. Clean up spills and broken glass immediately. Clutter not only will slow your work, but it leads to accidents. Clean up your work space, including wiping the surface and putting away all chemicals and equipment, at the end of the laboratory period. 
+14. Be	careful	when	heating	liquids;	add	boiling	chips	to	avoid	“bumping”.	Flammable liquids such as ethers, hydrocarbons, alcohols, acetone, and carbon disulfi	de	must	never	be	heated	over	an	open	ﬂ	ame.
+15. Always pour acids into water when mixing. Otherwise the acid can spatter, often quite violently.  Pour acid into water.
+16. Do not force a rubber stopper onto glass tubing or thermometers. Lubricate the tubing and the stopper with glycerol or water.  Use paper or cloth towelling to protect your hands. Grasp the glass close to the stopper.
+17. Dispose	of	excess	liquid	reagents	by	ﬂ	ushing	small	quantities	down	the	sink.	Consult the teacher about large quantities.  Dispose of solids in crocks.  Never return reagents to the dispensing bottle.
+18. Carefully read the experiment and answer the questions in the prelab before coming to the laboratory.  An unprepared student is a hazard to everyone in the room. 
+19. Spatters are common in chemistry laboratories. Test tubes being heated or containing reacting mixtures should never be pointed at anyone.  If you observe this practice in a neighbour, speak to him or her or the teacher, if needed. 
+20. If you have a cut on your hand, be sure to cover with a bandage or wear appropriate laboratory gloves. 
+21. Finally, and most important, think about what you are doing.  Plan ahead.  Do 
+
+--- [PAGE BREAK] ---
+
+40Chemistry Grade 9 Measurements and Scientiﬁc Methods
+not cookbook.  If you give no thought to what you are doing, you predispose 
+yourself to an accident. 
+The	fi	rst	and	foremost	rule	of	any	laboratory	is	to	be	safe!	This	may	seem	obvious,	but	people often disregard safety protocols for one reason or another, putting themselves and those around them in danger. The best thing you can do is to make sure you follow all safety protocols at all times.
+Safety goggles are required wear in all chemistry labs. Not wearing them puts 
+you in danger of eye irritation and possibly blindness in the case of an accident. A small droplet of acid could splash out of the container at any time. Better safe than	permanently	blinded!	Latex	gloves	should	be	used	when	there	is	a	possibility	of corrosive chemicals spilling onto your hands. A lab apron or coat can also prevent injury in case of spills or splashes.
+A beaker is a common container in most labs. It is used for mixing, stirring, and heating 
+chemicals. Most beakers have spouts on their rims to aid in pouring. They also commonly have lips around their rims and markings to measure the volume they contain, although they are not a precise way to measure liquids. Beakers come in a wide range of sizes. Because of the lip that runs around the rim, a lid for a beaker does not exist. However, a watch glass can be used to cover the opening to prevent contamination or splashing. Figure 2.7  shows some of the commonly used laboratory equipments.
+Crucible tongs
+Utility clamp Clay triangle Wire gauzeTest tube 
+holderSpatulaTest tube rack
+Beaker Elenmeyer 
+ﬂ	askFlorence 
+ﬂ	askGraduated cylinder
+Graduated 
+pipetMedicine
+dropperWatch 
+glass Volumetric 
+pipetFunnelEvaporating 
+dish
+Wash bottle Test tube BuretCrucible & 
+coverRing support Bunsen burner Ring stand Scoopula Test tube brush
+Figure 2.7  Commonly used Laboratory Equipment.
+
+--- [PAGE BREAK] ---
+
+41Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Conduct	the	following	activity	and	present	your	fi	nding	
+to the class.
+Laboratory equipment
+List down laboratory equipment you know and that are not shown in Figure 2.7. Describe their use. Which of them are used for measurement?
+  Activity 2.5
+2.2.3 Writing a Laboratory Report
+A. The  Pre-laboratory Report
+Each experiment in this manual includes a pre-laboratory (prelab) report. The prelab report is to be completed before the experiment is begun in the laboratory. Its purpose is	to	ensure	familiarity	with	the	procedure	and	provide	for	a	more	effi	cient	utilization	of limited laboratory time. The prelab questions can be answered after a careful reading of the introduction and procedure of the experiment. Sample calculations are sometimes included to provide awareness of data that needs to be collected and how it is treated. Your teacher may prefer to administer prelab quizzes instead of collecting prelab reports.   
+B. The Laboratory Report
+A	good	laboratory	report	is	the	essential	fi	nal	step	in	performing	an	experiment.	It	is	
+in this way that you communicate what you have done and what you have discovered. Since it is the only means, in many instances, of reporting results, it is important that it be prepared properly. 
+A laboratory report is a fi	nal	draft.	As	such	it	is	always	written	in	ink	or	typed.	A	
+typed laboratory report is necessary if your handwriting is hard to read. There must be no erasures or crossed out areas. The initial draft of a laboratory report belongs in your laboratory notebook for two reasons. 
+1. It	is	unlikely	that	you	will	get	everything	correct	on	the	fi	rst	attempt	and,	thus,	a	
+fi	rst	draft	written	on	the	report	form	itself	could	be	very	messy.	
+2. If the report itself is lost or destroyed, you can easily and quickly rewrite the report from the notebook. 
+It is essential that a laboratory report be neat. Studies have shown that when the same work is submitted in both neat and sloppy form, the neat version makes the better impression. Neat work indicates that the writer knows and cares about the subject matter. 
+All data should be presented with the correct	signifi	cant	fi	gures	and	units.	The	omission	
+of	units	makes	it	diffi	cult	for	the	reader	to	know	the	size	of	the	numbers	being	reported.	And	writing	down	the	wrong	number	of	signifi	cant	fi	gures	amounts	to	lying	about	the	
+
+--- [PAGE BREAK] ---
+
+42Chemistry Grade 9 Measurements and Scientiﬁc Methods
+precision	of	the	data.	Too	many	signifi	cant	fi	gures	imply	that	you	know	a	number	more	
+precisely than you actually do. 
+All questions should be answered with complete and grammatically correct sentences. 
+Abbreviations should not be included in written answers. Read the sentence out loud to make sure that it makes sense. 
+Your sample compu tations should	be	labeled	with	their	purpose,	for	example;	“mass	
+of the liquid”. Within the computation, all numbers must have the correct units and the 
+correct	number	of	signifi	cant	fi	gures.	
+Laboratory reports that extend to more than one page should either be stapled 
+together or have your name and the page number at the top right of each page.  For example:	Terhas	Asgedom,	page	2	of	4	pages.	This	makes	it	more	diffi	cult	for	the	instructor to inadvertently misplace pages. Using a paper clip or tearing corners to hold pages together is not acceptable. Reports should also be dated.
+Graphs
+Graphs are used to present the data in picture form so that they can be more readily grasped by the reader. Occasionally, a graph is used to follow a trend. Notice that the best smooth curve is drawn through the data points. This is not the same as connecting	the	dots;	all	of	the	data	points	will	not	fall	on	the	line.		Often,	however,	a	graph	is	used	to	show	how	well	data	fi	t	a	straight	line.	The	line	drawn	may	either	be visually estimated (“eyeballed”) or computed mathematically. There are many essential features of a good graph. 
+1. The axes must be both numbered and labeled. The abscissa is the right-to-left 
+or the horizontal axis or x-axis.
+2. The graph must have a title. When we speak of graphing, we always mention the	quantity	plotted	on	the	ordinate	fi	rst.	
+3. The data points are never graphed as little dots. One may use small circles, small circles with a dot inside, crosses, asterisks, or X’s.  If dots are used, data are too easily lost on the graph or “created” by stray blobs of ink. 
+4. Any lines that appear on the graph in addition to data points should be explained. Thus, the line drawn is explained in the title as “(visually estimated best straight line).” 
+5. The	scales	of	the	axes	should	be	adjusted	so	that	the	graph	fi	lls	the	page	as	much as possible. 
+Measurements and DensityChemistry is very much an experimental science in which careful and accurate measurements are the very essence of meaningful experimentation. It is, therefore, essential	for	the	beginning	student	to	learn	how	scientifi	c	measurements	are	carried	out properly through the use of common measuring instruments. It is equally important for	the	student	to	acquire	an	appreciation	of	the	signifi	cance	of	measurements	and	to	
+
+--- [PAGE BREAK] ---
+
+43Chemistry Grade 9 Measurements and Scientiﬁc Methods
+apply	learned	technique	to	a	common	specifi	c	experiment.	
+In the following ex periment you will become familiar with how mass and volume 
+measurements	are	carried	out	and	how	an	evaluation	of	the	measurements	is	reﬂ	ected	
+in	the	number	of	signifi	cant	fi	gures	recorded.	These	mass	and	volume	measurements	will then be used to determine the density of (1) a metal bar and (2) a salt solution by two different methods. Finally, the results of the density measurements will be evaluated with respect to their precision and accuracy. 
+The density of an object is one of its most fundamental and useful characteristics. As 
+an intensive property it is independent of the quantity of material measured since it is the ratio of the mass of an object to its volume. The density of an object can be determined by a variety of methods. In this experiment you will practice using a balance to measure mass. In addition, you will learn how to measure volume using a graduated cylinder and a pipet and learn how to calibrate the pipet. A comparison of the results allows for the calculation of the relative average deviation, which is a measure of the precision of the experiment.
+Intensive and extensive properties
+Defi	ne	the	terms	intensive	and	extensive	properties.	List	
+down examples of intensive and extensive property.
+  Activity 2.6
+Also, in the case of the metal bar, the results of measuring the density of the bar may 
+be compared with the accepted density value for the bar. Thereby the relative error (a measure of accuracy) for the density of the bar may be determined. The sections in the	Introduction	to	this	laboratory	manual	pertaining	to	precision,	accuracy,	signifi	cant	fi	gures,	and	the	laboratory	notebook	should	be	studied	carefully	before	performing	this experiment. 
+Materials and Chemicals
+Cylindrical metal bars (Al, Cu, brass), approximately 51 cm (diameter), measuring rules (graduated in mm), 20or 25 mL transfer pipets, 50 mL beaker, graduated cylinders	(10	and	50	mL	or	100	mL),	125	mL	Erlenmeyer	ﬂ	ask,	stopper,	thermometers,	and balances with precision to 1 mg. Saturated salt solutions (NaCl and/or KCl are convenient) – about 36 g NaCl is required/100 mL. Estimated Time: 2-3 hours
+Safety Precautions
+Review the safety rules. Take special care in inserting the bar into the graduated cylinder.	Do	not	drop	it	in!	The	glass	cylinder	may	break.	Pipeting	should	always	be	done using a suction device. Never suction by mouth. 
+
+--- [PAGE BREAK] ---
+
+44Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Procedures
+Record all measurements in your laboratory notebook in ink.  The proper use of a sensitive balance is critical to useful mass measurements.  Also, pipeting is a very useful, accurate, and common method for transferring exact volumes of liquids.  Therefore, the instructor should demonstrate good balance and pipet techniques to the class at the beginning of the laboratory period.  Please note that when a portion of the experiment contains the instruction “Repeat . . . twice,” each portion is to be performed all the way through three times:  initially and two repetitions.
+Part I:  Measurements
+A. Mass Measurements
+After balance instruction, you will be assigned or allowed to select a balance for use during the experiment. 
+1. Zero the balance after cleaning the pan.
+2. Measure the mass of a clean dry 50 mL beaker to the nearest ±0.001 g.3. Record, in ink, your observation directly into the lab notebook.4. Remove the beaker from the pan.  Again, clean the balance pan and zero the balance.
+5. Weigh the same beaker as before (step 2) and record the result.6. Repeat steps 4 and 5 one more time.7. From the three mass measurements, calculate the average mass of the beaker.8. Repeat steps 4 and 5 using a second balance (just one weighing).9. Repeat steps 4 and 5 using a third balance (just one weighing). 
+B. Volume Measurements
+Use of a pipet: In order to accurately measure a liquid volume using a pipet, you must consider several things. Most volumetric pipets are designed to deliver rather than	to	contain	the	specifi	ed	volume.	Thus,	a	small	amount	of	liquid	remains	in	the	tip	of the pipet after transfer of liquid. This kind of pipet is marked with the letters “TD” somewhere on the barrel above the calibration line. Also, for purpose of safety, never pipet	by	mouth;	that	is,	never	use	your	mouth	to	draw	liquid	into	the	pipet.	Always	use	a suction device. 
+Use a clean but not necessarily dry 20 or 25 mL pipet. Rinse the pipet several times 
+with small portions of the liquid to be transferred. To measure the desired volume, a volume of liquid greater than that to be measured is needed in order to keep the pipet	tip	under	the	liquid	surface	while	fi	lling.	
+While holding the pipet ve rtically, squeeze the air out of the suction device and hold 
+it against the large end of the pipet, tight enough to obtain a seal. Keep the suction 
+device evacuated and dip the pipet tip below the surface of the liquid, but do not touch the bottom of the container (A chipped tip causes error). Now release the suction device	gently	and	allow	liquid	to	fi	ll	the	pipet	until	it	is	one	to	two	cm	above	the	
+
+--- [PAGE BREAK] ---
+
+45Chemistry Grade 9 Measurements and Scientiﬁc Methods
+calibration line etched onto the upper barrel. Quickly remove the suction device and 
+cover	the	end	with	your	index	fi	nger	before	the	liquid	level	falls	below	the	line	(some	practice may be necessary). Wipe the outside of the tip with a clean piece of towel or tissue. With the tip touching the wall of the source container above the liquid level, allow it to drain until the meniscus rests exactly on the line. Now hold the pipet over the sample container and allow it to drain, but be careful to avoid loss from splashing. When the swollen part of the pipet is nearly empty, touch the tip to the wall of the container and continue draining. When the liquid level falls to the tip area, hold the tip to the glass for an additional 20 seconds and then remove. Do not blow out the remaining liquid. 
+1. Measure the temperature in the laboratory. Your teacher will provide you with 
+the density of water at this temperature. 
+2. Use the same 50 mL beaker from Section A for determining the mass of each 
+aliquot of water. Rather than re-weighing the empty beaker, the average mass of the beaker determined in Section A may be used as the mass of the dry beaker. 
+3. Measure 20 or 25 mL of water (depending on the size of pipet available) into the 50 mL beaker.
+4. Record the volume of water measured with the pipet to the appropriate number of	signifi	cant	fi	gures.
+5. Record	the	number	of	signifi	cant	fi	gures	in	the	volume	measurement.
+6. Weigh the beaker and water to the nearest mg (±0.001 g).7. Calculate the mass of water in the beaker.8. Use the mass and density of water to determine the volume of water measured.
+9. Repeat steps 3 – 8 using a 50 or 100 mL graduated cylinder instead of the pipet to measure the 20 or 25mL of water. Repeat steps 3 – 8 again using a graduated 50 mL beaker to measure the water.
+PART II:  Density
+A. Density of a Metal Bar (Use the same metal bar for all trials.)1. Zero your balance. Weigh a metal bar on a balance sensitive to the nearest mg (±0.001 g).Repeat the entire weighing operation twice. Do not allow the fi	rst	measurement	that	you	obtain	to	inﬂ	uence	subsequent	measurements	that	you make. Make sure you zero the balance before proceeding with each measurement. 
+2. Determine the volume of the metal bar by each of the following methods, making	at	least	three	measurements	for	each	method.	Do	not	allow	the	fi	rst	measurement	to	inﬂ	uence	subsequent	measurements	as	your	data	will	then	be	less	signifi	cant	for	the	purpose	of	measuring	the	precision	of	this	experiment.	
+
+--- [PAGE BREAK] ---
+
+46Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Method I
+Insert	the	bar	into	a	graduated	cylinder	fi	lled	with	enough	water	so	that	the	bar	is immersed. Note and record as precisely as possible the initial water level, and the water level after the bar is immersed. Read the lowest point of the meniscus in determining the water level and estimate the volume to one digit beyond the smallest scale division. Discard the water and repeat this measurement twice with a different initial volume of water. Calculate the average density of the bar. 
+Method II
+Measure the dimensions of the bar with a measuring stick ruled in centimetres. Repeat these measurements twice. Calculate the volume of the bar from these dimensions. Because the bar is cylindrical in shape, note that the formula for the volume of a cylinder	should	be	used	(V=	πr
+2h).Calculate the average density of the bar. 
+3. For each method, determine the relative error of your result comparing it with the accepted value as provided by your instructor or as found in a reference such as the Handbook of Chemistry and Physics.
+Which one of the two methods is more accurate? Explain.
+B. Density of a Salt Solution
+1. Weigh	a	125	mL	Erlenmeyer	ﬂ	ask	and	stopper.	With	a	clean	20.00	or	25.00	mL	volumetric	pipet,	pipet	the	salt	solution	into	the	ﬂ	ask	and	reweigh.	Repeat	this measurement twice, with a different sample of the same solution. Calculate the average density of the salt solution. 
+2. Weigh an empty, dry 10 mL graduated cylinder. Fill with about 9-10 mL of salt solution, record the volume as precisely as possible, and reweigh. Repeat this measurement twice, with a different sample of solution each time. Calculate the average density of the salt solution. 
+3. For each method determine the relative average deviation of your results. Which method is more precise? Explain.
+DisposalSalt solutions:   Do one of the following, as indicated by your teacher.
+a. Recycle: Return the salt solution to its original container.b. Treatment/disposal: 	Dilute	the	salt	solution	1:10	with	tap	water	and	ﬂ	ush	
+down the sink with running water.
+c. Disposal: Put the salt solution in a waste bottle labeled inorganic waste.
+Questions1. From your data, calculate the volume occupied by 100 g of the following:
+b. salt solution 
+c. metal bar 
+2. From your answers to question 1 determine whether the metal bar or the salt solution occupies the larger volume.  Explain your answer in the context of the densities of solids and liquids in general. 
+
+--- [PAGE BREAK] ---
+
+47Chemistry Grade 9 Measurements and Scientiﬁc Methods
+3. Defi	ne	the	terms	precision	and	accuracy	in	such	a	way	as	to	distinguish	between	
+them. 
+4. Are your results for the metal bar more precise or more accurate?  Explain. 5. From your data for the salt solution, evaluate the two methods in terms of their precision.  Which method should lead to greater precision?  Which method actually is more precise?  Explain.
+Prelab Measurements and Density The following data were obtained in order to determine the density of a cylindrical metal bar. 
+Trial 1 1 2 3
+Height (cm) 6.50 6.45 6.44
+Diameter (cm) 1.25 1.26 1.22
+Mass (g) 46.683 46.332 47.014
+In the following calculations on this data, show the formula used, the substituted numbers, and the result. 1. Calculate the average density of the bar. 2. Calculate the percent relative average deviation of the measurements. 3. If the accepted value for the density of the bar is 6.70 g/cm
+3, what is the 
+percent relative error? 
+4. Are these measurements more precise or more accurate?  Explain. 5. What is the purpose of repetition in measurements?  
+Key terms
+ Accuracy 
+ Calibration 
+ Derived units 
+ Decimal places 
+ Error 
+ Exact numbers 
+ Laboratory safety
+ Laboratory equipment 
+ Measurement  Measured numbers 
+Signifi	cant	fi	gures
+Scientifi	c	notations
+Scientifi	c	method	
+ SI units 
+Prefi	xes
+ Precision 
+ Uncertainty
+Unit Summary
+The International System (SI) uses a particular selection of metric units. It employs 
+seven	base	units	combined	with	prefixes	to	obtain	units	of	various	sizes.	Units	for	other	quantities are derived from these. 
+To obtain a derived unit in SI for a quantity such as the volume or density, you merely 
+substitute	base	units	into	a	defining	equation	for	the	quantity.	SI	units	are	used	to	
+express physical quantities in all sciences, including chemistry. 
+
+--- [PAGE BREAK] ---
+
+48Chemistry Grade 9 Measurements and Scientiﬁc Methods
+Scientifi	c	notation helps us handle very large and very small quantities. Most measured 
+quantities are inexact to some extent. 
+The	number	of	signifi	cant	fi	gures	indicates	the	exactness	of	the	measurement.		 Accuracy 
+is	defi	ned	as	how	closely	a	measured	value	agrees	with	the	correct	value. Precision is 
+defi	ned	as	closely	repeated	measurements	of	the	same	quantity	agree	with	one	
+another.
+Chemistry is an experimental science in that the facts of chemistry are obtained by 
+experiment. The	scientifi	c	method	is	a	systematic	approach	to	research	that	begins	with	
+the gathering of information through observation and measurements. In the process, hypotheses, laws, and theories are devised and tested.
+The	key	to	signifi	cance	in	experimental measurements is repetition.  Only with repeated 
+measurements of the density, concentration, or other quantities can the experimenter have	some	confi	dence	in	the	signifi	cance	of	measurements.
+Review Exercise
+Part I: Basic Level Questions.
+Indicate True or False for the following Statements.1. There is always a degree of uncertainty involved with every measurement. 2. Multiplication	of	36,000	and	52.00	give	the	signifi	cant	value	1872.000.	
+3. There	are	four	signifi	cant	numbers	in	70.03.	
+4. While adding or subtracting a quantity, the answer contain no more decimal places than the least accurate measurement. 
+5. The	signifi	cant	fi	gures	in	a	number	include	all	of	the	certain	digits	plus	one	doubtful	digit. 
+6. In the following expression 0.01208 0.0236 , the answer should be reported up to four decimal places. 
+7. It is desirable for the sides of a graduated cylinder to be perfectly vertical. 
+Part II: Intermediate Level Questions. 
+For each question, four alternative choices are given, of which only one is correct. You have to select the correct alternative and mark it in the appropriate option.8. Calculate	 the	 following	 using	 proper	 number	 of	 signifi	cant	 fi	gures:			(20.035×0.03120)/(4×0.333) 
+a. 0.47b. 0.40c. 0.469d. 0.4692 
+9. A sample of nickel weighs 7.5425 g and has a density of 8.8 g/cm
+3. What is the 
+volume	with	the	correct	number	of	signifi	cant	fi	gures?	
+a. 1.33 cm3
+b. 9.2 cm3c. 0.86 cm3
+d. None o f the above 
+
+--- [PAGE BREAK] ---
+
+49Chemistry Grade 9 Measurements and Scientiﬁc Methods
+10. The mass of copper is 0.063546 kg and the density is 8.940 g/cm3. Calculate the 
+volume	using	scientifi	c	fi	gures.	
+a. 7.108 cm3
+b. 7.10 cm3c. 7.1080 cm3
+d. 7.1 cm3
+11. Which of the following statements are correct for a burette? 
+a. The burette is designed to accurately deliver a volume of liquid
+b. The burette is used for measuring the volume of liquid used from the burette 
+c. The burette volume can be measured to the hundredths placed. All of the above 
+12. When expressed as 7.5×10
+4,	only	the	signifi	cant	fi	gures	of	_____	are	to	be	
+considered. 
+a. 7.5b. 7.05 c. 7.005d. None of the above 
+13. The mass of an element is .007502 × 10
+−26	g.	Find	the	number	of	signifi	cant	
+fi	gures	when	the	mass	is	converted	to	mg.	(Both	mass	values	have	same	order	of	magnitude) 
+a. 4b. 5c. 3d. 2 
+14. A cube like crystal structure has length 6.000 cm, width 6.00 cm and height 0.0600 m.	Calculate	its	volume	with	correct	signifi	cant	fi	gures.	
+a. 216 cubic cmb. 21.600 cubic cm c. 18.00 cmd. None of the above 
+15. What	is	the	sum	of	22.82	+	2.2457	with	the	correct	number	of	signifi	cant	fi	gures.	
+a. 25.065b. 25.09c. 25.06d. 25.0651
+16. The weights of sodium chloride salt in three petri dishes are 99.99 g, 100.13 g, and 100.23 g respectively. Which of the following is the average mass of salt? 
+a. 100.1166 gb. 100.116 gc. 100.11 gd. 100.1 g 
+17. Which	of	the	following	expresses	the	one	millionth	of	one	in	3	signifi	cant	places?
+a. 0.01×10
+−6
+b. 0.10×106c. 0.001×10−6
+d. 1.00×10−6
+18. Calculate	the	number	of	signifi	cant	fi	gures	up	to	which	(2.36×0.07251)/(2.103	)	will be expressed.
+a. 2b. 3 c. 4d. 5
+Part III: Advanced Level Questions. Answer the following questions. 19. Give the SI units for expressing these: 
+a. length, 
+b. area, 
+c. volume, d. mass, e. time, 
+f. force, g. energy, 
+h. temperature.

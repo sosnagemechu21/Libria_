@@ -1,0 +1,1625 @@
+=================================================================
+Book: economics.pdf
+Chapter 5: TRADE AND FINANCE
+Pages: 124 to 202
+=================================================================
+
+INTRODUCTION 113UNIT 5: TRADE AND FINANCE 
+UNIT 5
+TRADE AND FINANCE 
+INTRODUCTION
+Trade refers to the process of buying, selling or exchanging of goods, and services. 
+There are two broad categories of trade: domestic trade and international trade.  
+Domestic trade (also known as “home trade”) involves the flow of commodities by 
+water, air, and rail transport systems within a country or territory. International trade 
+refers to the exchange of goods and services between two or more countries. 
+Domestic trade and international trade are quite different. First, movement of goods 
+and services from one nation to another are subjected to different commercial policies (tariffs, quotas, etc) whereas there is almost nothing that governs movement of goods and services from one place (region) to another in one nation. Second, factor inputs such as labor and capital move freely within a country, but not between different countries. Moreover, international trade is governed by different national policies, political units, and monetary systems. Hence, it is necessary to treat international trade as a separate subject.
+Both domestic and international trade plays an important role in the modern economy. 
+In this unit, we will study the potential role and gains from trade. We will also study both domestic and international trade theories. Moreover, we will identify the reasons for and effects of different trade and commercial polices that govern the movement of goods, services and factors of production among nations.
+International trade is administered by the World Trade Organization (WTO), which 
+was created on 1 January 1995. Prior to the creation of WTO, there was an arrangement called the “General Agreement on Tariffs and Trade (GATT)” which was the basis for countries to engage in international trade. From 1948 to 1994, the GATT provided the rules for much of world trade. Today, WTO is the only global international organization 
+
+--- [PAGE BREAK] ---
+
+5.1 Overview of Domestic Trade Grade 11 Economics Student Textbook
+114dealing with the rules of trade between nations.  It is an organization for opening 
+up trade and a forum for governments to negotiate trade agreements. WTO operates a system of trade rules and facilitates the process of settling trade disputes among trading countries.
+Key Concepts
+	Import export 	Trade balance	Trade surplus  	Absolute advantage	Comparative advantage	Tariffs 	Non-tariff measures 	Balance of payment 	Foreign exchange rate	Regional integration
+5.1 Overview of Domestic Trade 
+After completing this section, you will be able to: 
+	define domestic trade.
+	provide an overview of domestic trade.
+	appreciate the importance domestic trade.Learning Outcomes 
+At the end of this unit, you will be able to: 
+	define trade
+	provide an overview of domestic trade
+	explain why nations engage in trade
+	justify the basic ideas of Adam Smith’s absolute cost advantage theory of international trade and David Ricardo’s comparative advantage theory of international trade
+	contrast the similarities  and basic differences of the two models of 
+international trade theories.
+
+--- [PAGE BREAK] ---
+
+5.1 Overview of Domestic Trade 115UNIT 5: TRADE AND FINANCE 
+Start-up Activity
+1. What type of trade system do people in your locality use 
+to sell or buy products?
+2. Why do you think that nations trade with each other? Answer this first individually. Then compare your answer with the student next to you, and finally, report what you have understood to the class.
+Domestic trade refers to the exchange of goods or services within an individual country 
+or territory. It is sometimes called “local trade” or “internal trade”. Under domestic trade, the market is constrained by the borders of that country and all the products must be bought and sold by people who live within the domestic market.
+Domestic trade can be further divided into retail trade and wholesale trade. Retail trade 
+involves selling goods and services for direct consumption while wholesale trade involves agents other than a standard consumer. Wholesale trade is the backbone of the domestic market. A retailer is normally the final seller of a product. A retailor makes its purchases from wholesalers and sales are made to the customers directly. Retailers have a credit arrangement with wholesalers to buy the goods and can repay after their sales are made in cash. Retailers sell goods in small quantities relative to wholesale trade and are distributed all over the country where consumers live.
+Why do we need to engage in domestic trade?
+Historically, countries used to rely on domestic trade only due to lack of skills, transportation, information, etc. Domestic trade plays a crucial role in the economic growth of a country. By allowing different types of goods and services to reach all parts of the country, it improves the standard of living of the residents of the country as well as the employment rate of the country. Hence, domestic trade improves the economic performance of a country by improving resource distribution and efficiency.  For example, under capitalism, domestic trade develops due to private ownership of the means of production.
+
+--- [PAGE BREAK] ---
+
+5.1 Overview of Domestic Trade Grade 11 Economics Student Textbook
+116Domestic trade also encourages investment and development within the country and 
+eliminates the country’s dependence on foreign sources of goods and services. Political issues, international disagreements and wars have less effect on the economy when a country has a strong domestic trade. Under such situations, countries with few manufacturing plants are likely to struggle during wartime, since they have difficulty obtaining goods, services and equipment.
+Note 
+ )Domestic trade improves economic performance of a country by improving 
+resource distribution and efficiency.
+Domestic trade has several benefits over international trade, some of which are discussed here. First, transaction costs which are associated with making sales tend to be much lower 
+for domestic markets due to a lack of  tariffs and customs duties. Second, transportation 
+costs are also much lower, and goods can be put on the market more quickly as they have a shorter distance to travel. Through development of domestic trade, a country will be able to keep money within a country, which can be used to finance future growth of the economy both in the long run and the short run.
+The biggest problem and limitation of domestic trade is the limit to the selection of 
+products which are available for sale. In a pure domestic trade market, countries only trade what they have managed to produce, and some countries have limited capacity and resources to meet their demand. Hence, countries may not meet the demand of their people by relying only on their domestic trade patterns. This is why today, all countries engage in international trade and would like to benefit from international specializations and differences in endowments. 
+ Activity 5.1
+1. Discuss the trade activities of your locality in groups of four.
+2. What items are being traded in your hometown or local area?
+3. Discuss the major source of origin for domestic commodities traded in your area. 
+
+--- [PAGE BREAK] ---
+
+5.2 Basis of International T rade 117UNIT 5: TRADE AND FINANCE 
+5.2 Basis of International T rade 
+After completing this section, you will be able to: 
+	define international trade.
+	distinguish between domestic and international trade. 
+	explain the reasons why countries of the world develop trade relations with each 
+other. 
+Start-up Activity
+1. Why do nations export and import goods and services?
+2. What is the role of international trade in boosting one’s economy?
+ 
+Do countries benefit from international trade?
+In general, the immediate cause for trade among nations is the difference in the prices of goods and services. There are different reasons for the difference in the prices of a commodity among nations which may include differences in resource endowments, the level of technology and technical skills or know-how. 
+For instance, Ethiopia imports computers from abroad because the country lacks the 
+technology of production, capital and know-how that are necessary for computer production. The implication of this is that if Ethiopia tries to produce these goods domestically, the economy faces high production costs leading to high domestic prices relative to international prices for computers.  This motivates domestic residents to prefer foreign computers. Hence, it is worthwhile for the country to import computers cheaply from abroad rather than producing them domestically at a higher cost. Moreover, nature has distributed resources unevenly in the world which makes production of some goods in some countries impossible. 
+Thus, international trade has enabled the countries in the world to consume those goods 
+and services which they themselves could not produce. The major advantages of engaging in international trade include:
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade Grade 11 Economics Student Textbook
+118	It makes the most efficient use of the world resource possible through encouraging 
+specialization or division of labor among nations.
+	Each trading nation will gain as world output increases because of specialization 
+and division of labor. The gains are in the form of more aggregate production, 
+large number and greater diversity of quality goods.
+	International trade relations help harmonize international political relations.
+	Foreign competition tends to induce efficiency in the home nation and maintain the 
+quality of their products.
+	It helps domestic firms to exploit economies of scale of production through 
+expanding markets.
+	It promotes learning through technology exchange. 	Cultural exchange and ties among different countries develop when they engage 
+in trade. 
+5.3 Basic Theories of International T rade 
+After completing this section, you will be able to: 
+	define absolute advantage theory.
+	discuss the mercantilism theory.
+	discuss the theories of comparative advantage and absolute advantage
+	compare the similarities and differences between Mercantilists and Classical models 
+of international trade theories.
+Start-up Activity
+1. Is there a condition that must be fulfilled for a nation to engage in international trade?
+2. What do you know about absolute and comparative advantage theories?
+5.3.1 The Mercantilists’ View on Trade
+Mercantilists are a group of writers who appeared in Europe (especially in England) during 
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade 119UNIT 5: TRADE AND FINANCE 
+the period 1500–1800 G.C. They also appeared in other countries such as Spain, France, 
+Portugal and the Netherlands. They were concerned with the process of nation building, i.e. how to make a given nation powerful economically and politically. They wrote essays on international trade that advocated an economic philosophy known as “mercantilism”. 
+The underlying view of the mercantilists was the belief that a country’s wealth is based 
+on the holdings of precious metals like gold. Such revenues would contribute to increased spending and a rise in domestic output and employment.  According to them, for a nation to be powerful economically and politically, the nation should accumulate as much gold 
+and precious metals as possible which were used as the medium of exchange at that time.
+To accumulate large amount of gold and precious metals, a country should export more 
+than its imports. Exports were considered good because they generate revenue to the exporting nation, but imports were considered bad since they imply payments to other countries. Increasing export would enable a country to obtain a large amount of gold and precious metals; whereas decreasing imports would prevent the country’s holdings of gold and precious metals being depleted. 
+Thus, if a country could achieve a favorable trade balance (a surplus of exports over 
+imports), it would enjoy payments that are received from the rest of the world in the form of precious metals, primarily gold and silver. Such surplus receipts contribute to a rise in domestic output and employment.
+To promote a favorable trade balance, the mercantilists advocated government regulation 
+of trade. They advocated the imposition of tariffs, quotas and other commercial policies to minimize imports to protect a nation’s trade position. This situation implied that international trade was a zero-sum game, in which one country’s economic gain was achieved at the expense of another.  
+The idea of the mercantilists was refuted by some groups of thinkers called the classical 
+thinkers, who perceived that a nation’s wealth is reflected in its productive capacity ( i.e. its ability to produce final goods and services), and not in its holdings of precious metals.
+The static (not changing over time) view of the world economy by the Mercantilists 
+was also later criticized. Adam Smith advocated a dynamic view of the world economy, which suggested that both trading partners could simultaneously enjoy higher levels of consumption and production with free trade.
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade Grade 11 Economics Student Textbook
+120Although mercantilism has its limitations, the doctrine has at least two modern features. 
+First, it was highly nationalistic, giving relative importance to the wellbeing of the home nation rather than the foreign nation. Today, there are public officials who argue that exports are “good” because they create jobs in a country, and imports are “not good” as they take jobs from the same country. Second, mercantilism favored the regulation and planning of economic activity as an effective means of fostering the goals of the nation. This is also manifested in today’s world in different forms. 
+ Activity 5.2
+1. Do you believe in the idea of mercantilists? Why? or Why not?
+2. Can we consider import as a bad practice today? Why? or Why not?
+3. Mention some items that Ethiopia imports from the rest of the world that are useful for the economy.
+5.3.2 The Classical Trade Theories
+Classical economics refers to the economic thought of the period from the mid-eighteenth to the mid-nineteenth century. This is roughly the period from the 1760s –the 1850s.  Adam Smith and David Ricardo were among the principal advocates of this economic thought. Classical economic theory was essentially about growth and development of a country. They wanted to investigate the nature and causes of the wealth of nations and the distribution of the national product among the factors of production. 
+Adam Smith’s Principle of Absolute Advantage 
+Adam Smith (1723-1790) was a Scottish philosopher and an economist, educated at the Universities of Glasgow and Oxford and subsequently a Professor of Moral Philosophy at Glasgow University. He was a leading advocate of free trade on the grounds that it promotes the international division of labor. 
+In 1776, Adam Smith published his famous book, “An Inquiry into the Nature and 
+Causes of the Wealth of Nations ”, in which he attacked the mercantilist view on trade and 
+advocated free trade as the best policy for all nations. According to Smith, trade between 
+two nations is based on absolute advantage.
+ To explain the concept of absolute advantage, 
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade 121UNIT 5: TRADE AND FINANCE 
+he used a simple analogy. He argued that a tailor does not make his own shoes but exchanges 
+a suit for shoes from a shoemaker. Through exchange, both the shoemaker and the tailor gain. In the same manner, a country could gain by trading with other countries. 
+According to Smith, nations could benefit from international exchange of goods by 
+concentrating on the production of goods that they could make most cheaply. He advocated a laissez faire
+ (pronounced “lay-zay fair”) approach to economic systems which argue 
+that economic affairs of society are best guided by the decisions of individuals. Laissez faire is French for “let people do as they choose” or “allow to do”.
+Smith advocated a policy of laissez faire , which allows individuals to pursue their own 
+activities within the bounds of law and order and respect for property rights. The proper 
+role of the government was to see that the market was free to function by removing the barriers to effective operation of the market.
+Note 
+ )A laissez faire approach to economic systems argues that economic affairs 
+of society are best guided by the decisions of individuals.
+In other words, he argued that mutually beneficial trade can be achieved based on what he referred to as “
+absolute advantage ”. This is sometimes called  “absolute cost advantage”.  
+The absolute cost advantage is the ability of one country to produce one of the two goods at a lower cost relative to its trading partner
+. For example, Ethiopia produces coffee at a 
+lower cost and sells it to many European countries, hence, Ethiopia has absolute advantage in the production of coffee. On the other hand, European countries, such as Germany and France, have an absolute advantage in the production of processed goods such as machines and perfumes. We say Ethiopia has absolute cost disadvantage in the production of these 
+items, and hence needs to import them from countries with absolute advantage.
+Smith argued that trade is mutually beneficial, and it is a positive-sum game, but not a zero-
+sum relationship as assumed by the mercantilists. He presented a powerful argument for expanding trade and reducing the many trade controls that characterized the mercantilist period. The view of Adam Smith and his colleagues about international trade is called “classical thoughts”.
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade Grade 11 Economics Student Textbook
+122Note 
+ )Mutually beneficial trade  between two nations will take place if each 
+country has an absolute cost advantage in the production of one of the two 
+goods according to the absolute advantage principle of Adam Smith.
+Assuming a two-country and two-product model, international trade and specialization 
+will be beneficial when one country has an absolute advantage (that is, can produce a good using less resources) in the production of one good, whereas another country has the absolute cost advantage in the production of the another good. Smith felt that it was far better for a country to import goods that could be produced overseas more efficiently than to manufacture them at home. In other words, countries would import goods in the production of which they had an absolute disadvantage against the exporting country. On the other hand, countries would export goods in the production of which they had an absolute advantage over the importing country. 
+Note 
+ )A positive sum game  is a situation where all players can receive a positive 
+return (benefit) in their collaboration. 
+ )A zero-sum game , on the other hand, is an arrangement where one party 
+loses, and another party takes the whole gain from their interaction or 
+collaboration.
+To illustrate the mutual gains from trade, look at the following simplifying assumptions.
+	There are only two countries and two goods. 
+	Labor is the only factor of production, and it is homogeneous and fixed in amount.
+	The value or price of a good is equal to the amount of labor time which is used in the production of the good. This is the labour theory of value. 
+	Labor is mobile within a country, but immobile internationally.
+	Labor is fully employed in both countries.
+	The level of technology that is used to produce the goods is constant.
+	Transportation costs are zero.
+	Money is not used as a medium of exchange, rather the two countries engage in barter trade, i.e., goods are exchanged for other goods.
+	The institutional setting is perfect competition.
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade 123UNIT 5: TRADE AND FINANCE 
+Given the above assumptions, Table 5.1  demonstrates that mutually beneficial trade is 
+possible between, two countries. Let us assume trade between Ethiopia and China of 
+coffee and cloth production. For simplicity, assume that each country is endowed with    2 units of labor only. 
+Ethiopia has an absolute advantage in the production of coffee while China has an absolute 
+advantage in the production of cloth. The absolute advantage is indicated by difference in productivity. To put the example clearly, Ethiopia produces 4 kgs of coffee as opposed to the 1 kg of coffee per labor hour in China. Hence, Ethiopia is more effective in coffee production and has an absolute cost advantage. Regarding the cloth production, China is more productive since one laborer hour produces 5 yards of cloth as opposed to 2 yards in Ethiopia. The total output before trade is 5 kgs of coffee and 7 yards of cloth. This situation is sometimes called “autarky”.
+Note 
+ )Autarky  is a situation where there is no international trade and a country is 
+assumed to be self-sufficient.
+Assume that the two countries will completely specialize in the production of a good in which they have absolute advantage. As indicated in 
+Table 5.1  Ethiopia will move all    its 
+resources towards the production of coffee and China will produce only clothes.  With 2 
+units of labor, Ethiopia will produce 8kgs of coffee and China will produce 10 yards of 
+cloth. Before trade, total world production is 5kgs of coffee and 7 yards of cloth, if the two 
+countries use 1 labor to produce each good. 
+Now, let us introduce international trade. Assume that the two countries want to trade some 
+of the excess amount of the goods they have produced through specialization. Assume also 
+that the rate of exchange is 1 kg of coffee for 1 yard of cloth (1:1) for simplicity and they 
+want to exchange 4 units of the goods. From this, we can understand that Ethiopia sales 4 
+units of coffee and would receive 4 units of cloth in return. 
+After trade, consumption equals to 4kgs of coffee and 4 yards of cloth in Ethiopia and 4kgs 
+of coffee and 6 yards of cloth in China. In this way, the total gains due to specialization and 
+trade is 2kgs of coffee and 4 yards of cloth. The lion share of the gains from trade goes to 
+China and this is due to productivity difference and the assumed terms of trade or rate of 
+exchange. This example can be taken as a proof showing that both countries could benefit 
+from trade and, thus trade is not a zero-sum game.
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade Grade 11 Economics Student Textbook
+124
+Limitations of the Theory
+The theory of absolute advantage is not without problems. There are at least two major 
+weaknesses in Smith’s analysis of international trade. First, the initial assumptions that labor is the only factor of production and that it is homogeneous could be challenged. Labor may not be the only factor of production and it is not of the same quality in the two countries. However, it should be underlined that rejecting the assumptions does not necessarily imply rejecting the law of absolute advantage. Second, Smith’s concept of absolute advantage explains only a small part of the world trade, such as those between developed and developing countries. Most of the world trade, especially trade among developed countries, cannot be explained by absolute advantage. 
+Finally, the principle of absolute advantage does not show what will happen if one country 
+has an absolute advantage in the production of both goods.  This task was left to David Ricardo, a British economist, who formulated the principle of comparative advantage, 
+sometimes referred to as the principle of comparative costs .
+David Ricardo’s Principle of Comparative Advantage
+David Ricardo (1772–1823) was a British Economist who is best remembered for his theories of Rent and comparative cost . His interest in economics was aroused from 
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade 125UNIT 5: TRADE AND FINANCE 
+reading Smith’s book, The Wealth of Nations  in 1799. He is credited for formalizing the 
+concept of comparative advantage . 
+The original idea of comparative advantage dates to the early part of the nineteenth 
+century. David Ricardo formalized the idea by using a simple numerical example in his 1817 book entitled, The Principles of Political Economy and Taxation. In what follows, 
+the assumptions of Ricardo’s model and the definition of comparative advantage are presented. This is followed by numerical example for illustration.
+The following are the assumptions of Ricardo’s law of comparative advantage:
+	There are two-countries, two goods, and labor as the only factor of production.
+	The goods are homogeneous (identical) across firms and countries, and labor 
+is homogeneous within a country but heterogeneous (non-identical) across countries.
+	The factor of production is mobile between alternative uses and within a country, but immobile internationally.
+	The labor theory of value is employed, i.e. the cost of a good is determined by the amount of labor used to produce.
+	The level of technology is fixed with constant costs of production.
+	There is full employment.
+	The economy is characterized by perfect competition and free trade.
+	There are no government-imposed obstacles to economic activity, and
+	Transportation costs are zero. 
+According to Ricardo’s principle of comparative advantage, even if a nation is more efficient (that is, has an absolute advantage) than another nation in the production of both goods, there is still a basis for mutually beneficial trade. The more efficient nation should specialize in the production and export of the goods in which its absolute advantage is greater and import the goods in which its absolute advantage is smaller. Similarly, the less efficient nation should specialize in the production and export of the goods in which its absolute disadvantage is smaller and import the goods in which its absolute disadvantage is greater. 
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade Grade 11 Economics Student Textbook
+126Note 
+ )According to the comparative advantage principle of international trade 
+proposed by David Ricardo, mutually beneficial trade between two countries 
+could take place even if one country has an absolute cost advantage in the 
+production of both goods.
+In his presentation, Ricardo imagined two countries, England and Portugal, producing 
+two goods, cloth and wine, using labor as the sole input in production. Furthermore, he introduced the concept of 
+opportunity cost , which is defined as the next best alternative 
+forgone. For our purpose, let us assume two countries (Ethiopia and Germany) producing automobiles and wine. 
+Table 5.2  illustrates Ricardo’s law of comparative advantage. The 
+numbers in the table are numbers of labor hours which are required to produce one unit of the good. 
+As can be observed from Table 5.2 , in Ethiopia, it takes 100 hours of labor to produce 1 
+unit of automobile, while it takes 80 hours of labor to produce 1 unit of wine. In Germany, it takes 40 hours of labor to produce 1 unit of automobile, while it takes  60 hours of labor to produce 1 unit of wine. Thus, according to this example, Germany has an absolute advantage (that is, uses fewer labor hours) in the production of both goods. From Adam Smith’s perspective, there is no basis for trade because Germany is more efficient in the production of both goods, and Ethiopia has an absolute disadvantage in both goods. 
+Based on the comparative advantage of Ricardo, however, we can see that Germany is 
+relatively more efficient in the production of automobiles than of wine and that Ethiopia’s relative disadvantage is smaller in the production of wine. In other words, automobile production is relatively cheaper (or wine production is relatively more expensive) in Germany.
+This situation is illustrated by using the concept of opportunity cost (relative cost) 
+as indicated in 
+Table 5.3  below, which is derived from Table 5.2 . In this context, the 
+
+--- [PAGE BREAK] ---
+
+5.3 Basic Theories of International T rade 127UNIT 5: TRADE AND FINANCE 
+opportunity cost of automobile production is defined as the amount of wine that must be 
+given up in order to produce one more unit of automobile.  Similarly, the opportunity cost of wine production is defined as number of units of automobiles that must be given up in order to produce one more unit of wine.
+Note 
+)	The opportunity cost of wine production is defined as the number 
+of units of automobiles that must be given up in order to produce 
+one more unit of wine.
+Table 5.3  shows that in Ethiopia, 1 unit of automobile is equivalent to 1.25 units of 
+wine, while 1 unit of wine is equivalent to 0.8 units of automobile. On the other hand, in Germany, 1 unit of automobile is equivalent to 0.67 units of wine, while 1 unit of wine is equivalent to 1.5 units of automobile. 
+Therefore, Ethiopia has a comparative advantage in the production of wine as the 
+opportunity cost of wine in terms of automobiles is lower in Ethiopia (as indicated by the single asterisk in 
+Table 5.3  above). 
+Similarly, Germany has a comparative advantage in the production of automobiles, as the opportunity cost of automobile in terms of wine is lower in Germany (as indicated by the double asterisk in 
+Table 5.3  above). Thus, according to Ricardo, even when one 
+country has an absolute advantage (i.e. is more efficient) in the production of both goods, a mutually beneficial trade can still exist because of the differences in opportunity costs (or relative costs). 
+ Activity 5.3
+Explain the difference between absolute advantage and comparative advantage.
+
+--- [PAGE BREAK] ---
+
+5.4 Balance of Payment Components Grade 11 Economics Student Textbook
+128Criticisms 
+One of the critiques of Ricardo comes from the fact that he assumed the labor theory 
+of value  in which labor was assumed to be the only factor input which is homogeneous, 
+but labor is one among several factors of production and is not homogenous. Another 
+drawback of Ricardo’s theory is the assumption of constant returns to scale and thus, constant cost of production in both nations.
+5.4 Balance of Payment Components 
+After completing this section, you will be able to: 
+	define “balance of payment”
+	differentiate between current account balance and capital account balance
+Start-up Activity
+What do you think about balance of payment from your point of view? Why is it important? Discuss this in groups of four.
+The concept of international trade, which we studied earlier, implies that a country has to deal with three aspects of exchange: transactions involving visible goods, invisible goods and finance. 
+Visible goods are items which include all types of physical goods that are exported and 
+imported while invisible goods include export and import of services such as transport, education and medical services. The third activity is capital transfers, which are concerned with financial receipts and payments.
+These transactions are recorded in what is called the “balance of payment (BoP)” of a 
+country. The balance of payments record of a country is a systematic record of all economic transactions of a country with the rest of the world during a given period of time. It is a double entry system of record of all economic transactions between the residents of the country and the rest of the world that is carried out in a specific period of time.
+Any transaction in BoP involves debit and credit items. As a general rule, credit items in 
+
+--- [PAGE BREAK] ---
+
+5.4 Balance of Payment Components 129UNIT 5: TRADE AND FINANCE 
+BoP accounts reflect transaction that give rise to payments inward to the home country. 
+The main items that are registered as credit include exports, foreign directed investment inflow to the home country, receipts of interest and dividends by the home country from earlier investment abroad. These credit items are recorded with a plus sign. 
+On the other hand, debit items in the balance of payment accounts reflect transactions 
+that give rises to payment outward from the home country. The main items are imports, investments made in foreign countries by domestic nationals and payments of interest and dividends by the home country on earlier investments which are made by foreign investors. By convention, debit items (which lead to a payment of outflow) are recorded with a minus sign.
+The BoP of a given country is one of the most important economic indicators which are 
+used by policy makers to predict the effect of international conditions on the domestic economy. It shows that how many goods and services that the country has been exporting, importing and whether a country has been borrowing from or lending to the rest of the world.
+There are two main accounts in the balance of payment: the current account and the 
+capital account and each of them can be further subdivided into other sub accounts. The 
+capital account is sometimes called the “financial account”.
+5.4.1 The Current Account (CA)
+The current account includes transactions in goods, services, investment incomes, and current transfers. The current account
+ records inflows and outflows of foreign currency 
+resulting from flows of goods, flows of services and unrequited (or unilateral) transfers. It is composed of three balances: trade balance, net services  and net transfers.
+Trade balance : shows that the balance in the trading of merchandise goods by excluding 
+trade in services. Hence, it is narrower than the current account. Trade balance shows that balance of export and import of goods by excluding current transfer income and trade in services. The implication is that;
+)	When the value of exports is more than that of imports, the country is said to have a trade surplus or favorable (or positive) foreign trade. 
+)	When import values are more than export values, the country is said to have a trade deficit, i.e. unfavorable (or negative) foreign trade. 
+)	When the value of exports equals the value of imports, we call it a trade balance.
+
+--- [PAGE BREAK] ---
+
+5.4 Balance of Payment Components Grade 11 Economics Student Textbook
+130
+ Activity 5.4
+1. What do you think is the status of the trade balance and current account 
+balance of Ethiopia over the past couple of years?
+2. Do you expect the trade balance to be in deficit or surplus? Why?
+Net services : the difference between the export and import of services is called “net 
+services”. There are many services that are made use of in international trade, for example, shipping, insurance and banking services. Ships must be hired for transporting goods from one country to another. The merchandise which is carried by the ships has to be insured for any loss and damage in transit. Banking services are used to facilitate receipts from and payments to foreign dealers. The net receipt of such services is recorded as net services in BoP.
+Net transfers : transactions such as gifts, remittances, donations, etc., are unrequited or 
+unilateral receipts and payments, because residents of a country receive them ‘for free’. This is to say that nothing has to be paid in return, either at present or in the future, for such receipts. The difference between the receipts and payments of such transfers is known as “net transfers”. Hence, current account balance is the sum of trade balance, net services and net transfers during a given period of time. 
+5.4.2 The Capital Account (KA)
+The capital account, broadly defined, includes transactions in financial instruments and central bank reserves. The capital account records transactions concerning the movement of financial capital into and out of a country. Capital comes into a country by borrowing, sales of overseas’ assets and investments in a country by foreigners. These items are said to be capital inflow and recorded as credit items while capital that leaves the country due to lending, buying of overseas’ assets and purchases of domestic assets which are owned by foreigner residents. These items represent capital outflow and are recorded as debit. The balance on capital account measures the outflow and inflow of funds’ purchase and 
+
+--- [PAGE BREAK] ---
+
+5.4 Balance of Payment Components 131UNIT 5: TRADE AND FINANCE 
+sales of asset abroad. It may be positive (surplus) or negative (deficit). 
+Overall balance of payment (BoP), therefore, is the sum of current account balance (CA) 
+and capital account balance (KA). 
+CA KA BoP+=
+When a country is in current account deficit, it must pay the differences between imports and exports from a surplus in the capital account surplus. If there is no surplus or the surplus in the capital account is not enough to cover the deficit in the current account, the country will pay the difference from the official reserve accounts. The country needs to settle its bills. This is why countries enter into a situation where they have to restrict or control international trade flows. 
+Balance of Payment Statement 
+By adding the balance on the capital account and the balance on the current account, we get the complete balance of the payments account. When receipts and payments are equal, the balance of payments is said to be in balance. If the total BoP receipts are more than the payments, the excess goes to a third account, the Foreign Exchange Reserves. In addition 
+to this, when payments exceed receipts, there is a depletion of foreign exchange reserves.  
+
+
+--- [PAGE BREAK] ---
+
+5.5 T rade Policies and StrategiesGrade 11 Economics Student Textbook
+1325.5 T rade Policies and Strategies
+After completing this section, you will be able to: 
+	define trade policies. 
+	discuss the difference between tariffs and non-tariff measures.
+Start-up Activity
+1. Have you heard of Ethiopian trade policy and strategy?
+2. Why do you think that governments sometimes impose 
+restrictions on international trade? First, write your answer individually. Then, compare your answer with the student who is sitting next to you. Finally, discuss in the groups of four and report your answers to the whole class.
+Trade policies refer to actions and arrangements that are taken by a country to encourage or restrict international trade. When the interventions aim to discourage international trade, the policies are “restrictive policies”. Trade restriction is a policy that is introduced by countries on the trade of goods and/or services between two or more countries to limit the volume of trade and associated transactions. There are two broad measures which are used to restrict trade flows. Trade restrictions are imposed on foreign trade, particularly on imports. 
+Trade restrictions are broadly of two types as price related and quantity related restrictions. 
+Imposition of a tariff is an example of price restriction while import quota is an example of quantity restriction. 
+Tariff restrictions : are in the form of taxes on the import of goods, called “custom duty” or 
+“import duty”. Such taxes raise the price of imported goods in the domestic market. These high prices of imported goods are expected to reduce their demand in the domestic market and thus, to act to restrict imports. Note that tariff increase government revenue. 
+Quantitative restriction (Import quota ): these restrictions take the shape of fixing the 
+maximum quantity of goods that are permitted to be imported. Thus, the government may determine the total import quota of goods, i.e. the total amount of goods that can be 
+
+--- [PAGE BREAK] ---
+
+5.5 T rade Policies and Strategies 133UNIT 5: TRADE AND FINANCE 
+imported, and can allot this quota to various importers. Nothing beyond the quota can be 
+imported. This naturally limits the quantity of imports.
+Reason for trade restrictions
+There are several reasons for restricting trade including:
+	to protect domestic jobs (job protection argument)	to protect small and infant industries (infant industry argument)	to maintain the domestic standard of living	to equalize production costs	for the purpose of national security	for cultural and sociological considerations
+Furthermore, there are two broad trade strategies that countries use to enhance macroeconomic performances. These are import substitution (IS)  strategy and export 
+promotion (EP) strategy. Import substitution strategy aims to replace imported items by 
+domestic products through special support packages to promote domestic producers. The idea of import substituting industrialization was a popular strategy in many developing countries over the period from the early 20
+th century until the late 1970s. This strategy 
+was born due to lack of access to imports or shortage of foreign currencies to pay for them.  Import substitution strategy has at least two important effects. The first is that infant or young industries are protected from competing with cheap imports via tariff barriers, various quantitative restrictions and other measures. Second, the tariffs on imports help to increase government revenue. 
+Note 
+ )Import substitution  is a trade and economic policy that advocates replacing 
+imports with domestic production.
+There are alternative ways of defining export promotion (EP) strategy which gives preferential treatment to the export sector to generate revenue in foreign currency.  This entails providing incentives over and above those which would prevail in a neutral strategy. 
+Note 
+ )Export promotion  refers to the act of policy measures which actually or 
+potentially enhance exporting activity at the company, industry, or national 
+level.
+
+--- [PAGE BREAK] ---
+
+5.6 Exchange Rate Determinations Grade 11 Economics Student Textbook
+1345.6 Exchange Rate Determinations 
+After completing this section, you will be able to: 
+	define foreign exchange market.
+	differentiate between fixed and flexible exchange rate systems.
+	value the effects of exchange rates on the economy.  
+The foreign exchange market is a market place that determines the exchange rate for 
+global currencies. It is sometimes called “forex market” or “currency market”. This is a place where the trading of one currency for another takes place. This market determines foreign exchange rates for every currency. It is based on the interactions of demand and supply for currencies. 
+The demand for foreign currencies arises due to factors such as tourists visits to another 
+country, import demand for goods from other nations and demand to invest abroad. The supply of a nation’s foreign currency arises from earnings such as from tourist expenditure, export earnings and foreign direct investment.
+Exchange rate is simply the price of one currency in terms of another currency. There are 
+two major systems of exchange rates. There are fixed exchange rate and flexible exchange rate systems. In this section, we will study each of them and differentiate between nominal and real exchange rates. 
+5.6.1 Nominal and Real Exchange Rate.
+Nominal exchange rate refers to the rate at which currency can be exchanged for another currency. The nominal exchange rate is the number of units of the domestic currency that can purchase a unit of a given foreign currency. There are two ways of expressing the exchange rate. We can express the price of one unit of foreign currency in terms of domestic currency or the price of one unit of domestic currency in terms of foreign currency.  For example, at the time of going to press, Ethiopia buys 1 USD for close to 45 ETB. That means the price of 1 USD is 45 ETB, so the exchange rate for USD is equal to 45 ETB. Hence, the nominal exchange rate is 45. Similarly, the exchange rate between European Euro and Ethiopian Birr is close to 53.
+Note 
+ )Nominal exchange rate is usually expressed as the domestic price of the 
+foreign currency.
+
+--- [PAGE BREAK] ---
+
+5.6 Exchange Rate Determinations 135UNIT 5: TRADE AND FINANCE 
+Alternatively, it is possible to express foreign exchange in the value of the foreign currency. 
+Hence, exchange rate equals the price of one unit of domestic currency expressed in terms of foreign currency. This is the amount of a USD used to buy one unit of ETB. Currently, 1ETB buys just 0.022 USD. In this way, the exchange rate equals to 0.022. In this subject and in most economic analysis, the first definition of exchange rate is used (i.e. price of one unit of a foreign currency as measured by the local currency). 
+When a person buys a foreign currency, he/she is interested in what can be bought with 
+that currency. The real exchange rate tells us how many goods and services in the domestic 
+country can be exchanged for the goods and services in a foreign country . 
+Definition of real exchange rate (RER) depends on the type of nominal exchange rate that 
+we use. We can use the foreign currency value or the domestic value per unit of foreign currency. For our discussions, let us use the domestic currency that is required to buy one unit of a foreign currency (i.e. 1 USD equals 45 ETB).
+Under this assumption, 
+the real exchange rate is the ratio of the price level abroad 
+and the domestic price level , where the foreign price level is converted into domestic 
+currency units via the current nominal exchange rate . The real exchange rate between 
+two currencies is the product of the nominal exchange rate and the ratio of prices between 
+the two countries.
+The real exchange rate is represented by the following equation: 
+Foreign PriceReal exchange rate Nominal exchange rate*Domestic Price= 
+Or symbolically , *pRER ep=
+Where, in our example, e is the nominal ETB-USD exchange rate,  P*  is the average price 
+of a good in the foreign market, and  P is the average price of the good in Ethiopia.
+The real exchange rate tells us how many times more or less goods and services that can be 
+purchased abroad (after conversion into a foreign currency) than in the domestic market for a given amount. As indicated above, the nominal exchange rate between ETB and USD is 45.  If the price of a burger is 60 Birr in Ethiopia and 5 USD in the USA, the real exchange rate will be:
+5   45ETB 1 Real exchange rate *60 1  1 USDUSD Burger
+ETB USDEthiopian Burger
+=
+
+--- [PAGE BREAK] ---
+
+5.6 Exchange Rate Determinations Grade 11 Economics Student Textbook
+136225 /  Real exchange rate 5 /  USD Burger
+Ethiopian Burger=
+225  Real exchange rate * 5Ethiopian Burger
+USD Burger=
+3.75  Real exchange rate  Ethiopian Burger
+USD Burger=
+Hence, 5 USD will buy 3.75 more units of burger in Ethiopia than in USA with the existing 
+nominal exchange rate and prices of burger in the USA and Ethiopia. 
+Note that if price of burger increases to ETB 100 due to, say inflation, the real exchange 
+rate becomes 2.25. This means that the same 5 USD would buy 2.25 extra units of burger in Ethiopia as opposed to the previous value of 3.75. 
+Note 
+ )If the real exchange rate is 1, it costs the same amount of money to buy a 
+given good in both countries.
+Now, let us consider how exchange rate is determined in a given economy.  There are two different methods of determining the price of foreign currency (exchange rate): fixed and 
+flexible exchange rate system .
+5.6.2 Fixed Exchange Rate Systems
+A fixed exchange rate is a situation where the price of one currency in terms of another currency is fixed by a government or national bank. In a fixed exchange rate system, exchange rate is determined by the national bank of a country at the point where the demand for foreign currency equals its supply. This can be possible through intervening in the foreign exchange market by buying and selling of foreign currency accordingly. For this purpose, monetary authorities have to hold an inventory of foreign currency that can be supplied in exchange for domestic currency.
+Using a fixed exchange rate system has some advantages which include stability of the 
+value of local currency and provision of greater certainty for exporters and importers, and help, the government maintain low inflation.
+Under a fixed exchange rate system, a change in exchange rate requires intervention by the 
+government or the central bank and we say that there is either devaluation or revaluation 
+
+--- [PAGE BREAK] ---
+
+5.7 Regional Integration and Globalization Practices in the Ethiopian Context 137UNIT 5: TRADE AND FINANCE 
+of a currency. If we measure the exchange rate as the price of 1 unit of the foreign currency 
+in terms of local currency, as we did above, devaluation refers to an increase in the foreign exchange rate while revaluation is the opposite.
+Devaluation of a local currency is generally expected to encourage export earnings and 
+discourage imports. With devaluation, imports become expensive while exports become cheaper in the international market.  
+5.6.3 Floating Exchange Rate Systems
+A floating or flexible exchange rate is a regime where the price of the domestic currency is set by the foreign exchange market based on the interaction between supply and demand of the currencies.  Floating exchange rates is more common in the real world. A floating exchange rate does not mean that countries do not try to intervene. This is usually the case of managed floating where a government or central bank manipulates its currency’s price, in order to maintain a currency price which is favorable for international trade.
+Note 
+ )The National Bank of Ethiopia (NBE) closely follows the determination of 
+the exchange rate between Ethiopian Birr and other foreign currencies in 
+Ethiopia in line with the managed floating system.
+A change in the value of exchange rate under a flexible exchange rate regime constitutes appreciation  or depreciation. Given our definition of the exchange rate as the price of 
+1 unit of the foreign currency, appreciation refers to a decrease in the foreign exchange rate while depreciation is the opposite. If the exchange rate between United States Dollar (USD) and Ethiopian Birr (ETB) increase from its  value of 45 to 50, we say that there is depreciation of ETB, if the exchange rate decreases to 30, for instance, we say the Birr has appreciated. 
+5.7 Regional Integration and Globalization Practices in the Ethiopian 
+Context 
+After completing this section, you will be able to: 
+	define regional integration. 
+	discuss the advantages of regional integration.
+	distinguish between the different stages of regional integration.
+
+--- [PAGE BREAK] ---
+
+5.7 Regional Integration and Globalization Practices in the Ethiopian Context Grade 11 Economics Student Textbook
+138
+Start-up Activity
+1. What kind of regional integration you noticed in Ethiopia?
+2. Why do you think countries undergo regional integration?
+Regional integration is the process by which two or more countries agree to cooperate 
+and work together to achieve peace, stability and wealth. Regional integration is an arrangement among countries to meet a pre-defined common goal. Integration aims to 
+reduce costs for both consumers and producers  and to increase trade between the countries 
+that are involved  in the agreement. Regional integration is sometimes called “economic 
+integration”.
+The regional agreement is based on one or more written agreements that describe the areas 
+of cooperation in detail. There are different degrees of integration. The simplest being free 
+trade area and the final stage is political integration. 
+Note 
+ )Regional integration, or economic integration, is an agreement among 
+nations to reduce or eliminate trade barriers and agree on macroeconomic 
+policies.
+5.7.1 Advantages and Disadvantages of Economic Integration
+Economic integration will lead to three broad advantages for all member countries. These advantages include trade benefits, employment benefits, and improved political cooperation. It can reduce the costs of trade and hence, improve the availability of goods and services and increase consumer purchasing power in member nations. Concerning employment opportunities, economic integration tends to improve employment because 
+trade liberalization leads to market expansion, technology sharing, and cross-border 
+investment.
+Finally, due to the stronger economic ties between member countries through integration, 
+there will be an incentive and a platform for political cooperation. Member countries are 
+expected to resolve conflicts peacefully that will lead to greater  stability in their region.
+
+--- [PAGE BREAK] ---
+
+5.7 Regional Integration and Globalization Practices in the Ethiopian Context 139UNIT 5: TRADE AND FINANCE 
+Note 
+ )Economic integration creates three advantages to member countries: trade 
+benefits, employment benefits and improved political cooperation.
+Economic integration might not be without a cost. Despite its benefits, there are costs 
+that may fall into three categories:  trade diversion, reduced employment and reduced 
+national sovereignty.
+•	Trade diversion refers to the possibility of shifting trade from an efficient non-members country to a less efficient member country. Due to the agreement, member countries might be forced or encouraged to trade with member countries although there might be non-member countries that can supply the good cheaper which induces inefficiency in the system. 
+•	Firms may relocate their business in cheaper countries due to the opening of borders. This may lead to loss of jobs and unemployment in the high-cost member countries. 
+•	It also implies erosion of national sovereignty. Members of economic unions typically are required to adhere to rules on trade, monetary and fiscal policies which are established by the management of the economic union external to any nation. This sometimes creates inconsistencies with pressing national issues and goals.  
+There are four main types of regional economic integrations with different levels of integration:
+Free trade area : this most basic form of economic cooperation in which member countries 
+remove all barriers to trade between themselves. They are free to independently determine their own trade policies with non-member nations. An example is the North American Free Trade Agreement (NAFTA).
+Customs union : this form of regional integration builds on the agreement under free 
+trade area and restricts member countries to trade with non-member countries in a similar manner. Hence, barriers to trade are removed between member countries and members agree to use a common trade policy against non-member countries.
+Common market: this type of regional integration allows for the creation of economically 
+integrated markets between member countries. Trade barriers, including any restrictions 
+
+--- [PAGE BREAK] ---
+
+5.7 Regional Integration and Globalization Practices in the Ethiopian Context Grade 11 Economics Student Textbook
+140on the movement of labor and capital between member countries, are removed. Like 
+customs unions, in common market there is a common trade policy for trade with non-member nations. In this regional integration, the primary advantage to workers is that they no longer need a visa or work permit to work in another member country of a common market. An example is the Common Market for Eastern and Southern Africa (COMESA).
+Economic union: this is final stage of economic integration. Under economic union, 
+countries enter into an economic agreement to remove barriers to trade and adopt common economic policies. An example is the European Union (EU).
+Note 
+ )There are four types of regional economic integrations with different levels 
+of integration. These are free trade areas , customs unions , common 
+markets  and economic unions .
+5.7.2 Globalization Practices in Ethiopian Context
+Globalization refers to the increasing interdependence of world economies, population and cultures. The main drivers could be the growing scale of cross-border trade of commodities and services, the flow of international capital and the wide and rapid spread of technologies. Globalization reflects the increased interconnectedness and interdependence of peoples and countries.
+Countries may enjoy several benefits due to globalization. Some of these benefits include 
+access to new markets and technology, exposure to a new way of life and culture and an improved standard of living.
+Globalization allows companies to find lower-cost ways to produce their products. It also 
+increases global competition, which drives prices down and creates a larger variety of choices for consumers. Lowered costs help people in both developing and developed countries to live better on less money.
+Globalization can imply a substantial technological up-grading in developing countries 
+through opening different channels. On the one hand, a developing country can implement embodied technological change (ETC) by purchasing secondhand capital goods from more industrialized countries. Similarly, a late starter developing country can enjoy the “last comer” benefit of jumping directly on a relatively new technology .
+
+--- [PAGE BREAK] ---
+
+Unit Summary 141UNIT 5: TRADE AND FINANCE 
+Globalization has affected the Ethiopian economy positively for the past few years in a 
+similar fashion to that stated above. Ethiopia has managed to attract world class investors and technologies and the cities and urban life has substantially changed due to access to technology and information. The economy has registered a rapid growth rate over several years and Addis Ababa has flourished as the capital city of the African continent (i.e. the Headquarters of Organization of African Union).
+The downsides of globalization include loss of cultural identity and exploitation of 
+employees in foreign countries which is also a problem in Ethiopia. 
+Unit Summary and Review Questions 
+Unit Summary
+Trade refers to the action of buying and selling goods and services. It is divided into domestic and international trade. Domestic trade  refers to the exchange of goods or 
+services within an individual country or territory. Domestic trade can be further divided into retail trade and wholesale trade. Retail trade involves selling of goods and services 
+for direct consumption while wholesale trade  involves agents other than a standard 
+consumer. International trade  refers to the exchange of goods and services between two 
+or more countries which is sometimes called “foreign trade”. 
+There are three basic theories that discuss the nature and role of international trade. These 
+are the theories of mercantilists, Adam Smith and David Ricardo. The mercantilists 
+believed that a country’s wealth is based on the holdings of precious metals like gold and they encourage exports and discourage imports. The absolute advantage theory of Adam 
+Smith suggested that international trade is possible only when a country has absolute cost advantage in the production of at least one good. Later, Ricardo developed the theory of 
+comparative advantage. According to this principle, mutually beneficial trade between two countries could take place even if one country has an absolute cost advantage in the production of both goods.
+The balance of payments of a country is a systematic record of all economic transactions 
+of a country with the rest of the world during a given period. It has two major components 
+namely: current account and capital account.
+Trade policies refer to actions and arrangements that are taken by a country to encourage or restrict international trade. Interventions that aim to discourage international trade 
+
+--- [PAGE BREAK] ---
+
+Review QuestionsGrade 11 Economics Student Textbook
+142are called restrictive policies . Price or use of tariffs and quantity restrictions (quota) are 
+the two broad categories of trade restrictions. Import substitution and export promotion 
+represent the two major trade strategies. Import substitution advocates replacing imports with domestic production while export promotion aims to enhance exporting activity in the company.
+The foreign exchange market is a marketplace that determines the exchange rate for global 
+currencies. Exchange rate is the price of one currency in terms of another currency. There 
+are two types of exchange rate systems: fixed and flexible systems.
+Regional integration  refers to the process by which two or more countries agree to work 
+together. Regional integration is an arrangement among countries to meet pre-defined common goals such as peace keeping, growth and development.
+Review Questions
+Part I: Multiple Choices
+For the following questions choose the correct answer from the given alternatives.
+1. A study of international trade is important because:
+A. it is different from domestic trade.
+B. trade is one of the important determinants of growth.
+C. international trade is an important component of the world economy .
+D. all of the above 
+2. Mercantilists:
+A. recommended free international trade for all countries. 
+B. argue that international trade is not important for the development of a country.
+C. proposed that international trade should be based on the absolute advantage of 
+economies.
+D. recommended international trade based on the status of the trade balance. 
+3. A trade quota is:
+A. an explicit limit on the amount of exports of a good from a country .
+B. an explicit limit on the amount of imports of a good into a country .
+C. a tax only on exports.
+D. a tax only on imports.
+4. According to absolute advantage theory of Adam Smith:
+A. international trade should be regulated and there should be no free trade.
+B. international trade should take place only when countries have absolute 
+
+--- [PAGE BREAK] ---
+
+Review Questions 143UNIT 5: TRADE AND FINANCE 
+advantage
+C. all countries should engage in international trade
+D. poor countries do have a strong potential to trade with rich countries
+5. David Ricardo’s comparative advantage is superior to Adam Smith’s theory in the 
+sense that:
+A. it focuses on comparative advantage than absolute advantage.
+B. his argument favors free trade.
+C. he proved that even countries with absolute cost disadvantage can benefit from 
+trade.
+D. A and C
+6. An exchange rate measures the:
+A. price at which one can exchange one good for another good.
+B. price at which one can exchange one resource for another resource.
+C. discounted price one received when returning defective goods for exchange.
+D. price at which one can exchange one currency for another currency .
+7. If the dollar price of the Ethiopian Birr increases, then the:
+A. Ethiopian Birr has appreciated while the USD has depreciated.
+B. Ethiopian Birr has depreciated while the USD has appreciated.
+C. Ethiopian Birr and the USD have depreciated.
+D. both Ethiopian Birr and USD have appreciated.
+Part II: Work Out
+For the following questions, provide the required solution neatly and clearly .
+Based on Table 5.5 :
+1. Identify the goods on which the two countries have comparative advantage. 
+2. Calculate the net gain in world output in the production of computers and coffee due to trade (assume complete specialization). 
+
+--- [PAGE BREAK] ---
+
+INTRODUCTIONGrade 11 Economics Student Textbook
+144UNIT  6
+ECONOMIC DEVELOPMENT 
+INTRODUCTION
+Economic growth has a strong theoretical grounding and is easily quantified as an 
+increase in aggregate output. It is related to a quantitative sustained increase in the country’s per capita output or income accompanied by expansion in its labor force, consumption, capital and volume of trade. Economic development implies both more output and changes in the technical and institutional arrangements by which it is produced and distributed. Economic development must therefore, be conceived of as a multidimensional process involving the major changes in social structures, popular attitudes, and national institutions, as well as the acceleration of economic growth, the reduction of inequality, and the eradication of poverty. Economic development without economic growth is almost inconceivable.
+Key Concepts
+	Economic development    	Economic growth   	GDP per capita	Millennium Development Goals  	Sustainable development 	Sustainable Development GoalsLearning Outcomes  
+At the end of this unit, you will be able to: 
+	understand and apply Human Development Index (HDI) and its components. 
+	analyze the performance of the Ethiopian economy against Millennium Development Goals (MDGs) and Sustainable Development Goals 
+
+--- [PAGE BREAK] ---
+
+6.1 Economic Growth and Economic Development 145UNIT 6: ECONOMIC DEVELOPMENT 
+Start-up Activity
+Based on your Grade 10 Economics , identify the relationship between 
+economic growth and economic development. 
+6.1 Economic Growth and Economic Development 
+After completing this section, you will be able to: 
+	outline different indicators of GDP growth.
+	calculate GDP growth over time.
+	differentiate the similarities and differences between economic growth and 
+development. 
+As economic growth and economic development differ in scope, their respective progress is measured in different ways. Measuring economic growth and development comes with unique criteria for each.  The gross domestic product (GDP) is a measure of the market value of goods and services which are provided by a country over a period of time, often one year or one quarter. The GDP is calculated by estimating the gross output of goods and services by the country, and subtracting the intermediate consumption (the cost of materials and services used to produce the goods or services sold).  Growth is not indicated by the GDP itself, but rather growth is determined by the percentage in increase of the GDP from one time period to another.
+ GDP growth = (GDP in current period - GDP in the previous period) / GDP in the previous 
+period * 100. 
+( ) ( ) GDP in current period Gt  GDP in the prev ious period (Gt 1)GDP growth * 100GDP in the previous period (Gt 1)−−=−
+Economic growth rate typically refers to the increase in the inflation-adjusted market 
+value of the goods and services that are produced by an economy over a specific period. It is conventionally measured in percentage terms since it is the easiest way to make a comparison over time and space. Usually, the real inflation-adjusted GDP is also used for the calculation since it removes the effect of the rising price level. Furthermore, economists often focus on the percentage change in the real GDP per capita because it improves the comparison between countries and also isolates the effect of changing the population. 
+
+--- [PAGE BREAK] ---
+
+6.2 Measures of ProductivityGrade 11 Economics Student Textbook
+146Example: 
+Here is an example for GDP growth rate calculation in a given economy. The real GDP in 
+2017 is 17,304,984 dollars and in 2016 it was 16,920,328 dollars. 
+Applying the GDP growth rate formula: GDP growth = (17,304,984 - 16,920,328) / 16,920,328 * 100 = 2.27%. 
+( ) 17,304,984 16,920,328GDP growth * 100(16,920,328)−=
+Therefore, the real GDP growth in 2017 compared to the previous year was 2.27%. 
+ Activity 6.1
+Do high levels of GDP necessarily correspond with high levels of development?
+In order to measure the effect of growth on the standard of living of the population, the 
+GNP or GDP per capital is taken, which is also known as “per capital income”.  Per capital income can be measured in terms of home currency and for international comparisons in terms of foreign currency (usually US dollars). 
+Economic development, on the other hand, is a process where there is improvement in the 
+lives of all people in the country. This involves not only living standards, such as greater availability of goods and services (and the ability to purchase them) but also the promotion of attributes such as self-esteem, dignity and respect, and the enlarging of people’s freedom to choose and to take control of their own lives. While a country may grow richer through the growth of its real output, it does not necessarily mean that it will develop.
+6.2 Measures of Productivity
+After completing this section, you will be able to: 
+	explain measures of productivity. 
+	identify the different mechanisms by which productivity is measured.
+
+--- [PAGE BREAK] ---
+
+6.2 Measures of Productivity 147UNIT 6: ECONOMIC DEVELOPMENT 
+Start-up Activity
+1. What is productivity for you? 
+2. How do people in your locality increase their productivity? 
+3. How do people in your family measure productivity?   
+Productivity is commonly defined as a ratio between the output volume and the volume 
+of inputs. In other words, it measures how efficiently production inputs, such as labor and capital, are being used in an economy to produce a given level of output. Productivity is considered to be a key source of economic growth and competitiveness and, as such, is basic statistical information for many international comparisons and country performance assessments. There are different measures of productivity and the choice between them depends either on the purpose of the productivity measurement and/or data availability. One of the most widely used measures of productivity is gross domestic product (GDP) per hour worked. This measure captures the use of labor inputs better than just output per employee.
+Higher productivity means producing more from a given amount of inputs or producing a 
+given amount with fewer inputs. Productivity, in economics, measures output per unit of input, such as labor, capital, or any other resource. It is often calculated for the economy 
+as a ratio of  gross domestic product  (GDP) to hours worked. Productivity can thus be 
+measured as:
+Output(O)Productivity (P)Input(I)=
+Productivity can be increased by the following ways:
+1. Increasing the output using the same input.
+2. Reducing the input by maintaining the output as constant.
+3. Increasing the output to a maximum extent with a smaller increase in input.
+Output is measured by the gross national product (GNP) or gross domestic product (GDP).
+
+--- [PAGE BREAK] ---
+
+6.3 Human Development Index (HDI)Grade 11 Economics Student Textbook
+148
+ Activity 6.2
+1. What is productivity? 
+2. Why productivity is important? 
+3. How can productivity be measured? 
+4. Make a list of what you consider to be economic growth and economic 
+development from what you observe in your area and identify their similarities and differences.
+6.3 Human Development Index (HDI)
+After completing this section, you will be able to: 
+	define HDI.
+	identify the different components of HDI.
+	calculate HDI. 
+Start-up Activity
+1. Why do we need development?
+2. Which one is relatively easier to measure - economic growth or economic development?
+The basic objective of development is to create an enabling environment for people to enjoy long, healthy and creative lives. The understanding and measurement of development has shifted from one dimension, i.e. income, to multiple dimensions, i.e. capabilities and freedoms. An increasing GDP is often seen as a measure of welfare and economic success. However, it fails to take into account for the multi-dimensional nature of development or the inherent short-comings of capitalism, which tends to concentrate income and, thus, power in the hands of few. One expanded indicator, which attempts to measure the multi-dimensional aspect of development, is the Human Development Index (HDI), conceived by the United Nations Development Programme (UNDP), not only of rich, but also of 
+
+--- [PAGE BREAK] ---
+
+6.3 Human Development Index (HDI) 149UNIT 6: ECONOMIC DEVELOPMENT 
+poor nations.
+The weaknesses inherent in the use of GDP as a measure of development have led to the creation 
+of other measures.  UNDP publishes a number of different human development indicators, many of which are composites of other weighted indexes. The main indexes are: 
+	Human Development Index (HDI)
+	Inequality adjusted Human Development Index (IHDI)	Gender Inequality Index (GII)
+	Multidimensional Poverty Index (MPI)
+	Gender Empowerment Measure (GEM)
+Mahbud ul Haq and Amartya Sen developed the HDI. They were aiming to develop a 
+crude index, but one that was a better indicator of well-being and capability than GNP per capita, and could be built using data that were available for most countries in the world. HDI is important because it not only gives a better indication of well-being but also it is better than measuring income alone. It has been used in the Human Development Report which was published since 1989. The Human Development Index (HDI) is a composite criterion consisting of three indicators of development to measure the level of welfare of the people of a country:
+	Life expectancy indicators (LEI) – this refers to life expectancy at birth the number of years a newly born baby is expected to live. High life expectancy at birth indicates that a high level of development and vice versa.
+	Educational attainments indicators (EAI) – this refers to the level of education which is attained by the people of the country on an average basis. The constituents of educational attainments are:
+a. adult literacy rate
+b.  gross enrollment ratio
+Adult literacy measures the percentage of people aged 15 and over who can understand, read and writes a short and simple statement in their everyday life. The gross enrolment ratio shows the percentage of population enrolled at primary, secondary and university level. A higher gross enrollment ratio represents a higher level of development.
+	Standard of living indicators (SLI) - real GDP per capita is considered as the indicator of the standard of living of the people. When we divide the GDP at constant price by 
+
+--- [PAGE BREAK] ---
+
+6.3 Human Development Index (HDI)Grade 11 Economics Student Textbook
+150the total population of the country, we get real GDP per capita. Real GDP per capita 
+is also known as “real per capita income”. Higher per capita real income usually represents a higher standard living.
+In 2010, a revised HDI was developed to account for inequality in a country. This is sometimes referred to as an IHDI, or the Inequality-adjusted Human Development Index, and is considered far more accurate than the initial HDI, though some still find the old formula useful in some applications.
+ HDI  Actual value –  Minimum valueIndexMaximum value –  Minimum value=
+Life Expectancy (LE)   25
+85 25LE−=− 
+21 33Education Index ALI GE = +
+Where, Adult Literacy Index (ALI)  100 0ALR O−
+−      
+Gross Enrolment Index (GEI),  ( ) 0
+(100 0)CGERGEI−=− 
+( ) (
+( ) ( )log log 100  []log 4000 log 100GDPpcIncome Index− =− 
+Logarithm is used to account for the diminishing marginal utility of income.
+where:  LE: life expectancy  
+            ALR: adult literacy rate  
+            CGER: combined gross enrolment ratio  
+            GDPpc: GDP per capita at PPP in USD
+Note  
+( )( )( )11 1Income Index Life Expectancy Index  Education Index33 3HDI= ++
+The HDI can be arrived at by first constructing the individual indices of the above three 
+components and then taking the simple average of the indices. To construct the relevant indices, the UNDP first fixes the maximum and minimum values of each indicator for a particular year and then, with the help of the formula below, one can arrive at the achievement level of the country concerned in respect of a particular indicator .
+
+--- [PAGE BREAK] ---
+
+6.3 Human Development Index (HDI) 151UNIT 6: ECONOMIC DEVELOPMENT 
+       Actual value Minimum valueAchievement levelMaximum value minimum value−=−
+Example: the life expectancy at birth of a particular country is 65 years. Assuming 
+maximum value and minimum value of life expectancy to be 80 and 20 respectively for a particular year, the life expectancy index can be calculated as follows:
+65 20 45 3 0.7580 20 60 4LEI−= = = =−
+As calculated above, the individual indices of educational attainments and adjusted real GDP per capita can be found for a particular year. Then, by taking simple arithmetic average of all the three indices, we can get human development index for the country concerned.
+3LEI EAI SLIHDI++=
+Where LEI = Life Expectancy Index
+EAI = Educational Attainment Index
+     SLI = Standard of Living Index or real GDP  per capita index
+From the above discussion, it is clear that the HDI emphasizes the quality of life in contrast to the national and per capita income which only focuses on quantitative aspects of development. 
+6.3.1 Ethiopia’s HDI Value and Rank
+Ethiopia’s HDI value for 2019 was 0.485 which put the country in the low human development category, positioning it at 173 out of 189 countries. Between 2000 and 2019, Ethiopia’s HDI value increased from 0.292 to 0.485, an increase of 66.1 percent. Table 6.1 reviews Ethiopia’s progress in each of the HDI indicators. Between 1990 and 2019, Ethiopia’s life expectancy at birth increased by 19.5 years, mean years of schooling increased by 1.4 years and expected years of schooling increased by 5.7 years.
+
+--- [PAGE BREAK] ---
+
+6.3 Human Development Index (HDI)Grade 11 Economics Student Textbook
+152
+ Activity 6.3
+1. Consider the economies of Kenya, Eritrea, Sudan, Egypt and Somalia 
+and guess and rank them in terms of their HDI in 2019. 
+2. Search for the real data of 2019 HDI of those countries and compare your guess with the rank based on real data.
+ 
+6.3.2 Evaluation of HDI and its Relevance to Developing Countries
+Critics argue that the HDI assigns weights to certain factors that have equal trade-offs, when these measurements may not always be equally valuable. For example, countries could achieve the same HDI through different combinations of life expectancy and GNI per capita. This would imply that a person’s life expectancy has an economic value. An additional year of life would add to the GNI and would thus, be different in countries with different GNI per capita.
+It also correlates factors that are more common in  developed economies. For example, a 
+higher level of education would tend to lead to higher GNI per capita. The HDI also fails 
+
+--- [PAGE BREAK] ---
+
+6.4 Capability Approach 153UNIT 6: ECONOMIC DEVELOPMENT 
+to take into account factors such as inequality,  poverty , and gender disparity.  A country 
+with a high value for GNI per capita would indicate a developed country, but what if that 
+GNI is reached by marginalizing certain genders or ethnic classes? And what if that GNI is achieved by a small percentage of the population that is wealthy and therefore excludes the poor?
+Furthermore, the values of the factors that make up the HDI are bounded between 0 and 
+1. This means that certain countries that already have high GNIs, for example, have little room to improve in terms of GNI score even if their GNI continues to grow and improve. This same parameter affects the logic of the life expectancy score.
+ 
+6.4 Capability Approach
+After completing this section, you will be able to: 
+	define capability. 
+	identify the different components of capability.
+Start-up Activity
+1. How the freedom we enjoy is considered as a development indicator?
+2. Have you ever made a choice in economic matters in your family?
+The capability approach was first articulated by the Indian economist and philosopher Amartya Sen in the 1980s, and remains most closely associated with him.  He argues that the “capability to function” is what really matters for status as a poor or non-poor person. As Sen put it, “Economic growth cannot be sensibly treated as an end in itself. Development has to be more concerned with enhancing the lives we lead and the freedoms we enjoy. That is, we should look at people’s capabilities: their abilities and possibilities to live a good life make choices about their education, economic activities, and their freedom to participate in decision making. Development has the role of strengthening autonomy and substantive freedoms, which allow individuals to fully participate in economic life. Hence, economic development occurs when individual agents have the opportunity to develop the capacities that allow them to actively engage and contribute to the economy. 
+
+--- [PAGE BREAK] ---
+
+6.4 Capability ApproachGrade 11 Economics Student Textbook
+154In the aggregate, this should lower transaction costs and increase social mobility. The 
+capability approach goes directly to the quality of life that people can actually achieve. This quality of life is analyzed in terms of the central concepts of functioning and capability . 
+“Capabilities” are what people can achieve if they so choose, such as being well-nourished, getting married, being educated, and travelling; “functioning” refers to the use that a person makes of the commodities at his/her command. Whether someone can convert a set of means to resources and public goods into a functioning (i.e. whether he/she has a particular capability) crucially depends on certain personal, sociopolitical, and environmental conditions, which, in capability literature, are called ‘conversion factors.’ Capabilities have also been referred to as “real” or “substantive freedoms” as they denote the freedoms that have been cleared of any potential obstacles, in contrast to mere formal rights and freedoms. Freedom is integral to Sen’s approach which distinguishes between people’s capabilities (what they can potentially be and do) and what they choose to do with them (their actual functioning). 
+Consider that a rich and healthy person who, for religious reasons, fasts for a specified 
+period thus temporarily reducing his calorie intake below that considered to be the basic need. Consider also a poor female farmer who does long hours of hard physical work in the fields for low payment and cannot afford to buy sufficient food for herself and her children. The rich man had the possibility of being well nourished and chose to fast whilst the poor women was so disadvantaged by the labor market that she had no options. Over the short term at least, the man’s daily calorie intake (his functioning of being well nourished) may have been less than the women but nevertheless his potential (capability) to be well nourished was much greater than hers. The capability approach has been employed extensively in the context of human development, for example, by the United Nations Development Programme, as a broader, deeper alternative to narrowly economic metrics such as growth in GDP per capita.
+ Activity 6.4
+Identify an example in your locality to illustrate the differences and similarities between functioning and capabilities.
+
+--- [PAGE BREAK] ---
+
+6.5 Sustainable Development 155UNIT 6: ECONOMIC DEVELOPMENT 
+6.5 Sustainable Development 
+After completing this section, you will be able to: 
+	define sustainable development.
+	explain why sustainable development is crucial in the 21st century . 
+	appreciate the role of sustainable development in disaster reduction. 
+Start-up Activity
+1. What do you understand about sustainable development? 
+2. Why is sustainable development important?
+Sustainable development can be defined as development that meets the needs of the 
+present generation without compromising the ability of future generations to meet their own needs. Sustainability goals, such as the current UN Sustainable Development Goals, address the global challenges, including poverty, inequality, climate change, environmental degradation, peace, and justice. 
+Thus, sustainable development recognizes that growth must be both inclusive and 
+environmentally sound to reduce poverty and build shared prosperity for today’s population and to continue to meet the needs of future generations. It entails efficient and carefully planned use of resources to deliver both immediate and long-term benefits for people, the planet and prosperity. The three pillars of sustainable development–economic growth, 
+environmental stewardship, and social inclusion across all sectors of  development, from 
+cities facing rapid urbanization to agriculture, infrastructure, energy development and use, water availability, and transportation.
+6.6 Millennium Development Goals (2000-2015)
+ After completing this section, you will be able to: 
+	identify the Millennium Development Goals (MDGs).
+	analyze the achievement of Ethiopia in achieving the MDGs and the lessons learned.
+
+--- [PAGE BREAK] ---
+
+6.6 Millennium Development Goals (2000-2015)Grade 11 Economics Student Textbook
+156
+Start-up Activity
+1. What are some of the major challenges the MDGs tried to 
+address?
+2. Who is in charge of MDGs?
+The international development agenda has been actively led by the United Nations (UN) and its technical agencies and funds from their inception in the late 1940s. Until the 1990s, the approach was fragmented and disjointed, initiated by its specialized agencies or funds at various World Summits and Conferences to address three dimensions of development — economic, social, and environmental. The Millennium Declaration and Millennium Development Goals (MDGs) saw the convergence of the development agenda of the United Nations Development Programme (UNDP), United Nations Environment Programme (UNEP), World Health Organization (WHO), United Nations Children’s Fund (UNICEF), United Nations Educational, Scientific and Cultural Organization (UNESCO), and other development agencies.
+The MDGs have provided a unified focus in the development community unlike anything 
+that preceded them. The eight goals listed in table 6.2  are ambitious: to eradicate extreme poverty and hunger; achieve universal primary education; promote gender equality and empower women; reduce child mortality; improve maternal health; combat HIV/AIDS, malaria, and other diseases; ensure environmental sustainability; and foster a global partnership for development. The goals were then assigned specific targets deemed achievable by 2015 based on the pace of past international development achievements. 
+
+
+--- [PAGE BREAK] ---
+
+6.7 The Sustainable Development Goals (2015-2030) 157UNIT 6: ECONOMIC DEVELOPMENT 
+The MDGs were revolutionary in providing a common language to reach global agreement. 
+The eight goals were realistic and easy to communicate, with a clear measurement/monitoring mechanism. The MDGs generated new and innovative partnerships, galvanized public opinion, and showed the immense value of setting ambitious goals. By putting people and their immediate needs at the forefront, the MDGs reshaped decision-making in the developed and developing countries alike. It helped to lift more than one billion people out of extreme poverty, to make inroads against hunger, to enable more girls than ever before to attend school, and to protect our planet. Yet inequalities persist and the progress has been uneven. The world’s poor remain overwhelmingly concentrated in some parts of the world. Progress tends to bypass women, who continue to die during pregnancy or from childbirth-related complications and those who are lowest on the economic ladder or are disadvantaged because of their age, disability, or ethnicity. 
+6.7 The Sustainable Development Goals (2015-2030)
+After completing this section, the students will be able to: 
+	identify the Sustainable Development Goals (SDGs).
+	explain the relationship between MDGs and SDGs.
+Start-up Activity
+1. Have you ever heard about the Sustainable Development Goals?
+2. What do you think about the objectives behind the Sustainable Development Goals? Discuss this in groups of four and report 
+back to the class.
+Substantial progress has been made regarding the MDGs. The world has already realized 
+the first MDG of halving the extreme poverty rate by 2015. However, the achievements have been uneven. The MDGs expired in 2015 and the focus is now on building a sustainable world where environmental sustainability, social inclusion, and economic development 
+are equally valued. The 2030 Agenda for Sustainable Development,  adopted by all United 
+Nations member states in 2015, provides a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 (SDGs), which are an urgent call for action by all countries, developed and developing, in a global partnership. They recognize that ending poverty and other deprivations must go hand-in-hand with 
+
+--- [PAGE BREAK] ---
+
+6.7 The Sustainable Development Goals (2015-2030)Grade 11 Economics Student Textbook
+158strategies that improve health and education, reduce inequality, and spur economic growth 
+– all while tackling climate change and working to preserve our oceans and forests.
+Agenda 2063
+The new 2030 Agenda for Sustainable Development supports a sustainable future for the human kind by integrating social, economic and environmental dimensions of development. Compared to the MDGs, 17 SDGs are more ambitious in scope and universal in coverage by setting targets both for developing and developed countries. These goals adopted a more comprehensive approach towards development by integrating social, economic and environmental dimensions of development.
+Agenda 2063 is Africa’s blueprint and master plan for transforming Africa into the global 
+powerhouse of the future. It is the continent’s strategic framework that aims to deliver on its goal for inclusive and sustainable development and is a concrete manifestation of the pan-African drive for unity, self-determination, freedom, progress and collective prosperity pursued under Pan-Africanism and African Renaissance.  The genesis of Agenda 2063 was the realization by African leaders that there was a need to refocus and reprioritize Africa’s agenda from the struggle against apartheid and the attainment of political independence for the continent, which had been the focus of the Organization of African Unity (OAU), the precursor of the African Union; and instead to priorities inclusive social and economic 
+
+--- [PAGE BREAK] ---
+
+6.7 The Sustainable Development Goals (2015-2030) 159UNIT 6: ECONOMIC DEVELOPMENT 
+development, continental and regional integration, democratic governance and peace 
+and security amongst other issues aimed at repositioning Africa to becoming a dominant player in the global arena.
+As an affirmation of their commitment to support Africa’s new path for attaining inclusive 
+and sustainable economic growth and development, African heads of state and government signed the 50th Anniversary Solemn Declaration during the Golden Jubilee celebrations of the formation of the OAU /AU in May 2013. The declaration marked the re-dedication of Africa towards the attainment of the Pan African Vision of an integrated, prosperous 
+and peaceful Africa, driven by its own citizens, representing a dynamic force in the 
+international arena, and Agenda 2063 is the concrete manifestation of how the continent intends to achieve this vision within a 50 year period from 2013 to 2063.
+Performance of Ethiopian Economy against MDGs and SDGs
+The national and sectorial policies and strategies of the FDRE focuses on eradication of poverty and implementation of development interventions that would have returns satisfying all the nation-wide demands/needs while ensuring inter-generational equity. Ethiopia’s principal endowments are the country’s vast land and human resources. The development policy of the country focuses on the need for accelerated and comprehensive economic growth, economic infrastructure development, social development and expediting the building of a democratic system in a manner that is centered on the development of its people. The implementation of the policies are envisaged to ensure food security in the whole country and at every household level to eradicate poverty in all its forms, to ensure gender equality, to withstand climate change and bring about prosperity of the nation. 
+Ethiopia has been pursuing pro-poor policies, implementing development plans and 
+programs within which global development frameworks such as the MDGs, the Brussels Program of Action and its successor, the Istanbul Program of Action for Least Developed Countries have been mainstreamed with remarkable achievements in economic growth, social development and environmental management. This, in turn has, helped in gaining replicable development experiences over the last decade and half.
+Countries around the world have taken a number of lessons from the challenges they 
+faced while implementing the Millennium Development Goals (MDGs). These lessons added significant value while designing the Sustainable Development Goals (SDGs). Like other countries, Ethiopia has prepared a medium-term plan that the Second Growth 
+
+--- [PAGE BREAK] ---
+
+6.7 The Sustainable Development Goals (2015-2030)Grade 11 Economics Student Textbook
+160and Transformation Plan (GTP II), covering the period from 2015 to 2020 and ten years 
+Prosperity Plan (2020-2030) which also forms an integral part of the country’s post-2015 development agenda.  The SDGs are highly relevant for Ethiopia: in addition to covering the entire unfinished agenda of the MDGs, they also address a range of economic and environmental issues critical to the realization of human’s rights. 
+Ethiopia is globally recognized for having taken ownership of the MDG agenda and 
+integrating it into successive national development plans (UNDP and NPC, 2015), from the Sustainable Development Poverty Reduction Programme (SDPRP) (2002/03 to 2004/05) to the First Growth and Transformation Plan (GTP I) (2010/11 to 2014/15). Ethiopia has successfully achieved six of the eight MDGs, and made significant progress with respect to the remaining two: MDG 3 and MDG 5, (UNDP and NPC, 2015). The government has also formulated a Climate Resilient Green Economy (CRGE) strategy, and established the bold vision of becoming a middle-income, carbon-neutral economy by 2025.
+Despite Ethiopia’s strong performance on the MDGs, low implementation capacity and 
+scarce financial resources were among the many challenges it faced during the period. These weaknesses had a negative impact on project and service delivery, and contributed to a high trade deficit, low agricultural production, savings-investment gap, and inflation pressure that threaten the macroeconomic stability of the country .
+Following the adoption of the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs) in September 2015, Ethiopia has proactively mainstreamed, aligned the SDGs with the Second Growth and Transformation Plan (GTP II) which spans from 2015/16 to 2019/20 and implementing. GTP II is Ethiopia’s blueprint for national development over the five-year period from 2015 to 2020. It is set within the context of Ethiopia’s long-term vision of becoming a lower middle-income country by National Level Implications of SDGs Implementation in Ethiopia in 2025. It also incorporates a range of development priorities, including national and sectorial policies and strategies, the 2030 Agenda for Sustainable Development, and Africa’s Agenda of 2063. It draws on lessons which are learned from implementing the MDGs and GTP I and the international and regional economic conditions such as the market price fluctuation of products, inputs and outputs of the country and the regional trade and economic integration prospects (NPC, 2015).
+In order to achieve the 2030 SDGs, national development priorities have been identified in 
+the GTP II, which is the first 5 year-phase (2015/16 to 2019/20) of the long-term national 
+
+--- [PAGE BREAK] ---
+
+6.7 The Sustainable Development Goals (2015-2030) 161UNIT 6: ECONOMIC DEVELOPMENT 
+development plan (2019/20 to 2029/30) ten years prosperity plan which is now under 
+implementation. These include: 
+1.  ensuring that the agriculture development sector remains the mainstay of the nation’s accelerated economic development 
+2. expediting change in the economic structure of the nation by transforming the manufacturing industry development
+3.  enhancing the economy to its full economic capacity through increased focus on competitiveness, efficiency, productivity and quality
+4.  Correcting the imbalance between overall demand and supply 
+5.  fostering the development of the construction industry and projects’ management capacity 
+6.  institutionalizing urban administration and management compatible with the accelerated urbanization, industrialization and structural changes in the economy 
+7.  creating enabling environment for the transformation of domestic investors 
+8.  providing support to human resources development through building technologic capacity
+9. building climate resilient green economy and 
+10.  eliminating rent-seeking behaviors and ensuring the predominance of developmental frame of mind.
+Informed by these experiences and having recognized future opportunities, Ethiopia has accepted with strong government commitments and endorsed the 2030 Agenda for Sustainable Development by the House of People Representatives with full sense of national ownership to implement it and its Sustainable Development Goals (SDGs) as an integral part of its national development framework, the Second Five Year Growth and Transformation Plan (GTP II). Furthermore, the Government of Ethiopia formulated a 10-year Prosperity Plan for the period 2019/20 to 2029/30 which is fully aligned with the 2030 agenda of SDGs.
+ There exist, huge gaps in the developmental capacity in all sectors and at all levels to 
+ensure executing and implementing the national policies and to satisfactorily implement the SDGs. Misperceptions among the executive bodies and the implementing bodies, deficiency in their level of motivations and in their sense of ownership and in delivering efficient services are among the main challenges to be addressed. However, efforts are being made across the nation to scrutinize the policies in light of ensuring their implementing 
+
+--- [PAGE BREAK] ---
+
+Unit SummaryGrade 11 Economics Student Textbook
+162ability at all levels and in light of identifying any policy gaps based on evidences and filling 
+the policy gaps by authorities. In general, it can be stated that the ten years Prosperity plan has been harmonized and integrated with the three dimensions of the SDGs and would reach successful ends.
+ Activity 6.6
+1. How people in your locality the issue of sustainable development?     
+2. What are the similarities and differences between MDGs and SDGs?
+3. Discuss the reason why countries of the world devised both MDGs and SDGs and support your discussion with examples where necessary.
+4. Prepare a report on the performance of the Ethiopian economy against the MDGs on the health and  SDGs on gender equality and present it to your class.
+Unit Summary and Review Questions 
+Unit Summary
+Economic growth is uni-dimenstional in nature, and is measured with reference to increase in national income only.  Economic Development is Improvements in literacy, education and training levels, improvements in health and nutrition of the people resulting in a reduction in morbidity and mortality and an increase in longevity, high levels of living on all norms and optimum use of all types of resources are indicators of development.
+Economic development is a process which consists of a long chain of interrelated changes 
+in fundamental factors of supply and in the structure of demand, leading to a rise in the net national product of a country in the long run.  It is a multidimensional process involving 
+major changes in social structures, popular attitudes, and national institutions, as well as 
+the acceleration of economic growth, the reduction of inequality, and the eradication of poverty. 
+HDI is a measurement system which is used by the United Nations to evaluate the level 
+of individual human development in each country. The HDI uses components such as 
+
+--- [PAGE BREAK] ---
+
+Review Questions 163UNIT 6: ECONOMIC DEVELOPMENT 
+average annual income and educational expectations to rank and compare countries.
+However, HDI has been criticized by social advocates for not representing a broad 
+enough measure of quality of life and by economists for providing little additional useful information beyond simpler measures of the economic standard of living.
+The eight Millennium Development Goals (MDGs) – which range from halving extreme 
+poverty rates to halting the spread of HIV/AIDS and providing universal primary education, all by the target date of 2015 – form a blueprint that is agreed by all the world’s countries and the entire world’s leading development institutions. They have galvanized 
+unprecedented efforts to meet the needs of the world’s poorest. UN is also working with 
+governments, civil society and other partners to build on the momentum which is generated by the MDGs and carry on with an ambitious post-2015 development agenda.
+Sustainable development is the  idea that human societies must live and meet their 
+needs without compromising the ability of future generations to meet their own needs. Specifically, sustainable development is a way of organizing society so that it can exist in the long term.
+Sustainability is the foundation for today’s leading global framework for international 
+cooperation—the 2030 Agenda for Sustainable Development and its Sustainable Development Goals (SDGs).
+The Sustainable Development Goals (SDGs), also known as the Global Goals, were 
+adopted by the United Nations in 2015 as a universal call to action to end poverty, protect the planet, and ensure that by 2030 all people enjoy peace and prosperity .
+Review Questions
+Part I: Multiple Choices
+For the following questions choose the correct answer from the given alternatives
+1. Economic development refers to:
+A.  economic growth
+B.  economic growth plus changes in output distribution and economic structure
+C. sustainable increases in gross national product
+D. both A and C
+
+--- [PAGE BREAK] ---
+
+Review QuestionsGrade 11 Economics Student Textbook
+1642. The common measure of economic development is:
+A. the level of health and education of the population
+B. the rate of population growth
+C. per capita GDP
+D. all of the above
+E. none of the above
+3. Sustainability is the use of a resource that does not cause long term depletion of 
+resources or affect the diversity of the ecosystem.
+A.  true B.  false
+4. The formula to calculate economic growth from 2001 to 2002 is given by:
+A. [(GDP2002 + GDP2001)/ GDP2001]*100
+B. [(GDP2002 – GDP2001)* GDP2001]*100
+C. [(GDP2002 – GDP2001)/ GDP2001]*100
+D. [GDP2001 – GDP2002]*100
+5. The three measure of welfare indicators  (infant mortality, life expectancy and adult literacy)  can be composed as: 
+A. purchasing power parity
+B. physical quality of life index
+C. Human Development Index 
+D. the Laspeyres index
+6. The Human Development Index (HDI) summarizes of social performance in a single composite index, combining:
+A. disparity reduction rate, human resource development rate and the composite 
+index
+B. longevity, education and living standard
+C. minimum schooling, adult literacy and tertiary educational attainment
+D. human resource training, development and R&D
+7. Longevity is a proxy for ___________ in the Human Development Index:
+A. health and nutrition
+B. living standardC. infant mortality
+D. purchasing power parity
+8. Sen’s welfare theory relies on individuals’:
+A. accomplishments
+B. capabilitiesC. wealth
+D. education
+
+--- [PAGE BREAK] ---
+
+Review Questions 165UNIT 6: ECONOMIC DEVELOPMENT 
+9. Progress that meets the needs of the present without compromising the ability of 
+future generations to meet their own needs is:
+A. the tragedy of commons
+B. sustainable developmentC. net primary productivity (NPP)
+D. the impossibility theorem
+10. Developing nations have:
+A. lower infant mortality rate
+B. greater degree of equality in the income distribution
+C. Lower rate of illiteracy
+D. None of above 
+Part II: Discussion Questions
+Discuss the following questions briefly.
+1. Explain the similarities and differences between economic growth and economic development.
+2. What are the main components of the Human Development Index (HDI)? 
+3.  Explain the concept of Sustainable development and its relation with SDGs
+
+--- [PAGE BREAK] ---
+
+INTRODUCTIONGrade 11 Economics Student Textbook
+166
+UNIT 7
+MAIN SECTORS, SECTORIAL 
+POLICIES AND STRATEGIES OF 
+ETHIOPIA 
+INTRODUCTION
+Different views or paradigms have been adapted for the development of a country. The 
+role of agriculture in economic development has been considered as largely passive and supportive or secondary. In the Western economies, the industrial sector was given priority, based on the assumption that it has the greatest potential to adopt technology and to create forward and backward linkages with the other sectors.
+However, the desirability of placing such heavy priority on industrial growth is 
+questionable for most developing countries like Ethiopia. Since the 1970s, development economists have come to realize that the agricultural sector needs to be viewed as a leading and dynamic sector. They further state that, without the development of the agricultural sector, the growth of the industrial sector will become weak. Hence, the agricultural sector has to be the leading sector, and this is the approach of the current Ethiopian strategy of development. 
+Learning Outcomes  
+At the end of this unit, you will be able to: 
+	define the uni-modal agricultural strategy.
+	define bi-modal agricultural strategy.
+	understand the different  policies and strategies applied by the Imperial, Derg, 
+and recent government.
+
+--- [PAGE BREAK] ---
+
+7.1 Overview of Agricultural Policies and Strategies 167UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+Key Concepts
+	uni-modal strategy         
+	bi-modal strategy         	Comprehensive Package 
+Program	Minimum Package program            	Large-Scale Mechanized 
+Commercial Farm       
+	Agricultural Development-led  
+industrialization
+Start-up Activity
+1. From your Grade 10 Economics , what are the roles of the three 
+sectors (agriculture, industry and service) in the Ethiopian economy?
+2. Identify the factors which are contributing to the success of these three sectors. 
+3. What are the challenges that these sectors are facing? 
+4. How do policies and strategies affect the performance of the sectors?
+ 
+7.1 Overview of Agricultural Policies and Strategies
+After completing this section, you will be able to: 
+	define the uni-modal agricultural strategy
+	define bi-modal agricultural strategy
+	identify the characteristics of uni-modal and bi-modal agricultural strategy 
+	explain the advantages and limitations of uni-modal and bi-modal agricultural strategy
+
+--- [PAGE BREAK] ---
+
+7.1 Overview of Agricultural Policies and StrategiesGrade 11 Economics Student Textbook
+168
+Start-up Activity
+1. Why does Ethiopia need a strategy in agriculture? 
+2. How successful have agricultural strategies been in Ethiopia 
+so far?   
+7.1.1 Uni-modal Agricultural Strategy 
+Uni-modal agricultural strategy is a strategy by which the agricultural transformation is 
+achieved   through intensification of small-scale peasant farms.  It is based on the concept that specific peasants are not separated from their means of production and retain a degree of control over land and family labor  in spite of international secular differentiations (e.g. in  Japan, Thailand and China). Characteristics of uni-modal agricultural strategy 
+	The development and diffusion of highly divisible innovations that promote 
+output expansion within the existing agrarian structure (small-size holdings)  is the central element of this approach 
+	It is a pro-poor growth strategy
+	 It enhances small-landholders’ access to modern inputs such as improved seeds, 
+fertilizers, and provides them to farmers on revolving-credit bases 
+	The focus is  on the production of food crops as a means of ensuring food 
+security 
+Advantages of uni-modal strategy: 
+	It protects the existence of a differentiated peasant group/class. 	 It protects peasants from eviction. 	 It creates a huge potential for the government to gain political support. 	 It reduces poverty in the rural economy. 	It provides individual peasants with access to modern technologies. 	 It reduces outgoing migration from rural areas. 
+
+--- [PAGE BREAK] ---
+
+7.1 Overview of Agricultural Policies and Strategies 169UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+Limitations of uni-modal strategy: 
+	The focus is on food crops rather than on high-value products for the market. 
+	 There is no means by which the shortage of knowledge regarding market 
+information and weather conditions can be improved.
+	There is no way the shortage of infrastructures that is due to the smallholders’ fragmented settlement patterns can be improved.
+	Due to the small-size holdings, it is difficult to employ large-scale agricultural inputs. 
+	There are no controls to increased price of agricultural inputs? 
+7.1.2 Bi-Modal Agricultural Strategy 
+This strategy advocates the practices both of the intensification of small peasant farms and of commercialization. It is based on a dualistic structure of farm units (as in the case of Mexico and Columbia) which proposes that commercialization and commoditization inevitably generate differentiation in agrarian societies, whereby rural producers are set apart into agricultural capitalists and landless agricultural employees. Characteristics of the bi-modal approach 
+	It supports a strong principal commercial sector. 
+	 It is based on the belief that entrepreneurial individuals should be allowed to 
+accumulate land. 
+	The differentiation of individuals who invest more in farming and those who 
+develop business should be supported. 
+Advantages of bi-modal approach 
+	It supports individual rights to acquire land. 	It invites more capital and technology investment for agriculture. 	It promotes large-scale diversification.	It allows the transfer of technology. 
+Limitations of bi-modal approach 
+	It creates differentiation in the rural society. 
+	 Lack of off-farm job opportunities. 	It promotes the eviction of small peasants/poor people. 	 It deprives the majority of the rural population of land. 
+
+--- [PAGE BREAK] ---
+
+7.2 Specific Policies and Strategies of the Agricultural Sector Grade 11 Economics Student Textbook
+1707.1.3 Overview of Agricultural Policies and Strategies of Ethiopia 
+After completing this section, you will be able to: 
+	analyze the agricultural policies and strategies of Ethiopia during the pre-1974.
+	outline the agricultural policies and strategies of Ethiopia during the der g regime. 
+	summarize the agricultural policies and strategies of Ethiopia during EPRDF and  
+recent government.  
+The government in Ethiopia has implemented various agricultural policies such as market liberalization, structural adjustment, agricultural-Led industrialization, sustainable development and poverty reduction program, participatory and accelerated sustainable development to eradicate poverty and successive growth and transformation plans I and II and the current ten years Prosperity Plan to raise productivity in agriculture. Since 1991, the government has abolished all subsidies and price support measures to agriculture. A structural adjustment program reduces the role of the government and increases the role of demand and supply forces in the allocation of resources in the Ethiopian economy. All these policy interventions have been implemented to increase agricultural productivity and production which, in turn, reduce poverty and food insecurity .
+7.2 Specific Policies and Strategies of the Agricultural Sector 
+At the end of this section, you will be able to: 
+	identify the policies and strategies in the agriculture sector.
+	appreciate the sector’s link with other sectors.
+Start-up Activity
+1. What are the characteristics of agricultural sector in Ethiopia?
+2. How agriculture sector is linked to the other sectors like the industrial sector?
+3. What are the agricultural strategies of Ethiopia?
+Pre-1974 Policies and Strategies
+Mainly the priority focus was given to industry (manufacturing), minerals and electric 
+
+--- [PAGE BREAK] ---
+
+7.2 Specific Policies and Strategies of the Agricultural Sector 171UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+power development, but, unlike the first five year plan, some attention was given to 
+agriculture. There were targets for the production of agricultural marketable products like cereals, cotton, cattle, and coffee; and for the rate of growth of agriculture were set. To achieve the production targets three main approaches were outlined: 
+a. Execution of land reform, 
+b. Introduction of tools implements and machinery as well as elementary training of the producers so as to raise productivity,
+c.  Per capita income and consumption so as to transform the subsistence economy into a monetized economy.
+The land reform policy was completely ignored, a fact which basically accounted for the failure and above all, there was lack of progress in policy measures and organizational programs, which were essential for the success of the plan. Because of all these, the agricultural sector could not develop as much as it was anticipated in the plan.
+In the later era of the regime, it is argued that modernization of peasant subsistence 
+agriculture in all areas of the country simultaneously is hardly possible, but no time should be lost in making a start in strategically selected areas in which good results can soon be seen. This being the strategy, two main approaches for the development of Ethiopia agriculture were indicated in the third five-year plan. These were the package program and the development of large-scale commercial farms:
+1. Large-Scale Mechanized Commercial Farm (LSMCF): the main objective of 
+this path was to facilitate agricultural exports and to create new employment opportunities. As the name implies, LSMCF requires bringing extensive areas of land under cultivation with the use of modern agricultural inputs such as modern technology, machinery, equipment (tractors and combines), chemical fertilizers and hired labor, in contrast to the family labor which is used in the small-holder farming system. The government took some fiscal measures to encourage the expansion of these farms in the country. Among the resulting policy measures were credit arrangements, tax holidays for the first five years for investments in excess of 200,000 Birr, low land use fees, tax-free import of heavy machinery, and possibilities of remitting profits to investor countries of origin. As a result, some foreign-owned profitable plantations were developed. They mostly produced food and fiber. However, these results were too small to achieve the given incentives. They accounted for almost 5% of the total agricultural output and 3% of the total area that was cultivated. The 1974 popular uprising led to the nationalization of 
+
+--- [PAGE BREAK] ---
+
+7.2 Specific Policies and Strategies of the Agricultural Sector Grade 11 Economics Student Textbook
+172these farms and their conversion into state farms in 1975. 
+2. Establishment and development of package projects: the basic objective of donors 
+and the government in initiating the package project in Ethiopia was to repeat the success of the Green Revolution of India in Ethiopia. The Green Revolution was a type of agrarian revolution which was characterized by the large-scale use of improved and high yield variety (HYV) seeds and other inputs. The package approach was successful in improving the productivity of farmers in Mexico, India, Bangladesh, Israel, etc. There were two types of package projects: comprehensive package projects and minimum package projects. 
+Comprehensive Package Projects were designed to supply important inputs such as chemicals, fertilizers, improved seeds and farm tools, credits, pesticides, and know-how. The supplies of these inputs were for the purpose of: 
+	raising the living standard of the  peasants;
+	creating labor-intensive employment opportunities; 	encouraging peasant participation in the development process; and	expanding experimental stations for propagating new ideas in agricultural 
+technology and providing improved farm tools. 
+As part of the comprehensive package projects  the Chilalo Agricultural Development Unit 
+(CADU), the Welayita Agricultural Development Unit (WADU), and the Adaa District 
+Development Package Project (ADDP) were established. Some achievements  were 
+observed in these project areas. For example, income of participating farmers increased, productivity in crops and livestock was increased significantly, and the adoption of modern inputs expanded in the project areas. But there were also some adverse effects,  
+including an increase in the eviction of tenants. Another problem which is associated with these projects was their huge cost.  Because of these problems, the comprehensive package project was too difficult to be duplicated in other areas of the country. Therefore, a relatively less costly package program, known as the “minimum package program”, was launched, substituting for the comprehensive package projects which covered larger areas. 
+The minimum package program is designed in order to raise production and income of 
+smallholders quickly over a wide area with a minimum reliance on scarce resources. These 
+projects involved the diffusion of a few proven imports of agriculture such as chemical fertilizer, improved seeds, and farm implements. The small amount of resources allocated made the projects unsuccessful. 
+
+--- [PAGE BREAK] ---
+
+7.2 Specific Policies and Strategies of the Agricultural Sector 173UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+Specific Agricultural Policies and Strategies during the Derg Regime 
+The Derg regime changed the previous national development strategy, placing the 
+emphasis on a centrally planned economy. Industry-led development was deployed as the main development strategy. Rural land and other productive assets were nationalized, and land was distributed among farmers. Commercial farms were put under government control, and land tenancy was abolished. Furthermore, private commercial laborers and commercial farming were marginalized, and large collectivization programs were promoted through resettlement and civilization programs. 
+The new policy paradigm was manifested in different sectors of the economy.  The 
+comprehensive and the minimum package projects were launched during the Imperial Regime were continued in the Derg period. CADU was transformed into Arsi Rural Development Unit (ARDU) and then to Bale-Arsi Rural Development Unit (BARDU), which resulted in the thinning of resources over wide areas. Finally, all these projects were transformed into Peasant Agricultural Development Extension Projects (PADEP) which was organized along pluralist principles. The government also organized the small holders along socialist lines for the purpose of the collective production and marketing of agricultural output and distribution of inputs. In general, the agricultural sector policies of the military government were characterized by the following: 
+	nationalization of all private and commercial farms; 
+	 prohibition of private investment in the agricultural sector; 	involuntary collectivization of peasants into peasant associations, and into 
+producers’ and service cooperatives; 
+	forced villagization and settlements; 	government control of virtually all agricultural input and output markets; 	forced food-grain quota deliveries at predetermined low prices; and	 restriction of the movement of agricultural outputs from one part of the country 
+to another. 
+These improper government interventions were the primary reasons for the lack of success 
+in the development of the agricultural sector, in particular, and the national economy, in general. 
+
+--- [PAGE BREAK] ---
+
+7.2 Specific Policies and Strategies of the Agricultural Sector Grade 11 Economics Student Textbook
+174Post-1991 Agricultural Policies and Strategies 
+The 1991 economic policy document of the Transitional Government of Ethiopia declared 
+that collectivization and villagization as undesirable and liberalized both agricultural markets. The overriding objective of the government was given as attaining fast economic development. The government adopted Agricultural Development-Led Industrialization (ADLI) in 1994, which revolved around enhancing the productivity of smallholder agriculture and industrialization based on the utilization of domestic raw materials via adopting labor-intensive technology. The essence of this strategy rests on the belief that the agricultural sector can serve as the driving force for the rest of the economy. This means that the strategy aims at better use of the massive agricultural labor force in rural areas. It has internal forward and backward linkages with the industrial sector. This strategy has been adopted by the government to fit in the Ethiopian context. An extensive extension program which had been launched in 1994/95 was the Participatory Demonstration and Training Extension System (PADETES).  In this system, packages of fertilizer, improved seed and credit, as well as information on input use and better agricultural practices were delivered to the vast majority of smallholders in the rural areas by government. In this regards, improvement of productivity through extending the use of modern technology had attracted the attention of government. However, even though government had extended different packages, particularly the fertilizer credit package, the average agricultural output failed to sustain the high population growth. The Sustainable Development and Poverty Reduction Program was an integrated rural and agriculture development strategy which was launched in 2002 on account of the limited success of PADETES. It was the first full Poverty Reduction Strategy Paper (PRSP) that was developed and implemented by the Ethiopian government through:
+	Strengthening agricultural extension services
+	Training extension agents in Technical and V ocational Education and Training 
+(TVET) and training farmers in Farmers Training Centers
+	Water harvesting and irrigation 	improved marketing opportunities	Restructuring peasant cooperatives 	Supporting micro-finance institutions. 
+However, heavy dependency of the agricultural sector on the amount and timing of 
+rainfall means that the output continuously fluctuates. In addition, the agricultural 
+
+--- [PAGE BREAK] ---
+
+7.3 Problems of the Agricultural Sector 175UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+sector’s productivity did not show significant improvement.
+The developments of large-scale commercial agriculture were also emphasized for inter 
+sectorial linkages. To achieve these objectives, the following instruments were used in the Plan for Accelerated and Sustained Development to End Poverty (PASDEP): 
+	constructing farm-to market roads; 
+	development of agricultural credit markets;	specialized extension services for differentiated agricultural zones and types of 
+commercial agriculture;
+	the development of national business plans and tailored packages for specialized 
+export crops (such as spices, cut flowers, fruits and vegetables);
+	area irrigation through multi-purpose dams; 	measures to improve land tenure security, and to make land available where 
+feasible for large-scale commercial farming; and 
+	Reforms to improve the availability of fertilizer and seeds.
+Recent Developments in Agricultural Sectors 
+Ethiopia is endowed with abundant agricultural resources and has diverse ecological 
+zones. Agriculture is the mainstay of the economy. The Present government of Ethiopia has identified key priority intervention areas to increase productivity of smallholder farms and expand large-scale commercial farms. Under the new administration, the government has renewed emphasis to develop the agriculture sector and ensure food security. Among the top priorities identified by the government are: small and large-scale irrigation development, financing agricultural inputs, increasing productivity of crops and livestock, improving agricultural production methods using mechanization, post-harvest loss reduction, developing a research-based food security system, and natural resource management. In addition, as part of the Home-Grown Economic Reform Agenda, the government is looking to the agro-processing sector as one engine to spur future economic growth.
+7.3 Problems of the Agricultural Sector 
+At the end of this section, you will be able to: 
+	understand major problems in the sector.
+	explain the different measures to alleviate problems in agricultural sector .
+
+--- [PAGE BREAK] ---
+
+7.3 Problems of the Agricultural Sector Grade 11 Economics Student Textbook
+176
+Start-up Activity
+1. What kind of agricultural problems prevails in your locality?
+2. What are the possible measures that people in your locality 
+take to overcome the problems they face in the agricultural sector?
+  
+Agricultural Problems:
+A. Natural problems: these problems are related to recurrent drought and its 
+negative effects. Almost all the farming and livestock practices in the highlands of Ethiopia depend on rainfall. The variability of rainfall in time and amount affects the country’s crop production and live-stock rearing; millions of cattle have died. 
+B.  Human made problems:  these are negative effects that result from the social and 
+economic practices. 
+	Land fragmentation: in rural Ethiopia, where the average landholding size is 
+shrinking over time, land fragmentation and over-cultivation are inevitable. 
+	Lack of infrastructure: transportation and communication facilities are poorly 
+developed in rural Ethiopia. About 75% of rural household farms are located far away from transportation and communication lines, and this that prevents farmers from accessing proper markets and information about prices for their products. 
+	Lack of credit facilities : this prevented farmers from using even the meager 
+resources available at hand. Now, however, reforms have created accesses to micro-finance loans, opening the gate to increasing small holder productively . 
+	Lack of effective land-ownership entitlement: without effective land ownership 
+entitlement, there will be poor work attitudes, improper use of common resources, and poor output. 
+	Erosion and land degradation : erosion and degradation, contribute to the 
+recurrence of drought. Without preventative measures, this situation will accelerate in the near future, putting millions of hectares out of use. 
+	Traditional practices : these are rural practices that result in misusing work time, 
+unproductive consumption and retaining resources especially livestock resources unscientifically, resulting in very low output per ox, sheep, goat, etc. 
+	The use of backward technology. 
+
+--- [PAGE BREAK] ---
+
+7.4 Specific Policies and Strategies of the Industrial Sector  177UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+	Inadequate rural markets. 
+Possible Remedies: 
+Reduce the prevailing heavy dependence on rain-fed agricultural practices by: 
+	promoting the use of local streams and lakes for irrigation purposes of various 
+scales 
+	promoting and expanding the storage of rain water in shade to reduce the rate of 
+evaporation and to enable people to store water for longer periods of time
+	expanding the number of afforestation and reforestation schemes through a 
+structured and financed agency or office 
+	production of drought-resistant crops in drought-prone areas so that the recurrence 
+of acute shortages of food will be minimized
+	pursue an effective land-ownership right so that the farmers will develop long-
+term developmental commitments 
+	promotion of extension services supported with consistent capacity-building tasks
+	promote committed literacy campaigns to help farmers understand price and farm-
+technique information
+	promote infrastructure facilities as per their availability
+7.4 Specific Policies and Strategies of the Industrial Sector  
+After completing this section, you will be able to: 
+	analyze the industrial sector policies and strategies of Ethiopia pre-1974.
+	outline the industrial sector policies and strategies of Ethiopia during the Derg regime. 
+	summarize the industrial sector policies and strategies of Ethiopia during the Ethiopian People’s Revolutionary Democratic Front (EPRDF) Regime. 
+Start-up Activity
+1. What are the major characteristics of the industrial sector in Ethiopia?
+2. Discuss the role of the industrial sector in Ethiopian economy?
+3. How industrial sector is linked to the other sectors the agricultural sector?
+Modern economic history has proven time and again that the socioeconomic transformation of a certain society can rarely be achieved without industrialization. The astounding 
+
+--- [PAGE BREAK] ---
+
+7.4 Specific Policies and Strategies of the Industrial Sector  Grade 11 Economics Student Textbook
+178success of several Asian economies over the past half-century shows evidence of the role 
+of industrialization as the surest way to reduce poverty. However, industrialization is not a structural inevitability. Industrialization requires careful management of policy options and consistent monitoring of sectorial dynamics. 
+7.4.1 The Imperial Regime (pre-1974)
+A conscious move to stimulate industrial growth began in the mid-1950s. The plan envisaged achieving industrial development through the development of import-substituting light industries which produced consumer goods for the domestic market. In the plan it was anticipated that foreign direct private investment would play the leading role in financing the investment capital required for the sector. Various policy measures were introduced to encourage investment in manufacturing including protection of the domestic industry through high tariffs and banning of certain imports, fiscal incentives, and provision of credit. The plan also foresaw other roles for the government in boosting industrial development including infrastructure and human resource development and direct investment in selected sectors mainly those which require high capital such as oil refinery, cement, sugar, and textile.
+The driving philosophy of the industrial policy in the imperial period can be characterized 
+as in favor of market and private sector but sought gaps whereby the government should play a role including direct ownership in selected sectors. In practice, the incentive structure was biased towards import-substituting, larger, capital-intensive, and foreign-dominated industrial activities.
+The implementation of these initiatives attracted foreign investors and gave boost to the 
+manufacturing sector in Ethiopia. However, by the end of the plan period, the overall industrial base of the country remained weak and was characterized by a dual structure – a rudimentary small-scale and handicraft sub-sector and a modern medium-large-scale sub-sector, each contributing about half of the manufacturing value added. In this period the modern medium- and large-scale manufacturing sector (MLSM), which employs ten or more people and use power-driven machinery, was predominantly foreign owned.
+ 
+ 7.4.2 The Derg Regime (1974-91)
+The military government nationalized most of the MLSM enterprises, which were later reorganized under state corporations. The government also declared ‘a socialist economic 
+
+--- [PAGE BREAK] ---
+
+7.4 Specific Policies and Strategies of the Industrial Sector  179UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+policy’ and introduced various restrictions on the private sector and the market. Private 
+investment was restricted to not exceed half a million Birr (approximately a quarter of a million US$) and entrepreneurs could participate in only one venture. Price controls were instituted covering a wide range of products and the labor market was highly regulated.  Imports were also subjected to quantitative restrictions and higher tariffs in this period. 
+The manufacturing sector exhibited a sharp decline particularly in the first few years 
+following the revolution. In 1977/78 the government initiated a successive production campaign locally known as ‘zemecha’ to improve productivity mainly through increasing capacity utilization and have partly reversed the declining trend. Nevertheless, the government had no industrial policy per se until the mid-1980s. The main focus of the industrial development plan in this period was to promote the import-substituting and labor intensive industries. The Public sector investment was considered as the main mechanism in progress towards industrialization. In March 1990, the regime adopted a mixed economic policy to shift the country from one of a centrally managed economy to a modest liberal economy. This initiative was, however, too late and short-lived without bearing fruit, as there was a regime change in May 1991.
+7.4.3 The Post-1991 Regime
+In 1998, the Ethiopian government adopted an export promotion strategy in an effort to address the lack of progress in export diversification. The strategy aimed at promoting high value agricultural exports (e.g. horticulture products and meat) and labor-intensive manufacturing products (clothing, textiles, leather and leather products). This strategy was, nonetheless, relatively narrow in scope. A comprehensive industrial policy was then formulated in 2002/03.  In 2002/03, after a decade in power, the EPRDF-led government formulated a comprehensive industrial development strategy (IDS).  The IDS is based on the Agricultural Development Led Industrialization (ADLI). 
+The Industrial Development Strategy (IDS) adopted in 2003 emphasized: 
+	export-led industrialization, and focused on labor-intensive industries, 
+	the development of infrastructure to support rapid economic growth, and	the development of small enterprises for massive job creation and poverty 
+reduction 
+Fundamental principles of the strategy are: 
+	considering the Private Sector as an Engine of the Industrial Development 
+Strategy
+
+--- [PAGE BREAK] ---
+
+7.4 Specific Policies and Strategies of the Industrial Sector  Grade 11 Economics Student Textbook
+180	Implementing the Agricultural Development Led Industrialization Principle. 
+	Implementing the export-led industrialization principle.	Focusing on the expansion of labor-intensive industry direction.	Implementing effective domestic-foreign investment partnership method.	Implementing the direction where the government will play a leading managerial 
+role.
+	Implementing the principle that encourages the active participation of the 
+public. 
+	That industrial policy was more concretized into action by various sub-sector 
+strategies and by the successive development plans.
+The 2003 IDS declared priority sectors for government direct support which include:
+	textile and garment, meat	leather and leather products 	other agro-processing industries (e.g. sugar and sugar related industries)	construction industry and the micro and small enterprises (MSEs)
+The strategy recognizes the role of the private sector as an engine in the industrialization 
+process. It argues for the need to make concerted efforts to enhance the private sector to discharge its leading role given that it was weakened by the deliberate policy of the previous regime. The document also made a clear distinction between ‘rent-seeking’ and ‘developmental’ capitalists and the need to curtail the former and promote the latter. In contrast to the neo-liberal advice the strategy explicitly argues for a strong role of the state; not merely as a facilitator but also as a leader (i.e., providing direct support, coordinating and guiding the private sector). Inspired by the East Asian experience the, government has recently introduced the language of ‘developmental state’ as its policy principle regarding the state-business relationship. The strategy cites two important mechanisms in which the government could engage:
+	promote the private sector; creating a conducive environment,
+	provide direct support for selected sectors.
+Industrial Park Development in Ethiopia 
+Since the 1960s, an increasing number of countries have embarked on the road to promote 
+
+--- [PAGE BREAK] ---
+
+7.4 Specific Policies and Strategies of the Industrial Sector  181UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+industrialization and economic restructuring through industrial parks. For developing 
+countries, industrial parks can maximize resource integration for limited production factors within a certain spatial scope. By attracting labor and capital-intensive domestic and foreign investment in manufacturing and service industries, industrial parks not only increase job opportunities, wages and skills of local workers but establish links to global value chains through participating in international competition, making full use of comparative advantages to promote the upgrading of industrial structure, and constantly improving the country’s position in the international division of labor. Currently, the industrial park economy has become a global trend.
+Industrial park development in Ethiopia is characterized by: 
+	investment area opens for domestic and foreign direct investment).
+	 state-of-the art industrial parks under construction.	 located along key economic corridors, connected to ports by road and electric-
+powered railway lines with close proximity to high labour force pool. 
+Anchored on the principles of: 
+	Specialized Parks: enhancing economy of scale and efficiency through the 
+development of specialized/clustered industrial parks
+	Export Promotion : government provision of industrial park incentives targeted at 
+increased export performance and competitiveness
+	Sustainability : maintaining high environmental standards through the use of 
+renewable energy and zero liquid discharge (ZLD) technology
+	Vertical Integration : enhancing forward and backward linkages in the economy 
+	Skills development and competitiveness : developing workers’ skills for enterprise 
+competitiveness.
+The industrial parks in Ethiopia have contributed significantly to the nation’s industrial development in terms of creating employment, increasing government revenue and export, diversifying the industrial products, attracting foreign director investment, and attracting foreign exchange. Some newly built industrial parks have also started to implement sophisticated technology and introduce it to the local manufacturing sector .
+7.4.4 Problems of the Industrial Sector  Post 1991 
+1. Lack of finance: the agricultural sector not been capable of generating the required 
+surplus for the industrial sector. Industries are highly import-dependent. This means 
+
+--- [PAGE BREAK] ---
+
+7.4 Specific Policies and Strategies of the Industrial Sector  Grade 11 Economics Student Textbook
+182that they have not been net savers and hence, have no surplus.  Given such a low saving 
+rate, it is difficult to undertake industrial investment. High collateral requirements by the formal lending institutions have aggravated the problem of financial shortage. 
+2. Marketing problems: the market problems arise due to:  
+	Weak domestic demand for manufacturing output — this is due to the subsistence 
+nature of agriculture on which the vast majority of the people rely for food, etc. As a result, the purchasing power of the people is very low. 
+	Lack of marketing information about both local and export markets. 	Strong competition from cheap imports.  	A consumer bias against local products. 
+3. Technological Problems: these  may reveal themselves in one of the following ways: 	Lack of sufficient information on appropriate technology. This is related to the 
+shortage of local institutions involved in technological support services. 
+	 The technology in Ethiopia today is not developed based on available local raw 
+materials. This limits the linkage. It rather makes the shortage of foreign currency of the country. The ratio of imported raw material is too high for Ethiopian local manufacturing to flourish. The situation is worse in basic iron and steel, and motor vehicles, trailers, and semi-trailers 
+	 The technology is also capital-intensive. This approach is basically not 
+recommended for economies like Ethiopia where unemployment is rising. 
+4. Input related problems: the high cost and shortage of foreign exchange for imported 
+inputs has resulted in a shortage of raw materials as the second most serious problem, the most serious of which are market-related problems. There are also other problems policy problems and human-resource-related problems in relation to lack of skilled manpower and absence of industrial discipline and work ethics. These and other problems do not only limit new investments, but also reduce the productive capacity of the already existing enterprises.
+ 
+7.4.5 Possible Remedies for the problems of Industrial Sector  
+By way of creating a conducive business environment for the development of the private sector, the following concrete intervention areas among others are required:
+	maintaining macroeconomic stability
+	 building a functioning and well-regulated financial sector 	 creating dependable infrastructure services
+
+--- [PAGE BREAK] ---
+
+7.5 The Service Sector Policies and Strategies in Ethiopia 183UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+	 developing skilled and effective human resource 
+	creating efficient civil service and legal framework 	developing industrial zones in the major cities and towns with all required 
+infrastructure facilities
+In addition improving the ease of doing business has been singled out as one of the priority 
+areas for economic reform in Ethiopia. This strategy, which is aimed at improving the investment climate for local and foreign businesses, will be critical in the coming years as Ethiopia shifts from public-sector led growth to one increasingly driven by private sector players. In particular, maintaining the momentum of domestic investment while also sustaining current FDI inflows will be dependent on offering a much improved investment climate that removes key bottlenecks to doing business and widens the scope of investable opportunities. 
+7.5 The Service Sector Policies and Strategies in Ethiopia 
+After completing this section, you will be able to: 
+	analyze the service sector policies and strategies of Ethiopia pre-1974.
+	discuss the service sector policies and strategies of Ethiopia during the Derg Regime. 
+	explain the service sector policies and strategies of Ethiopia during the EPRDF and the recent government. 
+Start-up Activity
+1. What are the characteristics of the service sector in Ethiopia?
+2. Discuss the role of service in the Ethiopian economy?
+This sector is composed of various sub-sectors include trade, hotels and restaurants, transport and communication, education, banking and insurance, public administration and defense, health, and other services. The service division includes a wide variety of industries, but they can be categorized into primarily consumer-oriented (providing a service directly to a consumer), primarily business-oriented (providing a service directly to another business) or mixed (providing services to both businesses and individual consumers). Alternately, the activities of the services division can be described in reference 
+
+--- [PAGE BREAK] ---
+
+7.5 The Service Sector Policies and Strategies in Ethiopia Grade 11 Economics Student Textbook
+184to their economic activities as: physical, intellectual and aesthetic. 
+	 Physical activities: involve working with objects; examples include repairing 
+cars, hairdressing and cooking. 
+	 Intellectual activities: involve providing education or training at such levels as 
+university and vocational school. 
+	The aesthetic activities: entail providing consumers with artistic experiences 
+such as those offered by museums, theater performances, art shows, and musical 
+performances.
+7.5.1 Education Sector Policies and Strategies 
+Pre-1974 generally speaking, in this era the government did not adopt strategies for 
+the education sector. The Imperial Government initiated a comprehensive study of the education system. The education sector review (ESR) recommended attaining universal primary education, ruralizing the curricula through the inclusion of informal training, equalizing educational opportunities, and relating the entire system to the national development process. However, the ESR was not published until February 1974. Post-1974: the military government dismantled the feudal socioeconomic structure 
+through a series of reforms that also affected the educational sector. By the early 1975, the government had closed Haile Selassie I University and all senior secondary schools had deployed some 60,000 students and teachers to rural areas to participate in the government’s development through cooperation campaign (commonly referred to as Zemecha). In 1975, the Derg Regime nationalized all private schools. Education for socialist consciousness, education for production and education for science and research were the objectives and directives set during the military government. The Military Government also worked towards a more even distribution of schools by concentrating its efforts on small towns and rural areas that had been neglected during the Imperial Regime. Post-1991: the gross enrollment ratios for primary and secondary education have since 
+showed a Post 1991, the ESDP (Education Sector Development programme) was launched. This program has the following six components: 
+1. Primary education: this includes the construction, expansion, and rehabilitation of primary schools; curriculum revision and development; upgrading of teachers’ skills; and increasing the supply of textbooks. 
+2. Secondary education: expansion of school services; curriculum revision and development; and increases in the supply of educational equipment and material. 
+3. Technical-vocational training: under this component, there are plans to expand 
+
+--- [PAGE BREAK] ---
+
+7.5 The Service Sector Policies and Strategies in Ethiopia 185UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+programs that train students in technical and vocational fields. 
+4. Teacher training: this includes the upgrading and expansion of training institutions; 
+in-service (on-the-job) training of primary school teachers; curriculum revision and development; introduction of distance learning and alternative education methods; and the training of school directors or coordinators in school management. 
+5. Tertiary education: the goal is to meet the growing demand for teachers, engineers, health specialists, public administrators, and others. 
+6. Institutional capacity building: upgrading the Ministry’s and Regional Education Bureaus’ skills in planning, financial management, implementation, monitoring and evaluation of policies and strategies. 
+Problems of Education Sector
+	problems of relevance, quality, accessibility and equity
+	great disparity  between the relatively developed and undeveloped regions and 
+between rural and urban areas 
+	gender inequality	insufficient participation of stakeholders 	inadequate facilities, insufficient training of teachers, overcrowded classes, and 
+shortage of books and other teaching materials 
+	quality of the education is not up to standard level 	financial and resource constraints; 	lack of alternatives in resource mobilization in addition to the public budget; 	high drop-out rate
+Possible Remedies 
+	Expand the participation of parents, teachers and communities in education 
+affair. 
+	Provide adequate student textbooks, teaching materials and various school 
+facilities. 
+	Narrow the inequalities.	Inspect the private education sector to ensure the minimum necessary quality, 
+standard of certification, service fees, etc. 
+	Improve the quality of teachers, in terms of training and motivation. 
+
+--- [PAGE BREAK] ---
+
+7.5 The Service Sector Policies and Strategies in Ethiopia Grade 11 Economics Student Textbook
+1867.5.2 The Health Sector Policies and Strategies 
+The Ethiopian health care delivery system has historically been unable to respond 
+quantitatively and qualitatively to the health needs of the people.  Definite policies and strategies for the development of health service were not formulated until 1963. However, efforts were made to include the health sector into the development plans. After the 1974 revolution, Ethiopia embarked upon different approaches towards solving health-sector problems, through the declaration of primary health care in a ten-year development plan in 1978. In these approaches, priority was given to creative types of strategies. It was highly centralized and there was little collaboration between public and private providers. 
+The Ethiopian Transitional and Federal Government formulated the 1993 Health Policy 
+and Strategy. Goals of the Federal Government and the regional administrations included reorganizing health services to make them more cost effective and efficient so that they contribute more to the overall socioeconomic development effort of the country.   Following the change of government in 1991, a number of political and socioeconomic reform measures were put in place. Two of these were the development and introduction of a new National Health Policy in 1993 and the formulation of a comprehensive rolling 20-year Health Sector Development Plan (HSDP) in 1997. Both are the results of the critical assessment and analysis of the nature and causes of the country’s health problems. The HSDP is now in its third phase (HSDP III). The major goals of the health policy are:
+ decentralization of the health care system, 
+ development of preventive, facilitative, and curative components of health care, 
+ assurance of accessibility of health care for all segments of the population, 
+ and the promotion of private-sector and NGO participation in the health sector . 
+The national health policy focuses on a comprehensive health service delivery system to address:
+	communicable diseases 	malnutrition 	improving maternal and child health 
+The health service delivery system is decentralized with the responsibility for implementation being largely devolved to the districts, which operate on the basis of block funding for the sector. The policy emphasizes inter-sectoral collaboration, particularly in ensuring family planning for efficient family health and population planning, in formulating and implementing an appropriate food and nutritional policy, and in accelerating the provision 
+
+--- [PAGE BREAK] ---
+
+7.5 The Service Sector Policies and Strategies in Ethiopia 187UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+of safe and adequate water for the urban and rural populations. 
+The health policy has also identified the priority intervention areas and strategies to be 
+employed to achieve the health policy objectives. Major components of the health care strategies are: 
+	preventive and curative health service 
+	 curative and rehabilitative care 
+	 drugs and medical supplies 
+	 health information, documentation, and processing 
+	 organization and management of the health delivery system 
+	 human-resource development and management 
+	 research and development 
+	financing the health care delivery system 
+The most significant childhood and maternal illnesses and communicable diseases are: COVID-19, HIV/AIDS, malaria and tuberculosis (TB) 
+Problems of the Health Sector 
+	limited physical access to health facilities and the absence of health care facilities	the available health care facilities are unevenly distributed across regions 	 inadequate budgetary allocation and low levels of management	 low quality of the facilities 	 maternal, infant, and child mortality rates are still high	Inadequate and poorly maintained infrastructures and equipments, shortage of 
+trained health personnel, and the unavailability of drugs and pharmaceutical supplies.
+Possible Remedies 
+	Strengthen and expand existing health programs. 	Provide family planning services at all levels of health service delivery stations. 
+	Strengthen reproductive health content in health education programs. 
+	Strengthen and expand training of health personnel in collaboration with 
+relevant institutions. 
+	Set standards for the provision of family planning services.
+ 
+
+--- [PAGE BREAK] ---
+
+7.5 The Service Sector Policies and Strategies in Ethiopia Grade 11 Economics Student Textbook
+1887.5.3 The Transport Sector 
+During the military government, the transport sector was put under close state regulation 
+and control. The entire commercial truck and passenger transport system was under strict control of the government through Proclamation No.107/1976. The policy changes in the sector that occurred on May 8, 1992 heralded the deregulation of the freight transport industry. The major liberalization of the transport industry began with government Proclamation No. 14/1992. This emphasizes the promotion of efficiency and equitable distribution. Following the 1992 Proclamation, many of the private commercial freight and passenger transport activities left the corporation and formed their own independent association. Some, however, continued as associates of government enterprises. The other content of the new policy allows: 
+	free entry into existing associations, 	obtaining licenses to form new associations
+ 
+7.5.4 The Tourism Sector 
+Tourism should have been one of Ethiopia’s largest industries. This is because Ethiopia has so many historical and natural sites and diverse cultural tourism attractions, but unfortunately the country has been unable to realize the economic benefits it deserves from the sector. Nonetheless, in recent years, due to the development of infrastructures, like roads and hotels, and to the crucial role of the government in marketing and changing the image of the country through its embassies, tourism has shown significant growth despite the economic crisis in the world. However, there is still a long way to go before Ethiopia will fully exploit the benefits of the tourism sector efficiently and secure its appropriate position in the economic sectors. In 2009, the government launched a tourism development policy to increase tourist arrivals and optimize returns from the sector. The guiding principles are: 
+ guiding the sector in a broad-based development framework
+ developing existing and new tourism attractions and products
+ expanding the infrastructure and tourist services that are vital for the growth of the sector 
+ ensuring that the country benefits from the sector by being sufficiently competitive in international tourism markets 
+ solving the serious limitations in capacity that are apparent in the industry
+
+--- [PAGE BREAK] ---
+
+Unit Summary 189UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+Due to too little attention and lack of finance, most of the issues included in the policy 
+document are still in the process of implementation.
+Major Challenges of the Tourism Sector and Suggested Solutions 
+Tourism has a considerable and unexploited potential in the development of the Ethiopian economy. But the sector has major obstacles that prevent it from growing as expected.  Some of these are due to lack of: 
+	coordination among tourism stakeholders 	attention to domestic tourism 	awareness and incentives among the local people	 Shortage of trained labor 	infrastructure 	quality service provision 	promotion work 
+Improving transportation facilities, allocating an adequate government budget, improving management to enhance the quality of the sector, providing manpower training and promoting the country’s tourism resources can address the challenges of the tourism sector.
+ 
+Unit Summary and Review Questions 
+Unit Summary
+Under the Imperial Era, development policies favored industrial development, neglecting the agricultural sector and worked mainly with the better-off and commercial farmers in and around the major project areas. 
+From 1974 to 1991 periods, however, the political environment favored collective and state 
+farms at the expense of individual farmers. Distorted macroeconomic policies, political unrest and massive villagization and settlement programmes undermined the contribution that the rural development policies could have made.
+The  post-1991 period is also marked with the most prominent and enduring economy-wide 
+strategies such as Agricultural-Led Industrialization (ADLI), the Sustainable  Development and Poverty Reduction Program (SDPRP), Participatory and Accelerated Sustainable Development  to Eradicate poverty (PASDEP) and successive growth,  transformation plans (GTP I and II) and the  ten years prosperity plan. 
+
+--- [PAGE BREAK] ---
+
+Review QuestionsGrade 11 Economics Student Textbook
+190Review Questions
+Part I: True or False
+Write “True” for the correct statements and “False” for the incorrect ones.
+1. The current development strategy adopted in Ethiopia is Industrial Development 
+Led Agricultural Strategy. 
+2. The uni-modal approach gives priority to the intensification of agricultural practices for smallholders.
+3. The current approach to improving agricultural sector is the bimodal approach. 
+4. The Derg Regime used Export Promotion Industrial Strategy. 
+5. The industrial development strategy of Ethiopia is in line with the ADLI. 
+Part II: Multiple Choices
+For the following questions choose the correct answer from the given alternative.s
+1. The bimodal approach pursues:
+A. the intensification of the small holder farm system
+B. the promotion of large scale farming 
+C. the promotion of exportable agricultural products
+D. all of the above  
+2. Which one of the following is true about the policy reform during the early transitional government (1991-1994)? 
+A. Declared collectivization and villagization as undesirable. 
+B. Agricultural Development Led Industrialization (ADLI) strategy was endorsed 
+during this period. 
+C. Removal of substantial taxation of agriculture, market liberalization and 
+devaluation.
+D.  The FDRE constitution was endorsed during this period.
+E. All of the above. 
+3. Which of the following is odd: 
+A. Chilalo Agricultural Development Unit 
+B. Welayita Agricultural Development Unit 
+C. Arsi Rural Development Unit 
+D. none of the above
+4. The  first poverty reduction strategy to be introduced by the EPRDF was:
+A. plan for accelerated and sustainable development to end poverty
+
+--- [PAGE BREAK] ---
+
+Review Questions 191UNIT 7: MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA 
+B. peasant agricultural development extension projects
+C. poverty Reduction Strategy Paper
+D. agricultural development led industrialization
+E. all of the above
+5. Which of the following is false about GTP II? 
+A. It is operated within the framework of the ADLI.
+B. It recognizes the wider developmental needs of rural areas.
+C. It promotes agricultural sector development.
+D. GTP II’s main objectives and pillars are different from that of GTP I.
+E. All of the above.
+Part III: Discussion Questions
+Discuss the following questions briefly. 
+1. Discuss the shortcomings of the industrial development strategy of the EPRDF .
+2. What are the major objectives of Agricultural Development Led Industrialization? 
+3. What are the major problems and possible remedies for the education sectors?

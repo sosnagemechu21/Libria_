@@ -1,0 +1,1940 @@
+=================================================================
+Book: chemistry.pdf
+Chapter 6: HYDROCARBONS AND THEIR NATURAL SOURCES
+Pages: 240 to 306
+=================================================================
+
+UNIT/gid00023
+Unit Outcomes 
+At the end of this unit, you will be able to
+" discuss the historical development of organic chemistry; 
+"classify organic compounds;
+"write the general formula of alkanes, alkenes and alkynes;
+"name simple alkanes, branched-chain alkanes, simple alkenes, branched-
+chain alkenes and simple alkynes;
+"write the molecular and structural formula of simple alkanes, branched chain alkanes, simple alkenes, branched chain alkenes and simple alkynes;
+"explain isomerism; 
+"draw the possible isomers of alkanes, alkenes, and alkynes;
+"explain the physical and chemical properties; and the general methods of the preparation of alkanes; alkenes, alkynes, and benzene;
+"list  the major natural sources of hydrocarbons;
+"demonstrate scientific inquiry skills: observing, classifying, communicating, measuring, asking questions, interpreting data, drawing conclusions, applying concepts, predicting and problem-solving.HYDROCARBONS AND THEIR NATURAL SOURCES   
+Hydrocarbons and their Natural Sources
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+2356.1 Introduction
+1.Consider the common say,-“The Kingdom of Heaven 
+Runs on Righteousness, but the Kingdom of Earth Runs on Alkanes”. Argue for and/or against this say! 
+2.What sort of materials do you use as a source of energy to cook your food or for transport? Do you know the chemical components of gasoline or diesel oil (‘naphtha’) that people use for automobiles, ‘bajaj’ or a motorbike? How is it obtained? 
+3.Have you encountered a biogas plant in your area? What is its use? How does it work? 
+4.Discuss the socio-economic impacts of plants as a source of chemicals used in traditional medicine and doping. 
+5.Can you define organic chemistry or organic compounds? What about the hydrocarbons? Start-up Activity 
+The hydrocarbons that you are going to study in this unit are a class of organic compounds. But, what are organic compounds and organic chemistry? The answers to these questions are all around you.
+Most of the foodstuff that we consume every day such as fruits, vegetables, sugar, 
+fats, starch, and vinegar are basically organic compounds. Similarly, substances 
+such as pesticides, herbicides, fuels, dry cleaning chemicals, soaps and detergents, pharmaceuticals, alcoholic beverages, etc. are also organic compounds. Every living organism is made of organic compounds. A large number of organic compounds have been isolated and identified from plants and animals. The organic compounds that are synthesised by living organisms are called natural products . Although plants 
+have principally been used as a source of useful organic compounds such as those in traditional medicine, they also provide some organic compounds that are considered drugs of abuse because they lead to addiction and have negative socio-economic effects. Psychotropic plant chemicals such as nicotine from tobacco plant, cathinone from Chat (khat); from Catha edulis ; opium (morphine) from poppy plant and cocaine from 
+coca leaf are some examples. Some of these drugs are also used in doping. Doping is the misuse of certain substances and methods to enhance sporting performance and stamina. Although these compounds are perceived as useful to boost zealous, increase energy, and decrease fatigue, they have serious side effects such as personality disorder, low productivity, increased accidents, reduction of competitiveness, inability to cope with tasks that require higher-level judgment and fine motor skills.  Hydrocarbons and their Natural Sources
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+236Chemistry Grade 10 Hydrocarbons and their Natural Sources
+6.1.1 History of Organic Chemistry
+At the end of this section, students will be able to narrate the historical development 
+of organic chemistry. 
+The science of organic chemistry began to flourish with the demise of a nineteenth-
+century theory called Vitalism. According to Vitalism theory, organic compounds were only those that came from living organisms, and only living things could synthesize organic compounds through the intervention of a vital force. Inorganic compounds were considered those compounds that came from non-living sources. The German chemist Friedrich Wöhler , however, discovered in 1828 that an organic compound 
+called urea (a constituent of urine) could be synthesized in the laboratory by evaporating an aqueous solution of the inorganic compound ammonium cyanate. With this discovery, the synthesis of an organic compound began the evolution of organic chemistry as a scientific discipline. Since Wohler’s discovery, chemists have developed a remarkably sophisticated ability to design and synthesize new organic compounds in the laboratory-medicines, dyes, polymers, and a host of other substances that are helpful to society.  
+O
+NH2 H2N
+Urea Ammonium cyanateHeatNH4+ _OCN
+To date, over 50 million organic compounds are known. The list included organic compounds isolated from natural sources and also those which were synthesized in the laboratories. All of the organic compounds whether of synthetic or natural origin contain the element carbon. Therefore, organic chemistry, today, is defined as the study of carbon compounds except the oxides of carbon, carbonates, hydrogen carbonates, 
+cyanides and cyanates . But why is carbon special? If you have a look at the periodic 
+table, you will see over a hundred elements listed there. The question that comes to mind is this: why should an entire field of chemistry be based on the chemistry of compounds that contain this specific element, carbon? 
+The reason is linked to the unique property of carbon called catenation. Catenation is 
+the ability of atoms of the same element to join together to form short or long chains and rings. Carbon atoms can form strong covalent bonds to one another to form rings and chains of carbon atoms. And also they can form strong bonds to elements such as hydrogen, nitrogen, oxygen, and sulfur. Because of these bond-forming properties, carbon can be the basis for the huge diversity of compounds . A few other elements 
+like sulphur, silicon and boron show this behavior, but to a much lesser extent. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+237Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Form a group, discuss on the answers for the questions 
+under this activity, and present your conclusions to the 
+class.1.Despite the demise of vitalism in science, the word ‘organic’ is still used today by some people as ‘organic vitamins’, ‘organic fertilizers’, or ‘organic food.’ What do you understand from these terms? Is pure ‘natural vitamin C from orange juice’, for example, healthier than pure ‘synthetic vitamin C’; or both are important? Discuss! 
+  Activity 6.1 
+6.1.2 Structural Representations of Organic Molecules
+Before we proceed to the main topic of this unit-the hydrocarbons, we shall briefly 
+review the bonding concept. Recall from your Grade 9 that carbon has four valence electrons and it can form four covalent bonds with other atoms. You also studied Lewis structure- a representation of covalent bonding in which shared electron pairs of covalent bonds are shown as pairs of dots or lines between two atoms and lone pairs are shown as pairs of dots on individual atoms. However, as the size of the compound increases, it becomes difficult to portray the structure of molecules with the use of Lewis structure. This is why scientists have developed other structural representations including structural formula, condensed structural formula, bond-line representation, and polygon formula. Let us take a look at these structures.
+a. Complete Structural Formula
+Complete Structural formula is obtained by representing the two-electron covalent bond by a single dash. A single dash represents a single bond, a double dash represents a double bond and a triple dash represents a triple bond. Lone pairs of electrons on heteroatoms such as oxygen, halogens and more, may or may not be shown. Methane (CH
+4), for instance, contains one carbon atom and four hydrogen 
+atoms. The carbon atom contributes its 4 valence electrons and the four hydrogen atoms contribute four electrons (each H atom contributes one electron). Therefore, the Lewis structures for a methane molecule having 4 + 4 = 8 electrons is drawn following the rule (see your grade 9 lesson) as:
+H H
+H H
+Methane Methane
+Structural Formula Lewis FormulaH H H H C C
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+238Chemistry Grade 10 Hydrocarbons and their Natural Sources
+b.Condensed Structural Formula
+The condensed structural formula is an abbreviated form of structural formula. It is 
+obtained by omitting some or all the dashes that represent covalent bonds. Hexane (C
+6H14) can be represented by the structural formula or the condensed structural 
+formula as shown below.
+Structural Formula Condesed Structural Formula
+The condensed structural formula can further be condensed by putting identical repetitive units in parenthesis and indicating their repetition using subscripts. For example, we can further condense CH
+3CH2CH2CH2CH2CH3 to CH3(CH2)4CH3.
+c. Bond-Line Structural RepresentationIn a bond-line structural representation, carbon and hydrogen atoms are not shown but are understood to be there based on the fact that each carbon forms 4 covalent bonds. The lines representing carbon-carbon bonds are drawn in a zig-zag fashion as exemplified by the bond-line structure for hexane and hexyl bromide: 
+  
+C6H14, hexane C6H13Br, hexyl bromideBr
+Only heteroatoms need to be indicated in bond line representation. The terminals 
+in the bond-line structures denote methyl (CH3) groups unless indicated otherwise 
+by a functional group, while the line junctions denote carbon atoms bonded to an appropriate number of hydrogen atoms required to satisfy the valency of the carbon atoms. Note that in hexyl bromide one of the hydrogens in the terminal CH
+3 on one 
+side of the structure is replaced Br leaving a CH2Br group.
+d. Polygon FormulaThere are many organic compounds, in which carbon atoms are not joined in a chain, but rather are joined in a ring. These cyclic compounds are usually represented by polygon using bond-lines without showing carbon and hydrogen atoms. The corners of a polygon represent a carbon atom and the sides of a polygon denote a carbon-carbon bond. Similarly, if an atom or a group of atoms other than hydrogen is attached to carbon, then that atom or a group of atoms manifest in this structure. As example, cyclopentane (C
+5H10), cyclopentanol (C5H10O), cyclohexane (C6H12), and 
+bromocyclohexane (C6H11Br) are depicted below:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+239Chemistry Grade 10 Hydrocarbons and their Natural Sources
+cyclopentaneOH
+cyclopentanol cyclohexaneBr
+bromocyclohexane
+6.1.3 Classes of Organic Compounds
+At the end of this section, students will be able to 
+"classify organic compounds; 
+"define the term functional group.
+Form a group, discuss on the following activity and 
+present your responses to the class.
+You are familiar with a classification in chemistry as well as biology. For instance, you have studied that the elements in periodic table are classified as metals, non-metals, and metalloids. What is the purpose of classification? Why don’t we deal with individual entities? What is the basis of classification? Why do you think we should classify organic compounds and 
+how? 
+  Activity 6.2
+We have noted in section 6.1 about the unique properties of carbon giving rise to a 
+very vast number of organic compounds known. Indeed, more and more are being 
+added to the list each day. Each of these compounds has its own physical properties, such as melting point and boiling point, and each has its own chemical reactivity. Chemists have learned through years of experience that organic compounds can be classified into families according to their structural features that are responsible for their properties so that members of a given family often have similar chemical behavior. 
+Thus, instead of having 50 millions of compounds with random reactivity, it is better 
+to have a few dozen families of organic compounds whose chemistry is reasonably 
+predictable. The structural features that make it possible to classify compounds into families are called functional groups.
+Functional Groups
+A functional group  is a group of atoms and/or bonds within a molecule that has 
+a characteristic chemical behavior. Chemically, a given functional group behaves in nearly the same way in every molecule it’s a part of. Table 6.1 lists the common 
+functional groups of hydrocarbons, name ending, and specific examples. It also gives 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+240Chemistry Grade 10 Hydrocarbons and their Natural Sources
+simple examples of their occurrence. The functional group of an alkene, for example, 
+is its carbon-carbon double bond. The functional group of an alkyne is its carbon–carbon triple bond. Alkanes do not have a functional group. Their molecules have carbon–carbon and carbon–hydrogen single bonds only, but these bonds do present in molecules of almost all organic compounds. In addition, C-C and C-H bonds are, in general, much less reactive than common functional groups. 
+Table 6.1 Some classes of organic compounds, their functional groups, name ending, 
+and examples.
+Organic compound Functional group Name ending Example
+Alkane - -ane CH3-CH3
+Ethane
+Alkene
+ -ene H2C=CH2
+Ethene
+Alkyne
+ -yne
+Aromatic
+        
+None
+6.2 Saturated Hydrocarbons: Alkanes (CnH2n+2)
+At the end of this section, students will be able to
+"define hydrocarbon;
+"define saturated hydrocarbon;
+"define homologous series;
+"drive the general formula of alkanes from  based on the number of hydrogen and carbon; 
+"write the first ten members of alkanes homologous series;
+"write the molecular formulas of alkanes from the given numbers of carbon atom. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+241Chemistry Grade 10 Hydrocarbons and their Natural Sources
+In unit 2, you have classified a solution as saturated, 
+unsaturated, or supersaturated based on the amount 
+of solute it contains relative to the maximum dissolving capacity of the solvent. In grade 9, you also studied that the valence of carbon is 4; meaning the maximum number of atoms that carbon can form bonds to is 4. Based on this analysis, can you classify the following compounds as saturated and unsaturated? 
+IV.H
+H CCH
+H
+I.H HCH H
+H H
+II.H H CCH H
+H H
+III.CC
+  Activity 6.3
+Compounds that contain only carbon and hydrogen atoms are called hydrocarbons . 
+Hydrocarbons may be classified as aliphatic ("fat-like") or aromatic (Figure 6.1A). 
+Aliphatic hydrocarbons exhibit a “fat-like” behavior. This includes alkane, alkene, alkyne, or their derivatives. Aromatic hydrocarbons are those hydrocarbons that contain a low hydrogen-to-carbon ratio. Benzene (C
+6H6), for instance, is a typical 
+aromatic hydrocarbon having a ratio of number of hydrogen atoms to number of carbon atoms only 1. 
+Figure 6.1  Classification of hydrocarbons, A as aliphatic and aromatic and B as 
+saturated and unsuturated. 
+Hydrocarbons may also be classified as suturated and unsaturated. Generally 
+speaking, compounds such as alkanes (e.g. methane, CH4), whose molecules contain 
+only single bonds are referred to as saturated compounds . Because they contain the 
+maximum number of hydrogen atoms per carbon atoms that the carbon compound 
+can possess. Remember from Grade 9 that the valency of carbon is 4. This means C can form a maximum of 4 covalent bonds with 4 hydrogen atoms because each hydrogen can form only one (valency of H is 1). Compounds with multiple bonds, such as alkenes (e.g. ethylene), alkynes (e.g. acetylene), and aromatic hydrocarbons (e.g. benzene), are called unsaturated compounds because they possess fewer than the maximum number of hydrogen atoms per carbon, and they are capable of reacting with hydrogen under proper conditions. Let’s begin with saturated compounds ! 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+242Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Alkanes
+Structures I and II in Activity 6.3  represent methane and ethane, respectively, the 
+typical alkanes. Alkanes are often described as saturated hydrocarbons : hydrocarbons 
+because they contain only carbon and hydrogen; saturated because they contain the maximum possible number of hydrogens per carbon. Alkanes are also occasionally called aliphatic compounds, a name derived from the Greek aleiphas , meaning “fat.” 
+Alkanes can be unbranched (normal) or branched. Table 6.2  lists the common names 
+and formulae of some members of the unbranched alkane family.
+Table 6.2 Some members of the unbranched alkane family. 
+Name No 
+of C 
+atomsStructure Molecular 
+formulaName No 
+of C 
+atomsMolecular 
+formula
+Methane 1 CH4CH4Undecane 11 ______
+Ethane 2 CH3CH3C2H6Dodecane 12 ______
+Propane 3 CH3CH2CH3C3H8Tridecane 13 ______
+Butane 4 CH3(CH2)2CH3C4H10Tetradecane 14 ______
+Pentane 5 CH3(CH2)3CH3C5H12Pentadecane 15 ______
+Hexane 6 CH3(CH2)4CH3C6H14Hexadecane 16 ______
+Heptane 7 CH3(CH2)5CH3C7H16Heptadecane 17 ______
+Octane 8 CH3(CH2)6CH3C8H18Octadecane 18 ______
+Nonane 9 CH3(CH2)7CH3C9H20Nonadecane 19 ______
+Decane 10 CH3(CH2)8CH3C10H22Eicosane 20 ______
+1. Consider Table 6.2  and answer the following questions
+i. What trends do you observe from the Table?ii.What does family name and specific name for a member hold in common?
+iii.Based on the trend you have observed from the Table, write the general formula for an alkane having “n” carbon atoms.
+iv.Using the general formula, complete the missing molecular formula in the Table for the members undecane through eicosane.
+v.Draw condensed structures and bond line representations for the first ten alkanes.   
+vi.Discuss the analogy in the usage of the terms “saturated” and “unsaturated” in this section and in unit 2. 
+  Activity 6.4
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+243Chemistry Grade 10 Hydrocarbons and their Natural Sources
+6.2.1 Alkane Homologous Series
+If you examine the alkanes in Table 6.2, you can notice that each alkane differs from 
+the preceding alkane by one −CH2− group. Butane, for example, is CH3(CH2)2CH3 and 
+pentane is CH3(CH2)3CH3. A series of compounds like this, where each member differs 
+from the next member by a constant unit, is called a homologous series. A homologous series has the following characteristics:"has a constant unit between two consecutive members;
+"has a general formula;
+"shows trends in physical properties and
+"exhibit the same reactivity (chemical property). Members of a homologous series are called homologues.
+1.Define homologous series. Describe characteristics of a homologous series.
+2. Determine if each statement about alkane homologous series is true or false.
+a. It has general formula and a name.b.Consecutive members differ by a constant (-CH
+2-) unit. 
+c. All members contain the same functional group.d. Consecutive members differ by a constant molecular mass of 14.Exercise 6.1
+6.2.2 Physical Properties of Alkanes
+At the end of this section, students will be able to explain the physical properties of 
+alkanes.
+Form a group, discuss on the following questions and 
+present your responses to the class. 
+You have learnt in unit 2, that particles in liquid and 
+solid state are hold together by intermolecular forces 
+while the gaseous state is characterized by absence of such forces. You have also studied that among the various intermolecular forces the dispersion forces are the ones possessed by nonpolar molecules and increases as molecular weight increases. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+244Chemistry Grade 10 Hydrocarbons and their Natural Sources
+You also learnt that polarity is the result of difference 
+in electronegativity of bonded atoms. Given the 
+fact that carbon and hydrogen atoms have similar electronegativity, answer the following questions:
+a. Are alkanes polar or nonpolar molecules?
+b.What is the intermolecular forces that could exist in alkanes that are liquids and solids at room temperature
+c.Which member of alkanes do you think are gases, lower mass or higher mass? Why?
+d.What happens to the boiling point and melting point of alkanes as number of carbon atoms or molecular masses increases? Can you explain your reasoning?
+e.Are alkanes soluble in water? Explain based on the like dissolves like rule you learnt in unit 2.
+  Activity 6.5
+At room temperature (25oC and 1 atm pressure), the first four members of the 
+homologous series of unbranched alkanes are gases (Table 6.3), the C5-C17 unbranched 
+alkanes (pentane to heptadecane) are liquids, and the unbranched alkanes with 18 and more carbon atoms are solids. As a class, the alkanes are the least dense of all groups of organic compounds. All alkanes have densities considerably less than 1.00 g mL
+−1 (the density of water at 4 °C). As a result, petroleum (a mixture of hydrocarbons 
+rich in alkanes) floats on water.
+Table 6.3 Physical properties and isomers of some members of alkane family.
+Name No of C 
+atomsPhysical state
+(at room temp)M.P 
+(oC)B.P 
+(oC)Density No of 
+isomers
+Methane 1 gas -183 -162 0.717 g/L 0
+Ethane 2 Gas -172 -89 1.35 g/L 0
+Propane 3 Gas -187 -42 2.02 g/L 0
+Butane 4 Gas -135 -0.5 2.48 g/L 2
+Pentane 5 Liquid -130 36 0.63 g/mL 3
+Hexane 6 Liquid -94 68 0.66 g/mL 5
+Heptane 7 Liquid -91 98 0.68 g/mL 9
+Octane 8 Liquid -57 126 0.70 g/mL 18
+Nonane 9 Liquid -54 151 0.71 g/mL 35
+Decane 10 Liquid -30 174 0.73 g/mL 75
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+245Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Explain each of the following facts about alkanes.
+1.Alkanes show regular increase in boiling point as their molecular weight 
+increases.
+2. Branching decreases the boiling point of alkanes.3. Alkanes are insoluble in water.Exercise 6.2
+6.2.3 Nomenclature of Alkanes
+At the end of this section, students will be able to
+"apply IUPAC rules to name straight and branched chain alkanes;
+"write the structural formulas of the first ten alkanes.
+Form a group, discuss on the following and present 
+your responses to the class.
+1.There might be many students in your class. Each student has his/her name? Can you explain the 
+purpose of naming? Is the way girls are named different from boys? If yes, why do you think?  Is there any pattern of systemic doing on the way girls and boys are named? Why do you think we have such a systematic naming for girls and boys? Discuss! 
+How do your parents call you? Like you are called in school or different? If you have a different name commonly used by your parents, do you mind telling it to your classmate as if it were your common name “my common name is ____?” How do you think parents select a common name to their children? Any criteria? 
+  Activity 6.6
+As the science of organic chemistry slowly grew in the 19th century, so too did the 
+number of known compounds and the need for a systematic method of naming them grow. Alkanes can be named in two ways, common names and IUPAC names.
+Common Names of Alkanes
+Lower members of the alkane homologous series have common names. The prefixes used in the common names are n- (normal), ‘ iso-’ and ‘neo-’. The prefix n- is used when 
+all the carbon atoms form a continuous chain.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+246Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Example 6.1  CH3CH2CH2CH2CH3CH3CH2CH2CH2CH2CH3
+       n-pentane    n-hexane
+Iso- is used when all of the carbon atoms form a continuous chain, except for the one
+next to the last carbon.
+CH3
+CH
+CH3 CH3CH3CH2CHCH3
+CH3
+Neo-is used when the central carbon is bonded to four other carbon atoms.Example 6.2:
+Example 6.3:CH3
+C CH3
+CH3CH3 CH3CH2CCH3CH3
+CH3isobutane isopentane
+neopentane neohexaneCH3
+CH
+CH3 CH3CH3CH2CHCH3
+CH3
+Neo-is used when the central carbon is bonded to four other carbon atoms.Example 6.2:
+Example 6.3:CH3
+C CH3
+CH3CH3 CH3CH2CCH3CH3
+CH3isobutane isopentane
+neopentane neohexane
+The System of IUPAC Nomenclature
+The system of nomenclature we’ll use in here is the one that was devised by the International Union of Pure and Applied Chemistry (IUPAC, usually read as eye-you-pac). The IUPAC nomenclature can be applied to both branched and unbranched alkanes.
+IUPAC Rules to Name Unbranched Alkanes
+Compounds like butane and pentane, whose carbons are all connected in a row, are called straight-chain alkanes , or normal alkanes . Compounds like 2-methylpropane 
+(isobutane), 2-methylbutane, and 2, 2-dimethylpropane, whose carbon chains branch, are called branched-chain alkanes. In unbranched alkanes , each carbon atom within 
+the chain is bonded to no more than two other carbon atoms and that unbranched alkanes contain only primary and secondary carbon atoms. Primary (connect directly to one carbon), secondary (connect directly to two carbons), and tertiary (connect directly to three carbons) carbon atoms, quaternary (connected to four other carbons). The names for several of the unbranched alkanes are listed in Table 6.2 . The ending 
+(suffix) for all of the names of alkanes is -ane . The stems of the names of most of the 
+alkanes (above C
+4) are of Greek and Latin origin. Thus the parent names for one, two, 
+three, four, and five become meth-, eth-, prop-, but-, and pent-.
+IUPAC Rules to Name branched-chain Alkanes
+A chemical name for branched alkanes typically has four parts in the IUPAC system of nomenclature: locant, prefix, parent, and suffix. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+247Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Locant __Prefix__ Parent __ Suffix
+Where are the substituents 
+and functional groups?What is primary functional groups?What are the substituentsHow many carbons?
+The prefix identifies the various substituent groups in the molecule, the parent selectsthe main part (longest chain) of the molecule and tells how many carbon atoms are in that part, the locants give the positions of the functional groups and substituents, and the suffix identifies the primary functional group.
+The examples below illustrate the basic components of the IUPAC nomenclature. The 
+methyl and ethyl groups in, for example, 2-methylbutane and 4-ethyl-2-heptene are substituents and are called alkyl groups. What are alkyl groups? 
+2-methyl butane12
+34
+4-methyl heptane12
+34
+56
+7 12
+34
+56
+7
+4-ethyl-2- heptene
+PrefixParent
+LocantSuffixPrefixParent
+LocantSuffixPrefixParent
+LocantSuffix
+Locant
+Alkyl Groups and the Symbol R
+If we remove one hydrogen atom from an alkane, we obtain what is called an alkyl 
+group or alkyl radicals. These alkyl groups have names that end in -yl. When the alkane is unbranched, and the hydrogen atom that is removed is a terminal hydrogen atom, the names are straightforward as illustrated below:
+CH
+3CH3
+CH3CH3
+CH3CH3
+CH3CH3CH2CH2
+CH2CH2
+CH2CH2CH2CH2
+CH2CH2CH2CH2H
+H
+H
+HmethaneAlkaneAlkyl Group Abbreviation
+MethylMe-
+Et-
+Pr-
+Bu-ethane Ethyl
+propane Propyl
+butane Butyl
+While only one alkyl group can be derived from methane or ethane (the methyl and 
+ethyl groups, respectively), two groups can be derived from propane. Removal of a hydrogen atom from one of the end carbon atoms gives a group that is called the propyl group; removal of a hydrogen atom from the middle carbon atom gives a group that is called the isopropyl group . 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+248Chemistry Grade 10 Hydrocarbons and their Natural Sources
+There are four C4 alkyl groups.
+There is one five-carbon group with an IUPAC approved common name that you should 
+also know: the 2,2-dimethylpropyl group, commonly called the neopentyl group. Other 
+common names for five carbon alkyl groups include isopentyl and tert-pentyl groups.
+ isoamyl (i-amyl)
+The common names isopropyl, isobutyl, sec-butyl, tert-butyl, isopentyl, neopentyl, and 
+tert-pentyl are approved by IUPAC for the unsubstituted groups, and they are still very frequently used. You should learn these groups so well that you can recognize them any way they are written. 
+The symbol R is used as a general symbol to represent any alkyl group . For example, 
+R might be a methyl group, an ethyl group, a propyl group, an isopropyl group, etc. 
+in the general formula for alkane R-H. Similarly, in R-COOH which is the general formula for carboxylic acid, R can be any alkyl group (methyl, ethyl, isopentyl, etc.). 
+Branched-chain alkanes are named according to the following rules:
+1.Locate the longest continuous chain of carbon atoms; this chain determines the parent name for the alkane. The parent name for the following compound, for example, is hexane because the longest continuous chain contains six carbon atoms:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+249Chemistry Grade 10 Hydrocarbons and their Natural Sources
+CH3CHCH2 CH2 CH2 CH3 CH3
+Longest Chainor
+The longest continuous chain may not always be obvious from the way the formula is 
+written. Notice, for example, that parent name of the following alkane is designated as a heptane because the longest chain contains seven carbon atoms:
+  CH2CH3CHCH2 CH2 CH2 CH3 CH3or
+longest chain longest chain
+2.Number the longest chain beginning with the end of the chain nearer to the substituent.
+Applying this rule, we number the two alkanes that was illustrated previously in the following way:
+  
+SubstituentSubstituent1
+23
+45
+6
+1234
+56
+7
+3.Use the numbers obtained by the application of rule 2 to designate the location of the substituent group. The parent name is placed last, and the substituent group, preceded by the number designating its location on the chain, is placed first. Numbers are separated from words by a hyphen. Our two examples are 2-methylhexane and 3-methylheptane, respectively:  
+SubstituentMethyl (substituent) 1
+23
+45
+6
+1234
+56
+7
+Locant 2- Methyl hexane 3-Methyl heptanelonge st
+chain
+4.When two or more substituents are present, give each substituent a number corresponding to its location on the longest chain. For example, we designate the following compound as 4-ethyl-2-methylhexane:
+Not 3-Ethyl-5-methylhexane4-Ethyl -2, 2- dimethyl heptane12
+34
+567
+1
+2
+34
+56
+7
+4-Ethyl -2-methyl hexane
+Not 4-Ethyl-6,6-dimethylheptane12
+34
+56
+1
+23
+45
+6
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+250Chemistry Grade 10 Hydrocarbons and their Natural Sources
+To check which direction of numbering is correct in this case; add the locants (numbers 
+assigned to the carbon atoms to which substituents are attached). The sum of the locants in the first case is 2 + 4 = 6 and in the second case is, 3 + 5 = 8. So numbering should be done from left to right in this case. Thus, the first option is correct. The substituent groups should be listed alphabetically (i.e., ethyl before methyl). In deciding on alphabetical order, disregard multiplying prefixes such as ‘di’, ‘tri', and 'tetra'.  Ethyl comes first compared to methyl when ‘di is ignored, as illustrated in 4-ethyl-2,2-dimethylheptane. In addition, disregard structure-defining prefixes that are written in italics and separated from the name by a hyphen. Thus tert-butyl precedes ethyl (tert is ignored), but ethyl precedes isobutyl ('iso' not ignored.
+5. When two substituents are present on the same carbon atom, use that number 
+twice:
+3-Ethyl -3-methyl hexane
+6.When two or more substituents are identical, indicate this by the use of the prefixes 
+di-, tri-, tetra-, and so on. Then make certain that each substituent has a number. Commas are used to separate numbers from each other:
+2,3-Dimethyl butane 2,3,4- Trimethyl pentane 2,2,4,4- Tetramethyl pentane
+The application of these six rules allows us to name most of the alkanes that we shall encounter. Two other rules, however, may be required occasionally:
+7.When two chains of equal length compete for selection as the parent chain, choose 
+the chain with the greater number of substituents:
+1
+234567
+1235
+67
+2,3,5-trimethyl-4-propylheptane
+Not 4-(1,2-dimethylpropyl)-5-methylheptane
+8.When branching first occurs at an equal distance from either end of the longest chain, choose the name that gives the lower number at the first point of difference:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+251Chemistry Grade 10 Hydrocarbons and their Natural Sources
+   1234 6
+5
+2,3,5- trimethylhexane
+Not 2, 4,5-trimethylhexane
+9.Name a complex substituent as though it were itself a compound. In some 
+particularly complex cases, a fifth step is necessary. It occasionally happens that a substituent on the main chain has sub-branching. In the following case, for instance, the substituent at C
+6 is a three-carbon chain with a methyl sub-branch. To name the 
+compound fully, the complex substituent must first be named.
+2,3-Dimethyl-6-(2-methylpropyl)decane      A 2-methylpropyl group
+                or 2,3-Dimethyl-6-isobutyldecane (isobutyl group)
+Note that, for alkyl group, numbering begins at the carbon directly connected to the 
+parent chain and continues to the longest direction. Further examples:
+Example: Write IUPAC name for: 
+Strategy and solution: We find the longest chain (shown in blue) to be seven carbons; therefore the parent name is heptane. There are two methyl substituents (shown in red). We number the chain so as to give the first methyl group the lower number. The correct name, therefore, is 3,4-dimethylheptane. Numbering the chain from the other end to give 4,5-dimethylheptane would have been incorrect.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+252Chemistry Grade 10 Hydrocarbons and their Natural Sources
+How to Classify Hydrogen Atoms
+We have just seen how to classify carbon in alkanes as primary, secondary, tertiary, and quaternary. The hydrogen atoms of an alkane are classified based on the carbon atom to which they are attached. A hydrogen atom attached to a primary carbon atom is a primary (1°) hydrogen atom, and so forth. The following compound, 2-methylbutane, has primary, secondary (2°), and tertiary (3°) hydrogen atoms:
+Note that 2,2-dimethylpropane, a compound that is often called neopentane, has only primary hydrogen atoms:
+1. Which structure does not represent 2-methylpentane?
+(a) (b) (c) (d)
+2.Write the structure and give the IUPAC name for an alkane with formula C6H14
+that has only primary (-CH3) and secondary (-CH2-) carbon atoms.Exercise 6.3
+6.2.4 Isomerism in Alkanes
+At the end of this section, students will be able to
+"define isomerism;
+"define structural isomerism;
+"draw the possible structural isomers for C4H10, C5H12 and C6H14.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+253Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Among animals, it is very common to encounter some 
+dogs that appear pretty the same in terms of size, 
+and colour. How would you identify them apart if you encounter two such dogs? Assume that one of the dogs is your friendly neighbour. What about chemicals? Can you name two different compounds that have the same 
+molecular formula and molecular weight? What do you call them? 
+  Activity 6.7
+Unlike the first three members of the alkane homologous series, i.e. methane, ethane, and propane,
+H H H H H H
+H H H H H H
+Methane Ethane PropaneH H H H H H C C C C C C
+ in molecules having four and above carbon atoms the carbons can be arranged in two or more ways. A molecule having the formula C
+4H10 you know as butane can have 
+two structures.
+H H H H H H H
+H H CH3 H H H H
+Isobutane ButaneH H H H C C C C C C C
+The two structures are drawn using the possibilities of connecting the four carbon atoms in two different ways. In the first case, all the four carbon atoms in butane are 
+connected in raw (linearly). In the second case, the four carbon atoms are connected in a branched manner to give isobutane. Butane and isobutane have the same molecular formula, C
+4H10, but have different structures and properties. Similarly, the 5 C atoms 
+in pentane (C5H12) can be arranged in three ways. Compounds like the two C4H10
+molecules and the three C5H12 molecules, which have the same molecular formula 
+but different structures, are called structural isomers , from the Greek isos + meros , 
+meaning “made of the same parts.” A formula to determine the number of isomers of alkanes containing 4 – 7 carbon atoms is 2
+n-4 + 1.
+Definition : Isomers are compounds that have the same numbers and kinds of atoms 
+but differ in the way the atoms are arranged. 
+Definition : Structural isomers are two or more different compounds that have the 
+same molecular formula but different connectivity or structures. As Table 6.3  shows, the 
+number of possible alkane isomers increases dramatically as the number of carbon 
+atoms increases.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+254Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Note: Structural isomers have different physical properties. They are always found to 
+have different melting points, boiling points, densities, indexes of refraction, and so 
+forth.
+Form a group, discuss on the answers for the questions 
+under this activity, and present your conclusions to the class.1.Consider two hypothetical compounds A and B having the same molecular formula, C
+4H10. Both are 
+colorless and odorless gases at room temperature. Compound A has a boiling point of -1.0 
+oC whereas 
+B has a boiling point of -11.7 oC. Draw structure of 
+compound A and compound B. What is the relationship between the two compounds? What conclusions can you make about the physical properties of such pairs of compounds?
+2.Is the statement "two compounds that have the same molecular formula have the same properties" true or false? Explain your reasoning.
+  Activity 6.8
+1.Determine whether the pairs of structures in each of the following boxes are isomers or simply different structural representation of the same compound. Hint: If IUPAC names are different, the structures are also different.
+&&
+&CH3
+CH
+CH2CH2CH3 CH3&(a) (b)
+(d)(c)Exercise 6.4
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+255Chemistry Grade 10 Hydrocarbons and their Natural Sources
+6.2.5 Preparation of Alkanes
+At the end of this section, students will be able to
+" describe the general methods for preparation of alkanes in a laboratory;
+" synthesize methane  in a laboratory by decarboxylation  method;
+" carry out a project work to produce biogas from cow dung.
+Alkanes are the major constituents of petroleum and natural gas. They are mainly 
+obtained by fractional distillation of petroleum. Alkanes can also be prepared in the laboratory. Some methods of their preparation are as follows:1. Hydrogenation of alkenes with a metal catalyst.
+General Reaction:
+Example 6.4: C C
+EthaneC C+H
+2H
+HH
+HHH
+HH
+HH
+EthenePtAlkene AlkaneGeneral Reaction:
+Example 6.4:heatC C C C+H
+2H
+RH
+HHH
+HH
+RHPt
+heat
+2.Wűrtz Synthesis (reaction). This method involves the reaction of a halogenated alkane with sodium and the reaction is somewhat exothermic.
+  General reaction: 2R- X+2Na R-R + 2NaX
+Halogenated
+alkane/
+Alkyl halideAlkane Sodium halide
+Example 6.5:   
+  2CH3Cl     + 2Na → CH3_ CH3+  2NaCl
+  Methyl chloride   Ethane    Sodium chloride
+This reaction is named as Wűrtz reaction after the French chemist Charles-Adolphe Wűrtz (1817–1884).
+3.Heating sodium salt of an organic acid with soda lime ( mixture of sodium hydroxide 
+and calcium oxide); the reaction brings about the removal of the carboxylate 
+group from the sodium salt of the carboxylic acid. This type of reaction is called decarboxylation.
+General reaction: R COONa +NaOH R-H + Na2CO3
+Sodium salt
+of carboxylic acidAlkane Sodium carbonateCaO
+heat
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+256Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Example 6.6:  (Preparation of methane by decarboxylation reaction)
+CH3COONa    +    NaOH    CaO
+ heat CH3-H    +   Na2CO3
+Sodium acetate        Methane Sodium Carbonate 
+Methane is the main constituent (about 90%) of natural gas. It is obtained during 
+fractional distillation of petroleum. Methane is also formed by the decay of animal and plant remains in swampy or marshy lands.
+Note: The materials that can be used to produce biogas include dung from cattle, 
+pigs, chickens, chopped green plants and plant wastes. The advantages of biogas technology include saving on fuel such as kerosene, wood and charcoal, and decrease in local deforestation. The residue obtained after preparing the biogas can be used as fertilizer.
+Experiment 6.1
+Laboratory Preparation of MethaneObjective: To prepare methane and study its properties.Materials required: Sodium acetate (CH
+3COONa) and soda lime (CaO, NaOH), 
+test tubes, delivery tube, stopper, gas jar and gas jar lid, pneumatic trough, stand, clamp, beehive shelf, Bunsen burner and balance.
+Procedure:
+Arrange the assembly as shown in Figure 6.2 . Mix thoroughly 5 g powdered 
+sodium acetate with 10 g of soda lime. Place the mixture in the test tube and heat it. Collect the gas by the downward displacement of water. Collect several jars of the gas.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+257Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Rubber
+Stopper 
+Boiling tube Pneumatic  trough 
+Bunsenburner BeehiveShelf Sodium acetate         +     Soda lime Delivery tube 
+WaterMethaneGas jar 
+Figure 6.2  Laboratory preparation of methane.
+Carry out the following activities with the collected gas:
+Insert a burning splint into the jar full of the gas. Observe what happens in the jar. Add Ca(OH)
+2 solution to the jar and observe. 
+Add a few drops of bromine water to any one of the gas jars filled with methane. Cover the gas jar and shake well.
+Observations and analysis:
+a. What is the colour of the gas? Is it soluble in water?b.Is the gas combustible? Write a balanced equation for the change.
+c. What change did you observe upon the addition of Ca(OH)
+2?
+d. Is there any change when bromine water is added?
+Write a laboratory report of your observations, and submit to your teacher.
+1. Write the products when:
+a. CH3CH=CH2  reacts with hydrogen in the presence of Pt as catalyst
+b.Ethyl bromide reacts with sodium metal
+c. Sodium propanoate (CH3CH2COONa) reacts with soda lime
+2.The reaction of a halogenated alkane with sodium is named in honor 
+of______________Exercise 6.5
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+258Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Experiment 6.2
+Production of Methane from Cow Dung
+Objective: To prepare biogas from locally available materials.Materials required: Conical flask, cow dung, water, delivery tube with tap and stopper with one hole.
+Procedure:
+1.Mix some cow dung with water and pour it into a conical flask, Figure 6.3 .
+2.Fit the conical flask with a stopper in which a delivery tube with a tap is inserted.
+3.Cover the conical flask with a ball of cotton wool and place it near a window, 
+and leave it there for 3 to 4 days.
+4.Check the formation of methane after 4 days. (Bring a lighted splint closer to the outlet of the delivery tube and open the tap). See what happens.
+Figure 6.3  Preparation of methane gas from cow dung.
+Observations and analysis:
+a.What is the importance of covering the conical flask with cotton wool and placing it near the window?
+b.What is your observation when you bring a burning splint close to the outlet of the tube?
+c.In your opinion, what change  did occur in the conical flask that led to the formation of methane?
+d. Write a laboratory report in a group and present it to the class.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+259Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Project 6.1 
+1.In consultation with your classmates or friends, identify a place (Kebele or neighboring Kebeles) where a biogas plant is at work..
+2. Prepare data collection instrument (e.g. questionnaire)3. Make a trip to visit the biogas plant and collect the information you require
+4. Describe the method involved and depict it graphically
+5.Develop a similar set-up and produce your own biogas. Collect it using balloons and bring it to class. Take photos of your set-up and videos while you are constructing and doing, and show it to your teacher.
+6. With your sample, in balloon, conduct tests to answer the following questions:
+a. What is the colour of the gas? b.Is the gas combustible? Write a balanced equation for the change.
+c. Is there any change when bromine water is added?
+6.2.6 Chemical Properties of Alkanes
+At the end of this section, students will be able to
+"describe the general methods for preparation of alkanes in a laboratory;
+"synthesize methane  in a laboratory by decarboxylation  method;
+"carryout a project work to produce biogas from cow dung.
+1.You have learnt in grade 9 that atoms achieve their 
+valency by forming bonds to other atoms. Now, you have just learnt that alkanes are saturated compounds. Do you think they have the affinity to react with other atoms or molecules? 
+2.Based on your experiences from the startup activity of this unit and unit 4, can you suggest the most 
+important reaction of alkanes? 
+  Activity 6.9
+Alkanes are sometimes referred to as paraffins, a word derived from the Latin parum affinis, meaning ‘little affinity.’ This term aptly describes their behavior, for alkanes show a little chemical affinity for other substances and are chemically inert to most laboratory reagents like acids, bases, oxidizing and reducing agents. They are also relatively inert biologically and are not often involved in the chemistry of living organisms. 
+Alkanes do, however, react with oxygen, halogens, and a few other substances under 
+appropriate conditions. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+260Chemistry Grade 10 Hydrocarbons and their Natural Sources
+1. Combustion Reaction:
+Combustion is the most important reaction of alkanes. Reaction with oxygen occurs during combustion in an engine or furnace when the alkane is used as a fuel. Carbon dioxide and water are formed as products, and a large amount of heat is released. The general equation for the combustion reaction of alkanes is: 
+  
+where n is number of C atoms
+For example, methane (natural gas) reacts with oxygen according to the equation:
+Example 6.7: CH4  +  2O2   →  CO2   +  2H2O  +  890 kJ/mol (213 kcal/mol)
+  2C4H10   + 13O2→ 8CO2  +   10H2O
+The heat energy liberated is used to generate electricity, to move motor vehicles or 
+to cook our food.
+2.Substitution Reaction : This is a reaction that involves the replacement of one atom 
+or a group of atoms by another atom or group of atoms. Halogenation of alkanes 
+is a very good example of substitution reaction. This reaction involves reacting alkanes with chlorine and bromine in presence of heat or sunlight. This type of reaction is called a photochemical reaction. The reaction of alkanes with chlorine and bromine proceeds in a sequence of steps. For example, let us consider the photochemical reaction of methane with chlorine (chlorination):
+i.Chain Initiating Step: This step involves the absorption of energy by the halogen molecule to generate reactive particles known as free radicals. A free radical is 
+an atom or a group of atoms possessing an unpaired electron. A free radical is electrically neutral. A chlorine molecule absorbs light and decomposes into two chlorine atoms:
+ii.Chain Propagating Step: This is a step involves reaction of the free radical from step i with the alkane and that consumes a reactive particle (free radical) produced in the chain initiation step and generates another free radical.
+iii.Chain Terminating Step: In the chain-terminating step reactive particles (free radicals) are consumed but not generated.
+Such a detailed step by step description of a chemical reaction is called a reaction mechanism.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+261Chemistry Grade 10 Hydrocarbons and their Natural Sources
+3. Elimination reactio n: This type of reaction involves the removal of smaller molecules 
+from a compound and leads to the formation of a compound containing a multiple 
+bond (unsaturated compound). It can also involve the removal of hydrogen atoms from adjacent carbon atoms at relatively high temperatures.
+  EthaneC C
+EthaneC C+H
+2600-800oCH
+HH
+HHH
+HH
+HH
+EtheneHH
+HHH HCC
+1.Alkanes are sometimes referred to as paraffins. Explain 
+2. Write the balanced equation for the combustion reaction of hexane3. Write the major products of reaction of:
+a. methane with bromine in the presence of light.b.ethane is heated at 700 
+oC
+4. Explain why alkanes do not undergo addition reactionExercise 6.6
+6.2.7 Cycloalkanes (Alicyclic Hydrocarbons) 
+Cycloalkanes are alkanes in which all or some of the carbon atoms are arranged in a ring. Alkanes have the general formula C
+nH2n+2; cycloalkanes containing a single 
+ring have two fewer hydrogen atoms than alkanes and thus have the general formula C
+nH2n, where n ≥ 3. Since cycloalkanes are alkanes themselves they have the same 
+properties as the alkanes we have described in the preceding sections. They are also called alicyclic hydrocarbons (“ali” stands for aliphatic). Examples include cyclopropane, cyclobutane, cyclopentane, cyclohexane, etc. Note that the simplest alicyclic compound is cyclopropane. You will learn more about this in upper grades.  
+cyclopropane cyclobutane cyclopentane cyclohexane
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+262Chemistry Grade 10 Hydrocarbons and their Natural Sources
+6.2.8 Uses of Alkanes
+Have a look at the icon to the left? What comes to your 
+mind is the gasoline or diesel supplied at fuel stations. You will soon learn that the liquid you see is principally a mixture of alkanes. You have also learnt that they are nonpolar molecules that have very little affinity to react with other substances. Based on this information, discuss on the most important uses of alkanes and present your conclusions to the class.  
+  Activity 6.10
+Alkanes are primarily used as fuels. They are also used as solvents and raw materials for making alkenes, alcohols, soaps, detergents and plastics.
+1.Define each of the following terms:
+a. Homologous seriesb.substitution reaction
+c. Alkyl radicald. combustion reactione.Isomerism 
+f.functional groups
+2. Write the balanced chemical equation for the combustion of octane3.How many chain isomers are there for an alkane that contains 7 carbon atoms?
+4.Write IUPAC names for the alkanes represented by the following bond-line structures.
+Exercise 6.7
+6.3Unsaturated Hydrocarbons: Alkenes, Alkynes, and Aromatic Hydrocarbons
+At the end of this section, students will be able to
+"define unsaturated hydrocarbons;
+"define alkenes;
+"write the general formula of alkenes; 
+"write the molecular formula first nine homologous series of alkenes.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+263Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Alkenes, alkynes, and arenes (aromatic compounds) all contain carbon–carbon multiple 
+bonds and are unsaturated hydrocarbons. 
+6.3.1 Alkenes or Olefins
+Alkenes are unsaturated hydrocarbons that contain at least one carbon–carbon double bond and have an -ene ending in their names. They are also known as olefins. They form a homologous series represented by the general formula C
+nH2n, where n = 
+2, 3, 4, …
+A. Homologous series of Alkenes
+Ethene is the simplest alkene. Ethene and propene are among the most important industrial Chemicals. Ethene is used as a starting material for the synthesis of many industrial compounds, including ethanol, ethylene oxide, ethanal, and the polymer polyethylene. Propene is used in making the polymer polypropylene, and, in addition to other uses, propene is the starting material for the synthesis of acetone and cumene. Ethene also occurs in nature as a plant hormone. It is produced naturally by fruits such as tomatoes and bananas and is involved in the ripening process of these fruits.
+H H
+EtheneH HCH3 H
+H H
+Propene
+Table 6.4 The homologous series of alkenes and their physical constants.
+IUPAC 
+NameMolecular 
+formulaCondensed Formula M.P B.P Density
+Ethene C2H4CH2=CH2-169 -102 0.61g/L
+Propene C3H6CH2=CH2CH3-185 -48 0.61 g/L
+1-butene C4H8CH2=CH2CH2CH3-130 -6.5 0.63 g/L
+1-pentene C5H10CH2=CH2(CH2)2CH3-130.5 30 0.64 g/L
+1-hexene C6H12CH2=CH2(CH2)3CH3-138 63 0.67 g/L
+1-heptene C7H14CH2=CH2(CH2)4CH3-119 93 0.69 g/L
+1-octene C8H16CH2=CH2(CH2)5CH3-104 122 0.72 g/L
+1-nonene C9H18CH2=CH2(CH2)6CH3-95 146 0.73 g/L
+1-decene C10H20CH2=CH2 (CH2)7CH3-87 171 0.74 g/L
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+264Chemistry Grade 10 Hydrocarbons and their Natural Sources
+1.Define alkene and explain how it differs from alkanes
+2. Describe the general characteristics of the homologous series of alkenes
+3.The molecular formulae for the first three members of an alkene series are C
+2H4, C3H6 and C4H8. Derive the general formula for alkenes and compare it 
+with that of alkanes. Is there a difference in the number of hydrogen atoms?
+4.By referring to Table 6.4, what relationship do you observe between the 
+number of carbon atoms and the melting point, boiling point and density? Discuss with your group and present it to the class.
+5.Write the molecular formula of the first 10 members of the alkene homologous series
+6.Draw their condensed structures and bond line representations following the examples provided hereunder.
+Line-bond formula:
+IUPAC name: Ethene Propene 2-Methylpropene
+Common name: Ethylene Propylene IsobutyleneCondensed structures: CH2 CCH3
+CH3CH2 CH CH3 CH2CH2Exercise 6.8
+B. Nomenclature of Alkenes
+At the end of this section, students will be able to use IUPAC rules to name straight and 
+branched chain alkenes.
+Alkenes can have common names as well as IUPAC names. The common names of 
+alkenes are obtained by replacing the – ane of the corresponding alkane with -ylene’ as illustrated below: 
+The IUPAC rules for naming alkenes are similar in many respects to those for naming 
+alkanes:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+265Chemistry Grade 10 Hydrocarbons and their Natural Sources
+1.Determine the parent name by selecting the longest chain that contains the double 
+bond and change the ending of the name of the alkane of identical length from –ane to -ene . Thus, if the longest chain contains five carbon atoms, the parent 
+name for the alkene is pentene; if it contains six carbon atoms, the parent name is hex ene, and so on.
+2.Number the chain so as to include both carbon atoms of the double bond, and begin numbering at the end of the chain nearer the double bond. Designate the location of the double bond by using the number of the first atom of the double bond as a locant. The locant for the alkene suffix may precede the parent name or be placed immediately before the suffix. 
+Example 6.8:1 234
+CHCH2CH3 CH2CH3CH CHCH2CH2CH3
+1-Butene
+(not 3-butene)2-Hexene
+(not 4-hexene)
+3.Indicate the locations of the substituent groups by the numbers of the carbon 
+atoms to which they are attached:
+2-methyl-2-butene12
+34
+2,5-dimethyl-2-hexene1
+23
+45
+6
+CH3CCH
+CH2CHCH3
+CH3CH31
+23
+45
+6
+2,5-dimethyl-2-hexen eCH3C
+CHCH3CH3
+2-methyl-2-butene1234Structural Bond-line Structural Bond-line
+12 3
+12 3 4 5 64
+CHCH2Cl CH3CH CH3CH CHCH2
+1-chloro-2-butene
+or 1-chlorobut-2-eneCH3
+CH3
+CH3C
+5,5-Dimethyl-2-hexeneor 5,5-dimethylhex-2-ene
+Many older names for alkenes are still in common use. Ethene is often called ethylene,
+Propene is often called propylene, and 2-methylpropene is often called isobutylene.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+266Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Line-bond formula:
+IUPAC name: Ethene Propene 2-Methylpropene
+Common name: Ethylene Propylene IsobutyleneCondensed structures: CH2 CCH3
+CH3CH2 CH CH3 CH2CH2
+4.Two frequently encountered alkenyl groups are the vinyl group and the allyl 
+group:
+  CH2CH
+vinylCH2CH CH2
+allyl
+Using substitutive nomenclature, the vinyl and allyl groups are called ethenyl and 
+prop-2-en-1-yl, respectively. The following examples illustrate how these names are employed:
+Bromoethene
+or 
+vinyl bromide 
+(common)Ethenylcyclopropane
+or 
+vinylcyclopropane3-chloropropene
+or 
+allyl chloride 
+(common) 3-cyclohexylpropene
+or 
+allylcyclohexaneBr Cl
+Give IUPAC names for the following alkenes:
+(a) (b)
+(c)(d)(a) (b)
+(c)(d)Exercise 6.9
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+267Chemistry Grade 10 Hydrocarbons and their Natural Sources
+C. Physical Properties of Alkenes
+At the end of this section, students will be able to use IUPAC rules to name straight and 
+branched chain alkenes.
+Discuss on the following questions in a group and 
+present your conclusions to the class.
+1. Are alkenes polar or nonpolar molecules?2.Do you think the physical properties of alkenes are different from alkanes?
+3.Are alkenes soluble in water? What about in carbon tetrachloride?
+4.Can you explain the trends in boiling points, melting points, and density of alkenes as molecular weight increases?
+5.Which alkenes are gases, which liquids, and which ones are solids?
+  Activity 6.11
+D. Isomerism in Alkenes
+At the end of this section, students will be able to
+"write possible structural isomers for C4H8 and C5H10
+"define geometric (cis-trans) isomerism;
+"give examples of molecules that show geometric isomerism;
+"construct models that show cis-trans isomerism.
+Alkenes containing two and three carbon atoms have only one possible structure. 
+Alkenes containing four or more carbon atoms exhibit isomerism. In the preceding section, you learnt that alkanes exhibit chain isomerism. In addition to chain isomerism, however, alkenes show two more types of isomerism:
+"Chain isomeri sm: This is due to the difference in the arrangement of the carbon 
+atoms in the longest continuous carbon chain.
+For example, in the two compounds 1-pentene and 2-methyl-1-butene, the position 
+of the double bond is the same. However, in 1-pentene the carbon chain is linear whereas in 2-methyl-1-butene it is branched. Thus, 1-pentene and 2-methyl-1-butene are chain isomers (See structures below). 
+"Position isomerism: This is due to the difference in the position of the double bond in the carbon chain.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+268Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Compounds (a) and (c) represent the position isomers of pentene, (b) and (d) are 
+position isomers of methylbutene, (a), and (b) or (a) and (d) are the chain isomers, while all these compounds are the isomers of C
+5H12.
+"Geometrical isomerism.  This results from the difference in the relative spatial 
+arrangement of atoms or groups about the double bond. This isomerism exists because free rotation about the double bond is not possible. To differentiate geometrical isomers, we use the prefix ‘cis’ if two similar groups are on the same side of the double bond and ‘trans’ when the two similar groups are on opposite sides of it; ‘cis’ means the same and ‘trans’ means across. The geometrical isomers of 2-butene are:
+CH3 CH3
+cis-2-butene or cis-but-2-eneH HCH3 H
+CH3H
+trans-2-butene or trans-but-2-ene
+Note: Not all alkenes have geometrical (cis-trans) isomers; alkenes cannot have geometrical isomers if two identical groups are attached to any one of the carbon atoms linked by a double bond. E.g. 1-pentene cannot exhibit cis-trans isomerism.
+1. Explain the type of isomerism (chain or position) in:
+a. 2-pentene and 2-methyl-2-buteneb.1-hexene and 2-methyl-1-pentene 
+2.Explain why the boiling points and other physical properties of alkenes increase with increasing molecular weight
+3. Write three position isomers of hexene.Exercise 6.10
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+269Chemistry Grade 10 Hydrocarbons and their Natural Sources
+4. Write structural formulas for the following:
+a. cis-3-Octene
+b.1-Bromo-2-methyl-1-(prop-2-en-1-yl) cyclopentane
+c. trans-2-Hexened. 3,4-Dimethylcyclopentenee.2,4-Dimethyl-2-pentene
+f.Vinylcyclopentane
+g.trans-1-Chlorobut-2-ene
+h. 1,2-Dichlorocyclohexenei. 4,5-Dibromo-1-pentene j. trans-1,4-Dichloro-2-pentene
+Project 6.2Prepare a model from locally available materials, to show the cis-trans isomers of 2-butene.
+E. Preparation of Alkenes
+At the end of this section, students will be able to
+"explain the general method for preparation of alkenes in a laboratory;
+"produce ethylene in a laboratory by dehydration of ethanol.
+Alkenes are mainly obtained during fractional distillation of petroleum when the 
+process called cracking is carried out.In the laboratory, alkenes can be prepared by:
+"Dehydration of alcohols with concentrated sulphuric acid or alumina (Al
+2O3).
+Dehydration means removal of water.
+General Reaction: 
+Example 6.9: OH
+H HH
+R HH2SO4
+heatH HR H
++H2O
+Alcohol Alkene
+OH
+H HH
+H HH2SO4
+heatH HH H
++H2O
+Ethanol Ethenewater molecule removed,
+hence dehydration
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+270Chemistry Grade 10 Hydrocarbons and their Natural Sources
+"Dehydrohalogenation of alkyl halides with a base (KOH). Dehydrohalogenation 
+means the removal of hydrogen and a halogen atom. Alkyl halides are compounds of an alkyl group and a halogen such as CH
+3Cl and CH3 – CH2 – Br.
+General Reaction: 
+Example 6.10:X
+H HH
+R H
+H HR H
++KX +H2O
+Alkyl halide Alkene
+Br
+H HH
+H H
+H HH H
++KBr +H2O
+Ethyl bromide Ethene+KOH
++KOH
+1.In the above two methods of preparations of alkenes, (a) what difference do you observe between the structures of the major reactant and the product? 
+2.Write the complete and balanced chemical equations for each of the following reactions:
+a) CH
+3 CH3OH
+CHH2SO4
+heat
+b) CH3CH3+  KOHBr
+CH
+c) OH
+H2SO4
+heatExercise 6.11
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+271Chemistry Grade 10 Hydrocarbons and their Natural Sources
+  Experiment 6.3
+Laboratory Preparation of Ethene
+Objective: To prepare ethene and study some of its properties
+Materials required: Ethanol, concentrated H2SO4, water, bromine water, basic 
+KMnO4. Round-bottomed flask, stopper, delivery tube, gas jar, pneumatic trough, 
+thermometer, tripod, Bunsen burner, stand and clamp, beehive shelf and wire 
+gauze.
+Procedure:
+1. Arrange the set-up as shown in Figure 6.4
+2.Take ethanol in the flask and add concentrated H2SO4 through the thistle 
+funnel; heat carefully until the temperature reaches about 170°C. Discard the initially formed gas as it might contain air; collect the ethene gas in three gas jars by downward displacement of water; perform the following activities.
+a. Insert a lighted splint into the jar containing the gas and see what happens.b.Add two drops of bromine water to the other gas jar, cover the jar and shake well.
+c.Add a few drops of alkaline KMnO
+4 solution to another jar containing the gas 
+and observe what happens.
+Thistle 
+funnel
+Inverted gas jar
+StandFlask
+Ethanol     + Concentrated sulphuric acid 
+BurnerEthene
+Beehive shelf 
+Water
+Figure 6.4  Preparation of Ethene.
+Observations and analysis:
+a. What is the colour and odour of the gas?
+b.What is the substance left after combustion of the gas in the jar?
+c.What change is observed when the gas is shaken with bromine water or alkaline potassium permanganate? Write equations for the reactions?
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+272Chemistry Grade 10 Hydrocarbons and their Natural Sources
+d. Name the dehydrating agent used in the experiment?
+e.Which method of preparation of an alkene is used in this experiment?
+Write a laboratory report about the experiment and submit to your teacher.
+Write a laboratory report in a group and present it to the class.
+F. Chemical Properties of Alkenes
+At the end of this section, students will be able to explain chemical properties of alkenes.
+Do you think alkenes are more or less reactive than 
+alkanes? ExplainCan alkenes undergo combustion reaction? What do you think is the most important reaction of alkenes?
+  Activity 6.12
+Alkenes are unsaturated hydrocarbons containing double bond (a strong bond and a weak bond) between the two carbon atoms. They are more reactive than alkanes because the weak bond can be used for further reaction. They undergo several types of reactions."Combustion reaction. Alkenes burn in oxygen with a luminous flame to form carbon dioxide and water.
+General reaction:     
+  C
+nH2n + (3n/2)O2→ nCO2 + nH2O + Heat
+Example 6.11:
+  C4H8 + 6O2→ 4CO2 + 4H2O + Heat
+"Addition reaction. Alkenes undergo mainly addition reactions. The addition occurs 
+at the carbon-carbon double bond.
+i.Addition of halogens (halogenation) : When a halogen molecule, X2, (where, X2
+= Cl2 or Br2) is added to alkenes, the product is a dihaloalkane.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+273Chemistry Grade 10 Hydrocarbons and their Natural Sources
+General Reaction:
+Example 6.12:
+        RCH CH2+X2RCH CH2
+X X; (X2= Cl
+2, Br
+2)
+Alkene Halogen Dihaloalkane
+CH3C
+HCH2+Cl2CH3CH CH2
+Cl
+Propene Chlorine Dichloropropan eCl(X2 = Cl2, Br2) 
+If bromine water (bromine in CCl4) is added to alkenes, the reddish-brown colour 
+of Br2 in CCl4 will disappear. This is due to the addition of bromine (Br2) across the 
+double bond. So, Br2 in CCl4 is used to detect unsaturation (presence of multiple 
+bonds) in a compound.
+ii.Addition of hydrogen (Hydrogenation) : The addition of hydrogen molecule to 
+alkenes in the presence of a nickel or platinum catalyst yields alkanes.
+General Reaction:
+Example 6.13:C C
+PropaneC C+H
+2H
+CH3H
+HHH
+HH
+CH3H
+PropenePtAlkene AlkaneGeneral Reaction:
+Example 6.13:heatC C C C+H
+2H
+RH
+HHH
+HH
+RHPt
+heat
+iii.Addition of hydrogen halides, HX (hydrohalogenation) : The addition of 
+hydrogen halide (HCl, HBr or HI) to alkenes leads to the formation of alkyl halides. 
+The product of the reaction can be predicted by Markovnikov’s rule; which states that “when an alkene reacts with a hydrogen halide to give an alkyl halide, the hydrogen adds to the carbon atom of the double bond that has the greater number of hydrogen atoms, and the halogen to the carbon that has the fewer number of hydrogen atoms”. “The Rich Get Richer!!”
+The same is true when an alkene reacts with water in an addition reaction to form an 
+alcohol.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+274Chemistry Grade 10 Hydrocarbons and their Natural Sources
+General Reaction:
+Example 6.14:C C
+2-BromopropaneC C+HBrH
+CH3H
+HHH
+HBr
+CH3H
+PropeneAlkene Alkyl halideGeneral Reaction:
+Example 6.14:C C C C+HXH
+RH
+HHH
+HX
+RH; HX = HCl, HBr
+Have you noticed the location where H and Br have formed bonds?
+iv.Addition of water (hydration) : When alkenes are hydrated in the presence of an 
+acid catalyst, they produce alcohols following Markovnikov’s rule.
+General reaction:
+  
+   
+  Alkene            Alcohol
+Example 6.15:
+  CH2 CH2
+EtheneH3PO4(aq)
+CH2OH CH3
+CHCH3 CH2PropeneH3PO4(aq)
+CH(OH)CH3 CH3Ethanol
+2-propanol
+Oxidation of alkenes : Oxidation of alkenes with cold alkaline potassium 
+permanganate solution (KMnO4) forms diols (compounds containing two hydroxyl 
+groups).
+General Reaction:
+Example 6.16:
+     Ethene 1,2-EthanediolExample 6.16:
+C C C CH
+HH
+HHH
+OHH
+OHHAlkene DiolGeneral Reaction: C C C CH
+RH
+HHH
+OHH
+OHRAlkaline
+KMnO4
+AlkalineKMnO
+4
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+275Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Alkaline KMnO4 solution is also used as a qualitative test for the identification of 
+unsaturation in a compound. The solution is called Baeyer’s reagent. In the presence of 
+unsaturated hydrocarbons, the purple colour of alkaline KMnO4 solution fades and a 
+brown precipitate is formed.
+v.Polymerization (self-addition) of alkenes : Polymerization is the union of small 
+molecules called monomers to form a large molecule called a polymer.
+Example 6.17:
+  CH2CH2CH2CH2
+Ethene Polyethene1000 atm, 473 K
+O2(catalyst)n
+1.Write the balanced chemical equation for the combustion reaction of hexene.
+2. Write the structures of the major products when CH3CH=CH-CH3 reacts with:
+(a) Br2 b) H2 c) HCl d) H2O (in presence of dilute H2SO4) e) alkaline KMnO4.
+3. Alkenes are more reactive than alkanes. Why do you think?
+4.Alkene reacts readily with Br2 even in the dark but alkanes react only in the 
+presence of sunlight. Why? Are the reaction products the same? What about the type of reaction? Discuss!Exercise 6.12
+G. Uses of Ethene (Ethylene)
+At the end of this section, students will be able to explain the uses of ethylene.
+Ethene is used as a starting material for the synthesis of many industrial compounds, 
+including ethanol, ethylene oxide, ethanal, and the polymers polyethylene and polyvinylchloride, polystyrene and teflon. It is also used in the production of 1,2-ethanediol, which is used as an antifreeze material; and for the preservation as well as artificial ripening of fruits.
+Project 6.3
+Put some green tomatoes in the first basket, and place a ripe banana in between them. In the second basket, put only green tomatoes (but not a banana). Compare the tomatoes in the two baskets. Have the tomatoes ripen at the same rate in both baskets? If not, why? Share your opinion with your classmates.
+H. Cycloalkenes
+Cycloalkenes are unsaturated cyclic hydrocarbons. The carbon atoms are linked in 
+such a manner as to form a closed chain or a ring structure. They contain a double 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+276Chemistry Grade 10 Hydrocarbons and their Natural Sources
+bond between carbon atoms in the ring and are represented by the general formula 
+CnH2n–2; where n should be equal to or greater than 3. They are isomeric with alkynes. 
+They are named by prefixing “cyclo” to the name of alkenes containing the same number of carbon atoms. The given structures show some examples of cycloalkenes.
+Unsubstituted cycloalkenes are named by adding the prefix “cyclo” to the name of the 
+parent alkene. The simplest cycloalkene is cyclopropene.
+Example 6.18:
+  cyclopropene cyclobutene cyclopentene cyclohexene
+Substituted cycloalkenes are named similarly as alkenes, but because there is no chain end to begin from, we number the cycloalkene so that the double bond is between C
+1
+and C2 and the first substituent has as low a number as possible. It’s not necessary to 
+indicate the position of the double bond in the name because it’s always between C1
+and C2. As with open-chain alkenes, newer but not yet widely accepted naming rules 
+place the locant immediately before the suffix in a diene.
+1-Methylcyclohexene      1,4-cyclohexadiene           1, 5-dimethylcyclopentene
+       (or cyclohexa-1,4-diene)
+Complete each of the following equations and name the products:
+a. CH3CH2CH=CH2   +   HCl   →   c. CH3CH2CH=CH2  + H2O  H+
+b.CH3CH2CH=CH2   +   Br2   →    d. CH3CH2CH=CH2   Alkaline
+  KMnO4Exercise 6.13
+6.3.2 Alkynes and Their Physical Properties
+At the end of this section, students will be able to
+"define alkynes;
+"write the general formula of alkynes;
+"write the molecular formula first nine homologous series of alkynes; 
+"write the molecular formulas of alkynes from the given number of carbon atoms;
+"describe the physical properties of alkynes.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+277Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Alkynes are unsaturated hydrocarbons that contain at least one carbon–carbon triple 
+bond as a functional group, and have a -yne ending in their names. The simplest alkyne is ethyne (also called acetylene). Alkynes occur in nature and can be synthesized in the laboratory. 
+The homologous series of alkynes is represented by the general formula C
+nH2n–2, where 
+n≥2. The first member of the group is commonly known as acetylene. The homologous 
+series of alkynes is also called acetylene series.
+Table 6.5 Homologous series of alkynes and their physical constants.
+Formula of 
+AlkyneCondensed Structure IUPAC Name Melting 
+Point (oC)Boiling 
+Point (oC)
+C2H2CH≡CH Ethyne -82 -75
+C3H4CH≡C-CH3Propyne -105.5 -23
+C4H6CH≡C-CH2-CH31-butyne -122 9
+C5H8CH≡C-(CH2)2-CH31-pentyne -98 40
+C6H10CH≡C-(CH2)3-CH31-hexyne -124 72
+C7H12CH≡C-(CH2)4-CH31-heptyne -80 100
+C8H14CH≡C-(CH2)5-CH31-octyne -70 126
+C9H16CH≡C-(CH2)6-CH31-nonyne -65 151
+C10H18CH≡C-(CH2)7-CH31-decyne -36 182
+1.By looking at the trends for alkynes in Table 6.5, write the molecular formula
+and the structures of the alkynes containing 11 and 12 carbon atoms.
+2. Describe the general characteristics of the alkyne homologous series3.Compare the physical state, melting points and boiling points of alkynes, alkenes and alkanes as the number of carbon atoms increases. Discuss with your group and present to the class.Exercise 6.14
+A. Nomenclature of Alkynes
+At the end of this section, students will be able to
+"use IUPAC rules to name straight and branched chain alkynes;
+"write the structural formulas alkynes up to nine carbon atoms;
+"alkynes are commonly named as a derivative of acetylene.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+278Chemistry Grade 10 Hydrocarbons and their Natural Sources
+acetylene methyl acetylene ethyl acetylene
+Substituted Alkynes are named in much the same way as alkenes using the IUPAC 
+system. Unbranched alkynes, for example, are named by replacing the -ane of the 
+name of the corresponding alkane with the ending -yne. The chain is numbered to give 
+the carbon atoms of the triple bond the lower possible numbers.
+The lower number of the two carbon atoms of the triple bond is used to designate the 
+location of the triple bond. When double and triple bonds are present, the direction of numbering is chosen so as to give the lowest overall set of locants. In the face of equivalent options, then preference is given to assigning the lowest numbers to the double bonds. The IUPAC names of three unbranched alkynes are shown here:
+C C
+Ethyne or
+acetylene (common name)H H
+2-pentyneCH3C
+C
+CH2CH3
+or
+1-pentene-4-yneCH2CH
+CH2CCH
+or
+The locations of substituent groups of branched alkynes and substituted alkynes are also indicated with numbers. 
+CH
+C
+CH2CH2CH3
+1-pentyneCH3C
+C
+CH2CH3
+2-pentyneCH3CCC
+CHCH2CH3
+CH3CH3CH2CH3
+4-ethyl-4,5-dimethyl-2-heptyne
+Give the structures and IUPAC names for all the alkynes with the formula C6H10, 
+and identify those that are position and chain isomers.Exercise 6.15
+B. Isomerism in Alkynes
+At the end of this section, students will be able to write the structural formulas of 
+alkynes up to nine carbon atoms.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+279Chemistry Grade 10 Hydrocarbons and their Natural Sources
+" Alkynes show both chain and position isomerism, but not geometrical or cis-
+trans isomerism Consider:
+CH CCH2CH3
+1-butyne or but-1-yneCH3C C
+2-butyne or but-2-yneCH3
+CH CCH CH3
+3-methyl-1-butyne or 3-methylbut-1-yneCH C CH2
+1-pentyne or pent-1-yn eCH3
+CH2CH3
+1-Butyne and 2-butyne are position isomers whereas 3-methyl-1-butyne and 
+1-pentyne are chain isomers.
+Write the structural formula for pentane, 1-pentene, and 1-pentyne. Why are not these three hydrocarbons considered as isomers? Tell your idea to the class.
+  Activity 6.13
+1. Write the structures of all isomers of 1-pentyne (C5H8) and 
+(a) name them b) identify chain isomers? c) identify position isomers?Exercise 6.16
+C. Preparation of Alkynes
+At the end of this section, students will be able to
+"describe the general method for preparation of alkynes in a laboratory;
+"prepare acetylene in a laboratory by the reaction of CaC2 with water.
+Alkynes can be prepared by several methods. Some of the general methods of 
+preparation of alkynes are:" Dehydrohalogenation of vicinal (adjacent) dihalides with a base NaOH or 
+KOH or NaNH
+2.
+  Vicinal dihalide          Ethyne
+Example 6.19:
+  1,2-dibromoethane          Ethyne
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+280Chemistry Grade 10 Hydrocarbons and their Natural Sources
+" Alkylation of sodium acetylide (dicarbide) with a primary alkyl halide.
+General reaction:
+Sodium Primary
+carbide Alkyl halide  Alkyne
+Example 6.20
+Sodium Ethyl bromide   But-1-yne
+carbide    (1-butyne)
+Reaction of calcium carbide with water:
+CaC2(s)   +    2H2O(l)  →   Ca(OH)2(aq)    +    C2H2(g)
+Calcium        Water             Calcium               Acetylene/
+Carbide                                 hydroxide             ethyne
+Write the major product of the following reactions:
+HH
+CH + 2KOH →
+Br BrCH3a. C Hb. CC_Na+ + CH3Br →Exercise 6.17
+Experiment 6.4
+Laboratory Preparation of Ethyne
+Objective: To prepare ethyne from calcium carbide and water.
+Materials required: CaC2, H2O, bromine water, round-bottomed flask, separating 
+funnel, delivery tube, trough, beehive shelf and gas jar.
+Procedure:
+1.Arrange the set up as shown in Figure 6.5. Put a layer of sand in a conical 
+flask and place calcium carbide on the sand.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+281Chemistry Grade 10 Hydrocarbons and their Natural Sources
+2.Add water drop by drop from the separating funnel onto the calcium carbide. 
+Watch carefully and record your observation. Touch the flask with the tip of your finger.
+3. Collect several jars of the gas over water and carry out the following tests:
+a. Burn the gas as you did with methane and ethene.
+b.Add a few drops of bromine water to another jar filled with ethyne and note the changes.
+Separating funnelRubber 
+stopper 
+ClampWater
+EthyneRound bottom flask 
+Calcium carbideWaterStandGas jar Delivery tube
+Figure 6.5  Laboratory preparation of Ethyne.
+Observations and analysis :
+a.What do you feel when you touch the flask? Is the reaction exothermic or 
+endothermic?
+b.How do you compare the colour of the flame produced with that of methane and ethene?
+Write a complete laboratory report and submit to your teacher.Write a laboratory report about the experiment and submit to your teacher.Write a laboratory report in a group and present it to the class.
+D. Chemical Properties of Alkynes
+At the end of this section, students will be able to explain chemical properties of alkynes.
+Alkynes are more unsaturated than alkanes and alkenes due to the presence of a 
+carbon-carbon triple bond. They can undergo combustion and addition reactions.Some of the common reactions of alkynes are:i.Combustion reaction : Alkynes burn with a smoky luminous flame, forming CO
+2
+and water. Smoky luminous flames result from the combustion of alkynes due to their relatively high carbon content.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+282Chemistry Grade 10 Hydrocarbons and their Natural Sources
+CnH2n-2 + (3n - 1 )O2→ nCO2 + (n - 1)H2O + Heat
+         2
+Example 6.21:
+C3H4(g) + 4O2→ 3CO2+ 2H2O + Heat
+Addition reaction : Alkynes undergo an addition reaction at the carbon-carbon triple 
+bond. Some of the addition reactions of alkynes are the following: (a) Addition of 
+hydrogen (hydrogenation) : In the presence of nickel or palladium catalyst, alkynes 
+produce alkanes.
+General equation:
+Alkyne           Alkene          Alkane 
+Example 6.22:
+  Ethyne      Ethene       Ethane
+Partial hydrogenation of alkynes in the presence of Lindlar’s catalyst gives alkenes. 
+Lindlar’s catalyst is powdered palladium partially deactivated with lead acetate that reduce its activity such that it can only reduce alkynes, not alkenes. It always gives the cis-alkene.General reaction:
+  Alkyne         Alkene 
+Example 6.23:
+                  2-butyne                                   cis-2-butene
+(b) Addition of halogens : When a molecule of an alkyne reacts with one and two 
+molecules of halogens, it gives a dihaloalkene and a tetrahaloalkane, respectively.
+Alkyne          Dihaloalkene
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+283Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Alkyne                            Tetrahaloalkane
+Example 6.24:
+    
+Propyne                         1,2-dichloropropene
+Propyne                         1,1,2,2-tetrachloropropane
+Discuss on the following questions in a group and 
+present your responses to the class.
+Do you expect alkynes to decolorize bromine water? If so, why?Write the balanced chemical equation for the reaction between C
+2H2 and Br2.  Activity 6.14
+(c) Addition of Hyd rogen Halide s: Alkynes react with hydrogen halides to form 
+a monohaloalkene and a dihaloalkane. The addition reaction occurs according to Markovnikov’s rule.General reaction:
+  Alkyne  Monohaloalkene          Dihaloalkane
+Example 6.25:
+(d) Trimerization of Acetylene:  Acetylene, on prolonged heating at 600 – 700 oC, 
+yields benzene.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+284Chemistry Grade 10 Hydrocarbons and their Natural Sources
+benzene Acetylene600 0C - 700 0C
+CH CH
+Discuss on the following questions in a group and 
+present your responses to the class.
+1.Is Markonikov’s rule applied in the reaction 
+between propyne and hydrobromic acid? How?
+2.The addition reaction of alkynes proceeds in two steps. Explain what changes occur during the first and the second steps.
+3.Compare the reaction products when 1-butyne 
+and 2-butyne react with HBr.
+  Activity 6.15
+E. Properties and uses of Acetylene or Ethyne
+At the end of this section, students will be able to
+"explain the uses of ethylene and acetylene;
+"compare and contrast the properties of ethane, ethene and ethyne;
+"test for unsaturation of ethylene and ethyne.
+Acetylene is a colourless, sweet-smelling gas in pure form and is insoluble in water. It 
+is usually stored as a solution of acetone in steel cylinders. Combustion of acetylene with oxygen produces an intensely hot flame of about 3000 
+oC. Thus, a large quantity 
+of acetylene is used as a fuel in oxy-acetylene torches for cutting and welding metals . 
+It is a two-stage reaction where the primary chemical reaction involves the acetylene disassociating in the presence of oxygen to produce heat, carbon monoxide, and hydrogen gas: C
+2H2 + O2→ 2CO + H2
+The second reaction is oxidation of carbon monoxide into carbon dioxide while the hydrogen formed in the above reaction forms water:CO + H
+2 + O2→  CO2 + H2O
+Acetylene is also used to prepare acrylonitrile which is a starting material for producing polyacrylonitrile, a raw material for textile fiber. It is also used for making vinyl chloride which polymerizes to give polyvinyl chloride (PVC) commonly used for making floor tiles, electrical insulators, shoe soles, water pipes etc. Acetylene is used to produce 1,1,2,2-tetrachloroethane that serves as a solvent for wax, grease, rubber etc. See Table 6.6.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+285Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Table 6.6 Comparison of Some Properties of Ethane, Ethene and Ethyne
+Property Ethane Ethene Ethyne
+Nature of flame Non-luminous Luminous Smoky luminous
+Effect on colour of Br2 in CCl4No effect Decolorizes Decolorize
+Effect on colour of alkaline KMnO4No effect Decolorizes Decolorizes
+6.4 Aromatic Hydrocarbons: Benzene
+At the end of this section, students will be able to
+"define aromatic hydrocarbons;
+"distinguish aromatic compounds from other hydrocarbons; 
+"draw and explain the structure of benzene;
+"describe the main physical properties and chemical reactions of benzene;
+"perform simple chemical tests to identify alkanes, alkenes/alkynes, and aromatic 
+compounds.
+Discuss the following in your group and present your 
+responses to the whole class:1.What comes to your mind when you hear the word ‘benzene’?
+2.What does the word “aroma” mean? Which substances have an aroma smell?
+3.Are aromatic hydrocarbons saturated or unsaturated?
+4.What are the main sources of aromatic compounds?
+  Activity 6.16
+The term aromatic is derived from the word ‘aroma’ meaning pleasant smell, which was originally used to describe naturally occurring compounds with pleasant smells. At present, the term is used without its original significance. Aromatic hydrocarbons are generally obtained from petroleum and coal tar. They are a group of hydrocarbons characterized by the presence of a benzene ring or related structures. Figure 6.6
+gives some examples of aromatic hydrocarbon structures. 
+C
+C
+CCCCH
+HH
+HHH
+C
+C
+CCCC C
+C
+C
+CH H
+H
+H
+H HHH
+Benzene Methyl be nzene
+       (Tolue ne)Naphthal eneC
+C
+CCCCCH3
+HH
+HHH
+Benzene            Methyl benzene (Toluene) Naphthalene
+Figure 6.6 Structures of some Aromatic Hydrocarbons.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+286Chemistry Grade 10 Hydrocarbons and their Natural Sources
+6.4.1 Benzene
+Benzene is the simplest aromatic hydrocarbon. Its molecular formula is C6H6. The first 
+structure for benzene was proposed by August Kekulé in 1872. It consisted of a  six-
+membered ring with alternating single and double bonds and with one hydrogen bonded to each carbon. He assumed that the ring contains three double bonds that shift back and forth so rapidly that the two forms ( Figure 6.7 ) cannot be separated. 
+Later on, Kekulé assumption was found to be incorrect. Each structure has become 
+known as Kekulé structure. 
+C
+C
+CCCCH
+HH
+HHH
+A Kekulé structure
+showing all atomsA Kekulé structure
+as line -angl eformulasI II
+A Kekulé structure                 A Kekulé structure
+showing all atoms             as line-bond formulas
+Figure 6.7  A Kekulé structure of benzene.
+Today, we represent benzene as a hybrid of two equivalent contributing Kekulé 
+structures . Each Kekulé structure makes an equal contribution to the hybrid:
+Benzeneas a hybrid of two e quival ent
+contributing structur esResonanc ehybrid≈
+I II
+The bonds in benzene are neither single nor double, but have an intermediate character between those of single and double bonds. All the carbon-carbon bonds in the molecule are the same in length and nature. Since structures I or II given above are not the true structures of the benzene molecule, the benzene ring is written in its resonance hybrid form. However, chemists continue to use a single contributing structure to represent benzene. 
+From structures I and II in Figure 6.7 , one may think that benzene has three double 
+bonds and has the same chemistry as that of alkenes. But, this is not true. Benzene 
+and other aromatic hydrocarbons contain high degrees of unsaturation, yet fail to undergo characteristic alkene addition and oxidation–reduction reactions. They are more stable than alkenes.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+287Chemistry Grade 10 Hydrocarbons and their Natural Sources
+6.4.2 Nomenclature of Substituted Benzenes 
+i. Monosubstituted Benzenes
+Generally, mono-substituted benzenes are named in a similar manner as hydrocarbons with -benzene as the parent name:
+CH3 CH2CH3 Br OH NH2NO2
+Methybe nzene
+    (Tolue ne)Ethylbe nzene Bromobe nzene Hydroybe nzene
+      (Phe nol)Amninobe nzene
+    (Aniline )Nitrobe nzene Methylbenzene   Ethylbenzene      Bromobenzene    Nitrobenzene     Hydroxybenzene       Aminobenzene
+(Toluene)                (Phenol)            (Aniline)
+The IUPAC system retains certain common names for several of the simpler mono-
+substituted benzenes. Examples are toluene (rather than methylbenzene) and phenol 
+(rather than hydroxybenzene).
+ii. Disubstituted Benzenes
+When two substituents occur on a benzene ring, three constitutional isomers are possible. We locate substituents either by numbering the atoms of the ring or by using the locators 1,2- or ortho (o), 1,3- or meta (m), and 1,4- or para (p). 
+CH3 NH2CH3 CH2CH3
+BrCl CH3Cl
+4-Bromotoluene
+(p-Bromotoluene)3-chloroaniline(m-chloroaniline)1,3-dimethylbenzene(m-xylene)1-Chloro-2-ethylbenzene
+(o-Choloroethylbenzene)
+6.4.3 Physical Properties of Benzene
+In general, benzene resembles other hydrocarbons in its physical properties. Benzene is a flammable, colourless, and volatile liquid with a characteristic smell. It is less dense than water, non-polar and insoluble in water, but soluble in non-polar solvents like ether and carbon tetrachloride. At one time, benzene was widely used as a solvent, but exposure to it causes leukemia, a blood cancer. That is benzene is a carcinogenic (cancer-causing) substance. 
+6.4.4 Chemical Properties of Benzene
+Benzene and other aromatic hydrocarbons are more stable than alkenes and alkynes due to the stability of the aromatic ring. It neither decolorizes bromine water (Br
+2
+in CCl4) nor is reactive towards cold potassium permanganate solution. However, 
+benzene undergoes the following reactions:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+288Chemistry Grade 10 Hydrocarbons and their Natural Sources
+1.Combustion reaction : Benzene is highly inflammable. It burns with a smoky 
+luminous flame to form CO2 and H2O
+2C6H6          +           15O 2 12CO2         +         6H2O    +      H eat                     
+2. Substitution  reaction : This is a characteristic reaction of benzene and other 
+aromatic compounds. In this reaction, the hydrogen atom from the benzene ring is 
+replaced by another atom or group. 
+(a). Halogenation: Benzene reacts with bromine and chlorine in the presence of iron (III) chloride or aluminium chloride catalyst to form substitution products.
+Example 6.26:
+C6H6     +       Br 2 C6H5Br     +       HBr
+orFeBr3
+FeBr3 +     Br 2Br
+ +       HBr
+Benzene Bromobe nzeneBenzene                           Bromobenzene
+(b). Nitration: A mixture of concentrated nitric acid and concentrated sulphuric acid reacts with benzene at moderate temperatures to form nitrobenzene.
+C6H6+ HNO3 C6H5NO2+ H2O
+orH2SO4
+NO2
++ H2O
+Benzene Nitrobe nzene50°C
++ HNO3H2SO4
+50°C         
+      Benzene           Nitrobenzene         
+(c). Sulphonation: Benzene reacts with concentrated sulphuric acid, H2SO4, at room 
+temperature to form benzenesulphonic acid.
+C6H6     +      H 2SO4 C6H5SO2OH    +       H 2O
+or
+ +       H 2O
+Benzene Benzenesulphonic acid +      H2SO4SO3H
+           Benzene           Benzenesulphonic acid    
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+289Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Experiment 6.5
+Chemical Reaction of Toluene
+Objective: To distinguish aromatic hydrocarbons from other unsaturated 
+hydrocarbonsMaterials required: Toluene, Br
+2 in CCl4, KMnO4, concentrated H2SO4, test tubes, 
+test tube rack, test tube holder, measuring cylinder, Bunsen burner and dropper.
+Procedure:
+1. Take three test tubes and place them in the test tube rack.
+2. Add 5 mL of toluene (methylbenzene) to each of the three test tubes.
+3.Add one or two drops of Br2 in CCl4 in the first test tube and add the same 
+amount of cold KMnO4 solution in the second test tube and observe the changes.
+4.Add a few drops of concentrated sulphuric acid to the third test tube and, if necessary, heat it gently, holding it with a test tube holder.
+Observations and analysis :
+In which test tube did a reaction occur?Write a complete report of your observations and submit it to your teacher.
+3.Addition reaction: Under normal conditions, aromatic compounds do not undergo addition reaction. Benzene undergoes addition reactions under special conditions.
+Example 6.27:When a mixture of benzene vapour and hydrogen is passed over a finely divided nickel catalyst at 200 °C, cyclohexane is formed.
+  C6H6 + 3H2
+or
+Benzene Cyclohe xane+ 3H2Ni
+200°CC6H12
+Ni
+200°C
+                Benzene      Cyclohexane
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+290Chemistry Grade 10 Hydrocarbons and their Natural Sources
+1. What is an aromatic hydrocarbon?
+2. What is the name of the simplest aromatic hydrocarbon?
+3. Describe the main reactions of benzene?4.Benzene does not change the colour of Br
+2 in CCl4 or that of KMnO4 solution; 
+why?
+5. How do you prepare the following compounds from benzene?
+a. Chlorobenzeneb.Nitrobenzene
+c. Benzenesulphonic acid.Exercise 6.18
+6.5 Natural Sources of Hydrocarbons
+At the end of this section, students will be able to
+"list the major natural sources of hydrocarbons;
+"describe natural gas;
+"define crude oil;
+"dxplain fractional distillation of crude oil;
+"dention products of fractional distillation of crude oil;
+"discuss the uses of petroleum products.
+What do you think is the composition of the fuels 
+people use for vehicles and motorbike? What about 
+bottled gases for cooking? Does Ethiopia have an oil (
+crude oil ) deposit? What are the natural resources 
+Ethiopia is gifted with? Discuss whether they are renewable or nonrenewable and their environmental impact.  If you were a leader of the country, would you invest more on fossil fuel extraction or in the development of renewable energy sources such as hydroelectric dams? 
+  Activity 6.17
+By far, the major sources of alkanes are the world’s natural gas and petroleum deposits followed by coal. Laid down eons ago, these deposits are thought to be derived primarily from the decomposition of tiny single-celled marine organisms called foraminifera. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+291Chemistry Grade 10 Hydrocarbons and their Natural Sources
+A. Natural Gas
+Natural gas is a mixture of gases that consists chiefly of methane (more than 90%) but also contains ethane, propane, and butane. Other gases such as, CO
+2, N2, O2 and H2S, 
+may also be present in natural gas. Natural gas is found in association with petroleum or alone. It is found in underground deposits several hundreds or thousands of meters below the earth’s surface, where it originated from the decay and decomposition of animal and plant remains millions of years ago. The composition of natural gas varies, depending on its place of origin. Natural gas is widely used as a fuel. It is advantageous over liquid and solid fuels and also other gases, except H
+2, due to its 
+very high heat of combustion.
+B.Petroleum (crude oil)
+The word petroleum is derived from two Latin words, ‘ petra’ meaning rock, and 
+‘oleum’ meaning oil. Thus, petroleum means rock oil. Petroleum (also called crude oil)
+is a complex mixture of fossil hydrocarbons that must be separated into fractions and 
+then further refined before it can be used. It is generally found along with natural gas in the form of a dark-coloured viscous liquid, which is a complex mixture of hydrocarbons. Its composition varies according to its place of origin. However, crude oil mainly contains alkanes, cycloalkanes and aromatic hydrocarbons. It also contains organic compounds consisting of nitrogen, sulphur and oxygen in small amounts.
+Refining of Crude Oil
+Petroleum refining begins by fractional distillation of crude oil into three principal cuts according to boiling point (bp): straight-run gasoline (bp 30–200 °C), kerosene (bp 175–300 °C), and heating oil, or diesel fuel (bp 275–400 °C). Further distillation under reduced pressure then yields lubricating oils and waxes and leaves a tarry residue of asphalt. The distillation of crude oil is only the first step in gasoline production, however. Figure 6.8 shows the fractional distillation set up for separating crude oil into 
+its component fractions.
+The major products (fractions) obtained from the fractional distillation of petroleum 
+and their uses are given in Table 6.7.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+292Chemistry Grade 10
+Table 6.7 Typical fractions obtained by fractional distillation of petroleum
+Fractions Number of 
+carbon atoms 
+per moleculeBoiling point 
+range (oC) of 
+fractionsUses
+Natural Gases C1→ C4Below 20 As fuel in the form of bottled gas.
+Petroleum ether C
+5→ C720 → 60 As solvent in dry cleaning
+Gasoline (Petrol)C
+5→ C1040 → 200 Petrol fuel for internal combustion engines
+Kerosene C
+12→ C18175 → 275 Jet engine fuel, household fuel
+Fuel oil (diesel oil)C
+15→ C18250 → 400 Furnace fuel, diesel engine fuel
+Lubricating oil Petroleum jelly>C
+19Non-volatile liquids- Lubrication, grease
+Paraffin wax Residue>C
+20Non-volatile solids- Candles, polishes- bitumen for roof sealing and road surfaces
+Note that as the later fractions obtained at higher temperatures are more coloured, more viscous, and less inflammable. 
+Straight-r un gasoline turns out to be a poor fuel in automobiles because of engine 
+knock, an uncontrolled combustion that can occur in a hot engine.
+Figure 6.8  Fractional Distillation of Petroleum.
+The octane number of a fuel is the measure by which its antiknock properties are judged. 
+Straight-chain hydrocarbons are far more prone to induce engine knock than are Hydrocarbons and their Natural Sources
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+293Chemistry Grade 10 Hydrocarbons and their Natural Sources
+highly branched compounds. The highly branched compound 2,2,4-trimethylpentane 
+(called isooctane in the petroleum industry) burns very smoothly (without knocking) in internal combustion engines and is used as one of the standards by which the octane rating of gasolines is established. According to this scale, 2,2,4-trimethylpentane has an octane rating of 100. Heptane, CH
+3(CH2)5CH3, a compound that produces 
+much knocking when it is burned in an internal combustion engine, is given an octane rating of 0. Mixtures of 2,2,4-trimethylpentane and heptane are used as standards for octane ratings between 0 and 100. A gasoline, for example, that has the same characteristics in an engine as a mixture of 87% 2,2,4-trimethylpentane and 13% heptane would be rated as 87-octane gasoline.
+CH3CH2CH2CH2CH2CH2CH3
+Heptane
+(octane number = 0)CH3C CH2CH CH3CH3
+CH3CH3
+2,2,4-trimethylpentan e
+(octane number = 100)
+Because straight-run gasoline burns so poorly in engines, petroleum chemists have devised numerous methods for producing higher-quality fuels. One of these methods, catalytic cracking, involves taking the high-boiling kerosene cut (C
+11– C14) and 
+‘cracking’ it into smaller branched molecules suitable for use in gasoline. What does cracking mean? Cracking is the decomposition of large hydrocarbon molecules into smaller ones by the application of heat (thermal cracking or pyrolysis) 
+C
+16H34   C8H18  +  C8H16
+Hexadecane Octane Octeneheat
+or in the presence of catalysts (catalytic cracking). Hydrogen gas can be added during cracking to saturate the alkenes formed in the process.
+Another process, called reforming , is used to convert C
+6– C8 alkanes to aromatic 
+compounds such as benzene and toluene, which have substantially higher octane 
+numbers than alkanes. The final product that goes into the tank has an approximate composition of 15% C
+4– C8 straight-chain alkanes, 25% to 40% C4– C10 branched-
+chain alkanes, 10% cyclic alkanes, 10% straight chain and cyclic alkenes, and 25% arenes (aromatics).  
+C. Coal
+At the end of this section, students will be able to
+"identify the composition of coal;
+"describe destructive distillation of coal.
+Coal is formed naturally by the decomposition of plant matter over several million of 
+years. It is not a pure form of carbon. It is an important source of aromatic hydrocarbons. 
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+294Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Heating mineral coal in the absence of air, or oxygen is called destructive distillation 
+of coal or coking of coal. When coal is heated in the absence of air it gives volatile products and coke. The volatile products that are separated into coal gas and a liquid are called coal tar when cooled. Aromatic hydrocarbons and many other substances are isolated from coal tar by fractional distillation. Coke, which is a solid and relatively pure form of carbon, is used as a fuel in the blast furnace during the extraction of iron. It is also used to produce gaseous fuels, such as water gas (mixture of H
+2 and CO) and 
+producer gas (mixture of N2 and CO).
+1.Discuss the importance of natural gas for a country's economic development.
+2. What are the major natural sources of hydrocarbons?3. Which hydrocarbons are the main constituents of petroleum?4. What is destructive distillation?5. Describe how we can obtain aromatic hydrocarbons from coal.6. Which fraction of petroleum is in very high demand?7.What process should be carried out during fractional distillation of crude oil to maximize the output of petrol or gasoline?
+8.Describe the main uses of a) petroleum ether; b) kerosene; c) gasoline; d)diesel oil; e refinery gases.Exercise 6.19
+Key Terms
+"addition reaction
+"alkane
+"alkene
+"alkyl halide
+"alkyl radicals
+"alkynes
+"benzene
+"biogas
+"carboxylic acid
+"chain isomerism
+"cracking
+"crude oil
+"cycloalkanes
+"cycloalkene
+"decarboxylation
+"dehydrohalogenation
+"destructive distillation
+"elimination reaction
+"functional group"geometrical isomerism
+"halogenation
+"hydrohalogenation
+"homologous series
+"hydrogenation
+"inorganic compound
+"isomers
+"ketone
+"life force (vitalism) theory
+"Markovnikov’s rule
+"natural gas
+"organic compound
+"petroleum
+"polymerization
+"position isomerism
+"saturated hydrocarbons
+"substitution reaction
+"unsaturated hydrocarbons
+"Wurtz reaction
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+295Chemistry Grade 10 Hydrocarbons and their Natural Sources
+Unit Summary
+"The ‘vitalism’ theory states that living organisms (plants and animals) have a 
+special life force which helps them to synthesize organic compounds and that organic compounds cannot be synthesized artificially by man in the laboratory.
+"Organic chemistry is the study of carbon compounds including natural and synthetic ones.
+"Organic compounds are classified based on the functional group they contain in their molecules.
+"The functional group is a part of a molecule that determines the chemical and physical properties of a compound.
+"Hydrocarbons are compounds composed of carbon and hydrogen atoms only.
+"Saturated hydrocarbons contain only single bonds between carbon atoms
+"Unsaturated hydrocarbons are those containing one or more double or triple bonds between carbon atoms.
+"A homologous series is a group of compounds in which each member of the group differs from the next member by –CH
+2– group.
+"Alkanes are saturated hydrocarbons represented by the general formula CnH2n+2. 
+Alkanes are named by using prefixes that indicate the number of carbon atoms and the suffix ‘-ane’.
+"Isomerism is the existence of two or more compounds with the same molecular formula but different structures. These compounds are called isomers.
+"Alkenes are unsaturated hydrocarbons containing a carbon-carbon double bond as their functional group. Their general formula is C
+nH2n. The suffix ‘-ene’ in their 
+names indicates the presence of a carbon-carbon double bond.
+"Alkynes are unsaturated hydrocarbons containing a carbon-carbon triple bond as their functional group. They are represented by the general formula C
+nH2n-2. The 
+suffix ‘-yne’ indicates the carbon-carbon triple bond.
+"Alkenes and alkynes undergo mainly addition reactions while alkanes undergo substitution reactions.
+"Aromatic hydrocarbons are compounds containing benzene rings. Benzene is the simplest aromatic hydrocarbon.
+"The natural sources of hydrocarbons are crude oil, natural gas and coal.
+"Crude oil is a complex mixture of hydrocarbons, mainly alkanes, and also contains cycloalkanes and aromatics.
+"Crude oil is separated into several useful fractions by fractional distillation.
+"Organic chemicals are also used as fuels and solvents for dry cleaning.
+Review Exercise
+Part I: Multiple Choice Questions1.The first organic compound that is artificially synthesized from inorganic starting materials is_____________.
+a. benzene b.methane c. urea d. hydrocarbons
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+296Chemistry Grade 10 Hydrocarbons and their Natural Sources
+2.Which of the following hydrocarbons does not belong to the homologous series 
+of alkanes?
+a. C3H8   b.C8H18   c. C6H10    d. C10H22
+3. Which of the following alkanes is a liquid at room temperature?
+a. CH4        b.C10H22    c. C4H10             d. C3H8
+4. The hydrocarbon used as a fuel in an oxyacetylene torch is:
+a. C2H2       b.C2H4    c. C4H10            d. CH4
+5.The general formula that represents the olefin homologous series is:
+a. CnH2n+1   b.CnH2n+2    c. CnH2n–2  d. CnH2n
+6. The most common reaction that alkenes undergo is:a.elimination              b. substitution               c.addition                    d. decomposition
+7.A compound having molecular formula C
+7H8 that does not decolorize Br2 in CCl4
+or KMnO4 solution most likely belongs to a class of hydrocarbons called _______
+a. Alkynes           b.Alkanesc. Alkenes           d. Aromatic hydrocarbons
+8. Which hydrocarbon is the main constituent of natural gas and biogas?
+a. C
+4H10   b.CH4        c. C2H6        d. C6H14
+9.During the fractional distillation of crude oil, the process of cracking is carried out to:
+a. separate the crude oil into different fractionsb.vaporize the liquid components
+c. maximize the output of petrol or gasolined. separate alkanes from alkenes
+10. Ethyne decolorizes Br
+2 in CCl4. This is due to the formation of:
+a. 1,1-dibromoethane                        b.1,1,2,2-dibromoethene
+c. 1,2-dibromoethane                        d. 1,1,2,2-tetrabromoethane
+11.The following reaction can be classified as:
+  CH
+4 + Br2→ CH3Br + HBr
+a. an addition reaction               b.an elimination reactionc. a substitution reaction            d.a saponification reaction
+12. Which one of the following substances is not used in dry cleaning?
+a. CCl
+4                      b.C6H6c. Cl2C=CCl2                     d. CH3COOH
+13.The first organic compound was synthesized in the laboratory by:
+a. Friedrich Wohler             b.A. Kekulec. John Dalton                     d. Wurtz
+14. Which reagent is used to test for unsaturation of hydrocarbons?
+a. Wurtz reagent        b.Bromine in CCl
+4c. Alkaline KMnO4       
+d. B & C
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+297Chemistry Grade 10 Hydrocarbons and their Natural Sources
+15. Which alkene doesn’t exhibit cis-trans isomerism? 
+a. 2-butene    
+b.2-pentene c. 2,3-dimethylbut-2-ene  d. All
+16. Which one of the following compounds does not decolorize bromine water?
+a. C
+3H4b. C2H2    c. C6H14   d. All
+Part II: Supply Type Questions17. Complete the following reaction equations:
+a. CH
+2 + H2Ni
+HeatCH2
+b.CaO, heatCH3COONa + NaOH
+c. CH2Br + 2Na CH3
+d. CH-CH2 + NaOH CH3
+BrBr
+H2SO4
+Heate.CH3CH2CH2OHHeatf.CH3CH2CH2Cl + KOH
+g. CNa + CH3CH2Br CH
+h. CH2 + HBr CH3-CH
+i. C-CH2CH3 + 2HCl HC
+j. CH2 +  H2OH+CH3CH2-CH
+k. CH2 +  H2OAlkaline
+KMnO4CH3CH2-CH
+Part III. Workout Type Questions
+18. Draw structures for the following:
+a. 2-Methylheptane   b. 4-Ethyl-2,2-dimethylhexane
+c. 4-Ethyl-3,4-dimethyloctane  d. 2,4,4-Trimethylheptane
+e. 3,3-Diethyl-2,5-dimethylnonane f. 4-Isopropyl-3-methylheptaneg. 4-ethyl-2,2,3-trimethylhexane  h. 3-bromo-2-chlorohex-1-ene
+19.Name the five isomers of C
+6H14.
+20. Explain why each of the following names is incorrect:
+a. 2,2-Dimethyl-6-ethylheptane   b. 4-Ethyl-5,5-dimethylhexane
+c. 3-Ethyl-4,4-dimethylhexane   d. 5,5,6-Trimethyloctane
+(e) 2-Isopropyl-4-methylheptane21.Propene, CH
+3CH=CH2, is an alkene. Write the structure of a structural isomer of 
+propene that is not an alkene. (Hint: It does not have a double bond.)
+22.Propose structures for two structural  isomers of cyclopentene that do not contain a ring.
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+298Chemistry Grade 10 Hydrocarbons and their Natural Sources
+23. Give IUPAC names for the following compounds:
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+Ethiofetena.com Ethiopian No 1 Educational Website
+
+--- [PAGE BREAK] ---
+
+Ethiofetena.com Ethiopian No 1 Educational Website

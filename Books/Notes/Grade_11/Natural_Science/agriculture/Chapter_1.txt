@@ -1,0 +1,1284 @@
+=================================================================
+Book: agriculture.pdf
+Chapter 1: General Content
+Pages: 1 to 60
+=================================================================
+
+2023 2023
+
+
+--- [PAGE BREAK] ---
+
+AGRICULTURE
+STUDENT TEXTBOOK
+GRADE 11
+Writers:
+Seid Ali (MSc)
+Shimelis Gizachew (PhD) 
+Editors:
+Bimrew Asmare (PhD)  (Content Editor)Fetene Regassa (PhD)  (Curriculum and Instruction Editor)Tamene Kitila (PhD)  (Language Editor)
+Illustrator
+Yonas Azene (MSc) 
+Designer:  
+Ephrem Alamrew (MSc)
+Reviewers:
+Taye Tolemariam (Professor, PhD)
+             Teramage Tesfaye (PhD)
+Evaluators:
+Daniel Taddesse (PhD)Serawit Handiso (PhD)
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+MINISTRY OF EDUCATIONHAWASSA UNIVERSITY
+
+
+--- [PAGE BREAK] ---
+
+First Published by the Federal Democratic Republic of Ethiopia, Ministry of Educa -
+tion, under the General Education Quality Improvement Program for Equity (GEQIP-E) supported 
+by the World Bank, UK’s Department for International Development/DFID-now merged with the Foreign, Common wealth and Development Office/FCDO, Finland Ministry for Foreign Affairs, the Royal Norwegian Embassy, United Nations Children’s Fund/UNICEF), the Global Partnership for Education (GPE), and Danish Ministry of Foreign Affairs, through a Multi Donor Trust Fund.
+   
+©  by the Federal Democratic Republic of Ethiopia, Ministry of Education. All rights 
+reserved. The moral rights of the author have been asserted. No part of this textbook reproduced, copied in a retrieval system or transmitted in any form or by any means in -
+cluding electronic, mechanical, magnetic, photocopying, recording or otherwise, without the prior written permission of the Ministry of Education or licensing in accordance with the Federal Democratic Republic of Ethiopia as expressed in the Federal Negarit Gazeta, 
+Proclamation No. 410/2004 - Copyright and Neighboring Rights Protection.
+The Ministry of Education wishes to thank the many individuals, groups and other bodies 
+involved – directly or indirectly – in publishing this Textbook. Special thanks are due to Hawassa University for their huge contribution in the development of this textbook in collaboration with Addis Ababa University, Bahir Dar University and Jimma University.
+Copyrighted materials used by permission of their owners. If you are the owner of copy -
+righted material not cited or improperly cited, please contact the Ministry of Education, 
+Head Office, Arat Kilo, (P.O.Box 1367), Addis Ababa Ethiopia. 
+  August 2023
+2023
+ISBN: 978-99990-0-076-5
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Contents I1.1 Definition of  common terms used in        
+      crop production                                              
+1.2 The origin of  domesticated crops                           
+1.3 Status of  crop production
+1.4 Classification of  crop plants
+1.5 Cropping systems1.6 Indigenous knowledge in crop productionIntroduction to Crop Production   1
+ Unit 1Contents
+2
+3
+5
+8
+8
+14
+Field Crops Production and Management  19
+2.1 Cereal crops production and management
+2.2 Pulse crops production and management
+Unit 2
+20
+29
+Industrial Crops Production and Management   36
+3.1 Oil crops production and management
+3.2 Fiber crops production and management
+3.3 Sugar crops production and management    
+Unit 3
+37
+39
+42
+ Introduction to Farm Animals    47
+4.1 Farm animal species
+4.2 Importance of  animal production    
+4.3. Constraints in animal production and 
+       their mitigation strategies
+4.4.  Animal production systems 
+Unit 4
+48
+57
+60
+62
+Animal Feeds and Feeding Practices   69
+5.1 Feed resources in Ethiopia           
+5.2 Classification of  feed resources  
+5.3. Nutrient requirement of  farm animals 
+5.4 Feed formulation practices 5.5. Feed conservation and compound feed        manufacturing     
+   
+Unit 5
+70
+7577
+80
+83
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Contents IIFarm Animals Housing     108
+7.1 Significance of  farm animal house      
+7.2 Types of  farm animal housing
+7.3 Guidelines for site selection and house construction
+Unit 7
+110
+111116
+Basic Animal Health and Disease Control  123
+8.1 Introduction to animal health and      
+      disease control     
+8.2 Major diseases of  farm animals
+8.3 Internal and external parasites of  farm animals
+8.4 Effects of  diseases and parasites in animal      production
+8.5 
+Prevention and control of  common farm 
+       animal diseases
+Unit 8
+124
+125
+127
+128
+129Animal Genetics and Breeding Practices  94
+6.1 Introduction to animal genetics and breeding
+6.2 Breed improvement methods 
+6.3 Farm animal reproductive technologies
+6.4 Animal identification and record keeping  95
+96
+101
+106
+Unit 6
+ Dairy Cattle Production and Management  135
+9.1 Introduction to dairy cattle production and 
+      management    
+9.2 Dairy cattle breeds and thier selection
+9.3 Feeding management of  dairy cattle
+9.4 Milk production and processing
+9.5 Dairy cattle housing management
+9.6 Major diseases of  dairy cattle and their control       methods
+9.7 Profitability in dairy business
+Unit 9
+136
+137144
+146
+155
+157
+159
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Contents III10.1 Definition and importance of  natural 
+        resources   
+10.2 Major types of  natural resources    
+10.3 Causes and consequences of  degradation
+        of  natural resources     Introduction to Natural Resources            163
+ Unit 10
+164
+164
+169
+ Management of  Natural Resources   182
+11.1 Concepts of  natural resource use       
+11.2 Soil management
+11.3 Agricultural water management
+11.4 Forest and wildlife management
+11.5 Environmental management
+11.6 Types of  indigenous knowledge’s applicable 
+        in natural resources management practices183
+184187
+189191
+192
+Unit 11
+ Concepts of  Biodiversity     197
+12.1 What is biodiversity?  
+12.2 The scope of  biodiversity  
+12.3 Values and services of  biodiversity  
+12.4 Threats to biodiversity
+12.5 Biodiversity conservation and its status in 
+        Ethiopia 198
+198
+199200
+203
+Unit 12
+Climate Change Adaptation and Mitigation       211
+13.1 Definition of  climate change and its variability  
+ 13.2 Clima te change and its effects
+13.3 Climate change mitigation strategies
+13.4 An overview of  climate change adaptation 
+       strategies of  Ethiopia
+13.5 Indigenous knowledge in climate change 
+       mitigation strategies212
+214
+216
+217
+218
+Unit 13
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Contents IV
+Unit 15 Introduction to Human Nutrition   235
+15.1 Definition of  basic terms in human nutrition   
+15.2 Nutrients and their functions 
+15.3 Food groups and their sources 
+15.4 Food and nutrition security 
+15.5 Agriculture-nutrition linkage and 
+       nutrition-sensitive agriculture 
+15.6 Malnutrition and its causes in Ethiopia   
+       236
+237
+240243
+245246
+Diversified Food Production and Consumption   254
+16.1 Importance of  diversified food production   
+16.2 Dietary diversification strategies
+16.3 Nutrient enrichment strategies
+16.4 Indigenous knowledge in nutrition sensitive 
+        agriculture
+Unit 16
+255
+256
+257
+261 Mechanized Farming     225
+227
+228
+22914.1 Introduction to mechanized farming    
+14.2 Types of  farm tools and equipment
+14.3 Uses of  some farm tools and equipment
+Unit 14
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 1
+Introduction to Crop  
+Production
+Contents Learning Outcomes
+1.1. Definition of common terms 
+used in crop productionAt the end of this unit, you will be able to:	define crop production related terms/phrases 
+	explain origin of different domesticated crops 
+	describe the status of crop production 
+	classify crop plants 
+	analyze different cropping systems and principles of crop husbandry
+	explain indigenous knowledge used related to crop production1.2. The origin of domesticated crops
+1.3. Status of crop production
+1.4. Classification of crop plants
+1.5. Cropping systems
+1.6. Indigenous knowledge in crop production
+ 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 21.1. Definition of Common Terms Used in Crop Production
+1.2. 
+Agriculture is defined as the deliberate cultivation of crops and rearing 
+of animals.
+Before the introduction of agriculture, societies survived by hunting animals 
+and gathering plants for food. Studies indicate that hunter-gatherers had to be insightful in order to survive. Today, hunting animals and gathering plants for food may be viewed as primitive and unskilled activities. However, the hunter-gatherer life-style has not completely disappeared with the expansion of agriculture. Even today, there are hunter-gatherers in areas where the land and climate conditions do not favour deliberate crop culture. Desert areas, Arctic region and pockets of tropical rain forest are examples of such places. Agriculture involves the deliberate cultivation of crops and the rearing of animals. Before development of agriculture, people started to domesticate animals mainly for food production. Later, people started to breed animals in order to produce non-food materials. Crop and livestock production has gradually become the major means of survival for societies.  
+Shifting cultivation: is a form of agriculture in which an area of ground 
+is cleared of vegetation and cultivated for a few years and then abandoned for a new area.
+Early crop production involved temporary cultivation of land called shifting cultivation. This required clearing trees and cultivating the land for just one or two seasons. Abandoning the land cultivated after it had been cultivated once and shifting to a new location was common. Unlike the familiar practice known today, crop cultivation and animal rearing Brainstorming 1.1
+Answer the following questions independently before reading the 
+notes and share your answers with your classmates
+1. What is agriculture?
+2. How do you think agriculture started? 
+3. What practices does the term agriculture include?
+4. What is the difference between agriculture and farming?
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 3continued without requiring the application of scientific knowledge.  
+Settled agriculture: the practice of using the same plot of land 
+continuously over a long period to grow crops or rear livestock.
+In a settled agriculture, the land is cultivated continuously. The cultivation 
+of land in a settled agriculture involves the use of yield enhancing practices. Crop management practices such as using manure, fertilizer, the construction of soil bunds for erosion control, and the optimized use of water have now become associated with cultivation of land in a settled agriculture. This means that a settled agriculture is a more advanced activity than traditional shifting cultivation.
+Subsistence farming: the practice of growing crops and raising livestock sufficient only for one’s own use, without any surplus for trade.
+Subsistence farming refers to a situation in which a farmer produces crops and livestock sufficient only for household use without any surplus for trade.  The major aim of this type of farming is to produce crops and animals for the farmer’s own consumption. Subsistence farming often requires simple techniques that often do not go beyond a household capacity.  If there is any excess production, it might be stored for times of poor harvest or sold to generate income for the household. 
+1.2. The Origin of Domesticated Crops
+It is not possible to know the exact place and time that agriculture began. However, growing crops and rearing animals in a specific area is a deliberate activity that took a long time to develop. Evolution of agricultural economies transformed wild plant species to the fully domesticated ones. 
+It is possible that religion may have influenced agriculture as particular 
+animals and plants were kept as they were required for religious practices. 
+There may be many reasons why the hunter-gatherer culture gradually 
+changed to agriculture and this change took place over thousands of years.
+No strong evidence is available on how hunter-gatherers chose their 
+food sources. A fair estimate could perhaps be that the hunter-gatherers were influenced by certain features of the plant species they selected as food sources. This selection as food source probably influenced 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 4the domestication process of the plant species. Ease of harvest, wide 
+availability and ease of transport to the desired place could have been some useful features hunter-gatherers considered in their plant selection. Plants selected for food could also have been those available with high predictability and seasonal distribution. Possessing climatic tolerance, having good flavour and suitable grain size could also have been other desirable characteristics of plants considered for selection. The wild plant species that hunter-gatherers consumed include wild rice, grass species, wild oats and legumes. Legumes used by hunter gatherers are known to have been toxic. This suggests that the societies detoxified and used the legumes as food. Their detoxifying skills were based on trial and error. Presumably, they used the poisonous substances they extracted from such toxic legumes as poisons on arrowheads in hunting. This discovery may suggest that in hunter-gatherer life style survival required insight. 
+Root crops were widely used as food by hunter-gatherers particularly in 
+the tropical region. Wild onions and sweet potatoes were also important food sources for hunter-gatherers. Hunter-gatherers used hunted animals and plant species such as coconut, oil palm and olive as sources of oil.
+Group discussion
+• In a small group, discuss the criteria that hunter-gatherers could have used to select their food sources. Activity 1.1. 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 51.3. Status of Crop Production 
+Agriculture provides food and other goods for society. Crop plants 
+provide food for humans and feed for livestock. Crop production is mainly 
+determined by the crop type, and the environment in which it is grown. 
+Agriculture involves selection of a crop species, selection of specific types of crop and land preparation before planting. It also involved planting at the right time, protecting the crop from diseases and pests and adopting techniques to increase productivity. Primitive agriculture used primitive tools that had a low efficiency and were not easy to operate. Over time, agriculture has evolved into a more complex process with enormous technological advancement. The technological advancement in agriculture resulted in: 
+	
+access to improved seeds 
+	better production practices 
+	better harvesting and storage facilities
+Modern agriculture also involves crop rotation (rotating or shifting between different crops in different growing seasons, as opposed to planting the same crop on the same plot every year), fallowing (leaving a plot of land free of crop growth for 2 or three seasons for soils to recover) and use of various soil conservation practices to control soil erosion. The use of efficient technologies to improve production also characterizes modern agricultural practices. Efficient technologies include the use of machinery, Brainstorming 1.2
+Crop productionDiscuss the following questions in pairs and share your ideas with your class mates
+	What do you think are the major activities in crop production? Discuss with your partner and then share your ideas with the class.
+	List the major differences between the ancient and the modern crop productions in terms of yield.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 6agrochemicals, irrigation, biotechnology and genetic improvement of 
+plants (plant breeding). These have enhanced the productivity of modern agriculture. Regions with better economic capacities are able to adopt advanced technologies in agriculture.
+Figure 1.1. a) manual soil cultivation b) animal drawn plough 
+One of the first technological changes in agriculture was the transfer of some tedious manual work to draft animals. The draft animals were used to prepare and plough land and transport materials. The development and use of agricultural machineries has further reduced the labour requirement. This enables an individual farmer to operate a large farm. Agriculture in industrialized regions is often classified into three Eras:
+ Mechanical Era (1930 - 1950)
+ Chemical Era (1950 - 1970) and
+ Biotechnology/Information Technology Era (1970 - present)
+Agricultural productivity in industrialized regions has increased as a result of the use of industrial technologies. Land preparation and planting can be completed at the best time with machinery. Crop diseases, weeds and pests can be easily controlled with agricultural chemicals. These modern crops have higher yields and improved resistance to diseases and pests, which has contributed to improved agricultural productivity in these regions.Agriculture in less developed regions, (e.g., in sub-Saharan Africa), is often traditional with draft animals still in use for cultivation, transport and other agricultural activities. As a result, agricultural productivity in these regions remains very low compared to industrialized regions.
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 7
+Figure 1.2. a) Tractor spraying pesticides (Chemical Era) and b) tractor 
+cultivation (Mechanical Era)
+Status of crop production in Ethiopia
+Ethiopian crop agriculture is complex. There are different agro ecologies in 
+different regions of the country and a wide range of crop types are grown. Ethiopia has about 51 million hectares of arable land, of which only about 20% is cultivated, mainly by smallholders. Five major crops constitute approximately 75% of the country’s cultivated area: 
+	
+teff 
+	wheat 
+	maize
+	sorghum and 
+	barley
+These grain crops supply approximately 64% of the calories consumed in the country. Cereals are grasses cultivated for their grains. Table 1.1 shows the increase in production of cereals (million tons) from 1961 to 2019. As shown in the table, between 1961 and 2000, there was also an increase in cultivated area (million ha). This can be associated mainly with the expansion of cultivated area as shown in table 1.1 and to some extent, increased use of agricultural inputs. However, there is limited evidence to support a parallel increase in productivity per unit area cultivated. The yield level is mainly limited by the recurrent droughts and climate changes. Achieving food security requires an increase in yield and a decrease in yields variability. The general yield level in the country is low compared to the international standards. The principal factors responsible for low crop yields in Ethiopia are:
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 8 soil degradation
+ traditional farming systems with little technology use
+ uncertain and variable rainfall
+ very low level of irrigation and 
+ low use of inputs like improved seeds, fertilizers and pesticides
+Table 1.1. Trends in cultivated area and yields of the major cereal crops 
+in Ethiopia
+Production yearCultivated area 
+(million ha)Yields in tons/haProduction 
+(million tons)
+1961-1970 6.23 0.73 4.53
+1971-1980 5.25 0.90 4.63
+1981-1990 4.89 1.15 5.63
+1991-2000 5.87 1.18 6.88
+2001-2009 8.24 1.30 10.68
+2011-2019 10.5 1.57 16.5
+Source: Food Balance Sheets Database http://faostat.fao.org/
+1.4. Classification of Crop Plants  
+Crop plants can be classified into four major categories: food crops, oil crops, fiber crops and sugar crops.
+1.4.1.  Major food crops
+Globally, the three most important food crops are wheat, rice and maize in terms of volume of production. Other important crops include sorghum, barley and oats. In the Ethiopian context, in terms of area of cultivation, the top five major crops are teff, wheat, maize, sorghum and barley. Group discussion
+• Ethiopian agriculture is often characterized by low level of crop yields or low productivity in general. Make a group of 3 to 5 students and discuss the possible reasons for low crop productivity in the country. Discuss your personal experience of any of the factors that contribute to low yield and how this may have affected you or your families or the community in general. Report the summary of your discussion orally to the whole class.Activity 1.2. 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 9Crops can be generally classified into monocots and dicots. Monocot 
+crops store food primarily in their endosperm. The endosperm contains 
+starch and small quantities of protein and other nutrients. On the other 
+hand, dicots such as legumes and oil seeds, store food in their cotyledons. Legumes and oil seeds are used as grain crops. The cotyledons have high amounts of protein, oil and some carbohydrates. The most important food and feed legumes or oil seed grains are soybean, peanut, beans and peas. However, protein in dicot plants is low in certain essential amino acids.
+Figure 1.3. Major food crops in Ethiopia: a) teff, b) wheat and c) maize
+ 
+1.4.2.  Major Oil Crops
+Oil crops or oil seed crops are grown in order to extract the oil contained in their seeds. Major oil seeds include olive, linseed, sesame and sunflower. Soybean, coconut, palm, maize and peanut are also oil seeds. Plant-derived oils are used for food as well as for industrial purposes. Oils supply two Key terms  
+Monocots:  grass and grass-like flowering plants whose seeds contain 
+only one embryonic leaf or cotyledon.
+Dicots:  these are flowering plants whose seeds contain two embryonic 
+leaves cotyledons.
+Cotyledon:  seed leaf within the embryo of the seed that serves as food 
+source for the plant embryo to germinate
+Endosperm:  tissue produced inside the seeds of flowering plants and 
+provides nutrition in the form of a starch. It is a source of nutrition in 
+animal diet.  
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 10essential fatty acids: linoleic and alpha-linolenic acids. They also supply 
+vitamins A, K, D and E. Oils and fats are composed of triglycerides. Triglycerides are composed of glycerine and three fatty acids. A fatty acid is generally composed of long chains of carbon, hydrogen and oxygen atoms..
+1.4.3.  Major fibre crops
+Plant fibres are used for making clothing and in textile industry. Cotton lint is the most important fibre for cloth-making. Plant fibers can be obtained from cotton, inner barks of certain plant species: stems (flax, jute, hemp, ramie, Kenaf, nettle, bamboo). Fibers obtained from cotton are used to manufacture sewing threads and cloth. Fibers from barks of certain plants are often used to manufacture packaging materials. Vegetable fibers such as jute are often hard and used in rope manufacturing.  
+1.4.4.  Major forage crops
+Forage crops are plants used as food for livestock or farm animals. The major forage crops include alfalfa, Sesbania sesban, Leucaena leucocephala, clovers and Timothy. Elephant grass, Desho grass, Rhodes grass, Panicum grass, Sudan grass and Johnson grass are other forage crops. Cereal grain crops at their early growth stages might be used as livestock feed. Plants used as livestock feed are often grown for their vegetative parts such as roots, shoots, shoot buds and leaves. Forage crops may be selected for the protein, fiber and nutrients they provide. Some forage crops can provide farm animals with vitamins A and E, sodium, potassium, calcium, phosphorus and magnesium. 
+Figure 1.4. a) Sunflower (oil crop), b) cotton (fibre crop) and c) tropical 
+grass (forage crop)
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 111.4.5.  Classification of crops into C3 and C4 plants
+Crop plants transform carbon dioxide (CO2) in the atmosphere into 
+carbohydrates by the process of photosynthesis .
+Depending on their photosynthetic pathway, crop plants can be classified 
+into either C3 or C4 types. In the C3 photosynthetic pathway, the first stable carbon compound formed from assimilation of carbon dioxide contains 3 carbon atoms. In the C4 photosynthetic pathway, the first stable carbon compound formed from CO
+2 assimilation contains 4 carbon atoms. For 
+C3 plants, rates of photosynthesis increases with increased levels of CO2. 
+C4 plants have a mechanism to accumulate CO2 inside the chloroplast and 
+therefore their photosynthetic rates do not increase with an increase in CO2 
+levels. This means that C4 plants can reach higher photosynthetic rates at low levels of CO
+2 while C3 plants cannot. This is because C3 plants 
+do not possess a CO2 accumulation mechanism. Moreover, C4 plants are 
+more efficient in using water and require less nitrogen compared to C3 plants. Generally, C4 plants have higher photosynthetic rates at a given temperature, compared to C3 plants. Examples of C3 crops include: wheat, barley, teff, soy bean, ground nut and sweet potato. Examples of C4 plants are: sorghum, maize, sugar cane and most weed species.Key term:
+Photosynthesis:  is a process by which plants use sunlight, water and 
+carbon dioxide to produce oxygen and energy in the form of sugar.
+Group task
+• Make a group of 3 to 5 students and visit a nearby market. List the types of grain crops available at the market. 
+• Classify these grain crops in to the different categories and submit the report to your teacher
+• Climate change results from increased concentration of CO
+2 and other greenhouse gases in the atmosphere. How 
+do C3 and C4 plants respond to increased CO2 that results 
+from climate change? Why? Submit written answers to your teacherActivity 1.3.  
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 121.5. Cropping Systems 
+Cropping system refers to the types and sequences of crops and the 
+different practices used to grow them. Different cropping systems require different types of management and possess their own advantages and 
+disadvantages. There are several forms of cropping  systems, including 
+mono cropping, mixed cropping (including intercropping and relay planting) relay planting and crop rotation.
+1.5.1.  Mono cropping
+Mono cropping is growing a single crop type in a given plot of land. Mono cropping is commonly practiced in large scale commercial crop production. Some smallholder crop production systems may also practice mono cropping. In this system, a single crop species occupies the whole farm. One disadvantage of mono cropping is the risk of total crop failure, as a result of crop pests and diseases. Mono cropping also results in reduced soil fertility. On the other hand, mono cropping has the advantage that it enables farmers to use uniform management and increases the efficiency of practices like planting and harvesting.
+1.5.2.  Mixed cropping 
+Mixed cropping is growing two or more crops simultaneously on the same piece of land. Mixed cropping reduces the risk of total yield loss as the farmer is not dependent on the yield of only one crop. Mixed cropping also allows for more efficient use of soil nutrients, water and light radiation. In addition, mixed cropping helps to break the cycle of crop pests and diseases which are very common in mono cropping systems. The most common types of mixed cropping are intercropping and relay planting. Brainstorming 1.3
+Answer the following questions. Compare your answers with your 
+classmates’.
+1. What is a cropping system?
+2. What are the major crops grown in your locality? Are the crops grown every year on the same plot of land similar? Why?
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 13Intercropping 
+Intercropping is the planting of more than one crop in regular rows on the 
+same field at the same time. As shown in Figure 1.5, intercropping often involves the planting of cereal crops such as maize alongside legumes. Relay and intercropping systems provide better soil cover and reduce soil erosion. Crop diseases also spread less rapidly in relay and intercropping systems compared to the mono cropping systems.
+   Figure 1.5. Intercropping
+Relay planting Relay planting is where a second crop is planted after the first crop has grown alone for a certain period. This system reduces the risk of total crop failure as the farmer doesn’t depend on the yield of one crop only. 
+1.5.3.  Crop rotation   
+Crop rotation is the practice of growing different crop species on the same plot of land sequentially. For example, planting maize in the first season can be followed by bean production in the next season, and cultivation of teff  in the third season. The sequence might be repeated many times. Rotations could also involve more crop species depending on the environment. The objectives in crop rotation include improving soil fertility, especially if legumes are included in the rotation, and controlling of some crop pests and diseases. On the other hand, crop rotation may also develop resistant diseases and weeds. Besides, changing climates may be a challenge to crop rotation. 
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 141.6. Indigenous Knowledge in Crop Production
+Indigenous knowledge is traditional or local knowledge. It is the knowledge 
+that local communities have accumulated over generations of living in a particular geographic location. It is often referred to as ‘home grown’ 
+or ‘local knowledge’ that is unique to a particular culture. Indigenous 
+knowledge often develops independently of scientific knowledge. It often includes beliefs and traditions intended to preserve, communicate, and contextualize indigenous relationships with culture and landscape over time. 
+Indigenous knowledge often develops from agricultural production related 
+problems. These problems might include land becoming less fertile (land degradation), soil erosion, changes to the climate, as well as working with the natural physical features of an area (topography). Other issues such as farmers having only small landholdings along with social and cultural settings of the community.
+Communities with indigenous knowledge possess knowledge about their 
+natural resources and environment based on a long period of observation and experience. For example, indigenous knowledge about natural resource management is vital among the Gumuz society. They believe that natural resources are a gift, a blessing and creation of the Yamba (God). They also believe that natural resources have been sources of livelihood for the past, are sources of livelihood for the present generation and will continue to be the sources for future generations. Conserving the natural resource has an impact on the soil fertility, on the rainfall pattern and on soil moisture and temperature. Overall, it improves crop productivity .Brainstorming 1.4
+Discuss the following questions in pairs.
+1. What is indigenous knowledge? How different is indigenous 
+knowledge from scientific knowledge?
+2. What indigenous knowledge is used in your locality to produce crops?
+3. Is indigenous knowledge sufficiently exploited in your locality? If not, what are the reasons?
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 15Another popular example of indigenous knowledge is the traditional skills 
+in terracing demonstrated by the Konso people. Their land is extensively 
+terraced to protect against soil erosion. The Konso people also practice traditional irrigation to supplement the unpredictable and variable rainfall. These practices have helped to reduce soil erosion and maintain soil quality.Other examples of indigenous knowledge in agriculture include the following:
+	
+Farmers in Bale prepare trench around potato plots to protect the crop from porcupine attack.
+	
+In Gondar, farmers shift their barns from one farmland to another in search of cow dung to fertilize the land.
+	
+Farmers in highland areas use kitchen ash to fertilize the soil and reduce soil acidity and smoke to reduce frost damage
+Field Visit
+• Visit villages in your vicinity in groups of 3 - 5 students and ask the people (the elders, development agents, and/or community leaders) about the indigenous knowledge they use for crop production and how that has affected crop production. Prepare a report on your findings and present it to the class for discussion.Activity 1.4. 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 16
+Unit Summary
+In this unit you have learnt that:
+	agriculture has gradually evolved from simple hunter-gatherer 
+form to a settled agriculture
+	in shifting from primitive hunter-gatherer forms to a settled agriculture, humans have selected crops for domestication based on suitable features of the crops
+	agriculture has passed through different phases of development (Mechanical, Chemical, Biotechnology or Technology Era). Each Era has had its own significant contribution to agricultural productivity.
+	low average national crop yields in Ethiopia are mainly attributed to soil degradation, erosion, compaction, climate change and low status of irrigation.
+	crops are generally classified into food crops, oil crops, fiber crops and forage crops depending on their end use.
+	crop plants are also classified into C3 and C4 depending on their photosynthetic pathways. 
+	C4 plants like maize and sorghum possess a mechanism to accumulate CO
+2 in the chloroplast and can reach high 
+photosynthetic rates at low CO2 levels 
+	C3 plants cannot achieve high photosynthetic rates at low concentration of CO
+2; they do not possess CO2 accumulation 
+mechanism.
+	different cropping systems are recognized: mono cropping, mixed cropping, relay planting and crop rotation. 
+	various indigenous knowledge practices that are very useful in crop production as well as in agriculture in general exist in local communities.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 17Part I: Choose the best answer from the given alternatives. 
+1. Which one of the following cereal grain crops is not grown widely in 
+in Ethiopia?
+A. Teff     
+B. Maize     C. Wheat     
+D. Rice
+2. What are the three major crops produced globally? 
+A. Maize, Teff and Wheat     
+B. Maize, Rice and Wheat     C. Maize, Barley and Wheat     
+D. Maize, Sorghum and Millet
+3. Which one of the following crops is not a legume crop?
+A. Lentil     
+B. Teff     C. Beans     
+D. A and C
+4. Why are the national average yields of major cereals very low compared to global yield levels?
+A. Low soil fertility     
+B. Low fertilizer use     C. Low irrigation    
+D. All of these
+5. Which one of these is not a major factor used in the selection of crops for domestication?        
+A. Resistance to crop pests  
+B. Attractive flavour    C. High yield    
+D. Susceptible to crop pests
+6. What is planting of two or more different crops on the same farm at the same time called?
+A. Crop rotation     
+B. Intercropping     C. Relay cropping     
+D. Mono cropping
+7. Which one of the following is not a forage crop?
+A. Alfalfa     
+B. Johnson grass     C. Cotton
+D. Elephant grass
+8. What is the name for knowledge that local people develop from living in a particular location for long periods?
+A. Modern knowledge   
+B. Indigenous knowledge  C. Scientific knowledge     
+D. Chemical knowledge        
+Review Exercise  
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Introduction to Crop Production 189. Which of the following is a C3 crop?
+A. Sorghum
+B. BarleyC. Maize
+D. Sugar cane    
+10. What is the definition of forage crops? 
+A. A crop grown to provide animal feed
+B. A crop grown to provide human food
+C. Plants found by hunter-gatherers
+D. Crops grown to produce industrial raw materials
+Part II: Answer the following questions.
+1. Write the definition of the following terms:
+a. Agriculture
+b. Shifting cultivation
+c. Settled agriculture
+d. Subsistence farming
+2. Compare subsistence farming with commercial farming in terms of 
+inputs and outputs. Mention at least 4 points.
+3. Over the last few decades, Ethiopian cereal production has generally increased, but the yield per unit area has not increased as much as the total yield. Explain why this is so?
+4. What are the most common cropping systems? Describe the advantages and disadvantages of each of these cropping systems.
+5. How is indigenous knowledge useful in crop production? Give specific examples.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+19 Field Crops Production and Management
+Field Crops Production 
+and Management
+Contents Learning Outcomes
+2.1. Cereal crops production and 
+managementAt the end of this unit, you will be able to:
+	define field crops, cereal and 
+pulse crops
+	identify the major cereals and 
+pulses produced in Ethiopia, 
+describe their uses and management
+	describe the status of cereal and pulse crops production 
+	explain the growth requirements 
+of the major cereals and pulses 
+produced in Ethiopia2.2. Pulse crops production and management
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 202.1. Cereal Crops Production and Management 
+Crop production is influenced by various factors. Some of the factors are 
+under the farmer’s control. Others cannot be fully controlled by the farmer. Selection of crop site is the principal factor that determines crop production. Crop selection requires knowledge of the crop requirement. Knowledge of soil properties, water and other growth factors is important in crop site selection. The soil type suitable for root or tuber crops is different from that of cereal or legume crops. It is important to select the best crop type that best fits the soil selected for the crop. 
+The farmer also needs to decide the amount of land to allocate for a 
+specific crop and the types of management needed for a maximum yield. The management practices include;
+	
+appropriate planting time 
+	deciding planting distance 
+	pest control strategies
+	deciding when to harvest 
+	post-harvest management
+The farmer is also able to control the type and amounts of agricultural inputs to use. This could include:
+ fertilizer to improve the nutrients available in the soil
+ irrigation to supplement rainfall
+ adding lime to modify the acidity of the soil.
+However, there are crop production factors that cannot be manipulated by 
+the farmer. For example, the unexpected end of favorable weather may Brainstorming 2.1.  
+Discuss the following questions in pairs.
+1. What types of food crops do you know?
+2. What are cereal crops? Give three examples.
+3. Name cereal crops produced in your locality. 
+4. What uses of cereal crops do you know, apart from their 
+use as food?
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+21 Field Crops Production and Managementresult in a huge crop loss. Similarly, a locust invasion cannot be planned 
+for ahead of time.
+ Field crops
+Field crops are crops grown on a wide scale mainly for human consumption. 
+These crops are annuals which means that they complete a life cycle in a single season. The major field crops are classified into two major groups called cereals and pulses (legumes).
+Cereals are crops with grass characteristics grown mainly for their edible 
+seeds. Cereals can grow in a wide range of environmental conditions, from low lands to highlands and in different soil types and climates. Cereal crops are monocots, which means that their seeds have a single cotyledon (embryonic leaf). As a result, during emergence they produce a single leaf.These crops contain:
+	carbohydrates
+	proteins 
+	fats
+	fibers
+The five major cereal crops produced in Ethiopia are teff, maize, wheat, barley and sorghum.
+2.1.1. Teff (Eragrostis abyssinica (Zucc.) Trotter)
+Teff is a cereal crop that is native to Ethiopia where it is used as staple 
+food. It is used as livestock feed in South Africa. Teff is a very nutritious cereal crop preferred by many people to other cereal crops. Moreover, teff  does not contain gluten, which causes allergy in some people. Maize and sorghum are other examples of cereals that do not contain gluten. Teff is now a high value cereal food crop being used even outside Ethiopia. In addition to the seeds that are consumed as food by humans, teff straw is also a valuable feed for animals. It is a high value crop with high price compared to other cereals and has a high acceptability by consumers. Also, teff can be stored for a long time. Compared to other cereals, teff is less affected by pests and diseases. These qualities make the crop reliable with 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 22low levels of risk compared to other cereals.
+Production and management
+Teff can grow in wide range of environments including low fertility soils, 
+soils with excessive moisture content and areas with moisture shortage. The crop can grow at altitudes ranging from the sea level to 2800 meters above the sea level.  The major teff producing areas have altitudes between 1500 and 2800 meters above the sea level. Teff performs well on loam and clay soils, which have high nutrient contents and water storage capacity. Teff ranks first in terms of the area of production in Ethiopia.
+Land preparation: teff has smaller grain size than most cereals. As a 
+result, it requires very smooth seed bed. For teff production, the soil is usually cultivated 4 or 5 times and leveled before planting. Soils used for teff production should be free from weeds and other crop pests. Due to the small size of the seeds, teff plots should be smooth with no large soil clods. Usually animals are driven on the surface to achieve the smooth seedbed that teff requires.
+Planting: teff is often planted by broadcasting seeds (seeds are randomly 
+spread over the farm) on the smooth plots. Row planting, where seeds are planted on the plots with regular spacing, is also becoming common these days using a spacing of 20 cm between rows and drilling the seeds inside planting rows. After planting, branches could be dragged across or flock of animals could be driven on the surface of the soil to cover the seeds. Shallow furrows are usually made at an interval of 3 to 6 meters for draining (removing) excess moisture from the teff plots. The most common planting time is July/August. Teff is usually harvested in November/December in the highland areas and earlier in mid and lowland areas.
+Fertilization : 60 kg nitrogen and 26 kg phosphorus per hectare is usually 
+applied for teff production. Fertilizer application should be determined by 
+the soil fertility level of the teff plots. Fertile soils may not require as much fertilizer. 
+Weed and disease management: teff competes poorly with weeds 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+23 Field Crops Production and Managementparticularly at early seedling stage. This means early weeding is important 
+to ensure good growth of the crop. Usually manual weeding is done about a month after planting. Chemicals are also used to control different types of weeds. For example, the herbicide 2,4-D is used to control broad leaf weeds in teff fields. Teff could also be affected by fungal diseases when excess water accumulates in the soil.
+Harvesting:teff crop is ready for harvest when the stems and panicle turn 
+yellow. Average national yield for teff is about 14.6 quintals (1.46 t) per hectare. Nutritionally, teff is a rich source of carbohydrates, proteins and fats. The crop is also a good source of mineral nutrients like iron, calcium and magnesium. 
+2.1.2. Maize ( Zea mays L. )
+Maize most likely originated in Central America. From there, it was 
+introduced to other parts of the world including Latin American and Africa. Maize is widely produced in various agro ecologies. It has the following beneficial features:
+	gives high yield per unit area
+	the seeds are covered by husk, protecting it from rain and birds
+	does not shatter (lose seeds up on drying) so can be harvested at late maturity as there is no shattering loss
+Maize is mainly produced for its seeds to be used as a staple food. It is also used as animal feed when green or after drying. Maize residues (the straw and cobs) are used as firewood in rural areas. Maize is also used in the production of starch and oil in industries. 
+Production and managementMaize grows in a wide range of environments with suitable altitudes 
+varying from 500 to 2400 meters above sea level. In Ethiopia, maize yields per unit area are the highest compared to other cereals. Maize ranks second to teff in area of production in Ethiopia. Loam soils that do not accumulate excess moisture are better for maize production. Maize is planted as a mono crop or as a mixed crop with legumes such as haricot beans and cereals, such as teff.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 24Land preparation: usually the soil is plowed 2 or 3 times before planting 
+maize. Sometimes, planting can be done after plowing the soil only once or twice if chemicals are used to control weeds.
+Planting: row planting is usually used at a spacing of 25 cm between seeds 
+and 75 cm between planting rows. Depth of seed sowing is from 5 to 7 cm. The most common maize planting time is at the start of the rainy season (March to April).
+Fertilization : farmers usually apply 41 kg nitrogen and 20 kg phosphorus 
+per hectare for maize. However, fertilization rates should be determined by 
+the level of fertility of the soils used for maize production.
+Weed, insect pest and disease management: weeds are controlled either 
+by manual weeding 2 to 3 times during the growing season or using chemical 
+herbicides to prevent and kill weeds. Two main types of herbicides are used: pre emergence (such as Atrazine, which are used before the weeds emerge aboveground) and post emergence (like 2,4-D, which are used after the weed has emerged aboveground). Common insects that attack maize include maize stalk borer, aphids, army worm and weevil.
+Maize can also be affected by fungal (rust, gray leaf spot and blight) and 
+viral diseases such as strike virus. These can be controlled by using crop rotation instead of mono cropping and modifying the planting time to reduce the damage from these diseases.
+Around a month after planting, earthing up (piling soil around the plants) 
+helps to reduce maize plants falling (lodging) due to wind.
+Harvesting: There are different maize varieties which require different 
+times to reach maturity. Early maturing varieties could reach harvest in 3 months while late maturing ones could take up to 5 months to mature. Maize is ready for harvest when the seeds develop a black layer at the bottom tip. When harvested, maize grains often have a moisture content of about 25% and for suitable storage, the grain moisture has to be reduced to 13% or lower by harvesting when grain moisture content is close to this value or drying the grains so that the required moisture content is achieved. Average national yield of maize is 32.5 quintals (3.25 t) per hectare. 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+25 Field Crops Production and ManagementNutritionally, maize is an important source of carbohydrates, proteins and 
+fats.
+Figure 2.1. a) Teff and b) maize crops.
+2.1.3. Wheat (Triticum aestivum L. )
+Wheat is a cereal crop believed to have originated in the Asian continent mainly in China, Pakistan and India, from where it spread to other parts of the world. Globally, it is the most important cereal followed by rice and maize. Wheat is an important food crop for humans as it is used to make bread, macaroni, spaghetti and other food types. 
+Production and management
+Wheat requires cool weather to grow. In Ethiopia, it grows widely at 
+altitudes ranging from 1800 to 3000 meters above sea level. Well drained, loamy and fertile soils (black, red and brown soils) are suitable for wheat production. Wheat is usually rotated with lentils, pea, teff and potato.
+Land preparation: wheat is often planted after the soil has been cultivated 
+2 or 3 times.
+Planting: Wheat is usually planted both as broadcast and using row 
+planting at a spacing of about 25 cm between planting rows. Seeds are often sown at a depth of about 5 cm. The most common planting time is between June and July.
+Fertilization : farmers usually use 45 kg nitrogen and 25 kg phosphorus 
+per hectare. However, fertilization rates should be governed by the level 
+of soil fertility.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 26Weed, insect pest and disease management: wheat is affected by various 
+types of weeds. Weed control often involves manual weeding starting about a month after planting and sometimes chemicals like 2,4-D are used to control broad leaf weeds. Fungal diseases such as rust and smut are common particularly in warm areas with high humidity. These can be controlled by crop rotation, using wheat varieties which are resistant to disease and modifying the planting time so that most susceptible stage of the plant does not match with peak occurrence of a certain disease.
+Harvesting: wheat is ready for harvest when it dries to a golden yellow 
+color and there are no green parts left on the plant. The national average yield for wheat is 24.5 quintals (2.45 t) per hectare. Wheat is an important source of carbohydrates, proteins, fats, minerals and fiber.  
+2.1.4. Barley ( Hordeum vulgare L. )
+Barley is believed to have originated in the Middle East and spread to other 
+parts of the world. Growth requirements of barley are comparable to that of wheat. Barley is used as human food, and its residue is used as livestock feed. Barley is also used for malting during the production of alcoholic beverages. Malting is a process of controlled germination for producing enzymes that convert cereal starch to sugars. The sugars produced are fermented to produce alcohol. 
+Production and management
+Barley grows at altitudes ranging between 2200 and 3000 meters above 
+sea level. Well-drained loam soils are suitable for barley production.
+Land preparation: barley requires soil to be cultivated 2 to 3 times before 
+planting, similar to wheat. 
+Planting: barley is planted either as broadcast or row planting where seeds 
+are drilled inside planting rows with 25 cm spacing between rows. Seeds are planted at a depth of about 5 cm.
+Fertilization : farmers usually use 60 kg nitrogen and 26 kg phosphorus 
+per hectare for food barley production. However, for barley used for 
+malting purpose, the nitrogen application rate has to be reduced because 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+27 Field Crops Production and Managementhigh levels of nitrogen application reduces the malt quality.
+Weed, insect pest and disease management:  most of the weeds and 
+diseases that affect wheat also affect barley. Therefore, the control measures that are used to control these weeds and diseases are also usually similar, including the use of resistant varieties, crop rotation and changing planting times. Army worm, grasshopper and barley shoot fly are the major insect pests affecting barley production..
+Harvesting: barley usually matures in 3 to 4 months. As with wheat, the 
+indicator for maturity is drying and yellowing of the plant. The national average yield of barley is 19 quintals (1.9 t) per hectare. Nutritionally, barley is a source of carbohydrates, proteins, fats and fiber.
+Figure 2.2. a) barley  and b) wheat crops 
+2.1.5. Sorghum (Sorghum bicolor L.)
+Sorghum is a cereal crop which originated in Africa. It is a staple food crop 
+in the drier parts of Africa. Sorghum stalk is used as animal feed and for construction of fences and houses in rural Ethiopia. 
+Production and managementMost sorghum producing areas in Ethiopia have altitudes ranging between 
+500 and 1500 meters above the sea level.  The crop gives reasonable yields on soils that are too poor for other crops. Well-drained, fertile clay soils are suitable for sorghum production. This crop is well-adapted to drier parts of the country. Sorghum has the capacity to remain dormant during dry periods and resume growth as soon as soil moisture becomes sufficient. As a result, this crop is usually called ‘the camel crop’.  It is often rotated with haricot bean, soybean, sesame and cotton.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 28Land preparation: it is necessary to cultivate the soil 2 or 3 times before 
+planting sorghum. 
+Planting: sorghum is planted either as broadcast or sown in planting rows 
+at a spacing of 0.5 to 1 meter between rows and about 40 cm between plants. Seeds are sown at a depth of about 2.5 cm. The most common planting time is March to May. Earthling up is usually done about a month after planting to help the plant resist lodging due to wind.
+Fertilization : 32 kg of nitrogen and 10 kg of phosphorus per hectare are 
+often used for sorghum production. Fertilization rates, however, should be 
+determined based on the local soil fertility levels.
+Weed, insect pest and disease management: a parasitic weed called 
+striga is the major weed affecting sorghum production. Striga weed causes massive yield losses in sorghum producing areas. To reduce the damage, hand weeding should be carried out before the sorghum starts producing seeds. Manual weeding should be combined with crop rotation and the use of varieties of sorghum that are resistant to pests. Sorghum is also affected by insect pests and birds. Fungal diseases like smut also affect sorghum. In general, pests and diseases control in sorghum production should involve an integrated use of crop rotation, use of resistant varieties and chemical methods.
+Harvesting: sorghum matures in about 4 months. It is harvested when the 
+grains start to dry and often grain moisture content drops to about 30% when the crop is mature. The average national yield for sorghum is 23 quintals (2.3 t) per hectare.
+Figure 2.3. Different colored grains of Sorghum  
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+29 Field Crops Production and Management2.2. Pulse Crops Production and Management 
+Pulses are seeds of legume crops that are grown mainly for their edible 
+seeds. These crops are consumed as dry seeds rich in protein or as immature pods used as vegetables. Pulses are also used as a source of animal feed. Pulse crops are dicots, meaning that the seeds contain two cotyledons (embryonic leaves). Many pulses assist with nitrogen fixation. This means that these plants fix atmospheric nitrogen into the soil through their root nodules. This nitrogen is then available for subsequent crops. For this 
+reason, pulses can be used in crop rotations to improve the fertility of soil. 
+Pulses can also be used in mixed cropping with cereals in order to improve the yield of the cereal crop. In Ethiopia, pulses are mostly produced without mineral fertilizer application. In some cases, organic fertilizers, such as animal manure are used. Compared to cereals, soil cultivation is generally minimal – soil may be cultivated once or direct planting takes place, with no soil cultivation. These factors, together with poor weed control in grain legumes, have resulted in low yields from these crops in Ethiopia. The major pulse crops in Ethiopia are faba bean, field pea and haricot bean.
+2.2.1. Faba bean (Vicia faba L. )
+Faba bean is believed to have originated in the Mediterranean region and 
+spread to other parts of the world. It is mainly produced for its edible seeds. Faba bean is also used as vegetable at the green stage. It grows well in altitudes ranging from 1800 to 3000 meters above the sea level. Well-
+drained clay soils are suitable for production of faba bean.
+Planting: Faba bean is planted both by broadcasting and in rows at a 
+spacing of 40 cm between rows and 5 to 10 cm between plants.
+Weed, insect pest and disease management: faba bean is affected by 
+weeds, fungal diseases and insects such as African ball worm and aphids. Brainstorming 2.2. 
+Group discussion
+1. What are pulse crops? Give three examples.
+2. How are pulse crops different from cereals?
+3. What pulse crops are produced in your localities?
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 30Control measures should involve integrated use of hand weeding (twice 
+in 6 weeks after planting), crop rotation, ensuring a clean seedbed and the use of chemicals.
+Harvesting: faba bean is ready for harvest when the leaves fall off and the 
+pods (structures containing the seeds) dry and change color from green to black. If faba bean is grown for use as vegetable, it should be harvested when it reaches the green stage (immature pods). The average national yield for faba bean is 19 quintals (1.9 t) per hectare.
+2.2.2 Field pea ( Pisum sativum L. )
+field pea is produced for its edible seeds which are rich in protein. It is 
+also an important source of animal feed. It can be planted as a mono crop or mixed with faba bean. It is usually grown in rotation with cereals like teff, wheat and barley. It grows well in altitudes ranging between 1800 and 3000 meters above sea level.
+Planting: field pea is often planted by broadcasting or using row planting 
+at a spacing of 30 cm between rows and 5 to 10 cm between plants.
+Weed, insect pest and disease management: weeds, insect pests (aphids, 
+African ball worm) and fungal diseases affect the productivity of field peas and integrated control involving manual weeding (starting around 4 weeks
+after planting), crop rotation and chemical methods are used.Harvesting: field pea is harvested once the pod is mature and the seeds 
+are sufficiently hard. Delay in harvesting time causes seed loss from pods (shattering). The average national yield for field peas is 14 quintals (1.4 t) per hectare.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+31 Field Crops Production and Management
+Figure 2.4: a) Faba bean plants, b) faba bean seeds, c) field pea plants and 
+d) field pea seeds
+2.2.3. Haricot beans (Phaseolus vulgaris L.)
+Haricot bean (common bean) originated in Mexico and spread to other 
+regions of the world. It is produced for its edible seeds. The immature pods of the haricot bean are consumed as a vegetable. It can also be used as animal feed. Haricot bean grows well in most soil types and in altitude between 1400 and 2000 meters above sea level. Haricot bean is usually grown as mono crop or mixed with cereals such as maize and sorghum. It is grown in rotation with teff, maize and sorghum. Haricot bean seeds can be red, brown, white or gray. It is an important export crop in Ethiopia.
+Planting: haricot bean can be sown by broadcasting or in rows. When in 
+rows, commonly used spacing is 40 cm between rows and 10 cm between plants. In intercropping, usually the spacing between plants is maintained (10 cm) and the rows of haricot bean come between rows of maize or sorghum. Animal manure is usually used for fertilization.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 32Weed and insect pest management: to control weed problems, the 
+seedbed should be clean and manual weeding should be carried out within 4 weeks of planting. The crop is susceptible to storage pests such as weevils. To control storage pests, the grains are dried until the moisture content is below 12% and chemical treatment of the grains is used.
+Harvesting: haricot beans mature within 3 to 4 months. The crop is ready 
+for harvest when the leaves fall off and the pods turn yellow and start to dry. If produced for use as vegetable, the pods should be harvested when they are green (immature). The national average yield for haricot beans is 14 quintals (1.4 t) per hectare.
+Figure 2.5: a) Haricot bean plants and b) Haricot bean seed
+Form a group of 3 to 5 students, and visit nearby farmers.
+• Ask about the types of crop they produce. Are these 
+crops all cereals? Are legumes produced in the 
+area? If yes, which ones?
+• Ask about the farmers’ management practices (e.g., 
+land preparation, seed selection, harvesting, etc.).
+• Share the results of your visit with your classmates.Activity 2.1. 
+Pair work
+• In pairs, discuss the differences and similarities between 
+cereal and pulse crops. Give examples of each. Share 
+your discussion results with student pairs sitting next to 
+you.Activity 2.2. 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+33 Field Crops Production and Management
+Unit Summary
+In this unit you have learnt that:
+	cereals are monocots and are rich in carbohydrates, proteins, and 
+to some extent, fats and fibers.
+	the major cereal crops in Ethiopia are teff, maize, wheat, barley and sorghum. These crops:
+	are adapted to specific agro ecologies and climate 
+	require specific soil and management
+	cereal crops are adapted to specific agro ecologies, example 
+	ywheat and barley are adapted to highland agro ecologies, 
+	yteff and maize are more adapted to mid altitude areas and 
+	ysorghum is more adapted to low land and moisture deficit areas.
+	cereal crops require specific soil and management practices.
+	yproper land preparation
+	yselection of proper seeds or planting materials 
+	ytimely planting
+	yintegrated management of insect pests, weeds and diseases
+	yappropriate fertilization 
+	yproper harvesting
+	pulses are seeds of legume crops. Legumes are dicots and have the capacity to change gaseous nitrogen to plant usable forms (nitrogen fixation).
+	the major pulses produced in Ethiopia include faba bean, field pea and different kinds of haricot beans, among others. 
+	integration of cereals with legumes in cropping systems helps to improve nitrogen availability for cereals. This improves overall productivity.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Field Crops Production and Management 34Part I: Choose the best answer from the given alternatives.
+1. Which of the following cereal crops has the highest productivity per 
+hectare in Ethiopia?
+A. Wheat
+B. BarleyC. Sorghum
+D. Maize
+2. Which of the following is the most effective method of weed management in cereal crop production?
+A. Manual weeding
+B. Chemical method
+C. Integrated weed management
+D. Crop rotation
+3. Which of the following cereal crops contains gluten?
+A. Sorghum
+B.  TeffC. Wheat
+D. Maize
+4. Which of the following agricultural practices are used to control weeds, insect pests and crop diseases?
+A. Soil cultivation
+B. Crop rotation
+C. Broadcasting seeds at planting
+D. Both A and B
+5. The amount of fertilizer that should be applied to cereals is 
+determined by the______     _.
+A. Crop type
+B. Soil fertility levelC. Both A and B
+D. The harvest time
+6.  Which of the following statements apply to cereals but not pulses?
+A. They are planted in rows
+B. They can fix nitrogenC. Both A and B
+D. They are monocots
+7. What is the practice of planting cereals and pulses in the same farm during the same growing season called?
+A. Crop rotation
+B. IntercroppingC. Mixed cropping
+D. B and C
+8. Which of these statements applies to pulses?
+Review Exercise  
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+35 Field Crops Production and ManagementA. Dicots
+B. MonocotsC. Nitrogen fixers
+D. A and C
+Part II: Answer the following questions.
+1.  List the major differences between cereals and legumes. Give two 
+examples of each crop type.
+2.  T eff is sometimes referred to as a ‘’super food’’. Why do you think 
+it might be considered a ‘’super food’’?
+3.  Describe three of the management practices used for controlling 
+weeds, insect pests and diseases in cereals and pulse crops 
+production?
+4.  Compare row planting and broadcasting methods of sowing, in 
+terms of their advantages and disadvantages.
+5.  Explain some benefits of mixing cereals and legumes in crop 
+production systems.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 36
+Industrial Crops Production 
+and Management
+Contents Learning Outcomes
+3.1. Oil crops 
+production and 
+managementAt the end of this unit, you will be able to:
+	understand the classification of industrial crops: 
+oil, fiber and sugar crops
+	list the major industrial crops produced in 
+Ethiopia
+	identify the major uses and growth requirements 
+of industrial crops
+	explain the agricultural practices required to 
+grow industrial crops
+	describe the status of industrial crops production 
+and prospects in Ethiopia, and
+	suggest ways of increasing the production and 
+productivity of industrial crops3.2. Fiber crops 
+production and management
+3.3. Sugar crops 
+production and 
+management
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 37Industrial crops are crops produced mainly for use as a raw material in 
+agro industries and other types of industries. These crops can be classified 
+into oil crops, fiber crops and sugar crops. Examples of crops from these categories will be discussed in the following sections.
+3.1. Oil Crops Production and Management 
+3.1.1. Sesame (Sesamum indicum L. )
+Sesame is an oil crop believed to have originated in Africa. Sesame is 
+mainly produced for its oil, which is used in cooking food and also in the production of other foods such as margarine. Oil extracted from sesame is also used in the production of paints and cosmetic products like soaps. By-products of sesame oil extraction are also used to produce animal feed. The crop is adapted to semi-arid, lowland areas with an altitude of up to 1200 meters above sea level. This is mainly because it requires relatively high temperatures (25 to 27 
+OC) during the growing season. Sesame is 
+very sensitive to excess water and though generally drought-tolerant, it is sensitive to extreme shortages of water. High rainfall during flowering reduces yield because flowers drop off the plant. Sandy loam soils that do not accumulate excess moisture are suitable for the growth of this crop.
+Land preparation and planting: sesame is sensitive to weed problems 
+and therefore the fields should be clean from weed seeds during land preparation. Since the seeds are small, soils should be free of big clods and the seedbed should be as smooth and clean as possible.  Sesame is often planted by broadcasting or row planting at a spacing of 50 cm between rows and 10 cm between plants. 
+Weed management: Sesame is especially sensitive to weed competition 
+and damage during early growth stages. Weeding should start early from Brainstorming 3.1. 
+Discuss in pairs.
+1. Which products you use do you think come from industrial crops?
+2. List some examples of such products.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 38emergence to about 4 to 5 weeks of growth.
+Harvesting: sesame takes up to 5 months to mature. The crop is ready 
+for harvest when one third of the leaves, stems and pods (structures that contain the seeds) turn yellow. When harvest is delayed, the pods break and there will be loss of seeds. The national average yield for sesame is 7.4 quintals (0.74 t) per hectare.
+3.1.2. Noug (Guizotia abyssinica L.)
+Noug is an oil crop that originated in Ethiopia. The country is the largest 
+producer of noug. It is mainly produced for its oil and it accounts for about half of all food oil production in the country so it is an important source of good quality food oil. Noug oil can also be used for the production of paints and soaps. Residual material left after the oil is extracted is used as a source of animal feed. Noug grows well in areas with altitudes of between 
+1800 and 2000 meters above sea level. Noug does not require high rainfall 
+and can even survive with only residual soil moisture after rains stop. It also has the capacity to tolerate excess soil moisture. This crop performs well on clay-dominated soils that often accumulate excess water.
+Land preparation and planting: the seedbed needs to be well prepared 
+to make sure that sown seeds germinate well. Noug is commonly sown by broadcasting. Alternatively, it can be planted at a spacing of 25 cm between rows and drilling of seeds within the planting rows at a depth of about 2cm. The crop is usually planted in June or July. 
+Weed management: the crop requires at least one weeding at early growth 
+stage, but as it grows, it becomes very competitive against weeds, it can even dominate them. However, noug can be affected by parasitic weeds like dodder and orobanche. These weeds have to be uprooted and burned before they start producing seeds. If they are allowed to produce seeds, they will spread through the farms and the yield loss will be very high.
+Harvesting: the crop is ready for harvest when the leaves change from 
+green to brown and yellow. Harvest must be completed at the right time because late harvest causes loss of seeds by shattering. Harvesting too early results in deformed seed shape which can reduce the quality of the 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 39yield. The national average yield for noug is 8 quintals (0.8 t) per hectare. 
+The crop is mainly used for local consumption.
+Figure 3.1. noug plants (a) and seeds (b), sesam e plants (c) and seeds (d)
+3.2. Fiber Crops Production and Management
+Fiber crops are crops which produce fibers used in textiles and other 
+industries. Fiber crops include cotton and sisal, among others. Fiber crops such as cotton are also sources of vegetable oil for cooking and industrial purposes.
+3.2.1. Cotton (Gossypium hirsutum L.)
+Cotton is a fiber crop that produces lint, which is a soft fluffy fiber that 
+grows in a ball (protective case) around the seed.  The lint is used as raw 
+material in the textile industry. Cotton requires a warm climate to grow and 
+is generally drought-tolerant. It does not perform in areas with high rainfall 
+because the lint in the cotton boll will become discolored. This will reduce 
+the quality of the yield. Loam soils are suitable for cotton growth.
+The textile industry is a rapidly growing sector in Ethiopia. The textile 
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 40industry processes cotton and produces garments and fabric for sale in 
+local and international markets. Cotton is a major raw material for textile firms. There were more than 50 garment or cloth manufacturers, and 14 textile factories in Ethiopia in 2021. The numbers of textile manufacturers, both local and international, are increasing and hence the demand for cotton is increasing. 
+The contribution of the textile industry to foreign currency earning is 
+growing. The supply of cotton to the textile industry from within Ethiopia is not sufficient to meet the demand. That is why textile manufacturers import raw cotton from other countries. In order to meet the demand of the local textile industry, it will be necessary to increase the production of cotton in the country. 
+Land preparation and planting: cotton seeds for planting are usually 
+treated with acid to remove the hairs on the seed. The crop is often planted in rows at a spacing of 1 m between rows and 30 cm between plants. The seed sowing depth is about 8 cm.
+Weed and insect pest management: weeds are one the major problems that 
+limit cotton production in Ethiopia. Starting with a clean seedbed before planting can reduce this problem. Manual weeding at least twice within one month after the weeds begin to emerge is recommended. Chemicals are also used to control weeds in cotton farms.
+Harvesting: cotton is ready for harvest when at least half of the plants 
+have their bolls burst open. Cotton requires 6 to 7 months to mature. After harvest (picking), cotton goes through different stages before it is used to make clothes. The first step in cotton processing is drying and ginning of the cotton from the cotton plant. Ginning is the process of separating seeds and plant debris from the cotton fiber. Then the cotton fibers are cleaned for dust and other impurities.
+Once the cotton fibers are cleaned, they are transported to textile mills 
+where spinning takes place to twist the raw cotton fibers into a thread. This is followed by weaving the thread into fabric or cloth. There were more than 35 mills producing fabrics (woven and knitted clothes) for the export 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 41and domestic market in Ethiopia in 2021. 
+Figure 3.2. a) Ginning and b) Spinning of cotton
+3.2.2. Sisal (Agave sisalana L.)
+Sisal is a fiber crop believed to have originated in Central America. It 
+is widely cultivated in the tropics. Sisal is mainly produced for its hard fibers that are used in textile industry for the production of ropes, sacks and carpets. Sisal fibers are also used in paper making and in the textile industry for polishing clothes. Sisal stem is also used for fencing, fire wood and as a house construction material. Sisal fiber is derived from the leaf of the plant. The plant is drought-resistant and can be grown as a rain-fed crop. This means that it can be grown using only rainfall for water and no other irrigation is required. Sisal can grow in a wide range of altitudes from sea level up to 1800 meters above sea level.
+Land preparation and planting: sisal is propagated vegetatively. This 
+means that a new plant will grow from the cutting of the parent plant. In sisal reproduction occurs through suckers growing around the plant or bulbils (young produced from buds in the flower stalk). The suckers or bulbils are first grown in a nursery. When they are about 40 cm high, they will be transplanted to the field. Often row planting is used at a spacing of 2.5 m between rows and 80 cm between plants.
+Harvesting: it takes 2 to 3 years after transplanting for the first harvest of 
+leaves. After that, leaves can be harvested annually. Leaves are ready for harvest when they reach a height of 1.2 m and width of about 15 cm. After harvest, sisal leaves are scraped manually or using machinery to separate the fibers from the leaf. This process is called decortication. The fiber is then washed and dried. The dried fiber is mechanically brushed to straighten 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 42tangled and wavy fibers. The next step is grading of the fibers according 
+to length and color. Packing for market is the last step in fiber processing.
+Figure 3.3. a) Sisal plant and b) Fibers extracted from sisal
+3.3.  Sugar Crops Production and Management
+Sugar crops are crops used as raw materials in the production of sugar. 
+Sugar cane and sugar beet are examples of these crops. In Ethiopia sugar cane is by far the most significant crop used for the production of sugar .
+3.3.1.  Sugar cane (Saccharum officinarum L.)
+Sugar cane is a tropical and sub-tropical crop grown mainly for the 
+production of sugar. Sugar cane requires a long warm season to grow well. Cane is the raw material mainly used in sugar production. The juice extracted from sugar cane is processed into sugar for human consumption. Some part of the residue from sugar cane processing is used as animal feed. The dark liquid produced from sugar cane juice is called molasses. Molasses is used in the production of ethanol. The fibrous residue left after the extraction of the juice is called Bagasse. It is used in the production of papers and plastics. It can also be used as firewood. The green top (leaf) of the plant is directly used as animal feed. 
+The sugar cane crop takes from 14 to 18 months between planting and 
+first harvest. After the first harvest, the plant regenerates from the roots of the first harvest and is ready for harvest in about 12 months. The second harvest is usually called ratoon crop. Ratoon crop harvests are smaller than the first harvest. Ratoon harvests are limited to 2 or 3 times after the first planting. When ratoon harvests are over, new sugar cane plants are planted on the field. The sugar cane plant usually requires fertile soils. If grown on 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 43soils with poor fertility, sugar cane requires a large amount of fertilization 
+to produce reasonable yields .
+Land preparation and planting: sugar cane is propagated vegetatively using stem cuttings prepared from young plants. The top part of young sugar cane stems is used as planting material. The stem cuttings used as planting material should be free from diseases and pests. The average size of the stem cuttings used for planting are often about 30 cm, with each cutting having at least 2 or 3 buds. Sugar cane is planted in rows with about 1.6 m. average distance between rows. The planting materials are placed end to end in a planting furrow and covered with soil layer of 2 to 5 cm.
+Fertilization : The level of fertilizer required depends on the level of soil 
+fertility. Sugar cane requires large amounts of nitrogen fertilizer to grow 
+well. However, excessive Nitrogen fertilizer application can delay the maturity time of the cane. 
+Weed and insect pest management: for sugar cane, 3 weeks after planting 
+and 14 weeks after planting are critical periods. Weed competition could cause high yield losses in this period. Weeds have to be removed manually or using chemical methods. Various weeds are known to be problems for sugar cane production in Ethiopia. Control methods often involve manual weeding, cultivation and, in some cases, the use of chemicals. Insect pests like sugar cane borers, army worms, locusts and termites are major problems in sugar cane production in Ethiopia. Control measures for insect pests include pre-planting cultivation that could destroy some insects, and use of insecticides. Fungal diseases like smut and bacterial disease like Ratoon Stunting Disease are common. The use of disease-resistant sugar cane varieties, removal of the diseased plants and using chemicals are often recommended remedies. 
+Harvesting: sugar cane usually matures in about 14 to 18 months from the 
+planting time. The harvest practice includes removal of the leaves and the top of the plant before cutting the stem. Sometimes, controlled fire is used to remove dry leaves before cutting the stem.   The stem is then transported to the processing facility.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 44In 2022, there were 8 state-owned sugar producing factories in Ethiopia. 
+These are Wonji-Shewa, Matahara, Finchawa, Kessem, Tendaho, Arjo, Omo kuraz II and Omo kuraz III. The factories annually produce 400,000 metric tons of sugar. In Ethiopia, in 2023, the demand for sugar is greater than the production of sugar. So, it is necessary to increase production. The aim is to fulfill local demand as well as export sugar.
+Figure 3.4. a) Sugarcane plants and b) sugar
+Group work
+Form a group of 3 to 5 students and discuss:
+1. Have a look at the clothes and textiles in your home or school. 
+• What fabric are they made from? 
+• What fiber crop would have been used to produce these 
+fabrics? 
+• Do you think these fabrics were produced locally?
+2. Look at the food products in your home or school. 
+• Which products contain sugar? 
+• Do the labels indicate where this sugar was produced?
+3. Using the internet or speaking to experts, research ways in which sugar cane and sugar production can be increased in Ethiopia. 
+• Write a report recommending three key steps to increase production. 
+*Share the results of your search with your classmates and submit the report to your teacher.Activity 3.1. 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 45
+Unit Summary
+In this unit you have learnt that:
+	industrial crops are crops produced mainly for use as a raw 
+material in industries like agro industries.
+	industrial crops can be classified into oil crops, fiber crops and sugar crops in the Ethiopian context.
+	noug and sesame are examples of industrial oil crops. Both are used to produce food oil, paints and soaps. Their residues are used as animal feed. Noug prefers mid-altitude areas whereas sesame is adapted to low land and semi-arid areas.
+	the major fiber crops are cotton and sisal. Both are adapted to warm areas with moisture deficits.
+	Sugar cane is the major sugar crop used for industrial production of sugar in Ethiopia 
+	sugar cane is adapted to areas with long warm seasons. It requires 14 to 18 months to mature. 
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+Industrial Crops Production and Management 46Part I: Choose the best answer from the given alternatives.
+1. Which of the following oil crops is used as a raw material for 
+production of food oil?  
+A. Noug
+B. SesameC. Maize
+D. Both A and B
+2. Which of these crops produces hard fiber used for the production of carpets, sacks and ropes?
+A. Cotton
+B. SisalC. Sesame
+D. All
+3. How long does a newly planted sugar cane take to mature?. 
+A. 8 
+B. 12 C. 18 
+D. 24
+4. Which of the following sugar cane processing by-products is used for the production of ethanol?
+A. Bagasse
+B. MolassesC. Fiber residue
+D. Both A and B
+5. What is the name for sugar cane harvested from regeneration of the crop from a previous harvest?Second harvest
+A. Second harvest
+B. RatoonC. Molasses
+D. Lint
+Part II: Answer the following questions.
+1. Explain 
+a) the uses of cotton and sisal
+b) their growth and management requirements 
+2. Describe sugar cane production starting from the planting stage of sugar 
+cane to the final production of sugar.
+3. Explain about the major uses of sisal and describe the major production 
+practices.
+Review Exercise  
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+47  Introduction to Farm Animals
+Introduction to Farm 
+Animals
+Contents Learning Outcomes
+4.1. Farm animal species At the end of this unit, you will be able to:
+	define common terms used in farm 
+animal production  
+	explain the origin and domestication 
+of farm animals
+	explain the importance and values of farm animal production
+	describe the constraints in animal production and their mitigation 
+strategies
+	identify the features of different 
+animal production systems4.2. Animal production 
+and its importance
+4.3. Constraints in 
+animal production
+ 
+and their mitigation strategies
+4.4.Animal production 
+systems
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+ Introduction to Farm Animals 484.1. Farm Animal Species
+Farm animal species are raised for human use either for food or work 
+functions. Domestication is the conversion of wild animals to domestic use. Domesticated animals are animals that have been selectively bred to live alongside humans. Most of the domesticated animals familiar to us today were domesticated not long after people began farming and living in permanent settlements. This was probably between 8000 and 2500 BC.
+Do you know the difference between species and breed? 
+A species  is a largest group of animals that is capable of interbreeding 
+and producing fertile offspring. A breed is a specific group of animals 
+within a species that are visibly similar in most characteristics, which 
+distinguish it from other breeds of the same species. A species is often 
+composed of several breeds. 
+4.1.1. Farm Animals in Ethiopia and Their Description
+Ethiopia has a huge resource of farm animals. They are composed of the 
+mammalian, avian and honeybee species. Cattle, sheep, goats, camels, 
+donkeys, horses and mules are the major farm animals in the mammalian category. The Avian category includes chicken, ostrich and turkey. Ostrich and turkey are not widely used in Ethiopia. Stinging honeybees are the most important bee species in the country. Nearly all of the livestock population of the country is local  breed. Some are hybrid, and others are 
+exotic  breeds.Brainstorming 4.1. 
+Pair-work
+1. Name some farm animals kept at your or your neighbor’s home.
+2. List down the purposes farm animals serve at household levels.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+49  Introduction to Farm AnimalsTable 4.1. Estimated livestock population in Ethiopia by species and breed
+Species Total numberBreeds (%)
+Local Hybrid Exotic 
+Cattle 70,291,776 97.40 2.29 0.31
+Sheep 42,914,865 99.52 0.41 0.08
+Goat 52,463,535 99.9 0.05 0.05
+Camel 8,145,790 - - -
+Chicken 56,992,987 78.85 12.03 9.11
+Beehive 6,986,100 - - -
+Source: CSA (2021)  [2013 E.C.]
+Cattle (Bos indicus/Bos taurus)  
+Cattle are hoofed animals belong to the family Bovidae and genus Bos. 
+The genus Bos has several species, two of the most common in Ethiopia are Bos indicus and Bos taurus. Bos indicus are humped cattle. They are commonly found in tropical countries. Bos taurus do not usually have humps and commonly found in temperate zones. Key terms:
+Mammalia  any member of the group of vertebrate animals in which 
+the young are nourished with milk from special mammary glands of the mother.
+Avian a characteristic of birds or flying creatures.
+Local breed is native to a specific territory of origin. The local breeds 
+are well-adapted to the local conditions. E.g., Horro cattle
+Exotic breeds are mainly foreign and are primarily used for im -
+proving the productivity of local breeds through cross breeding. E.g., 
+Holstein Friesian 
+Hybrid (also called cross breed) is produced from two genetically 
+different parent lines. E.g., offspring produced from Horro cow x Hol -
+stein Friesian bull.
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+ Introduction to Farm Animals 50Figure 4.1. Cattle: a) Bos indicus, b) Bos taurus
+Cattle are raised all over the world. There are over 1000 cattle breeds in the 
+world. Cattle breeds serve multiple purposes. They are reared for meat, milk and use as draft animals. Their hides are processed into leather and manure is a by-products of cattle production. Cattle are ruminant. Their feeding habit 
+is herbivore. Primarily, they feed on pasture. In modern farming, pasture is 
+usually supplemented with industrially manufactured feeds.
+Key terms:
+Ruminants  are herbivores such as cattle that have a rumen. In the 
+rumen the plants that the animal has eaten are softened. This softened 
+material is called cud, and is regurgitated for the animal to chew again. 
+This helps the animal to digest the fibrous plants that they eat.
+Herbivores are animals such as cattle, sheep and goats that fed on 
+plants.
+Pasture is a land with vegetation used for grazing animals .
+Sheep (Ovis aries) Sheep (Ovis aries) belong to the family Bovidae and genus Ovis. Today, 
+over 200 breeds of sheep are recognized worldwide. Sheep are raised for 
+their meat, wool and skin. Some farmers also keep sheep for milk. Like cattle, sheep are ruminant herbivores. They feed on short fine grasses and coarse brushy weeds.
+Figure 4.2. Sheep
+
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+51  Introduction to Farm AnimalsGoat (Capra hircus) 
+Goat (Capra hircus) is a hollow-horned mammal that belongs to the family 
+Bovidae and genus Capra. There are over 300 distinct breeds of goats. 
+Goats are important domestic animals in tropical livestock production systems. Goats are raised for their milk, meat and skins across much of the world. The Angora breed of goat is raised for its hair, which is used to make fabric or yarn called mohair. Goats are ruminant herbivores. They browse on shoots, twigs and leaves of brush plants. They also eat hay and grain-based compl ete 
+feeds. 
+Camel (Camelus dromedary/Camelus bactrianus) 
+Camels are even-toed ungulate animals. They belong to the family 
+Camelidae  and genus Camelus. There are two types of camels: the 
+Dromedary and the Bactrian. The Dromedary camel (Camelus dromedary) 
+has a single hump on its back. The Bactrian camel (Camelus bactrianus L.) 
+has two separate humps. 
+Figure 4.4. Camels: a) Camelus dromedary, b) Camelus bactrianus
+Camels have peculiar characteristics that help them adapt to the drier parts of the world. This is perhaps why they are often called “ ships of the desert”. 
+They are recognized as pack or saddle animals. Camels provide us with 
+milk, meat, wool and hides. Camels are pseudo-ruminant  animals. This 
+means they do not have a rumen. They are herbivores and eat tree leaves, 
+Figure 4.3. Goat
+
+--- [PAGE BREAK] ---
+
+Agriculture Grade 11
+ Introduction to Farm Animals 52branches and thorny bushes. Camels have thick and tough lips. This is why 
+they can easily feed on thorny bushes.  
+Poultry (Gallus gallus domesticus) 
+Chicken/fowl, duck, guinea fowl, turkey and geese are common types of 
+poultry. Chicken is the most common type of poultry in many countries of the world. There are two types of domestic chickens. These are layers and broilers. Layers are raised for egg production. Broilers are kept for meat (usually slaughtered at 6-8 weeks). Chicken are omnivorous in feeding 
+habit. Poultry in general are monogastric animals. This means that they 
+have single compartment of stomach. They are dependent on less fibrous feeds; mostly grinded grains and mixed rations.
+Figure 4.5. Chicken: a) Layer type, b) Broiler typeKey term:
+Pseudo-ruminants are animals that has only three compartments in 
+the stomach and it lacks a rumen. They possess omasum, abomasum, 
+and reticulum. They do not regurgitate their food and chew the cud. 
+Camel is an examples of pseudo ruminant animal.
+Key terms:
+Omnivorous is an animal such as chicken feeding on a variety of food 
+of both plant and animal origin.
+Monogastric is an animal having a single stomach. Examples of mono -
+gastrics include poultry, pigs and horses. Most monogastrics are general -
+ly unable to digest much cellulose food materials such as grasses. 

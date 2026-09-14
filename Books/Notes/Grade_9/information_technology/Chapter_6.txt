@@ -1,0 +1,507 @@
+=================================================================
+Book: information_technology.pdf
+Chapter 6: Fundamentals of Programming
+Pages: 223 to 251
+=================================================================
+
+Unit 6 : Fundamentals of Programming
+216  
+UNIT OVERVIEW
+Have you ever encountered a problem? For sure you faced many challenges 
+almost every day! All living organisms encounter numerous kinds of problems and attempt to solve them instinctively. We, humankinds, go many steps ahead and try to solve problems applying tools and methods. Do you remember the recent problem that you run into and how did you solve it? You might have done it by asking someone else or by applying a technique that you had known beforehand. You might also use tools such as a calculator for mathematical problems or machineries of some sorts.  This can be what a problem solving is. 
+This unit focuses on enabling you develop problem solving skills with a focus on 
+computational problems. You can consider a computational problem as a problem that is solvable applying computers. You will learn the common steps of problem solving and the top-down and bottom-up approaches of solving computational problems. This will enable you to develop your skills in computational thinking.  
+Computational thinking involves skills in formulating and solving problems by breaking them down into simple steps as well as synthesizing simple steps into bigger solutions. You will also be familiar with representation of a solution or 
+steps in solving a given problem using graphic tool called flowchart, and visualize how a computer follows them to perform the task associated.  At the end of this unit, learners will be able to:
+ Describe problem solving techniques.
+ Compare and contrast steps of problem solving techniques.
+ Use top-down and bottom-up problem solving techniques.
+ Evaluate simple algorithms represented in flowcharts and pseudocodes.  
+UNIT 
+FUNDAMENTALS OF PROGRAMMING
+UNIT OUTCOMES6 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    217 
+ Brainstorming 
+1. What types of problems have you solved using computer software 
+(applications) you learned in the previous units? 
+2. Which types of card games are you familiar with? What are the steps and the rules of the games that you played?  What would happen if you miss one of the steps or interchange two of the steps in finding solution for a mathematical problem, e.g. polynomial equations?
+6.1 Defining a Problem and Computational Problem  
+You have used application software in units 3 and 4 to handle tasks that we usually 
+do in our everyday business and personal activities. Imagine how challenging those activities would be in the absence of these software! We call challenges that we encounter in our day-to-day life a problem.  In non-technical terms, a problem is a difficulty to understand something, or a matter that is difficult to solve/settle, a doubtful case or a complex task involving doubt and uncertainty.  
+Activity 6.1
+Form a small group of three to five students and discuss on one of the following questions. 
+1.  Is climate change causing a problem to your town or village? If yes, how does 
+it affect your community? What should be done to address the challenges and minimize adverse impacts?
+2. Do you know that traffic accident is a major challenge in Ethiopia? What are the common problems in your community with regard to safe road use? Discuss the steps you need to take to cross a street in urban centers.  
+3.  What are the positive and negative impacts of social media on students? 
+Discuss on what actions you can take to strengthen the positive impacts and controlling the negative impacts.  
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+218 Do you consider that the questions in Activity 6.1 are easily solvable by 
+using computers or other kinds of electronic device? Of course, they cannot be 
+easily and directly resolved using a computer system. The issues raised need the engagement of individual persons in the community and the leadership roles of local government bodies, religious and community leaders. 
+There are other classes of problems that are called computational problems. 
+What is a computational problem?  A computational problem is a problem that can be solved systematically (step-by-step) with a computer. These problems usually have a well-defined inputs, constraints and conditions that the output must satisfy. You will learn about these requirements for a computational problem later in sections 6.2 and 6.3. Here are some types of computational problems:
+ A decision problem is one where the answer is Yes  or No. For instance, 
+“given an Integer n, is n even?” is a decision problem. 
+ A search problem is the one where the solution consists of one or more 
+values that satisfy a given condition. For instance, we may want to compute a path from one geographical location to another on a map. Another instance, we may want to get a name from a list of names in a spreadsheet column.
+ A counting problem is the one where the answer is a number of solutions to 
+a search problem. For instance, counting the number of female students from Grade 9 students’ list. 
+ An optimization problem  is the one where the solution is the “best” possible 
+solution, where the “best” can be defined in a different way. For instance, we may want to compute the fastest route from one location to another. Note that you learned about router in unit 2, which is an intermediary device to find the best route to send message or packet.  This device, thus, handles optimization problem in network traffic management.  
+ A computational problem is the problem that can be solved step-by-
+step with a computer. This problem usually has a well-defined inputs, constraints and conditions that the output must satisfy. 
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    2196.2 Steps in Problem Solving 
+ 
+ Brainstorming 
+Have you ever heard about the 21st century skills? Is problem solving one of 
+the skills required in the 21st century?  
+Life in the 21st century demands you to be a good problem solver, which requires 
+related skills in critical thinking, communication, collaboration, creativity and 
+innovation. A closely related concept is a computational thinking. Computational thinking is the thought process that involves formulating a problem and expressing its solution(s) in such a way that a computer, human or a machine can effectively carry out. You will develop your computational thinking skills through practicing problem solving strategies.
+Practical Exercise 6.1
+Form a group of two to three students and work on the following activities.
+1. Search the Internet for “21st century skills” and discuss the skills related to problem solving in your group using the description in the paragraph above as a guide.
+2.  Search the Internet for George Polya’s Problem Solving Method published 
+in his book, “How to Solve It” and discuss the four basic principles of problem solving.
+ 
+George Polya, a mathematician, designed a four-step method to solve all kinds 
+of problems. Because the method is simple and generalizes well, it has become a classic method for solving computational problems. The four steps of problem solving that Polya suggested are: 
+1. Understand the problem.
+2. Make a plan.
+3. Execute the plan. 
+4. Review and extend. 
+Although the method appears to be a straightforward method where you start 
+at step 1, go through steps 2, 3 and 4; the reality is that you will often need to go 
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+220 back and forth through the four steps until you have solved and reflected on a 
+problem. The four steps are elaborated in Table 6.1 below. 
+Table 6.1 Polya’s four steps of problem solving methods
+Step Number Description of Step
+1. Understand the problem.Figure out what is being asked. What is known? What is not known? What type of answer is required? Is the problem similar to other problems you have seen? Are there any important terms for which you should look up definitions?
+2. Make a plan. Come up with some strategies for solving the problem. Common strategies include making a list, drawing a picture, eliminating possibilities, using a formula, guessing and checking, and solving a simpler, related problem.
+3. Execute the plan.Use the strategy chosen in step 2 to solve the problem. If you encounter difficulties using the strategy, you may want to use resources such as the textbook to help. If the strategy itself appears not to be working, return to 2tep 2 and select a different strategy.
+4. Review and Extend.Part of step 4 is to find a way to check your answer, preferably using a different method than what you used to solve the problem. Another part of step 4 is to evaluate the method you used to solve the problem. Was it effective? Are there ways you could have made it more effective? Are there other types of problems with which you might be able to use this type of solution method?
+Polya’s four stage of problem solving is adjusted into the following in computer science and information technology: 
+1. Understand the problem.
+2. Develop an algorithm.
+3. Write the program.
+4. Test the program.
+As you can see, steps 2 to 4 are replaced with the concepts that are used in 
+information technology. The “make a plan” in step 2 is represented as develop an 
+algorithm . An algorithm is the plan for a solution for a computational problem. 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    221Technically, an algorithm is a sequence of clearly defined steps that describe 
+a process to follow a finite set of unambiguous instructions with a clear start and end points. In short, an algorithm is a precise sequence of instructions for solving a problem. Algorithms are a way of specifying a multistep task, and are especially useful when we wish to explain to another person or machine how to carry out steps. For example, what steps do you follow to calculate the average of 10 numbers? The following sequence of activities should be performed to get the average in the order they are presented. 
+Step 1. If you do not know the numbers, get the 10 numbers.Step 2. Get SUM by adding the 10 numbers. Step 3. Get AVERAGE by dividing SUM by 10.Step 4. Tell or report AVERAGE as a result.  
+Algorithm:  is a precise sequence of instructions for solving a problem 
+represented in human-understandable format.  
+An algorithm written needs to be transformed into a computer program to 
+be executed by a computer or any other digital devices. This transformation is required because computers do not understand instructions written in English, Amharic, Afan Oromo or other languages that we humans speak. Instead, computers have their own special language known as a programming language. 
+A computer program or program in short is a sequence of instructions written 
+using a programming language. The program is executed by a computer to solve problem or perform a specified task. 
+A program: is a sequence of instructions written using programming 
+language and can be executed by a computer to solve a given problem or perform a specified task.
+You will learn about steps 3 and 4 of problem solving in grade 10 through grade 
+12. The next section (section 6.3) will focus on development and representation of algorithms and their steps of execution. Since algorithms for computational problems are developed for execution by computer systems, it is important to understand information-processing model by computers. A typical and simplified single-CPU information-processing model is shown in Figure 6.1 below. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+222 
+Figure 6.1 A simplified single CPU information processing model
+Problems are solved using a computer by obtaining some kind of user input 
+(e.g. keyboard/mouse information or game control movements), then processing 
+the input and producing some kind of output (e.g. images, text and sound). Sometimes the incoming and outgoing data may be in the form of secondary memories or network devices. With regard to problem solving, we will apply the above model in that we will assume that we are given some kind of input information that we need to work with in order to produce some desired output solution.
+In the example about finding the average of 10 numbers above, step 1 (get the 
+10 numbers) is an input, which you might get it from a keyboard entry. Steps 2 and 3 that calculate the sum and average of the ten numbers is a process. Reporting 
+the result is an output, which can be a display on the screen. 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    2236.3 Working with Pseudocode, Flowcharts and Block Programming
+ 
+ Brainstorming 
+You learned about different symbols (or notations) that you use to represent 
+different networking devices in unit 2.  What would happen if different symbols are used to represent a particular device type? 
+Flowcharts and pseudocodes are two such standard mechanisms used for development of algorithms. Flowcharts use special shapes to represent different types of actions or steps in a process. Lines and arrows show the sequence of the steps, and the relationships among them. A pseudocode is a simple and concise sequence of English-like instructions to solve a problem. 
+Flowchart: represents an algorithm graphically using boxes of various kinds, ellipses and arrows as connectors. 
+Pseudocode: represents algorithm with a simple and concise sequence 
+of English-like instructions.
+Whereas flowcharts are visually appealing and can be easier to understand, 
+pseudocodes are closer to instructions used in a program. With usage of 
+standardized symbols and pseudocode structures, it is also possible to convert algorithm represented in flowchart into pseudocode and vice versa. You can also draw your own flowchart on paper using the standardized graphical symbols shown in Table 6.2. Table 6.2 does not include all flowchart symbols available. It includes only those which are most frequently used to draw simple flowcharts. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+224 Table 6.2 Basic flowcharting shapes and symbols
+Symbo l Representation
+Start/End 
+The terminator symbol marks the starting or ending point of the 
+system. It usually contains the word Start or End. 
+Action or Process 
+A box can represent a single step (add two cups of flour), or an entire sub-process (make bread) within a larger process. 
+Decision 
+A decision or branching point. Lines representing different decisions emerge from different points of the diamond. 
+Input/Output  
+Represents material or information entering or leaving the 
+system such as customer order (input) or a product (output). 
+Connector 
+Indicates that the flow continues where a matching symbol    (containing the same letter) has been placed. 
+Flow Line 
+Lines indicate the sequence of steps and the direction of flow. 
+Subroutine (or module) 
+Indicates a sequence of actions that perform a specific task embedded within a larger process. This sequence of actions could be described on a separate flowchart in more detail. 
+Terminal or start/end is always used at the beginning and end of an algorithm.   
+A parallelogram (or input/output) indicates that information is required at this 
+point in the flow. The information can be accepted into (i.e. input) or released from (i.e. output) the computer system. Information processing such as arithmetic operations like adding two numbers or getting average of the two numbers added is represented with a rectangle (process). Process designates specific action or work within the flow. Decision (or diamond shape) indicates a choice that must be made or a question that needs to be answered. The result determines the next step in the flow. Flow lines (arrows) show the direction and order of the flow. Small circle (connector) is used to connect a flowchart placed in a different place or page. Larger flowcharts usually have subroutines to handle a specific task. It is also called predefined process and shows that additional information for predefined 
+processes  is provided elsewhere. 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    2256.3.1  Developing Flowcharts 
+Flowcharts can be used to represent both computational and non-computational 
+activities. Let us start with non-computational activities (i.e. a process to be handled by a human or a manual machine). For example, one of the peace building activities in school is maintaining a peaceful school environment. This can be done through reducing students’ absenteeism and late coming,   avoiding sexual abuse and harassment inside and outside of school compound, and strengthening collaborative atmosphere in student-to-student and teacher-to-students engagement.  
+Assume that your Woreda Education Department has the following 
+Environmental Protection Policy on school gardens. In school where there is a school garden, students and teachers cultivate the garden as part of their Nature study work.  However, a new school garden is prepared with the participation of parents.  The following flowchart in Figure 6.2 is the algorithm for this policy. Figure 6.2 presents a flowchart for this school policy. The diagram uses two terminals for the start and end. A decision (diamond symbol) for the rule which have a “Yes” and a “No” arrows show the flow direction based on the condition in the diamond.
+Practical Exercise 6.2
+Draw flowcharts for the following two diagrams.
+1. Write an algorithm that accepts a driving speed in kilometer and displays “reasonable speed” if the speed is not exceeding 40 km per hour. The display is “Excessive speed, you are at high risk for traffic accident” if it exceeds 60 km per hour. If the speed is between 40 and 60 km per hour, display “You are in medium speed limit. Be careful!”.
+2.  Draw a flowchart for an algorithm that accepts two numbers and displays 
+the sum and product of the two numbers. 
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+226 START
+HAS THE  SCHOOL  A 
+BOTANICAL GARDEN ?
+MAINTAIN GARDEN 
+BY STUDENT AND 
+TEACHERSBUILD GARDEN 
+WITH PARENT 
+PARTICIPATION
+ENDYES NO
+Figure 6.2 Flowchart of environmental protection policy in a school garden
+6.3.2  Working with Decisions and Repetitions 
+In this section, you will develop a simple flowchart for certain activities that will 
+be done repetitively or selectively. In general, there are three types of flow of in-struction processing in a computer system.  
+ Brainstorming 
+1. Are there some activities that you do repetitively before completing the work? For example, how do you add a long list of numbers, say for exampling adding 100 different numbers?
+2. Are there some other activities that you can perform only when a certain condition(s) is met? For example, when do you open your umbrella – is it when you are inside a house or when you are outside? Or, can you become grade 10 student if your average mark of grade 9 is a failure (<50%)? 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    227These are:
+ Sequence : execute instruction top down in the order they are placed in 
+the algorithm. 
+ Selection or condition: execute or jump instruction(s) depending on the 
+outcome of the decision. 
+ Repetition: repeatedly execute instruction(s) for a fixed number of times or until some condition occurs.
+Flowchart and block programming tool 
+There are recent development in learning to programing graphically to make pro -
+gramming accessible and faster to do. These two trends are: 
+1. Flowchart-based programming environment:  using software tool to develop algorithm automatically as flowchart. These tools can help learners to learn the step of execution visually. Additional capacity is auto-creation of program codes from the flowchart. The following are freely available software in this category include
+a. Flowgorithm (http://www.flowgorithm.org)
+b.  Raptor (https:// raptor.martincarlisle.com/)
+c.  SFC - A Structured Flow Chart Editor (http://watts.cs.sonoma.edu/SFC/)
+2. Block-based Programming Environment: The block-based approach of visual programming allows learners to reuse pre-developed graphic object for development of a program through a drag and drop manipulations. The following are two popular free block-based programming environments:
+a. Scratch (https://scratch.mit.edu/)
+b.  Blockly  (https://developers.google.com/blockly) 
+We use Flowgorithm for flowchart-based programming and Scratch for block-
+based programming. Flogorithm is a free beginner’s programming language that is based on simple graphical flowcharts. Figure 6.3 shows the flowchart symbols. Flowgorithm combines classic flowchart symbols you have known from Section 6.3.1 above and a few more to represent common repetition flows of in- struction. You can also run your programs directly in Flowgorithm. You can learn more about how to learn programming with Flowgorithm from YouTube videos and notes available at https://en.wikiversity.org/wiki/Flowgorithm and www.flow-
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+228 gorithm.org/resources/index.html. You can learn programming through creating 
+stories, games and animations in Scratch. 
+Figure 6.3 Flowgorithm flowchart symbols
+You can draw flowcharts in Flowgorithm. Figure 6.4 shows how you can do 
+this. You see a window as shown in Figure 6.4 (A) when you open Flowgorithm. You get a start (or main) and end symbols created automatically with an arrow connection. Figure 6.4 (B) is a pop-up window that you get when you right-click the arrow connector. To draw a flowchart with a “Welcome!” message output, 
+you select the Output symbol from the pop-up window with which the symbol is 
+added into your flowchart between the start and end. Double click on the output symbol on your flowchart and add the text “Welcome!” in the textbox with instruction Enter an Expression Below. Figure 6.5 shows the flowchart produced. 
+To see the output, simply click the RUN icon on the toolbar (See Figure 6.4 (A)). 
+a)        b)
+Figure 6.4 Flowgorithm environment (A) and symbol window (B)
+
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    229
+Figure 6.5  Displaying “Welcome”
+Practical Exercise 6.3
+Draw flowcharts for the following two diagrams.
+1. Draw a flowgorithm flowchart with your name and the name of your school 
+in a single line. Hint: Put your name in a double quotation, like “Challa” and your school’s name again inside double quotation and connect them together with the & operator, which is a string connector in flowgorithm.  Run the flowchart. Are your name and the name of your school combined together without space? Put a space at the beginning of your school’s name after opening the quotation and run it. How is it displayed now? 
+2.  Draw a flowchart for an algorithm that displays the name of three 
+neighbouring countries to Ethiopia in three different lines. Hint: Use three output symbols. Note that, instruction presented with one flowchart symbol can be referred to as a statement. 
+3. Draw a flowchart that adds two numbers, num1 and num2, accepted from a keyboard. Note, now you need to use a variable declaration symbol and the input symbols. Declaration is used to name a variable where a data accepted from a keyboard is going to be placed. Declaration always comes before input. You can also declare more than one variable with one declaration symbol by separating them with comma (,).  Hint: You will have important lesson from this activity. One of them is about computer-human interaction. To accept some data from a keyboard, an alerting message must be given with output symbol.   
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+230 For example, you have to display, “Please enter two numbers” as a prompt 
+for the person to enter them. Then you can accept the numbers the person is supposed to enter with two input symbols declared as num1 and num2.  After drawing the complete flowchart, do the following to learn more about how the computer executes long flowcharts. (1) Click the Layout Windows… from the toolbar and select Variables & Consoles from the pop-up windows.  Now, you see two more flowgorithm windows.  Now, use the Step icon from the toolbar to see how the flowchart performs at each level. Observe the changes in the variable and consoles (or output) windows and responding to prompts given to you.    
+4. See the pseudocode equivalent of your flowchart. To see the pseudocode version of your flowchart in question number 5, select Source code viewer from Tools menu. Make sure that auto Pseudocode is selected for the source code. If it is not selected, select it by choosing it from the Language combo box in the toolbar of the code viewer. 
+5. Draw two flowcharts that calculate (1) area of a circle (2) area of a triangle. Note that 62 is written as 6^2 in flowgorithm. Thus, area of a circle with a radius of 6 cm can be calculated in llowgorithm as 3.142 * 6 ^2. 
+6. Simple wage calculation. Draw a flowchart that accepts hours worked and hourly rate and displays net pays.  If total pay exceeds 5,000, tax is calculated for 50% of the total pay. The tax rate is 5%. Net pay is calculated by deducting tax from the total pay. Hint: Use decision or IF symbol. 
+ Working with Scratch
+Scratch is a high-level block-based visual programming language designed as an educational tool for programming. Scratch helps you to code simple stories, animations and games. It is freely downloadable from https://scratch.mit.
+edu/. In this unit, you will use it to build your skills in the use of selection and repetitions with visual coding. Note that it is not a flowcharting tool, instead it is a programming language specifically designed for children. 
+Figure 6.6 shows the Scratch’s first window. At the top right, you get a stage 
+with a sprite, a cat by default. The sprites are the actors or main characters of the 
+project. Sprites are programmed to do something in scratch. The window has four 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    231main elements. The stage and the sprite are the first two. The other two are the 
+programming pallet and the script. The scrip tells the actors what to say or do. In 
+version 3 of scratch, the programming pallet is at the left side of the windows and labeled as code. A script is developed by taking graphic objects from the pallet. 
+The pallet has categories named as Motion, Looks, Sounds, Events, Control, Sensing, 
+Operators, and variables. The script is the area for your block programming of the 
+sprite. 
+Figure 6.6 Scratch visual programming tool
+For example, do the following to move the sprite 10 steps each time Go flag 
+(Green) at the top of the window get clicked.  
+1. From Events, drag the Move 
+  Clicked block to the script area.
+2. Drag Move 
+  Steps from Move and attach it with the Move 
+  Clicked 
+block in the script area.
+The script that you developed looks like the following (Figure 6.7). 
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+232 
+Figure 6.7 A scratch script that moves a sprite 10 steps
+After this, click the 
+  on the window or the script, what happens? The cat 
+sprite moves 10 steps to the right. That is, with a clip event of the flag, the sprite 
+goes 10 steps horizontally. Try it with several clicks. Now, lets the sprite say hello in addition to a 10 steps move. How can you do that? Look the right block from the Looks palette and drag it to the script.  
+ 
+Practical Exercise 6.4
+Draw Scratch script for the following questions.
+1. Modify your script by changing the Motion, Looks, or adding Sound that you choose. Each time you add any action/look to the Script, (1) discuss with your friends on what you have added and what changes the new script element brought to the sprite.  
+2.  Change the Move 10 Steps in the script into Move 100 steps. What happens 
+after 5 or 6 clicks? Is the sprint inside the stage? Actually, if the sprite goes outside of the stage, it stops near the edge. In this case, it most likely stops in the right edge of the x-axis. 
+3.  Use the if block from the control category with the Touching ‘mouse pointing’ 
+from the Sensing control. Use the following to control the movement of the sprite within the stage. See the if …. else block. By running the script several times. At what point does the sprite go back to the left? The if script reads: if the script touches the rightmost edge, the x position is adjusted to -100 positions. Otherwise, the sprite moves 10 steps to the right. Note that the stage has a coordinate system with X in the range of -240 and 240 and Y in the range of -180 and 180.  
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    2334. Is there any difference between the scripts in question 3 with the one shown 
+below? Which one is better?
+5. Write a script to move 10 steps to the left, right, up or down depending on which arrow key on the keyboard is pressed. Hint: Use the key ….. pressed from the Sensing pallets. Also, think how to use the When 
+ Clicked 
+together with the forever loop, change x by …, and change y by …. Pallets.  
+6. Use the repeat N loop, example repeat 10 to force the cat sprite to repeat meows 10 times. Hint:  Select the appropriate block from Sound and Use wait … seconds to listen to each meow with clarity.   
+7. Use the repeat until to repeat the meow sounds until a condition is met. Example, if a counter variable is set to 0 at the beginning, this is to repeat the meow until counter reaches 12 by adding 1 to the counter after each meow. Hint: Add a variable count, set count to 0 before the repeat until … block, add operator as a condition for repeat until block and increment count by 1 inside the repeat until… block. 
+8. Discuss in group how the if …, if… else, forever, repeat …., repeat until…. Control pallets work.
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+234 You have done a good job with scratch! It is time now to draw flowcharts for 
+selection and looping controls. For example, how do you determine whether a given number is even or odd? You divide the number by two and if the remained is not 0, then you say the number is odd. Which flowchart symbol is more appropriate – decision (or if) or looping such as while? The answer is the if structure. See the 
+flowgorithm flowchart shown in Figure 6.8 (A). As you can see in the flowchart, a variable number is declared and an integer is accepted into it with an input 
+symbol. There is a prompt “Enter an integer: “ as output before the input to alert the person to key in the number. The next symbol is the diamond/decision with a condition number % 2 = 0 . Flowgorithm uses % as a special operator called modulo-
+divide, which gives the remainder of an integer division. For example, 14%3 is 2, which is the remainder. This operator (%) is the same as mode in Excel. Check 
+=Mode(14, 3) in an Excel cell. Then the condition checks whether the remainder is equal to 0 or not. The flow to output ” number is even”   goes only if the remainder 
+equals to 0; otherwise, the flow moves towards the “number is odd” direction. 
+Figure 6.8 (B) represents a flowgorithm flowchart that displays all positive 
+integers less than 10. The numbers are 2, 4, 6 and 8. To display these step-by-step, the flowchart begins with declaring num as a variable to help the computer to 
+store different even integers. Then 2 is assigned to num. Assign  means making a 
+variable to hold a value, which is 2 at the beginning. There is a while loop next to 
+the output. The while loop checks whether num is less than 10, and if this is true, 
+it goes inside the loop. The loop outputs or prints the num value and adds 2 to the existing value of num. It goes back to the condition checking and the cycle continues until the condition  num < 10 becomes FALSE, in which cases the flow goes out of the while loop to finish the task. 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    235Figure 6.8 If and while loop control flowcharts
+Practical Exercise 6.5
+Draw flowcharts for the following.
+1.  Draw a flowgorithm flowchart that calculates wages of 10 labourers by 
+improving the flowchart that you developed for question number 6 of 
+Practical Exercise 6.2. 
+2.  Draw a flowgorithm flowchart that adds all the positive multiples of 3 less 
+than 100. 
+3.  Draw a flowgorithm flowchart that counts the number of failed and passed 
+marks out of 100 for 60 students in the classroom.  Mark less than 50% is a failure. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+236 6.4 Problem Solving Approaches 
+ 
+ Brainstorming 
+What problem-solving strategies have you used in solving mathematical 
+problems? 
+You developed some basic algorithms in section 6.3 above. It is important that we develop and test algorithm before developing program for a given problem. With an increasing complexity of a problem to solve, there is a need to be systematic and apply appropriate problem solving strategy. Top-down and bottom-up programming refer to two different strategies for developing a computer program for complex problems.  
+6.4.1  Top-Down Approaches 
+Top-down approach starts by implementing the most general modules and works toward implementing those that provide specific functionality. The idea behind top-down approach is that a bigger problem is difficult to manage in its entirety. Thus, the problem is decomposed or divided into smaller and manageable sub-problems. These sub-problems are then solved individually and then, later, integrated together to get the complete solution for the bigger problem. The solution developed for a smaller problem is called a module. This process of dividing the problem into smaller problem is known as modularization. 
+Refer back to question 1 of Practical Exercise 6.4 above. You were asked to 
+draw a flowchart to calculate wages of 10 laborers by improving the flowchart that calculates net-pay for a single laborer for Practical Exercise 6.2.  In question 1 of Practical Exercise 6.4, you were expected to integrate a repetition (loop) to calculate 10 wages by repeating a set of instructions to complete a single wage for 10 times. This can be divided into two modules. The first module calculates a wage for one laborer. The second module uses the service of the first module to compute 10 wages. See the flowchart symbol for subroutine in section 6.3 above 
+and the CALL symbol of flowgorithm. 
+Figure 6.9 shows the flowchart for wage calculation of 10 laborers. As you 
+can see in Figure 6.9, there are two modules. The first is CalculateWage, which 
+calculate net pays with specification given in question 6 of Practical Exercise 6.2. 
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    237The second is the main module, which calls the calculateWage subroutine inside 
+a loop structure to calculate wages repeatedly. Likewise, a program for a large 
+problem can be developed by dividing the problem into smaller problems and building modules for the smaller problems. 
+Figure 6.9 A flowchart developed with top-down approach
+Practical Exercise 6.6
+Draw flowcharts for the following.
+1.  Draw a flowgorithm flowchart that calculates area and circumference of a 
+circle applying a top-down approach. 
+2.  Draw a flowgorithm flowchart that (1) calculates the hypotenuse of a right-
+angle triangle using Pythagorean Theorem, and, (2) computes the perimeter of the triangle. 
+
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+238 6.4.2  Bottom-up Problem-Solving Approach
+ 
+ Brainstorming 
+Let us consider a scenario in which you have many modules that are already 
+developed. What will you do if you are given a duty to write a program to which the existing modules are relevant? 
+This method of solving a problem works exactly opposite of how the top-down approach works. Top-down programming starts by implementing the most general modules and works toward implementing those that provide specific functionality. In bottom-up approach, the most fundamental units, modules and sub-modules are designed and solved individually; these units are then integrated together to get a more concrete base to problem solving.
+For example, how can you do if you want to write a program to calculate 
+area and perimeter of different polygons (circle, triangle, rectangle, cube, parallelogram, etc.) applying bottom-up approach. If you have already modules with required functionalities (that is area and perimeter calculation) for each types of polygon, you can bring together those individual components and integrate them. Otherwise, you develop each module first and then incrementally build them up (or synthesize) as a bigger program.      
+Overall, most programs are developed using a combination of top-down and 
+bottom-up strategies. Both strategies are based on incremental development – the process of building your program piece by piece. Both strategies employ unit testing – testing each individual piece before moving on to the next.
+KEY CONCEPTS
+ /u270D_1F3FF To develop algorithm, we may use bottom-up approach or top-down 
+approach.
+ /u270D_1F3FFTop-down approach divides the large problem into small chunks called modules and concurs each module individually whereas bottom-up approache starts from individual chunk or module to build up the entire problem solution.  
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    239Practical Exercise 6.7
+Design Scratch Games. There are many online games that you can play online. 
+You can also design your own games with scratch. Do you know kids’ video games such as catch game, Pong, Flappy Bird, PacMan and Mario Bros.  You can also develop your own!
+1. What is needed? Games have actors – sprites for example apple and a bowl for Catch game. You also need a script, which are actions that a sprite takes during the play. For example, the bowl makes horizontal move to collect the falling apples. You also need stages that change as needed in the game. Read about one of the games and develop a scratch script for the game. Note that you need to apply a careful planning and implementation and teamwork activities. 
+2. Telling story in scratch. Ethiopia is a historical country with rich cultural diversity and many attractions. What touristic attractions and cultural stories your community has to tell to the world? We have also many issues to tell to your young brothers and sisters, and kids to correct bad habits and unhealthy practices in the country. For example, drug addiction, improper walkway usage in cities and towns, abuses towards child and female students are all common problems in Ethiopia. Scratch helps you build stories and put them online to share your stories for kids or global audiences. Oh, what a golden opportunity! Watch online videos on how to make a story in scratch and build your own story. What you need is determining you characters, scenes and writing dialogues.  Using the wait and broadcast makes your story interactive. Remember, this also needs a problem solving strategy that involves proper planning, task division and 
+6.5 Unit Summary 
+ Computers and computer applications are meant for solving human problems. Most of our problems are solved using software. 
+ Software is created through a software development process. The term software and computer program, or simply program, can be used interchangeably.  
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+240  A program is a sequence of instructions that can be executed by a 
+computer to solve some problem or perform a specified task.
+ A program development passes through a stage or steps to decrease the complexity of the problem.
+ The first step in developing a program is to try to understand the problem at hand that needs to be solved using a computer program. 
+ After clearly identifying the problem, the second step is to develop an algorithm that can be done using flowchart. Another option is a pseudocode.
+ An algorithm is a prescribed set of well-defined rules or instructions for the solution of a problem. Algorithms need to be checked for their accuracy. Checking algorithms with paper and pencil is called desk 
+checking . 
+ Pseudocode resembles instructions written using a programming language. We use flowchart for shorter algorithms. 
+ Problem developers use top-down and bottom-up problem-solving approaches. In top-down, bigger problems and solutions are continually broken down into sub-problems and sub-specifications to get a program’s solution by integrating solutions from smaller chunk of problem. Bottom-up starts with solutions from smaller one and builds larger system through integration of pre-developed solutions. 
+6.6 Unit Review Exercise
+Part I: Write whether the following statements are true or false.
+1. Program or software is used to solve a problem.     .
+2. Modularization is a process of decomposing a bigger problem and solving smaller ones.
+3. Decision/If is used to control repetitions.
+4. A computational problem covers all kinds of problems that human beings may encounter.
+5. A computer can solve a problem on its own.
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    241Part II: Choose the correct answer among the alternatives provided.
+1. A set of instructions that is developed to solve a given problem using a 
+computer is ___________.     
+A. hard disk
+B. software
+C. program
+D. B and C are answers.
+E. All of the above 
+2. An Algorithm can be represented using _______and ___________.
+A. software and programs
+B. pseudocodes and flowcharts
+C. A and B are answers. 
+D. None of the above .
+3. Understanding a problem may include ___________. 
+A. identifying what is not known
+B. identifying alternative solutions
+C. writing and testing a program
+D. All of the above.      
+4. Which of the following can be a part of flowcharts?
+A. Input/output
+B. Decision
+C. Loops
+D. All of the above.
+5. ______________ is a type of diagram that represents algorithm graphically using boxes of various kinds, in an order connected by arrows.
+A. Pseudocode 
+B. Algorithm 
+C. Flowchart 
+D. Top-down and bottom-up approaches 
+
+--- [PAGE BREAK] ---
+
+Unit 6 : Fundamentals of Programming
+242 6. Which one is different from others?
+A. if … else
+B. forever
+C. repeat 
+D. repeat until
+7. ___________ is an approach used to build a program by integrating small 
+modules and building them up into a bigger solution.
+A. Bottom-up
+B. Decomposition
+C. Top-down
+D. All of the above.
+Part III: Provide clear and precise responses to the following questions. 
+1. Why is bottom-up better than top-down?
+2. What do we mean by top-down problem-solving approaches?
+3. What is the advantage of a top-down approach?
+4. Write the difference between flowchart and pseudocode. Discuss also how flowgorithm can help you in learning the two? 
+5. What is a computational thinking? 
+Annex A: Acronyms 
+ATM Automated Teller Machine
+CBE Commercial Bank of Ethiopia
+CIA confidentiality, integrity and availability
+CPU Central Processing Units
+DVD Digital Video Disc  or Digital Versatile Disc
+HTTP Hypertext Transfer Protocol 
+ICT Information Communication Technology
+INSA Information Network Security Agency  
+
+--- [PAGE BREAK] ---
+
+Grade 9 Information Technology Student’s Textbook    243LAN Local Area Network
+MAN Metropolitan Area Network
+NAS Network-attached storage
+NIC Network Interface Card
+PAN Personal Area Network
+PPI Pixel Per Inch
+SQL Structured Query Language
+USB Universal Serial Bus
+UTP Unshielded Twisted Pair
+WAN Wide Area Network 
