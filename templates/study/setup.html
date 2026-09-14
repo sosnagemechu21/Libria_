@@ -4,42 +4,102 @@
 <div class="topbar">
   <div>
     <div class="topbar-title"><i data-lucide="clock"></i> Start a Study Session</div>
-    <div class="topbar-subtitle">Choose your material and set your focus time.</div>
+    <div class="topbar-subtitle">Choose your grade, subject, and chapter to pre-load textbook notes.</div>
   </div>
 </div>
 
 <div class="grid-2" style="gap:32px; align-items:start;">
-  <!-- Setup Form -->
-  <form method="post" action="{% url 'study:setup' %}" class="card animate-fadeInUp">
+  <!-- Progressive Setup Form -->
+  <form method="post" action="{% url 'study:setup' %}" class="card animate-fadeInUp" id="studySetupForm">
     {% csrf_token %}
-    <h2 style="font-size:20px; margin-bottom:24px; color:var(--text);">Session Setup</h2>
+    <input type="hidden" name="textbook_id" id="hiddenTextbookId" required />
+    <input type="hidden" name="chapter_id" id="hiddenChapterId" />
+    <input type="hidden" name="stream" id="hiddenStream" />
 
-    <div class="form-group">
-      <label class="form-label"><i data-lucide="book-open"></i> Select Textbook</label>
-      <select class="form-control" name="textbook_id" id="textbookSelect" required onchange="loadChapters(this.value)">
-        <option value="">— Choose a textbook —</option>
-        {% regroup all_textbooks by grade as grade_groups %}
-        {% for group in grade_groups %}
-        <optgroup label="{{ group.grouper.label }}">
-          {% for book in group.list %}
-          <option value="{{ book.pk }}" {% if selected_textbook.pk == book.pk %}selected{% endif %}>
-            {{ book.subject.icon }} {{ book.subject.name }} — {{ book.get_curriculum_type_display }}
-          </option>
-          {% endfor %}
-        </optgroup>
-        {% endfor %}
-      </select>
+    <h2 style="font-size:20px; margin-bottom:24px; color:var(--text); display:flex; align-items:center; gap:10px;">
+      <i data-lucide="sparkles" style="color:var(--accent);"></i> Session Setup
+    </h2>
+
+    <!-- Step 1: Select Class / Grade -->
+    <div class="form-group mb-20">
+      <label class="form-label font-bold" style="display:flex; justify-content:space-between; align-items:center;">
+        <span><span class="step-num">1</span> Which Grade / Class are you in?</span>
+        <span class="text-xs text-muted" id="gradeBadge">Select a grade</span>
+      </label>
+      <div class="step-pill-grid">
+        <button type="button" class="setup-pill-btn grade-pill" data-grade="9" onclick="selectGrade(9)">
+          <span class="pill-icon">📘</span>
+          <span class="pill-text">Grade 9</span>
+        </button>
+        <button type="button" class="setup-pill-btn grade-pill" data-grade="10" onclick="selectGrade(10)">
+          <span class="pill-icon">📗</span>
+          <span class="pill-text">Grade 10</span>
+        </button>
+        <button type="button" class="setup-pill-btn grade-pill" data-grade="11" onclick="selectGrade(11)">
+          <span class="pill-icon">📙</span>
+          <span class="pill-text">Grade 11</span>
+        </button>
+        <button type="button" class="setup-pill-btn grade-pill" data-grade="12" onclick="selectGrade(12)">
+          <span class="pill-icon">📕</span>
+          <span class="pill-text">Grade 12</span>
+        </button>
+      </div>
     </div>
 
-    <div class="form-group" id="chapterGroup" style="display:none;">
-      <label class="form-label"><i data-lucide="file-text"></i> Chapter (optional)</label>
-      <select class="form-control" name="chapter_id" id="chapterSelect">
-        <option value="">— Whole book —</option>
-      </select>
+    <!-- Step 1B: Select Stream (Grade 11 & 12 only) -->
+    <div class="form-group mb-20" id="streamGroup" style="display:none;">
+      <label class="form-label font-bold">
+        <span><span class="step-num">1B</span> Choose your Stream:</span>
+      </label>
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px;">
+        <button type="button" class="setup-pill-btn stream-pill" data-stream="Natural_Science" onclick="selectStream('Natural_Science')">
+          <span class="pill-icon">🔬</span>
+          <div style="text-align:left;">
+            <div style="font-weight:700;">Natural Science</div>
+            <div style="font-size:11px; opacity:0.8;">Bio, Chem, Phys, Math, Agri, IT</div>
+          </div>
+        </button>
+        <button type="button" class="setup-pill-btn stream-pill" data-stream="Social_Science" onclick="selectStream('Social_Science')">
+          <span class="pill-icon">🌍</span>
+          <div style="text-align:left;">
+            <div style="font-weight:700;">Social Science</div>
+            <div style="font-size:11px; opacity:0.8;">Econ, Geo, Hist, Math, IT, Eng</div>
+          </div>
+        </button>
+      </div>
     </div>
 
-    <div class="form-group">
-      <label class="form-label"><i data-lucide="clock"></i> Study Duration</label>
+    <!-- Step 2: Select Subject -->
+    <div class="form-group mb-20" id="subjectGroup" style="display:none;">
+      <label class="form-label font-bold" style="display:flex; justify-content:space-between; align-items:center;">
+        <span><span class="step-num">2</span> Select Subject</span>
+        <span class="text-xs text-muted" id="subjectBadge">Choose a subject</span>
+      </label>
+      <div class="subject-select-grid" id="subjectCards">
+        <!-- Injected via JavaScript -->
+      </div>
+    </div>
+
+    <!-- Step 3: Select Chapter -->
+    <div class="form-group mb-20" id="chapterGroup" style="display:none;">
+      <label class="form-label font-bold" style="display:flex; justify-content:space-between; align-items:center;">
+        <span><span class="step-num">3</span> Select Chapter / Topic</span>
+        <span class="badge" style="background:var(--accent-glow); color:var(--accent); font-size:11px;">
+          <i data-lucide="file-text" style="width:12px; height:12px; display:inline-block; vertical-align:middle;"></i> Notes Ready
+        </span>
+      </label>
+      <select class="form-control" id="chapterSelect" onchange="selectChapter(this.value)">
+        <option value="">— Whole Book (All Notes) —</option>
+      </select>
+      <div class="note-status-banner mt-10" id="noteStatusBanner">
+        <i data-lucide="check-circle" style="width:14px; height:14px; color:var(--success);"></i>
+        <span id="noteStatusText">Pre-loaded textbook notes will automatically be available in your focus editor!</span>
+      </div>
+    </div>
+
+    <!-- Step 4: Duration -->
+    <div class="form-group mb-24">
+      <label class="form-label font-bold"><span class="step-num">4</span> Study Duration</label>
       <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin-bottom:10px;">
         <button type="button" class="grade-btn duration-btn" data-mins="15" onclick="setDuration(15)">15m</button>
         <button type="button" class="grade-btn duration-btn" data-mins="25" onclick="setDuration(25)">25m</button>
@@ -49,66 +109,174 @@
       <input type="number" class="form-control" name="duration" id="durationInput" value="25" min="5" max="180" placeholder="Or enter custom minutes" />
     </div>
 
-    <button type="submit" class="btn btn-primary btn-lg" style="width:100%;">
-      <i data-lucide="rocket"></i> Enter Focus Mode
+    <button type="submit" class="btn btn-primary btn-lg" id="submitBtn" style="width:100%;" disabled>
+      <i data-lucide="rocket"></i> Enter Focus Mode with Notes
     </button>
   </form>
 
-  <!-- Right panel -->
+  <!-- Right panel: Preview & Context -->
   <div>
-    {% if selected_textbook %}
-    <div class="card mb-24 animate-fadeInUp">
+    <div class="card mb-24 animate-fadeInUp" id="selectedBookCard" style="display:none;">
       <div class="card-header">
-        <div class="font-bold">Selected Book</div>
-        <span class="badge">{{ selected_textbook.get_curriculum_type_display }}</span>
+        <div class="font-bold">Active Study Material</div>
+        <span class="badge" id="previewCurriculum">New Curriculum</span>
       </div>
       <div style="display:flex; gap:16px; align-items:start;">
-        {% if selected_textbook.cover_url %}
-        <img src="{{ selected_textbook.cover_url }}" style="width:80px; border-radius:8px;" loading="lazy" />
-        {% else %}
-        <div style="width:80px; height:80px; border-radius:8px; background:var(--bg-secondary); display:flex; align-items:center; justify-content:center; font-size:32px;">{{ selected_textbook.subject.icon }}</div>
-        {% endif %}
+        <div id="previewIcon" style="width:68px; height:68px; border-radius:12px; background:var(--accent-glow); display:flex; align-items:center; justify-content:center; font-size:32px; flex-shrink:0;">📚</div>
         <div>
-          <div class="font-bold" style="margin-bottom:6px;">{{ selected_textbook.title }}</div>
-          <div class="text-sm text-muted">{{ selected_textbook.pages }} pages · {{ selected_textbook.chapters }} chapters</div>
-          <div class="book-tags" style="margin-top:8px;">
-            <span class="badge">{{ selected_textbook.grade.label }}</span>
-            <span class="badge">{{ selected_textbook.subject.name }}</span>
+          <div class="font-bold" id="previewTitle" style="font-size:16px; margin-bottom:6px; line-height:1.3;">Textbook Title</div>
+          <div class="text-sm text-muted" id="previewDetails">0 chapters with pre-loaded notes</div>
+          <div class="book-tags" style="margin-top:10px;">
+            <span class="badge" id="previewGradeBadge">Grade</span>
+            <span class="badge" id="previewStreamBadge" style="display:none;">Stream</span>
+            <span class="badge" id="previewChapterBadge" style="display:none;">Chapter</span>
           </div>
         </div>
       </div>
     </div>
-    {% endif %}
 
     {% if recent_sessions %}
     <div class="card animate-fadeInUp">
       <div class="card-header">
-        <div class="font-bold">Recent Sessions</div>
+        <div class="font-bold"><i data-lucide="history"></i> Recent Study Sessions</div>
       </div>
       {% for session in recent_sessions %}
       <div style="display:flex; align-items:center; justify-content:space-between; padding:10px 0; border-bottom:1px solid var(--border);">
         <div style="display:flex; align-items:center; gap:12px;">
-          <span style="font-size:20px;">{{ session.textbook.subject.icon }}</span>
+          <span style="font-size:22px;">{{ session.textbook.subject.icon }}</span>
           <div>
-            <div class="text-sm font-bold">{{ session.textbook.subject.name }}</div>
-            <div class="text-xs text-muted">{{ session.started_at|date:"M d" }} · {{ session.get_duration_minutes }} min</div>
+            <div class="text-sm font-bold">{{ session.textbook.subject.name }} ({{ session.textbook.grade.label }})</div>
+            <div class="text-xs text-muted">
+              {% if session.chapter %}Ch. {{ session.chapter.number }} · {% endif %}
+              {{ session.started_at|date:"M d" }} · {{ session.get_duration_minutes }} min
+            </div>
           </div>
         </div>
-        <a href="{% url 'study:setup' %}?textbook={{ session.textbook.pk }}" class="btn btn-ghost btn-sm">Again</a>
+        <a href="{% url 'study:session' session.pk %}" class="btn btn-ghost btn-sm">Resume</a>
       </div>
       {% endfor %}
     </div>
     {% endif %}
 
     <div class="card mt-24 animate-fadeInUp" style="background:var(--accent-glow); border-color:var(--border-accent);">
-      <div style="font-size:24px; margin-bottom:12px;"><i data-lucide="lightbulb"></i></div>
-      <div class="font-bold" style="margin-bottom:8px;">Study tip</div>
-      <p class="text-sm text-muted">The Pomodoro technique suggests 25 minutes of focused study followed by a 5-minute break. After 4 sessions, take a longer break of 15–30 minutes.</p>
+      <div style="font-size:24px; margin-bottom:10px;"><i data-lucide="lightbulb"></i></div>
+      <div class="font-bold" style="margin-bottom:6px;">Textbook Notes Integration</div>
+      <p class="text-sm text-muted" style="line-height:1.6;">
+        Selecting a chapter automatically injects the extracted textbook chapter summary and notes into your focus session workspace so you can read, revise, and annotate without leaving the timer.
+      </p>
     </div>
   </div>
 </div>
 
 <style>
+  .step-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 800;
+    margin-right: 6px;
+  }
+  .step-pill-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+  .setup-pill-btn {
+    padding: 12px 10px;
+    border-radius: 12px;
+    border: 1.5px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text);
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-family: 'Inter', sans-serif;
+  }
+  .setup-pill-btn:hover {
+    border-color: var(--accent);
+    background: var(--accent-glow);
+    transform: translateY(-2px);
+  }
+  .setup-pill-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #ffffff !important;
+    box-shadow: 0 4px 14px rgba(75, 123, 229, 0.35);
+  }
+  .setup-pill-btn.active .pill-text,
+  .setup-pill-btn.active div {
+    color: #ffffff !important;
+  }
+  .pill-icon {
+    font-size: 18px;
+  }
+  .pill-text {
+    font-size: 13px;
+    font-weight: 700;
+  }
+  .subject-select-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 10px;
+    max-height: 240px;
+    overflow-y: auto;
+    padding: 4px;
+  }
+  .subject-card-btn {
+    padding: 12px 8px;
+    border-radius: 12px;
+    border: 1.5px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+  }
+  .subject-card-btn:hover {
+    border-color: var(--accent);
+    background: var(--accent-glow);
+  }
+  .subject-card-btn.active {
+    border-color: var(--accent);
+    background: var(--accent-glow);
+    box-shadow: 0 0 0 2px var(--accent);
+  }
+  .subject-card-btn .sub-icon {
+    font-size: 24px;
+  }
+  .subject-card-btn .sub-name {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  .subject-card-btn .sub-meta {
+    font-size: 10px;
+    color: var(--text-muted);
+  }
+  .note-status-banner {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    background: rgba(16, 185, 129, 0.08);
+    border: 1px solid rgba(16, 185, 129, 0.25);
+    border-radius: 8px;
+    font-size: 12px;
+    color: var(--text);
+  }
   .duration-btn {
     padding:10px; border-radius:10px; border:1.5px solid var(--border);
     background:transparent; color:var(--text-muted); font-size:14px; font-weight:600;
@@ -122,48 +290,179 @@
 
 {% block extra_js %}
 <script>
+// Hierarchy payload injected from backend
+const HIERARCHY = {{ hierarchy_json|safe }};
+
+let selectedGrade = null;
+let selectedStream = null;
+let selectedSubject = null;
+let selectedChapterId = null;
+
 function setDuration(mins) {
   document.getElementById('durationInput').value = mins;
   document.querySelectorAll('.duration-btn').forEach(b => b.classList.remove('selected'));
-  document.querySelectorAll(`.duration-btn[data-mins="${mins}"]`).forEach(b => b.classList.add('selected'));
+  const btn = document.querySelector(`.duration-btn[data-mins="${mins}"]`);
+  if (btn) btn.classList.add('selected');
 }
 
-const chaptersData = {
-  {% for group in all_textbooks|dictsort:"grade.number" %}{# Just iterating over all_textbooks would require a flat list, wait... all_textbooks is flat before regroup #}{% endfor %}
-};
+// 1. Select Grade
+function selectGrade(gradeNum) {
+  selectedGrade = gradeNum;
+  selectedStream = null;
+  selectedSubject = null;
+  selectedChapterId = null;
 
-// A better way to write out chaptersData without breaking Django template syntax:
-const chaptersData2 = {
-  {% for book in all_textbooks %}
-  "{{ book.pk }}": [
-    {% for chapter in book.chapter_list.all %}
-    { "id": "{{ chapter.pk }}", "title": "Chapter {{ chapter.number }} - {{ chapter.title|escapejs }}" },
-    {% endfor %}
-  ],
-  {% endfor %}
-};
+  document.querySelectorAll('.grade-pill').forEach(b => {
+    b.classList.toggle('active', parseInt(b.getAttribute('data-grade')) === gradeNum);
+  });
 
-async function loadChapters(textbookId) {
+  const gradeData = HIERARCHY[gradeNum.toString()];
+  document.getElementById('gradeBadge').textContent = `Grade ${gradeNum} selected`;
+
+  // Hide later steps
+  document.getElementById('subjectGroup').style.display = 'none';
+  document.getElementById('chapterGroup').style.display = 'none';
+  document.getElementById('submitBtn').disabled = true;
+
+  if (gradeData && gradeData.has_streams) {
+    // Show stream selector for 11 & 12
+    document.getElementById('streamGroup').style.display = 'block';
+    document.querySelectorAll('.stream-pill').forEach(b => b.classList.remove('active'));
+    document.getElementById('hiddenStream').value = '';
+  } else {
+    document.getElementById('streamGroup').style.display = 'none';
+    document.getElementById('hiddenStream').value = '';
+    renderSubjects(gradeData ? gradeData.subjects : []);
+  }
+
+  updatePreview();
+}
+
+// 1B. Select Stream (Grade 11/12)
+function selectStream(streamKey) {
+  selectedStream = streamKey;
+  selectedSubject = null;
+  selectedChapterId = null;
+  document.getElementById('hiddenStream').value = streamKey;
+
+  document.querySelectorAll('.stream-pill').forEach(b => {
+    b.classList.toggle('active', b.getAttribute('data-stream') === streamKey);
+  });
+
+  const gradeData = HIERARCHY[selectedGrade.toString()];
+  if (gradeData && gradeData.streams && gradeData.streams[streamKey]) {
+    renderSubjects(gradeData.streams[streamKey]);
+  }
+
+  updatePreview();
+}
+
+// 2. Render Subjects
+function renderSubjects(subjectsList) {
+  const container = document.getElementById('subjectCards');
+  container.innerHTML = '';
+
+  if (!subjectsList || subjectsList.length === 0) {
+    container.innerHTML = '<div class="text-muted text-sm p-10">No textbooks available for this selection.</div>';
+    document.getElementById('subjectGroup').style.display = 'block';
+    return;
+  }
+
+  subjectsList.forEach(sub => {
+    const card = document.createElement('button');
+    card.type = 'button';
+    card.className = 'subject-card-btn';
+    card.setAttribute('data-sub-id', sub.id);
+    card.onclick = () => selectSubject(sub);
+    card.innerHTML = `
+      <span class="sub-icon">${sub.icon || '📚'}</span>
+      <span class="sub-name">${sub.name}</span>
+      <span class="sub-meta">${sub.chapters_count} Chapters</span>
+    `;
+    container.appendChild(card);
+  });
+
+  document.getElementById('subjectGroup').style.display = 'block';
+}
+
+// 2B. Select Subject
+function selectSubject(sub) {
+  selectedSubject = sub;
+  selectedChapterId = null;
+  document.getElementById('hiddenTextbookId').value = sub.textbook_id;
+  document.getElementById('subjectBadge').textContent = sub.name;
+
+  document.querySelectorAll('.subject-card-btn').forEach(c => {
+    c.classList.toggle('active', parseInt(c.getAttribute('data-sub-id')) === sub.id);
+  });
+
+  // Populate Chapters
   const chapterSelect = document.getElementById('chapterSelect');
-  chapterSelect.innerHTML = '<option value="">— Whole book —</option>';
-  
-  if (!textbookId) { document.getElementById('chapterGroup').style.display='none'; return; }
-  
-  const chapters = chaptersData2[textbookId] || [];
-  if (chapters.length > 0) {
-    document.getElementById('chapterGroup').style.display = 'block';
-    chapters.forEach(ch => {
+  chapterSelect.innerHTML = '<option value="">— Whole Book (All Notes) —</option>';
+
+  if (sub.chapters && sub.chapters.length > 0) {
+    sub.chapters.forEach(ch => {
       const opt = document.createElement('option');
       opt.value = ch.id;
-      opt.textContent = ch.title;
+      opt.textContent = `Chapter ${ch.number}: ${ch.title} ${ch.pages ? '(' + ch.pages + ')' : ''}`;
       chapterSelect.appendChild(opt);
     });
+  }
+
+  document.getElementById('chapterGroup').style.display = 'block';
+  document.getElementById('submitBtn').disabled = false;
+  updatePreview();
+}
+
+// 3. Select Chapter
+function selectChapter(chapterId) {
+  selectedChapterId = chapterId;
+  document.getElementById('hiddenChapterId').value = chapterId;
+  updatePreview();
+}
+
+// Update Right Panel Preview
+function updatePreview() {
+  const card = document.getElementById('selectedBookCard');
+  if (!selectedSubject) {
+    card.style.display = 'none';
+    return;
+  }
+
+  card.style.display = 'block';
+  document.getElementById('previewIcon').textContent = selectedSubject.icon || '📚';
+  document.getElementById('previewTitle').textContent = selectedSubject.textbook_title || selectedSubject.name;
+  document.getElementById('previewDetails').textContent = `${selectedSubject.chapters_count} Chapters available with notes`;
+  
+  const gBadge = document.getElementById('previewGradeBadge');
+  gBadge.textContent = `Grade ${selectedGrade}`;
+
+  const sBadge = document.getElementById('previewStreamBadge');
+  if (selectedStream) {
+    sBadge.style.display = 'inline-block';
+    sBadge.textContent = selectedStream.replace('_', ' ');
   } else {
-    document.getElementById('chapterGroup').style.display = 'none';
+    sBadge.style.display = 'none';
+  }
+
+  const cBadge = document.getElementById('previewChapterBadge');
+  if (selectedChapterId && selectedSubject.chapters) {
+    const chObj = selectedSubject.chapters.find(c => c.id.toString() === selectedChapterId.toString());
+    if (chObj) {
+      cBadge.style.display = 'inline-block';
+      cBadge.textContent = `Chapter ${chObj.number}`;
+    } else {
+      cBadge.style.display = 'none';
+    }
+  } else {
+    cBadge.style.display = 'none';
   }
 }
 
-// Pre-select 25m
-document.querySelector('.duration-btn[data-mins="25"]').classList.add('selected');
+// Default select 25m
+setDuration(25);
+
+// Pre-select Grade 9 by default to provide an immediate interactive state
+selectGrade(9);
 </script>
 {% endblock %}

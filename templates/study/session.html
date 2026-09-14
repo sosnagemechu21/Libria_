@@ -413,8 +413,8 @@
 
     <!-- <i data-lucide="notebook-pen"></i> Notes -->
     <div class="sidebar-section" style="flex:1;">
-      <div class="sidebar-section-label"><i data-lucide="notebook-pen"></i> Notes</div>
-      <textarea class="notes-area" id="sessionNotes" placeholder="Jot down key ideas, formulas, or questions as you study...">{{ session.notes }}</textarea>
+      <div class="sidebar-section-label"><i data-lucide="notebook-pen"></i> Scratchpad</div>
+      <textarea class="notes-area" id="sessionNotesSidebar" placeholder="Quick jot down..." oninput="document.getElementById('sessionNotes').value = this.value">{{ session.notes }}</textarea>
       <button class="music-btn" style="margin-top:8px; width:100%;" onclick="saveNotes()">Save Notes</button>
     </div>
 

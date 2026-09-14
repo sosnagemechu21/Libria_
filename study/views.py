@@ -10,9 +10,85 @@ import requests
 from django.views.decorators.csrf import csrf_exempt
 
 
+import os
+
+NATURAL_SCIENCE_SUBJECTS = {
+    'biology', 'chemistry', 'physics', 'mathematics',
+    'information technology', 'agriculture', 'english'
+}
+
+SOCIAL_SCIENCE_SUBJECTS = {
+    'economics', 'geography', 'history', 'mathematics',
+    'information technology', 'english'
+}
+
+def get_study_hierarchy():
+    from library.models import Grade
+    grades = Grade.objects.filter(number__in=[9, 10, 11, 12]).order_by('number')
+    hierarchy = {}
+
+    for g in grades:
+        g_data = {
+            'number': g.number,
+            'label': g.label,
+            'has_streams': g.number in [11, 12],
+            'subjects': [],
+            'streams': {
+                'Natural_Science': [],
+                'Social_Science': []
+            }
+        }
+
+        # Exclude Amharic, HPE, and Arts from core study prompt
+        subjects = g.subjects.exclude(
+            name__in=['Amharic', 'Health and Physical Education', 'Performing and Visual Art']
+        ).order_by('name')
+
+        for sub in subjects:
+            tb = sub.textbooks.filter(curriculum_type='new', is_available=True).first()
+            if not tb:
+                tb = sub.textbooks.filter(is_available=True).first()
+            if not tb:
+                continue
+
+            chapters = [
+                {
+                    'id': ch.pk,
+                    'number': ch.number,
+                    'title': ch.title,
+                    'pages': f"pp. {ch.page_start}–{ch.page_end}" if ch.page_end > 0 else ""
+                }
+                for ch in tb.chapter_list.order_by('number')
+            ]
+
+            sub_info = {
+                'id': sub.pk,
+                'name': sub.name,
+                'icon': sub.icon,
+                'color': sub.color,
+                'textbook_id': tb.pk,
+                'textbook_title': tb.title,
+                'chapters_count': len(chapters),
+                'chapters': chapters
+            }
+
+            g_data['subjects'].append(sub_info)
+
+            if g.number in [11, 12]:
+                s_lower = sub.name.lower()
+                if s_lower in NATURAL_SCIENCE_SUBJECTS:
+                    g_data['streams']['Natural_Science'].append(sub_info)
+                if s_lower in SOCIAL_SCIENCE_SUBJECTS:
+                    g_data['streams']['Social_Science'].append(sub_info)
+
+        hierarchy[str(g.number)] = g_data
+
+    return hierarchy
+
+
 @login_required
 def study_setup(request):
-    """Step 1: Choose textbook, chapter, and duration."""
+    """Step 1: Progressive study setup (Class/Grade -> Stream -> Subject -> Chapter)."""
     textbook_id = request.GET.get('textbook')
     selected_textbook = None
     if textbook_id:
@@ -25,11 +101,13 @@ def study_setup(request):
     if request.method == 'POST':
         tb_id = request.POST.get('textbook_id')
         chapter_id = request.POST.get('chapter_id') or None
+        stream = request.POST.get('stream', '').strip()
         duration = int(request.POST.get('duration', 25))
         textbook = get_object_or_404(Textbook, pk=tb_id)
         chapter = None
         if chapter_id:
             chapter = get_object_or_404(Chapter, pk=chapter_id, textbook=textbook)
+
         session = StudySession.objects.create(
             user=request.user,
             textbook=textbook,
@@ -37,23 +115,33 @@ def study_setup(request):
             planned_duration=duration,
             status='active',
         )
-        
-        if chapter:
-            import os
-            subject_name = textbook.subject.name
-            grade_num = textbook.grade.number
-            chap_num = chapter.number
-            filepath = os.path.join(settings.BASE_DIR, 'Books', 'Notes', f"{subject_name}_Grade_{grade_num}", f"Chapter_{chap_num}.txt")
-            if os.path.exists(filepath):
+
+        # Smart note resolver: find corresponding Chapter note file in Books/Notes/
+        subject_slug = textbook.subject.slug.replace('-', '_')
+        grade_num = textbook.grade.number
+        chap_num = chapter.number if chapter else 1
+
+        candidate_paths = [
+            os.path.join(settings.BASE_DIR, 'Books', 'Notes', f"Grade_{grade_num}", stream, subject_slug, f"Chapter_{chap_num}.txt"),
+            os.path.join(settings.BASE_DIR, 'Books', 'Notes', f"Grade_{grade_num}", subject_slug, f"Chapter_{chap_num}.txt"),
+            os.path.join(settings.BASE_DIR, 'Books', 'Notes', f"Grade_{grade_num}", 'Natural_Science', subject_slug, f"Chapter_{chap_num}.txt"),
+            os.path.join(settings.BASE_DIR, 'Books', 'Notes', f"Grade_{grade_num}", 'Social_Science', subject_slug, f"Chapter_{chap_num}.txt"),
+            os.path.join(settings.BASE_DIR, 'Books', 'Notes', f"{textbook.subject.name}_Grade_{grade_num}", f"Chapter_{chap_num}.txt"),
+        ]
+
+        for cp in candidate_paths:
+            if os.path.exists(cp):
                 try:
-                    with open(filepath, 'r', encoding='utf-8') as f:
+                    with open(cp, 'r', encoding='utf-8') as f:
                         session.notes = f.read()
                     session.save()
+                    break
                 except Exception:
                     pass
 
         return redirect('study:session', session_id=session.pk)
 
+    hierarchy = get_study_hierarchy()
     all_textbooks = Textbook.objects.filter(is_available=True).select_related(
         'subject', 'grade'
     ).prefetch_related('chapter_list').order_by('grade__number', 'subject__name')
@@ -62,6 +150,7 @@ def study_setup(request):
         'all_textbooks': all_textbooks,
         'selected_textbook': selected_textbook,
         'recent_sessions': recent_sessions,
+        'hierarchy_json': json.dumps(hierarchy),
     })
 
 
