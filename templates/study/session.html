@@ -457,28 +457,33 @@
       </div>
     </div>
 
-    <!-- Content / PDF viewer -->
-    <div class="focus-content">
-      {% if session.textbook.pdf_file %}
-        <iframe src="{{ session.textbook.pdf_file.url }}" class="pdf-viewer" title="{{ session.textbook.title }}"></iframe>
-      {% else %}
-        <div class="no-pdf-placeholder">
-          <div style="font-size:64px; margin-bottom:20px;">{{ session.textbook.subject.icon }}</div>
-          <h2 style="font-size:22px; color:var(--text); margin-bottom:12px;">{{ session.textbook.title }}</h2>
-          <p class="text-muted" style="margin-bottom:24px; max-width:400px; line-height:1.6;">
-            The PDF for this textbook hasn't been uploaded yet. Use the link below to read it on kehulum.com, or upload it via the admin panel.
-          </p>
-          {% if session.textbook.kehulum_url %}
-          <a href="{{ session.textbook.kehulum_url }}" target="_blank" rel="noopener" class="btn btn-primary btn-lg">
-            📖 Open on Kehulum.com →
-          </a>
-          {% endif %}
-          <div style="margin-top:24px; padding:16px; background:var(--bg-secondary); border-radius:12px; max-width:500px;">
-            <div class="text-sm font-bold" style="margin-bottom:8px;"><i data-lucide="notebook-pen"></i> Study Notes</div>
-            <p class="text-xs text-muted">Use the notes panel on the left to write down key concepts, formulas, and questions as you read. Your notes are saved with this session.</p>
-          </div>
+    <!-- Content / Notes viewer (Sketch Layout) -->
+    <div class="focus-content" style="display:flex; gap:40px; padding:40px;">
+      
+      <!-- Notes Area -->
+      <div class="notes-area" style="flex:1; background:var(--bg-card); border:1px solid var(--border); border-radius:16px; box-shadow:var(--shadow); display:flex; flex-direction:column; padding:40px;">
+        <div class="notes-header" style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px; border-bottom:1px solid var(--border); padding-bottom:20px;">
+          <input type="text" class="notes-title" placeholder="Notes Title" value="{{ session.chapter.title|default:session.textbook.title }}" style="font-family:'Playfair Display',serif; font-size:32px; font-weight:700; color:var(--text); background:transparent; border:none; outline:none; flex:1;">
+          <div style="color:var(--text-muted); font-size:12px;">Pre-loaded Notes</div>
         </div>
-      {% endif %}
+        <textarea id="sessionNotes" class="notes-content" placeholder="Start typing your notes here..." style="flex:1; background:transparent; border:none; outline:none; resize:none; color:var(--text); font-size:16px; line-height:1.8; font-family:'Inter',sans-serif;" onchange="saveNotes()">{{ session.notes }}</textarea>
+      </div>
+
+      <!-- Right Options -->
+      <div class="right-options" style="display:flex; flex-direction:column; justify-content:center; gap:24px; width:220px;">
+        <button class="focus-action-btn" style="text-align:left; justify-content:flex-start; padding:12px; display:flex; align-items:center; gap:12px; flex-direction:row;">
+          <span style="color:var(--text-muted); font-weight:bold;">→</span> Only one Chapter
+        </button>
+        <button class="focus-action-btn" style="text-align:left; justify-content:flex-start; padding:12px; display:flex; align-items:center; gap:12px; flex-direction:row;">
+          <span style="color:var(--text-muted); font-weight:bold;">→</span> With Emoji
+        </button>
+        <button class="focus-action-btn" style="text-align:left; justify-content:flex-start; padding:12px; display:flex; align-items:center; gap:12px; flex-direction:row;">
+          <span style="color:var(--text-muted); font-weight:bold;">→</span> Exactly the Notes
+        </button>
+        <button class="focus-action-btn" style="text-align:left; justify-content:flex-start; padding:12px; display:flex; align-items:center; gap:12px; flex-direction:row;">
+          <span style="color:var(--text-muted); font-weight:bold;">→</span> Add Jokes
+        </button>
+      </div>
     </div>
 
     <!-- ── Bottom Bar (from sketch) ──────────────────────────── -->

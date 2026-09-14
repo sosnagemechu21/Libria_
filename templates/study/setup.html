@@ -128,10 +128,39 @@ function setDuration(mins) {
   document.querySelectorAll(`.duration-btn[data-mins="${mins}"]`).forEach(b => b.classList.add('selected'));
 }
 
+const chaptersData = {
+  {% for group in all_textbooks|dictsort:"grade.number" %}{# Just iterating over all_textbooks would require a flat list, wait... all_textbooks is flat before regroup #}{% endfor %}
+};
+
+// A better way to write out chaptersData without breaking Django template syntax:
+const chaptersData2 = {
+  {% for book in all_textbooks %}
+  "{{ book.pk }}": [
+    {% for chapter in book.chapter_list.all %}
+    { "id": "{{ chapter.pk }}", "title": "Chapter {{ chapter.number }} - {{ chapter.title|escapejs }}" },
+    {% endfor %}
+  ],
+  {% endfor %}
+};
+
 async function loadChapters(textbookId) {
+  const chapterSelect = document.getElementById('chapterSelect');
+  chapterSelect.innerHTML = '<option value="">— Whole book —</option>';
+  
   if (!textbookId) { document.getElementById('chapterGroup').style.display='none'; return; }
-  // Simple: show the chapter dropdown (chapters loaded via inline link for now)
-  document.getElementById('chapterGroup').style.display = 'block';
+  
+  const chapters = chaptersData2[textbookId] || [];
+  if (chapters.length > 0) {
+    document.getElementById('chapterGroup').style.display = 'block';
+    chapters.forEach(ch => {
+      const opt = document.createElement('option');
+      opt.value = ch.id;
+      opt.textContent = ch.title;
+      chapterSelect.appendChild(opt);
+    });
+  } else {
+    document.getElementById('chapterGroup').style.display = 'none';
+  }
 }
 
 // Pre-select 25m

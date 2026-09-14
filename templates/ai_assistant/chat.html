@@ -16,78 +16,269 @@
       height: 100vh;
       overflow: hidden;
       display: flex;
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
     }
 
-    .chat-layout {
+    /* New Layout */
+    .layout-wrapper {
       display: flex;
+      flex-direction: column;
       width: 100%;
       height: 100vh;
     }
 
-    /* Sidebar */
-    .chat-sidebar {
-      width: 240px;
-      background: var(--bg-sidebar);
-      border-right: 1px solid var(--border);
+    /* Header */
+    .top-header {
       display: flex;
-      flex-direction: column;
-      padding: 0;
+      justify-content: space-between;
+      padding: 24px 40px;
+      align-items: center;
       flex-shrink: 0;
     }
 
-    .chat-sidebar-header {
-      padding: 16px;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .chat-sidebar-header .logo {
-      font-family: 'Playfair Display', serif;
-      font-size: 20px;
+    .pill-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 10px 20px;
       color: var(--text);
-      font-weight: 700;
-    }
-
-    .chat-sidebar-nav {
-      padding: 12px;
-      flex: 1;
-      overflow-y: auto;
-    }
-
-    .chat-nav-item {
-      padding: 10px 12px;
-      border-radius: 10px;
-      color: var(--text-muted);
-      font-size: 13px;
-      display: block;
-      margin-bottom: 4px;
+      font-size: 15px;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
       transition: all 0.2s;
     }
 
-    .chat-nav-item:hover,
-    .chat-nav-item.active {
+    .pill-btn:hover {
       background: var(--accent-glow);
+      border-color: var(--accent);
       color: var(--accent);
-      text-decoration: none;
     }
 
-    /* Main chat */
-    .chat-main {
+    /* Main Workspace */
+    .workspace-container {
+      display: flex;
       flex: 1;
+      padding: 0 40px 40px;
+      gap: 40px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Left Tools */
+    .left-tools {
       display: flex;
       flex-direction: column;
-      overflow: hidden;
+      justify-content: flex-end;
+      gap: 16px;
+      width: 140px;
+      padding-bottom: 20px;
     }
 
-    .chat-header {
-      padding: 14px 20px;
+    .tool-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 16px;
+      text-align: center;
+      color: var(--text);
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+    .tool-btn i {
+      font-size: 24px;
+      color: var(--text-muted);
+    }
+    .tool-btn:hover {
+      border-color: var(--accent);
+      background: var(--accent-glow);
+      color: var(--accent);
+    }
+    .tool-btn:hover i {
+      color: var(--accent);
+    }
+
+    /* Notes Area */
+    .notes-area {
+      flex: 1;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+      display: flex;
+      flex-direction: column;
+      padding: 40px;
+      position: relative;
+    }
+
+    .notes-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
       border-bottom: 1px solid var(--border);
-      background: var(--bg);
+      padding-bottom: 20px;
+    }
+
+    .notes-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px;
+      color: var(--text);
+      background: transparent;
+      border: none;
+      outline: none;
+      flex: 1;
+      font-weight: 700;
+    }
+
+    .notes-content {
+      flex: 1;
+      background: transparent;
+      border: none;
+      outline: none;
+      resize: none;
+      color: var(--text);
+      font-size: 16px;
+      line-height: 1.8;
+      font-family: 'Inter', sans-serif;
+    }
+    .notes-content::placeholder {
+      color: var(--text-muted);
+    }
+
+    /* Right Options */
+    .right-options {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 24px;
+      width: 220px;
+      position: relative;
+    }
+
+    .option-btn {
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-size: 15px;
+      font-weight: 500;
+      text-align: left;
       display: flex;
       align-items: center;
       gap: 12px;
-      flex-shrink: 0;
+      cursor: pointer;
+      transition: all 0.2s;
+      padding: 8px;
+      border-radius: 8px;
+    }
+    .option-btn:hover {
+      color: var(--accent);
+      background: var(--accent-glow);
+    }
+    .option-arrow {
+      color: var(--text-muted);
+      font-weight: bold;
     }
 
+    /* Footer / Info area */
+    .bottom-nav {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+    .bottom-nav span {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    /* AI Assistant Floating Button */
+    .ai-fab {
+      position: fixed;
+      bottom: 40px;
+      right: 40px;
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: white;
+      border: none;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: transform 0.2s, box-shadow 0.2s;
+      z-index: 1000;
+    }
+    .ai-fab:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+    }
+
+    /* Chat Overlay (Drawer) */
+    .chat-drawer {
+      position: fixed;
+      top: 0;
+      right: -420px;
+      width: 400px;
+      height: 100vh;
+      background: var(--bg);
+      border-left: 1px solid var(--border);
+      box-shadow: -5px 0 25px rgba(0,0,0,0.1);
+      transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      display: flex;
+      flex-direction: column;
+      z-index: 999;
+    }
+    .chat-drawer.open {
+      right: 0;
+    }
+
+    /* Chat Inner Styles */
+    .chat-header {
+      padding: 20px;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg-sidebar);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+    }
+    .chat-header-info {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .chat-close {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      padding: 4px;
+      border-radius: 6px;
+    }
+    .chat-close:hover {
+      color: var(--text);
+      background: var(--accent-glow);
+    }
     .chat-subject-icon {
       width: 36px;
       height: 36px;
@@ -98,18 +289,15 @@
       justify-content: center;
       font-size: 18px;
     }
-
     .chat-title {
       font-weight: 700;
       font-size: 15px;
       color: var(--text);
     }
-
     .chat-subtitle {
       font-size: 11px;
       color: var(--text-muted);
     }
-
     .chat-messages {
       flex: 1;
       overflow-y: auto;
@@ -118,18 +306,15 @@
       flex-direction: column;
       gap: 16px;
     }
-
     .msg {
       display: flex;
       gap: 10px;
-      max-width: 85%;
+      max-width: 90%;
     }
-
     .msg.user {
       align-self: flex-end;
       flex-direction: row-reverse;
     }
-
     .msg-avatar {
       width: 32px;
       height: 32px;
@@ -141,12 +326,10 @@
       flex-shrink: 0;
       background: var(--accent-glow);
     }
-
     .msg.user .msg-avatar {
       background: var(--accent);
       color: #fff;
     }
-
     .msg-bubble {
       padding: 12px 16px;
       border-radius: 14px;
@@ -156,46 +339,39 @@
       background: var(--bg-card);
       color: var(--text);
     }
-
     .msg.user .msg-bubble {
       background: var(--accent);
       color: #fff;
       border-color: var(--accent);
       border-radius: 14px 14px 4px 14px;
     }
-
     .msg.assistant .msg-bubble {
       border-radius: 14px 14px 14px 4px;
     }
-
     .msg-time {
       font-size: 10px;
       color: var(--text-faint);
       margin-top: 4px;
       text-align: right;
     }
-
     .chat-input-area {
       padding: 16px 20px;
       border-top: 1px solid var(--border);
-      background: var(--bg);
+      background: var(--bg-sidebar);
       flex-shrink: 0;
     }
-
     .chat-input-wrap {
       display: flex;
       gap: 10px;
       align-items: flex-end;
-      background: var(--bg-secondary);
+      background: var(--bg);
       border: 1px solid var(--border);
       border-radius: 14px;
       padding: 10px 14px;
     }
-
     .chat-input-wrap:focus-within {
       border-color: var(--accent);
     }
-
     #msgInput {
       flex: 1;
       background: none;
@@ -208,11 +384,9 @@
       max-height: 120px;
       min-height: 24px;
     }
-
     #msgInput::placeholder {
       color: var(--text-faint);
     }
-
     .send-btn {
       background: var(--accent);
       border: none;
@@ -228,23 +402,19 @@
       transition: all 0.2s;
       flex-shrink: 0;
     }
-
     .send-btn:hover {
       transform: scale(1.05);
     }
-
     .typing-indicator {
       display: none;
       align-self: flex-start;
     }
-
     .typing-indicator .msg-bubble {
       display: flex;
       gap: 4px;
       align-items: center;
       padding: 12px 16px;
     }
-
     .typing-dot {
       width: 7px;
       height: 7px;
@@ -252,45 +422,24 @@
       background: var(--text-muted);
       animation: typingBounce 1s infinite;
     }
-
     .typing-dot:nth-child(2) {
       animation-delay: 0.15s;
     }
-
     .typing-dot:nth-child(3) {
       animation-delay: 0.3s;
     }
-
     @keyframes typingBounce {
-
-      0%,
-      100% {
-        transform: translateY(0)
-      }
-
-      50% {
-        transform: translateY(-5px)
-      }
+      0%, 100% { transform: translateY(0) }
+      50% { transform: translateY(-5px) }
     }
-
-    @media(max-width:768px) {
-      .chat-sidebar {
-        display: none;
-      }
-
-      .chat-messages {
-        padding: 14px;
-      }
-
-      .msg {
-        max-width: 92%;
-      }
-
-      .chat-input-area {
-        padding: 12px;
-      }
+    .theme-picker {
+      position: absolute;
+      top: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 6px;
     }
-
     .send-btn:disabled {
       cursor: not-allowed;
       transform: none;
@@ -299,48 +448,110 @@
 </head>
 
 <body>
-  <div class="chat-layout">
-    <!-- Sidebar -->
-    <div class="chat-sidebar">
-      <div class="chat-sidebar-header">
-        <div class="logo"><i data-lucide="book-open"></i> Libria</div>
-        <div style="font-size:11px;color:var(--text-faint);margin-top:2px;">AI Study Assistant</div>
+  <div class="layout-wrapper">
+    <!-- Theme Picker Centered Top -->
+    <div class="theme-picker">
+      {% for key, name in themes %}
+      <div class="theme-dot {% if current_theme == key %}active{% endif %}" data-theme-target="{{ key }}"
+        onclick="switchTheme('{{ key }}')"
+        style="width:24px;height:24px;border-radius:50%;cursor:pointer;border:2px solid transparent;transition:all 0.2s;">
       </div>
-      <div class="chat-sidebar-nav">
-        <a href="{% url 'progress:dashboard' %}" class="chat-nav-item"><i data-lucide="home"></i> Dashboard</a>
-        <a href="{% url 'library:home' %}" class="chat-nav-item"><i data-lucide="book-open"></i> Library</a>
-        <a href="{% url 'ai_assistant:new' %}" class="chat-nav-item"
-          style="background:var(--accent-glow);color:var(--accent);">+ New Chat</a>
-        <div
-          style="margin-top:16px;margin-bottom:8px;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--text-faint);padding:0 12px;">
-          Recent Chats</div>
-      </div>
-      <div style="padding:12px;border-top:1px solid var(--border);">
-        <div style="display:flex;gap:6px;flex-wrap:wrap;">
-          {% for key, name in themes %}
-          <div class="theme-dot {% if current_theme == key %}active{% endif %}" data-theme-target="{{ key }}"
-            onclick="switchTheme('{{ key }}')"
-            style="width:20px;height:20px;border-radius:50%;cursor:pointer;border:2px solid transparent;transition:all 0.2s;">
-          </div>
-          {% endfor %}
-        </div>
+      {% endfor %}
+    </div>
+
+    <!-- Top Bar -->
+    <div class="top-header">
+      <a href="{% url 'progress:dashboard' %}" class="pill-btn">
+        <i data-lucide="arrow-left"></i> Dashboard
+      </a>
+      <div style="display:flex; gap: 16px;">
+        <button class="pill-btn"><i data-lucide="clock"></i> Timer</button>
+        <button class="pill-btn"><i data-lucide="highlighter"></i> Highlighter</button>
       </div>
     </div>
 
-    <!-- Main chat area -->
-    <div class="chat-main">
-      <div class="chat-header">
-        <div class="chat-subject-icon">
-          {% if conversation.textbook %}{{ conversation.textbook.subject.icon }}{% else %}<i data-lucide="bot"></i>{%
-          endif %}
+    <!-- Main Workspace -->
+    <div class="workspace-container">
+      
+      <!-- Left Controls -->
+      <div class="left-tools">
+        <button class="tool-btn">
+          <i data-lucide="music"></i>
+          Music Upload
+        </button>
+        <button class="tool-btn">
+          <i data-lucide="focus"></i>
+          Focus Loop
+        </button>
+      </div>
+
+      <!-- Notes Area -->
+      <div class="notes-area">
+        <div class="notes-header">
+          <input type="text" class="notes-title" placeholder="Notes Title" value="{{ conversation.title }}">
+          <div style="color:var(--text-muted); font-size:12px;">Last edited just now</div>
         </div>
-        <div>
-          <div class="chat-title">{{ conversation.title }}</div>
-          <div class="chat-subtitle">
-            {% if conversation.textbook %}{{ conversation.textbook.title|truncatechars:50 }}{% else %}General study
-            help{% endif %}
+        <textarea class="notes-content" placeholder="Start typing your notes here..."></textarea>
+      </div>
+
+      <!-- Right Options -->
+      <div class="right-options">
+        <button class="option-btn">
+          <span class="option-arrow">→</span>
+          Only one Chapter
+        </button>
+        <button class="option-btn">
+          <span class="option-arrow">→</span>
+          With Emoji
+        </button>
+        <button class="option-btn">
+          <span class="option-arrow">→</span>
+          Exactly the Notes
+        </button>
+        <button class="option-btn">
+          <span class="option-arrow">→</span>
+          Add Jokes
+        </button>
+      </div>
+
+      <!-- Bottom Status -->
+      <div class="bottom-nav">
+        <span><i data-lucide="clock" style="width:14px;height:14px;"></i> Timer Ender</span>
+        <span>→</span>
+        <span><i data-lucide="coffee" style="width:14px;height:14px;"></i> Break</span>
+        <span>→</span>
+        <span><i data-lucide="alert-circle" style="width:14px;height:14px;"></i> Warning</span>
+        <span>→</span>
+        <span><i data-lucide="book" style="width:14px;height:14px;"></i> Read Books</span>
+        <span>→</span>
+        <span><i data-lucide="video" style="width:14px;height:14px;"></i> Watch Videos</span>
+        <span>→</span>
+        <span><i data-lucide="refresh-cw" style="width:14px;height:14px;"></i> Focus Loop</span>
+      </div>
+    </div>
+
+    <!-- AI Assistant Floating Button -->
+    <button class="ai-fab" onclick="toggleChat()" title="AI Assistant">
+      <i data-lucide="bot" style="width:32px;height:32px;"></i>
+    </button>
+
+    <!-- Chat Drawer -->
+    <div class="chat-drawer" id="chatDrawer">
+      <div class="chat-header">
+        <div class="chat-header-info">
+          <div class="chat-subject-icon">
+            {% if conversation.textbook %}{{ conversation.textbook.subject.icon }}{% else %}<i data-lucide="bot"></i>{% endif %}
+          </div>
+          <div>
+            <div class="chat-title">{{ conversation.title }}</div>
+            <div class="chat-subtitle">
+              {% if conversation.textbook %}{{ conversation.textbook.title|truncatechars:50 }}{% else %}General study help{% endif %}
+            </div>
           </div>
         </div>
+        <button class="chat-close" onclick="toggleChat()">
+          <i data-lucide="x"></i>
+        </button>
       </div>
 
       <div class="chat-messages" id="chatMessages">
@@ -349,8 +560,7 @@
           <div class="msg-avatar"><i data-lucide="bot"></i></div>
           <div>
             <div class="msg-bubble">
-              <i data-lucide="hand"></i> Hi {{ user.profile.get_display_name }}! I'm your Libria study
-              companion.<br><br>
+              <i data-lucide="hand"></i> Hi {{ user.profile.get_display_name }}! I'm your Libria study companion.<br><br>
               {% if conversation.textbook %}
               I'm here to help you study <strong>{{ conversation.textbook.subject.name }}</strong>.
               Ask me to explain a concept, work through a problem, or quiz you on what you've read.
@@ -358,8 +568,7 @@
               Ask me anything about your studies — concepts, formulas, problems, or explanations.
               {% endif %}
               <br><br>
-              <em style="font-size:12px;opacity:0.8;"><i data-lucide="lightbulb"></i> I guide your thinking, I don't
-                just give answers.</em>
+              <em style="font-size:12px;opacity:0.8;"><i data-lucide="lightbulb"></i> I guide your thinking, I don't just give answers.</em>
             </div>
           </div>
         </div>
@@ -367,8 +576,7 @@
         <!-- Existing messages -->
         {% for msg in messages %}
         <div class="msg {{ msg.role }}">
-          <div class="msg-avatar">{% if msg.role == 'user' %}<i data-lucide="user"></i>{% else %}<i
-              data-lucide="bot"></i>{% endif %}</div>
+          <div class="msg-avatar">{% if msg.role == 'user' %}<i data-lucide="user"></i>{% else %}<i data-lucide="bot"></i>{% endif %}</div>
           <div>
             <div class="msg-bubble">{{ msg.content|linebreaksbr }}</div>
             <div class="msg-time">{{ msg.timestamp|date:"H:i" }}</div>
@@ -389,14 +597,11 @@
 
       <div class="chat-input-area">
         <div style="display:flex;gap:12px;margin-bottom:8px;flex-wrap:wrap;">
-          <button class="btn btn-ghost btn-sm" onclick="sendQuick('Can you explain this concept step by step?')">Explain
-            step by step</button>
-          <button class="btn btn-ghost btn-sm" onclick="sendQuick('Give me a practice problem on this topic')">Practice
-            problem</button>
-          <button class="btn btn-ghost btn-sm" onclick="sendQuick('Quiz me on what I should know')">Quiz me</button>
+          <button class="btn btn-ghost btn-sm" onclick="sendQuick('Explain this concept step by step')">Explain</button>
+          <button class="btn btn-ghost btn-sm" onclick="sendQuick('Quiz me on this')">Quiz me</button>
         </div>
         <div class="chat-input-wrap">
-          <textarea id="msgInput" placeholder="Ask about your textbook, request explanations, or say 'quiz me'..."
+          <textarea id="msgInput" placeholder="Ask about your notes..."
             rows="1"
             onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();sendMessage();}"></textarea>
           <button class="send-btn" onclick="sendMessage()">↑</button>
@@ -411,6 +616,14 @@
     const CSRF_TOKEN = '{{ csrf_token }}';
     const CONV_ID = document.body.dataset.conversationId;
 
+    function toggleChat() {
+      const drawer = document.getElementById('chatDrawer');
+      drawer.classList.toggle('open');
+      if(drawer.classList.contains('open')) {
+        scrollToBottom();
+      }
+    }
+
     function scrollToBottom() {
       const el = document.getElementById('chatMessages');
       if (el) el.scrollTop = el.scrollHeight;
@@ -423,7 +636,6 @@
     }
 
     function formatMessage(content) {
-      // Escape first so AI/user content cannot inject HTML or JavaScript.
       return escapeHtml(content)
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
         .replace(/(^|[^\*])\*(?!\s)(.*?)(?<!\s)\*/g, '$1<em>$2</em>')
@@ -528,19 +740,16 @@
 
       msgs.insertBefore(div, typing);
 
-      // Render the newly-added Lucide icon.
       if (window.lucide) {
         window.lucide.createIcons();
       }
     }
 
-    // Auto-resize textarea.
     document.getElementById('msgInput').addEventListener('input', function () {
       this.style.height = 'auto';
       this.style.height = Math.min(this.scrollHeight, 120) + 'px';
     });
 
-    // Render all server-side Lucide icons after the DOM is ready.
     document.addEventListener('DOMContentLoaded', () => {
       if (window.lucide) {
         window.lucide.createIcons();

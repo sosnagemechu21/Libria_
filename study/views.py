@@ -37,11 +37,26 @@ def study_setup(request):
             planned_duration=duration,
             status='active',
         )
+        
+        if chapter:
+            import os
+            subject_name = textbook.subject.name
+            grade_num = textbook.grade.number
+            chap_num = chapter.number
+            filepath = os.path.join(settings.BASE_DIR, 'Books', 'Notes', f"{subject_name}_Grade_{grade_num}", f"Chapter_{chap_num}.txt")
+            if os.path.exists(filepath):
+                try:
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        session.notes = f.read()
+                    session.save()
+                except Exception:
+                    pass
+
         return redirect('study:session', session_id=session.pk)
 
     all_textbooks = Textbook.objects.filter(is_available=True).select_related(
         'subject', 'grade'
-    ).order_by('grade__number', 'subject__name')
+    ).prefetch_related('chapter_list').order_by('grade__number', 'subject__name')
 
     return render(request, 'study/setup.html', {
         'all_textbooks': all_textbooks,
